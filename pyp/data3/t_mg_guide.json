@@ -1,0 +1,2460 @@
+
+[
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 1,
+		"step" : 1,
+		"taskCode" : 300005,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 2,
+		"step" : 1,
+		"taskCode" : 300006,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 3,
+		"step" : 1,
+		"taskCode" : 300007,
+		"taskStatus" : 1,
+		"tip" : "点击挑战关卡"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 4,
+		"step" : 2,
+		"taskCode" : 300007,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"guideType" : 2,
+		"id" : 5,
+		"step" : 1,
+		"taskCode" : 300008,
+		"taskStatus" : 1,
+		"tip" : "激活九霄碎片"
+	},
+	
+	{
+		"direction" : 1,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 6,
+		"step" : 2,
+		"target" : "GodWeaponPanel#Piece1",
+		"taskCode" : 300008,
+		"taskStatus" : 1,
+		"tip" : "激活神器碎片"
+	},
+	
+	{
+		"direction" : 3,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 7,
+		"step" : 1,
+		"target" : "Navbar#ReturnBtn",
+		"taskCode" : 300008,
+		"taskStatus" : 2,
+		"tip" : "返回战斗场景"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 8,
+		"step" : 2,
+		"taskCode" : 300008,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 9,
+		"step" : 1,
+		"taskCode" : 300009,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 10,
+		"step" : 1,
+		"taskCode" : 300010,
+		"taskStatus" : 1,
+		"tip" : "点击挑战关卡"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 11,
+		"step" : 2,
+		"taskCode" : 300010,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"guideType" : 2,
+		"id" : 12,
+		"step" : 1,
+		"taskCode" : 300013,
+		"taskStatus" : 1,
+		"tip" : "激活九霄秘法"
+	},
+	
+	{
+		"direction" : 3,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 13,
+		"step" : 2,
+		"target" : "GodWeaponPanel#ActiveBtn",
+		"taskCode" : 300013,
+		"taskStatus" : 1,
+		"tip" : "激活九霄秘法"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 14,
+		"step" : 1,
+		"taskCode" : 300013,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 15,
+		"step" : 1,
+		"taskCode" : 300014,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 16,
+		"step" : 1,
+		"taskCode" : 300015,
+		"taskStatus" : 1,
+		"tip" : "点击挑战关卡"
+	},
+	
+	{
+		"direction" : 3,
+		"extData" : "{\"delay\": 2000}",
+		"guideType" : 4,
+		"id" : 17,
+		"step" : 2,
+		"taskCode" : 300015,
+		"taskStatus" : 1,
+		"tip" : "点击释放天怒"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 18,
+		"step" : 1,
+		"taskCode" : 300015,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 4,
+		"id" : 19,
+		"step" : 1,
+		"taskCode" : 300024,
+		"taskStatus" : 1,
+		"tip" : "点击释放天怒"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 20,
+		"step" : 1,
+		"taskCode" : 300024,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 21,
+		"step" : 1,
+		"taskCode" : 300025,
+		"taskStatus" : 1,
+		"tip" : "点击挑战关卡"
+	},
+	
+	{
+		"direction" : 3,
+		"extData" : "{\"delay\": 2000}",
+		"guideType" : 4,
+		"id" : 22,
+		"step" : 2,
+		"taskCode" : 300025,
+		"taskStatus" : 1,
+		"tip" : "点击释放天怒"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 23,
+		"step" : 1,
+		"taskCode" : 300025,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 24,
+		"step" : 1,
+		"taskCode" : 300027,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 25,
+		"step" : 1,
+		"taskCode" : 300028,
+		"taskStatus" : 1,
+		"tip" : "点击挑战关卡"
+	},
+	
+	{
+		"direction" : 3,
+		"extData" : "{\"delay\": 2000}",
+		"guideType" : 4,
+		"id" : 26,
+		"step" : 2,
+		"taskCode" : 300028,
+		"taskStatus" : 1,
+		"tip" : "点击释放天怒"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 27,
+		"step" : 1,
+		"taskCode" : 300028,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 28,
+		"step" : 1,
+		"taskCode" : 300029,
+		"taskStatus" : 1,
+		"tip" : "点击升级技能"
+	},
+	
+	{
+		"direction" : 3,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 29,
+		"step" : 2,
+		"target" : "SkillPanel#UpgradeAllBtn",
+		"taskCode" : 300029,
+		"taskStatus" : 1,
+		"tip" : "升级技能"
+	},
+	
+	{
+		"direction" : 3,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 30,
+		"step" : 1,
+		"target" : "Navbar#ReturnBtn",
+		"taskCode" : 300029,
+		"taskStatus" : 2,
+		"tip" : "返回战斗场景"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 31,
+		"step" : 2,
+		"taskCode" : 300029,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 32,
+		"step" : 1,
+		"taskCode" : 300030,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 33,
+		"step" : 1,
+		"taskCode" : 300031,
+		"taskStatus" : 1,
+		"tip" : "点击挑战关卡"
+	},
+	
+	{
+		"direction" : 3,
+		"extData" : "{\"delay\": 2000}",
+		"guideType" : 4,
+		"id" : 34,
+		"step" : 2,
+		"taskCode" : 300031,
+		"taskStatus" : 1,
+		"tip" : "点击释放天怒"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 35,
+		"step" : 1,
+		"taskCode" : 300031,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"guideType" : 2,
+		"id" : 36,
+		"step" : 1,
+		"taskCode" : 309040,
+		"taskStatus" : 1,
+		"tip" : "激活双生碎片"
+	},
+	
+	{
+		"direction" : 1,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 37,
+		"step" : 2,
+		"target" : "GodWeaponPanel#Piece1",
+		"taskCode" : 309040,
+		"taskStatus" : 1,
+		"tip" : "激活双生碎片"
+	},
+	
+	{
+		"direction" : 3,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 38,
+		"step" : 1,
+		"target" : "Navbar#ReturnBtn",
+		"taskCode" : 309040,
+		"taskStatus" : 2,
+		"tip" : "返回战斗场景"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 39,
+		"step" : 2,
+		"taskCode" : 309040,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 40,
+		"step" : 1,
+		"taskCode" : 300034,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 41,
+		"step" : 1,
+		"taskCode" : 300035,
+		"taskStatus" : 1,
+		"tip" : "点击挑战关卡"
+	},
+	
+	{
+		"direction" : 3,
+		"extData" : "{\"delay\": 2000}",
+		"guideType" : 4,
+		"id" : 42,
+		"step" : 2,
+		"taskCode" : 300035,
+		"taskStatus" : 1,
+		"tip" : "点击释放天怒"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 43,
+		"step" : 1,
+		"taskCode" : 300035,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 44,
+		"step" : 1,
+		"taskCode" : 300038,
+		"taskStatus" : 1,
+		"tip" : "点击任务"
+	},
+	
+	{
+		"direction" : 4,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 45,
+		"step" : 2,
+		"target" : "InnerPowerPanel#UpgradeBtn",
+		"taskCode" : 300038,
+		"taskStatus" : 1,
+		"tip" : "第1次修炼"
+	},
+	
+	{
+		"direction" : 4,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 46,
+		"step" : 3,
+		"target" : "InnerPowerPanel#UpgradeBtn",
+		"taskCode" : 300038,
+		"taskStatus" : 1,
+		"tip" : "第2次修炼"
+	},
+	
+	{
+		"direction" : 4,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 47,
+		"step" : 4,
+		"target" : "InnerPowerPanel#UpgradeBtn",
+		"taskCode" : 300038,
+		"taskStatus" : 1,
+		"tip" : "第3次修炼"
+	},
+	
+	{
+		"direction" : 4,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 48,
+		"step" : 5,
+		"target" : "InnerPowerPanel#UpgradeBtn",
+		"taskCode" : 300038,
+		"taskStatus" : 1,
+		"tip" : "第4次修炼"
+	},
+	
+	{
+		"direction" : 4,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 49,
+		"step" : 6,
+		"target" : "InnerPowerPanel#UpgradeBtn",
+		"taskCode" : 300038,
+		"taskStatus" : 1,
+		"tip" : "第5次修炼"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 50,
+		"step" : 1,
+		"taskCode" : 300038,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 51,
+		"step" : 1,
+		"taskCode" : 300036,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 52,
+		"step" : 1,
+		"taskCode" : 300037,
+		"taskStatus" : 1,
+		"tip" : "点击挑战关卡"
+	},
+	
+	{
+		"direction" : 3,
+		"extData" : "{\"delay\": 2000}",
+		"guideType" : 4,
+		"id" : 53,
+		"step" : 2,
+		"taskCode" : 300037,
+		"taskStatus" : 1,
+		"tip" : "点击释放天怒"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 54,
+		"step" : 1,
+		"taskCode" : 300037,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 55,
+		"step" : 1,
+		"taskCode" : 300032,
+		"taskStatus" : 1,
+		"tip" : "点击前往熔炼"
+	},
+	
+	{
+		"direction" : 1,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 56,
+		"step" : 2,
+		"target" : "PackSmeltWindow#SmeltBtn",
+		"taskCode" : 300032,
+		"taskStatus" : 1,
+		"tip" : "点击熔炼装备"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 57,
+		"step" : 1,
+		"taskCode" : 300032,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 58,
+		"step" : 1,
+		"taskCode" : 300033,
+		"taskStatus" : 1,
+		"tip" : "点击前往强化"
+	},
+	
+	{
+		"direction" : 4,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 59,
+		"step" : 2,
+		"target" : "ForgeStrengthenPanel#StrengthenBtn",
+		"taskCode" : 300033,
+		"taskStatus" : 1,
+		"tip" : "点击强化装备"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 60,
+		"step" : 1,
+		"taskCode" : 300033,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 61,
+		"step" : 1,
+		"taskCode" : 300039,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 62,
+		"step" : 1,
+		"taskCode" : 300040,
+		"taskStatus" : 1,
+		"tip" : "点击前往解救"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 63,
+		"step" : 1,
+		"taskCode" : 300040,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 64,
+		"step" : 1,
+		"taskCode" : 301040,
+		"taskStatus" : 1,
+		"tip" : "点击升级宠物"
+	},
+	
+	{
+		"direction" : 4,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 65,
+		"step" : 2,
+		"target" : "PetPanel#OnekeyBtn",
+		"taskCode" : 301040,
+		"taskStatus" : 1,
+		"tip" : "点击提升"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 66,
+		"step" : 1,
+		"taskCode" : 301040,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 67,
+		"step" : 1,
+		"taskCode" : 300041,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 68,
+		"step" : 1,
+		"taskCode" : 300043,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 69,
+		"step" : 1,
+		"taskCode" : 300044,
+		"taskStatus" : 1,
+		"tip" : "点击挑战关卡"
+	},
+	
+	{
+		"direction" : 3,
+		"extData" : "{\"delay\": 2000}",
+		"guideType" : 4,
+		"id" : 70,
+		"step" : 2,
+		"taskCode" : 300044,
+		"taskStatus" : 1,
+		"tip" : "点击释放天怒"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 71,
+		"step" : 1,
+		"taskCode" : 300044,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 72,
+		"step" : 1,
+		"taskCode" : 300046,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"extData" : "{\"trigger\": 1}",
+		"guideType" : 5,
+		"id" : 73,
+		"step" : 1,
+		"taskCode" : 300047,
+		"taskStatus" : 1,
+		"tip" : "点击挑战关卡"
+	},
+	
+	{
+		"direction" : 3,
+		"extData" : "{\"delay\": 2000}",
+		"guideType" : 4,
+		"id" : 74,
+		"step" : 2,
+		"taskCode" : 300047,
+		"taskStatus" : 1,
+		"tip" : "点击释放天怒"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 75,
+		"step" : 1,
+		"taskCode" : 300047,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"guideType" : 2,
+		"id" : 76,
+		"step" : 1,
+		"taskCode" : 309056,
+		"taskStatus" : 1,
+		"tip" : "激活双生碎片"
+	},
+	
+	{
+		"direction" : 1,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 77,
+		"step" : 2,
+		"target" : "GodWeaponPanel#Piece2",
+		"taskCode" : 309056,
+		"taskStatus" : 1,
+		"tip" : "激活双生碎片"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 78,
+		"step" : 1,
+		"taskCode" : 309056,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 79,
+		"step" : 1,
+		"taskCode" : 300048,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 80,
+		"step" : 1,
+		"taskCode" : 301061,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 81,
+		"step" : 1,
+		"taskCode" : 301061,
+		"taskStatus" : 1,
+		"tip" : "点击升级坐骑"
+	},
+	
+	{
+		"direction" : 4,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 82,
+		"step" : 2,
+		"target" : "MountPanel#OnekeyBtn",
+		"taskCode" : 301061,
+		"taskStatus" : 1,
+		"tip" : "点击提升"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 83,
+		"step" : 1,
+		"taskCode" : 301061,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"extData" : "{\"trigger\": 1}",
+		"guideType" : 5,
+		"id" : 84,
+		"step" : 1,
+		"taskCode" : 300049,
+		"taskStatus" : 1,
+		"tip" : "点击挑战关卡"
+	},
+	
+	{
+		"direction" : 3,
+		"extData" : "{\"delay\": 2000}",
+		"guideType" : 4,
+		"id" : 85,
+		"step" : 2,
+		"taskCode" : 300049,
+		"taskStatus" : 1,
+		"tip" : "点击释放天怒"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 86,
+		"step" : 1,
+		"taskCode" : 300049,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 87,
+		"step" : 1,
+		"taskCode" : 300050,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 2,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 88,
+		"step" : 2,
+		"target" : "HomeTopPanel#AvatarLoader",
+		"taskCode" : 900000,
+		"taskStatus" : 1,
+		"tip" : "点击头像"
+	},
+	
+	{
+		"direction" : 1,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 89,
+		"step" : 3,
+		"target" : "SysSetWindow#XpBtn",
+		"taskCode" : 900000,
+		"taskStatus" : 1,
+		"tip" : "点击勾选"
+	},
+	
+	{
+		"direction" : 3,
+		"extData" : "{\"trigger\": 1}",
+		"guideType" : 5,
+		"id" : 90,
+		"step" : 1,
+		"taskCode" : 300051,
+		"taskStatus" : 1,
+		"tip" : "点击挑战关卡"
+	},
+	
+	{
+		"direction" : 3,
+		"extData" : "{\"delay\": 2000}",
+		"guideType" : 4,
+		"id" : 91,
+		"step" : 2,
+		"taskCode" : 300051,
+		"taskStatus" : 1,
+		"tip" : "点击释放天怒"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 92,
+		"step" : 1,
+		"taskCode" : 300051,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"guideType" : 2,
+		"id" : 93,
+		"step" : 1,
+		"taskCode" : 300045,
+		"taskStatus" : 1,
+		"tip" : "点击前往挑战"
+	},
+	
+	{
+		"direction" : 1,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 94,
+		"step" : 2,
+		"target" : "EncounterPanel#ChallengeBtn",
+		"taskCode" : 300045,
+		"taskStatus" : 1,
+		"tip" : "点击挑战对手"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 95,
+		"step" : 1,
+		"taskCode" : 300045,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"guideType" : 2,
+		"id" : 96,
+		"step" : 1,
+		"taskCode" : 301045,
+		"taskStatus" : 1,
+		"tip" : "点击前往精炼"
+	},
+	
+	{
+		"direction" : 1,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 97,
+		"step" : 2,
+		"target" : "ForgeRefinePanel#OneKeyRefineBtn",
+		"taskCode" : 301045,
+		"taskStatus" : 1,
+		"tip" : "点击精炼装备"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 98,
+		"step" : 1,
+		"taskCode" : 301045,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 99,
+		"step" : 1,
+		"taskCode" : 300052,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"extData" : "{\"trigger\": 1}",
+		"guideType" : 5,
+		"id" : 100,
+		"step" : 1,
+		"taskCode" : 309055,
+		"taskStatus" : 1,
+		"tip" : "点击挑战关卡"
+	},
+	
+	{
+		"direction" : 3,
+		"extData" : "{\"delay\": 2000}",
+		"guideType" : 4,
+		"id" : 101,
+		"step" : 2,
+		"taskCode" : 309055,
+		"taskStatus" : 1,
+		"tip" : "点击释放天怒"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 102,
+		"step" : 1,
+		"taskCode" : 309055,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 103,
+		"step" : 1,
+		"taskCode" : 301055,
+		"taskStatus" : 1,
+		"tip" : "点击升级翅膀"
+	},
+	
+	{
+		"direction" : 4,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 104,
+		"step" : 2,
+		"target" : "MagicWareWingPanel#OnekeyBtn",
+		"taskCode" : 301055,
+		"taskStatus" : 1,
+		"tip" : "点击提升"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 105,
+		"step" : 1,
+		"taskCode" : 301055,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 106,
+		"step" : 1,
+		"taskCode" : 300056,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"extData" : "{\"trigger\": 1,\"timeout\": 3000}",
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 107,
+		"step" : 1,
+		"target" : "CheckPointProgressView#AutoBtn",
+		"taskCode" : 300059,
+		"taskStatus" : 1,
+		"tip" : "点击自动闯关"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 108,
+		"step" : 1,
+		"taskCode" : 300059,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"guideType" : 2,
+		"id" : 109,
+		"step" : 1,
+		"taskCode" : 300062,
+		"taskStatus" : 1,
+		"tip" : "激活双生碎片"
+	},
+	
+	{
+		"direction" : 1,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 110,
+		"step" : 2,
+		"target" : "GodWeaponPanel#Piece3",
+		"taskCode" : 300062,
+		"taskStatus" : 1,
+		"tip" : "激活双生碎片"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 111,
+		"step" : 1,
+		"taskCode" : 300062,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 112,
+		"step" : 1,
+		"taskCode" : 300061,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 113,
+		"step" : 1,
+		"taskCode" : 300063,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"guideType" : 2,
+		"id" : 114,
+		"step" : 1,
+		"taskCode" : 300042,
+		"taskStatus" : 1,
+		"tip" : "点击前往挑战"
+	},
+	
+	{
+		"direction" : 4,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 115,
+		"step" : 2,
+		"target" : "PersonalBossPanel#ChallangeBtn",
+		"taskCode" : 300042,
+		"taskStatus" : 1,
+		"tip" : "点击挑战"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 116,
+		"step" : 1,
+		"taskCode" : 300042,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"guideType" : 2,
+		"id" : 117,
+		"step" : 1,
+		"taskCode" : 300054,
+		"taskStatus" : 1,
+		"tip" : "点击前往熔炼"
+	},
+	
+	{
+		"direction" : 1,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 118,
+		"step" : 2,
+		"target" : "PackSmeltWindow#SmeltBtn",
+		"taskCode" : 300054,
+		"taskStatus" : 1,
+		"tip" : "点击熔炼装备"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 119,
+		"step" : 1,
+		"taskCode" : 300054,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"guideType" : 2,
+		"id" : 120,
+		"step" : 1,
+		"taskCode" : 300055,
+		"taskStatus" : 1,
+		"tip" : "点击前往强化"
+	},
+	
+	{
+		"direction" : 1,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 121,
+		"step" : 2,
+		"target" : "ForgeStrengthenPanel#OneKeyStrengthenBtn",
+		"taskCode" : 300055,
+		"taskStatus" : 1,
+		"tip" : "点击强化装备"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 122,
+		"step" : 1,
+		"taskCode" : 300055,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 123,
+		"step" : 1,
+		"taskCode" : 300067,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 124,
+		"step" : 1,
+		"taskCode" : 300066,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"guideType" : 2,
+		"id" : 125,
+		"step" : 1,
+		"taskCode" : 300070,
+		"taskStatus" : 1,
+		"tip" : "激活双生碎片"
+	},
+	
+	{
+		"direction" : 1,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 126,
+		"step" : 2,
+		"target" : "GodWeaponPanel#Piece4",
+		"taskCode" : 300070,
+		"taskStatus" : 1,
+		"tip" : "激活双生碎片"
+	},
+	
+	{
+		"direction" : 1,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 127,
+		"step" : 3,
+		"target" : "GodWeaponPanel#ActiveBtn",
+		"taskCode" : 300070,
+		"taskStatus" : 1,
+		"tip" : "激活双生法宝"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 128,
+		"step" : 1,
+		"taskCode" : 300070,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"guideType" : 2,
+		"id" : 129,
+		"step" : 1,
+		"taskCode" : 301070,
+		"taskStatus" : 1,
+		"tip" : "激活防御法宝"
+	},
+	
+	{
+		"direction" : 3,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 130,
+		"step" : 2,
+		"target" : "SevenDayMagicWeaponModule#ActiveBtn",
+		"taskCode" : 301070,
+		"taskStatus" : 1,
+		"tip" : "激活法宝"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 131,
+		"step" : 1,
+		"taskCode" : 301070,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 132,
+		"step" : 1,
+		"taskCode" : 301069,
+		"taskStatus" : 1,
+		"tip" : "点击升级剑池"
+	},
+	
+	{
+		"direction" : 4,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 133,
+		"step" : 2,
+		"target" : "SwordPoolPanel#ActiveBtn",
+		"taskCode" : 301069,
+		"taskStatus" : 1,
+		"tip" : "点击激活"
+	},
+	
+	{
+		"direction" : 4,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 134,
+		"step" : 5,
+		"target" : "SwordPoolPanel#OnekeyBtn",
+		"taskCode" : 301069,
+		"taskStatus" : 1,
+		"tip" : "点击提升"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 135,
+		"step" : 1,
+		"taskCode" : 301069,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 136,
+		"step" : 1,
+		"taskCode" : 300069,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 137,
+		"step" : 1,
+		"taskCode" : 300081,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 138,
+		"step" : 1,
+		"taskCode" : 300082,
+		"taskStatus" : 1,
+		"tip" : "点击前往挑战"
+	},
+	
+	{
+		"direction" : 3,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 139,
+		"step" : 2,
+		"target" : "CopyHallMaterialsPanel#ChanglleBtn3701",
+		"taskCode" : 300082,
+		"taskStatus" : 1,
+		"tip" : "点击挑战"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 140,
+		"step" : 1,
+		"taskCode" : 300082,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 141,
+		"step" : 1,
+		"taskCode" : 300083,
+		"taskStatus" : 1,
+		"tip" : "点击升级翅膀"
+	},
+	
+	{
+		"direction" : 4,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 142,
+		"step" : 2,
+		"target" : "MagicWareWingPanel#OnekeyBtn",
+		"taskCode" : 300083,
+		"taskStatus" : 1,
+		"tip" : "点击升级翅膀"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 143,
+		"step" : 1,
+		"taskCode" : 300083,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 144,
+		"step" : 1,
+		"taskCode" : 301072,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 145,
+		"step" : 1,
+		"taskCode" : 300079,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"guideType" : 2,
+		"id" : 146,
+		"step" : 1,
+		"taskCode" : 300080,
+		"taskStatus" : 1,
+		"tip" : "点击前往挑战"
+	},
+	
+	{
+		"direction" : 4,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 147,
+		"step" : 2,
+		"target" : "PersonalBossPanel#ChallangeBtn",
+		"taskCode" : 300080,
+		"taskStatus" : 1,
+		"tip" : "点击挑战"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 148,
+		"step" : 3,
+		"taskCode" : 300080,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"guideType" : 2,
+		"id" : 149,
+		"step" : 1,
+		"taskCode" : 300071,
+		"taskStatus" : 1,
+		"tip" : "点击前往熔炼"
+	},
+	
+	{
+		"direction" : 1,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 150,
+		"step" : 2,
+		"target" : "PackSmeltWindow#SmeltBtn",
+		"taskCode" : 300071,
+		"taskStatus" : 1,
+		"tip" : "点击熔炼装备"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 151,
+		"step" : 1,
+		"taskCode" : 300071,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"guideType" : 2,
+		"id" : 152,
+		"step" : 1,
+		"taskCode" : 300072,
+		"taskStatus" : 1,
+		"tip" : "点击前往强化"
+	},
+	
+	{
+		"direction" : 1,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 153,
+		"step" : 2,
+		"target" : "ForgeStrengthenPanel#OneKeyStrengthenBtn",
+		"taskCode" : 300072,
+		"taskStatus" : 1,
+		"tip" : "点击强化装备"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 154,
+		"step" : 1,
+		"taskCode" : 300072,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 155,
+		"step" : 1,
+		"taskCode" : 300077,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 156,
+		"step" : 1,
+		"taskCode" : 300084,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"guideType" : 2,
+		"id" : 157,
+		"step" : 1,
+		"taskCode" : 300085,
+		"taskStatus" : 1,
+		"tip" : "点击前往挑战"
+	},
+	
+	{
+		"direction" : 3,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 158,
+		"step" : 2,
+		"target" : "CopyHallMaterialsPanel#ChanglleBtn4701",
+		"taskCode" : 300085,
+		"taskStatus" : 1,
+		"tip" : "点击挑战"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 159,
+		"step" : 1,
+		"taskCode" : 300085,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"guideType" : 2,
+		"id" : 160,
+		"step" : 1,
+		"taskCode" : 300086,
+		"taskStatus" : 1,
+		"tip" : "升级龙炎甲"
+	},
+	
+	{
+		"direction" : 3,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 161,
+		"step" : 2,
+		"target" : "DragonScalePanel#PromoteBtn",
+		"taskCode" : 300086,
+		"taskStatus" : 1,
+		"tip" : "升级龙炎甲"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 162,
+		"step" : 1,
+		"taskCode" : 300086,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 163,
+		"step" : 1,
+		"taskCode" : 300078,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 164,
+		"step" : 1,
+		"taskCode" : 300087,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"guideType" : 2,
+		"id" : 165,
+		"step" : 1,
+		"taskCode" : 300088,
+		"taskStatus" : 1,
+		"tip" : "点击前往挑战"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 166,
+		"step" : 1,
+		"taskCode" : 300088,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 167,
+		"step" : 1,
+		"taskCode" : 300076,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"guideType" : 2,
+		"id" : 168,
+		"step" : 1,
+		"taskCode" : 300064,
+		"taskStatus" : 1,
+		"tip" : "点击前往挑战"
+	},
+	
+	{
+		"direction" : 1,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 169,
+		"step" : 2,
+		"target" : "WorldBossNewPanel#ChallengeBtn",
+		"taskCode" : 300064,
+		"taskStatus" : 1,
+		"tip" : "点击挑战"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 170,
+		"step" : 1,
+		"taskCode" : 300064,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 171,
+		"step" : 1,
+		"taskCode" : 301080,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 172,
+		"step" : 1,
+		"taskCode" : 301083,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 173,
+		"step" : 1,
+		"taskCode" : 301084,
+		"taskStatus" : 1,
+		"tip" : "点击前往任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 174,
+		"step" : 1,
+		"taskCode" : 301084,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"guideType" : 2,
+		"id" : 175,
+		"step" : 1,
+		"taskCode" : 301085,
+		"taskStatus" : 1,
+		"tip" : "点击前往升级"
+	},
+	
+	{
+		"direction" : 3,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 176,
+		"step" : 2,
+		"target" : "TrainDailyMissionPanel#CheckPointOptionBtn",
+		"taskCode" : 301085,
+		"taskStatus" : 1,
+		"tip" : "点击领取"
+	},
+	
+	{
+		"direction" : 1,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 177,
+		"step" : 3,
+		"target" : "TrainModule#NobilityTab",
+		"taskCode" : 301085,
+		"taskStatus" : 1,
+		"tip" : "点击仙位页签"
+	},
+	
+	{
+		"direction" : 1,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 178,
+		"step" : 4,
+		"target" : "TrainNobilityPanel#UpgradeBtn",
+		"taskCode" : 301085,
+		"taskStatus" : 1,
+		"tip" : "点击晋升"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 179,
+		"step" : 1,
+		"taskCode" : 301085,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 180,
+		"step" : 1,
+		"taskCode" : 300089,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"guideType" : 2,
+		"id" : 181,
+		"step" : 1,
+		"taskCode" : 300090,
+		"taskStatus" : 1,
+		"tip" : "点击前往挑战"
+	},
+	
+	{
+		"direction" : 3,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 182,
+		"step" : 2,
+		"target" : "CopyHallRuneTowerPanel#ChallengeBtn",
+		"taskCode" : 300090,
+		"taskStatus" : 1,
+		"tip" : "点击前往挑战"
+	},
+	
+	{
+		"direction" : 1,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 183,
+		"step" : 1,
+		"target" : "CopySuccessWin#CloseBtn",
+		"taskCode" : 300090,
+		"taskStatus" : 2,
+		"tip" : "点击确认"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 184,
+		"step" : 2,
+		"taskCode" : 300090,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"guideType" : 2,
+		"id" : 185,
+		"step" : 1,
+		"taskCode" : 301090,
+		"taskStatus" : 1,
+		"tip" : "点击前往镶嵌"
+	},
+	
+	{
+		"direction" : 1,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 186,
+		"step" : 2,
+		"target" : "RuneInlayPanel#RuneInlayItem1",
+		"taskCode" : 301090,
+		"taskStatus" : 1,
+		"tip" : "选择镶嵌位置"
+	},
+	
+	{
+		"direction" : 1,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 187,
+		"step" : 3,
+		"target" : "RunePackWindow#RunePackItem1",
+		"taskCode" : 301090,
+		"taskStatus" : 1,
+		"tip" : "进行符文镶嵌"
+	},
+	
+	{
+		"direction" : 3,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 188,
+		"step" : 1,
+		"target" : "RuneInlayPanel#UpgradeBtn",
+		"taskCode" : 301090,
+		"taskStatus" : 2,
+		"tip" : "进行符文升级"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 189,
+		"step" : 2,
+		"taskCode" : 301090,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"guideType" : 2,
+		"id" : 190,
+		"step" : 1,
+		"taskCode" : 300091,
+		"taskStatus" : 1,
+		"tip" : "点击前往挑战"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 191,
+		"step" : 2,
+		"taskCode" : 300091,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"guideType" : 2,
+		"id" : 192,
+		"step" : 1,
+		"taskCode" : 301091,
+		"taskStatus" : 1,
+		"tip" : "点击前往镶嵌"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 193,
+		"step" : 2,
+		"taskCode" : 301091,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 194,
+		"step" : 2,
+		"taskCode" : 300094,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"guideType" : 2,
+		"id" : 195,
+		"step" : 1,
+		"taskCode" : 301094,
+		"taskStatus" : 1,
+		"tip" : "点击前往寻宝"
+	},
+	
+	{
+		"direction" : 4,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 196,
+		"step" : 2,
+		"target" : "LotteryEquipPanel#OnceBtn",
+		"taskCode" : 301094,
+		"taskStatus" : 1,
+		"tip" : "点击寻宝"
+	},
+	
+	{
+		"direction" : 3,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 197,
+		"step" : 1,
+		"target" : "LotteryResultWindow#CloseBtn",
+		"taskCode" : 301094,
+		"taskStatus" : 2,
+		"tip" : "关闭界面"
+	},
+	
+	{
+		"direction" : 3,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 198,
+		"step" : 2,
+		"target" : "LotteryEquipPanel#StoreBtn",
+		"taskCode" : 301094,
+		"taskStatus" : 2,
+		"tip" : "查看寻宝仓库"
+	},
+	
+	{
+		"direction" : 1,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 199,
+		"step" : 3,
+		"target" : "LotteryStoreWindow#GetBtn",
+		"taskCode" : 301094,
+		"taskStatus" : 2,
+		"tip" : "取出仓库物品"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 200,
+		"step" : 4,
+		"taskCode" : 301094,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 201,
+		"step" : 1,
+		"taskCode" : 300095,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 202,
+		"step" : 1,
+		"taskCode" : 300101,
+		"taskStatus" : 1,
+		"tip" : "点击任务"
+	},
+	
+	{
+		"direction" : 3,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 203,
+		"step" : 2,
+		"target" : "MiningPanel#EnterBtn",
+		"taskCode" : 300101,
+		"taskStatus" : 1,
+		"tip" : "点击进入"
+	},
+	
+	{
+		"direction" : 3,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 204,
+		"step" : 3,
+		"target" : "MiningCopyView#MineBtn",
+		"taskCode" : 300101,
+		"taskStatus" : 1,
+		"tip" : "打开寻脉界面"
+	},
+	
+	{
+		"direction" : 1,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 205,
+		"step" : 4,
+		"target" : "MiningHireModule#MiningHireItem",
+		"taskCode" : 300101,
+		"taskStatus" : 1,
+		"tip" : "点击雇佣开采"
+	},
+	
+	{
+		"direction" : 4,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 206,
+		"step" : 5,
+		"target" : "MiningCopyView#ExitBtn",
+		"taskCode" : 300101,
+		"taskStatus" : 2,
+		"tip" : "点击退出"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 207,
+		"step" : 6,
+		"taskCode" : 300101,
+		"taskStatus" : 2,
+		"tip" : "点击完成任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 208,
+		"step" : 1,
+		"taskCode" : 300104,
+		"taskStatus" : 1,
+		"tip" : "点击前往挑战"
+	},
+	
+	{
+		"direction" : 4,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 209,
+		"step" : 2,
+		"target" : "KingBattlePanel#MatchBtn",
+		"taskCode" : 300104,
+		"taskStatus" : 1,
+		"tip" : "点击匹配"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 2,
+		"id" : 210,
+		"step" : 1,
+		"taskCode" : 300099,
+		"taskStatus" : 1,
+		"tip" : "点击任务"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 3,
+		"id" : 211,
+		"step" : 2,
+		"target" : "ReincarnationPanel#LinkBtn",
+		"taskCode" : 300099,
+		"taskStatus" : 1,
+		"tip" : "点击进入领取"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 3,
+		"id" : 212,
+		"step" : 3,
+		"target" : "WindowRoleStateExchange#OperationBtn",
+		"taskCode" : 300099,
+		"taskStatus" : 1,
+		"tip" : "每天领一次"
+	},
+	
+	{
+		"direction" : 1,
+		"guideType" : 3,
+		"id" : 213,
+		"step" : 1,
+		"target" : "Navbar#PlayerBtn",
+		"taskCode" : 1000000,
+		"taskStatus" : 1,
+		"tip" : "合成神装"
+	},
+	
+	{
+		"direction" : 1,
+		"guideType" : 3,
+		"id" : 214,
+		"step" : 2,
+		"target" : "PlayerPanel#GodEquipBtn",
+		"taskCode" : 1000000,
+		"taskStatus" : 1,
+		"tip" : "点击进入"
+	},
+	
+	{
+		"direction" : 2,
+		"extData" : "{\"mcOffset\":\" -2,-12\"}",
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 215,
+		"step" : 2,
+		"target" : "GodEquipPanel#EquipItem",
+		"taskCode" : 1000000,
+		"taskStatus" : 1,
+		"tip" : "选择合成部位"
+	},
+	
+	{
+		"direction" : 1,
+		"guideType" : 3,
+		"id" : 216,
+		"step" : 3,
+		"target" : "GodEquipPanel#GenerateBtn",
+		"taskCode" : 1000000,
+		"taskStatus" : 1,
+		"tip" : "点击合成神装"
+	},
+	
+	{
+		"direction" : 1,
+		"guideType" : 3,
+		"id" : 217,
+		"step" : 1,
+		"target" : "Navbar#PlayerBtn",
+		"taskCode" : 1000001,
+		"taskStatus" : 1,
+		"tip" : "分解神装"
+	},
+	
+	{
+		"direction" : 1,
+		"guideType" : 3,
+		"id" : 218,
+		"step" : 2,
+		"target" : "PlayerPanel#GodEquipBtn",
+		"taskCode" : 1000001,
+		"taskStatus" : 1,
+		"tip" : "点击进入"
+	},
+	
+	{
+		"direction" : 1,
+		"guideType" : 3,
+		"id" : 219,
+		"step" : 2,
+		"target" : "GodEquipPanel#DecomposeBtn",
+		"taskCode" : 1000001,
+		"taskStatus" : 1,
+		"tip" : "点击进入"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 3,
+		"id" : 220,
+		"step" : 3,
+		"target" : "GodEquipDecomposeWindow#DecomposeBtn",
+		"taskCode" : 1000001,
+		"taskStatus" : 1,
+		"tip" : "点击分解"
+	},
+	
+	{
+		"direction" : 1,
+		"guideType" : 3,
+		"id" : 221,
+		"step" : 1,
+		"target" : "Navbar#StrengthenBtn",
+		"taskCode" : 1000002,
+		"taskStatus" : 1,
+		"tip" : "激活神兵"
+	},
+	
+	{
+		"direction" : 1,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 222,
+		"step" : 2,
+		"target" : "ForgeModule#ImmortalsTab",
+		"taskCode" : 1000002,
+		"taskStatus" : 1,
+		"tip" : "点击进入"
+	},
+	
+	{
+		"direction" : 2,
+		"extData" : "{\"arrowOffset\":\" 0,-220\"}",
+		"guideType" : 3,
+		"id" : 223,
+		"step" : 3,
+		"target" : "ForgeImmortalsPanel#ForgeImmortalsItemAct",
+		"taskCode" : 1000002,
+		"taskStatus" : 1,
+		"tip" : "选择神兵"
+	},
+	
+	{
+		"direction" : 1,
+		"extData" : "{\"mcOffset\":\" -2,-12\"}",
+		"guideType" : 3,
+		"id" : 224,
+		"step" : 4,
+		"target" : "ForgeImmortalsItemView#ForgeImmortSoulItemAct",
+		"taskCode" : 1000002,
+		"taskStatus" : 1,
+		"tip" : "选择激活部位"
+	},
+	
+	{
+		"direction" : 1,
+		"guideType" : 3,
+		"id" : 225,
+		"step" : 5,
+		"target" : "ForgeImmortalsUpgradeWin#ActBtn",
+		"taskCode" : 1000002,
+		"taskStatus" : 1,
+		"tip" : "点击激活"
+	},
+	
+	{
+		"direction" : 1,
+		"guideType" : 3,
+		"id" : 226,
+		"step" : 1,
+		"target" : "Navbar#StrengthenBtn",
+		"taskCode" : 1000003,
+		"taskStatus" : 1,
+		"tip" : "升级神兵"
+	},
+	
+	{
+		"direction" : 1,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 227,
+		"step" : 2,
+		"target" : "ForgeModule#ImmortalsTab",
+		"taskCode" : 1000003,
+		"taskStatus" : 1,
+		"tip" : "点击进入"
+	},
+	
+	{
+		"direction" : 2,
+		"extData" : "{\"arrowOffset\":\" 0,-220\"}",
+		"guideType" : 3,
+		"id" : 228,
+		"step" : 3,
+		"target" : "ForgeImmortalsPanel#ForgeImmortalsItemUp",
+		"taskCode" : 1000003,
+		"taskStatus" : 1,
+		"tip" : "选择神兵"
+	},
+	
+	{
+		"direction" : 1,
+		"extData" : "{\"mcOffset\":\" -2,-12\"}",
+		"guideType" : 3,
+		"id" : 229,
+		"step" : 4,
+		"target" : "ForgeImmortalsItemView#ForgeImmortSoulItemUp",
+		"taskCode" : 1000003,
+		"taskStatus" : 1,
+		"tip" : "选择炼化部位"
+	},
+	
+	{
+		"direction" : 3,
+		"guideType" : 3,
+		"id" : 230,
+		"step" : 5,
+		"target" : "ForgeImmortalsUpgradeWin#ActBtn",
+		"taskCode" : 1000003,
+		"taskStatus" : 1,
+		"tip" : "点击炼化"
+	},
+	
+	{
+		"direction" : 4,
+		"extData" : "{\"mcOffset\":\" 0,13\",\"timeout\": 20000}",
+		"guideType" : 3,
+		"id" : 231,
+		"step" : 1,
+		"target" : "HomeTopPanel#AvatarLoader",
+		"taskCode" : 1000004,
+		"taskStatus" : 1,
+		"tip" : "设置自动BOSS"
+	},
+	
+	{
+		"direction" : 3,
+		"forge" : 1,
+		"guideType" : 3,
+		"id" : 232,
+		"step" : 2,
+		"target" : "PrivilegeSetPanel#ChangeBtn",
+		"taskCode" : 1000004,
+		"taskStatus" : 1,
+		"tip" : "点击开启"
+	}
+]

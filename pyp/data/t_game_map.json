@@ -1,0 +1,1698 @@
+
+[
+	
+	{
+		"height" : 5500,
+		"mapId" : 100000,
+		"mapName" : "缥缈峰",
+		"width" : 6000
+	},
+	
+	{
+		"enterMinLevel" : 60,
+		"height" : 5000,
+		"mapId" : 101000,
+		"mapName" : "凌霄城",
+		"width" : 6500
+	},
+	
+	{
+		"height" : 5500,
+		"mapId" : 102000,
+		"mapName" : "青云剑宗",
+		"width" : 6500
+	},
+	
+	{
+		"height" : 4000,
+		"mapId" : 103000,
+		"mapName" : "玉龙雪山",
+		"width" : 5000
+	},
+	
+	{
+		"height" : 5600,
+		"mapId" : 104000,
+		"mapName" : "无尽火狱",
+		"width" : 5800
+	},
+	
+	{
+		"height" : 4000,
+		"mapId" : 105000,
+		"mapName" : "楼兰古国",
+		"width" : 5000
+	},
+	
+	{
+		"height" : 4000,
+		"mapId" : 106000,
+		"mapName" : "乱魔之海",
+		"width" : 5000
+	},
+	
+	{
+		"enterMinLevel" : 45,
+		"height" : 5500,
+		"mapId" : 107000,
+		"mapName" : "青云剑宗",
+		"width" : 6500
+	},
+	
+	{
+		"enterMinLevel" : 300,
+		"height" : 4000,
+		"mapId" : 108000,
+		"mapName" : "九黎幽都",
+		"width" : 5000
+	},
+	
+	{
+		"enterMinLevel" : 350,
+		"height" : 4000,
+		"mapId" : 109000,
+		"mapName" : "云海之墟",
+		"width" : 6500
+	},
+	
+	{
+		"copyCode" : 5014,
+		"enterMinLevel" : 300,
+		"height" : 6000,
+		"mapId" : 109100,
+		"mapName" : "神魔战场",
+		"singleMode" : 1,
+		"width" : 10000
+	},
+	
+	{
+		"enterMinLevel" : 400,
+		"height" : 4000,
+		"mapId" : 110000,
+		"mapName" : "琉璃幻境",
+		"width" : 6500
+	},
+	
+	{
+		"enterMinLevel" : 450,
+		"height" : 4000,
+		"mapId" : 111000,
+		"mapName" : "云梦仙泽",
+		"width" : 6500
+	},
+	
+	{
+		"enterMinLevel" : 500,
+		"height" : 4000,
+		"mapId" : 112000,
+		"mapName" : "万佛古地",
+		"width" : 6500
+	},
+	
+	{
+		"copyCode" : 7001,
+		"enterMinLevel" : 1,
+		"height" : 1500,
+		"mapId" : 201101,
+		"mapName" : "首领试炼",
+		"singleMode" : 1,
+		"width" : 2500
+	},
+	
+	{
+		"copyCode" : 7008,
+		"enterMinLevel" : 1,
+		"height" : 2560,
+		"mapId" : 201102,
+		"mapName" : "紫英试炼",
+		"singleMode" : 1,
+		"width" : 2560
+	},
+	
+	{
+		"copyCode" : 7007,
+		"enterMinLevel" : 1,
+		"height" : 1500,
+		"mapId" : 201103,
+		"mapName" : "妖兽巢穴",
+		"singleMode" : 1,
+		"width" : 2500
+	},
+	
+	{
+		"copyCode" : 7006,
+		"enterMinLevel" : 1,
+		"height" : 1695,
+		"mapId" : 201104,
+		"mapName" : "玉兔宫殿",
+		"singleMode" : 1,
+		"width" : 2176
+	},
+	
+	{
+		"copyCode" : 7003,
+		"enterMinLevel" : 1,
+		"height" : 1500,
+		"mapId" : 201105,
+		"mapName" : "心魔之乱",
+		"singleMode" : 1,
+		"width" : 2500
+	},
+	
+	{
+		"copyCode" : 7004,
+		"enterMinLevel" : 1,
+		"height" : 2000,
+		"mapId" : 201106,
+		"mapName" : "守护仙女",
+		"singleMode" : 1,
+		"width" : 3000
+	},
+	
+	{
+		"copyCode" : 7005,
+		"enterMinLevel" : 1,
+		"height" : 1500,
+		"mapId" : 201107,
+		"mapName" : "拯救雪霓",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 7002,
+		"enterMinLevel" : 1,
+		"height" : 1500,
+		"mapId" : 201108,
+		"mapName" : "降服小鬼怪",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"height" : 1500,
+		"mapId" : 201109,
+		"mapName" : "首领试炼",
+		"width" : 2500
+	},
+	
+	{
+		"copyCode" : 7009,
+		"enterMinLevel" : 55,
+		"height" : 1560,
+		"mapId" : 201110,
+		"mapName" : "魔龙之地",
+		"singleMode" : 1,
+		"width" : 2317
+	},
+	
+	{
+		"copyCode" : 7020,
+		"enterMinLevel" : 40,
+		"height" : 1500,
+		"mapId" : 201111,
+		"mapName" : "心魔试炼1",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 7021,
+		"enterMinLevel" : 75,
+		"height" : 1500,
+		"mapId" : 201112,
+		"mapName" : "心魔试炼2",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 7022,
+		"enterMinLevel" : 130,
+		"height" : 1500,
+		"mapId" : 201113,
+		"mapName" : "心魔试炼3",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 7023,
+		"enterMinLevel" : 170,
+		"height" : 1500,
+		"mapId" : 201114,
+		"mapName" : "心魔试炼4",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 7024,
+		"enterMinLevel" : 210,
+		"height" : 1500,
+		"mapId" : 201115,
+		"mapName" : "心魔试炼5",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 7025,
+		"enterMinLevel" : 270,
+		"height" : 1500,
+		"mapId" : 201116,
+		"mapName" : "心魔试炼6",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 7040,
+		"enterMinLevel" : 150,
+		"height" : 1500,
+		"mapId" : 201117,
+		"mapName" : "一转试炼",
+		"singleMode" : 1,
+		"width" : 2500
+	},
+	
+	{
+		"copyCode" : 7041,
+		"enterMinLevel" : 220,
+		"height" : 1208,
+		"mapId" : 201118,
+		"mapName" : "二转试炼",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 7042,
+		"enterMinLevel" : 280,
+		"height" : 1208,
+		"mapId" : 201119,
+		"mapName" : "三转试炼",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 7043,
+		"enterMinLevel" : 450,
+		"height" : 1500,
+		"mapId" : 201120,
+		"mapName" : "龙魄之劫",
+		"singleMode" : 1,
+		"width" : 2500
+	},
+	
+	{
+		"copyCode" : 7044,
+		"enterMinLevel" : 450,
+		"height" : 1500,
+		"mapId" : 201121,
+		"mapName" : "龙魂之劫",
+		"singleMode" : 1,
+		"width" : 2500
+	},
+	
+	{
+		"copyCode" : 7045,
+		"enterMinLevel" : 450,
+		"height" : 1500,
+		"mapId" : 201122,
+		"mapName" : "龙灵之劫",
+		"singleMode" : 1,
+		"width" : 2500
+	},
+	
+	{
+		"copyCode" : 7026,
+		"enterMinLevel" : 320,
+		"height" : 1500,
+		"mapId" : 201130,
+		"mapName" : "心魔试炼7",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 7027,
+		"enterMinLevel" : 360,
+		"height" : 1500,
+		"mapId" : 201131,
+		"mapName" : "心魔试炼8",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 9000,
+		"enterMinLevel" : 1,
+		"height" : 1500,
+		"mapId" : 201150,
+		"mapName" : "玉清之巅",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 9001,
+		"enterMinLevel" : 1,
+		"height" : 2000,
+		"mapId" : 201151,
+		"mapName" : "青云试炼",
+		"singleMode" : 1,
+		"width" : 2500
+	},
+	
+	{
+		"copyCode" : 9002,
+		"enterMinLevel" : 1,
+		"height" : 1700,
+		"mapId" : 201152,
+		"mapName" : "鬼王魔窟",
+		"singleMode" : 1,
+		"width" : 2500
+	},
+	
+	{
+		"enterMinLevel" : 65,
+		"height" : 2000,
+		"mapId" : 202001,
+		"mapName" : "诛仙塔",
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 1009,
+		"enterMinLevel" : 100,
+		"height" : 2000,
+		"mapId" : 206901,
+		"mapName" : "守护仙灵（简单）",
+		"singleMode" : 1,
+		"width" : 3000
+	},
+	
+	{
+		"copyCode" : 11009,
+		"enterMinLevel" : 140,
+		"height" : 2000,
+		"mapId" : 206902,
+		"mapName" : "守护仙灵（普通）",
+		"singleMode" : 1,
+		"width" : 3000
+	},
+	
+	{
+		"copyCode" : 21009,
+		"enterMinLevel" : 200,
+		"height" : 2000,
+		"mapId" : 206903,
+		"mapName" : "守护仙灵（困难）",
+		"singleMode" : 1,
+		"width" : 3000
+	},
+	
+	{
+		"copyCode" : 31009,
+		"enterMinLevel" : 250,
+		"height" : 2000,
+		"mapId" : 206904,
+		"mapName" : "守护仙灵（噩梦）",
+		"singleMode" : 1,
+		"width" : 3000
+	},
+	
+	{
+		"copyCode" : 41009,
+		"enterMinLevel" : 300,
+		"height" : 2000,
+		"mapId" : 206905,
+		"mapName" : "守护仙灵（地狱）",
+		"singleMode" : 1,
+		"width" : 3000
+	},
+	
+	{
+		"copyCode" : 51009,
+		"enterMinLevel" : 350,
+		"height" : 2000,
+		"mapId" : 206906,
+		"mapName" : "守护仙灵（炼狱）",
+		"singleMode" : 1,
+		"width" : 3000
+	},
+	
+	{
+		"copyCode" : 61009,
+		"enterMinLevel" : 400,
+		"height" : 2000,
+		"mapId" : 206907,
+		"mapName" : "守护仙灵（深渊）",
+		"singleMode" : 1,
+		"width" : 3000
+	},
+	
+	{
+		"copyCode" : 1008,
+		"enterMinLevel" : 190,
+		"height" : 2000,
+		"mapId" : 208101,
+		"mapName" : "仙帝宝库(简单)",
+		"singleMode" : 1,
+		"width" : 1815
+	},
+	
+	{
+		"copyCode" : 11008,
+		"enterMinLevel" : 230,
+		"height" : 2000,
+		"mapId" : 208102,
+		"mapName" : "仙帝宝库(普通)",
+		"singleMode" : 1,
+		"width" : 1815
+	},
+	
+	{
+		"copyCode" : 21008,
+		"enterMinLevel" : 290,
+		"height" : 2000,
+		"mapId" : 208103,
+		"mapName" : "仙帝宝库(困难)",
+		"singleMode" : 1,
+		"width" : 1815
+	},
+	
+	{
+		"copyCode" : 31008,
+		"enterMinLevel" : 340,
+		"height" : 2000,
+		"mapId" : 208104,
+		"mapName" : "仙帝宝库(噩梦)",
+		"singleMode" : 1,
+		"width" : 1815
+	},
+	
+	{
+		"copyCode" : 41008,
+		"enterMinLevel" : 390,
+		"height" : 2000,
+		"mapId" : 208105,
+		"mapName" : "仙帝宝库(地狱)",
+		"singleMode" : 1,
+		"width" : 1815
+	},
+	
+	{
+		"height" : 2000,
+		"mapId" : 208106,
+		"mapName" : "仙帝宝库",
+		"width" : 1815
+	},
+	
+	{
+		"height" : 2000,
+		"mapId" : 208107,
+		"mapName" : "仙帝宝库",
+		"width" : 1815
+	},
+	
+	{
+		"copyCode" : 1007,
+		"enterMinLevel" : 120,
+		"height" : 2500,
+		"mapId" : 212301,
+		"mapName" : "炼血秘境（简单）",
+		"singleMode" : 1,
+		"width" : 2500
+	},
+	
+	{
+		"copyCode" : 11007,
+		"enterMinLevel" : 170,
+		"height" : 2500,
+		"mapId" : 212302,
+		"mapName" : "炼血秘境（普通）",
+		"singleMode" : 1,
+		"width" : 2500
+	},
+	
+	{
+		"copyCode" : 21007,
+		"enterMinLevel" : 220,
+		"height" : 2500,
+		"mapId" : 212303,
+		"mapName" : "炼血秘境（困难）",
+		"singleMode" : 1,
+		"width" : 2500
+	},
+	
+	{
+		"copyCode" : 31007,
+		"enterMinLevel" : 270,
+		"height" : 2500,
+		"mapId" : 212304,
+		"mapName" : "炼血秘境（噩梦）",
+		"singleMode" : 1,
+		"width" : 2500
+	},
+	
+	{
+		"copyCode" : 41007,
+		"enterMinLevel" : 320,
+		"height" : 2500,
+		"mapId" : 212305,
+		"mapName" : "炼血秘境（地狱）",
+		"singleMode" : 1,
+		"width" : 2500
+	},
+	
+	{
+		"copyCode" : 51007,
+		"enterMinLevel" : 370,
+		"height" : 2500,
+		"mapId" : 212306,
+		"mapName" : "炼血秘境（炼狱）",
+		"singleMode" : 1,
+		"width" : 2500
+	},
+	
+	{
+		"copyCode" : 1110,
+		"enterMinLevel" : 170,
+		"height" : 1500,
+		"mapId" : 217501,
+		"mapName" : "诛仙阵-巨石阵",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 11110,
+		"enterMinLevel" : 220,
+		"height" : 1500,
+		"mapId" : 217502,
+		"mapName" : "诛仙阵-巨石阵",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 21110,
+		"enterMinLevel" : 270,
+		"height" : 1500,
+		"mapId" : 217503,
+		"mapName" : "诛仙阵-巨石阵",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 31110,
+		"enterMinLevel" : 320,
+		"height" : 1500,
+		"mapId" : 217504,
+		"mapName" : "诛仙阵-巨石阵",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 41110,
+		"enterMinLevel" : 370,
+		"height" : 1500,
+		"mapId" : 217505,
+		"mapName" : "诛仙阵-巨石阵",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 1110,
+		"enterMinLevel" : 170,
+		"height" : 1500,
+		"mapId" : 217511,
+		"mapName" : "诛仙阵-金绝阵",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 11110,
+		"enterMinLevel" : 220,
+		"height" : 1500,
+		"mapId" : 217512,
+		"mapName" : "诛仙阵-金绝阵",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 21110,
+		"enterMinLevel" : 270,
+		"height" : 1500,
+		"mapId" : 217513,
+		"mapName" : "诛仙阵-金绝阵",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 31110,
+		"enterMinLevel" : 320,
+		"height" : 1500,
+		"mapId" : 217514,
+		"mapName" : "诛仙阵-金绝阵",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 41110,
+		"enterMinLevel" : 370,
+		"height" : 1500,
+		"mapId" : 217515,
+		"mapName" : "诛仙阵-金绝阵",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 1110,
+		"enterMinLevel" : 170,
+		"height" : 1000,
+		"mapId" : 217521,
+		"mapName" : "诛仙阵-木沼阵",
+		"singleMode" : 1,
+		"width" : 1500
+	},
+	
+	{
+		"copyCode" : 11110,
+		"enterMinLevel" : 220,
+		"height" : 1000,
+		"mapId" : 217522,
+		"mapName" : "诛仙阵-木沼阵",
+		"singleMode" : 1,
+		"width" : 1500
+	},
+	
+	{
+		"copyCode" : 21110,
+		"enterMinLevel" : 270,
+		"height" : 1000,
+		"mapId" : 217523,
+		"mapName" : "诛仙阵-木沼阵",
+		"singleMode" : 1,
+		"width" : 1500
+	},
+	
+	{
+		"copyCode" : 31110,
+		"enterMinLevel" : 320,
+		"height" : 1000,
+		"mapId" : 217524,
+		"mapName" : "诛仙阵-木沼阵",
+		"singleMode" : 1,
+		"width" : 1500
+	},
+	
+	{
+		"copyCode" : 41110,
+		"enterMinLevel" : 370,
+		"height" : 1000,
+		"mapId" : 217525,
+		"mapName" : "诛仙阵-木沼阵",
+		"singleMode" : 1,
+		"width" : 1500
+	},
+	
+	{
+		"copyCode" : 1110,
+		"enterMinLevel" : 170,
+		"height" : 1500,
+		"mapId" : 217531,
+		"mapName" : "诛仙阵-水灵阵",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 11110,
+		"enterMinLevel" : 220,
+		"height" : 1500,
+		"mapId" : 217532,
+		"mapName" : "诛仙阵-水灵阵",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 21110,
+		"enterMinLevel" : 270,
+		"height" : 1500,
+		"mapId" : 217533,
+		"mapName" : "诛仙阵-水灵阵",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 31110,
+		"enterMinLevel" : 320,
+		"height" : 1500,
+		"mapId" : 217534,
+		"mapName" : "诛仙阵-水灵阵",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 41110,
+		"enterMinLevel" : 370,
+		"height" : 1500,
+		"mapId" : 217535,
+		"mapName" : "诛仙阵-水灵阵",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 1110,
+		"enterMinLevel" : 170,
+		"height" : 1500,
+		"mapId" : 217541,
+		"mapName" : "诛仙阵-炎火阵",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 11110,
+		"enterMinLevel" : 220,
+		"height" : 1500,
+		"mapId" : 217542,
+		"mapName" : "诛仙阵-炎火阵",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 21110,
+		"enterMinLevel" : 270,
+		"height" : 1500,
+		"mapId" : 217543,
+		"mapName" : "诛仙阵-炎火阵",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 31110,
+		"enterMinLevel" : 320,
+		"height" : 1500,
+		"mapId" : 217544,
+		"mapName" : "诛仙阵-炎火阵",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 41110,
+		"enterMinLevel" : 370,
+		"height" : 1500,
+		"mapId" : 217545,
+		"mapName" : "诛仙阵-炎火阵",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 9100,
+		"enterMinLevel" : 280,
+		"height" : 2000,
+		"mapId" : 240000,
+		"mapName" : "五行神殿",
+		"singleMode" : 1,
+		"width" : 2500
+	},
+	
+	{
+		"copyCode" : 9400,
+		"enterMinLevel" : 200,
+		"height" : 3500,
+		"mapId" : 240100,
+		"mapName" : "守卫仙盟",
+		"singleMode" : 1,
+		"width" : 5000
+	},
+	
+	{
+		"copyCode" : 9200,
+		"enterMinLevel" : 110,
+		"height" : 4000,
+		"mapId" : 240200,
+		"mapName" : "战场之魂",
+		"singleMode" : 1,
+		"width" : 6000
+	},
+	
+	{
+		"copyCode" : 9300,
+		"enterMinLevel" : 330,
+		"height" : 2000,
+		"mapId" : 240500,
+		"mapName" : "百鬼夜行",
+		"singleMode" : 1,
+		"width" : 3000
+	},
+	
+	{
+		"copyCode" : 9800,
+		"enterMinLevel" : 50,
+		"height" : 2500,
+		"mapId" : 240600,
+		"mapName" : "结婚庆典",
+		"singleMode" : 1,
+		"width" : 3500
+	},
+	
+	{
+		"copyCode" : 9700,
+		"enterMinLevel" : 213,
+		"height" : 2500,
+		"mapId" : 240700,
+		"mapName" : "云中花海",
+		"width" : 4000
+	},
+	
+	{
+		"copyCode" : 19700,
+		"enterMinLevel" : 214,
+		"height" : 3000,
+		"mapId" : 240710,
+		"mapName" : "鹊桥相会",
+		"width" : 4500
+	},
+	
+	{
+		"copyCode" : 9500,
+		"enterMinLevel" : 450,
+		"height" : 8000,
+		"mapId" : 240800,
+		"mapName" : "上古神迹",
+		"singleMode" : 1,
+		"width" : 13000
+	},
+	
+	{
+		"height" : 2500,
+		"mapId" : 300000,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 5004,
+		"enterMinLevel" : 110,
+		"height" : 2000,
+		"mapId" : 300700,
+		"mapName" : "仙盟晚宴",
+		"singleMode" : 1,
+		"width" : 2500
+	},
+	
+	{
+		"copyCode" : 5005,
+		"enterMinLevel" : 43,
+		"height" : 1769,
+		"mapId" : 300800,
+		"mapName" : "仙盟兽神",
+		"singleMode" : 1,
+		"width" : 2490
+	},
+	
+	{
+		"copyCode" : 5006,
+		"enterMinLevel" : 60,
+		"height" : 5500,
+		"mapId" : 300900,
+		"mapName" : "仙盟争霸",
+		"singleMode" : 1,
+		"width" : 8000
+	},
+	
+	{
+		"copyCode" : 5007,
+		"enterMinLevel" : 350,
+		"height" : 5000,
+		"mapId" : 301000,
+		"mapName" : "跨服盟战",
+		"singleMode" : 1,
+		"width" : 8500
+	},
+	
+	{
+		"height" : 4000,
+		"mapId" : 301001,
+		"mapName" : "玉龙雪山",
+		"width" : 5000
+	},
+	
+	{
+		"height" : 4908,
+		"mapId" : 301002,
+		"mapName" : "玉龙雪山2",
+		"width" : 6000
+	},
+	
+	{
+		"height" : 5600,
+		"mapId" : 302001,
+		"mapName" : "无尽火狱",
+		"width" : 5800
+	},
+	
+	{
+		"height" : 4000,
+		"mapId" : 305000,
+		"mapName" : "三界战场",
+		"width" : 6000
+	},
+	
+	{
+		"copyCode" : 5002,
+		"enterMinLevel" : 110,
+		"height" : 3500,
+		"mapId" : 306000,
+		"mapName" : "第一层",
+		"singleMode" : 1,
+		"width" : 4500
+	},
+	
+	{
+		"copyCode" : 5002,
+		"enterMinLevel" : 110,
+		"height" : 3500,
+		"mapId" : 306001,
+		"mapName" : "第二层",
+		"singleMode" : 1,
+		"width" : 4500
+	},
+	
+	{
+		"copyCode" : 5002,
+		"enterMinLevel" : 110,
+		"height" : 3500,
+		"mapId" : 306002,
+		"mapName" : "第三层",
+		"singleMode" : 1,
+		"width" : 4500
+	},
+	
+	{
+		"copyCode" : 5002,
+		"enterMinLevel" : 110,
+		"height" : 3500,
+		"mapId" : 306003,
+		"mapName" : "第四层",
+		"singleMode" : 1,
+		"width" : 4500
+	},
+	
+	{
+		"copyCode" : 5002,
+		"enterMinLevel" : 110,
+		"height" : 3500,
+		"mapId" : 306004,
+		"mapName" : "第五层",
+		"singleMode" : 1,
+		"width" : 4500
+	},
+	
+	{
+		"copyCode" : 5002,
+		"enterMinLevel" : 110,
+		"height" : 3500,
+		"mapId" : 306005,
+		"mapName" : "第六层",
+		"singleMode" : 1,
+		"width" : 4500
+	},
+	
+	{
+		"copyCode" : 5002,
+		"enterMinLevel" : 110,
+		"height" : 3500,
+		"mapId" : 306006,
+		"mapName" : "第七层",
+		"singleMode" : 1,
+		"width" : 4500
+	},
+	
+	{
+		"copyCode" : 5002,
+		"enterMinLevel" : 110,
+		"height" : 3500,
+		"mapId" : 306007,
+		"mapName" : "第八层",
+		"singleMode" : 1,
+		"width" : 4500
+	},
+	
+	{
+		"copyCode" : 5002,
+		"enterMinLevel" : 110,
+		"height" : 3500,
+		"mapId" : 306008,
+		"mapName" : "第九层",
+		"singleMode" : 1,
+		"width" : 4500
+	},
+	
+	{
+		"copyCode" : 5012,
+		"enterMinLevel" : 110,
+		"height" : 3500,
+		"mapId" : 306100,
+		"mapName" : "第一层",
+		"singleMode" : 1,
+		"width" : 4500
+	},
+	
+	{
+		"copyCode" : 5012,
+		"enterMinLevel" : 110,
+		"height" : 3500,
+		"mapId" : 306101,
+		"mapName" : "第二层",
+		"singleMode" : 1,
+		"width" : 4500
+	},
+	
+	{
+		"copyCode" : 5012,
+		"enterMinLevel" : 110,
+		"height" : 3500,
+		"mapId" : 306102,
+		"mapName" : "第三层",
+		"singleMode" : 1,
+		"width" : 4500
+	},
+	
+	{
+		"copyCode" : 5012,
+		"enterMinLevel" : 110,
+		"height" : 3500,
+		"mapId" : 306103,
+		"mapName" : "第四层",
+		"singleMode" : 1,
+		"width" : 4500
+	},
+	
+	{
+		"copyCode" : 5012,
+		"enterMinLevel" : 110,
+		"height" : 3500,
+		"mapId" : 306104,
+		"mapName" : "第五层",
+		"singleMode" : 1,
+		"width" : 4500
+	},
+	
+	{
+		"copyCode" : 5012,
+		"enterMinLevel" : 110,
+		"height" : 3500,
+		"mapId" : 306105,
+		"mapName" : "第六层",
+		"singleMode" : 1,
+		"width" : 4500
+	},
+	
+	{
+		"copyCode" : 5012,
+		"enterMinLevel" : 110,
+		"height" : 3500,
+		"mapId" : 306106,
+		"mapName" : "第七层",
+		"singleMode" : 1,
+		"width" : 4500
+	},
+	
+	{
+		"copyCode" : 5012,
+		"enterMinLevel" : 110,
+		"height" : 3500,
+		"mapId" : 306107,
+		"mapName" : "第八层",
+		"singleMode" : 1,
+		"width" : 4500
+	},
+	
+	{
+		"copyCode" : 5012,
+		"enterMinLevel" : 110,
+		"height" : 3500,
+		"mapId" : 306108,
+		"mapName" : "第九层",
+		"singleMode" : 1,
+		"width" : 4500
+	},
+	
+	{
+		"copyCode" : 8002,
+		"enterMinLevel" : 1,
+		"height" : 1000,
+		"mapId" : 308002,
+		"mapName" : "修仙论道",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 8003,
+		"enterMinLevel" : 1,
+		"height" : 2400,
+		"mapId" : 308003,
+		"mapName" : "仙盟争霸",
+		"singleMode" : 1,
+		"width" : 3200
+	},
+	
+	{
+		"copyCode" : 5003,
+		"enterMinLevel" : 40,
+		"height" : 2000,
+		"mapId" : 401001,
+		"mapName" : "巅峰竞技",
+		"singleMode" : 1,
+		"width" : 3500
+	},
+	
+	{
+		"copyCode" : 5013,
+		"enterMinLevel" : 40,
+		"height" : 2000,
+		"mapId" : 401002,
+		"mapName" : "巅峰竞技",
+		"singleMode" : 1,
+		"width" : 3500
+	},
+	
+	{
+		"copyCode" : 5103,
+		"enterMinLevel" : 70,
+		"height" : 2000,
+		"mapId" : 405103,
+		"mapName" : "九幽魔窟",
+		"width" : 2500
+	},
+	
+	{
+		"copyCode" : 15103,
+		"enterMinLevel" : 70,
+		"height" : 2000,
+		"mapId" : 405104,
+		"mapName" : "九幽魔窟",
+		"singleMode" : 1,
+		"width" : 2500
+	},
+	
+	{
+		"height" : 5500,
+		"mapId" : 505201,
+		"mapName" : "坠神渊",
+		"width" : 8000
+	},
+	
+	{
+		"enterMinLevel" : 200,
+		"height" : 5500,
+		"mapId" : 505202,
+		"mapName" : "封魔谷",
+		"width" : 8000
+	},
+	
+	{
+		"copyCode" : 5203,
+		"enterMinLevel" : 180,
+		"height" : 4000,
+		"mapId" : 505203,
+		"mapName" : "BOSS之家一层",
+		"singleMode" : 1,
+		"width" : 7000
+	},
+	
+	{
+		"copyCode" : 5204,
+		"enterMinLevel" : 180,
+		"height" : 4000,
+		"mapId" : 505204,
+		"mapName" : "BOSS之家二层",
+		"singleMode" : 1,
+		"width" : 7000
+	},
+	
+	{
+		"copyCode" : 5205,
+		"enterMinLevel" : 180,
+		"height" : 4000,
+		"mapId" : 505205,
+		"mapName" : "BOSS之家三层",
+		"singleMode" : 1,
+		"width" : 7000
+	},
+	
+	{
+		"enterMinLevel" : 240,
+		"height" : 5500,
+		"mapId" : 505206,
+		"mapName" : "太一神迹",
+		"width" : 8000
+	},
+	
+	{
+		"copyCode" : 5206,
+		"enterMinLevel" : 260,
+		"height" : 5500,
+		"mapId" : 505207,
+		"mapName" : "蛮荒禁地一层",
+		"singleMode" : 1,
+		"width" : 8000
+	},
+	
+	{
+		"enterMinLevel" : 371,
+		"height" : 5500,
+		"mapId" : 505208,
+		"mapName" : "寒冰炼狱",
+		"width" : 8000
+	},
+	
+	{
+		"copyCode" : 5207,
+		"enterMinLevel" : 180,
+		"height" : 4000,
+		"mapId" : 505209,
+		"mapName" : "BOSS之家四层",
+		"singleMode" : 1,
+		"width" : 7000
+	},
+	
+	{
+		"copyCode" : 5208,
+		"enterMinLevel" : 180,
+		"height" : 4000,
+		"mapId" : 505210,
+		"mapName" : "BOSS之家五层",
+		"singleMode" : 1,
+		"width" : 7000
+	},
+	
+	{
+		"enterMinLevel" : 500,
+		"height" : 5500,
+		"mapId" : 505211,
+		"mapName" : "寒冰幻境",
+		"width" : 8000
+	},
+	
+	{
+		"copyCode" : 15206,
+		"enterMinLevel" : 371,
+		"height" : 5500,
+		"mapId" : 505217,
+		"mapName" : "蛮荒禁地二层",
+		"singleMode" : 1,
+		"width" : 8000
+	},
+	
+	{
+		"copyCode" : 5301,
+		"enterMinLevel" : 999,
+		"height" : 2500,
+		"mapId" : 505301,
+		"mapName" : "镇魔古迹",
+		"width" : 2500
+	},
+	
+	{
+		"copyCode" : 5301,
+		"enterMinLevel" : 999,
+		"height" : 2500,
+		"mapId" : 505302,
+		"mapName" : "镇魔古迹第二层",
+		"width" : 2500
+	},
+	
+	{
+		"copyCode" : 5301,
+		"enterMinLevel" : 999,
+		"height" : 2000,
+		"mapId" : 505303,
+		"mapName" : "镇魔古迹第三层",
+		"width" : 2000
+	},
+	
+	{
+		"copyCode" : 5301,
+		"enterMinLevel" : 999,
+		"height" : 2500,
+		"mapId" : 505304,
+		"mapName" : "镇魔古迹第四层",
+		"width" : 2500
+	},
+	
+	{
+		"copyCode" : 5301,
+		"enterMinLevel" : 999,
+		"height" : 2000,
+		"mapId" : 505305,
+		"mapName" : "镇魔古迹第五层",
+		"width" : 2500
+	},
+	
+	{
+		"copyCode" : 6101,
+		"enterMinLevel" : 350,
+		"height" : 10000,
+		"mapId" : 510702,
+		"mapName" : "神兽岛一层",
+		"singleMode" : 1,
+		"width" : 16500
+	},
+	
+	{
+		"copyCode" : 6101,
+		"enterMinLevel" : 450,
+		"height" : 10000,
+		"mapId" : 510703,
+		"mapName" : "神兽岛二层",
+		"singleMode" : 1,
+		"width" : 16500
+	},
+	
+	{
+		"copyCode" : 5401,
+		"enterMinLevel" : 105,
+		"height" : 2000,
+		"mapId" : 515401,
+		"mapName" : "幽冥沼泽(Ⅰ)",
+		"width" : 3000
+	},
+	
+	{
+		"copyCode" : 25401,
+		"enterMinLevel" : 140,
+		"height" : 2000,
+		"mapId" : 525401,
+		"mapName" : "幽冥沼泽(Ⅱ)",
+		"width" : 3000
+	},
+	
+	{
+		"copyCode" : 35401,
+		"enterMinLevel" : 200,
+		"height" : 1500,
+		"mapId" : 535401,
+		"mapName" : "东海流波(Ⅰ)",
+		"width" : 2500
+	},
+	
+	{
+		"copyCode" : 45401,
+		"enterMinLevel" : 250,
+		"height" : 1500,
+		"mapId" : 545401,
+		"mapName" : "东海流波(Ⅱ)",
+		"width" : 2500
+	},
+	
+	{
+		"copyCode" : 55401,
+		"enterMinLevel" : 300,
+		"height" : 3000,
+		"mapId" : 555401,
+		"mapName" : "万年寒境(Ⅰ)",
+		"width" : 2500
+	},
+	
+	{
+		"copyCode" : 65401,
+		"enterMinLevel" : 350,
+		"height" : 3000,
+		"mapId" : 565401,
+		"mapName" : "万年寒境(Ⅱ)",
+		"width" : 2500
+	},
+	
+	{
+		"copyCode" : 75401,
+		"enterMinLevel" : 400,
+		"height" : 3000,
+		"mapId" : 575401,
+		"mapName" : "焚香火域(Ⅰ)",
+		"width" : 2500
+	},
+	
+	{
+		"height" : 5600,
+		"mapId" : 601000,
+		"mapName" : "测试地图",
+		"width" : 5800
+	},
+	
+	{
+		"height" : 2000,
+		"mapId" : 601001,
+		"mapName" : "仙帝宝库",
+		"width" : 1815
+	},
+	
+	{
+		"height" : 2000,
+		"mapId" : 602001,
+		"mapName" : "九幽魔窟",
+		"width" : 2500
+	},
+	
+	{
+		"height" : 2000,
+		"mapId" : 603001,
+		"mapName" : "守护仙灵",
+		"width" : 3000
+	},
+	
+	{
+		"copyCode" : 2001,
+		"enterMinLevel" : 65,
+		"height" : 2000,
+		"mapId" : 604001,
+		"mapName" : "诛仙塔",
+		"singleMode" : 1,
+		"width" : 2000
+	},
+	
+	{
+		"height" : 5000,
+		"mapId" : 700001,
+		"mapName" : "凌霄城",
+		"width" : 6500
+	},
+	
+	{
+		"copyCode" : 701,
+		"enterMinLevel" : 1,
+		"height" : 2000,
+		"mapId" : 701000,
+		"mapName" : "经验副本",
+		"singleMode" : 1,
+		"width" : 2500
+	},
+	
+	{
+		"height" : 5500,
+		"mapId" : 701001,
+		"mapName" : "缥缈峰",
+		"width" : 6000
+	},
+	
+	{
+		"copyCode" : 1701,
+		"enterMinLevel" : 1,
+		"height" : 2000,
+		"mapId" : 702000,
+		"mapName" : "铸造副本",
+		"singleMode" : 1,
+		"width" : 3000
+	},
+	
+	{
+		"height" : 5500,
+		"mapId" : 702001,
+		"mapName" : "青云剑宗",
+		"width" : 6500
+	},
+	
+	{
+		"copyCode" : 2701,
+		"enterMinLevel" : 1,
+		"height" : 2000,
+		"mapId" : 703000,
+		"mapName" : "经脉副本",
+		"singleMode" : 1,
+		"width" : 3000
+	},
+	
+	{
+		"height" : 4000,
+		"mapId" : 703001,
+		"mapName" : "玉龙雪山",
+		"width" : 5000
+	},
+	
+	{
+		"copyCode" : 3701,
+		"enterMinLevel" : 1,
+		"height" : 3000,
+		"mapId" : 704000,
+		"mapName" : "羽毛副本",
+		"singleMode" : 1,
+		"width" : 2500
+	},
+	
+	{
+		"height" : 5600,
+		"mapId" : 704001,
+		"mapName" : "无尽火狱",
+		"width" : 5800
+	},
+	
+	{
+		"copyCode" : 4701,
+		"enterMinLevel" : 1,
+		"height" : 3000,
+		"mapId" : 705000,
+		"mapName" : "龙魂副本",
+		"singleMode" : 1,
+		"width" : 2500
+	},
+	
+	{
+		"height" : 4000,
+		"mapId" : 705001,
+		"mapName" : "楼兰古城",
+		"width" : 5000
+	},
+	
+	{
+		"height" : 4000,
+		"mapId" : 706001,
+		"mapName" : "乱魔之海",
+		"width" : 5000
+	},
+	
+	{
+		"copyCode" : 801,
+		"enterMinLevel" : 90,
+		"height" : 1500,
+		"mapId" : 801000,
+		"mapName" : "boss地图1",
+		"singleMode" : 1,
+		"width" : 1500
+	},
+	
+	{
+		"height" : 1500,
+		"mapId" : 802000,
+		"mapName" : "个人boss",
+		"width" : 1500
+	},
+	
+	{
+		"height" : 3600,
+		"mapId" : 900000,
+		"mapName" : "测试地图",
+		"width" : 3600
+	},
+	
+	{
+		"copyCode" : 901,
+		"enterMinLevel" : 1,
+		"height" : 4000,
+		"mapId" : 901000,
+		"mapName" : "玉龙雪山",
+		"singleMode" : 1,
+		"width" : 5000
+	},
+	
+	{
+		"height" : 5500,
+		"mapId" : 901001,
+		"mapName" : "熔岩地图",
+		"width" : 5500
+	},
+	
+	{
+		"height" : 2000,
+		"mapId" : 901002,
+		"mapName" : "测试底图",
+		"width" : 3000
+	},
+	
+	{
+		"height" : 3000,
+		"mapId" : 901003,
+		"mapName" : "关卡地图3",
+		"width" : 2500
+	},
+	
+	{
+		"height" : 2500,
+		"mapId" : 901004,
+		"mapName" : "关卡地图4",
+		"width" : 2500
+	},
+	
+	{
+		"copyCode" : 10901,
+		"enterMinLevel" : 1,
+		"height" : 5500,
+		"mapId" : 901005,
+		"mapName" : "无尽火狱",
+		"singleMode" : 1,
+		"width" : 5500
+	},
+	
+	{
+		"height" : 6400,
+		"mapId" : 999995,
+		"mapName" : "测试地图1",
+		"width" : 4096
+	},
+	
+	{
+		"height" : 4984,
+		"mapId" : 999997,
+		"mapName" : "凌霄城",
+		"width" : 6512
+	},
+	
+	{
+		"height" : 5000,
+		"mapId" : 999998,
+		"mapName" : "凌霄城",
+		"width" : 6500
+	},
+	
+	{
+		"copyCode" : 5001,
+		"enterMinLevel" : 50,
+		"height" : 4000,
+		"mapId" : 999999,
+		"mapName" : "三界战场",
+		"singleMode" : 1,
+		"width" : 6000
+	}
+]

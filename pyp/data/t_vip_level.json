@@ -1,0 +1,57 @@
+
+[
+	
+	{
+		"desc" : "◆专属称号“青铜地仙”，战力提升<font color ='#01AB24'>2000</font><br>◆大量铜钱：仙帝宝库副本购买次数<font color ='#01AB24'>+1</font><br>◆宠物提升：守护仙灵副本购买次数<font color ='#01AB24'>+1</font><br>◆快速升级，杀怪经验<font color ='#01AB24'>+30%</font><br>◆<font color ='#01AB24'>专属VIP特惠商品</font>，商城特卖<br>◆方便快捷，<font color ='#01AB24'>无限免费传送</font><br>◆商人福利，市场税率减半，降至<font color ='#01AB24'>10%</font><br>◆懒人福利，自动进行仙盟任务<br>◆额外铜钱经验：祈福次数<font color ='#01AB24'>+2</font>,铜币祈福暴击几率提升<br>◆套装材料：蛮荒禁地次数<font color ='#01AB24'>+1</font>",
+		"growth" : 3,
+		"level" : 1
+	},
+	
+	{
+		"desc" : "◆专属称号“青铜地仙”，战力提升<font color ='#01AB24'>2000</font><br>◆每日签到，奖励最高<font color ='#01AB24'>2</font>倍<br>◆极致升级：九幽魔窟副本购买次数<font color ='#01AB24'>+1</font><br>◆大量铜钱：仙帝宝库副本购买次数<font color ='#01AB24'>+1</font><br>◆宠物提升：守护仙灵副本购买次数<font color ='#01AB24'>+2</font><br>◆快速升级，杀怪经验<font color ='#01AB24'>+30%</font><br>◆额外铜钱经验：祈福次数<font color ='#01AB24'>+4</font>,铜币祈福暴击几率提升<br>◆<font color ='#01AB24'>专属VIP特惠商品</font>，商城特卖<br>◆方便快捷，<font color ='#01AB24'>无限免费传送</font><br>◆商人福利，市场税率减半，降至<font color ='#01AB24'>10%</font><br>◆套装材料：蛮荒禁地次数<font color ='#01AB24'>+2</font>",
+		"growth" : 30,
+		"level" : 2
+	},
+	
+	{
+		"desc" : "◆专属称号“青铜地仙”，战力提升<font color ='#01AB24'>2000</font><br>◆每日签到，奖励最高<font color ='#01AB24'>3</font>倍<br>◆极致升级：九幽魔窟副本购买次数<font color ='#01AB24'>+1</font><br>◆大量铜钱：仙帝宝库副本购买次数<font color ='#01AB24'>+1</font><br>◆宠物提升：守护仙灵副本购买次数<font color ='#01AB24'>+2</font><br>◆快速升级，杀怪经验<font color ='#01AB24'>+30%</font><br>◆额外铜钱经验：祈福次数<font color ='#01AB24'>+4</font>,铜币祈福暴击几率提升<br>◆<font color ='#01AB24'>专属VIP特惠商品</font>，商城特卖<br>◆方便快捷，<font color ='#01AB24'>无限免费传送</font><br>◆商人福利，市场税率减半，降至<font color ='#01AB24'>10%</font><br>◆套装材料：蛮荒禁地次数<font color ='#01AB24'>+2</font>",
+		"growth" : 100,
+		"level" : 3
+	},
+	
+	{
+		"desc" : "◆专属称号“白金上仙”，战力提升<font color ='#01AB24'>4000</font><br>◆专属Buff，攻击<font color ='#01AB24'>+100</font>，防御<font color ='#01AB24'>+30</font><br>◆专属BOSS，稀有红装，<font color ='#01AB24'>BOSS家一层</font><br>◆懒人福利，<font color ='#01AB24'>自动进行仙盟任务</font><br>◆额外铜钱经验：祈福次数<font color ='#01AB24'>+6</font>,铜币祈福暴击几率提升<br>◆宠物吞噬经验<font color ='#01AB24'>+50%</font><br>◆每日签到，奖励最高<font color ='#01AB24'>4</font>倍<br>◆极致升级：九幽魔窟副本购买次数<font color ='#01AB24'>+1</font><br>◆大量铜钱：仙帝宝库副本购买次数<font color ='#01AB24'>+2</font><br>◆宠物提升：守护仙灵副本购买次数+<font color ='#01AB24'>3</font><br>◆套装材料：蛮荒禁地次数<font color ='#01AB24'>+3</font><br>◆神器材料：上古神迹次数<font color ='#01AB24'>+3</font><br>◆神器材料：上古神迹疲劳值<font color ='#01AB24'>+2</font><br>◆圣印材料：五行神殿次数<font color ='#01AB24'>+1</font><br>◆觉醒材料：幽魂秘境次数<font color ='#01AB24'>+1</font><br>◆精准交易：可使用密码交易功能<br>◆离线留言：可给离线好友发送3条离线消息<br>◆包含<font color ='#01AB24'>V1-V3</font>所有特权",
+		"growth" : 250,
+		"level" : 4
+	},
+	
+	{
+		"desc" : "◆专属称号“白金上仙”，战力提升<font color ='#01AB24'>4000</font><br>◆装备可镶嵌宝石数<font color ='#01AB24'>+1</font><br>◆专属BOSS，稀有红装，<font color ='#01AB24'>BOSS家二层</font><br>◆每日签到，奖励最高<font color ='#01AB24'>5</font>倍<br>◆额外铜钱经验：祈福次数<font color ='#01AB24'>+8</font>,铜币祈福暴击几率提升<br>◆专属Buff，攻击<font color ='#01AB24'>+150</font>，防御<font color ='#01AB24'>+40</font><br>◆极致升级：九幽魔窟副本购买次数<font color ='#01AB24'>+2</font><br>◆大量铜钱：仙帝宝库副本购买次数<font color ='#01AB24'>+2</font><br>◆宠物提升：守护仙灵副本购买次数<font color ='#01AB24'>+3</font><br>◆宠物吞噬经验<font color ='#01AB24'>+50%</font><br>◆套装材料：蛮荒禁地次数<font color ='#01AB24'>+3</font><br>◆神器材料：上古神迹次数<font color ='#01AB24'>+4</font><br>◆神器材料：上古神迹疲劳值<font color ='#01AB24'>+2</font><br>◆圣印材料：五行神殿次数<font color ='#01AB24'>+1</font><br>◆觉醒材料：幽魂秘境次数<font color ='#01AB24'>+1</font><br>◆精准交易：可使用密码交易功能<br>◆离线留言：可给离线好友发送3条离线消息<br>◆包含<font color ='#01AB24'>V1-V4</font>所有特权",
+		"growth" : 500,
+		"level" : 5
+	},
+	
+	{
+		"desc" : "◆专属称号“星耀仙帝”，战力提升<font color ='#01AB24'>8000</font><br>◆装备可镶嵌宝石数<font color ='#01AB24'>+1</font><br>◆专属BOSS，稀有红装，<font color ='#01AB24'>BOSS家三层</font><br>◆每日签到，奖励最高<font color ='#01AB24'>6</font>倍<br>◆额外铜钱经验：祈福次数<font color ='#01AB24'>+10</font>,铜币祈福暴击几率提升<br>◆专属Buff，攻击<font color ='#01AB24'>+200</font>，防御<font color ='#01AB24'>+50</font><br>◆极致升级：九幽魔窟副本购买次数<font color ='#01AB24'>+2</font><br>◆大量铜钱：仙帝宝库副本购买次数<font color ='#01AB24'>+2</font><br>◆宠物提升：守护仙灵副本购买次数<font color ='#01AB24'>+4</font><br>◆宠物吞噬经验<font color ='#01AB24'>+50%</font><br>◆套装材料：蛮荒禁地次数<font color ='#01AB24'>+4</font><br>◆神器材料：上古神迹次数<font color ='#01AB24'>+5</font><br>◆神器材料：上古神迹疲劳值<font color ='#01AB24'>+4</font><br>◆圣印材料：五行神殿次数<font color ='#01AB24'>+2</font><br>◆觉醒材料：幽魂秘境次数<font color ='#01AB24'>+2</font><br>◆精准交易：可使用密码交易功能<br>◆离线留言：可给离线好友发送3条离线消息<br>◆包含<font color ='#01AB24'>V1-V5</font>所有特权",
+		"growth" : 1100,
+		"level" : 6
+	},
+	
+	{
+		"desc" : "◆专属称号“星耀仙帝”，战力提升<font color ='#01AB24'>8000</font><br>◆装备可镶嵌宝石数<font color ='#01AB24'>+1</font><br>◆专属BOSS，稀有红装，<font color ='#01AB24'>BOSS家四层</font><br>◆每日签到，奖励最高<font color ='#01AB24'>7</font>倍<br>◆额外铜钱经验：祈福次数<font color ='#01AB24'>+14</font>,铜币祈福暴击几率提升<br>◆专属Buff，攻击<font color ='#01AB24'>+300</font>，防御<font color ='#01AB24'>+60</font><br>◆极致升级：九幽魔窟副本购买次数<font color ='#01AB24'>+2</font><br>◆大量铜钱：仙帝宝库副本购买次数<font color ='#01AB24'>+3</font><br>◆宠物提升：守护仙灵副本购买次数<font color ='#01AB24'>+4</font><br>◆宠物吞噬经验<font color ='#01AB24'>+50%</font><br>◆套装材料：蛮荒禁地次数<font color ='#01AB24'>+4</font><br>◆神器材料：上古神迹次数<font color ='#01AB24'>+6</font><br>◆神器材料：上古神迹疲劳值<font color ='#01AB24'>+4</font><br>◆圣印材料：五行神殿次数<font color ='#01AB24'>+2</font><br>◆翅膀装备：个人BOSS次数<font color ='#01AB24'>+1</font><br>◆觉醒材料：幽魂秘境次数<font color ='#01AB24'>+2</font><br>◆精准交易：可使用密码交易功能<br>◆离线留言：可给离线好友发送3条离线消息<br>◆包含<font color ='#01AB24'>V1-V6</font>所有特权",
+		"growth" : 2300,
+		"level" : 7
+	},
+	
+	{
+		"desc" : "◆专属称号“无上神皇”，战力提升<font color ='#01AB24'>16000</font><br>◆装备可镶嵌宝石数<font color ='#01AB24'>+1</font><br>◆专属BOSS，稀有红装，<font color ='#01AB24'>BOSS家五层</font><br>◆每日签到，奖励最高<font color ='#01AB24'>7</font>倍<br>◆额外铜钱经验：祈福次数<font color ='#01AB24'>+18</font>,铜币祈福暴击几率提升<br>◆专属Buff，攻击<font color ='#01AB24'>+400</font>，防御<font color ='#01AB24'>+75</font><br>◆极致升级：九幽魔窟副本购买次数<font color ='#01AB24'>+3</font><br>◆大量铜钱：仙帝宝库副本购买次数<font color ='#01AB24'>+3</font><br>◆宠物提升：守护仙灵副本购买次数<font color ='#01AB24'>+5</font><br>◆宠物吞噬经验<font color ='#01AB24'>+50%</font><br>◆套装材料：蛮荒禁地次数<font color ='#01AB24'>+5</font><br>◆神器材料：上古神迹次数<font color ='#01AB24'>+7</font><br>◆神器材料：上古神迹疲劳值<font color ='#01AB24'>+6</font><br>◆圣印材料：五行神殿次数<font color ='#01AB24'>+3</font><br>◆翅膀装备：个人BOSS次数<font color ='#01AB24'>+1</font><br>◆觉醒材料：幽魂秘境次数<font color ='#01AB24'>+2</font><br>◆精准交易：可使用密码交易功能<br>◆离线留言：可给离线好友发送3条离线消息<br>◆包含<font color ='#01AB24'>V1-V7</font>所有特权",
+		"growth" : 4800,
+		"level" : 8
+	},
+	
+	{
+		"desc" : "◆专属称号“无上神皇”，战力提升<font color ='#01AB24'>16000</font><br>◆装备可镶嵌宝石数<font color ='#01AB24'>+1</font><br>◆专属BOSS，稀有红装，<font color ='#01AB24'>BOSS家六层</font><br>◆每日签到，奖励最高<font color ='#01AB24'>7</font>倍<br>◆额外铜钱经验：祈福次数<font color ='#01AB24'>+24</font>,铜币祈福暴击几率提升<br>◆专属Buff，攻击<font color ='#01AB24'>+600</font>，防御<font color ='#01AB24'>+90</font><br>◆极致升级：九幽魔窟副本购买次数<font color ='#01AB24'>+3</font><br>◆大量铜钱：仙帝宝库副本购买次数<font color ='#01AB24'>+3</font><br>◆宠物提升：守护仙灵副本购买次数<font color ='#01AB24'>+5</font><br>◆宠物吞噬经验<font color ='#01AB24'>+50%</font><br>◆套装材料：蛮荒禁地次数<font color ='#01AB24'>+5</font><br>◆神器材料：上古神迹次数<font color ='#01AB24'>+8</font><br>◆神器材料：上古神迹疲劳值<font color ='#01AB24'>+6</font><br>◆圣印材料：五行神殿次数<font color ='#01AB24'>+3</font><br>◆翅膀装备：个人BOSS次数<font color ='#01AB24'>+1</font><br>◆觉醒材料：幽魂秘境次数<font color ='#01AB24'>+2</font><br>◆精准交易：可使用密码交易功能<br>◆离线留言：可给离线好友发送3条离线消息<br>◆包含<font color ='#01AB24'>V1-V8</font>所有特权",
+		"growth" : 9800,
+		"level" : 9
+	}
+]

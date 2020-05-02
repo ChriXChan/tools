@@ -1,0 +1,44 @@
+
+[
+	
+	{
+		"cost" : 200,
+		"guildMoneyReward" : 3000
+	},
+	
+	{
+		"cost" : 1000,
+		"guildMoneyReward" : 6000,
+		"level" : 1
+	},
+	
+	{
+		"cost" : 2000,
+		"guildMoneyReward" : 30000,
+		"level" : 2
+	},
+	
+	{
+		"cost" : 3000,
+		"guildMoneyReward" : 60000,
+		"level" : 3
+	},
+	
+	{
+		"cost" : 4000,
+		"guildMoneyReward" : 90000,
+		"level" : 4
+	},
+	
+	{
+		"cost" : 5000,
+		"guildMoneyReward" : 120000,
+		"level" : 5
+	},
+	
+	{
+		"cost" : 5000,
+		"guildMoneyReward" : 150000,
+		"level" : 6
+	}
+]

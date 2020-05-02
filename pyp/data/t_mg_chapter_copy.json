@@ -1,0 +1,498 @@
+
+[
+	
+	{
+		"chapter" : 1,
+		"icon" : "chapter1001",
+		"id" : 1,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 1,
+		"targetRing" : 1,
+		"title" : "第一章-第1节"
+	},
+	
+	{
+		"chapter" : 1,
+		"icon" : "chapter1001",
+		"id" : 2,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 2,
+		"targetRing" : 2,
+		"title" : "第一章-第2节"
+	},
+	
+	{
+		"chapter" : 1,
+		"icon" : "chapter1001",
+		"id" : 3,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 3,
+		"targetRing" : 3,
+		"title" : "第一章-第3节"
+	},
+	
+	{
+		"chapter" : 1,
+		"icon" : "chapter1001",
+		"id" : 4,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 4,
+		"targetRing" : 4,
+		"title" : "第一章-第4节"
+	},
+	
+	{
+		"chapter" : 1,
+		"icon" : "chapter1001",
+		"id" : 5,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 5,
+		"targetRing" : 5,
+		"title" : "第一章-第5节"
+	},
+	
+	{
+		"chapter" : 1,
+		"icon" : "chapter1001",
+		"id" : 6,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 6,
+		"targetRing" : 6,
+		"title" : "第一章-第6节"
+	},
+	
+	{
+		"chapter" : 1,
+		"icon" : "chapter1001",
+		"id" : 7,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 7,
+		"targetRing" : 7,
+		"title" : "第一章-第7节"
+	},
+	
+	{
+		"chapter" : 1,
+		"icon" : "chapter1001",
+		"id" : 8,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 8,
+		"targetRing" : 8,
+		"title" : "第一章-第8节"
+	},
+	
+	{
+		"chapter" : 1,
+		"icon" : "chapter1001",
+		"id" : 9,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 9,
+		"targetRing" : 9,
+		"title" : "第一章-第9节"
+	},
+	
+	{
+		"chapter" : 2,
+		"icon" : "chapter1001",
+		"id" : 10,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 1,
+		"targetRing" : 10,
+		"title" : "第二章-第1节"
+	},
+	
+	{
+		"chapter" : 2,
+		"icon" : "chapter1001",
+		"id" : 11,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 2,
+		"targetRing" : 11,
+		"title" : "第二章-第2节"
+	},
+	
+	{
+		"chapter" : 2,
+		"icon" : "chapter1001",
+		"id" : 12,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 3,
+		"targetRing" : 12,
+		"title" : "第二章-第3节"
+	},
+	
+	{
+		"chapter" : 2,
+		"icon" : "chapter1001",
+		"id" : 13,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 4,
+		"targetRing" : 13,
+		"title" : "第二章-第4节"
+	},
+	
+	{
+		"chapter" : 2,
+		"icon" : "chapter1001",
+		"id" : 14,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 5,
+		"targetRing" : 14,
+		"title" : "第二章-第5节"
+	},
+	
+	{
+		"chapter" : 2,
+		"icon" : "chapter1001",
+		"id" : 15,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 6,
+		"targetRing" : 15,
+		"title" : "第二章-第6节"
+	},
+	
+	{
+		"chapter" : 2,
+		"icon" : "chapter1001",
+		"id" : 16,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 7,
+		"targetRing" : 16,
+		"title" : "第二章-第7节"
+	},
+	
+	{
+		"chapter" : 2,
+		"icon" : "chapter1001",
+		"id" : 17,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 8,
+		"targetRing" : 17,
+		"title" : "第二章-第8节"
+	},
+	
+	{
+		"chapter" : 2,
+		"icon" : "chapter1001",
+		"id" : 18,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 9,
+		"targetRing" : 18,
+		"title" : "第二章-第9节"
+	},
+	
+	{
+		"chapter" : 3,
+		"icon" : "chapter1001",
+		"id" : 19,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 1,
+		"targetRing" : 19,
+		"title" : "第三章-第1节"
+	},
+	
+	{
+		"chapter" : 3,
+		"icon" : "chapter1001",
+		"id" : 20,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 2,
+		"targetRing" : 20,
+		"title" : "第三章-第2节"
+	},
+	
+	{
+		"chapter" : 3,
+		"icon" : "chapter1001",
+		"id" : 21,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 3,
+		"targetRing" : 21,
+		"title" : "第三章-第3节"
+	},
+	
+	{
+		"chapter" : 3,
+		"icon" : "chapter1001",
+		"id" : 22,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 4,
+		"targetRing" : 22,
+		"title" : "第三章-第4节"
+	},
+	
+	{
+		"chapter" : 3,
+		"icon" : "chapter1001",
+		"id" : 23,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 5,
+		"targetRing" : 23,
+		"title" : "第三章-第5节"
+	},
+	
+	{
+		"chapter" : 3,
+		"icon" : "chapter1001",
+		"id" : 24,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 6,
+		"targetRing" : 24,
+		"title" : "第三章-第6节"
+	},
+	
+	{
+		"chapter" : 3,
+		"icon" : "chapter1001",
+		"id" : 25,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 7,
+		"targetRing" : 25,
+		"title" : "第三章-第7节"
+	},
+	
+	{
+		"chapter" : 3,
+		"icon" : "chapter1001",
+		"id" : 26,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 8,
+		"targetRing" : 26,
+		"title" : "第三章-第8节"
+	},
+	
+	{
+		"chapter" : 3,
+		"icon" : "chapter1001",
+		"id" : 27,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 9,
+		"targetRing" : 27,
+		"title" : "第三章-第9节"
+	},
+	
+	{
+		"chapter" : 4,
+		"icon" : "chapter1001",
+		"id" : 28,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 1,
+		"targetRing" : 28,
+		"title" : "第四章-第1节"
+	},
+	
+	{
+		"chapter" : 4,
+		"icon" : "chapter1001",
+		"id" : 29,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 2,
+		"targetRing" : 29,
+		"title" : "第四章-第2节"
+	},
+	
+	{
+		"chapter" : 4,
+		"icon" : "chapter1001",
+		"id" : 30,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 3,
+		"targetRing" : 30,
+		"title" : "第四章-第3节"
+	},
+	
+	{
+		"chapter" : 4,
+		"icon" : "chapter1001",
+		"id" : 31,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 4,
+		"targetRing" : 31,
+		"title" : "第四章-第4节"
+	},
+	
+	{
+		"chapter" : 4,
+		"icon" : "chapter1001",
+		"id" : 32,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 5,
+		"targetRing" : 32,
+		"title" : "第四章-第5节"
+	},
+	
+	{
+		"chapter" : 4,
+		"icon" : "chapter1001",
+		"id" : 33,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 6,
+		"targetRing" : 33,
+		"title" : "第四章-第6节"
+	},
+	
+	{
+		"chapter" : 4,
+		"icon" : "chapter1001",
+		"id" : 34,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 7,
+		"targetRing" : 34,
+		"title" : "第四章-第7节"
+	},
+	
+	{
+		"chapter" : 4,
+		"icon" : "chapter1001",
+		"id" : 35,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 8,
+		"targetRing" : 35,
+		"title" : "第四章-第8节"
+	},
+	
+	{
+		"chapter" : 4,
+		"icon" : "chapter1001",
+		"id" : 36,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 9,
+		"targetRing" : 36,
+		"title" : "第四章-第9节"
+	},
+	
+	{
+		"chapter" : 5,
+		"icon" : "chapter1001",
+		"id" : 37,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 1,
+		"targetRing" : 37,
+		"title" : "第五章-第1节"
+	},
+	
+	{
+		"chapter" : 5,
+		"icon" : "chapter1001",
+		"id" : 38,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 2,
+		"targetRing" : 38,
+		"title" : "第五章-第2节"
+	},
+	
+	{
+		"chapter" : 5,
+		"icon" : "chapter1001",
+		"id" : 39,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 3,
+		"targetRing" : 39,
+		"title" : "第五章-第3节"
+	},
+	
+	{
+		"chapter" : 5,
+		"icon" : "chapter1001",
+		"id" : 40,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 4,
+		"targetRing" : 40,
+		"title" : "第五章-第4节"
+	},
+	
+	{
+		"chapter" : 5,
+		"icon" : "chapter1001",
+		"id" : 41,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 5,
+		"targetRing" : 41,
+		"title" : "第五章-第5节"
+	},
+	
+	{
+		"chapter" : 5,
+		"icon" : "chapter1001",
+		"id" : 42,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 6,
+		"targetRing" : 42,
+		"title" : "第五章-第6节"
+	},
+	
+	{
+		"chapter" : 5,
+		"icon" : "chapter1001",
+		"id" : 43,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 7,
+		"targetRing" : 43,
+		"title" : "第五章-第7节"
+	},
+	
+	{
+		"chapter" : 5,
+		"icon" : "chapter1001",
+		"id" : 44,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 8,
+		"targetRing" : 44,
+		"title" : "第五章-第8节"
+	},
+	
+	{
+		"chapter" : 5,
+		"icon" : "chapter1001",
+		"id" : 45,
+		"mapId" : 203101,
+		"rewardShow" : "41950001#41950002#60010001#",
+		"section" : 9,
+		"targetRing" : 45,
+		"title" : "第五章-第9节"
+	}
+]

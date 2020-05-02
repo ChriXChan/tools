@@ -1,0 +1,7514 @@
+
+[
+	
+	{
+		"copyCode" : 1008,
+		"id" : 1,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 300,
+		"preCopyCode" : 1008
+	},
+	
+	{
+		"copyCode" : 11008,
+		"id" : 2,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 300,
+		"preCopyCode" : 11008
+	},
+	
+	{
+		"copyCode" : 21008,
+		"id" : 3,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 300,
+		"preCopyCode" : 21008
+	},
+	
+	{
+		"copyCode" : 31008,
+		"id" : 4,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 300,
+		"preCopyCode" : 31008
+	},
+	
+	{
+		"copyCode" : 41008,
+		"id" : 5,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 300,
+		"preCopyCode" : 41008
+	},
+	
+	{
+		"copyCode" : 1009,
+		"id" : 6,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 300,
+		"preCopyCode" : 1009
+	},
+	
+	{
+		"copyCode" : 11009,
+		"id" : 7,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 300,
+		"preCopyCode" : 11009
+	},
+	
+	{
+		"copyCode" : 21009,
+		"id" : 8,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 300,
+		"preCopyCode" : 21009
+	},
+	
+	{
+		"copyCode" : 31009,
+		"id" : 9,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 300,
+		"preCopyCode" : 31009
+	},
+	
+	{
+		"copyCode" : 41009,
+		"id" : 10,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 300,
+		"preCopyCode" : 41009
+	},
+	
+	{
+		"copyCode" : 51009,
+		"id" : 11,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 300,
+		"preCopyCode" : 51009
+	},
+	
+	{
+		"copyCode" : 61009,
+		"id" : 12,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 300,
+		"preCopyCode" : 61009
+	},
+	
+	{
+		"copyCode" : 9100,
+		"id" : 13,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 330,
+		"preCopyCode" : 9100
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 14,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1276734,
+		"standardLevel" : 330
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 15,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1293111,
+		"standardLevel" : 331
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 16,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1309694,
+		"standardLevel" : 332
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 17,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1326486,
+		"standardLevel" : 333
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 18,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1343490,
+		"standardLevel" : 334
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 19,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1360708,
+		"standardLevel" : 335
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 20,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1378143,
+		"standardLevel" : 336
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 21,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1395797,
+		"standardLevel" : 337
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 22,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1413674,
+		"standardLevel" : 338
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 23,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1431777,
+		"standardLevel" : 339
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 24,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1450107,
+		"standardLevel" : 340
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 25,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1468668,
+		"standardLevel" : 341
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 26,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1487464,
+		"standardLevel" : 342
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 27,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1506496,
+		"standardLevel" : 343
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 28,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1525768,
+		"standardLevel" : 344
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 29,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1545282,
+		"standardLevel" : 345
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 30,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1565043,
+		"standardLevel" : 346
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 31,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1585052,
+		"standardLevel" : 347
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 32,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1605314,
+		"standardLevel" : 348
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 33,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1625831,
+		"standardLevel" : 349
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 34,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1646606,
+		"standardLevel" : 350
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 35,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1667644,
+		"standardLevel" : 351
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 36,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1688946,
+		"standardLevel" : 352
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 37,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1710517,
+		"standardLevel" : 353
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 38,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1732359,
+		"standardLevel" : 354
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 39,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1754477,
+		"standardLevel" : 355
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 40,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1776873,
+		"standardLevel" : 356
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 41,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1799552,
+		"standardLevel" : 357
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 42,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1822516,
+		"standardLevel" : 358
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 43,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1845770,
+		"standardLevel" : 359
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 44,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1869317,
+		"standardLevel" : 360
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 45,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1893160,
+		"standardLevel" : 361
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 46,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1917304,
+		"standardLevel" : 362
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 47,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1941752,
+		"standardLevel" : 363
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 48,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1966508,
+		"standardLevel" : 364
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 49,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 1991576,
+		"standardLevel" : 365
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 50,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2016960,
+		"standardLevel" : 366
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 51,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2042664,
+		"standardLevel" : 367
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 52,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2068691,
+		"standardLevel" : 368
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 53,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2095047,
+		"standardLevel" : 369
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 54,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2121734,
+		"standardLevel" : 370
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 55,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2148758,
+		"standardLevel" : 371
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 56,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2176122,
+		"standardLevel" : 372
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 57,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2203832,
+		"standardLevel" : 373
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 58,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2231890,
+		"standardLevel" : 374
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 59,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2260302,
+		"standardLevel" : 375
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 60,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2289072,
+		"standardLevel" : 376
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 61,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2318204,
+		"standardLevel" : 377
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 62,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2347703,
+		"standardLevel" : 378
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 63,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2377574,
+		"standardLevel" : 379
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 64,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2407822,
+		"standardLevel" : 380
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 65,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2438450,
+		"standardLevel" : 381
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 66,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2469465,
+		"standardLevel" : 382
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 67,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2500870,
+		"standardLevel" : 383
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 68,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2532671,
+		"standardLevel" : 384
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 69,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2564873,
+		"standardLevel" : 385
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 70,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2597480,
+		"standardLevel" : 386
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 71,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2630498,
+		"standardLevel" : 387
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 72,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2663932,
+		"standardLevel" : 388
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 73,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2697788,
+		"standardLevel" : 389
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 74,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2732070,
+		"standardLevel" : 390
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 75,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2766784,
+		"standardLevel" : 391
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 76,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2801936,
+		"standardLevel" : 392
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 77,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2837530,
+		"standardLevel" : 393
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 78,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2873573,
+		"standardLevel" : 394
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 79,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2910070,
+		"standardLevel" : 395
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 80,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2947027,
+		"standardLevel" : 396
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 81,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 2984449,
+		"standardLevel" : 397
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 82,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 3022344,
+		"standardLevel" : 398
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 83,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 3060715,
+		"standardLevel" : 399
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 84,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 3099570,
+		"standardLevel" : 400
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 85,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 3138915,
+		"standardLevel" : 401
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 86,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 3178755,
+		"standardLevel" : 402
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 87,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 3219097,
+		"standardLevel" : 403
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 88,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 3259948,
+		"standardLevel" : 404
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 89,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 3301313,
+		"standardLevel" : 405
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 90,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 3343200,
+		"standardLevel" : 406
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 91,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 3385614,
+		"standardLevel" : 407
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 92,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 3428563,
+		"standardLevel" : 408
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 93,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 3472053,
+		"standardLevel" : 409
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 94,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 3516091,
+		"standardLevel" : 410
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 95,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 3560683,
+		"standardLevel" : 411
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 96,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 3605838,
+		"standardLevel" : 412
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 97,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 3651562,
+		"standardLevel" : 413
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 98,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 3697861,
+		"standardLevel" : 414
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 99,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 3744744,
+		"standardLevel" : 415
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 100,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 3792218,
+		"standardLevel" : 416
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 101,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 3840290,
+		"standardLevel" : 417
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 102,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 3888968,
+		"standardLevel" : 418
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 103,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 3938259,
+		"standardLevel" : 419
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 104,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 3988171,
+		"standardLevel" : 420
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 105,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 4038712,
+		"standardLevel" : 421
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 106,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 4089889,
+		"standardLevel" : 422
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 107,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 4141712,
+		"standardLevel" : 423
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 108,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 4194188,
+		"standardLevel" : 424
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 109,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 4247324,
+		"standardLevel" : 425
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 110,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 4301131,
+		"standardLevel" : 426
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 111,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 4355615,
+		"standardLevel" : 427
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 112,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 4410786,
+		"standardLevel" : 428
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 113,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 4466651,
+		"standardLevel" : 429
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 114,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 4523221,
+		"standardLevel" : 430
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 115,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 4580504,
+		"standardLevel" : 431
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 116,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 4638508,
+		"standardLevel" : 432
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 117,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 4697243,
+		"standardLevel" : 433
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 118,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 4756719,
+		"standardLevel" : 434
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 119,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 4816943,
+		"standardLevel" : 435
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 120,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 4877927,
+		"standardLevel" : 436
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 121,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 4939679,
+		"standardLevel" : 437
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 122,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 5002209,
+		"standardLevel" : 438
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 123,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 5065527,
+		"standardLevel" : 439
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 124,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 5129642,
+		"standardLevel" : 440
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 125,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 5194566,
+		"standardLevel" : 441
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 126,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 5260307,
+		"standardLevel" : 442
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 127,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 5326877,
+		"standardLevel" : 443
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 128,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 5394286,
+		"standardLevel" : 444
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 129,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 5462544,
+		"standardLevel" : 445
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 130,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 5531662,
+		"standardLevel" : 446
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 131,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 5601651,
+		"standardLevel" : 447
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 132,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 5672521,
+		"standardLevel" : 448
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 133,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 5744285,
+		"standardLevel" : 449
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 134,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 5816953,
+		"standardLevel" : 450
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 135,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 5890537,
+		"standardLevel" : 451
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 136,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 5965048,
+		"standardLevel" : 452
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 137,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 6040497,
+		"standardLevel" : 453
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 138,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 6116897,
+		"standardLevel" : 454
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 139,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 6194260,
+		"standardLevel" : 455
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 140,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 6272598,
+		"standardLevel" : 456
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 141,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 6351923,
+		"standardLevel" : 457
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 142,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 6432247,
+		"standardLevel" : 458
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 143,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 6513583,
+		"standardLevel" : 459
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 144,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 6595944,
+		"standardLevel" : 460
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 145,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 6679343,
+		"standardLevel" : 461
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 146,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 6763793,
+		"standardLevel" : 462
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 147,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 6849307,
+		"standardLevel" : 463
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 148,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 6935898,
+		"standardLevel" : 464
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 149,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 7023580,
+		"standardLevel" : 465
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 150,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 7112368,
+		"standardLevel" : 466
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 151,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 7202273,
+		"standardLevel" : 467
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 152,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 7293312,
+		"standardLevel" : 468
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 153,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 7385498,
+		"standardLevel" : 469
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 154,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 7478845,
+		"standardLevel" : 470
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 155,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 7573369,
+		"standardLevel" : 471
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 156,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 7669083,
+		"standardLevel" : 472
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 157,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 7766003,
+		"standardLevel" : 473
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 158,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 7864145,
+		"standardLevel" : 474
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 159,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 7963523,
+		"standardLevel" : 475
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 160,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 8064154,
+		"standardLevel" : 476
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 161,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 8166052,
+		"standardLevel" : 477
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 162,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 8269234,
+		"standardLevel" : 478
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 163,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 8373717,
+		"standardLevel" : 479
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 164,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 8479515,
+		"standardLevel" : 480
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 165,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 8586647,
+		"standardLevel" : 481
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 166,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 8695129,
+		"standardLevel" : 482
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 167,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 8804978,
+		"standardLevel" : 483
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 168,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 8916210,
+		"standardLevel" : 484
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 169,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 9028845,
+		"standardLevel" : 485
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 170,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 9142898,
+		"standardLevel" : 486
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 171,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 9258389,
+		"standardLevel" : 487
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 172,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 9375334,
+		"standardLevel" : 488
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 173,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 9493754,
+		"standardLevel" : 489
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 174,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 9613665,
+		"standardLevel" : 490
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 175,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 9735087,
+		"standardLevel" : 491
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 176,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 9858039,
+		"standardLevel" : 492
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 177,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 9982540,
+		"standardLevel" : 493
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 178,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10108610,
+		"standardLevel" : 494
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 179,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10236269,
+		"standardLevel" : 495
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 180,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10365536,
+		"standardLevel" : 496
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 181,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10496432,
+		"standardLevel" : 497
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 182,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10628977,
+		"standardLevel" : 498
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 183,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10763192,
+		"standardLevel" : 499
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 184,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 500
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 185,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 501
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 186,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 502
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 187,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 503
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 188,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 504
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 189,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 505
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 190,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 506
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 191,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 507
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 192,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 508
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 193,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 509
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 194,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 510
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 195,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 511
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 196,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 512
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 197,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 513
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 198,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 514
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 199,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 515
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 200,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 516
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 201,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 517
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 202,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 518
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 203,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 519
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 204,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 520
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 205,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 521
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 206,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 522
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 207,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 523
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 208,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 524
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 209,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 525
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 210,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 526
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 211,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 527
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 212,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 528
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 213,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 529
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 214,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 530
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 215,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 531
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 216,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 532
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 217,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 533
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 218,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 534
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 219,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 535
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 220,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 536
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 221,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 537
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 222,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 538
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 223,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 539
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 224,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 540
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 225,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 541
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 226,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 542
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 227,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 543
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 228,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 544
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 229,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 545
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 230,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 546
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 231,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 547
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 232,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 548
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 233,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 549
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 234,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 550
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 235,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 551
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 236,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 552
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 237,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 553
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 238,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 554
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 239,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 555
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 240,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 556
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 241,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 557
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 242,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 558
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 243,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 559
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 244,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 560
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 245,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 561
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 246,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 562
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 247,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 563
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 248,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 564
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 249,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 565
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 250,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 566
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 251,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 567
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 252,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 568
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 253,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 569
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 254,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 570
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 255,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 571
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 256,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 572
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 257,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 573
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 258,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 574
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 259,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 575
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 260,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 576
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 261,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 577
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 262,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 578
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 263,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 579
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 264,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 580
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 265,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 581
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 266,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 582
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 267,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 583
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 268,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 584
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 269,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 585
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 270,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 586
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 271,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 587
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 272,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 588
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 273,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 589
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 274,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 590
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 275,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 591
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 276,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 592
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 277,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 593
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 278,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 594
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 279,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 595
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 280,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 596
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 281,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 597
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 282,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 598
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 283,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 599
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 284,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 600
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 285,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 601
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 286,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 602
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 287,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 603
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 288,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 604
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 289,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 605
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 290,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 606
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 291,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 607
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 292,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 608
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 293,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 609
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 294,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 610
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 295,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 611
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 296,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 612
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 297,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 613
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 298,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 614
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 299,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 615
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 300,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 616
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 301,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 617
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 302,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 618
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 303,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 619
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 304,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 620
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 305,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 621
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 306,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 622
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 307,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 623
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 308,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 624
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 309,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 625
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 310,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 626
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 311,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 627
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 312,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 628
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 313,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 629
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 314,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 630
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 315,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 631
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 316,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 632
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 317,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 633
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 318,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 634
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 319,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 635
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 320,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 636
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 321,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 637
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 322,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 638
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 323,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 639
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 324,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 640
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 325,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 641
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 326,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 642
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 327,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 643
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 328,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 644
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 329,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 645
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 330,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 646
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 331,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 647
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 332,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 648
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 333,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 649
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 334,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 650
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 335,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 651
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 336,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 652
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 337,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 653
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 338,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 654
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 339,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 655
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 340,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 656
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 341,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 657
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 342,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 658
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 343,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 659
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 344,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 660
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 345,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 661
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 346,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 662
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 347,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 663
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 348,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 664
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 349,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 665
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 350,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 666
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 351,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 667
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 352,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 668
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 353,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 669
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 354,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 670
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 355,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 671
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 356,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 672
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 357,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 673
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 358,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 674
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 359,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 675
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 360,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 676
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 361,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 677
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 362,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 678
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 363,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 679
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 364,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 680
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 365,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 681
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 366,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 682
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 367,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 683
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 368,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 684
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 369,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 685
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 370,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 686
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 371,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 687
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 372,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 688
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 373,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 689
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 374,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 690
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 375,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 691
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 376,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 692
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 377,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 693
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 378,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 694
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 379,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 695
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 380,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 696
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 381,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 697
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 382,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 698
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 383,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 699
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 384,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 700
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 385,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 701
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 386,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 702
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 387,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 703
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 388,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 704
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 389,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 705
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 390,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 706
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 391,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 707
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 392,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 708
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 393,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 709
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 394,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 710
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 395,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 711
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 396,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 712
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 397,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 713
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 398,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 714
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 399,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 715
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 400,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 716
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 401,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 717
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 402,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 718
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 403,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 719
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 404,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 720
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 405,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 721
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 406,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 722
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 407,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 723
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 408,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 724
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 409,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 725
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 410,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 726
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 411,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 727
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 412,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 728
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 413,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 729
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 414,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 730
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 415,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 731
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 416,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 732
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 417,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 733
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 418,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 734
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 419,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 735
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 420,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 736
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 421,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 737
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 422,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 738
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 423,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 739
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 424,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 740
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 425,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 741
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 426,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 742
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 427,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 743
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 428,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 744
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 429,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 745
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 430,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 746
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 431,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 747
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 432,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 748
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 433,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 749
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 434,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 750
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 435,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 751
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 436,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 752
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 437,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 753
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 438,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 754
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 439,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 755
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 440,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 756
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 441,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 757
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 442,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 758
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 443,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 759
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 444,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 760
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 445,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 761
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 446,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 762
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 447,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 763
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 448,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 764
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 449,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 765
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 450,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 766
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 451,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 767
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 452,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 768
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 453,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 769
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 454,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 770
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 455,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 771
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 456,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 772
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 457,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 773
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 458,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 774
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 459,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 775
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 460,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 776
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 461,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 777
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 462,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 778
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 463,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 779
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 464,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 780
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 465,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 781
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 466,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 782
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 467,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 783
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 468,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 784
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 469,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 785
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 470,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 786
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 471,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 787
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 472,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 788
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 473,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 789
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 474,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 790
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 475,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 791
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 476,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 792
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 477,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 793
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 478,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 794
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 479,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 795
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 480,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 796
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 481,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 797
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 482,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 798
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 483,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 799
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 484,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 800
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 485,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 801
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 486,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 802
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 487,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 803
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 488,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 804
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 489,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 805
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 490,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 806
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 491,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 807
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 492,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 808
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 493,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 809
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 494,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 810
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 495,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 811
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 496,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 812
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 497,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 813
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 498,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 814
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 499,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 815
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 500,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 816
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 501,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 817
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 502,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 818
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 503,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 819
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 504,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 820
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 505,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 821
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 506,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 822
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 507,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 823
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 508,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 824
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 509,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 825
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 510,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 826
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 511,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 827
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 512,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 828
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 513,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 829
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 514,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 830
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 515,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 831
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 516,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 832
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 517,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 833
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 518,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 834
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 519,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 835
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 520,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 836
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 521,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 837
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 522,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 838
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 523,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 839
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 524,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 840
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 525,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 841
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 526,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 842
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 527,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 843
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 528,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 844
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 529,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 845
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 530,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 846
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 531,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 847
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 532,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 848
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 533,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 849
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 534,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 850
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 535,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 851
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 536,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 852
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 537,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 853
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 538,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 854
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 539,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 855
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 540,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 856
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 541,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 857
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 542,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 858
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 543,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 859
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 544,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 860
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 545,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 861
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 546,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 862
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 547,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 863
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 548,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 864
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 549,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 865
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 550,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 866
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 551,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 867
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 552,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 868
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 553,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 869
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 554,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 870
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 555,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 871
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 556,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 872
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 557,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 873
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 558,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 874
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 559,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 875
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 560,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 876
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 561,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 877
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 562,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 878
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 563,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 879
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 564,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 880
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 565,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 881
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 566,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 882
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 567,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 883
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 568,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 884
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 569,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 885
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 570,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 886
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 571,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 887
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 572,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 888
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 573,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 889
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 574,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 890
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 575,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 891
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 576,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 892
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 577,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 893
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 578,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 894
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 579,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 895
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 580,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 896
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 581,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 897
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 582,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 898
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 583,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 899
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 584,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 900
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 585,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 901
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 586,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 902
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 587,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 903
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 588,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 904
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 589,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 905
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 590,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 906
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 591,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 907
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 592,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 908
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 593,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 909
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 594,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 910
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 595,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 911
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 596,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 912
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 597,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 913
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 598,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 914
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 599,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 915
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 600,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 916
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 601,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 917
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 602,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 918
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 603,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 919
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 604,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 920
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 605,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 921
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 606,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 922
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 607,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 923
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 608,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 924
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 609,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 925
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 610,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 926
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 611,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 927
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 612,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 928
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 613,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 929
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 614,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 930
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 615,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 931
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 616,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 932
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 617,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 933
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 618,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 934
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 619,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 935
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 620,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 936
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 621,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 937
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 622,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 938
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 623,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 939
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 624,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 940
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 625,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 941
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 626,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 942
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 627,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 943
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 628,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 944
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 629,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 945
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 630,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 946
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 631,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 947
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 632,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 948
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 633,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 949
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 634,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 950
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 635,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 951
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 636,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 952
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 637,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 953
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 638,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 954
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 639,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 955
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 640,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 956
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 641,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 957
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 642,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 958
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 643,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 959
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 644,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 960
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 645,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 961
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 646,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 962
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 647,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 963
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 648,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 964
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 649,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 965
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 650,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 966
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 651,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 967
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 652,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 968
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 653,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 969
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 654,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 970
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 655,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 971
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 656,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 972
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 657,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 973
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 658,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 974
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 659,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 975
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 660,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 976
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 661,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 977
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 662,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 978
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 663,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 979
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 664,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 980
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 665,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 981
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 666,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 982
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 667,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 983
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 668,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 984
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 669,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 985
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 670,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 986
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 671,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 987
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 672,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 988
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 673,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 989
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 674,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 990
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 675,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 991
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 676,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 992
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 677,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 993
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 678,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 994
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 679,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 995
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 680,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 996
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 681,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 997
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 682,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 998
+	},
+	
+	{
+		"copyCode" : 9300,
+		"id" : 683,
+		"itemAmount" : 3,
+		"itemCode" : 42140002,
+		"needLevel" : 350,
+		"preCopyCode" : 9300,
+		"standardFight" : 10899098,
+		"standardLevel" : 999
+	},
+	
+	{
+		"copyCode" : 1701,
+		"id" : 684,
+		"needGold" : 500
+	},
+	
+	{
+		"copyCode" : 2701,
+		"id" : 685,
+		"needGold" : 500
+	},
+	
+	{
+		"copyCode" : 3701,
+		"id" : 686,
+		"needGold" : 500
+	},
+	
+	{
+		"copyCode" : 4701,
+		"id" : 687,
+		"needGold" : 500
+	}
+]

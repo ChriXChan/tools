@@ -1,0 +1,188 @@
+
+[
+	
+	{
+		"day" : 1,
+		"rewardStr" : "2,1,500000#"
+	},
+	
+	{
+		"canDouble" : 2,
+		"day" : 2,
+		"doubleVipLevel" : 2,
+		"rewardStr" : "2,3,50#"
+	},
+	
+	{
+		"day" : 3,
+		"rewardStr" : "3,60040033,5#"
+	},
+	
+	{
+		"canDouble" : 4,
+		"day" : 4,
+		"doubleVipLevel" : 4,
+		"rewardStr" : "2,3,50#"
+	},
+	
+	{
+		"canDouble" : 6,
+		"day" : 5,
+		"doubleVipLevel" : 6,
+		"rewardStr" : "2,34,5000#"
+	},
+	
+	{
+		"day" : 6,
+		"rewardStr" : "2,3,50#"
+	},
+	
+	{
+		"day" : 7,
+		"rewardStr" : "2,1,500000#"
+	},
+	
+	{
+		"canDouble" : 3,
+		"day" : 8,
+		"doubleVipLevel" : 3,
+		"rewardStr" : "2,3,50#"
+	},
+	
+	{
+		"day" : 9,
+		"rewardStr" : "3,60040033,5#"
+	},
+	
+	{
+		"canDouble" : 5,
+		"day" : 10,
+		"doubleVipLevel" : 5,
+		"rewardStr" : "2,3,50#"
+	},
+	
+	{
+		"canDouble" : 7,
+		"day" : 11,
+		"doubleVipLevel" : 7,
+		"rewardStr" : "2,34,5000#"
+	},
+	
+	{
+		"day" : 12,
+		"rewardStr" : "2,3,50#"
+	},
+	
+	{
+		"day" : 13,
+		"rewardStr" : "2,1,500000#"
+	},
+	
+	{
+		"canDouble" : 2,
+		"day" : 14,
+		"doubleVipLevel" : 2,
+		"rewardStr" : "2,3,50#"
+	},
+	
+	{
+		"day" : 15,
+		"rewardStr" : "3,60040033,5#"
+	},
+	
+	{
+		"canDouble" : 4,
+		"day" : 16,
+		"doubleVipLevel" : 4,
+		"rewardStr" : "2,3,50#"
+	},
+	
+	{
+		"canDouble" : 6,
+		"day" : 17,
+		"doubleVipLevel" : 6,
+		"rewardStr" : "2,34,5000#"
+	},
+	
+	{
+		"day" : 18,
+		"rewardStr" : "2,3,50#"
+	},
+	
+	{
+		"day" : 19,
+		"rewardStr" : "2,1,500000#"
+	},
+	
+	{
+		"canDouble" : 3,
+		"day" : 20,
+		"doubleVipLevel" : 3,
+		"rewardStr" : "2,3,50#"
+	},
+	
+	{
+		"day" : 21,
+		"rewardStr" : "3,60040033,5#"
+	},
+	
+	{
+		"canDouble" : 5,
+		"day" : 22,
+		"doubleVipLevel" : 5,
+		"rewardStr" : "2,3,50#"
+	},
+	
+	{
+		"canDouble" : 7,
+		"day" : 23,
+		"doubleVipLevel" : 7,
+		"rewardStr" : "2,34,5000#"
+	},
+	
+	{
+		"day" : 24,
+		"rewardStr" : "2,3,50#"
+	},
+	
+	{
+		"day" : 25,
+		"rewardStr" : "2,1,500000#"
+	},
+	
+	{
+		"canDouble" : 2,
+		"day" : 26,
+		"doubleVipLevel" : 2,
+		"rewardStr" : "2,3,50#"
+	},
+	
+	{
+		"day" : 27,
+		"rewardStr" : "3,60040033,5#"
+	},
+	
+	{
+		"canDouble" : 4,
+		"day" : 28,
+		"doubleVipLevel" : 4,
+		"rewardStr" : "2,3,50#"
+	},
+	
+	{
+		"canDouble" : 6,
+		"day" : 29,
+		"doubleVipLevel" : 6,
+		"rewardStr" : "2,34,5000#"
+	},
+	
+	{
+		"day" : 30,
+		"rewardStr" : "2,3,50#"
+	},
+	
+	{
+		"day" : 31,
+		"rewardStr" : "2,1,500000#"
+	}
+]

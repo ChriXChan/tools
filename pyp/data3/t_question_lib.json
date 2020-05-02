@@ -1,0 +1,2703 @@
+
+[
+	
+	{
+		"answer" : 1,
+		"id" : 1,
+		"option1" : "库里",
+		"option2" : "姚明",
+		"option3" : "科比",
+		"option4" : "乔丹",
+		"question" : "萌神是哪位NBA的球星名称？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 2,
+		"option1" : "卷心菜",
+		"option2" : "菠菜",
+		"option3" : "香菜",
+		"option4" : "萝卜",
+		"question" : "法国人用哪种蔬菜来称呼自己的爱人？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 3,
+		"option1" : "离合器",
+		"option2" : "方向盘",
+		"option3" : "雨刷开关",
+		"option4" : "车前灯",
+		"question" : "在手动挡汽车内，驾驶员脚下的分别时刹车、油门和什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 4,
+		"option1" : "牦牛",
+		"option2" : "藏獒",
+		"option3" : "羚羊",
+		"option4" : "马",
+		"question" : "被称为“高原之舟”时哪种动物"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 5,
+		"option1" : "张旭",
+		"option2" : "王羲之",
+		"option3" : "苏轼",
+		"option4" : "欧阳询",
+		"question" : "被尊称为“草圣”的书法家是？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 6,
+		"option1" : "273℃",
+		"option2" : "275℃",
+		"option3" : "270℃",
+		"option4" : "0℃",
+		"question" : "绝对零度是负几度？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 7,
+		"option1" : "蓝鲸",
+		"option2" : "虎鲸",
+		"option3" : "抹香鲸",
+		"option4" : "座头鲸",
+		"question" : "地球上什么动物最大？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 8,
+		"option1" : "北京",
+		"option2" : "景德镇",
+		"option3" : "兰州",
+		"option4" : "大理",
+		"question" : "景泰蓝是什么地方的特种工艺？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 9,
+		"option1" : "小脑",
+		"option2" : "脑干",
+		"option3" : "顶叶",
+		"option4" : "枕叶",
+		"question" : "人脑中控制人平衡力的是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 10,
+		"option1" : "乾隆",
+		"option2" : "康熙",
+		"option3" : "雍正",
+		"option4" : "唐玄宗",
+		"question" : "四库全书是由哪位皇帝下令编著的？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 11,
+		"option1" : "珠江三角洲",
+		"option2" : "东北平原",
+		"option3" : "长江三角洲",
+		"option4" : "黄淮海平原",
+		"question" : "我国的三大蚕区是四川盆地、太湖平原以及哪里？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 12,
+		"option1" : "古运河",
+		"option2" : "长江",
+		"option3" : "黄河",
+		"option4" : "苏伊士运河",
+		"question" : "爱好象棋的人都知道.楚汉相争,鸿沟为界。鸿沟指什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 13,
+		"option1" : "尼罗河",
+		"option2" : "黄河",
+		"option3" : "长江",
+		"option4" : "密西西比河",
+		"question" : "比亚马逊河还要长的河是？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 14,
+		"option1" : "东方",
+		"option2" : "北方",
+		"option3" : "南方",
+		"option4" : "西方",
+		"question" : "春分黄昏时北斗星指向哪个方向？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 15,
+		"option1" : "凹透镜",
+		"option2" : "凸透镜",
+		"option3" : "平面镜",
+		"option4" : "双平面镜",
+		"question" : "近视眼镜是什么透镜？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 16,
+		"option1" : "南美洲",
+		"option2" : "亚洲",
+		"option3" : "非洲",
+		"option4" : "欧洲",
+		"question" : "哪个洲,o型血人的比例最高？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 17,
+		"option1" : "法国",
+		"option2" : "中国",
+		"option3" : "美国",
+		"option4" : "德国",
+		"question" : "英阿马岛战争中,击毁英国“谢菲尔德”号=战机是哪个国家生产的？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 18,
+		"option1" : "可以攻玉",
+		"option2" : "美不胜收",
+		"option3" : "抛砖引玉",
+		"option4" : "金石为开",
+		"question" : "“他山之石”下一句是什么?"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 19,
+		"option1" : "鹿鼎记",
+		"option2" : "天龙八部",
+		"option3" : "神雕侠侣",
+		"option4" : "还珠格格",
+		"question" : "金庸的最后一部武侠小说是哪一部?"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 20,
+		"option1" : "广东省",
+		"option2" : "湖南省",
+		"option3" : "福建省",
+		"option4" : "四川省",
+		"question" : "我国人口最多的三个省是河南省、山东省和哪个省?"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 21,
+		"option1" : "206",
+		"option2" : "208",
+		"option3" : "207",
+		"option4" : "320",
+		"question" : "成人人体有多少块骨骼？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 22,
+		"option1" : "新闻",
+		"option2" : "综艺",
+		"option3" : "春晚",
+		"option4" : "以上都是",
+		"question" : "最早的主持人主持的节目是？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 23,
+		"option1" : "5",
+		"option2" : "6",
+		"option3" : "7",
+		"option4" : "8",
+		"question" : "篮球飞人乔丹曾几次获得NBA最有价值球员？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 24,
+		"option1" : "埃及",
+		"option2" : "美国",
+		"option3" : "中国",
+		"option4" : "法国",
+		"question" : "苏伊士运河位于哪个国家？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 25,
+		"option1" : "李贺",
+		"option2" : "李白",
+		"option3" : "杜甫",
+		"option4" : "苏轼",
+		"question" : "被称为诗鬼的是？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 26,
+		"option1" : "诗成泣鬼神",
+		"option2" : "举头望明月",
+		"option3" : "灯火阑珊处",
+		"option4" : "流传必绝伦",
+		"question" : "笔落惊风雨下一句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 27,
+		"option1" : "驯鹿",
+		"option2" : "麋鹿",
+		"option3" : "梅花鹿",
+		"option4" : "长颈鹿",
+		"question" : "传说每年平安夜晚圣诞老天让你送礼物时候乘坐的雪橇是什么动物拉的？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 28,
+		"option1" : "悉尼",
+		"option2" : "洛杉矶",
+		"option3" : "伦敦",
+		"option4" : "北京",
+		"question" : "2000年夏季奥运会是在哪个城市举办的？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 29,
+		"option1" : "4",
+		"option2" : "5",
+		"option3" : "6",
+		"option4" : "7",
+		"question" : "世界杯足球比赛几年一次？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 30,
+		"option1" : "卓别林",
+		"option2" : "罗温•艾金森",
+		"option3" : "周星驰",
+		"option4" : "金凯瑞",
+		"question" : "头戴礼帽，足登大皮靴，走路像鸭子的著名应该喜剧演员是谁？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 31,
+		"option1" : "7",
+		"option2" : "5",
+		"option3" : "6",
+		"option4" : "8",
+		"question" : "目前已经上映哈利波特系列电影已经到了第几部？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 32,
+		"option1" : "法国",
+		"option2" : "美国",
+		"option3" : "德国",
+		"option4" : "英国",
+		"question" : "经常用来庆祝胜利的香槟酒起源于哪个国家？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 33,
+		"option1" : "贵州",
+		"option2" : "云南",
+		"option3" : "四川",
+		"option4" : "湖南",
+		"question" : "我国国酒茅台酒出于哪个省份？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 34,
+		"option1" : "10",
+		"option2" : "5",
+		"option3" : "20",
+		"option4" : "15",
+		"question" : "一张20元人民币破损了2分之1，到银行可以兑换到多少元？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 35,
+		"option1" : "5",
+		"option2" : "10",
+		"option3" : "20",
+		"option4" : "1",
+		"question" : "第五套人民币中紫色人像的面值是多少元"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 36,
+		"option1" : "DIY",
+		"option2" : "DCY",
+		"option3" : "DKY",
+		"option4" : "DNY",
+		"question" : "日常生活中我们把自己动手创作制作称为的英文简称？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 37,
+		"option1" : "苹果",
+		"option2" : "华为",
+		"option3" : "三星",
+		"option4" : "索尼",
+		"question" : "Siri是美国哪家公司其手机应用的一项语音控制功能？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 38,
+		"option1" : "任天堂",
+		"option2" : "育碧",
+		"option3" : "索尼",
+		"option4" : "腾讯",
+		"question" : "最早的红白机游戏超级玛丽由日本哪家知名游戏制作公司出品？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 39,
+		"option1" : "2002",
+		"option2" : "2008",
+		"option3" : "2006",
+		"option4" : "2010",
+		"question" : "内地歌手刀郎的歌曲是形容哪一年的第一场雪？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 40,
+		"option1" : "IG",
+		"option2" : "RNG",
+		"option3" : "FNC",
+		"option4" : "KT",
+		"question" : "《英雄联盟》S8世界赛以下哪只战队夺得了冠军？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 41,
+		"option1" : "蔺相如",
+		"option2" : "曹操",
+		"option3" : "萧何",
+		"option4" : "胡惟庸",
+		"question" : "负荆请罪讲的是廉颇和哪位丞相的故事？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 42,
+		"option1" : "30",
+		"option2" : "25",
+		"option3" : "35",
+		"option4" : "40",
+		"question" : "而立之年是指多少岁？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 43,
+		"option1" : "中国赛区",
+		"option2" : "韩国赛区",
+		"option3" : "欧美赛区",
+		"option4" : "外卡赛区",
+		"question" : "在《英雄联盟》S8世界赛夺得了冠军的战队是属于什么赛区"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 44,
+		"option1" : "6",
+		"option2" : "3",
+		"option3" : "12",
+		"option4" : "5",
+		"question" : "劳动法规定，劳动者试用期不能超过几个月？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 45,
+		"option1" : "没安好心",
+		"option2" : "没安真心",
+		"option3" : "没有好心",
+		"option4" : "没有真心",
+		"question" : "歇后语“黄鼠狼给鸡拜年”的下一句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 46,
+		"option1" : "七上八下",
+		"option2" : "七下八上",
+		"option3" : "半斤八两",
+		"option4" : "不上不下",
+		"question" : "歇后语“十五个吊桶打水”的下一句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 47,
+		"option1" : "尾巴",
+		"option2" : "左腿",
+		"option3" : "右腿",
+		"option4" : "头",
+		"question" : "壁虎在遇到敌人攻击，很危险的情况下会舍弃身体的什么部分逃走？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 48,
+		"option1" : "川剧",
+		"option2" : "粤剧",
+		"option3" : "京剧",
+		"option4" : "黄梅戏",
+		"question" : "变脸是我国哪个表演戏剧的绝活？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 49,
+		"option1" : "皮影戏",
+		"option2" : "电影",
+		"option3" : "动画",
+		"option4" : "投影",
+		"question" : "在灯光下用兽皮刻制的的人物剪影表演故事的民间戏剧形式叫什么?？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 50,
+		"option1" : "钙",
+		"option2" : "铁",
+		"option3" : "钠",
+		"option4" : "维生素",
+		"question" : "骨质疏松症主要是身体缺乏哪种矿物质？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 51,
+		"option1" : "维生素A",
+		"option2" : "维生素B",
+		"option3" : "维生素C",
+		"option4" : "维生素D",
+		"question" : "夜盲症缺乏哪种维生素所导致？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 52,
+		"option1" : "周润发",
+		"option2" : "成龙",
+		"option3" : "刘德华",
+		"option4" : "周星驰",
+		"question" : "曾饰演许文强，小马哥，赌神，等经典角色的香港男影星是谁？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 53,
+		"option1" : "林青霞",
+		"option2" : "张曼玉",
+		"option3" : "王祖贤",
+		"option4" : "关之琳",
+		"question" : "徐克电影笑傲江湖东方不败的东方不败由哪位女演员扮演的？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 54,
+		"option1" : "馒头",
+		"option2" : "饺子",
+		"option3" : "肉包子",
+		"option4" : "烧麦",
+		"question" : "陈凯歌导演的无极又被网友戏称一个什么引发的血案？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 55,
+		"option1" : "狮子座",
+		"option2" : "水瓶座",
+		"option3" : "双鱼座",
+		"option4" : "双子座",
+		"question" : "2009年红极一时的歌曲，七月份的尾巴，是什么星座？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 56,
+		"option1" : "忐忑",
+		"option2" : "孔雀飞来",
+		"option3" : "斑竹泪",
+		"option4" : "法海不懂爱",
+		"question" : "由龚琳娜演唱的，被称为神曲的歌是？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 57,
+		"option1" : "费玉清",
+		"option2" : "潘玮柏",
+		"option3" : "林俊杰",
+		"option4" : "吴尊",
+		"question" : "有小哥一称，与周杰伦共同演唱千里之外的男歌手是谁？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 58,
+		"option1" : "川菜",
+		"option2" : "粤菜",
+		"option3" : "鲁菜",
+		"option4" : "淮扬菜",
+		"question" : "麻婆豆腐是我国哪个菜系的传统名菜？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 59,
+		"option1" : "鲨鱼",
+		"option2" : "鲸鱼",
+		"option3" : "金枪鱼",
+		"option4" : "鲷鱼",
+		"question" : "鱼翅是哪种动物的鳍所制成的？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 60,
+		"option1" : "亲",
+		"option2" : "您",
+		"option3" : "欧巴",
+		"option4" : "小哥哥",
+		"question" : "淘宝用户通常用来称呼对方的一个字昵称是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 61,
+		"option1" : "酱油",
+		"option2" : "路过",
+		"option3" : "哦，是吗",
+		"option4" : "好的",
+		"question" : "网络用来表达漠不关心不关自己事情的时候会说出来打什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 62,
+		"option1" : "徐志摩",
+		"option2" : "朱自清",
+		"option3" : "鲁迅",
+		"option4" : "老舍",
+		"question" : "挥一挥衣袖不带走一片云彩是哪位著名诗人的诗句？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 63,
+		"option1" : "李清照",
+		"option2" : "蔡文姬",
+		"option3" : "谢道韫",
+		"option4" : "许穆夫人",
+		"question" : "寻寻觅觅冷冷清清凄凄惨惨戚戚是出自宋朝那位女词人之手？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 64,
+		"option1" : "李莲英",
+		"option2" : "赵高",
+		"option3" : "魏忠贤",
+		"option4" : "刘瑾",
+		"question" : "清朝太后身边最著名的贴身太监叫什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 65,
+		"option1" : "乌江",
+		"option2" : "长江",
+		"option3" : "黑龙江",
+		"option4" : "古运河",
+		"question" : "霸王别姬是京剧中有名的桥段，请问项羽在那条河边自刎的？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 66,
+		"option1" : "220",
+		"option2" : "160",
+		"option3" : "200",
+		"option4" : "50",
+		"question" : "我国大陆家庭电路的电压统一使用为多少伏？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 67,
+		"option1" : "4",
+		"option2" : "3",
+		"option3" : "5",
+		"option4" : "2",
+		"question" : "著名卡通形象米老鼠有几根手指？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 68,
+		"option1" : "飞行员",
+		"option2" : "赛车手",
+		"option3" : "自行车运动员",
+		"option4" : "外卖小哥",
+		"question" : "动画片中舒克贝塔历险记中，舒克是什么职业？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 69,
+		"option1" : "玫瑰",
+		"option2" : "菊花",
+		"option3" : "牡丹",
+		"option4" : "梅花",
+		"question" : "人们通常用来送花的蓝色妖姬其实是什么花？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 70,
+		"option1" : "杭州",
+		"option2" : "苏州",
+		"option3" : "武夷山",
+		"option4" : "四川",
+		"question" : "四大名茶之一的龙井茶产地是哪个城市？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 71,
+		"option1" : "年夜饭",
+		"option2" : "元宵",
+		"option3" : "中秋",
+		"option4" : "重阳",
+		"question" : "农历除夕，吃的团圆饭常叫做什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 72,
+		"option1" : "无可奈何花落去",
+		"option2" : "小园香径独徘徊",
+		"option3" : "去年天气旧亭台",
+		"option4" : "一曲新词酒一杯",
+		"question" : "“似曾相识燕归来”的上一句是？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 73,
+		"option1" : "蜂蜜",
+		"option2" : "白砂糖",
+		"option3" : "红糖",
+		"option4" : "阿尔卑斯糖",
+		"question" : "最初“糖果”的糖取自哪里？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 74,
+		"option1" : "汉武帝",
+		"option2" : "汉文帝",
+		"option3" : "汉献帝",
+		"option4" : "汉惠帝",
+		"question" : "“金屋藏娇”的故事与哪一位皇帝有关？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 75,
+		"option1" : "剑",
+		"option2" : "戒尺",
+		"option3" : "三角尺",
+		"option4" : "以上都是",
+		"question" : "古书中男子手里常握有“三尺”，请问它指什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 76,
+		"option1" : "四川省",
+		"option2" : "甘肃省",
+		"option3" : "山西省",
+		"option4" : "陕西省",
+		"question" : "全世界最大的石佛像在哪个省？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 77,
+		"option1" : "二十",
+		"option2" : "井",
+		"option3" : "口",
+		"option4" : "吃",
+		"question" : "汉字“廿”表示？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 78,
+		"option1" : "国画",
+		"option2" : "油画",
+		"option3" : "素描",
+		"option4" : "抽象画",
+		"question" : "\"工笔\"是哪种绘画形式的技法？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 79,
+		"option1" : "蛋黄",
+		"option2" : "蛋白",
+		"option3" : "都不含脂肪",
+		"option4" : "一样高",
+		"question" : "鸡蛋里蛋黄和蛋清哪个的脂肪含量高？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 80,
+		"option1" : "漠河",
+		"option2" : "广州",
+		"option3" : "深圳",
+		"option4" : "北京",
+		"question" : "我国被称为“不夜城”的城市是哪一座城市？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 81,
+		"option1" : "巨鹿之战",
+		"option2" : "官渡之战",
+		"option3" : "赤壁之战",
+		"option4" : "淝水之战",
+		"question" : "“破釜沉舟”这个成语出于哪次战争？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 82,
+		"option1" : "狙击枪",
+		"option2" : "步枪",
+		"option3" : "冲锋枪",
+		"option4" : "一样远",
+		"question" : "狙击枪、步枪与冲锋枪哪个射出去的子弹打得远？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 83,
+		"option1" : "马",
+		"option2" : "天空",
+		"option3" : "人才",
+		"option4" : "故人",
+		"question" : "“伯乐一顾”中的伯乐看的是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 84,
+		"option1" : "4",
+		"option2" : "3",
+		"option3" : "2",
+		"option4" : "1",
+		"question" : "平面直角坐标系中,右下方为第几象限？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 85,
+		"option1" : "吴道子",
+		"option2" : "薛稷",
+		"option3" : "李思训",
+		"option4" : "周昉",
+		"question" : "“吴带当风”是形容我国唐代哪个画家的笔法？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 86,
+		"option1" : "瑶姬",
+		"option2" : "九天玄女",
+		"option3" : "嫦娥",
+		"option4" : "女娲",
+		"question" : "传说中的巫山神女名叫？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 87,
+		"option1" : "50",
+		"option2" : "40",
+		"option3" : "30",
+		"option4" : "60",
+		"question" : "“知天命”代指到了多少岁？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 88,
+		"option1" : "岳飞",
+		"option2" : "蒙恬",
+		"option3" : "李靖",
+		"option4" : "史可法",
+		"question" : "《精忠报国》这首歌写的是哪位历史人物？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 89,
+		"option1" : "笑问客从何处来",
+		"option2" : "乡音无改鬓毛衰",
+		"option3" : "少小离家老大回",
+		"option4" : "溪头卧剥莲蓬",
+		"question" : "“儿童相见不相识”的下一句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 90,
+		"option1" : "缘愁似个长",
+		"option2" : "歌曲动寒川",
+		"option3" : "何处得秋霜",
+		"option4" : "一道夜歌归",
+		"question" : "“白发三千丈”的下一句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 91,
+		"option1" : "风雪夜归人",
+		"option2" : "日暮苍山远",
+		"option3" : "天寒白屋贫",
+		"option4" : "阡陌交通",
+		"question" : "“柴门闻犬吠”的下一句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 92,
+		"option1" : "村庄儿女各当家",
+		"option2" : "无可奈何花落去",
+		"option3" : "童孙未解供耕织",
+		"option4" : "也傍桑阴学种瓜",
+		"question" : "“昼出耘田夜绩麻”的下一句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 93,
+		"option1" : "江清月近人",
+		"option2" : "移舟泊烟渚",
+		"option3" : "日暮客愁新",
+		"option4" : "日暮苍山远",
+		"question" : "“野旷天低树”的下一句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 94,
+		"option1" : "春来江水绿如蓝",
+		"option2" : "能否以江南",
+		"option3" : "春江水暖鸭先知",
+		"option4" : "无可奈何花落去",
+		"question" : "“日出江花红胜火”的下一句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 95,
+		"option1" : "霜叶红于二月花",
+		"option2" : "远上寒山石径斜",
+		"option3" : "白云深处有人家",
+		"option4" : "春来江水绿如蓝",
+		"question" : "“停车坐爱枫林晚”的下一句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 96,
+		"option1" : "红颜劫",
+		"option2" : "重新长大",
+		"option3" : "千里之外",
+		"option4" : "忘记时间",
+		"question" : "“拱手让江山，低眉恋红颜，祸福轮流转，是劫还是缘”出自哪一首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 97,
+		"option1" : "东风破",
+		"option2" : "六月的雨",
+		"option3" : "我们",
+		"option4" : "云烟成雨",
+		"question" : "“谁在用琵琶弹奏一曲东风破，枫叶将故事染色结局我看透”出自哪一首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 98,
+		"option1" : "瓦解",
+		"option2" : "侧脸",
+		"option3" : "好爱好散",
+		"option4" : "重来",
+		"question" : "“说着笑着的午后，总是一直在停留”出自哪一首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 99,
+		"option1" : "稻香",
+		"option2" : "千里之外",
+		"option3" : "听妈妈的话",
+		"option4" : "告白气球",
+		"question" : "“你说家是唯一的城堡，随着稻香河流继续奔跑”出自哪一首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 100,
+		"option1" : "造梦者",
+		"option2" : "小丑",
+		"option3" : "来不及",
+		"option4" : "失物招领",
+		"question" : "“我想我渴望的结果，是清醒了不为难的选择”出自哪一首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 101,
+		"option1" : "海芋恋",
+		"option2" : "您",
+		"option3" : "欧巴",
+		"option4" : "小哥哥",
+		"question" : "“轻轻柔柔的想念，在单恋的季节，还记得湖畔曾与你相遇”出自哪一首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 102,
+		"option1" : "夜空中最亮的星",
+		"option2" : "勿忘我",
+		"option3" : "好久不见",
+		"option4" : "默契",
+		"question" : "“我祈祷拥有一颗透明的心灵，和会流泪的眼睛”出自哪一首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 103,
+		"option1" : "爱我不爱我",
+		"option2" : "没有人心疼我",
+		"option3" : "与你并肩",
+		"option4" : "无奈",
+		"question" : "“一起走却不同节奏，沉静带过总比争吵好过”出自哪一首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 104,
+		"option1" : "没理由",
+		"option2" : "天后",
+		"option3" : "十年",
+		"option4" : "沙漠骆驼",
+		"question" : "“从前从前就有文艺复兴，恋爱是否变成最早的文明”出自哪一首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 105,
+		"option1" : "王妃",
+		"option2" : "天后",
+		"option3" : "千年泪",
+		"option4" : "千里之外",
+		"question" : "“爱太美，尽管再危险，愿赔上了一切超支千年的泪”出自哪一首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 106,
+		"option1" : "她的睫毛",
+		"option2" : "棉花糖",
+		"option3" : "日不落",
+		"option4" : "默契",
+		"question" : "“她的睫毛弯的嘴角，用眼神对我拍照”出自哪一首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 107,
+		"option1" : "爱如空气",
+		"option2" : "那年你我",
+		"option3" : "沙漠骆驼",
+		"option4" : "跑偏",
+		"question" : "“幸福就像花期，开到茶靡，爱情留在秋天，独自叹息”出自哪一首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 108,
+		"option1" : "没离开过",
+		"option2" : "那就这样吧",
+		"option3" : "陪我长大",
+		"option4" : "唱给她听",
+		"question" : "“当我逆水行舟，你在我左右推着我走”出自哪一首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 109,
+		"option1" : "董小姐",
+		"option2" : "与生无你",
+		"option3" : "零下几十度",
+		"option4" : "那年你我",
+		"question" : "“爱上一匹野马，可我的家里没有草原，这让我感到绝望”出自哪一首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 110,
+		"option1" : "给我一首歌的时间",
+		"option2" : "再见你好",
+		"option3" : "第三人称",
+		"option4" : "小了白了兔",
+		"question" : "“能不能给我一首歌的时间，把故事听到最后才说再见”出自哪一首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 111,
+		"option1" : "被遗忘的时光",
+		"option2" : "我们",
+		"option3" : "千里之外",
+		"option4" : "忘记时间",
+		"question" : "“是谁在敲打我窗，是谁在撩动琴弦”出自哪一首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 112,
+		"option1" : "我不想说",
+		"option2" : "平凡之路",
+		"option3" : "从你的全世界路过",
+		"option4" : "如果可以",
+		"question" : "“一样的路一样的鞋，我不能没有你的世界”出自哪一首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 113,
+		"option1" : "好汉歌",
+		"option2" : "梁山好汉",
+		"option3" : "沙漠骆驼",
+		"option4" : "单车",
+		"question" : "“路见不平一声吼，该出手时就出手”出自哪一首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 114,
+		"option1" : "无法无天",
+		"option2" : "多此一举",
+		"option3" : "无头无脑",
+		"option4" : "不知深浅",
+		"question" : "“和尚打伞”的歇后语是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 115,
+		"option1" : "横行霸道",
+		"option2" : "走一步算一步",
+		"option3" : "手脚并应",
+		"option4" : "不分前后",
+		"question" : "“螃蟹过马路”的歇后语是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 116,
+		"option1" : "开门见山",
+		"option2" : "一无所知",
+		"option3" : "无路可退",
+		"option4" : "山穷水尽",
+		"question" : "“愚公的房子”的歇后语是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 117,
+		"option1" : "不知深浅",
+		"option2" : "自身难保",
+		"option3" : "想尽办法",
+		"option4" : "有来无回",
+		"question" : "“旱鸭子过河”的歇后语是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 118,
+		"option1" : "无穷无尽",
+		"option2" : "一波接一波",
+		"option3" : "时过境迁",
+		"option4" : "有迹可循",
+		"question" : "“今年竹子来年笋”的歇后语是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 119,
+		"option1" : "装象",
+		"option2" : "多此一举",
+		"option3" : "无孔不入",
+		"option4" : "里外不是人",
+		"question" : "“鼻子里插大葱”的歇后语是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 120,
+		"option1" : "纸上谈兵",
+		"option2" : "神机妙算",
+		"option3" : "见招拆招",
+		"option4" : "棋逢对手",
+		"question" : "“象棋斗胜”的歇后语是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 121,
+		"option1" : "说得像仙女",
+		"option2" : "字说自的话",
+		"option3" : "好听",
+		"option4" : "各尽其心",
+		"question" : "“媒婆夸姑娘”的歇后语是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 122,
+		"option1" : "缩头缩脑",
+		"option2" : "一往无前",
+		"option3" : "走一步算一步",
+		"option4" : "若无其事",
+		"question" : "“王八上岸遇雹子”的歇后语是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 123,
+		"option1" : "一物降一物",
+		"option2" : "天经地义",
+		"option3" : "说得过去",
+		"option4" : "各尽其职",
+		"question" : "“老猫拿耗子”的歇后语是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 124,
+		"option1" : "自不量力",
+		"option2" : "无事找事",
+		"option3" : "有来有回",
+		"option4" : "你追我赶",
+		"question" : "“麻雀斗公鸡”的歇后语是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 125,
+		"option1" : "有苦说不出",
+		"option2" : "干瞪眼",
+		"option3" : "卸磨杀驴",
+		"option4" : "默不作声",
+		"question" : "“哑巴被驴踢”的歇后语是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 126,
+		"option1" : "王妃",
+		"option2" : "天后",
+		"option3" : "千年泪",
+		"option4" : "千里之外",
+		"question" : "歌词“夜太美，尽管再危险，总有人黑着眼眶熬着夜”出自哪首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 127,
+		"option1" : "听海",
+		"option2" : "东西",
+		"option3" : "光年之外",
+		"option4" : "十年",
+		"question" : "歌词“写信告诉我今夜，你想要梦什么，梦里外的我是否，都让你无从选择”出自哪首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 128,
+		"option1" : "浮夸",
+		"option2" : "单车",
+		"option3" : "十年",
+		"option4" : "朋友",
+		"question" : "歌词“凝视我，别再只看天花，我非你杯茶，也可尽情地喝吧”出自哪首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 129,
+		"option1" : "流年",
+		"option2" : "轮回",
+		"option3" : "千年之后",
+		"option4" : "勿忘我",
+		"question" : "歌词“遇见一场烟火的表演，用一场轮回的时间”出自哪首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 130,
+		"option1" : "那些年",
+		"option2" : "年少有为",
+		"option3" : "棉花糖",
+		"option4" : "睫毛弯弯",
+		"question" : "歌词“又回到最初的起点，记忆中你青涩的脸，我们终於来到了这一天”出自哪首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 131,
+		"option1" : "星月神话",
+		"option2" : "千年以后",
+		"option3" : "千年泪",
+		"option4" : "千里之外",
+		"question" : "歌词“千年之后的你会在哪里，身边有怎样风景”出自哪首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 132,
+		"option1" : "遇见",
+		"option2" : "可能否",
+		"option3" : "贝贝",
+		"option4" : "往后余生",
+		"question" : "歌词“阴天，傍晚，车窗外，未来有一个人在等待”出自哪首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 133,
+		"option1" : "大海",
+		"option2" : "超越极限",
+		"option3" : "盗将行",
+		"option4" : "沙漠骆驼",
+		"question" : "歌词“想要说声爱你，却被吹散在风里，猛然回头，你在那里”出自哪首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 134,
+		"option1" : "江南",
+		"option2" : "不染",
+		"option3" : "陷阱",
+		"option4" : "目不转睛",
+		"question" : "歌词“你在身边就是缘，缘分写在三生石上面”出自哪首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 135,
+		"option1" : "勇气",
+		"option2" : "江南",
+		"option3" : "大海",
+		"option4" : "遇见",
+		"question" : "歌词“只要你一个眼神肯定，我的爱就有意义”出自哪首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 136,
+		"option1" : "我的好兄弟",
+		"option2" : "星月神话",
+		"option3" : "流年",
+		"option4" : "天后",
+		"question" : "歌词“人生难得起起落落，还是要坚强的生活”出自哪首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 137,
+		"option1" : "童话",
+		"option2" : "年少有为",
+		"option3" : "棉花糖",
+		"option4" : "睫毛弯弯",
+		"question" : "歌词“也许你不会懂，从你说爱我以后，我的天空，星星都亮了”出自哪首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 138,
+		"option1" : "同桌的你",
+		"option2" : "栀子花",
+		"option3" : "超越极限",
+		"option4" : "盗将行",
+		"question" : "歌词“谁看了我给你写的信，谁把它丢在风里”出自哪首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 139,
+		"option1" : "相信自己",
+		"option2" : "小酒窝",
+		"option3" : "隐形的翅膀",
+		"option4" : "那些花儿",
+		"question" : "歌词“多少次挥汗如雨，伤痛曾填满记忆”出自哪首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 140,
+		"option1" : "那些花儿",
+		"option2" : "年少有为",
+		"option3" : "棉花糖",
+		"option4" : "睫毛弯弯",
+		"question" : "歌词“她们都老了吧，她们在哪里呀，我们就这样，各自奔天涯”出自哪首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 141,
+		"option1" : "小酒窝",
+		"option2" : "江南",
+		"option3" : "大海",
+		"option4" : "遇见",
+		"question" : "歌词“幸福开始有预兆，缘分让我们慢慢紧靠”出自哪首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 142,
+		"option1" : "隐形的翅膀",
+		"option2" : "星月神话",
+		"option3" : "千年以后",
+		"option4" : "千年泪",
+		"question" : "歌词“我终于，翱翔，用心凝望不害怕，哪里会有风，就飞多远吧”出自哪首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 143,
+		"option1" : "模特",
+		"option2" : "浮夸",
+		"option3" : "单车",
+		"option4" : "十年",
+		"question" : "歌词“除了光以外，我还能要求什么。除了你以外，还能倚赖哪一个”出自哪首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 144,
+		"option1" : "花香",
+		"option2" : "大海",
+		"option3" : "超越极限",
+		"option4" : "盗将行",
+		"question" : "歌词“风，没有方向的吹来；雨，也跟着悲伤起来”出自哪首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 145,
+		"option1" : "简单爱",
+		"option2" : "听海",
+		"option3" : "东西",
+		"option4" : "光年之外",
+		"question" : "歌词“河边的风，在吹着头发飘动；牵着你的手，一阵莫名感动”出自哪首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 146,
+		"option1" : "明天会更好",
+		"option2" : "不染",
+		"option3" : "陷阱",
+		"option4" : "目不转睛",
+		"question" : "歌词“唱出你的热情，伸出你的双手，让我拥抱着你的梦”出自哪首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 147,
+		"option1" : "爱如潮水",
+		"option2" : "天下",
+		"option3" : "江南",
+		"option4" : "死了都要爱",
+		"question" : "歌词“既然爱了就不后悔，再多的苦我也愿意背”出自哪首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 148,
+		"option1" : "奔跑",
+		"option2" : "我的好兄弟",
+		"option3" : "星月神话",
+		"option4" : "流年",
+		"question" : "歌词“哪怕遇见再大的风险再大的浪，也会有默契的目光”出自哪首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 149,
+		"option1" : "笔记",
+		"option2" : "同桌的你",
+		"option3" : "栀子花",
+		"option4" : "超越极限",
+		"question" : "歌词“回忆的画面，记录的语言，爱始终是你手中长长的线”出自哪首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 150,
+		"option1" : "领悟",
+		"option2" : "那些年",
+		"option3" : "遇见",
+		"option4" : "绿光",
+		"question" : "歌词“愿你我没有白白受苦，若曾真心真意付出，就应该满足”出自哪首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 151,
+		"option1" : "年轻的战场",
+		"option2" : "天下",
+		"option3" : "简单爱",
+		"option4" : "模特",
+		"question" : "歌词“今天我，将要走向这胜利的远方，我要让这世界为我激荡”出自哪首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 152,
+		"option1" : "XL",
+		"option2" : "L",
+		"option3" : "M",
+		"option4" : "XXL",
+		"question" : "通常衣服上会用哪两个英文字母表示“加大号”的衣服？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 153,
+		"option1" : "火焰山",
+		"option2" : "烈焰山",
+		"option3" : "赤炎山",
+		"option4" : "花果山",
+		"question" : "86版电视剧《西游记》中，孙悟空用芭蕉扇熄灭了那座山的烈火？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 154,
+		"option1" : "右白虎",
+		"option2" : "右玄武",
+		"option3" : "右麒麟",
+		"option4" : "右朱雀",
+		"question" : "周星驰电影《唐伯虎点秋香》中，华府师爷的经典台词“我左青龙”的下一句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 155,
+		"option1" : "月饼",
+		"option2" : "元宵",
+		"option3" : "饺子",
+		"option4" : "糍粑",
+		"question" : "相传从元代起，人民通常在中秋节吃什么点心以示“团圆”？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 156,
+		"option1" : "状元",
+		"option2" : "冠军",
+		"option3" : "进士",
+		"option4" : "举人",
+		"question" : "清朝时期，科举殿试的第二名叫榜眼，那么第一名叫什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 157,
+		"option1" : "一阳指",
+		"option2" : "葵花点穴手",
+		"option3" : "降龙十八掌",
+		"option4" : "九阳神功",
+		"question" : "金庸小说《射雕英雄传》中，大理段氏的绝学也是欧阳锋蛤蟆功的克星招式叫什么名字？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 158,
+		"option1" : "周瑜",
+		"option2" : "孔明",
+		"option3" : "郭嘉",
+		"option4" : "荀彧",
+		"question" : "孙策在留给孙权的遗言中说道“内事不决问张昭，外事不决问谁”？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 159,
+		"option1" : "烟花三月下扬州",
+		"option2" : "孤帆远影碧空尽",
+		"option3" : "唯见长江天际流",
+		"option4" : "风雪夜归人",
+		"question" : "李白的《送孟浩然之广陵》中，“故人西辞黄鹤楼”下一句是？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 160,
+		"option1" : "二不休",
+		"option2" : "二不怂",
+		"option3" : "二不干",
+		"option4" : "二不停",
+		"question" : "俗话说“一不做”的后半句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 161,
+		"option1" : "只欠东风",
+		"option2" : "坐等东风",
+		"option3" : "只欠西风",
+		"option4" : "坐等西风",
+		"question" : "俗话说“万事俱备”下一句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 162,
+		"option1" : "情花毒",
+		"option2" : "绝情毒",
+		"option3" : "鹤顶红",
+		"option4" : "蜂毒",
+		"question" : "金庸小说《神雕侠侣》中，杨过小龙女因为中了绝情谷的什么毒而分开？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 163,
+		"option1" : "被犬欺",
+		"option2" : "被鼠欺",
+		"option3" : "被猪欺",
+		"option4" : "被猫欺",
+		"question" : "歇后语“虎落平阳”的后半句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 164,
+		"option1" : "内行看门道",
+		"option2" : "越看越热闹",
+		"option3" : "内行看技道",
+		"option4" : "不看不知道",
+		"question" : "俗话说“外行看热闹”的下句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 165,
+		"option1" : "2",
+		"option2" : "3",
+		"option3" : "4",
+		"option4" : "5",
+		"question" : "在用符号表示平方米的时候我们会在字母“m”的右上角添加哪个数字？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 166,
+		"option1" : "Y",
+		"option2" : "Z",
+		"option3" : "I",
+		"option4" : "B",
+		"question" : "在平面直角坐标系中，通常用X表示横轴，用哪个英文字母表示纵轴？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 167,
+		"option1" : "叉子",
+		"option2" : "刀子",
+		"option3" : "筷子",
+		"option4" : "勺子",
+		"question" : "在西方餐桌礼仪中，通常我们吃牛排时，左手应该拿什么餐具？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 168,
+		"option1" : "1",
+		"option2" : "2",
+		"option3" : "5",
+		"option4" : "10",
+		"question" : "目前我国市面上正在流通的人民币硬币中，面额最大的是多少元？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 169,
+		"option1" : "虞姬",
+		"option2" : "甄姬",
+		"option3" : "王元姬",
+		"option4" : "蔡文姬",
+		"question" : "著名京剧选段《霸王别姬》中的\"姬\"指的是霸王项羽身边的哪位角色佳人？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 170,
+		"option1" : "桃花运",
+		"option2" : "梅花运",
+		"option3" : "狗屎运",
+		"option4" : "好运",
+		"question" : "我们一般形容得到女子青睐的男子是交了\"什么运\"？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 171,
+		"option1" : "王",
+		"option2" : "张",
+		"option3" : "张王",
+		"option4" : "不可查证",
+		"question" : "我国某古代已婚妇人被称为\"张王氏\"，那么这个妇人在出嫁前姓什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 172,
+		"option1" : "展昭",
+		"option2" : "展邵",
+		"option3" : "展绍",
+		"option4" : "展超",
+		"question" : "电视剧《包青天》中，包拯身边的\"展护卫\"的名字是？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 173,
+		"option1" : "杨五郎",
+		"option2" : "杨三郎",
+		"option3" : "杨六郎",
+		"option4" : "杨二郎",
+		"question" : "杨家将的故事中，杨令公的第几儿子出家为僧，并创立了\"八卦棍\"等武功？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 174,
+		"option1" : "牛",
+		"option2" : "虎",
+		"option3" : "兔",
+		"option4" : "龙",
+		"question" : "十二生肖中，排在第一位的动物是\"鼠\"，那么排在第二位的是什么动物？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 175,
+		"option1" : "杨贵妃",
+		"option2" : "武惠妃",
+		"option3" : "扬淑妃",
+		"option4" : "杨贵嫔",
+		"question" : "在天愿作比翼鸟，在地愿为连理枝；最早是描写唐明皇李隆基与哪位妃子的爱情故事？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 176,
+		"option1" : "哥哥",
+		"option2" : "表哥",
+		"option3" : "表弟",
+		"option4" : "弟弟",
+		"question" : "大舅哥是北方地区男子对自己妻子什么亲属的称呼？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 177,
+		"option1" : "无毒不丈夫",
+		"option2" : "最毒妇人心",
+		"option3" : "无度不丈夫",
+		"option4" : "小人之心也",
+		"question" : "俗语\"量小非君子\"的下一句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 178,
+		"option1" : "一将难求",
+		"option2" : "伯乐难求",
+		"option3" : "军心难聚",
+		"option4" : "民心难求",
+		"question" : "我们常说\"三军易得\"的下一句是？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 179,
+		"option1" : "凌波微步",
+		"option2" : "大挪移身法",
+		"option3" : "飘雪穿云步",
+		"option4" : "梯云纵",
+		"question" : "《天龙八部》中，段誉使用的一项躲闪和逃跑的武功叫做什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 180,
+		"option1" : "冲灵剑法",
+		"option2" : "独孤九剑",
+		"option3" : "两仪剑法",
+		"option4" : "真武七截剑",
+		"question" : "金庸小说《笑傲江湖》中，令狐冲和岳灵珊一同创立的剑法叫什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 181,
+		"option1" : "鱼肠剑",
+		"option2" : "赤霄",
+		"option3" : "纯钧",
+		"option4" : "干将、莫邪",
+		"question" : "传说中铸剑大师欧冶子为越王所制的，可以藏在鱼肚子中而得名的剑叫什么名字？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 182,
+		"option1" : "店小二",
+		"option2" : "账房",
+		"option3" : "伙计",
+		"option4" : "管家",
+		"question" : "在古代人们常把旅馆酒店中的老板称为“店老大”，那把跑堂的伙计称为什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 183,
+		"option1" : "李元芳",
+		"option2" : "陈元方",
+		"option3" : "朱元芳",
+		"option4" : "宋元方",
+		"question" : "电视剧《神探狄仁杰》中经典台词“元芳，你怎么看”请问元芳的全名叫什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 184,
+		"option1" : "牛",
+		"option2" : "马",
+		"option3" : "狗",
+		"option4" : "羊",
+		"question" : "日常生活中，我们除了用“驴”来形容一个人的脾气倔之外，还会用什么家畜来形容？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 185,
+		"option1" : "濑尿虾",
+		"option2" : "基围虾",
+		"option3" : "小龙虾",
+		"option4" : "龙虾",
+		"question" : "网络流行语“皮皮虾，我们走”中的“皮皮虾”在广东又称为什么虾？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 186,
+		"option1" : "只是朱颜改",
+		"option2" : "凄凄惨惨戚戚",
+		"option3" : "往事知多少",
+		"option4" : "问君能有几多愁",
+		"question" : "李煜的词《虞美人》中“雕栏玉砌应犹在”的下一句是？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 187,
+		"option1" : "不知天之高也",
+		"option2" : "不知地之厚也",
+		"option3" : "不知天高地厚也",
+		"option4" : "不知学问之大也",
+		"question" : "在《荀子》名篇《劝学》中，“故不登高山”的下一句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 188,
+		"option1" : "嫦娥",
+		"option2" : "玄女",
+		"option3" : "七仙女",
+		"option4" : "紫霞仙子",
+		"question" : "小说《西游记》中，猪八戒因在天庭调戏了哪位仙女而被打入凡间？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 189,
+		"option1" : "白板",
+		"option2" : "杠",
+		"option3" : "十三幺",
+		"option4" : "胡",
+		"question" : "麻将中俗称“白皮”的牌又被称为什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 190,
+		"option1" : "366",
+		"option2" : "365",
+		"option3" : "364",
+		"option4" : "367",
+		"question" : "闰年的一年共有多少天？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 191,
+		"option1" : "灭自己威风",
+		"option2" : "懦弱不得志",
+		"option3" : "灭自己志气",
+		"option4" : "涨他人威风",
+		"question" : "形象一味助长别人气势的俗语“长他人志气”的下一句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 192,
+		"option1" : "王子",
+		"option2" : "国王",
+		"option3" : "大臣",
+		"option4" : "贵族",
+		"question" : "经典动画《美女与野兽》中的“野兽”在做巫婆施咒前是什么身份？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 193,
+		"option1" : "二月初二",
+		"option2" : "七月初七",
+		"option3" : "九月初九",
+		"option4" : "正月十五",
+		"question" : "在我国民间，每年农历的几月几号被称为“龙抬头”？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 194,
+		"option1" : "我恨君生早",
+		"option2" : "君生我未生",
+		"option3" : "我恨命不该",
+		"option4" : "我生君未生",
+		"question" : "唐代铜官窑瓷器题诗“君恨我生迟”的下一句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 195,
+		"option1" : "鼠",
+		"option2" : "牛",
+		"option3" : "虎",
+		"option4" : "兔",
+		"question" : "十二地支中“子”对应的十二生肖是哪种动物？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 196,
+		"option1" : "季军",
+		"option2" : "亚军",
+		"option3" : "桂冠",
+		"option4" : "状元",
+		"question" : "比赛当中的第一名叫冠军，那么第三名被称为什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 197,
+		"option1" : "110",
+		"option2" : "999",
+		"option3" : "119",
+		"option4" : "911",
+		"question" : "在我国统一的报警求助电话是多少？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 198,
+		"option1" : "象",
+		"option2" : "豹",
+		"option3" : "狼",
+		"option4" : "虎",
+		"question" : "棋类游戏《斗兽棋》中，老鼠可以吃掉哪种动物？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 199,
+		"option1" : "霓虹灯",
+		"option2" : "LED灯",
+		"option3" : "白炽灯",
+		"option4" : "高压钠灯",
+		"question" : "夜晚在路边可以看到的五颜六色的灯被通称为什么灯？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 200,
+		"option1" : "丐帮",
+		"option2" : "青龙帮",
+		"option3" : "斧头帮",
+		"option4" : "唐门",
+		"question" : "金庸笔下的“洪七公”是哪个帮的帮主？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 201,
+		"option1" : "13",
+		"option2" : "1",
+		"option3" : "14",
+		"option4" : "15",
+		"question" : "12小时制的下午1点，换成24小时制是几点？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 202,
+		"option1" : "古龙",
+		"option2" : "金庸",
+		"option3" : "梁羽生",
+		"option4" : "温瑞安",
+		"question" : "”人在江湖，身不由己“这句话出自哪一位武侠作家？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 203,
+		"option1" : "v",
+		"option2" : "vt",
+		"option3" : "vi",
+		"option4" : "adj",
+		"question" : "英语中，名词用“n”来表示，那么动词用哪个字母来表示？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 204,
+		"option1" : "厕所",
+		"option2" : "走廊",
+		"option3" : "阳台",
+		"option4" : "休息室",
+		"question" : "我们经常看到的“WC”是什么公共场所？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 205,
+		"option1" : "弟弟",
+		"option2" : "哥哥",
+		"option3" : "爸爸",
+		"option4" : "爷爷",
+		"question" : "广东方言中，“细佬”是对哪个亲人的称呼？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 206,
+		"option1" : "老板",
+		"option2" : "大佬",
+		"option3" : "大哥",
+		"option4" : "二舅",
+		"question" : "广东方言中，“老细”是对哪个职场角色的称呼？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 207,
+		"option1" : "诸葛亮",
+		"option2" : "张飞",
+		"option3" : "黄忠",
+		"option4" : "周瑜",
+		"question" : "俗话“新官上任三把火”起源于《三国演义》中的哪位蜀国名将？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 208,
+		"option1" : "红桃",
+		"option2" : "方框",
+		"option3" : "黑桃",
+		"option4" : "梅花",
+		"question" : "根据历法设计的扑克牌中，象征着春天的是哪种花色的牌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 209,
+		"option1" : "蜡笔小新",
+		"option2" : "樱桃小丸子",
+		"option3" : "一休哥",
+		"option4" : "熊出没",
+		"question" : "“大象，大象，你的鼻子怎么那么长”出自哪部动漫？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 210,
+		"option1" : "孔子",
+		"option2" : "老子",
+		"option3" : "荀子",
+		"option4" : "庄子",
+		"question" : "“有朋自远方来不亦乐乎”，是出自中国哪一位古代思想家之口？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 211,
+		"option1" : "勿施于人",
+		"option2" : "宁施于人",
+		"option3" : "匆施于人",
+		"option4" : "即施于人",
+		"question" : "我们常说的“己所不欲“下一句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 212,
+		"option1" : "花无缺",
+		"option2" : "宁采臣",
+		"option3" : "林枫",
+		"option4" : "唐三",
+		"question" : "古龙小说《绝代双骄》中有两位男主角是小鱼儿和谁？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 213,
+		"option1" : "法老",
+		"option2" : "牧师",
+		"option3" : "国主",
+		"option4" : "国王",
+		"question" : "古埃及的最高统治者的尊称是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 214,
+		"option1" : "酋长",
+		"option2" : "村长",
+		"option3" : "首领",
+		"option4" : "领主",
+		"question" : "印第安部落的首领被称作什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 215,
+		"option1" : "4",
+		"option2" : "2",
+		"option3" : "5",
+		"option4" : "3",
+		"question" : "正常的一头牛有几个胃来供消化？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 216,
+		"option1" : "耳朵",
+		"option2" : "眼睛",
+		"option3" : "鼻子",
+		"option4" : "嘴巴",
+		"question" : "机器猫哆啦a梦因为头部没有哪个器官而经常被人嘲笑？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 217,
+		"option1" : "黑马",
+		"option2" : "巨龙",
+		"option3" : "雄狮",
+		"option4" : "猛虎",
+		"question" : "我们通常用哪种颜色的什么动物来比喻不知名的选手出乎意料的获胜？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 218,
+		"option1" : "乌鸦",
+		"option2" : "老鼠",
+		"option3" : "狗",
+		"option4" : "百灵",
+		"question" : "我们通常用哪种动物形容某人说话嘴巴可恶，好事说不灵，坏事一说就灵？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 219,
+		"option1" : "黄雀在后",
+		"option2" : "兵来将挡",
+		"option3" : "千里之堤",
+		"option4" : "螳臂当车",
+		"question" : "俗话说：“螳螂捕蝉”下一句是？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 220,
+		"option1" : "水来土掩",
+		"option2" : "大水冲了龙王庙",
+		"option3" : "千里之堤",
+		"option4" : "螳臂当车",
+		"question" : "俗话说：“兵来将挡”下一句是？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 221,
+		"option1" : "妹妹",
+		"option2" : "大姐",
+		"option3" : "二姐",
+		"option4" : "姑姑",
+		"question" : "小姑子是对丈夫的什么人的称谓？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 222,
+		"option1" : "弟弟",
+		"option2" : "大哥",
+		"option3" : "二哥",
+		"option4" : "舅舅",
+		"question" : "小舅子是对妻子的什么人的称谓？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 223,
+		"option1" : "18",
+		"option2" : "15",
+		"option3" : "12",
+		"option4" : "20",
+		"question" : "3个骰子能掷出的最大点数是多少？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 224,
+		"option1" : "匹夫有责",
+		"option2" : "匹夫无罪",
+		"option3" : "人人有责",
+		"option4" : "国难当头",
+		"question" : "成语“天下兴亡”下一句是？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 225,
+		"option1" : "后天下之乐而乐",
+		"option2" : "兴，百姓苦",
+		"option3" : "然则何时而乐耶",
+		"option4" : "不以物喜",
+		"question" : "宋代文学家范仲淹写到：“先天下之忧而忧”后一句是？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 226,
+		"option1" : "鸳鸯",
+		"option2" : "并蒂",
+		"option3" : "重庆火锅",
+		"option4" : "香辣火锅",
+		"question" : "一边清汤卤，一边红汤卤，原名为“双味火锅”的我们通常称之为什么火锅？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 227,
+		"option1" : "5",
+		"option2" : "4",
+		"option3" : "1",
+		"option4" : "6",
+		"question" : "凹凸的“凸”字是多少笔画？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 228,
+		"option1" : "2",
+		"option2" : "1.5",
+		"option3" : "1",
+		"option4" : "3",
+		"question" : "我国古代每个时辰相当于现在的几个小时？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 229,
+		"option1" : "懿旨",
+		"option2" : "口谕",
+		"option3" : "诏书",
+		"option4" : "策书",
+		"question" : "中国古代皇上发布的诏令叫做“圣旨”，皇后发布的诏令叫什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 230,
+		"option1" : "可爱",
+		"option2" : "漂亮",
+		"option3" : "活泼",
+		"option4" : "有趣",
+		"question" : "在网络聊天中形容女孩子“口耐”是说的哪个词？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 231,
+		"option1" : "谢谢",
+		"option2" : "三人",
+		"option3" : "删除QQ",
+		"option4" : "小哥哥",
+		"question" : "网络用语“3Q”代表的是什么意思？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 232,
+		"option1" : "肝胆",
+		"option2" : "心胆",
+		"option3" : "手足",
+		"option4" : "唇齿",
+		"question" : "形容朋友之间讲义气，以赤诚之心对待人常会用哪两个器官相照？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 233,
+		"option1" : "囍",
+		"option2" : "福",
+		"option3" : "龙",
+		"option4" : "祥",
+		"question" : "新婚吉庆时，通常会在新房贴上哪个字来讨好彩头？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 234,
+		"option1" : "李白",
+		"option2" : "苏轼",
+		"option3" : "欧巴",
+		"option4" : "杜甫",
+		"question" : "“桃花潭水深千尺，不及汪伦送我情”中的“我”是哪位诗人？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 235,
+		"option1" : "陈奕迅",
+		"option2" : "张学友",
+		"option3" : "刘德华",
+		"option4" : "张国荣",
+		"question" : "英文名被译为“医生”的香港新一代天王歌手是谁？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 236,
+		"option1" : "不带走一片云彩",
+		"option2" : "正如我悄悄的来",
+		"option3" : "作别西天的云彩",
+		"option4" : "正如我轻轻的来",
+		"question" : "徐志摩的《再别康桥》的诗中，“我挥一挥衣袖”下一句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 237,
+		"option1" : "爱情价更高",
+		"option2" : "若为自由故",
+		"option3" : "两者皆可抛",
+		"option4" : "成就价更高",
+		"question" : "裴多菲的诗句“生命诚可贵”下一句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 238,
+		"option1" : "蝴蝶",
+		"option2" : "蛤蟆",
+		"option3" : "蜻蜓",
+		"option4" : "鸳鸯",
+		"question" : "《梁祝》故事中，梁山伯和祝英台死后化成了什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 239,
+		"option1" : "羊",
+		"option2" : "候",
+		"option3" : "狮子",
+		"option4" : "老虎",
+		"question" : "我们有哪种动物比喻代人受过替人顶罪的人？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 240,
+		"option1" : "马",
+		"option2" : "驴",
+		"option3" : "狼",
+		"option4" : "鹿",
+		"question" : "曹操的名句“老骥伏枥，志在千里”中的骥指的是哪种动物？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 241,
+		"option1" : "鼻子",
+		"option2" : "眼睛",
+		"option3" : "耳朵",
+		"option4" : "嘴巴",
+		"question" : "现存的埃及狮身人面像上五官当中缺少了哪个部位？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 242,
+		"option1" : "非一日之寒",
+		"option2" : "非一日之功",
+		"option3" : "有神明",
+		"option4" : "百尺竿头",
+		"question" : "成语“冰冻三尺”的下句是？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 243,
+		"option1" : "更进一步",
+		"option2" : "魔高一尺",
+		"option3" : "厉兵秣马",
+		"option4" : "奋勇向前",
+		"question" : "成语“百尺竿头”的下句是？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 244,
+		"option1" : "粮草先行",
+		"option2" : "身先士卒",
+		"option3" : "探囊取物",
+		"option4" : "所向披靡",
+		"question" : "成语“兵马未动”的下一句是？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 245,
+		"option1" : "败也萧何",
+		"option2" : "身先士卒",
+		"option3" : "探囊取物",
+		"option4" : "所向披靡",
+		"question" : "成语“成也萧何”的下一句是？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 246,
+		"option1" : "宝塔镇河妖",
+		"option2" : "一支穿云箭",
+		"option3" : "千军万马来相见",
+		"option4" : "老子是地主",
+		"question" : "《智取威虎山》中经典台词“天王盖地虎”下一句是？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 247,
+		"option1" : "自身难保",
+		"option2" : "有来无回",
+		"option3" : "有去无回",
+		"option4" : "各显神通",
+		"question" : "歇后语“泥菩萨过河”的下一句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 248,
+		"option1" : "里外不是人",
+		"option2" : "臭美",
+		"option3" : "都是猪",
+		"option4" : "我好帅",
+		"question" : "歇后语“猪八戒照镜子”的下一句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 249,
+		"option1" : "拿人手短",
+		"option2" : "真香",
+		"option3" : "默不作声",
+		"option4" : "吃亏在眼前",
+		"question" : "俗话说：“吃人嘴软”，下一句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 250,
+		"option1" : "吃亏在眼前",
+		"option2" : "快乐大无边",
+		"option3" : "深思熟虑",
+		"option4" : "百思不得其解",
+		"question" : "中国的谚语“不听老人言”。下一句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 251,
+		"option1" : "水往低处流",
+		"option2" : "水往高处流",
+		"option3" : "宝塔镇河妖",
+		"option4" : "老子是地主",
+		"question" : "中国的谚语“人往高处走”。下一句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 252,
+		"option1" : "退后一步是孤独",
+		"option2" : "与你牵手不分离",
+		"option3" : "舍弃寂寞与孤独",
+		"option4" : "不分你我相守护",
+		"question" : "由孟非演唱的《非诚勿扰》主题曲“往前一步是幸福”下一句是？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 253,
+		"option1" : "同一个梦想",
+		"option2" : "共同的梦想",
+		"option3" : "同一个理想",
+		"option4" : "共同的理想",
+		"question" : "2008年奥运会的口号同一个世界，下一句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 254,
+		"option1" : "女为悦己者容",
+		"option2" : "一将难求",
+		"option3" : "三军易得",
+		"option4" : "汝为悦己者容",
+		"question" : "“士为自己者死”下一句是什么？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 255,
+		"option1" : "一定要嫁给我",
+		"option2" : "请一定嫁给我",
+		"option3" : "嫁给我吧",
+		"option4" : "一定要嫁给爱情",
+		"question" : "歌曲《达坂城的姑娘》中“你要是嫁人，不要嫁给别人”，下一句是？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 256,
+		"option1" : "恋人未满",
+		"option2" : "不想长大",
+		"option3" : "烦恼",
+		"option4" : "天灰",
+		"question" : "歌词“友达以上，恋人未满，甜蜜心烦，愉悦混乱”出自哪一首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 257,
+		"option1" : "五月天",
+		"option2" : "恋人未满",
+		"option3" : "远方",
+		"option4" : "他还是不懂",
+		"question" : "歌词“我们之间，才完成的爱恋，紧握的手里面，有好多明天”出自哪一首歌？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 258,
+		"option1" : "18",
+		"option2" : "21",
+		"option3" : "10",
+		"option4" : "15",
+		"question" : "王力宏的一首歌曲，通常所说的古代习武之人有多少班武艺？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 259,
+		"option1" : "6",
+		"option2" : "5",
+		"option3" : "7",
+		"option4" : "8",
+		"question" : "《三国演义》中关羽为了摆脱曹操追杀，过5关时，斩杀了几位大将？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 260,
+		"option1" : "于谦",
+		"option2" : "曹云金",
+		"option3" : "岳云鹏",
+		"option4" : "范伟",
+		"question" : "与郭德纲合作时间最长的金牌搭档叫什么名字？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 261,
+		"option1" : "逗哏",
+		"option2" : "抬哏",
+		"option3" : "贬哏",
+		"option4" : "吹哏",
+		"question" : "在对口相声中，两人各有分工，一位捧哏，另一位是？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 262,
+		"option1" : "耐克",
+		"option2" : "鸿星尔克",
+		"option3" : "阿迪达斯",
+		"option4" : "匡威",
+		"question" : "电影《阿甘正传》中，阿甘穿着哪家美国运动品牌的跑步鞋完成了跑遍美国的壮举？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 263,
+		"option1" : "爱立信",
+		"option2" : "爱力信",
+		"option3" : "爱丽信",
+		"option4" : "爱利信",
+		"question" : "风光一时的索爱手机品牌，索是指索尼，爱是指哪个公司？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 264,
+		"option1" : "湖南省",
+		"option2" : "湖北省",
+		"option3" : "广西省",
+		"option4" : "江苏省",
+		"question" : "名联“惟楚有才于斯为盛”所在的岳麓书院位于哪个省？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 265,
+		"option1" : "重庆",
+		"option2" : "兰州",
+		"option3" : "武汉",
+		"option4" : "天津",
+		"question" : "电影《红岩》中，囚禁江姐的渣滓洞在我国哪个城市？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 266,
+		"option1" : "叶世荣",
+		"option2" : "黄霑",
+		"option3" : "许冠杰",
+		"option4" : "谭咏麟",
+		"question" : "香港摇滚乐队Beyond由黄家驹兄弟三人和谁组成的？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 267,
+		"option1" : "草蜢",
+		"option2" : "花儿",
+		"option3" : "五月天",
+		"option4" : "beyond",
+		"question" : "90年代与小虎队齐名，由苏志威、蔡一杰、蔡一智组成的香港偶像组合叫？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 268,
+		"option1" : "王昭君",
+		"option2" : "陈阿娇",
+		"option3" : "卫子夫",
+		"option4" : "卓文君",
+		"question" : "马致远创作的元杂剧《汉宫秋》讲的是哪位古代美女的故事？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 269,
+		"option1" : "女儿红",
+		"option2" : "江小白",
+		"option3" : "竹叶青",
+		"option4" : "新丰酒",
+		"question" : "浙江名酒，古代嫁女时的陪嫁礼品酒叫什么酒？"
+	},
+	
+	{
+		"answer" : 1,
+		"id" : 270,
+		"option1" : "腰",
+		"option2" : "臀",
+		"option3" : "胸",
+		"option4" : "腿",
+		"question" : "小明买了一条32的裤子，请问“32”指的是身体哪里的尺寸？"
+	}
+]

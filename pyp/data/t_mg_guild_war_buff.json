@@ -1,0 +1,163 @@
+
+[
+	
+	{
+		"buffId" : 1000101,
+		"desc" : "防御增加50",
+		"exp" : 10,
+		"level" : 1,
+		"type" : 1
+	},
+	
+	{
+		"buffId" : 1000102,
+		"desc" : "防御增加100",
+		"exp" : 20,
+		"level" : 2,
+		"type" : 1
+	},
+	
+	{
+		"buffId" : 1000103,
+		"desc" : "防御增加150",
+		"exp" : 30,
+		"level" : 3,
+		"type" : 1
+	},
+	
+	{
+		"buffId" : 1000104,
+		"desc" : "防御增加200",
+		"exp" : 40,
+		"level" : 4,
+		"type" : 1
+	},
+	
+	{
+		"buffId" : 1000105,
+		"desc" : "防御增加250",
+		"exp" : 50,
+		"level" : 5,
+		"type" : 1
+	},
+	
+	{
+		"buffId" : 1000106,
+		"desc" : "防御增加300",
+		"exp" : 60,
+		"level" : 6,
+		"type" : 1
+	},
+	
+	{
+		"buffId" : 1000107,
+		"desc" : "防御增加350",
+		"exp" : 70,
+		"level" : 7,
+		"type" : 1
+	},
+	
+	{
+		"buffId" : 1000108,
+		"desc" : "防御增加400",
+		"exp" : 80,
+		"level" : 8,
+		"type" : 1
+	},
+	
+	{
+		"buffId" : 1000109,
+		"desc" : "防御增加450",
+		"exp" : 90,
+		"level" : 9,
+		"type" : 1
+	},
+	
+	{
+		"buffId" : 1000110,
+		"desc" : "防御增加500",
+		"exp" : 100,
+		"level" : 10,
+		"type" : 1
+	},
+	
+	{
+		"buffId" : 1000201,
+		"desc" : "防御减少50",
+		"exp" : 10,
+		"level" : 1,
+		"type" : 2
+	},
+	
+	{
+		"buffId" : 1000202,
+		"desc" : "防御减少100",
+		"exp" : 20,
+		"level" : 2,
+		"type" : 2
+	},
+	
+	{
+		"buffId" : 1000203,
+		"desc" : "防御减少150",
+		"exp" : 30,
+		"level" : 3,
+		"type" : 2
+	},
+	
+	{
+		"buffId" : 1000204,
+		"desc" : "防御减少200",
+		"exp" : 40,
+		"level" : 4,
+		"type" : 2
+	},
+	
+	{
+		"buffId" : 1000205,
+		"desc" : "防御减少250",
+		"exp" : 50,
+		"level" : 5,
+		"type" : 2
+	},
+	
+	{
+		"buffId" : 1000206,
+		"desc" : "防御减少300",
+		"exp" : 60,
+		"level" : 6,
+		"type" : 2
+	},
+	
+	{
+		"buffId" : 1000207,
+		"desc" : "防御减少350",
+		"exp" : 70,
+		"level" : 7,
+		"type" : 2
+	},
+	
+	{
+		"buffId" : 1000208,
+		"desc" : "防御减少400",
+		"exp" : 80,
+		"level" : 8,
+		"type" : 2
+	},
+	
+	{
+		"buffId" : 1000209,
+		"desc" : "防御减少450",
+		"exp" : 90,
+		"level" : 9,
+		"type" : 2
+	},
+	
+	{
+		"buffId" : 1000210,
+		"desc" : "防御减少500",
+		"exp" : 100,
+		"level" : 10,
+		"type" : 2
+	}
+]

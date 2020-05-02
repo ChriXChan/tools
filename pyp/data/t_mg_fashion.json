@@ -1,0 +1,73 @@
+
+[
+	
+	{
+		"attrList" : "1,100#2,1400#4,30#",
+		"code" : 100001,
+		"modelId" : 1000011,
+		"name" : "神仙眷侣",
+		"propCode" : 41960051,
+		"type" : 1,
+		"useNum" : 1
+	},
+	
+	{
+		"attrList" : "1,200#2,2800#4,60#",
+		"code" : 100002,
+		"modelId" : 1000021,
+		"name" : "魅影传说",
+		"propCode" : 41960002,
+		"type" : 1,
+		"useNum" : 1
+	},
+	
+	{
+		"attrList" : "1,150#2,2400#4,30#",
+		"code" : 100003,
+		"modelId" : 1000031,
+		"name" : "立地成佛",
+		"propCode" : 41960053,
+		"type" : 1,
+		"useNum" : 1
+	},
+	
+	{
+		"attrList" : "1,250#2,3000#4,100#",
+		"code" : 100004,
+		"modelId" : 1000041,
+		"name" : "水晶之恋",
+		"propCode" : 41960004,
+		"type" : 1,
+		"useNum" : 1
+	},
+	
+	{
+		"attrList" : "1,200#2,3200#4,40#",
+		"code" : 100005,
+		"modelId" : 1000051,
+		"name" : "夏日缤纷",
+		"propCode" : 41960062,
+		"type" : 1,
+		"useNum" : 1
+	},
+	
+	{
+		"attrList" : "1,214#2,2013#",
+		"code" : 100006,
+		"modelId" : 1000061,
+		"name" : "金玉良缘",
+		"propCode" : 41960070,
+		"type" : 1,
+		"useNum" : 1
+	},
+	
+	{
+		"attrList" : "1,300#3,90#7,210#",
+		"code" : 101001,
+		"modelId" : 3006,
+		"name" : "凤舞九天",
+		"propCode" : 41960059,
+		"type" : 2,
+		"useNum" : 1
+	}
+]

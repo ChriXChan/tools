@@ -1,0 +1,27 @@
+
+[
+	
+	{
+		"blessingTime" : 1,
+		"inputAmount" : 1000,
+		"inputUnit" : 1,
+		"outputAmount" : 50000,
+		"outputUnit" : 1
+	},
+	
+	{
+		"blessingTime" : 2,
+		"inputAmount" : 20,
+		"inputUnit" : 2,
+		"outputAmount" : 500,
+		"outputUnit" : 3
+	},
+	
+	{
+		"blessingTime" : 3,
+		"inputAmount" : 5000,
+		"inputUnit" : 1,
+		"outputAmount" : 500000,
+		"outputUnit" : 1
+	}
+]

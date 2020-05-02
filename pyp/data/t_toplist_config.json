@@ -1,0 +1,84 @@
+
+[
+	
+	{
+		"id" : 1,
+		"name" : "元宝消费排行",
+		"showNum" : 30,
+		"timerBeginTime" : "2015-01-20 00:00:00.000",
+		"type" : 3021
+	},
+	
+	{
+		"id" : 2,
+		"name" : "元宝消费跨服排行",
+		"showNum" : 50,
+		"timerBeginTime" : "2015-03-05 00:00:00.000",
+		"type" : 3024
+	},
+	
+	{
+		"id" : 3,
+		"name" : "玩家充值跨服排行",
+		"showNum" : 50,
+		"timerBeginTime" : "2015-03-05 00:00:00.000",
+		"type" : 3025
+	},
+	
+	{
+		"id" : 4,
+		"name" : "跨服3v3积分排行",
+		"showNum" : 100,
+		"timerBeginTime" : "2016-03-05 00:00:00.000",
+		"type" : 10000
+	},
+	
+	{
+		"id" : 5,
+		"name" : "跨服3v3击杀排行",
+		"showNum" : 100,
+		"timerBeginTime" : "2016-03-05 00:00:00.000",
+		"type" : 10001
+	},
+	
+	{
+		"id" : 6,
+		"name" : "跨服3v3胜场排行",
+		"showNum" : 100,
+		"timerBeginTime" : "2016-03-05 00:00:00.000",
+		"type" : 10002
+	},
+	
+	{
+		"id" : 7,
+		"name" : "跨服3v3连胜排行",
+		"showNum" : 100,
+		"timerBeginTime" : "2016-03-05 00:00:00.000",
+		"type" : 10003
+	},
+	
+	{
+		"id" : 8,
+		"name" : "跨服迷宫榜",
+		"orderType" : 1,
+		"showNum" : 30,
+		"timerBeginTime" : "2015-01-20 00:00:00.000",
+		"type" : 1
+	},
+	
+	{
+		"id" : 9,
+		"name" : "鲜花榜（跨服）",
+		"showNum" : 50,
+		"timerBeginTime" : "2015-05-14 00:00:00.000",
+		"type" : 3030
+	},
+	
+	{
+		"id" : 10,
+		"name" : "护花榜（跨服）",
+		"showNum" : 50,
+		"timerBeginTime" : "2015-05-14 00:00:00.000",
+		"type" : 3031
+	}
+]

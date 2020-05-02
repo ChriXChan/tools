@@ -1,0 +1,108 @@
+
+[
+	
+	{
+		"bossId" : 505212001,
+		"id" : 505212001,
+		"openLevel" : 150,
+		"targetRing" : 1
+	},
+	
+	{
+		"bossId" : 505212002,
+		"id" : 505212002,
+		"openLevel" : 150,
+		"targetRing" : 2
+	},
+	
+	{
+		"bossId" : 505212003,
+		"id" : 505212003,
+		"openLevel" : 200,
+		"targetRing" : 3
+	},
+	
+	{
+		"bossId" : 505212004,
+		"id" : 505212004,
+		"openLevel" : 250,
+		"targetRing" : 4
+	},
+	
+	{
+		"bossId" : 505212005,
+		"id" : 505212005,
+		"openLevel" : 300,
+		"targetRing" : 5
+	},
+	
+	{
+		"bossId" : 505212006,
+		"id" : 505212006,
+		"openLevel" : 350,
+		"targetRing" : 6
+	},
+	
+	{
+		"bossId" : 505212007,
+		"id" : 505212007,
+		"openLevel" : 400,
+		"targetRing" : 7
+	},
+	
+	{
+		"bossId" : 505212008,
+		"id" : 505212008,
+		"openLevel" : 450,
+		"targetRing" : 8
+	},
+	
+	{
+		"bossId" : 505212009,
+		"id" : 505212009,
+		"openLevel" : 500,
+		"targetRing" : 9
+	},
+	
+	{
+		"bossId" : 505212010,
+		"id" : 505212010,
+		"openLevel" : 550,
+		"targetRing" : 10
+	},
+	
+	{
+		"bossId" : 505212011,
+		"id" : 505212011,
+		"openLevel" : 600,
+		"targetRing" : 11
+	},
+	
+	{
+		"bossId" : 505212012,
+		"id" : 505212012,
+		"openLevel" : 650,
+		"targetRing" : 12
+	},
+	
+	{
+		"bossId" : 505212013,
+		"id" : 505212013,
+		"openLevel" : 700,
+		"targetRing" : 13
+	},
+	
+	{
+		"bossId" : 505212014,
+		"id" : 505212014,
+		"openLevel" : 750,
+		"targetRing" : 14
+	},
+	
+	{
+		"bossId" : 505212015,
+		"id" : 505212015,
+		"openLevel" : 800,
+		"targetRing" : 15
+	}
+]

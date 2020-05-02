@@ -1,0 +1,3503 @@
+
+[
+	
+	{
+		"attrList" : "1,22#2,2100#",
+		"decomposeExp" : 62,
+		"equipType" : 1,
+		"strengthenLevel" : 1
+	},
+	
+	{
+		"attrList" : "1,45#2,4200#",
+		"decomposeExp" : 141,
+		"equipType" : 1,
+		"strengthenLevel" : 2
+	},
+	
+	{
+		"attrList" : "1,68#2,6300#",
+		"decomposeExp" : 236,
+		"equipType" : 1,
+		"strengthenLevel" : 3
+	},
+	
+	{
+		"attrList" : "1,90#2,8400#",
+		"decomposeExp" : 348,
+		"equipType" : 1,
+		"strengthenLevel" : 4
+	},
+	
+	{
+		"attrList" : "1,112#2,10500#",
+		"decomposeExp" : 479,
+		"equipType" : 1,
+		"strengthenLevel" : 5
+	},
+	
+	{
+		"attrList" : "1,135#2,12600#",
+		"decomposeExp" : 628,
+		"equipType" : 1,
+		"strengthenLevel" : 6
+	},
+	
+	{
+		"attrList" : "1,158#2,14700#",
+		"decomposeExp" : 798,
+		"equipType" : 1,
+		"strengthenLevel" : 7
+	},
+	
+	{
+		"attrList" : "1,180#2,16800#",
+		"decomposeExp" : 988,
+		"equipType" : 1,
+		"strengthenLevel" : 8
+	},
+	
+	{
+		"attrList" : "1,202#2,18900#",
+		"decomposeExp" : 1200,
+		"equipType" : 1,
+		"strengthenLevel" : 9
+	},
+	
+	{
+		"attrList" : "1,225#2,21000#",
+		"decomposeExp" : 1434,
+		"equipType" : 1,
+		"strengthenLevel" : 10
+	},
+	
+	{
+		"attrList" : "1,248#2,23100#",
+		"decomposeExp" : 1693,
+		"equipType" : 1,
+		"strengthenLevel" : 11
+	},
+	
+	{
+		"attrList" : "1,270#2,25200#",
+		"decomposeExp" : 1975,
+		"equipType" : 1,
+		"strengthenLevel" : 12
+	},
+	
+	{
+		"attrList" : "1,292#2,27300#",
+		"decomposeExp" : 2284,
+		"equipType" : 1,
+		"strengthenLevel" : 13
+	},
+	
+	{
+		"attrList" : "1,315#2,29400#",
+		"decomposeExp" : 2619,
+		"equipType" : 1,
+		"strengthenLevel" : 14
+	},
+	
+	{
+		"attrList" : "1,338#2,31500#",
+		"decomposeExp" : 2982,
+		"equipType" : 1,
+		"strengthenLevel" : 15
+	},
+	
+	{
+		"attrList" : "1,360#2,33600#",
+		"decomposeExp" : 3373,
+		"equipType" : 1,
+		"strengthenLevel" : 16
+	},
+	
+	{
+		"attrList" : "1,382#2,35700#",
+		"decomposeExp" : 3794,
+		"equipType" : 1,
+		"strengthenLevel" : 17
+	},
+	
+	{
+		"attrList" : "1,405#2,37800#",
+		"decomposeExp" : 4246,
+		"equipType" : 1,
+		"strengthenLevel" : 18
+	},
+	
+	{
+		"attrList" : "1,428#2,39900#",
+		"decomposeExp" : 4730,
+		"equipType" : 1,
+		"strengthenLevel" : 19
+	},
+	
+	{
+		"attrList" : "1,450#2,42000#",
+		"decomposeExp" : 5246,
+		"equipType" : 1,
+		"strengthenLevel" : 20
+	},
+	
+	{
+		"attrList" : "1,472#2,44100#",
+		"decomposeExp" : 5797,
+		"equipType" : 1,
+		"strengthenLevel" : 21
+	},
+	
+	{
+		"attrList" : "1,495#2,46200#",
+		"decomposeExp" : 6383,
+		"equipType" : 1,
+		"strengthenLevel" : 22
+	},
+	
+	{
+		"attrList" : "1,518#2,48300#",
+		"decomposeExp" : 7004,
+		"equipType" : 1,
+		"strengthenLevel" : 23
+	},
+	
+	{
+		"attrList" : "1,540#2,50400#",
+		"decomposeExp" : 7663,
+		"equipType" : 1,
+		"strengthenLevel" : 24
+	},
+	
+	{
+		"attrList" : "1,562#2,52500#",
+		"decomposeExp" : 8359,
+		"equipType" : 1,
+		"strengthenLevel" : 25
+	},
+	
+	{
+		"attrList" : "1,585#2,54600#",
+		"decomposeExp" : 9095,
+		"equipType" : 1,
+		"strengthenLevel" : 26
+	},
+	
+	{
+		"attrList" : "1,608#2,56700#",
+		"decomposeExp" : 9870,
+		"equipType" : 1,
+		"strengthenLevel" : 27
+	},
+	
+	{
+		"attrList" : "1,630#2,58800#",
+		"decomposeExp" : 10686,
+		"equipType" : 1,
+		"strengthenLevel" : 28
+	},
+	
+	{
+		"attrList" : "1,652#2,60900#",
+		"decomposeExp" : 11544,
+		"equipType" : 1,
+		"strengthenLevel" : 29
+	},
+	
+	{
+		"attrList" : "1,675#2,63000#",
+		"decomposeExp" : 12444,
+		"equipType" : 1,
+		"strengthenLevel" : 30
+	},
+	
+	{
+		"attrList" : "1,698#2,65100#",
+		"decomposeExp" : 13387,
+		"equipType" : 1,
+		"strengthenLevel" : 31
+	},
+	
+	{
+		"attrList" : "1,720#2,67200#",
+		"decomposeExp" : 14374,
+		"equipType" : 1,
+		"strengthenLevel" : 32
+	},
+	
+	{
+		"attrList" : "1,742#2,69300#",
+		"decomposeExp" : 15406,
+		"equipType" : 1,
+		"strengthenLevel" : 33
+	},
+	
+	{
+		"attrList" : "1,765#2,71400#",
+		"decomposeExp" : 16483,
+		"equipType" : 1,
+		"strengthenLevel" : 34
+	},
+	
+	{
+		"attrList" : "1,788#2,73500#",
+		"decomposeExp" : 17605,
+		"equipType" : 1,
+		"strengthenLevel" : 35
+	},
+	
+	{
+		"attrList" : "1,810#2,75600#",
+		"decomposeExp" : 18773,
+		"equipType" : 1,
+		"strengthenLevel" : 36
+	},
+	
+	{
+		"attrList" : "1,832#2,77700#",
+		"decomposeExp" : 19987,
+		"equipType" : 1,
+		"strengthenLevel" : 37
+	},
+	
+	{
+		"attrList" : "1,855#2,79800#",
+		"decomposeExp" : 21249,
+		"equipType" : 1,
+		"strengthenLevel" : 38
+	},
+	
+	{
+		"attrList" : "1,878#2,81900#",
+		"decomposeExp" : 22557,
+		"equipType" : 1,
+		"strengthenLevel" : 39
+	},
+	
+	{
+		"attrList" : "1,900#2,84000#",
+		"decomposeExp" : 23912,
+		"equipType" : 1,
+		"strengthenLevel" : 40
+	},
+	
+	{
+		"attrList" : "1,922#2,86100#",
+		"decomposeExp" : 25314,
+		"equipType" : 1,
+		"strengthenLevel" : 41
+	},
+	
+	{
+		"attrList" : "1,945#2,88200#",
+		"decomposeExp" : 26763,
+		"equipType" : 1,
+		"strengthenLevel" : 42
+	},
+	
+	{
+		"attrList" : "1,968#2,90300#",
+		"decomposeExp" : 28259,
+		"equipType" : 1,
+		"strengthenLevel" : 43
+	},
+	
+	{
+		"attrList" : "1,990#2,92400#",
+		"decomposeExp" : 29801,
+		"equipType" : 1,
+		"strengthenLevel" : 44
+	},
+	
+	{
+		"attrList" : "1,1012#2,94500#",
+		"decomposeExp" : 31391,
+		"equipType" : 1,
+		"strengthenLevel" : 45
+	},
+	
+	{
+		"attrList" : "1,1035#2,96600#",
+		"decomposeExp" : 33026,
+		"equipType" : 1,
+		"strengthenLevel" : 46
+	},
+	
+	{
+		"attrList" : "1,1058#2,98700#",
+		"decomposeExp" : 34707,
+		"equipType" : 1,
+		"strengthenLevel" : 47
+	},
+	
+	{
+		"attrList" : "1,1080#2,100800#",
+		"decomposeExp" : 36433,
+		"equipType" : 1,
+		"strengthenLevel" : 48
+	},
+	
+	{
+		"attrList" : "1,1102#2,102900#",
+		"decomposeExp" : 38204,
+		"equipType" : 1,
+		"strengthenLevel" : 49
+	},
+	
+	{
+		"attrList" : "1,1125#2,105000#",
+		"decomposeExp" : 40018,
+		"equipType" : 1,
+		"strengthenLevel" : 50
+	},
+	
+	{
+		"attrList" : "1,1148#2,107100#",
+		"decomposeExp" : 41877,
+		"equipType" : 1,
+		"strengthenLevel" : 51
+	},
+	
+	{
+		"attrList" : "1,1170#2,109200#",
+		"decomposeExp" : 43777,
+		"equipType" : 1,
+		"strengthenLevel" : 52
+	},
+	
+	{
+		"attrList" : "1,1192#2,111300#",
+		"decomposeExp" : 45720,
+		"equipType" : 1,
+		"strengthenLevel" : 53
+	},
+	
+	{
+		"attrList" : "1,1215#2,113400#",
+		"decomposeExp" : 47704,
+		"equipType" : 1,
+		"strengthenLevel" : 54
+	},
+	
+	{
+		"attrList" : "1,1238#2,115500#",
+		"decomposeExp" : 49728,
+		"equipType" : 1,
+		"strengthenLevel" : 55
+	},
+	
+	{
+		"attrList" : "1,1260#2,117600#",
+		"decomposeExp" : 51791,
+		"equipType" : 1,
+		"strengthenLevel" : 56
+	},
+	
+	{
+		"attrList" : "1,1282#2,119700#",
+		"decomposeExp" : 53892,
+		"equipType" : 1,
+		"strengthenLevel" : 57
+	},
+	
+	{
+		"attrList" : "1,1305#2,121800#",
+		"decomposeExp" : 56030,
+		"equipType" : 1,
+		"strengthenLevel" : 58
+	},
+	
+	{
+		"attrList" : "1,1328#2,123900#",
+		"decomposeExp" : 58205,
+		"equipType" : 1,
+		"strengthenLevel" : 59
+	},
+	
+	{
+		"attrList" : "1,1350#2,126000#",
+		"decomposeExp" : 60416,
+		"equipType" : 1,
+		"strengthenLevel" : 60
+	},
+	
+	{
+		"attrList" : "1,1372#2,128100#",
+		"decomposeExp" : 62660,
+		"equipType" : 1,
+		"strengthenLevel" : 61
+	},
+	
+	{
+		"attrList" : "1,1395#2,130200#",
+		"decomposeExp" : 64938,
+		"equipType" : 1,
+		"strengthenLevel" : 62
+	},
+	
+	{
+		"attrList" : "1,1418#2,132300#",
+		"decomposeExp" : 67247,
+		"equipType" : 1,
+		"strengthenLevel" : 63
+	},
+	
+	{
+		"attrList" : "1,1440#2,134400#",
+		"decomposeExp" : 69588,
+		"equipType" : 1,
+		"strengthenLevel" : 64
+	},
+	
+	{
+		"attrList" : "1,1462#2,136500#",
+		"decomposeExp" : 71959,
+		"equipType" : 1,
+		"strengthenLevel" : 65
+	},
+	
+	{
+		"attrList" : "1,1485#2,138600#",
+		"decomposeExp" : 74359,
+		"equipType" : 1,
+		"strengthenLevel" : 66
+	},
+	
+	{
+		"attrList" : "1,1508#2,140700#",
+		"decomposeExp" : 76787,
+		"equipType" : 1,
+		"strengthenLevel" : 67
+	},
+	
+	{
+		"attrList" : "1,1530#2,142800#",
+		"decomposeExp" : 79242,
+		"equipType" : 1,
+		"strengthenLevel" : 68
+	},
+	
+	{
+		"attrList" : "1,1552#2,144900#",
+		"decomposeExp" : 81722,
+		"equipType" : 1,
+		"strengthenLevel" : 69
+	},
+	
+	{
+		"attrList" : "1,1575#2,147000#",
+		"decomposeExp" : 84228,
+		"equipType" : 1,
+		"strengthenLevel" : 70
+	},
+	
+	{
+		"attrList" : "1,1598#2,149100#",
+		"decomposeExp" : 86757,
+		"equipType" : 1,
+		"strengthenLevel" : 71
+	},
+	
+	{
+		"attrList" : "1,1620#2,151200#",
+		"decomposeExp" : 89310,
+		"equipType" : 1,
+		"strengthenLevel" : 72
+	},
+	
+	{
+		"attrList" : "1,1642#2,153300#",
+		"decomposeExp" : 91884,
+		"equipType" : 1,
+		"strengthenLevel" : 73
+	},
+	
+	{
+		"attrList" : "1,1665#2,155400#",
+		"decomposeExp" : 94480,
+		"equipType" : 1,
+		"strengthenLevel" : 74
+	},
+	
+	{
+		"attrList" : "1,1688#2,157500#",
+		"decomposeExp" : 97095,
+		"equipType" : 1,
+		"strengthenLevel" : 75
+	},
+	
+	{
+		"attrList" : "1,1710#2,159600#",
+		"decomposeExp" : 99730,
+		"equipType" : 1,
+		"strengthenLevel" : 76
+	},
+	
+	{
+		"attrList" : "1,1732#2,161700#",
+		"decomposeExp" : 102384,
+		"equipType" : 1,
+		"strengthenLevel" : 77
+	},
+	
+	{
+		"attrList" : "1,1755#2,163800#",
+		"decomposeExp" : 105055,
+		"equipType" : 1,
+		"strengthenLevel" : 78
+	},
+	
+	{
+		"attrList" : "1,1778#2,165900#",
+		"decomposeExp" : 107742,
+		"equipType" : 1,
+		"strengthenLevel" : 79
+	},
+	
+	{
+		"attrList" : "1,1800#2,168000#",
+		"decomposeExp" : 110446,
+		"equipType" : 1,
+		"strengthenLevel" : 80
+	},
+	
+	{
+		"attrList" : "1,1822#2,170100#",
+		"decomposeExp" : 113166,
+		"equipType" : 1,
+		"strengthenLevel" : 81
+	},
+	
+	{
+		"attrList" : "1,1845#2,172200#",
+		"decomposeExp" : 115899,
+		"equipType" : 1,
+		"strengthenLevel" : 82
+	},
+	
+	{
+		"attrList" : "1,1868#2,174300#",
+		"decomposeExp" : 118647,
+		"equipType" : 1,
+		"strengthenLevel" : 83
+	},
+	
+	{
+		"attrList" : "1,1890#2,176400#",
+		"decomposeExp" : 121408,
+		"equipType" : 1,
+		"strengthenLevel" : 84
+	},
+	
+	{
+		"attrList" : "1,1912#2,178500#",
+		"decomposeExp" : 124181,
+		"equipType" : 1,
+		"strengthenLevel" : 85
+	},
+	
+	{
+		"attrList" : "1,1935#2,180600#",
+		"decomposeExp" : 126967,
+		"equipType" : 1,
+		"strengthenLevel" : 86
+	},
+	
+	{
+		"attrList" : "1,1958#2,182700#",
+		"decomposeExp" : 129764,
+		"equipType" : 1,
+		"strengthenLevel" : 87
+	},
+	
+	{
+		"attrList" : "1,1980#2,184800#",
+		"decomposeExp" : 132571,
+		"equipType" : 1,
+		"strengthenLevel" : 88
+	},
+	
+	{
+		"attrList" : "1,2002#2,186900#",
+		"decomposeExp" : 135389,
+		"equipType" : 1,
+		"strengthenLevel" : 89
+	},
+	
+	{
+		"attrList" : "1,2025#2,189000#",
+		"decomposeExp" : 138217,
+		"equipType" : 1,
+		"strengthenLevel" : 90
+	},
+	
+	{
+		"attrList" : "1,2048#2,191100#",
+		"decomposeExp" : 141054,
+		"equipType" : 1,
+		"strengthenLevel" : 91
+	},
+	
+	{
+		"attrList" : "1,2070#2,193200#",
+		"decomposeExp" : 143900,
+		"equipType" : 1,
+		"strengthenLevel" : 92
+	},
+	
+	{
+		"attrList" : "1,2092#2,195300#",
+		"decomposeExp" : 146754,
+		"equipType" : 1,
+		"strengthenLevel" : 93
+	},
+	
+	{
+		"attrList" : "1,2115#2,197400#",
+		"decomposeExp" : 149616,
+		"equipType" : 1,
+		"strengthenLevel" : 94
+	},
+	
+	{
+		"attrList" : "1,2138#2,199500#",
+		"decomposeExp" : 152485,
+		"equipType" : 1,
+		"strengthenLevel" : 95
+	},
+	
+	{
+		"attrList" : "1,2160#2,201600#",
+		"decomposeExp" : 155362,
+		"equipType" : 1,
+		"strengthenLevel" : 96
+	},
+	
+	{
+		"attrList" : "1,2182#2,203700#",
+		"decomposeExp" : 158245,
+		"equipType" : 1,
+		"strengthenLevel" : 97
+	},
+	
+	{
+		"attrList" : "1,2205#2,205800#",
+		"decomposeExp" : 161135,
+		"equipType" : 1,
+		"strengthenLevel" : 98
+	},
+	
+	{
+		"attrList" : "1,2228#2,207900#",
+		"decomposeExp" : 164030,
+		"equipType" : 1,
+		"strengthenLevel" : 99
+	},
+	
+	{
+		"attrList" : "1,2250#2,210000#",
+		"decomposeExp" : 166932,
+		"equipType" : 1,
+		"strengthenLevel" : 100
+	},
+	
+	{
+		"attrList" : "1,54#3,21#",
+		"decomposeExp" : 62,
+		"equipType" : 2,
+		"strengthenLevel" : 1
+	},
+	
+	{
+		"attrList" : "1,107#3,43#",
+		"decomposeExp" : 141,
+		"equipType" : 2,
+		"strengthenLevel" : 2
+	},
+	
+	{
+		"attrList" : "1,161#3,64#",
+		"decomposeExp" : 236,
+		"equipType" : 2,
+		"strengthenLevel" : 3
+	},
+	
+	{
+		"attrList" : "1,214#3,86#",
+		"decomposeExp" : 348,
+		"equipType" : 2,
+		"strengthenLevel" : 4
+	},
+	
+	{
+		"attrList" : "1,268#3,107#",
+		"decomposeExp" : 479,
+		"equipType" : 2,
+		"strengthenLevel" : 5
+	},
+	
+	{
+		"attrList" : "1,321#3,129#",
+		"decomposeExp" : 628,
+		"equipType" : 2,
+		"strengthenLevel" : 6
+	},
+	
+	{
+		"attrList" : "1,375#3,150#",
+		"decomposeExp" : 798,
+		"equipType" : 2,
+		"strengthenLevel" : 7
+	},
+	
+	{
+		"attrList" : "1,429#3,171#",
+		"decomposeExp" : 988,
+		"equipType" : 2,
+		"strengthenLevel" : 8
+	},
+	
+	{
+		"attrList" : "1,482#3,193#",
+		"decomposeExp" : 1200,
+		"equipType" : 2,
+		"strengthenLevel" : 9
+	},
+	
+	{
+		"attrList" : "1,536#3,214#",
+		"decomposeExp" : 1434,
+		"equipType" : 2,
+		"strengthenLevel" : 10
+	},
+	
+	{
+		"attrList" : "1,589#3,236#",
+		"decomposeExp" : 1693,
+		"equipType" : 2,
+		"strengthenLevel" : 11
+	},
+	
+	{
+		"attrList" : "1,643#3,257#",
+		"decomposeExp" : 1975,
+		"equipType" : 2,
+		"strengthenLevel" : 12
+	},
+	
+	{
+		"attrList" : "1,696#3,279#",
+		"decomposeExp" : 2284,
+		"equipType" : 2,
+		"strengthenLevel" : 13
+	},
+	
+	{
+		"attrList" : "1,750#3,300#",
+		"decomposeExp" : 2619,
+		"equipType" : 2,
+		"strengthenLevel" : 14
+	},
+	
+	{
+		"attrList" : "1,804#3,321#",
+		"decomposeExp" : 2982,
+		"equipType" : 2,
+		"strengthenLevel" : 15
+	},
+	
+	{
+		"attrList" : "1,857#3,343#",
+		"decomposeExp" : 3373,
+		"equipType" : 2,
+		"strengthenLevel" : 16
+	},
+	
+	{
+		"attrList" : "1,911#3,364#",
+		"decomposeExp" : 3794,
+		"equipType" : 2,
+		"strengthenLevel" : 17
+	},
+	
+	{
+		"attrList" : "1,964#3,386#",
+		"decomposeExp" : 4246,
+		"equipType" : 2,
+		"strengthenLevel" : 18
+	},
+	
+	{
+		"attrList" : "1,1018#3,407#",
+		"decomposeExp" : 4730,
+		"equipType" : 2,
+		"strengthenLevel" : 19
+	},
+	
+	{
+		"attrList" : "1,1071#3,429#",
+		"decomposeExp" : 5246,
+		"equipType" : 2,
+		"strengthenLevel" : 20
+	},
+	
+	{
+		"attrList" : "1,1125#3,450#",
+		"decomposeExp" : 5797,
+		"equipType" : 2,
+		"strengthenLevel" : 21
+	},
+	
+	{
+		"attrList" : "1,1179#3,471#",
+		"decomposeExp" : 6383,
+		"equipType" : 2,
+		"strengthenLevel" : 22
+	},
+	
+	{
+		"attrList" : "1,1232#3,493#",
+		"decomposeExp" : 7004,
+		"equipType" : 2,
+		"strengthenLevel" : 23
+	},
+	
+	{
+		"attrList" : "1,1286#3,514#",
+		"decomposeExp" : 7663,
+		"equipType" : 2,
+		"strengthenLevel" : 24
+	},
+	
+	{
+		"attrList" : "1,1339#3,536#",
+		"decomposeExp" : 8359,
+		"equipType" : 2,
+		"strengthenLevel" : 25
+	},
+	
+	{
+		"attrList" : "1,1393#3,557#",
+		"decomposeExp" : 9095,
+		"equipType" : 2,
+		"strengthenLevel" : 26
+	},
+	
+	{
+		"attrList" : "1,1446#3,579#",
+		"decomposeExp" : 9870,
+		"equipType" : 2,
+		"strengthenLevel" : 27
+	},
+	
+	{
+		"attrList" : "1,1500#3,600#",
+		"decomposeExp" : 10686,
+		"equipType" : 2,
+		"strengthenLevel" : 28
+	},
+	
+	{
+		"attrList" : "1,1554#3,621#",
+		"decomposeExp" : 11544,
+		"equipType" : 2,
+		"strengthenLevel" : 29
+	},
+	
+	{
+		"attrList" : "1,1607#3,643#",
+		"decomposeExp" : 12444,
+		"equipType" : 2,
+		"strengthenLevel" : 30
+	},
+	
+	{
+		"attrList" : "1,1661#3,664#",
+		"decomposeExp" : 13387,
+		"equipType" : 2,
+		"strengthenLevel" : 31
+	},
+	
+	{
+		"attrList" : "1,1714#3,686#",
+		"decomposeExp" : 14374,
+		"equipType" : 2,
+		"strengthenLevel" : 32
+	},
+	
+	{
+		"attrList" : "1,1768#3,707#",
+		"decomposeExp" : 15406,
+		"equipType" : 2,
+		"strengthenLevel" : 33
+	},
+	
+	{
+		"attrList" : "1,1821#3,729#",
+		"decomposeExp" : 16483,
+		"equipType" : 2,
+		"strengthenLevel" : 34
+	},
+	
+	{
+		"attrList" : "1,1875#3,750#",
+		"decomposeExp" : 17605,
+		"equipType" : 2,
+		"strengthenLevel" : 35
+	},
+	
+	{
+		"attrList" : "1,1929#3,771#",
+		"decomposeExp" : 18773,
+		"equipType" : 2,
+		"strengthenLevel" : 36
+	},
+	
+	{
+		"attrList" : "1,1982#3,793#",
+		"decomposeExp" : 19987,
+		"equipType" : 2,
+		"strengthenLevel" : 37
+	},
+	
+	{
+		"attrList" : "1,2036#3,814#",
+		"decomposeExp" : 21249,
+		"equipType" : 2,
+		"strengthenLevel" : 38
+	},
+	
+	{
+		"attrList" : "1,2089#3,836#",
+		"decomposeExp" : 22557,
+		"equipType" : 2,
+		"strengthenLevel" : 39
+	},
+	
+	{
+		"attrList" : "1,2143#3,857#",
+		"decomposeExp" : 23912,
+		"equipType" : 2,
+		"strengthenLevel" : 40
+	},
+	
+	{
+		"attrList" : "1,2196#3,879#",
+		"decomposeExp" : 25314,
+		"equipType" : 2,
+		"strengthenLevel" : 41
+	},
+	
+	{
+		"attrList" : "1,2250#3,900#",
+		"decomposeExp" : 26763,
+		"equipType" : 2,
+		"strengthenLevel" : 42
+	},
+	
+	{
+		"attrList" : "1,2304#3,921#",
+		"decomposeExp" : 28259,
+		"equipType" : 2,
+		"strengthenLevel" : 43
+	},
+	
+	{
+		"attrList" : "1,2357#3,943#",
+		"decomposeExp" : 29801,
+		"equipType" : 2,
+		"strengthenLevel" : 44
+	},
+	
+	{
+		"attrList" : "1,2411#3,964#",
+		"decomposeExp" : 31391,
+		"equipType" : 2,
+		"strengthenLevel" : 45
+	},
+	
+	{
+		"attrList" : "1,2464#3,986#",
+		"decomposeExp" : 33026,
+		"equipType" : 2,
+		"strengthenLevel" : 46
+	},
+	
+	{
+		"attrList" : "1,2518#3,1007#",
+		"decomposeExp" : 34707,
+		"equipType" : 2,
+		"strengthenLevel" : 47
+	},
+	
+	{
+		"attrList" : "1,2571#3,1029#",
+		"decomposeExp" : 36433,
+		"equipType" : 2,
+		"strengthenLevel" : 48
+	},
+	
+	{
+		"attrList" : "1,2625#3,1050#",
+		"decomposeExp" : 38204,
+		"equipType" : 2,
+		"strengthenLevel" : 49
+	},
+	
+	{
+		"attrList" : "1,2679#3,1071#",
+		"decomposeExp" : 40018,
+		"equipType" : 2,
+		"strengthenLevel" : 50
+	},
+	
+	{
+		"attrList" : "1,2732#3,1093#",
+		"decomposeExp" : 41877,
+		"equipType" : 2,
+		"strengthenLevel" : 51
+	},
+	
+	{
+		"attrList" : "1,2786#3,1114#",
+		"decomposeExp" : 43777,
+		"equipType" : 2,
+		"strengthenLevel" : 52
+	},
+	
+	{
+		"attrList" : "1,2839#3,1136#",
+		"decomposeExp" : 45720,
+		"equipType" : 2,
+		"strengthenLevel" : 53
+	},
+	
+	{
+		"attrList" : "1,2893#3,1157#",
+		"decomposeExp" : 47704,
+		"equipType" : 2,
+		"strengthenLevel" : 54
+	},
+	
+	{
+		"attrList" : "1,2946#3,1179#",
+		"decomposeExp" : 49728,
+		"equipType" : 2,
+		"strengthenLevel" : 55
+	},
+	
+	{
+		"attrList" : "1,3000#3,1200#",
+		"decomposeExp" : 51791,
+		"equipType" : 2,
+		"strengthenLevel" : 56
+	},
+	
+	{
+		"attrList" : "1,3054#3,1221#",
+		"decomposeExp" : 53892,
+		"equipType" : 2,
+		"strengthenLevel" : 57
+	},
+	
+	{
+		"attrList" : "1,3107#3,1243#",
+		"decomposeExp" : 56030,
+		"equipType" : 2,
+		"strengthenLevel" : 58
+	},
+	
+	{
+		"attrList" : "1,3161#3,1264#",
+		"decomposeExp" : 58205,
+		"equipType" : 2,
+		"strengthenLevel" : 59
+	},
+	
+	{
+		"attrList" : "1,3214#3,1286#",
+		"decomposeExp" : 60416,
+		"equipType" : 2,
+		"strengthenLevel" : 60
+	},
+	
+	{
+		"attrList" : "1,3268#3,1307#",
+		"decomposeExp" : 62660,
+		"equipType" : 2,
+		"strengthenLevel" : 61
+	},
+	
+	{
+		"attrList" : "1,3321#3,1329#",
+		"decomposeExp" : 64938,
+		"equipType" : 2,
+		"strengthenLevel" : 62
+	},
+	
+	{
+		"attrList" : "1,3375#3,1350#",
+		"decomposeExp" : 67247,
+		"equipType" : 2,
+		"strengthenLevel" : 63
+	},
+	
+	{
+		"attrList" : "1,3429#3,1371#",
+		"decomposeExp" : 69588,
+		"equipType" : 2,
+		"strengthenLevel" : 64
+	},
+	
+	{
+		"attrList" : "1,3482#3,1393#",
+		"decomposeExp" : 71959,
+		"equipType" : 2,
+		"strengthenLevel" : 65
+	},
+	
+	{
+		"attrList" : "1,3536#3,1414#",
+		"decomposeExp" : 74359,
+		"equipType" : 2,
+		"strengthenLevel" : 66
+	},
+	
+	{
+		"attrList" : "1,3589#3,1436#",
+		"decomposeExp" : 76787,
+		"equipType" : 2,
+		"strengthenLevel" : 67
+	},
+	
+	{
+		"attrList" : "1,3643#3,1457#",
+		"decomposeExp" : 79242,
+		"equipType" : 2,
+		"strengthenLevel" : 68
+	},
+	
+	{
+		"attrList" : "1,3696#3,1479#",
+		"decomposeExp" : 81722,
+		"equipType" : 2,
+		"strengthenLevel" : 69
+	},
+	
+	{
+		"attrList" : "1,3750#3,1500#",
+		"decomposeExp" : 84228,
+		"equipType" : 2,
+		"strengthenLevel" : 70
+	},
+	
+	{
+		"attrList" : "1,3804#3,1521#",
+		"decomposeExp" : 86757,
+		"equipType" : 2,
+		"strengthenLevel" : 71
+	},
+	
+	{
+		"attrList" : "1,3857#3,1543#",
+		"decomposeExp" : 89310,
+		"equipType" : 2,
+		"strengthenLevel" : 72
+	},
+	
+	{
+		"attrList" : "1,3911#3,1564#",
+		"decomposeExp" : 91884,
+		"equipType" : 2,
+		"strengthenLevel" : 73
+	},
+	
+	{
+		"attrList" : "1,3964#3,1586#",
+		"decomposeExp" : 94480,
+		"equipType" : 2,
+		"strengthenLevel" : 74
+	},
+	
+	{
+		"attrList" : "1,4018#3,1607#",
+		"decomposeExp" : 97095,
+		"equipType" : 2,
+		"strengthenLevel" : 75
+	},
+	
+	{
+		"attrList" : "1,4071#3,1629#",
+		"decomposeExp" : 99730,
+		"equipType" : 2,
+		"strengthenLevel" : 76
+	},
+	
+	{
+		"attrList" : "1,4125#3,1650#",
+		"decomposeExp" : 102384,
+		"equipType" : 2,
+		"strengthenLevel" : 77
+	},
+	
+	{
+		"attrList" : "1,4179#3,1671#",
+		"decomposeExp" : 105055,
+		"equipType" : 2,
+		"strengthenLevel" : 78
+	},
+	
+	{
+		"attrList" : "1,4232#3,1693#",
+		"decomposeExp" : 107742,
+		"equipType" : 2,
+		"strengthenLevel" : 79
+	},
+	
+	{
+		"attrList" : "1,4286#3,1714#",
+		"decomposeExp" : 110446,
+		"equipType" : 2,
+		"strengthenLevel" : 80
+	},
+	
+	{
+		"attrList" : "1,4339#3,1736#",
+		"decomposeExp" : 113166,
+		"equipType" : 2,
+		"strengthenLevel" : 81
+	},
+	
+	{
+		"attrList" : "1,4393#3,1757#",
+		"decomposeExp" : 115899,
+		"equipType" : 2,
+		"strengthenLevel" : 82
+	},
+	
+	{
+		"attrList" : "1,4446#3,1779#",
+		"decomposeExp" : 118647,
+		"equipType" : 2,
+		"strengthenLevel" : 83
+	},
+	
+	{
+		"attrList" : "1,4500#3,1800#",
+		"decomposeExp" : 121408,
+		"equipType" : 2,
+		"strengthenLevel" : 84
+	},
+	
+	{
+		"attrList" : "1,4554#3,1821#",
+		"decomposeExp" : 124181,
+		"equipType" : 2,
+		"strengthenLevel" : 85
+	},
+	
+	{
+		"attrList" : "1,4607#3,1843#",
+		"decomposeExp" : 126967,
+		"equipType" : 2,
+		"strengthenLevel" : 86
+	},
+	
+	{
+		"attrList" : "1,4661#3,1864#",
+		"decomposeExp" : 129764,
+		"equipType" : 2,
+		"strengthenLevel" : 87
+	},
+	
+	{
+		"attrList" : "1,4714#3,1886#",
+		"decomposeExp" : 132571,
+		"equipType" : 2,
+		"strengthenLevel" : 88
+	},
+	
+	{
+		"attrList" : "1,4768#3,1907#",
+		"decomposeExp" : 135389,
+		"equipType" : 2,
+		"strengthenLevel" : 89
+	},
+	
+	{
+		"attrList" : "1,4821#3,1929#",
+		"decomposeExp" : 138217,
+		"equipType" : 2,
+		"strengthenLevel" : 90
+	},
+	
+	{
+		"attrList" : "1,4875#3,1950#",
+		"decomposeExp" : 141054,
+		"equipType" : 2,
+		"strengthenLevel" : 91
+	},
+	
+	{
+		"attrList" : "1,4929#3,1971#",
+		"decomposeExp" : 143900,
+		"equipType" : 2,
+		"strengthenLevel" : 92
+	},
+	
+	{
+		"attrList" : "1,4982#3,1993#",
+		"decomposeExp" : 146754,
+		"equipType" : 2,
+		"strengthenLevel" : 93
+	},
+	
+	{
+		"attrList" : "1,5036#3,2014#",
+		"decomposeExp" : 149616,
+		"equipType" : 2,
+		"strengthenLevel" : 94
+	},
+	
+	{
+		"attrList" : "1,5089#3,2036#",
+		"decomposeExp" : 152485,
+		"equipType" : 2,
+		"strengthenLevel" : 95
+	},
+	
+	{
+		"attrList" : "1,5143#3,2057#",
+		"decomposeExp" : 155362,
+		"equipType" : 2,
+		"strengthenLevel" : 96
+	},
+	
+	{
+		"attrList" : "1,5196#3,2079#",
+		"decomposeExp" : 158245,
+		"equipType" : 2,
+		"strengthenLevel" : 97
+	},
+	
+	{
+		"attrList" : "1,5250#3,2100#",
+		"decomposeExp" : 161135,
+		"equipType" : 2,
+		"strengthenLevel" : 98
+	},
+	
+	{
+		"attrList" : "1,5304#3,2121#",
+		"decomposeExp" : 164030,
+		"equipType" : 2,
+		"strengthenLevel" : 99
+	},
+	
+	{
+		"attrList" : "1,5357#3,2143#",
+		"decomposeExp" : 166932,
+		"equipType" : 2,
+		"strengthenLevel" : 100
+	},
+	
+	{
+		"attrList" : "2,2045#4,24#",
+		"decomposeExp" : 62,
+		"equipType" : 3,
+		"strengthenLevel" : 1
+	},
+	
+	{
+		"attrList" : "2,4091#4,48#",
+		"decomposeExp" : 141,
+		"equipType" : 3,
+		"strengthenLevel" : 2
+	},
+	
+	{
+		"attrList" : "2,6136#4,72#",
+		"decomposeExp" : 236,
+		"equipType" : 3,
+		"strengthenLevel" : 3
+	},
+	
+	{
+		"attrList" : "2,8182#4,95#",
+		"decomposeExp" : 348,
+		"equipType" : 3,
+		"strengthenLevel" : 4
+	},
+	
+	{
+		"attrList" : "2,10227#4,119#",
+		"decomposeExp" : 479,
+		"equipType" : 3,
+		"strengthenLevel" : 5
+	},
+	
+	{
+		"attrList" : "2,12273#4,143#",
+		"decomposeExp" : 628,
+		"equipType" : 3,
+		"strengthenLevel" : 6
+	},
+	
+	{
+		"attrList" : "2,14318#4,167#",
+		"decomposeExp" : 798,
+		"equipType" : 3,
+		"strengthenLevel" : 7
+	},
+	
+	{
+		"attrList" : "2,16364#4,191#",
+		"decomposeExp" : 988,
+		"equipType" : 3,
+		"strengthenLevel" : 8
+	},
+	
+	{
+		"attrList" : "2,18409#4,215#",
+		"decomposeExp" : 1200,
+		"equipType" : 3,
+		"strengthenLevel" : 9
+	},
+	
+	{
+		"attrList" : "2,20455#4,239#",
+		"decomposeExp" : 1434,
+		"equipType" : 3,
+		"strengthenLevel" : 10
+	},
+	
+	{
+		"attrList" : "2,22500#4,262#",
+		"decomposeExp" : 1693,
+		"equipType" : 3,
+		"strengthenLevel" : 11
+	},
+	
+	{
+		"attrList" : "2,24545#4,286#",
+		"decomposeExp" : 1975,
+		"equipType" : 3,
+		"strengthenLevel" : 12
+	},
+	
+	{
+		"attrList" : "2,26591#4,310#",
+		"decomposeExp" : 2284,
+		"equipType" : 3,
+		"strengthenLevel" : 13
+	},
+	
+	{
+		"attrList" : "2,28636#4,334#",
+		"decomposeExp" : 2619,
+		"equipType" : 3,
+		"strengthenLevel" : 14
+	},
+	
+	{
+		"attrList" : "2,30682#4,358#",
+		"decomposeExp" : 2982,
+		"equipType" : 3,
+		"strengthenLevel" : 15
+	},
+	
+	{
+		"attrList" : "2,32727#4,382#",
+		"decomposeExp" : 3373,
+		"equipType" : 3,
+		"strengthenLevel" : 16
+	},
+	
+	{
+		"attrList" : "2,34773#4,406#",
+		"decomposeExp" : 3794,
+		"equipType" : 3,
+		"strengthenLevel" : 17
+	},
+	
+	{
+		"attrList" : "2,36818#4,430#",
+		"decomposeExp" : 4246,
+		"equipType" : 3,
+		"strengthenLevel" : 18
+	},
+	
+	{
+		"attrList" : "2,38864#4,453#",
+		"decomposeExp" : 4730,
+		"equipType" : 3,
+		"strengthenLevel" : 19
+	},
+	
+	{
+		"attrList" : "2,40909#4,477#",
+		"decomposeExp" : 5246,
+		"equipType" : 3,
+		"strengthenLevel" : 20
+	},
+	
+	{
+		"attrList" : "2,42955#4,501#",
+		"decomposeExp" : 5797,
+		"equipType" : 3,
+		"strengthenLevel" : 21
+	},
+	
+	{
+		"attrList" : "2,45000#4,525#",
+		"decomposeExp" : 6383,
+		"equipType" : 3,
+		"strengthenLevel" : 22
+	},
+	
+	{
+		"attrList" : "2,47045#4,549#",
+		"decomposeExp" : 7004,
+		"equipType" : 3,
+		"strengthenLevel" : 23
+	},
+	
+	{
+		"attrList" : "2,49091#4,573#",
+		"decomposeExp" : 7663,
+		"equipType" : 3,
+		"strengthenLevel" : 24
+	},
+	
+	{
+		"attrList" : "2,51136#4,597#",
+		"decomposeExp" : 8359,
+		"equipType" : 3,
+		"strengthenLevel" : 25
+	},
+	
+	{
+		"attrList" : "2,53182#4,620#",
+		"decomposeExp" : 9095,
+		"equipType" : 3,
+		"strengthenLevel" : 26
+	},
+	
+	{
+		"attrList" : "2,55227#4,644#",
+		"decomposeExp" : 9870,
+		"equipType" : 3,
+		"strengthenLevel" : 27
+	},
+	
+	{
+		"attrList" : "2,57273#4,668#",
+		"decomposeExp" : 10686,
+		"equipType" : 3,
+		"strengthenLevel" : 28
+	},
+	
+	{
+		"attrList" : "2,59318#4,692#",
+		"decomposeExp" : 11544,
+		"equipType" : 3,
+		"strengthenLevel" : 29
+	},
+	
+	{
+		"attrList" : "2,61364#4,716#",
+		"decomposeExp" : 12444,
+		"equipType" : 3,
+		"strengthenLevel" : 30
+	},
+	
+	{
+		"attrList" : "2,63409#4,740#",
+		"decomposeExp" : 13387,
+		"equipType" : 3,
+		"strengthenLevel" : 31
+	},
+	
+	{
+		"attrList" : "2,65455#4,764#",
+		"decomposeExp" : 14374,
+		"equipType" : 3,
+		"strengthenLevel" : 32
+	},
+	
+	{
+		"attrList" : "2,67500#4,788#",
+		"decomposeExp" : 15406,
+		"equipType" : 3,
+		"strengthenLevel" : 33
+	},
+	
+	{
+		"attrList" : "2,69545#4,811#",
+		"decomposeExp" : 16483,
+		"equipType" : 3,
+		"strengthenLevel" : 34
+	},
+	
+	{
+		"attrList" : "2,71591#4,835#",
+		"decomposeExp" : 17605,
+		"equipType" : 3,
+		"strengthenLevel" : 35
+	},
+	
+	{
+		"attrList" : "2,73636#4,859#",
+		"decomposeExp" : 18773,
+		"equipType" : 3,
+		"strengthenLevel" : 36
+	},
+	
+	{
+		"attrList" : "2,75682#4,883#",
+		"decomposeExp" : 19987,
+		"equipType" : 3,
+		"strengthenLevel" : 37
+	},
+	
+	{
+		"attrList" : "2,77727#4,907#",
+		"decomposeExp" : 21249,
+		"equipType" : 3,
+		"strengthenLevel" : 38
+	},
+	
+	{
+		"attrList" : "2,79773#4,931#",
+		"decomposeExp" : 22557,
+		"equipType" : 3,
+		"strengthenLevel" : 39
+	},
+	
+	{
+		"attrList" : "2,81818#4,955#",
+		"decomposeExp" : 23912,
+		"equipType" : 3,
+		"strengthenLevel" : 40
+	},
+	
+	{
+		"attrList" : "2,83864#4,978#",
+		"decomposeExp" : 25314,
+		"equipType" : 3,
+		"strengthenLevel" : 41
+	},
+	
+	{
+		"attrList" : "2,85909#4,1002#",
+		"decomposeExp" : 26763,
+		"equipType" : 3,
+		"strengthenLevel" : 42
+	},
+	
+	{
+		"attrList" : "2,87955#4,1026#",
+		"decomposeExp" : 28259,
+		"equipType" : 3,
+		"strengthenLevel" : 43
+	},
+	
+	{
+		"attrList" : "2,90000#4,1050#",
+		"decomposeExp" : 29801,
+		"equipType" : 3,
+		"strengthenLevel" : 44
+	},
+	
+	{
+		"attrList" : "2,92045#4,1074#",
+		"decomposeExp" : 31391,
+		"equipType" : 3,
+		"strengthenLevel" : 45
+	},
+	
+	{
+		"attrList" : "2,94091#4,1098#",
+		"decomposeExp" : 33026,
+		"equipType" : 3,
+		"strengthenLevel" : 46
+	},
+	
+	{
+		"attrList" : "2,96136#4,1122#",
+		"decomposeExp" : 34707,
+		"equipType" : 3,
+		"strengthenLevel" : 47
+	},
+	
+	{
+		"attrList" : "2,98182#4,1145#",
+		"decomposeExp" : 36433,
+		"equipType" : 3,
+		"strengthenLevel" : 48
+	},
+	
+	{
+		"attrList" : "2,100227#4,1169#",
+		"decomposeExp" : 38204,
+		"equipType" : 3,
+		"strengthenLevel" : 49
+	},
+	
+	{
+		"attrList" : "2,102273#4,1193#",
+		"decomposeExp" : 40018,
+		"equipType" : 3,
+		"strengthenLevel" : 50
+	},
+	
+	{
+		"attrList" : "2,104318#4,1217#",
+		"decomposeExp" : 41877,
+		"equipType" : 3,
+		"strengthenLevel" : 51
+	},
+	
+	{
+		"attrList" : "2,106364#4,1241#",
+		"decomposeExp" : 43777,
+		"equipType" : 3,
+		"strengthenLevel" : 52
+	},
+	
+	{
+		"attrList" : "2,108409#4,1265#",
+		"decomposeExp" : 45720,
+		"equipType" : 3,
+		"strengthenLevel" : 53
+	},
+	
+	{
+		"attrList" : "2,110455#4,1289#",
+		"decomposeExp" : 47704,
+		"equipType" : 3,
+		"strengthenLevel" : 54
+	},
+	
+	{
+		"attrList" : "2,112500#4,1312#",
+		"decomposeExp" : 49728,
+		"equipType" : 3,
+		"strengthenLevel" : 55
+	},
+	
+	{
+		"attrList" : "2,114545#4,1336#",
+		"decomposeExp" : 51791,
+		"equipType" : 3,
+		"strengthenLevel" : 56
+	},
+	
+	{
+		"attrList" : "2,116591#4,1360#",
+		"decomposeExp" : 53892,
+		"equipType" : 3,
+		"strengthenLevel" : 57
+	},
+	
+	{
+		"attrList" : "2,118636#4,1384#",
+		"decomposeExp" : 56030,
+		"equipType" : 3,
+		"strengthenLevel" : 58
+	},
+	
+	{
+		"attrList" : "2,120682#4,1408#",
+		"decomposeExp" : 58205,
+		"equipType" : 3,
+		"strengthenLevel" : 59
+	},
+	
+	{
+		"attrList" : "2,122727#4,1432#",
+		"decomposeExp" : 60416,
+		"equipType" : 3,
+		"strengthenLevel" : 60
+	},
+	
+	{
+		"attrList" : "2,124773#4,1456#",
+		"decomposeExp" : 62660,
+		"equipType" : 3,
+		"strengthenLevel" : 61
+	},
+	
+	{
+		"attrList" : "2,126818#4,1480#",
+		"decomposeExp" : 64938,
+		"equipType" : 3,
+		"strengthenLevel" : 62
+	},
+	
+	{
+		"attrList" : "2,128864#4,1503#",
+		"decomposeExp" : 67247,
+		"equipType" : 3,
+		"strengthenLevel" : 63
+	},
+	
+	{
+		"attrList" : "2,130909#4,1527#",
+		"decomposeExp" : 69588,
+		"equipType" : 3,
+		"strengthenLevel" : 64
+	},
+	
+	{
+		"attrList" : "2,132955#4,1551#",
+		"decomposeExp" : 71959,
+		"equipType" : 3,
+		"strengthenLevel" : 65
+	},
+	
+	{
+		"attrList" : "2,135000#4,1575#",
+		"decomposeExp" : 74359,
+		"equipType" : 3,
+		"strengthenLevel" : 66
+	},
+	
+	{
+		"attrList" : "2,137045#4,1599#",
+		"decomposeExp" : 76787,
+		"equipType" : 3,
+		"strengthenLevel" : 67
+	},
+	
+	{
+		"attrList" : "2,139091#4,1623#",
+		"decomposeExp" : 79242,
+		"equipType" : 3,
+		"strengthenLevel" : 68
+	},
+	
+	{
+		"attrList" : "2,141136#4,1647#",
+		"decomposeExp" : 81722,
+		"equipType" : 3,
+		"strengthenLevel" : 69
+	},
+	
+	{
+		"attrList" : "2,143182#4,1670#",
+		"decomposeExp" : 84228,
+		"equipType" : 3,
+		"strengthenLevel" : 70
+	},
+	
+	{
+		"attrList" : "2,145227#4,1694#",
+		"decomposeExp" : 86757,
+		"equipType" : 3,
+		"strengthenLevel" : 71
+	},
+	
+	{
+		"attrList" : "2,147273#4,1718#",
+		"decomposeExp" : 89310,
+		"equipType" : 3,
+		"strengthenLevel" : 72
+	},
+	
+	{
+		"attrList" : "2,149318#4,1742#",
+		"decomposeExp" : 91884,
+		"equipType" : 3,
+		"strengthenLevel" : 73
+	},
+	
+	{
+		"attrList" : "2,151364#4,1766#",
+		"decomposeExp" : 94480,
+		"equipType" : 3,
+		"strengthenLevel" : 74
+	},
+	
+	{
+		"attrList" : "2,153409#4,1790#",
+		"decomposeExp" : 97095,
+		"equipType" : 3,
+		"strengthenLevel" : 75
+	},
+	
+	{
+		"attrList" : "2,155455#4,1814#",
+		"decomposeExp" : 99730,
+		"equipType" : 3,
+		"strengthenLevel" : 76
+	},
+	
+	{
+		"attrList" : "2,157500#4,1838#",
+		"decomposeExp" : 102384,
+		"equipType" : 3,
+		"strengthenLevel" : 77
+	},
+	
+	{
+		"attrList" : "2,159545#4,1861#",
+		"decomposeExp" : 105055,
+		"equipType" : 3,
+		"strengthenLevel" : 78
+	},
+	
+	{
+		"attrList" : "2,161591#4,1885#",
+		"decomposeExp" : 107742,
+		"equipType" : 3,
+		"strengthenLevel" : 79
+	},
+	
+	{
+		"attrList" : "2,163636#4,1909#",
+		"decomposeExp" : 110446,
+		"equipType" : 3,
+		"strengthenLevel" : 80
+	},
+	
+	{
+		"attrList" : "2,165682#4,1933#",
+		"decomposeExp" : 113166,
+		"equipType" : 3,
+		"strengthenLevel" : 81
+	},
+	
+	{
+		"attrList" : "2,167727#4,1957#",
+		"decomposeExp" : 115899,
+		"equipType" : 3,
+		"strengthenLevel" : 82
+	},
+	
+	{
+		"attrList" : "2,169773#4,1981#",
+		"decomposeExp" : 118647,
+		"equipType" : 3,
+		"strengthenLevel" : 83
+	},
+	
+	{
+		"attrList" : "2,171818#4,2005#",
+		"decomposeExp" : 121408,
+		"equipType" : 3,
+		"strengthenLevel" : 84
+	},
+	
+	{
+		"attrList" : "2,173864#4,2028#",
+		"decomposeExp" : 124181,
+		"equipType" : 3,
+		"strengthenLevel" : 85
+	},
+	
+	{
+		"attrList" : "2,175909#4,2052#",
+		"decomposeExp" : 126967,
+		"equipType" : 3,
+		"strengthenLevel" : 86
+	},
+	
+	{
+		"attrList" : "2,177955#4,2076#",
+		"decomposeExp" : 129764,
+		"equipType" : 3,
+		"strengthenLevel" : 87
+	},
+	
+	{
+		"attrList" : "2,180000#4,2100#",
+		"decomposeExp" : 132571,
+		"equipType" : 3,
+		"strengthenLevel" : 88
+	},
+	
+	{
+		"attrList" : "2,182045#4,2124#",
+		"decomposeExp" : 135389,
+		"equipType" : 3,
+		"strengthenLevel" : 89
+	},
+	
+	{
+		"attrList" : "2,184091#4,2148#",
+		"decomposeExp" : 138217,
+		"equipType" : 3,
+		"strengthenLevel" : 90
+	},
+	
+	{
+		"attrList" : "2,186136#4,2172#",
+		"decomposeExp" : 141054,
+		"equipType" : 3,
+		"strengthenLevel" : 91
+	},
+	
+	{
+		"attrList" : "2,188182#4,2195#",
+		"decomposeExp" : 143900,
+		"equipType" : 3,
+		"strengthenLevel" : 92
+	},
+	
+	{
+		"attrList" : "2,190227#4,2219#",
+		"decomposeExp" : 146754,
+		"equipType" : 3,
+		"strengthenLevel" : 93
+	},
+	
+	{
+		"attrList" : "2,192273#4,2243#",
+		"decomposeExp" : 149616,
+		"equipType" : 3,
+		"strengthenLevel" : 94
+	},
+	
+	{
+		"attrList" : "2,194318#4,2267#",
+		"decomposeExp" : 152485,
+		"equipType" : 3,
+		"strengthenLevel" : 95
+	},
+	
+	{
+		"attrList" : "2,196364#4,2291#",
+		"decomposeExp" : 155362,
+		"equipType" : 3,
+		"strengthenLevel" : 96
+	},
+	
+	{
+		"attrList" : "2,198409#4,2315#",
+		"decomposeExp" : 158245,
+		"equipType" : 3,
+		"strengthenLevel" : 97
+	},
+	
+	{
+		"attrList" : "2,200455#4,2339#",
+		"decomposeExp" : 161135,
+		"equipType" : 3,
+		"strengthenLevel" : 98
+	},
+	
+	{
+		"attrList" : "2,202500#4,2362#",
+		"decomposeExp" : 164030,
+		"equipType" : 3,
+		"strengthenLevel" : 99
+	},
+	
+	{
+		"attrList" : "2,204545#4,2386#",
+		"decomposeExp" : 166932,
+		"equipType" : 3,
+		"strengthenLevel" : 100
+	},
+	
+	{
+		"attrList" : "1,52#3,23#",
+		"decomposeExp" : 62,
+		"equipType" : 4,
+		"strengthenLevel" : 1
+	},
+	
+	{
+		"attrList" : "1,104#3,46#",
+		"decomposeExp" : 141,
+		"equipType" : 4,
+		"strengthenLevel" : 2
+	},
+	
+	{
+		"attrList" : "1,157#3,68#",
+		"decomposeExp" : 236,
+		"equipType" : 4,
+		"strengthenLevel" : 3
+	},
+	
+	{
+		"attrList" : "1,209#3,91#",
+		"decomposeExp" : 348,
+		"equipType" : 4,
+		"strengthenLevel" : 4
+	},
+	
+	{
+		"attrList" : "1,261#3,114#",
+		"decomposeExp" : 479,
+		"equipType" : 4,
+		"strengthenLevel" : 5
+	},
+	
+	{
+		"attrList" : "1,313#3,137#",
+		"decomposeExp" : 628,
+		"equipType" : 4,
+		"strengthenLevel" : 6
+	},
+	
+	{
+		"attrList" : "1,365#3,160#",
+		"decomposeExp" : 798,
+		"equipType" : 4,
+		"strengthenLevel" : 7
+	},
+	
+	{
+		"attrList" : "1,417#3,183#",
+		"decomposeExp" : 988,
+		"equipType" : 4,
+		"strengthenLevel" : 8
+	},
+	
+	{
+		"attrList" : "1,470#3,205#",
+		"decomposeExp" : 1200,
+		"equipType" : 4,
+		"strengthenLevel" : 9
+	},
+	
+	{
+		"attrList" : "1,522#3,228#",
+		"decomposeExp" : 1434,
+		"equipType" : 4,
+		"strengthenLevel" : 10
+	},
+	
+	{
+		"attrList" : "1,574#3,251#",
+		"decomposeExp" : 1693,
+		"equipType" : 4,
+		"strengthenLevel" : 11
+	},
+	
+	{
+		"attrList" : "1,626#3,274#",
+		"decomposeExp" : 1975,
+		"equipType" : 4,
+		"strengthenLevel" : 12
+	},
+	
+	{
+		"attrList" : "1,678#3,297#",
+		"decomposeExp" : 2284,
+		"equipType" : 4,
+		"strengthenLevel" : 13
+	},
+	
+	{
+		"attrList" : "1,730#3,320#",
+		"decomposeExp" : 2619,
+		"equipType" : 4,
+		"strengthenLevel" : 14
+	},
+	
+	{
+		"attrList" : "1,783#3,342#",
+		"decomposeExp" : 2982,
+		"equipType" : 4,
+		"strengthenLevel" : 15
+	},
+	
+	{
+		"attrList" : "1,835#3,365#",
+		"decomposeExp" : 3373,
+		"equipType" : 4,
+		"strengthenLevel" : 16
+	},
+	
+	{
+		"attrList" : "1,887#3,388#",
+		"decomposeExp" : 3794,
+		"equipType" : 4,
+		"strengthenLevel" : 17
+	},
+	
+	{
+		"attrList" : "1,939#3,411#",
+		"decomposeExp" : 4246,
+		"equipType" : 4,
+		"strengthenLevel" : 18
+	},
+	
+	{
+		"attrList" : "1,991#3,434#",
+		"decomposeExp" : 4730,
+		"equipType" : 4,
+		"strengthenLevel" : 19
+	},
+	
+	{
+		"attrList" : "1,1043#3,457#",
+		"decomposeExp" : 5246,
+		"equipType" : 4,
+		"strengthenLevel" : 20
+	},
+	
+	{
+		"attrList" : "1,1096#3,479#",
+		"decomposeExp" : 5797,
+		"equipType" : 4,
+		"strengthenLevel" : 21
+	},
+	
+	{
+		"attrList" : "1,1148#3,502#",
+		"decomposeExp" : 6383,
+		"equipType" : 4,
+		"strengthenLevel" : 22
+	},
+	
+	{
+		"attrList" : "1,1200#3,525#",
+		"decomposeExp" : 7004,
+		"equipType" : 4,
+		"strengthenLevel" : 23
+	},
+	
+	{
+		"attrList" : "1,1252#3,548#",
+		"decomposeExp" : 7663,
+		"equipType" : 4,
+		"strengthenLevel" : 24
+	},
+	
+	{
+		"attrList" : "1,1304#3,571#",
+		"decomposeExp" : 8359,
+		"equipType" : 4,
+		"strengthenLevel" : 25
+	},
+	
+	{
+		"attrList" : "1,1357#3,593#",
+		"decomposeExp" : 9095,
+		"equipType" : 4,
+		"strengthenLevel" : 26
+	},
+	
+	{
+		"attrList" : "1,1409#3,616#",
+		"decomposeExp" : 9870,
+		"equipType" : 4,
+		"strengthenLevel" : 27
+	},
+	
+	{
+		"attrList" : "1,1461#3,639#",
+		"decomposeExp" : 10686,
+		"equipType" : 4,
+		"strengthenLevel" : 28
+	},
+	
+	{
+		"attrList" : "1,1513#3,662#",
+		"decomposeExp" : 11544,
+		"equipType" : 4,
+		"strengthenLevel" : 29
+	},
+	
+	{
+		"attrList" : "1,1565#3,685#",
+		"decomposeExp" : 12444,
+		"equipType" : 4,
+		"strengthenLevel" : 30
+	},
+	
+	{
+		"attrList" : "1,1617#3,708#",
+		"decomposeExp" : 13387,
+		"equipType" : 4,
+		"strengthenLevel" : 31
+	},
+	
+	{
+		"attrList" : "1,1670#3,730#",
+		"decomposeExp" : 14374,
+		"equipType" : 4,
+		"strengthenLevel" : 32
+	},
+	
+	{
+		"attrList" : "1,1722#3,753#",
+		"decomposeExp" : 15406,
+		"equipType" : 4,
+		"strengthenLevel" : 33
+	},
+	
+	{
+		"attrList" : "1,1774#3,776#",
+		"decomposeExp" : 16483,
+		"equipType" : 4,
+		"strengthenLevel" : 34
+	},
+	
+	{
+		"attrList" : "1,1826#3,799#",
+		"decomposeExp" : 17605,
+		"equipType" : 4,
+		"strengthenLevel" : 35
+	},
+	
+	{
+		"attrList" : "1,1878#3,822#",
+		"decomposeExp" : 18773,
+		"equipType" : 4,
+		"strengthenLevel" : 36
+	},
+	
+	{
+		"attrList" : "1,1930#3,845#",
+		"decomposeExp" : 19987,
+		"equipType" : 4,
+		"strengthenLevel" : 37
+	},
+	
+	{
+		"attrList" : "1,1983#3,867#",
+		"decomposeExp" : 21249,
+		"equipType" : 4,
+		"strengthenLevel" : 38
+	},
+	
+	{
+		"attrList" : "1,2035#3,890#",
+		"decomposeExp" : 22557,
+		"equipType" : 4,
+		"strengthenLevel" : 39
+	},
+	
+	{
+		"attrList" : "1,2087#3,913#",
+		"decomposeExp" : 23912,
+		"equipType" : 4,
+		"strengthenLevel" : 40
+	},
+	
+	{
+		"attrList" : "1,2139#3,936#",
+		"decomposeExp" : 25314,
+		"equipType" : 4,
+		"strengthenLevel" : 41
+	},
+	
+	{
+		"attrList" : "1,2191#3,959#",
+		"decomposeExp" : 26763,
+		"equipType" : 4,
+		"strengthenLevel" : 42
+	},
+	
+	{
+		"attrList" : "1,2243#3,982#",
+		"decomposeExp" : 28259,
+		"equipType" : 4,
+		"strengthenLevel" : 43
+	},
+	
+	{
+		"attrList" : "1,2296#3,1004#",
+		"decomposeExp" : 29801,
+		"equipType" : 4,
+		"strengthenLevel" : 44
+	},
+	
+	{
+		"attrList" : "1,2348#3,1027#",
+		"decomposeExp" : 31391,
+		"equipType" : 4,
+		"strengthenLevel" : 45
+	},
+	
+	{
+		"attrList" : "1,2400#3,1050#",
+		"decomposeExp" : 33026,
+		"equipType" : 4,
+		"strengthenLevel" : 46
+	},
+	
+	{
+		"attrList" : "1,2452#3,1073#",
+		"decomposeExp" : 34707,
+		"equipType" : 4,
+		"strengthenLevel" : 47
+	},
+	
+	{
+		"attrList" : "1,2504#3,1096#",
+		"decomposeExp" : 36433,
+		"equipType" : 4,
+		"strengthenLevel" : 48
+	},
+	
+	{
+		"attrList" : "1,2557#3,1118#",
+		"decomposeExp" : 38204,
+		"equipType" : 4,
+		"strengthenLevel" : 49
+	},
+	
+	{
+		"attrList" : "1,2609#3,1141#",
+		"decomposeExp" : 40018,
+		"equipType" : 4,
+		"strengthenLevel" : 50
+	},
+	
+	{
+		"attrList" : "1,2661#3,1164#",
+		"decomposeExp" : 41877,
+		"equipType" : 4,
+		"strengthenLevel" : 51
+	},
+	
+	{
+		"attrList" : "1,2713#3,1187#",
+		"decomposeExp" : 43777,
+		"equipType" : 4,
+		"strengthenLevel" : 52
+	},
+	
+	{
+		"attrList" : "1,2765#3,1210#",
+		"decomposeExp" : 45720,
+		"equipType" : 4,
+		"strengthenLevel" : 53
+	},
+	
+	{
+		"attrList" : "1,2817#3,1233#",
+		"decomposeExp" : 47704,
+		"equipType" : 4,
+		"strengthenLevel" : 54
+	},
+	
+	{
+		"attrList" : "1,2870#3,1255#",
+		"decomposeExp" : 49728,
+		"equipType" : 4,
+		"strengthenLevel" : 55
+	},
+	
+	{
+		"attrList" : "1,2922#3,1278#",
+		"decomposeExp" : 51791,
+		"equipType" : 4,
+		"strengthenLevel" : 56
+	},
+	
+	{
+		"attrList" : "1,2974#3,1301#",
+		"decomposeExp" : 53892,
+		"equipType" : 4,
+		"strengthenLevel" : 57
+	},
+	
+	{
+		"attrList" : "1,3026#3,1324#",
+		"decomposeExp" : 56030,
+		"equipType" : 4,
+		"strengthenLevel" : 58
+	},
+	
+	{
+		"attrList" : "1,3078#3,1347#",
+		"decomposeExp" : 58205,
+		"equipType" : 4,
+		"strengthenLevel" : 59
+	},
+	
+	{
+		"attrList" : "1,3130#3,1370#",
+		"decomposeExp" : 60416,
+		"equipType" : 4,
+		"strengthenLevel" : 60
+	},
+	
+	{
+		"attrList" : "1,3183#3,1392#",
+		"decomposeExp" : 62660,
+		"equipType" : 4,
+		"strengthenLevel" : 61
+	},
+	
+	{
+		"attrList" : "1,3235#3,1415#",
+		"decomposeExp" : 64938,
+		"equipType" : 4,
+		"strengthenLevel" : 62
+	},
+	
+	{
+		"attrList" : "1,3287#3,1438#",
+		"decomposeExp" : 67247,
+		"equipType" : 4,
+		"strengthenLevel" : 63
+	},
+	
+	{
+		"attrList" : "1,3339#3,1461#",
+		"decomposeExp" : 69588,
+		"equipType" : 4,
+		"strengthenLevel" : 64
+	},
+	
+	{
+		"attrList" : "1,3391#3,1484#",
+		"decomposeExp" : 71959,
+		"equipType" : 4,
+		"strengthenLevel" : 65
+	},
+	
+	{
+		"attrList" : "1,3443#3,1507#",
+		"decomposeExp" : 74359,
+		"equipType" : 4,
+		"strengthenLevel" : 66
+	},
+	
+	{
+		"attrList" : "1,3496#3,1529#",
+		"decomposeExp" : 76787,
+		"equipType" : 4,
+		"strengthenLevel" : 67
+	},
+	
+	{
+		"attrList" : "1,3548#3,1552#",
+		"decomposeExp" : 79242,
+		"equipType" : 4,
+		"strengthenLevel" : 68
+	},
+	
+	{
+		"attrList" : "1,3600#3,1575#",
+		"decomposeExp" : 81722,
+		"equipType" : 4,
+		"strengthenLevel" : 69
+	},
+	
+	{
+		"attrList" : "1,3652#3,1598#",
+		"decomposeExp" : 84228,
+		"equipType" : 4,
+		"strengthenLevel" : 70
+	},
+	
+	{
+		"attrList" : "1,3704#3,1621#",
+		"decomposeExp" : 86757,
+		"equipType" : 4,
+		"strengthenLevel" : 71
+	},
+	
+	{
+		"attrList" : "1,3757#3,1643#",
+		"decomposeExp" : 89310,
+		"equipType" : 4,
+		"strengthenLevel" : 72
+	},
+	
+	{
+		"attrList" : "1,3809#3,1666#",
+		"decomposeExp" : 91884,
+		"equipType" : 4,
+		"strengthenLevel" : 73
+	},
+	
+	{
+		"attrList" : "1,3861#3,1689#",
+		"decomposeExp" : 94480,
+		"equipType" : 4,
+		"strengthenLevel" : 74
+	},
+	
+	{
+		"attrList" : "1,3913#3,1712#",
+		"decomposeExp" : 97095,
+		"equipType" : 4,
+		"strengthenLevel" : 75
+	},
+	
+	{
+		"attrList" : "1,3965#3,1735#",
+		"decomposeExp" : 99730,
+		"equipType" : 4,
+		"strengthenLevel" : 76
+	},
+	
+	{
+		"attrList" : "1,4017#3,1758#",
+		"decomposeExp" : 102384,
+		"equipType" : 4,
+		"strengthenLevel" : 77
+	},
+	
+	{
+		"attrList" : "1,4070#3,1780#",
+		"decomposeExp" : 105055,
+		"equipType" : 4,
+		"strengthenLevel" : 78
+	},
+	
+	{
+		"attrList" : "1,4122#3,1803#",
+		"decomposeExp" : 107742,
+		"equipType" : 4,
+		"strengthenLevel" : 79
+	},
+	
+	{
+		"attrList" : "1,4174#3,1826#",
+		"decomposeExp" : 110446,
+		"equipType" : 4,
+		"strengthenLevel" : 80
+	},
+	
+	{
+		"attrList" : "1,4226#3,1849#",
+		"decomposeExp" : 113166,
+		"equipType" : 4,
+		"strengthenLevel" : 81
+	},
+	
+	{
+		"attrList" : "1,4278#3,1872#",
+		"decomposeExp" : 115899,
+		"equipType" : 4,
+		"strengthenLevel" : 82
+	},
+	
+	{
+		"attrList" : "1,4330#3,1895#",
+		"decomposeExp" : 118647,
+		"equipType" : 4,
+		"strengthenLevel" : 83
+	},
+	
+	{
+		"attrList" : "1,4383#3,1917#",
+		"decomposeExp" : 121408,
+		"equipType" : 4,
+		"strengthenLevel" : 84
+	},
+	
+	{
+		"attrList" : "1,4435#3,1940#",
+		"decomposeExp" : 124181,
+		"equipType" : 4,
+		"strengthenLevel" : 85
+	},
+	
+	{
+		"attrList" : "1,4487#3,1963#",
+		"decomposeExp" : 126967,
+		"equipType" : 4,
+		"strengthenLevel" : 86
+	},
+	
+	{
+		"attrList" : "1,4539#3,1986#",
+		"decomposeExp" : 129764,
+		"equipType" : 4,
+		"strengthenLevel" : 87
+	},
+	
+	{
+		"attrList" : "1,4591#3,2009#",
+		"decomposeExp" : 132571,
+		"equipType" : 4,
+		"strengthenLevel" : 88
+	},
+	
+	{
+		"attrList" : "1,4643#3,2032#",
+		"decomposeExp" : 135389,
+		"equipType" : 4,
+		"strengthenLevel" : 89
+	},
+	
+	{
+		"attrList" : "1,4696#3,2054#",
+		"decomposeExp" : 138217,
+		"equipType" : 4,
+		"strengthenLevel" : 90
+	},
+	
+	{
+		"attrList" : "1,4748#3,2077#",
+		"decomposeExp" : 141054,
+		"equipType" : 4,
+		"strengthenLevel" : 91
+	},
+	
+	{
+		"attrList" : "1,4800#3,2100#",
+		"decomposeExp" : 143900,
+		"equipType" : 4,
+		"strengthenLevel" : 92
+	},
+	
+	{
+		"attrList" : "1,4852#3,2123#",
+		"decomposeExp" : 146754,
+		"equipType" : 4,
+		"strengthenLevel" : 93
+	},
+	
+	{
+		"attrList" : "1,4904#3,2146#",
+		"decomposeExp" : 149616,
+		"equipType" : 4,
+		"strengthenLevel" : 94
+	},
+	
+	{
+		"attrList" : "1,4957#3,2168#",
+		"decomposeExp" : 152485,
+		"equipType" : 4,
+		"strengthenLevel" : 95
+	},
+	
+	{
+		"attrList" : "1,5009#3,2191#",
+		"decomposeExp" : 155362,
+		"equipType" : 4,
+		"strengthenLevel" : 96
+	},
+	
+	{
+		"attrList" : "1,5061#3,2214#",
+		"decomposeExp" : 158245,
+		"equipType" : 4,
+		"strengthenLevel" : 97
+	},
+	
+	{
+		"attrList" : "1,5113#3,2237#",
+		"decomposeExp" : 161135,
+		"equipType" : 4,
+		"strengthenLevel" : 98
+	},
+	
+	{
+		"attrList" : "1,5165#3,2260#",
+		"decomposeExp" : 164030,
+		"equipType" : 4,
+		"strengthenLevel" : 99
+	},
+	
+	{
+		"attrList" : "1,5217#3,2283#",
+		"decomposeExp" : 166932,
+		"equipType" : 4,
+		"strengthenLevel" : 100
+	},
+	
+	{
+		"attrList" : "2,2000#4,25#",
+		"decomposeExp" : 62,
+		"equipType" : 5,
+		"strengthenLevel" : 1
+	},
+	
+	{
+		"attrList" : "2,4000#4,50#",
+		"decomposeExp" : 141,
+		"equipType" : 5,
+		"strengthenLevel" : 2
+	},
+	
+	{
+		"attrList" : "2,6000#4,75#",
+		"decomposeExp" : 236,
+		"equipType" : 5,
+		"strengthenLevel" : 3
+	},
+	
+	{
+		"attrList" : "2,8000#4,100#",
+		"decomposeExp" : 348,
+		"equipType" : 5,
+		"strengthenLevel" : 4
+	},
+	
+	{
+		"attrList" : "2,10000#4,125#",
+		"decomposeExp" : 479,
+		"equipType" : 5,
+		"strengthenLevel" : 5
+	},
+	
+	{
+		"attrList" : "2,12000#4,150#",
+		"decomposeExp" : 628,
+		"equipType" : 5,
+		"strengthenLevel" : 6
+	},
+	
+	{
+		"attrList" : "2,14000#4,175#",
+		"decomposeExp" : 798,
+		"equipType" : 5,
+		"strengthenLevel" : 7
+	},
+	
+	{
+		"attrList" : "2,16000#4,200#",
+		"decomposeExp" : 988,
+		"equipType" : 5,
+		"strengthenLevel" : 8
+	},
+	
+	{
+		"attrList" : "2,18000#4,225#",
+		"decomposeExp" : 1200,
+		"equipType" : 5,
+		"strengthenLevel" : 9
+	},
+	
+	{
+		"attrList" : "2,20000#4,250#",
+		"decomposeExp" : 1434,
+		"equipType" : 5,
+		"strengthenLevel" : 10
+	},
+	
+	{
+		"attrList" : "2,22000#4,275#",
+		"decomposeExp" : 1693,
+		"equipType" : 5,
+		"strengthenLevel" : 11
+	},
+	
+	{
+		"attrList" : "2,24000#4,300#",
+		"decomposeExp" : 1975,
+		"equipType" : 5,
+		"strengthenLevel" : 12
+	},
+	
+	{
+		"attrList" : "2,26000#4,325#",
+		"decomposeExp" : 2284,
+		"equipType" : 5,
+		"strengthenLevel" : 13
+	},
+	
+	{
+		"attrList" : "2,28000#4,350#",
+		"decomposeExp" : 2619,
+		"equipType" : 5,
+		"strengthenLevel" : 14
+	},
+	
+	{
+		"attrList" : "2,30000#4,375#",
+		"decomposeExp" : 2982,
+		"equipType" : 5,
+		"strengthenLevel" : 15
+	},
+	
+	{
+		"attrList" : "2,32000#4,400#",
+		"decomposeExp" : 3373,
+		"equipType" : 5,
+		"strengthenLevel" : 16
+	},
+	
+	{
+		"attrList" : "2,34000#4,425#",
+		"decomposeExp" : 3794,
+		"equipType" : 5,
+		"strengthenLevel" : 17
+	},
+	
+	{
+		"attrList" : "2,36000#4,450#",
+		"decomposeExp" : 4246,
+		"equipType" : 5,
+		"strengthenLevel" : 18
+	},
+	
+	{
+		"attrList" : "2,38000#4,475#",
+		"decomposeExp" : 4730,
+		"equipType" : 5,
+		"strengthenLevel" : 19
+	},
+	
+	{
+		"attrList" : "2,40000#4,500#",
+		"decomposeExp" : 5246,
+		"equipType" : 5,
+		"strengthenLevel" : 20
+	},
+	
+	{
+		"attrList" : "2,42000#4,525#",
+		"decomposeExp" : 5797,
+		"equipType" : 5,
+		"strengthenLevel" : 21
+	},
+	
+	{
+		"attrList" : "2,44000#4,550#",
+		"decomposeExp" : 6383,
+		"equipType" : 5,
+		"strengthenLevel" : 22
+	},
+	
+	{
+		"attrList" : "2,46000#4,575#",
+		"decomposeExp" : 7004,
+		"equipType" : 5,
+		"strengthenLevel" : 23
+	},
+	
+	{
+		"attrList" : "2,48000#4,600#",
+		"decomposeExp" : 7663,
+		"equipType" : 5,
+		"strengthenLevel" : 24
+	},
+	
+	{
+		"attrList" : "2,50000#4,625#",
+		"decomposeExp" : 8359,
+		"equipType" : 5,
+		"strengthenLevel" : 25
+	},
+	
+	{
+		"attrList" : "2,52000#4,650#",
+		"decomposeExp" : 9095,
+		"equipType" : 5,
+		"strengthenLevel" : 26
+	},
+	
+	{
+		"attrList" : "2,54000#4,675#",
+		"decomposeExp" : 9870,
+		"equipType" : 5,
+		"strengthenLevel" : 27
+	},
+	
+	{
+		"attrList" : "2,56000#4,700#",
+		"decomposeExp" : 10686,
+		"equipType" : 5,
+		"strengthenLevel" : 28
+	},
+	
+	{
+		"attrList" : "2,58000#4,725#",
+		"decomposeExp" : 11544,
+		"equipType" : 5,
+		"strengthenLevel" : 29
+	},
+	
+	{
+		"attrList" : "2,60000#4,750#",
+		"decomposeExp" : 12444,
+		"equipType" : 5,
+		"strengthenLevel" : 30
+	},
+	
+	{
+		"attrList" : "2,62000#4,775#",
+		"decomposeExp" : 13387,
+		"equipType" : 5,
+		"strengthenLevel" : 31
+	},
+	
+	{
+		"attrList" : "2,64000#4,800#",
+		"decomposeExp" : 14374,
+		"equipType" : 5,
+		"strengthenLevel" : 32
+	},
+	
+	{
+		"attrList" : "2,66000#4,825#",
+		"decomposeExp" : 15406,
+		"equipType" : 5,
+		"strengthenLevel" : 33
+	},
+	
+	{
+		"attrList" : "2,68000#4,850#",
+		"decomposeExp" : 16483,
+		"equipType" : 5,
+		"strengthenLevel" : 34
+	},
+	
+	{
+		"attrList" : "2,70000#4,875#",
+		"decomposeExp" : 17605,
+		"equipType" : 5,
+		"strengthenLevel" : 35
+	},
+	
+	{
+		"attrList" : "2,72000#4,900#",
+		"decomposeExp" : 18773,
+		"equipType" : 5,
+		"strengthenLevel" : 36
+	},
+	
+	{
+		"attrList" : "2,74000#4,925#",
+		"decomposeExp" : 19987,
+		"equipType" : 5,
+		"strengthenLevel" : 37
+	},
+	
+	{
+		"attrList" : "2,76000#4,950#",
+		"decomposeExp" : 21249,
+		"equipType" : 5,
+		"strengthenLevel" : 38
+	},
+	
+	{
+		"attrList" : "2,78000#4,975#",
+		"decomposeExp" : 22557,
+		"equipType" : 5,
+		"strengthenLevel" : 39
+	},
+	
+	{
+		"attrList" : "2,80000#4,1000#",
+		"decomposeExp" : 23912,
+		"equipType" : 5,
+		"strengthenLevel" : 40
+	},
+	
+	{
+		"attrList" : "2,82000#4,1025#",
+		"decomposeExp" : 25314,
+		"equipType" : 5,
+		"strengthenLevel" : 41
+	},
+	
+	{
+		"attrList" : "2,84000#4,1050#",
+		"decomposeExp" : 26763,
+		"equipType" : 5,
+		"strengthenLevel" : 42
+	},
+	
+	{
+		"attrList" : "2,86000#4,1075#",
+		"decomposeExp" : 28259,
+		"equipType" : 5,
+		"strengthenLevel" : 43
+	},
+	
+	{
+		"attrList" : "2,88000#4,1100#",
+		"decomposeExp" : 29801,
+		"equipType" : 5,
+		"strengthenLevel" : 44
+	},
+	
+	{
+		"attrList" : "2,90000#4,1125#",
+		"decomposeExp" : 31391,
+		"equipType" : 5,
+		"strengthenLevel" : 45
+	},
+	
+	{
+		"attrList" : "2,92000#4,1150#",
+		"decomposeExp" : 33026,
+		"equipType" : 5,
+		"strengthenLevel" : 46
+	},
+	
+	{
+		"attrList" : "2,94000#4,1175#",
+		"decomposeExp" : 34707,
+		"equipType" : 5,
+		"strengthenLevel" : 47
+	},
+	
+	{
+		"attrList" : "2,96000#4,1200#",
+		"decomposeExp" : 36433,
+		"equipType" : 5,
+		"strengthenLevel" : 48
+	},
+	
+	{
+		"attrList" : "2,98000#4,1225#",
+		"decomposeExp" : 38204,
+		"equipType" : 5,
+		"strengthenLevel" : 49
+	},
+	
+	{
+		"attrList" : "2,100000#4,1250#",
+		"decomposeExp" : 40018,
+		"equipType" : 5,
+		"strengthenLevel" : 50
+	},
+	
+	{
+		"attrList" : "2,102000#4,1275#",
+		"decomposeExp" : 41877,
+		"equipType" : 5,
+		"strengthenLevel" : 51
+	},
+	
+	{
+		"attrList" : "2,104000#4,1300#",
+		"decomposeExp" : 43777,
+		"equipType" : 5,
+		"strengthenLevel" : 52
+	},
+	
+	{
+		"attrList" : "2,106000#4,1325#",
+		"decomposeExp" : 45720,
+		"equipType" : 5,
+		"strengthenLevel" : 53
+	},
+	
+	{
+		"attrList" : "2,108000#4,1350#",
+		"decomposeExp" : 47704,
+		"equipType" : 5,
+		"strengthenLevel" : 54
+	},
+	
+	{
+		"attrList" : "2,110000#4,1375#",
+		"decomposeExp" : 49728,
+		"equipType" : 5,
+		"strengthenLevel" : 55
+	},
+	
+	{
+		"attrList" : "2,112000#4,1400#",
+		"decomposeExp" : 51791,
+		"equipType" : 5,
+		"strengthenLevel" : 56
+	},
+	
+	{
+		"attrList" : "2,114000#4,1425#",
+		"decomposeExp" : 53892,
+		"equipType" : 5,
+		"strengthenLevel" : 57
+	},
+	
+	{
+		"attrList" : "2,116000#4,1450#",
+		"decomposeExp" : 56030,
+		"equipType" : 5,
+		"strengthenLevel" : 58
+	},
+	
+	{
+		"attrList" : "2,118000#4,1475#",
+		"decomposeExp" : 58205,
+		"equipType" : 5,
+		"strengthenLevel" : 59
+	},
+	
+	{
+		"attrList" : "2,120000#4,1500#",
+		"decomposeExp" : 60416,
+		"equipType" : 5,
+		"strengthenLevel" : 60
+	},
+	
+	{
+		"attrList" : "2,122000#4,1525#",
+		"decomposeExp" : 62660,
+		"equipType" : 5,
+		"strengthenLevel" : 61
+	},
+	
+	{
+		"attrList" : "2,124000#4,1550#",
+		"decomposeExp" : 64938,
+		"equipType" : 5,
+		"strengthenLevel" : 62
+	},
+	
+	{
+		"attrList" : "2,126000#4,1575#",
+		"decomposeExp" : 67247,
+		"equipType" : 5,
+		"strengthenLevel" : 63
+	},
+	
+	{
+		"attrList" : "2,128000#4,1600#",
+		"decomposeExp" : 69588,
+		"equipType" : 5,
+		"strengthenLevel" : 64
+	},
+	
+	{
+		"attrList" : "2,130000#4,1625#",
+		"decomposeExp" : 71959,
+		"equipType" : 5,
+		"strengthenLevel" : 65
+	},
+	
+	{
+		"attrList" : "2,132000#4,1650#",
+		"decomposeExp" : 74359,
+		"equipType" : 5,
+		"strengthenLevel" : 66
+	},
+	
+	{
+		"attrList" : "2,134000#4,1675#",
+		"decomposeExp" : 76787,
+		"equipType" : 5,
+		"strengthenLevel" : 67
+	},
+	
+	{
+		"attrList" : "2,136000#4,1700#",
+		"decomposeExp" : 79242,
+		"equipType" : 5,
+		"strengthenLevel" : 68
+	},
+	
+	{
+		"attrList" : "2,138000#4,1725#",
+		"decomposeExp" : 81722,
+		"equipType" : 5,
+		"strengthenLevel" : 69
+	},
+	
+	{
+		"attrList" : "2,140000#4,1750#",
+		"decomposeExp" : 84228,
+		"equipType" : 5,
+		"strengthenLevel" : 70
+	},
+	
+	{
+		"attrList" : "2,142000#4,1775#",
+		"decomposeExp" : 86757,
+		"equipType" : 5,
+		"strengthenLevel" : 71
+	},
+	
+	{
+		"attrList" : "2,144000#4,1800#",
+		"decomposeExp" : 89310,
+		"equipType" : 5,
+		"strengthenLevel" : 72
+	},
+	
+	{
+		"attrList" : "2,146000#4,1825#",
+		"decomposeExp" : 91884,
+		"equipType" : 5,
+		"strengthenLevel" : 73
+	},
+	
+	{
+		"attrList" : "2,148000#4,1850#",
+		"decomposeExp" : 94480,
+		"equipType" : 5,
+		"strengthenLevel" : 74
+	},
+	
+	{
+		"attrList" : "2,150000#4,1875#",
+		"decomposeExp" : 97095,
+		"equipType" : 5,
+		"strengthenLevel" : 75
+	},
+	
+	{
+		"attrList" : "2,152000#4,1900#",
+		"decomposeExp" : 99730,
+		"equipType" : 5,
+		"strengthenLevel" : 76
+	},
+	
+	{
+		"attrList" : "2,154000#4,1925#",
+		"decomposeExp" : 102384,
+		"equipType" : 5,
+		"strengthenLevel" : 77
+	},
+	
+	{
+		"attrList" : "2,156000#4,1950#",
+		"decomposeExp" : 105055,
+		"equipType" : 5,
+		"strengthenLevel" : 78
+	},
+	
+	{
+		"attrList" : "2,158000#4,1975#",
+		"decomposeExp" : 107742,
+		"equipType" : 5,
+		"strengthenLevel" : 79
+	},
+	
+	{
+		"attrList" : "2,160000#4,2000#",
+		"decomposeExp" : 110446,
+		"equipType" : 5,
+		"strengthenLevel" : 80
+	},
+	
+	{
+		"attrList" : "2,162000#4,2025#",
+		"decomposeExp" : 113166,
+		"equipType" : 5,
+		"strengthenLevel" : 81
+	},
+	
+	{
+		"attrList" : "2,164000#4,2050#",
+		"decomposeExp" : 115899,
+		"equipType" : 5,
+		"strengthenLevel" : 82
+	},
+	
+	{
+		"attrList" : "2,166000#4,2075#",
+		"decomposeExp" : 118647,
+		"equipType" : 5,
+		"strengthenLevel" : 83
+	},
+	
+	{
+		"attrList" : "2,168000#4,2100#",
+		"decomposeExp" : 121408,
+		"equipType" : 5,
+		"strengthenLevel" : 84
+	},
+	
+	{
+		"attrList" : "2,170000#4,2125#",
+		"decomposeExp" : 124181,
+		"equipType" : 5,
+		"strengthenLevel" : 85
+	},
+	
+	{
+		"attrList" : "2,172000#4,2150#",
+		"decomposeExp" : 126967,
+		"equipType" : 5,
+		"strengthenLevel" : 86
+	},
+	
+	{
+		"attrList" : "2,174000#4,2175#",
+		"decomposeExp" : 129764,
+		"equipType" : 5,
+		"strengthenLevel" : 87
+	},
+	
+	{
+		"attrList" : "2,176000#4,2200#",
+		"decomposeExp" : 132571,
+		"equipType" : 5,
+		"strengthenLevel" : 88
+	},
+	
+	{
+		"attrList" : "2,178000#4,2225#",
+		"decomposeExp" : 135389,
+		"equipType" : 5,
+		"strengthenLevel" : 89
+	},
+	
+	{
+		"attrList" : "2,180000#4,2250#",
+		"decomposeExp" : 138217,
+		"equipType" : 5,
+		"strengthenLevel" : 90
+	},
+	
+	{
+		"attrList" : "2,182000#4,2275#",
+		"decomposeExp" : 141054,
+		"equipType" : 5,
+		"strengthenLevel" : 91
+	},
+	
+	{
+		"attrList" : "2,184000#4,2300#",
+		"decomposeExp" : 143900,
+		"equipType" : 5,
+		"strengthenLevel" : 92
+	},
+	
+	{
+		"attrList" : "2,186000#4,2325#",
+		"decomposeExp" : 146754,
+		"equipType" : 5,
+		"strengthenLevel" : 93
+	},
+	
+	{
+		"attrList" : "2,188000#4,2350#",
+		"decomposeExp" : 149616,
+		"equipType" : 5,
+		"strengthenLevel" : 94
+	},
+	
+	{
+		"attrList" : "2,190000#4,2375#",
+		"decomposeExp" : 152485,
+		"equipType" : 5,
+		"strengthenLevel" : 95
+	},
+	
+	{
+		"attrList" : "2,192000#4,2400#",
+		"decomposeExp" : 155362,
+		"equipType" : 5,
+		"strengthenLevel" : 96
+	},
+	
+	{
+		"attrList" : "2,194000#4,2425#",
+		"decomposeExp" : 158245,
+		"equipType" : 5,
+		"strengthenLevel" : 97
+	},
+	
+	{
+		"attrList" : "2,196000#4,2450#",
+		"decomposeExp" : 161135,
+		"equipType" : 5,
+		"strengthenLevel" : 98
+	},
+	
+	{
+		"attrList" : "2,198000#4,2475#",
+		"decomposeExp" : 164030,
+		"equipType" : 5,
+		"strengthenLevel" : 99
+	},
+	
+	{
+		"attrList" : "2,200000#4,2500#",
+		"decomposeExp" : 166932,
+		"equipType" : 5,
+		"strengthenLevel" : 100
+	}
+]

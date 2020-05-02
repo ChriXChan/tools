@@ -1,0 +1,4888 @@
+[
+  {
+    "lotteryType": 200,
+    "openHole": 1,
+    "openType": "32#2#3#33#34#35#39#40#41#42#43#44#45#46#47#"
+  },
+  {
+    "floor": 1,
+    "lotteryType": 200,
+    "rewardShow": "3,41950017,1#3,41950016,200#3,41950001,16200#",
+    "runeExp": 200
+  },
+  {
+    "floor": 2,
+    "lotteryType": 200,
+    "rewardShow": "3,41950017,1#3,41950016,200#3,41950001,17100#",
+    "runeExp": 200
+  },
+  {
+    "floor": 3,
+    "lotteryType": 200,
+    "rewardShow": "3,41950017,1#3,41950016,200#3,41950001,18600#",
+    "runeExp": 200
+  },
+  {
+    "floor": 4,
+    "lotteryType": 200,
+    "rewardShow": "3,41950017,1#3,41950016,200#3,41950001,20400#",
+    "runeExp": 200
+  },
+  {
+    "floor": 5,
+    "lotteryType": 200,
+    "openHole": 2,
+    "rewardShow": "3,41950017,1#3,41950016,200#3,41950001,22200#",
+    "runeExp": 200
+  },
+  {
+    "floor": 6,
+    "lotteryType": 200,
+    "rewardShow": "3,41950017,1#3,41950016,200#3,41950001,24000#",
+    "runeExp": 200
+  },
+  {
+    "floor": 7,
+    "lotteryType": 200,
+    "rewardShow": "3,41950017,1#3,41950016,200#3,41950001,26400#",
+    "runeExp": 200
+  },
+  {
+    "floor": 8,
+    "lotteryType": 200,
+    "rewardShow": "3,41950017,1#3,41950016,200#3,41950001,28800#",
+    "runeExp": 200
+  },
+  {
+    "floor": 9,
+    "lotteryType": 200,
+    "rewardShow": "3,41950017,1#3,41950016,200#3,41950001,31200#",
+    "runeExp": 200
+  },
+  {
+    "floor": 10,
+    "lotteryType": 200,
+    "rewardShow": "3,41950017,1#3,41950016,200#3,41950001,33600#",
+    "runeExp": 210
+  },
+  {
+    "floor": 11,
+    "lotteryType": 200,
+    "rewardShow": "3,41950017,1#3,41950016,210#3,41950001,36000#",
+    "runeExp": 210
+  },
+  {
+    "floor": 12,
+    "lotteryType": 200,
+    "rewardShow": "3,41950017,1#3,41950016,210#3,41950001,37800#",
+    "runeExp": 210
+  },
+  {
+    "floor": 13,
+    "lotteryType": 200,
+    "rewardShow": "3,41950017,1#3,41950016,210#3,41950001,39600#",
+    "runeExp": 210
+  },
+  {
+    "floor": 14,
+    "lotteryType": 200,
+    "rewardShow": "3,41950017,1#3,41950016,210#3,41950001,41400#",
+    "runeExp": 210
+  },
+  {
+    "floor": 15,
+    "lotteryType": 200,
+    "rewardShow": "3,41950017,1#3,41950016,210#3,41950001,43200#",
+    "runeExp": 210
+  },
+  {
+    "floor": 16,
+    "lotteryType": 200,
+    "rewardShow": "3,41950017,1#3,41950016,210#3,41950001,45000#",
+    "runeExp": 210
+  },
+  {
+    "floor": 17,
+    "lotteryType": 200,
+    "rewardShow": "3,41950017,1#3,41950016,210#3,41950001,47400#",
+    "runeExp": 210
+  },
+  {
+    "floor": 18,
+    "lotteryType": 200,
+    "rewardShow": "3,41950017,1#3,41950016,210#3,41950001,49800#",
+    "runeExp": 210
+  },
+  {
+    "floor": 19,
+    "lotteryType": 200,
+    "rewardShow": "3,41950017,1#3,41950016,210#3,41950001,52200#",
+    "runeExp": 210
+  },
+  {
+    "floor": 20,
+    "lotteryType": 201,
+    "openType": "5#",
+    "openTypeCode": "80000365#",
+    "rewardShow": "3,41950017,1#3,41950016,210#3,41950001,54600#",
+    "runeExp": 220
+  },
+  {
+    "floor": 21,
+    "lotteryType": 201,
+    "rewardShow": "3,41950018,1#3,41950016,220#3,41950001,57000#",
+    "runeExp": 220
+  },
+  {
+    "floor": 22,
+    "lotteryType": 201,
+    "rewardShow": "3,41950018,1#3,41950016,220#3,41950001,58386#",
+    "runeExp": 220
+  },
+  {
+    "floor": 23,
+    "lotteryType": 201,
+    "rewardShow": "3,41950018,1#3,41950016,220#3,41950001,59430#",
+    "runeExp": 220
+  },
+  {
+    "floor": 24,
+    "lotteryType": 201,
+    "rewardShow": "3,41950018,1#3,41950016,220#3,41950001,60456#",
+    "runeExp": 220
+  },
+  {
+    "floor": 25,
+    "lotteryType": 201,
+    "rewardShow": "3,41950018,1#3,41950016,220#3,41950001,61458#",
+    "runeExp": 220
+  },
+  {
+    "floor": 26,
+    "lotteryType": 201,
+    "rewardShow": "3,41950018,1#3,41950016,220#3,41950001,62442#",
+    "runeExp": 220
+  },
+  {
+    "floor": 27,
+    "lotteryType": 201,
+    "rewardShow": "3,41950018,1#3,41950016,220#3,41950001,63408#",
+    "runeExp": 220
+  },
+  {
+    "floor": 28,
+    "lotteryType": 201,
+    "rewardShow": "3,41950018,1#3,41950016,220#3,41950001,64359#",
+    "runeExp": 220
+  },
+  {
+    "floor": 29,
+    "lotteryType": 201,
+    "rewardShow": "3,41950018,1#3,41950016,220#3,41950001,65298#",
+    "runeExp": 220
+  },
+  {
+    "floor": 30,
+    "lotteryType": 201,
+    "openHole": 3,
+    "rewardShow": "3,41950018,1#3,41950016,220#3,41950001,66222#",
+    "runeExp": 230
+  },
+  {
+    "floor": 31,
+    "lotteryType": 201,
+    "rewardShow": "3,41950018,1#3,41950016,230#3,41950001,66951#",
+    "runeExp": 230
+  },
+  {
+    "floor": 32,
+    "lotteryType": 201,
+    "rewardShow": "3,41950018,1#3,41950016,230#3,41950001,67668#",
+    "runeExp": 230
+  },
+  {
+    "floor": 33,
+    "lotteryType": 201,
+    "rewardShow": "3,41950018,1#3,41950016,230#3,41950001,68388#",
+    "runeExp": 230
+  },
+  {
+    "floor": 34,
+    "lotteryType": 201,
+    "rewardShow": "3,41950018,1#3,41950016,230#3,41950001,69090#",
+    "runeExp": 230
+  },
+  {
+    "floor": 35,
+    "lotteryType": 201,
+    "rewardShow": "3,41950018,1#3,41950016,230#3,41950001,69792#",
+    "runeExp": 230
+  },
+  {
+    "floor": 36,
+    "lotteryType": 201,
+    "rewardShow": "3,41950018,1#3,41950016,230#3,41950001,70488#",
+    "runeExp": 230
+  },
+  {
+    "floor": 37,
+    "lotteryType": 201,
+    "rewardShow": "3,41950018,1#3,41950016,230#3,41950001,71175#",
+    "runeExp": 230
+  },
+  {
+    "floor": 38,
+    "lotteryType": 201,
+    "rewardShow": "3,41950018,1#3,41950016,230#3,41950001,71853#",
+    "runeExp": 230
+  },
+  {
+    "floor": 39,
+    "lotteryType": 201,
+    "rewardShow": "3,41950018,1#3,41950016,230#3,41950001,72534#",
+    "runeExp": 230
+  },
+  {
+    "floor": 40,
+    "lotteryType": 202,
+    "openType": "36#",
+    "openTypeCode": "80000375#",
+    "rewardShow": "3,41950018,1#3,41950016,230#3,41950001,73203#",
+    "runeExp": 240
+  },
+  {
+    "floor": 41,
+    "lotteryType": 202,
+    "rewardShow": "3,41950019,1#3,41950016,240#3,41950001,73869#",
+    "runeExp": 240
+  },
+  {
+    "floor": 42,
+    "lotteryType": 202,
+    "rewardShow": "3,41950019,1#3,41950016,240#3,41950001,74532#",
+    "runeExp": 240
+  },
+  {
+    "floor": 43,
+    "lotteryType": 202,
+    "rewardShow": "3,41950019,1#3,41950016,240#3,41950001,75186#",
+    "runeExp": 240
+  },
+  {
+    "floor": 44,
+    "lotteryType": 202,
+    "rewardShow": "3,41950019,1#3,41950016,240#3,41950001,75840#",
+    "runeExp": 240
+  },
+  {
+    "floor": 45,
+    "lotteryType": 202,
+    "rewardShow": "3,41950019,1#3,41950016,240#3,41950001,76488#",
+    "runeExp": 240
+  },
+  {
+    "floor": 46,
+    "lotteryType": 202,
+    "rewardShow": "3,41950019,1#3,41950016,240#3,41950001,77130#",
+    "runeExp": 240
+  },
+  {
+    "floor": 47,
+    "lotteryType": 202,
+    "rewardShow": "3,41950019,1#3,41950016,240#3,41950001,77772#",
+    "runeExp": 240
+  },
+  {
+    "floor": 48,
+    "lotteryType": 202,
+    "rewardShow": "3,41950019,1#3,41950016,240#3,41950001,78411#",
+    "runeExp": 240
+  },
+  {
+    "floor": 49,
+    "lotteryType": 202,
+    "rewardShow": "3,41950019,1#3,41950016,240#3,41950001,79041#",
+    "runeExp": 240
+  },
+  {
+    "floor": 50,
+    "lotteryType": 202,
+    "rewardShow": "3,41950019,1#3,41950016,240#3,41950001,79668#",
+    "runeExp": 250
+  },
+  {
+    "floor": 51,
+    "lotteryType": 202,
+    "rewardShow": "3,41950019,1#3,41950016,250#3,41950001,80139#",
+    "roleState": 1,
+    "runeExp": 250
+  },
+  {
+    "floor": 52,
+    "lotteryType": 202,
+    "rewardShow": "3,41950019,1#3,41950016,250#3,41950001,80607#",
+    "roleState": 1,
+    "runeExp": 250
+  },
+  {
+    "floor": 53,
+    "lotteryType": 202,
+    "rewardShow": "3,41950019,1#3,41950016,250#3,41950001,81072#",
+    "roleState": 1,
+    "runeExp": 250
+  },
+  {
+    "floor": 54,
+    "lotteryType": 202,
+    "rewardShow": "3,41950019,1#3,41950016,250#3,41950001,81537#",
+    "roleState": 1,
+    "runeExp": 250
+  },
+  {
+    "floor": 55,
+    "lotteryType": 202,
+    "rewardShow": "3,41950019,1#3,41950016,250#3,41950001,81996#",
+    "roleState": 1,
+    "runeExp": 250
+  },
+  {
+    "floor": 56,
+    "lotteryType": 202,
+    "rewardShow": "3,41950019,1#3,41950016,250#3,41950001,82461#",
+    "roleState": 1,
+    "runeExp": 250
+  },
+  {
+    "floor": 57,
+    "lotteryType": 202,
+    "rewardShow": "3,41950019,1#3,41950016,250#3,41950001,82920#",
+    "roleState": 1,
+    "runeExp": 250
+  },
+  {
+    "floor": 58,
+    "lotteryType": 202,
+    "rewardShow": "3,41950019,1#3,41950016,250#3,41950001,83373#",
+    "roleState": 1,
+    "runeExp": 250
+  },
+  {
+    "floor": 59,
+    "lotteryType": 202,
+    "rewardShow": "3,41950019,1#3,41950016,250#3,41950001,83832#",
+    "roleState": 1,
+    "runeExp": 250
+  },
+  {
+    "floor": 60,
+    "lotteryType": 203,
+    "openHole": 4,
+    "openType": "24#",
+    "openTypeCode": "80000385#",
+    "rewardShow": "3,41950019,1#3,41950016,250#3,41950001,84285#",
+    "roleState": 1,
+    "runeExp": 260
+  },
+  {
+    "floor": 61,
+    "lotteryType": 203,
+    "rewardShow": "3,41950020,1#3,41950016,260#3,41950001,84732#",
+    "roleState": 1,
+    "runeExp": 260
+  },
+  {
+    "floor": 62,
+    "lotteryType": 203,
+    "rewardShow": "3,41950020,1#3,41950016,260#3,41950001,85188#",
+    "roleState": 1,
+    "runeExp": 260
+  },
+  {
+    "floor": 63,
+    "lotteryType": 203,
+    "rewardShow": "3,41950020,1#3,41950016,260#3,41950001,85635#",
+    "roleState": 1,
+    "runeExp": 260
+  },
+  {
+    "floor": 64,
+    "lotteryType": 203,
+    "rewardShow": "3,41950020,1#3,41950016,260#3,41950001,86082#",
+    "roleState": 1,
+    "runeExp": 260
+  },
+  {
+    "floor": 65,
+    "lotteryType": 203,
+    "rewardShow": "3,41950020,1#3,41950016,260#3,41950001,86532#",
+    "roleState": 1,
+    "runeExp": 260
+  },
+  {
+    "floor": 66,
+    "lotteryType": 203,
+    "rewardShow": "3,41950020,1#3,41950016,260#3,41950001,86973#",
+    "roleState": 1,
+    "runeExp": 260
+  },
+  {
+    "floor": 67,
+    "lotteryType": 203,
+    "rewardShow": "3,41950020,1#3,41950016,260#3,41950001,87423#",
+    "roleState": 1,
+    "runeExp": 260
+  },
+  {
+    "floor": 68,
+    "lotteryType": 203,
+    "rewardShow": "3,41950020,1#3,41950016,260#3,41950001,87864#",
+    "roleState": 1,
+    "runeExp": 260
+  },
+  {
+    "floor": 69,
+    "lotteryType": 203,
+    "rewardShow": "3,41950020,1#3,41950016,260#3,41950001,88302#",
+    "roleState": 1,
+    "runeExp": 260
+  },
+  {
+    "floor": 70,
+    "lotteryType": 203,
+    "rewardShow": "3,41950020,1#3,41950016,260#3,41950001,88746#",
+    "roleState": 1,
+    "runeExp": 270
+  },
+  {
+    "floor": 71,
+    "lotteryType": 203,
+    "rewardShow": "3,41950020,1#3,41950016,270#3,41950001,89184#",
+    "roleState": 1,
+    "runeExp": 270
+  },
+  {
+    "floor": 72,
+    "lotteryType": 203,
+    "rewardShow": "3,41950020,1#3,41950016,270#3,41950001,89619#",
+    "roleState": 1,
+    "runeExp": 270
+  },
+  {
+    "floor": 73,
+    "lotteryType": 203,
+    "rewardShow": "3,41950020,1#3,41950016,270#3,41950001,90057#",
+    "roleState": 1,
+    "runeExp": 270
+  },
+  {
+    "floor": 74,
+    "lotteryType": 203,
+    "rewardShow": "3,41950020,1#3,41950016,270#3,41950001,90495#",
+    "roleState": 1,
+    "runeExp": 270
+  },
+  {
+    "floor": 75,
+    "lotteryType": 203,
+    "rewardShow": "3,41950020,1#3,41950016,270#3,41950001,90927#",
+    "roleState": 1,
+    "runeExp": 270
+  },
+  {
+    "floor": 76,
+    "lotteryType": 203,
+    "rewardShow": "3,41950020,1#3,41950016,270#3,41950001,91365#",
+    "roleState": 1,
+    "runeExp": 270
+  },
+  {
+    "floor": 77,
+    "lotteryType": 203,
+    "rewardShow": "3,41950020,1#3,41950016,270#3,41950001,91797#",
+    "roleState": 1,
+    "runeExp": 270
+  },
+  {
+    "floor": 78,
+    "lotteryType": 203,
+    "rewardShow": "3,41950020,1#3,41950016,270#3,41950001,92229#",
+    "roleState": 1,
+    "runeExp": 270
+  },
+  {
+    "floor": 79,
+    "lotteryType": 203,
+    "rewardShow": "3,41950020,1#3,41950016,270#3,41950001,92655#",
+    "roleState": 1,
+    "runeExp": 270
+  },
+  {
+    "floor": 80,
+    "lotteryType": 204,
+    "openType": "30#",
+    "openTypeCode": "80000395#",
+    "rewardShow": "3,41950020,1#3,41950016,270#3,41950001,93087#",
+    "roleState": 1,
+    "runeExp": 280
+  },
+  {
+    "floor": 81,
+    "lotteryType": 204,
+    "rewardShow": "3,41950021,1#3,41950016,280#3,41950001,93801#",
+    "roleState": 1,
+    "runeExp": 280
+  },
+  {
+    "floor": 82,
+    "lotteryType": 204,
+    "rewardShow": "3,41950021,1#3,41950016,280#3,41950001,94506#",
+    "roleState": 1,
+    "runeExp": 280
+  },
+  {
+    "floor": 83,
+    "lotteryType": 204,
+    "rewardShow": "3,41950021,1#3,41950016,280#3,41950001,95214#",
+    "roleState": 1,
+    "runeExp": 280
+  },
+  {
+    "floor": 84,
+    "lotteryType": 204,
+    "rewardShow": "3,41950021,1#3,41950016,280#3,41950001,95922#",
+    "roleState": 1,
+    "runeExp": 280
+  },
+  {
+    "floor": 85,
+    "lotteryType": 204,
+    "rewardShow": "3,41950021,1#3,41950016,280#3,41950001,96624#",
+    "roleState": 1,
+    "runeExp": 280
+  },
+  {
+    "floor": 86,
+    "lotteryType": 204,
+    "rewardShow": "3,41950021,1#3,41950016,280#3,41950001,97326#",
+    "roleState": 1,
+    "runeExp": 280
+  },
+  {
+    "floor": 87,
+    "lotteryType": 204,
+    "rewardShow": "3,41950021,1#3,41950016,280#3,41950001,98022#",
+    "roleState": 1,
+    "runeExp": 280
+  },
+  {
+    "floor": 88,
+    "lotteryType": 204,
+    "rewardShow": "3,41950021,1#3,41950016,280#3,41950001,98718#",
+    "roleState": 1,
+    "runeExp": 280
+  },
+  {
+    "floor": 89,
+    "lotteryType": 204,
+    "rewardShow": "3,41950021,1#3,41950016,280#3,41950001,99417#",
+    "roleState": 1,
+    "runeExp": 280
+  },
+  {
+    "floor": 90,
+    "lotteryType": 204,
+    "rewardShow": "3,41950021,1#3,41950016,280#3,41950001,100107#",
+    "roleState": 1,
+    "runeExp": 290
+  },
+  {
+    "floor": 91,
+    "lotteryType": 204,
+    "rewardShow": "3,41950021,1#3,41950016,290#3,41950001,100797#",
+    "roleState": 2,
+    "runeExp": 290
+  },
+  {
+    "floor": 92,
+    "lotteryType": 204,
+    "rewardShow": "3,41950021,1#3,41950016,290#3,41950001,101484#",
+    "roleState": 2,
+    "runeExp": 290
+  },
+  {
+    "floor": 93,
+    "lotteryType": 204,
+    "rewardShow": "3,41950021,1#3,41950016,290#3,41950001,102171#",
+    "roleState": 2,
+    "runeExp": 290
+  },
+  {
+    "floor": 94,
+    "lotteryType": 204,
+    "rewardShow": "3,41950021,1#3,41950016,290#3,41950001,102855#",
+    "roleState": 2,
+    "runeExp": 290
+  },
+  {
+    "floor": 95,
+    "lotteryType": 204,
+    "rewardShow": "3,41950021,1#3,41950016,290#3,41950001,103536#",
+    "roleState": 2,
+    "runeExp": 290
+  },
+  {
+    "floor": 96,
+    "lotteryType": 204,
+    "rewardShow": "3,41950021,1#3,41950016,290#3,41950001,104217#",
+    "roleState": 2,
+    "runeExp": 290
+  },
+  {
+    "floor": 97,
+    "lotteryType": 204,
+    "rewardShow": "3,41950021,1#3,41950016,290#3,41950001,104898#",
+    "roleState": 2,
+    "runeExp": 290
+  },
+  {
+    "floor": 98,
+    "lotteryType": 204,
+    "rewardShow": "3,41950021,1#3,41950016,290#3,41950001,105573#",
+    "roleState": 2,
+    "runeExp": 290
+  },
+  {
+    "floor": 99,
+    "lotteryType": 204,
+    "rewardShow": "3,41950021,1#3,41950016,290#3,41950001,106248#",
+    "roleState": 2,
+    "runeExp": 290
+  },
+  {
+    "floor": 100,
+    "lotteryType": 205,
+    "openHole": 5,
+    "openType": "28#",
+    "openTypeCode": "80000405#",
+    "rewardShow": "3,41950021,1#3,41950016,290#3,41950001,106923#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 101,
+    "lotteryType": 205,
+    "rewardShow": "3,41950022,1#3,41950016,290#3,41950001,107592#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 102,
+    "lotteryType": 205,
+    "rewardShow": "3,41950022,1#3,41950016,290#3,41950001,108261#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 103,
+    "lotteryType": 205,
+    "rewardShow": "3,41950022,1#3,41950016,290#3,41950001,108930#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 104,
+    "lotteryType": 205,
+    "rewardShow": "3,41950022,1#3,41950016,290#3,41950001,109599#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 105,
+    "lotteryType": 205,
+    "rewardShow": "3,41950022,1#3,41950016,290#3,41950001,110265#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 106,
+    "lotteryType": 205,
+    "rewardShow": "3,41950022,1#3,41950016,290#3,41950001,110928#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 107,
+    "lotteryType": 205,
+    "rewardShow": "3,41950022,1#3,41950016,290#3,41950001,111594#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 108,
+    "lotteryType": 205,
+    "rewardShow": "3,41950022,1#3,41950016,290#3,41950001,112251#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 109,
+    "lotteryType": 205,
+    "rewardShow": "3,41950022,1#3,41950016,290#3,41950001,112917#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 110,
+    "lotteryType": 206,
+    "openType": "26#",
+    "openTypeCode": "80000425#",
+    "rewardShow": "3,41950022,1#3,41950016,290#3,41950001,113574#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 111,
+    "lotteryType": 206,
+    "rewardShow": "3,41950023,1#3,41950016,290#3,41950001,114234#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 112,
+    "lotteryType": 206,
+    "rewardShow": "3,41950023,1#3,41950016,290#3,41950001,114888#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 113,
+    "lotteryType": 206,
+    "rewardShow": "3,41950023,1#3,41950016,290#3,41950001,115545#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 114,
+    "lotteryType": 206,
+    "rewardShow": "3,41950023,1#3,41950016,290#3,41950001,116328#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 115,
+    "lotteryType": 206,
+    "rewardShow": "3,41950023,1#3,41950016,290#3,41950001,117111#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 116,
+    "lotteryType": 206,
+    "rewardShow": "3,41950023,1#3,41950016,290#3,41950001,117894#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 117,
+    "lotteryType": 206,
+    "rewardShow": "3,41950023,1#3,41950016,290#3,41950001,118671#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 118,
+    "lotteryType": 206,
+    "rewardShow": "3,41950023,1#3,41950016,290#3,41950001,119451#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 119,
+    "lotteryType": 206,
+    "rewardShow": "3,41950023,1#3,41950016,290#3,41950001,120228#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 120,
+    "lotteryType": 206,
+    "rewardShow": "3,41950023,1#3,41950016,290#3,41950001,121005#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 121,
+    "lotteryType": 206,
+    "rewardShow": "3,41950023,1#3,41950016,290#3,41950001,121776#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 122,
+    "lotteryType": 206,
+    "rewardShow": "3,41950023,1#3,41950016,290#3,41950001,122550#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 123,
+    "lotteryType": 206,
+    "rewardShow": "3,41950023,1#3,41950016,290#3,41950001,123321#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 124,
+    "lotteryType": 206,
+    "rewardShow": "3,41950023,1#3,41950016,290#3,41950001,124095#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 125,
+    "lotteryType": 206,
+    "rewardShow": "3,41950023,1#3,41950016,290#3,41950001,124860#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 126,
+    "lotteryType": 206,
+    "rewardShow": "3,41950023,1#3,41950016,290#3,41950001,125628#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 127,
+    "lotteryType": 206,
+    "rewardShow": "3,41950023,1#3,41950016,290#3,41950001,126393#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 128,
+    "lotteryType": 206,
+    "rewardShow": "3,41950023,1#3,41950016,290#3,41950001,127155#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 129,
+    "lotteryType": 206,
+    "rewardShow": "3,41950023,1#3,41950016,290#3,41950001,127923#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 130,
+    "lotteryType": 207,
+    "openHole": 6,
+    "openType": "25#",
+    "openTypeCode": "80000415#",
+    "rewardShow": "3,41950023,1#3,41950016,290#3,41950001,128685#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 131,
+    "lotteryType": 207,
+    "rewardShow": "3,41950024,1#3,41950016,290#3,41950001,129444#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 132,
+    "lotteryType": 207,
+    "rewardShow": "3,41950024,1#3,41950016,290#3,41950001,130206#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 133,
+    "lotteryType": 207,
+    "rewardShow": "3,41950024,1#3,41950016,290#3,41950001,130962#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 134,
+    "lotteryType": 207,
+    "rewardShow": "3,41950024,1#3,41950016,290#3,41950001,131724#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 135,
+    "lotteryType": 207,
+    "rewardShow": "3,41950024,1#3,41950016,290#3,41950001,132480#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 136,
+    "lotteryType": 207,
+    "rewardShow": "3,41950024,1#3,41950016,290#3,41950001,133236#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 137,
+    "lotteryType": 207,
+    "rewardShow": "3,41950024,1#3,41950016,290#3,41950001,133986#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 138,
+    "lotteryType": 207,
+    "rewardShow": "3,41950024,1#3,41950016,290#3,41950001,134742#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 139,
+    "lotteryType": 207,
+    "rewardShow": "3,41950024,1#3,41950016,290#3,41950001,135492#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 140,
+    "lotteryType": 207,
+    "rewardShow": "3,41950024,1#3,41950016,290#3,41950001,136245#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 141,
+    "lotteryType": 207,
+    "rewardShow": "3,41950024,1#3,41950016,290#3,41950001,136995#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 142,
+    "lotteryType": 207,
+    "rewardShow": "3,41950024,1#3,41950016,290#3,41950001,137745#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 143,
+    "lotteryType": 207,
+    "rewardShow": "3,41950024,1#3,41950016,290#3,41950001,138495#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 144,
+    "lotteryType": 207,
+    "rewardShow": "3,41950024,1#3,41950016,290#3,41950001,139242#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 145,
+    "lotteryType": 207,
+    "rewardShow": "3,41950024,1#3,41950016,290#3,41950001,139992#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 146,
+    "lotteryType": 207,
+    "rewardShow": "3,41950024,1#3,41950016,290#3,41950001,140736#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 147,
+    "lotteryType": 207,
+    "rewardShow": "3,41950024,1#3,41950016,290#3,41950001,141483#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 148,
+    "lotteryType": 207,
+    "rewardShow": "3,41950024,1#3,41950016,290#3,41950001,141978#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 149,
+    "lotteryType": 207,
+    "rewardShow": "3,41950024,1#3,41950016,290#3,41950001,142476#",
+    "roleState": 2,
+    "runeExp": 300
+  },
+  {
+    "floor": 150,
+    "lotteryType": 208,
+    "openType": "27#",
+    "openTypeCode": "80000435#",
+    "rewardShow": "3,41950024,1#3,41950016,290#3,41950001,142971#",
+    "roleState": 2,
+    "runeExp": 310
+  },
+  {
+    "floor": 151,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,143463#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 152,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,143961#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 153,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,144453#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 154,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,144948#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 155,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,145440#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 156,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,145938#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 157,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,146427#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 158,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,146919#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 159,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,147417#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 160,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,147909#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 161,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,148398#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 162,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,148890#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 163,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,149382#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 164,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,149874#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 165,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,150366#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 166,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,150852#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 167,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,151341#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 168,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,151833#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 169,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,152319#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 170,
+    "lotteryType": 208,
+    "openHole": 7,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,152811#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 171,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,153297#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 172,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,153789#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 173,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,154275#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 174,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,154767#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 175,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,155253#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 176,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,155739#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 177,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,156225#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 178,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,156714#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 179,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,157200#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 180,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,157686#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 181,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,158172#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 182,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,158658#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 183,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,159144#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 184,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,159627#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 185,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,160113#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 186,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,160599#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 187,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,161085#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 188,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,161565#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 189,
+    "lotteryType": 208,
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,162051#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 190,
+    "lotteryType": 209,
+    "openType": "29#",
+    "openTypeCode": "80000445#",
+    "rewardShow": "3,41950025,1#3,41950016,290#3,41950001,162537#",
+    "roleState": 3,
+    "runeExp": 310
+  },
+  {
+    "floor": 191,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,290#3,41950001,163017#",
+    "roleState": 4,
+    "runeExp": 310
+  },
+  {
+    "floor": 192,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,290#3,41950001,163503#",
+    "roleState": 4,
+    "runeExp": 310
+  },
+  {
+    "floor": 193,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,290#3,41950001,163983#",
+    "roleState": 4,
+    "runeExp": 310
+  },
+  {
+    "floor": 194,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,290#3,41950001,164463#",
+    "roleState": 4,
+    "runeExp": 310
+  },
+  {
+    "floor": 195,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,290#3,41950001,164949#",
+    "roleState": 4,
+    "runeExp": 310
+  },
+  {
+    "floor": 196,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,290#3,41950001,165432#",
+    "roleState": 4,
+    "runeExp": 310
+  },
+  {
+    "floor": 197,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,290#3,41950001,165912#",
+    "roleState": 4,
+    "runeExp": 310
+  },
+  {
+    "floor": 198,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,290#3,41950001,166398#",
+    "roleState": 4,
+    "runeExp": 310
+  },
+  {
+    "floor": 199,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,290#3,41950001,166878#",
+    "roleState": 4,
+    "runeExp": 310
+  },
+  {
+    "floor": 200,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,290#3,41950001,167358#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 201,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,167838#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 202,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,168321#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 203,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,168801#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 204,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,169281#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 205,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,169761#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 206,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,170241#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 207,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,170724#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 208,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,171204#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 209,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,171678#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 210,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,172158#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 211,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,172641#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 212,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,173121#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 213,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,173595#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 214,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,174075#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 215,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,174552#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 216,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,175032#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 217,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,175512#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 218,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,175989#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 219,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,176463#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 220,
+    "lotteryType": 209,
+    "openHole": 8,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,176943#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 221,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,177420#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 222,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,177900#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 223,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,178374#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 224,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,178851#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 225,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,179325#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 226,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,179805#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 227,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,180282#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 228,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,180756#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 229,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,181230#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 230,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,181707#",
+    "roleState": 4,
+    "runeExp": 320
+  },
+  {
+    "floor": 231,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,182181#",
+    "roleState": 5,
+    "runeExp": 320
+  },
+  {
+    "floor": 232,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,182658#",
+    "roleState": 5,
+    "runeExp": 320
+  },
+  {
+    "floor": 233,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,183132#",
+    "roleState": 5,
+    "runeExp": 320
+  },
+  {
+    "floor": 234,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,183606#",
+    "roleState": 5,
+    "runeExp": 320
+  },
+  {
+    "floor": 235,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,184083#",
+    "roleState": 5,
+    "runeExp": 320
+  },
+  {
+    "floor": 236,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,184557#",
+    "roleState": 5,
+    "runeExp": 320
+  },
+  {
+    "floor": 237,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,185034#",
+    "roleState": 5,
+    "runeExp": 320
+  },
+  {
+    "floor": 238,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,185502#",
+    "roleState": 5,
+    "runeExp": 320
+  },
+  {
+    "floor": 239,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,185979#",
+    "roleState": 5,
+    "runeExp": 320
+  },
+  {
+    "floor": 240,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,186453#",
+    "roleState": 5,
+    "runeExp": 320
+  },
+  {
+    "floor": 241,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,186927#",
+    "roleState": 5,
+    "runeExp": 320
+  },
+  {
+    "floor": 242,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,187398#",
+    "roleState": 5,
+    "runeExp": 320
+  },
+  {
+    "floor": 243,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,187872#",
+    "roleState": 5,
+    "runeExp": 320
+  },
+  {
+    "floor": 244,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,188349#",
+    "roleState": 5,
+    "runeExp": 320
+  },
+  {
+    "floor": 245,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,188817#",
+    "roleState": 5,
+    "runeExp": 320
+  },
+  {
+    "floor": 246,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,189294#",
+    "roleState": 5,
+    "runeExp": 320
+  },
+  {
+    "floor": 247,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,189768#",
+    "roleState": 5,
+    "runeExp": 320
+  },
+  {
+    "floor": 248,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,190239#",
+    "roleState": 5,
+    "runeExp": 320
+  },
+  {
+    "floor": 249,
+    "lotteryType": 209,
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,190713#",
+    "roleState": 5,
+    "runeExp": 320
+  },
+  {
+    "floor": 250,
+    "lotteryType": 210,
+    "openType": "31#",
+    "openTypeCode": "80000455#",
+    "rewardShow": "3,41950026,1#3,41950016,300#3,41950001,191184#",
+    "roleState": 5,
+    "runeExp": 330
+  },
+  {
+    "floor": 251,
+    "lotteryType": 210,
+    "rewardShow": "3,41950027,1#3,41950016,300#3,41950001,191541#",
+    "roleState": 5,
+    "runeExp": 330
+  },
+  {
+    "floor": 252,
+    "lotteryType": 210,
+    "rewardShow": "3,41950027,1#3,41950016,300#3,41950001,191892#",
+    "roleState": 5,
+    "runeExp": 330
+  },
+  {
+    "floor": 253,
+    "lotteryType": 210,
+    "rewardShow": "3,41950027,1#3,41950016,300#3,41950001,192246#",
+    "roleState": 5,
+    "runeExp": 330
+  },
+  {
+    "floor": 254,
+    "lotteryType": 210,
+    "rewardShow": "3,41950027,1#3,41950016,300#3,41950001,192597#",
+    "roleState": 5,
+    "runeExp": 330
+  },
+  {
+    "floor": 255,
+    "lotteryType": 210,
+    "rewardShow": "3,41950027,1#3,41950016,300#3,41950001,192954#",
+    "roleState": 5,
+    "runeExp": 330
+  },
+  {
+    "floor": 256,
+    "lotteryType": 210,
+    "rewardShow": "3,41950027,1#3,41950016,300#3,41950001,193305#",
+    "roleState": 5,
+    "runeExp": 330
+  },
+  {
+    "floor": 257,
+    "lotteryType": 210,
+    "rewardShow": "3,41950027,1#3,41950016,300#3,41950001,193662#",
+    "roleState": 5,
+    "runeExp": 330
+  },
+  {
+    "floor": 258,
+    "lotteryType": 210,
+    "rewardShow": "3,41950027,1#3,41950016,300#3,41950001,194013#",
+    "roleState": 5,
+    "runeExp": 330
+  },
+  {
+    "floor": 259,
+    "lotteryType": 210,
+    "rewardShow": "3,41950027,1#3,41950016,300#3,41950001,194370#",
+    "roleState": 5,
+    "runeExp": 330
+  },
+  {
+    "floor": 260,
+    "lotteryType": 210,
+    "rewardShow": "3,41950027,1#3,41950016,300#3,41950001,194721#",
+    "roleState": 5,
+    "runeExp": 330
+  },
+  {
+    "floor": 261,
+    "lotteryType": 210,
+    "rewardShow": "3,41950027,1#3,41950016,300#3,41950001,195078#",
+    "roleState": 5,
+    "runeExp": 330
+  },
+  {
+    "floor": 262,
+    "lotteryType": 210,
+    "rewardShow": "3,41950027,1#3,41950016,300#3,41950001,195429#",
+    "roleState": 5,
+    "runeExp": 330
+  },
+  {
+    "floor": 263,
+    "lotteryType": 210,
+    "rewardShow": "3,41950027,1#3,41950016,300#3,41950001,195783#",
+    "roleState": 5,
+    "runeExp": 330
+  },
+  {
+    "floor": 264,
+    "lotteryType": 210,
+    "rewardShow": "3,41950027,1#3,41950016,300#3,41950001,196134#",
+    "roleState": 5,
+    "runeExp": 330
+  },
+  {
+    "floor": 265,
+    "lotteryType": 210,
+    "rewardShow": "3,41950027,1#3,41950016,300#3,41950001,196485#",
+    "roleState": 5,
+    "runeExp": 330
+  },
+  {
+    "floor": 266,
+    "lotteryType": 210,
+    "rewardShow": "3,41950027,1#3,41950016,300#3,41950001,196842#",
+    "roleState": 5,
+    "runeExp": 330
+  },
+  {
+    "floor": 267,
+    "lotteryType": 210,
+    "rewardShow": "3,41950027,1#3,41950016,300#3,41950001,197193#",
+    "roleState": 5,
+    "runeExp": 330
+  },
+  {
+    "floor": 268,
+    "lotteryType": 210,
+    "rewardShow": "3,41950027,1#3,41950016,300#3,41950001,197544#",
+    "roleState": 5,
+    "runeExp": 330
+  },
+  {
+    "floor": 269,
+    "lotteryType": 210,
+    "rewardShow": "3,41950027,1#3,41950016,300#3,41950001,197901#",
+    "roleState": 5,
+    "runeExp": 330
+  },
+  {
+    "floor": 270,
+    "lotteryType": 211,
+    "openType": "37#",
+    "openTypeCode": "80000465#",
+    "rewardShow": "3,41950027,1#3,41950016,300#3,41950001,198252#",
+    "roleState": 5,
+    "runeExp": 330
+  },
+  {
+    "floor": 271,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,198603#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 272,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,198960#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 273,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,199311#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 274,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,199662#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 275,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,200013#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 276,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,200370#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 277,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,200721#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 278,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,201072#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 279,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,201423#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 280,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,201777#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 281,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,202128#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 282,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,202479#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 283,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,202830#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 284,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,203181#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 285,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,203532#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 286,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,203883#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 287,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,204234#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 288,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,204585#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 289,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,204942#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 290,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,205293#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 291,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,205644#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 292,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,205995#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 293,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,206346#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 294,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,206697#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 295,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,207048#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 296,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,207399#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 297,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,207750#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 298,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,208101#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 299,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,208452#",
+    "roleState": 6,
+    "runeExp": 330
+  },
+  {
+    "floor": 300,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,300#3,41950001,208797#",
+    "roleState": 6,
+    "runeExp": 340
+  },
+  {
+    "floor": 301,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,310#3,41950001,209148#",
+    "roleState": 6,
+    "runeExp": 340
+  },
+  {
+    "floor": 302,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,310#3,41950001,209499#",
+    "roleState": 6,
+    "runeExp": 340
+  },
+  {
+    "floor": 303,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,310#3,41950001,209850#",
+    "roleState": 6,
+    "runeExp": 340
+  },
+  {
+    "floor": 304,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,310#3,41950001,210201#",
+    "roleState": 6,
+    "runeExp": 340
+  },
+  {
+    "floor": 305,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,310#3,41950001,210552#",
+    "roleState": 6,
+    "runeExp": 340
+  },
+  {
+    "floor": 306,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,310#3,41950001,210903#",
+    "roleState": 6,
+    "runeExp": 340
+  },
+  {
+    "floor": 307,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,310#3,41950001,211254#",
+    "roleState": 6,
+    "runeExp": 340
+  },
+  {
+    "floor": 308,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,310#3,41950001,211605#",
+    "roleState": 6,
+    "runeExp": 340
+  },
+  {
+    "floor": 309,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,310#3,41950001,211953#",
+    "roleState": 6,
+    "runeExp": 340
+  },
+  {
+    "floor": 310,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,310#3,41950001,212304#",
+    "roleState": 6,
+    "runeExp": 340
+  },
+  {
+    "floor": 311,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,310#3,41950001,212655#",
+    "roleState": 6,
+    "runeExp": 340
+  },
+  {
+    "floor": 312,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,310#3,41950001,213006#",
+    "roleState": 6,
+    "runeExp": 340
+  },
+  {
+    "floor": 313,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,310#3,41950001,213357#",
+    "roleState": 6,
+    "runeExp": 340
+  },
+  {
+    "floor": 314,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,310#3,41950001,213702#",
+    "roleState": 6,
+    "runeExp": 340
+  },
+  {
+    "floor": 315,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,310#3,41950001,214053#",
+    "roleState": 6,
+    "runeExp": 340
+  },
+  {
+    "floor": 316,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,310#3,41950001,214404#",
+    "roleState": 6,
+    "runeExp": 340
+  },
+  {
+    "floor": 317,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,310#3,41950001,214755#",
+    "roleState": 6,
+    "runeExp": 340
+  },
+  {
+    "floor": 318,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,310#3,41950001,215100#",
+    "roleState": 6,
+    "runeExp": 340
+  },
+  {
+    "floor": 319,
+    "lotteryType": 211,
+    "rewardShow": "3,41950028,1#3,41950016,310#3,41950001,215451#",
+    "roleState": 6,
+    "runeExp": 340
+  },
+  {
+    "floor": 320,
+    "lotteryType": 212,
+    "openType": "38#",
+    "openTypeCode": "80000475#",
+    "rewardShow": "3,41950028,1#3,41950016,310#3,41950001,215802#",
+    "roleState": 6,
+    "runeExp": 340
+  },
+  {
+    "floor": 321,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,216147#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 322,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,216498#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 323,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,216849#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 324,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,217194#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 325,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,217545#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 326,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,217896#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 327,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,218244#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 328,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,218595#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 329,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,218946#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 330,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,219291#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 331,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,219642#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 332,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,219987#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 333,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,220338#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 334,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,220689#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 335,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,221034#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 336,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,221385#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 337,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,221730#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 338,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,222081#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 339,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,222429#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 340,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,222780#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 341,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,223125#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 342,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,223476#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 343,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,223821#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 344,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,224172#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 345,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,224517#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 346,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,224862#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 347,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,225213#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 348,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,225561#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 349,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,225912#",
+    "roleState": 7,
+    "runeExp": 340
+  },
+  {
+    "floor": 350,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,226257#",
+    "roleState": 7,
+    "runeExp": 350
+  },
+  {
+    "floor": 351,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,226608#",
+    "roleState": 7,
+    "runeExp": 350
+  },
+  {
+    "floor": 352,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,226953#",
+    "roleState": 7,
+    "runeExp": 350
+  },
+  {
+    "floor": 353,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,227298#",
+    "roleState": 7,
+    "runeExp": 350
+  },
+  {
+    "floor": 354,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,227649#",
+    "roleState": 7,
+    "runeExp": 350
+  },
+  {
+    "floor": 355,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,227994#",
+    "roleState": 7,
+    "runeExp": 350
+  },
+  {
+    "floor": 356,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,228342#",
+    "roleState": 7,
+    "runeExp": 350
+  },
+  {
+    "floor": 357,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,228693#",
+    "roleState": 7,
+    "runeExp": 350
+  },
+  {
+    "floor": 358,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,229038#",
+    "roleState": 7,
+    "runeExp": 350
+  },
+  {
+    "floor": 359,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,229383#",
+    "roleState": 7,
+    "runeExp": 350
+  },
+  {
+    "floor": 360,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,229734#",
+    "roleState": 7,
+    "runeExp": 350
+  },
+  {
+    "floor": 361,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,230079#",
+    "roleState": 7,
+    "runeExp": 350
+  },
+  {
+    "floor": 362,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,230424#",
+    "roleState": 7,
+    "runeExp": 350
+  },
+  {
+    "floor": 363,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,230775#",
+    "roleState": 7,
+    "runeExp": 350
+  },
+  {
+    "floor": 364,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,231123#",
+    "roleState": 7,
+    "runeExp": 350
+  },
+  {
+    "floor": 365,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,231468#",
+    "roleState": 7,
+    "runeExp": 350
+  },
+  {
+    "floor": 366,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,231813#",
+    "roleState": 7,
+    "runeExp": 350
+  },
+  {
+    "floor": 367,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,232164#",
+    "roleState": 7,
+    "runeExp": 350
+  },
+  {
+    "floor": 368,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,232509#",
+    "roleState": 7,
+    "runeExp": 350
+  },
+  {
+    "floor": 369,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,232854#",
+    "roleState": 7,
+    "runeExp": 350
+  },
+  {
+    "floor": 370,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,233202#",
+    "roleState": 7,
+    "runeExp": 350
+  },
+  {
+    "floor": 371,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,233547#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 372,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,233898#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 373,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,234243#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 374,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,234588#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 375,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,234933#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 376,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,235281#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 377,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,235632#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 378,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,235977#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 379,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,236322#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 380,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,236667#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 381,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,237012#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 382,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,237360#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 383,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,237705#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 384,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,238170#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 385,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,238629#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 386,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,239091#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 387,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,239550#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 388,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,240015#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 389,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,240474#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 390,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,240933#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 391,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,241398#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 392,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,241857#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 393,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,242316#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 394,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,242781#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 395,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,243240#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 396,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,243699#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 397,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,244164#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 398,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,244623#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 399,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,245082#",
+    "roleState": 8,
+    "runeExp": 350
+  },
+  {
+    "floor": 400,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,310#3,41950001,245541#",
+    "roleState": 8,
+    "runeExp": 360
+  },
+  {
+    "floor": 401,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,246003#",
+    "roleState": 8,
+    "runeExp": 360
+  },
+  {
+    "floor": 402,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,246462#",
+    "roleState": 8,
+    "runeExp": 360
+  },
+  {
+    "floor": 403,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,246921#",
+    "roleState": 8,
+    "runeExp": 360
+  },
+  {
+    "floor": 404,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,247380#",
+    "roleState": 8,
+    "runeExp": 360
+  },
+  {
+    "floor": 405,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,247839#",
+    "roleState": 8,
+    "runeExp": 360
+  },
+  {
+    "floor": 406,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,248304#",
+    "roleState": 8,
+    "runeExp": 360
+  },
+  {
+    "floor": 407,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,248763#",
+    "roleState": 8,
+    "runeExp": 360
+  },
+  {
+    "floor": 408,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,249222#",
+    "roleState": 8,
+    "runeExp": 360
+  },
+  {
+    "floor": 409,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,249681#",
+    "roleState": 8,
+    "runeExp": 360
+  },
+  {
+    "floor": 410,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,250140#",
+    "roleState": 8,
+    "runeExp": 360
+  },
+  {
+    "floor": 411,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,250599#",
+    "roleState": 8,
+    "runeExp": 360
+  },
+  {
+    "floor": 412,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,251058#",
+    "roleState": 8,
+    "runeExp": 360
+  },
+  {
+    "floor": 413,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,251517#",
+    "roleState": 8,
+    "runeExp": 360
+  },
+  {
+    "floor": 414,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,251976#",
+    "roleState": 8,
+    "runeExp": 360
+  },
+  {
+    "floor": 415,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,252441#",
+    "roleState": 8,
+    "runeExp": 360
+  },
+  {
+    "floor": 416,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,252900#",
+    "roleState": 8,
+    "runeExp": 360
+  },
+  {
+    "floor": 417,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,253359#",
+    "roleState": 8,
+    "runeExp": 360
+  },
+  {
+    "floor": 418,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,253818#",
+    "roleState": 8,
+    "runeExp": 360
+  },
+  {
+    "floor": 419,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,254277#",
+    "roleState": 8,
+    "runeExp": 360
+  },
+  {
+    "floor": 420,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,254736#",
+    "roleState": 8,
+    "runeExp": 360
+  },
+  {
+    "floor": 421,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,255195#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 422,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,255654#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 423,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,256107#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 424,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,256566#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 425,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,257025#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 426,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,257484#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 427,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,257943#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 428,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,258402#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 429,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,258861#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 430,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,259320#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 431,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,259779#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 432,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,260238#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 433,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,260691#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 434,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,261150#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 435,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,261609#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 436,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,262068#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 437,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,262527#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 438,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,262983#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 439,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,263442#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 440,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,263901#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 441,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,264360#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 442,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,264813#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 443,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,265272#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 444,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,265731#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 445,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,266190#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 446,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,266643#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 447,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,267102#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 448,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,267561#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 449,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,268014#",
+    "roleState": 9,
+    "runeExp": 360
+  },
+  {
+    "floor": 450,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,268473#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 451,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,268932#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 452,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,269385#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 453,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,269844#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 454,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,270300#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 455,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,270759#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 456,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,271218#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 457,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,271671#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 458,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,272130#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 459,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,272583#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 460,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,273042#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 461,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,273495#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 462,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,273954#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 463,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,274407#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 464,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,274866#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 465,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,275322#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 466,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,275781#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 467,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,276234#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 468,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,276693#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 469,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,277146#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 470,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,277605#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 471,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,278058#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 472,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,278517#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 473,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,278970#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 474,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,279426#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 475,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,279885#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 476,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,280338#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 477,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,280797#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 478,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,281250#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 479,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,281703#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 480,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,282162#",
+    "roleState": 9,
+    "runeExp": 370
+  },
+  {
+    "floor": 481,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,282615#",
+    "roleState": 10,
+    "runeExp": 370
+  },
+  {
+    "floor": 482,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,283071#",
+    "roleState": 10,
+    "runeExp": 370
+  },
+  {
+    "floor": 483,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,283530#",
+    "roleState": 10,
+    "runeExp": 370
+  },
+  {
+    "floor": 484,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,283983#",
+    "roleState": 10,
+    "runeExp": 370
+  },
+  {
+    "floor": 485,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,284436#",
+    "roleState": 10,
+    "runeExp": 370
+  },
+  {
+    "floor": 486,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,284895#",
+    "roleState": 10,
+    "runeExp": 370
+  },
+  {
+    "floor": 487,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,285348#",
+    "roleState": 10,
+    "runeExp": 370
+  },
+  {
+    "floor": 488,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,285801#",
+    "roleState": 10,
+    "runeExp": 370
+  },
+  {
+    "floor": 489,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,286257#",
+    "roleState": 10,
+    "runeExp": 370
+  },
+  {
+    "floor": 490,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,286716#",
+    "roleState": 10,
+    "runeExp": 370
+  },
+  {
+    "floor": 491,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,287169#",
+    "roleState": 10,
+    "runeExp": 370
+  },
+  {
+    "floor": 492,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,287622#",
+    "roleState": 10,
+    "runeExp": 370
+  },
+  {
+    "floor": 493,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,288075#",
+    "roleState": 10,
+    "runeExp": 370
+  },
+  {
+    "floor": 494,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,288534#",
+    "roleState": 10,
+    "runeExp": 370
+  },
+  {
+    "floor": 495,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,288987#",
+    "roleState": 10,
+    "runeExp": 370
+  },
+  {
+    "floor": 496,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,289443#",
+    "roleState": 10,
+    "runeExp": 370
+  },
+  {
+    "floor": 497,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,289896#",
+    "roleState": 10,
+    "runeExp": 370
+  },
+  {
+    "floor": 498,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,290355#",
+    "roleState": 10,
+    "runeExp": 370
+  },
+  {
+    "floor": 499,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,290808#",
+    "roleState": 10,
+    "runeExp": 370
+  },
+  {
+    "floor": 500,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,320#3,41950001,291261#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 501,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,291714#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 502,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,292170#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 503,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,292623#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 504,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,293082#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 505,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,293535#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 506,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,293988#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 507,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,294441#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 508,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,294897#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 509,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,295350#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 510,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,295803#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 511,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,296256#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 512,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,296709#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 513,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,297165#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 514,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,297618#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 515,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,298077#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 516,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,298530#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 517,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,298983#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 518,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,299436#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 519,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,299892#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 520,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,300345#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 521,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,300798#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 522,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,301251#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 523,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,301704#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 524,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,302160#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 525,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,302613#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 526,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,303066#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 527,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,303519#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 528,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,303972#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 529,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,304422#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 530,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,304875#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 531,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,305328#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 532,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,305781#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 533,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,306237#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 534,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,306690#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 535,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,307143#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 536,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,307596#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 537,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,308049#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 538,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,308505#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 539,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,308952#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 540,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,309405#",
+    "roleState": 10,
+    "runeExp": 380
+  },
+  {
+    "floor": 541,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,309858#",
+    "roleState": 11,
+    "runeExp": 380
+  },
+  {
+    "floor": 542,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,310314#",
+    "roleState": 11,
+    "runeExp": 380
+  },
+  {
+    "floor": 543,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,310767#",
+    "roleState": 11,
+    "runeExp": 380
+  },
+  {
+    "floor": 544,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,311220#",
+    "roleState": 11,
+    "runeExp": 380
+  },
+  {
+    "floor": 545,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,311673#",
+    "roleState": 11,
+    "runeExp": 380
+  },
+  {
+    "floor": 546,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,312123#",
+    "roleState": 11,
+    "runeExp": 380
+  },
+  {
+    "floor": 547,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,312576#",
+    "roleState": 11,
+    "runeExp": 380
+  },
+  {
+    "floor": 548,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,313029#",
+    "roleState": 11,
+    "runeExp": 380
+  },
+  {
+    "floor": 549,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,313482#",
+    "roleState": 11,
+    "runeExp": 380
+  },
+  {
+    "floor": 550,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,313935#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 551,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,314385#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 552,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,314838#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 553,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,315291#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 554,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,315744#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 555,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,316194#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 556,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,316647#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 557,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,317100#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 558,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,317553#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 559,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,318003#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 560,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,318456#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 561,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,318909#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 562,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,319362#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 563,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,319812#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 564,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,320265#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 565,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,320718#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 566,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,321168#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 567,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,321621#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 568,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,322074#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 569,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,322521#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 570,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,322977#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 571,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,323430#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 572,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,323877#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 573,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,324330#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 574,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,324780#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 575,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,325233#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 576,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,325686#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 577,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,326136#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 578,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,326589#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 579,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,327042#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 580,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,327489#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 581,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,327945#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 582,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,328392#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 583,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,328845#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 584,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,329295#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 585,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,329748#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 586,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,330201#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 587,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,330648#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 588,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,331104#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 589,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,331551#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 590,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,332004#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 591,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,332454#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 592,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,332907#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 593,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,333354#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 594,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,333807#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 595,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,334257#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 596,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,334710#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 597,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,335157#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 598,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,335613#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 599,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,336060#",
+    "roleState": 11,
+    "runeExp": 390
+  },
+  {
+    "floor": 600,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,330#3,41950001,378192#",
+    "roleState": 11,
+    "runeExp": 400
+  },
+  {
+    "floor": 601,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,380658#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 602,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,383121#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 603,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,385584#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 604,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,388047#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 605,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,390507#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 606,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,392970#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 607,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,395433#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 608,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,397890#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 609,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,400353#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 610,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,402810#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 611,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,405267#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 612,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,407055#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 613,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,408840#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 614,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,410628#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 615,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,412416#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 616,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,414198#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 617,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,415986#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 618,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,417774#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 619,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,419556#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 620,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,421341#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 621,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,423123#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 622,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,424911#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 623,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,426693#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 624,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,428475#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 625,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,430263#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 626,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,432045#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 627,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,433827#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 628,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,435609#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 629,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,437391#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 630,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,439173#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 631,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,440955#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 632,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,442737#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 633,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,444519#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 634,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,446301#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 635,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,448083#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 636,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,449859#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 637,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,451641#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 638,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,453423#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 639,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,455199#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 640,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,456981#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 641,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,458760#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 642,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,460542#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 643,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,462318#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 644,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,464100#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 645,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,465876#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 646,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,467652#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 647,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,469428#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 648,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,471210#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 649,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,472989#",
+    "roleState": 12,
+    "runeExp": 400
+  },
+  {
+    "floor": 650,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,474765#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 651,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,476541#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 652,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,478317#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 653,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,480093#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 654,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,481872#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 655,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,483648#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 656,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,485424#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 657,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,487200#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 658,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,488976#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 659,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,490749#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 660,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,492525#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 661,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,494301#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 662,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,496074#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 663,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,497850#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 664,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,499626#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 665,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,501396#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 666,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,503175#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 667,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,504945#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 668,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,506721#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 669,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,508494#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 670,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,510264#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 671,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,512040#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 672,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,513813#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 673,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,515583#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 674,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,517359#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 675,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,519132#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 676,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,520902#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 677,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,522672#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 678,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,524445#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 679,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,526215#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 680,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,527988#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 681,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,529758#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 682,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,531528#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 683,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,533301#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 684,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,535071#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 685,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,536844#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 686,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,538614#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 687,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,540384#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 688,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,542157#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 689,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,543921#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 690,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,545694#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 691,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,547464#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 692,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,549237#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 693,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,551001#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 694,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,552774#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 695,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,554538#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 696,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,556311#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 697,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,558081#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 698,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,559848#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 699,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,561618#",
+    "roleState": 12,
+    "runeExp": 410
+  },
+  {
+    "floor": 700,
+    "lotteryType": 212,
+    "rewardShow": "3,41950029,1#3,41950016,340#3,41950001,563385#",
+    "roleState": 13,
+    "runeExp": 420
+  }
+]

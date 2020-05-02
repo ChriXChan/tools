@@ -1,0 +1,24 @@
+
+[
+	
+	{
+		"code" : 1,
+		"duration" : 129600,
+		"slogon" : "1",
+		"suitLevel" : 1
+	},
+	
+	{
+		"code" : 2,
+		"duration" : 345600,
+		"slogon" : "2",
+		"suitLevel" : 2
+	},
+	
+	{
+		"code" : 3,
+		"duration" : 691200,
+		"slogon" : "3",
+		"suitLevel" : 3
+	}
+]

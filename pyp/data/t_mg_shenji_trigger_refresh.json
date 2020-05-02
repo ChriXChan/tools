@@ -1,0 +1,61 @@
+
+[
+	
+	{
+		"id" : 1,
+		"refreshBossCode" : 24080402,
+		"refreshBossNum" : 2,
+		"refreshPlan" : 51,
+		"triggerBossList" : "24080401",
+		"triggerBossNum" : 5,
+		"triggerType" : 3
+	},
+	
+	{
+		"id" : 2,
+		"refreshBossCode" : 24080402,
+		"refreshBossNum" : 3,
+		"refreshPlan" : 51,
+		"triggerBossList" : "24080401",
+		"triggerBossNum" : 10,
+		"triggerType" : 3
+	},
+	
+	{
+		"id" : 3,
+		"refreshBossCode" : 24080402,
+		"refreshBossNum" : 2,
+		"refreshPlan" : 51,
+		"triggerBossList" : "24080401",
+		"triggerBossNum" : 15,
+		"triggerType" : 3
+	},
+	
+	{
+		"id" : 4,
+		"refreshBossCode" : 24080402,
+		"refreshBossNum" : 3,
+		"refreshPlan" : 51,
+		"triggerBossList" : "24080401",
+		"triggerBossNum" : 20,
+		"triggerType" : 3
+	},
+	
+	{
+		"id" : 5,
+		"refreshBossCode" : 24080301,
+		"refreshBossNum" : 4,
+		"refreshPlan" : 52,
+		"triggerBossList" : "24080201#24080202#24080203#24080204",
+		"triggerType" : 1
+	},
+	
+	{
+		"id" : 6,
+		"refreshBossCode" : 24080303,
+		"refreshBossNum" : 4,
+		"refreshPlan" : 52,
+		"triggerBossList" : "24080205#24080206#24080207#24080208",
+		"triggerType" : 1
+	}
+]

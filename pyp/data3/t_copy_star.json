@@ -1,0 +1,587 @@
+
+[
+	
+	{
+		"copyCode" : 1007,
+		"oneStarDropList" : "212301003",
+		"oneStarTime" : 260,
+		"threeStarDropList" : "212301005",
+		"threeStarTime" : 180,
+		"twoStarDropList" : "212301004",
+		"twoStarTime" : 220,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 300
+	},
+	
+	{
+		"copyCode" : 1008,
+		"oneStarDropList" : "208101001",
+		"oneStarTime" : 210,
+		"threeStarDropList" : "208101003",
+		"threeStarTime" : 150,
+		"twoStarDropList" : "208101002",
+		"twoStarTime" : 180,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 390
+	},
+	
+	{
+		"copyCode" : 1009,
+		"oneStarTime" : 600,
+		"threeStarDropList" : "206901000",
+		"threeStarTime" : 300,
+		"twoStarTime" : 540,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 900
+	},
+	
+	{
+		"copyCode" : 1110,
+		"oneStarDropList" : "0",
+		"oneStarTime" : 780,
+		"threeStarDropList" : "0",
+		"threeStarTime" : 540,
+		"twoStarDropList" : "0",
+		"twoStarTime" : 660,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 900
+	},
+	
+	{
+		"copyCode" : 2801,
+		"oneStarDropList" : "240803046",
+		"oneStarTime" : 600,
+		"threeStarDropList" : "240803046",
+		"threeStarTime" : 600,
+		"twoStarDropList" : "240803046",
+		"twoStarTime" : 600,
+		"zeroStarDropList" : "240803046",
+		"zeroStarTime" : 300
+	},
+	
+	{
+		"copyCode" : 3701,
+		"oneStarDropList" : "240803033",
+		"oneStarTime" : 180,
+		"threeStarDropList" : "240803033",
+		"threeStarTime" : 60,
+		"twoStarDropList" : "240803033",
+		"twoStarTime" : 120,
+		"zeroStarDropList" : "240803033",
+		"zeroStarTime" : 300
+	},
+	
+	{
+		"copyCode" : 4701,
+		"oneStarDropList" : "240803034",
+		"oneStarTime" : 180,
+		"threeStarDropList" : "240803034",
+		"threeStarTime" : 60,
+		"twoStarDropList" : "240803034",
+		"twoStarTime" : 120,
+		"zeroStarDropList" : "240803034",
+		"zeroStarTime" : 300
+	},
+	
+	{
+		"copyCode" : 5401,
+		"oneStarDropList" : "601540103#601540203#601540303",
+		"oneStarTime" : 480,
+		"threeStarDropList" : "601540101#601540201#601540301#505201903",
+		"threeStarTime" : 300,
+		"twoStarDropList" : "601540102#601540202#601540302",
+		"twoStarTime" : 390,
+		"zeroStarDropList" : "601540104#601540204#601540304",
+		"zeroStarTime" : 1800
+	},
+	
+	{
+		"copyCode" : 6701,
+		"oneStarDropList" : "240803035",
+		"oneStarTime" : 180,
+		"threeStarDropList" : "240803035",
+		"threeStarTime" : 60,
+		"twoStarDropList" : "240803035",
+		"twoStarTime" : 120,
+		"zeroStarDropList" : "240803035",
+		"zeroStarTime" : 300
+	},
+	
+	{
+		"copyCode" : 7001,
+		"oneStarDropList" : "0",
+		"oneStarTime" : 260,
+		"threeStarDropList" : "0",
+		"threeStarTime" : 180,
+		"twoStarDropList" : "0",
+		"twoStarTime" : 220,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 300
+	},
+	
+	{
+		"copyCode" : 7003,
+		"oneStarDropList" : "0",
+		"oneStarTime" : 260,
+		"threeStarDropList" : "0",
+		"threeStarTime" : 180,
+		"twoStarDropList" : "0",
+		"twoStarTime" : 220,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 300
+	},
+	
+	{
+		"copyCode" : 7007,
+		"oneStarDropList" : "0",
+		"oneStarTime" : 260,
+		"threeStarDropList" : "0",
+		"threeStarTime" : 180,
+		"twoStarDropList" : "0",
+		"twoStarTime" : 220,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 300
+	},
+	
+	{
+		"copyCode" : 7008,
+		"oneStarDropList" : "0",
+		"oneStarTime" : 260,
+		"threeStarDropList" : "0",
+		"threeStarTime" : 180,
+		"twoStarDropList" : "0",
+		"twoStarTime" : 220,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 300
+	},
+	
+	{
+		"copyCode" : 8901,
+		"oneStarDropList" : "20400103",
+		"oneStarTime" : 180,
+		"threeStarDropList" : "20400101",
+		"threeStarTime" : 60,
+		"twoStarDropList" : "20400102",
+		"twoStarTime" : 120,
+		"zeroStarDropList" : "20400104",
+		"zeroStarTime" : 300
+	},
+	
+	{
+		"copyCode" : 8902,
+		"oneStarDropList" : "20400103",
+		"oneStarTime" : 180,
+		"threeStarDropList" : "20400101",
+		"threeStarTime" : 60,
+		"twoStarDropList" : "20400102",
+		"twoStarTime" : 120,
+		"zeroStarDropList" : "20400104",
+		"zeroStarTime" : 300
+	},
+	
+	{
+		"copyCode" : 8903,
+		"oneStarDropList" : "20400103",
+		"oneStarTime" : 180,
+		"threeStarDropList" : "20400101",
+		"threeStarTime" : 60,
+		"twoStarDropList" : "20400102",
+		"twoStarTime" : 120,
+		"zeroStarDropList" : "20400104",
+		"zeroStarTime" : 300
+	},
+	
+	{
+		"copyCode" : 8904,
+		"oneStarDropList" : "20400103",
+		"oneStarTime" : 180,
+		"threeStarDropList" : "20400101",
+		"threeStarTime" : 60,
+		"twoStarDropList" : "20400102",
+		"twoStarTime" : 120,
+		"zeroStarDropList" : "20400104",
+		"zeroStarTime" : 300
+	},
+	
+	{
+		"copyCode" : 8905,
+		"oneStarDropList" : "20400103",
+		"oneStarTime" : 180,
+		"threeStarDropList" : "20400101",
+		"threeStarTime" : 60,
+		"twoStarDropList" : "20400102",
+		"twoStarTime" : 120,
+		"zeroStarDropList" : "20400104",
+		"zeroStarTime" : 300
+	},
+	
+	{
+		"copyCode" : 8906,
+		"oneStarDropList" : "20400103",
+		"oneStarTime" : 180,
+		"threeStarDropList" : "20400101",
+		"threeStarTime" : 60,
+		"twoStarDropList" : "20400102",
+		"twoStarTime" : 120,
+		"zeroStarDropList" : "20400104",
+		"zeroStarTime" : 300
+	},
+	
+	{
+		"copyCode" : 11007,
+		"oneStarDropList" : "212302003",
+		"oneStarTime" : 260,
+		"threeStarDropList" : "212302005",
+		"threeStarTime" : 180,
+		"twoStarDropList" : "212302004",
+		"twoStarTime" : 220,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 300
+	},
+	
+	{
+		"copyCode" : 11008,
+		"oneStarDropList" : "208102001",
+		"oneStarTime" : 210,
+		"threeStarDropList" : "208102003",
+		"threeStarTime" : 150,
+		"twoStarDropList" : "208102002",
+		"twoStarTime" : 180,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 390
+	},
+	
+	{
+		"copyCode" : 11009,
+		"oneStarTime" : 600,
+		"threeStarDropList" : "206901000",
+		"threeStarTime" : 360,
+		"twoStarTime" : 540,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 900
+	},
+	
+	{
+		"copyCode" : 11110,
+		"oneStarDropList" : "0",
+		"oneStarTime" : 780,
+		"threeStarDropList" : "0",
+		"threeStarTime" : 540,
+		"twoStarDropList" : "0",
+		"twoStarTime" : 660,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 900
+	},
+	
+	{
+		"copyCode" : 12801,
+		"oneStarDropList" : "240803047",
+		"oneStarTime" : 600,
+		"threeStarDropList" : "240803047",
+		"threeStarTime" : 600,
+		"twoStarDropList" : "240803047",
+		"twoStarTime" : 600,
+		"zeroStarDropList" : "240803047",
+		"zeroStarTime" : 300
+	},
+	
+	{
+		"copyCode" : 21007,
+		"oneStarDropList" : "212303003",
+		"oneStarTime" : 260,
+		"threeStarDropList" : "212303005",
+		"threeStarTime" : 180,
+		"twoStarDropList" : "212303004",
+		"twoStarTime" : 220,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 300
+	},
+	
+	{
+		"copyCode" : 21008,
+		"oneStarDropList" : "208103001",
+		"oneStarTime" : 210,
+		"threeStarDropList" : "208103003",
+		"threeStarTime" : 150,
+		"twoStarDropList" : "208103002",
+		"twoStarTime" : 180,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 390
+	},
+	
+	{
+		"copyCode" : 21009,
+		"oneStarTime" : 600,
+		"threeStarDropList" : "206901000",
+		"threeStarTime" : 480,
+		"twoStarTime" : 540,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 900
+	},
+	
+	{
+		"copyCode" : 21110,
+		"oneStarDropList" : "0",
+		"oneStarTime" : 780,
+		"threeStarDropList" : "0",
+		"threeStarTime" : 540,
+		"twoStarDropList" : "0",
+		"twoStarTime" : 660,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 900
+	},
+	
+	{
+		"copyCode" : 22801,
+		"oneStarDropList" : "240803048",
+		"oneStarTime" : 600,
+		"threeStarDropList" : "240803048",
+		"threeStarTime" : 600,
+		"twoStarDropList" : "240803048",
+		"twoStarTime" : 600,
+		"zeroStarDropList" : "240803048",
+		"zeroStarTime" : 300
+	},
+	
+	{
+		"copyCode" : 25401,
+		"oneStarDropList" : "602540103#602540203#602540303",
+		"oneStarTime" : 480,
+		"threeStarDropList" : "602540101#602540201#602540301#505201903",
+		"threeStarTime" : 300,
+		"twoStarDropList" : "602540102#602540202#602540302",
+		"twoStarTime" : 390,
+		"zeroStarDropList" : "602540104#602540204#602540304",
+		"zeroStarTime" : 1800
+	},
+	
+	{
+		"copyCode" : 31007,
+		"oneStarDropList" : "212304003",
+		"oneStarTime" : 260,
+		"threeStarDropList" : "212304005",
+		"threeStarTime" : 180,
+		"twoStarDropList" : "212304004",
+		"twoStarTime" : 220,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 300
+	},
+	
+	{
+		"copyCode" : 31008,
+		"oneStarDropList" : "208104001",
+		"oneStarTime" : 210,
+		"threeStarDropList" : "208104003",
+		"threeStarTime" : 150,
+		"twoStarDropList" : "208104002",
+		"twoStarTime" : 180,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 390
+	},
+	
+	{
+		"copyCode" : 31009,
+		"oneStarTime" : 600,
+		"threeStarDropList" : "206901000",
+		"threeStarTime" : 480,
+		"twoStarTime" : 540,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 900
+	},
+	
+	{
+		"copyCode" : 31110,
+		"oneStarDropList" : "0",
+		"oneStarTime" : 780,
+		"threeStarDropList" : "0",
+		"threeStarTime" : 540,
+		"twoStarDropList" : "0",
+		"twoStarTime" : 660,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 900
+	},
+	
+	{
+		"copyCode" : 32801,
+		"oneStarDropList" : "240803050",
+		"oneStarTime" : 600,
+		"threeStarDropList" : "240803050",
+		"threeStarTime" : 600,
+		"twoStarDropList" : "240803050",
+		"twoStarTime" : 600,
+		"zeroStarDropList" : "240803050",
+		"zeroStarTime" : 300
+	},
+	
+	{
+		"copyCode" : 35401,
+		"oneStarDropList" : "603540103#603540203#603540303",
+		"oneStarTime" : 480,
+		"threeStarDropList" : "603540101#603540201#603540301#505201903",
+		"threeStarTime" : 300,
+		"twoStarDropList" : "603540102#603540202#603540302",
+		"twoStarTime" : 390,
+		"zeroStarDropList" : "603540104#603540204#603540304",
+		"zeroStarTime" : 1800
+	},
+	
+	{
+		"copyCode" : 41007,
+		"oneStarDropList" : "212305003",
+		"oneStarTime" : 260,
+		"threeStarDropList" : "212305005",
+		"threeStarTime" : 180,
+		"twoStarDropList" : "212305004",
+		"twoStarTime" : 220,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 300
+	},
+	
+	{
+		"copyCode" : 41008,
+		"oneStarDropList" : "208105001",
+		"oneStarTime" : 210,
+		"threeStarDropList" : "208105003",
+		"threeStarTime" : 150,
+		"twoStarDropList" : "208105002",
+		"twoStarTime" : 180,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 390
+	},
+	
+	{
+		"copyCode" : 41009,
+		"oneStarTime" : 600,
+		"threeStarDropList" : "206901000",
+		"threeStarTime" : 480,
+		"twoStarTime" : 540,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 900
+	},
+	
+	{
+		"copyCode" : 41110,
+		"oneStarDropList" : "0",
+		"oneStarTime" : 780,
+		"threeStarDropList" : "0",
+		"threeStarTime" : 540,
+		"twoStarDropList" : "0",
+		"twoStarTime" : 660,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 900
+	},
+	
+	{
+		"copyCode" : 45401,
+		"oneStarDropList" : "604540103#604540203#604540303",
+		"oneStarTime" : 480,
+		"threeStarDropList" : "604540101#604540201#604540301#505201903",
+		"threeStarTime" : 300,
+		"twoStarDropList" : "604540102#604540202#604540302",
+		"twoStarTime" : 390,
+		"zeroStarDropList" : "604540104#604540204#604540304",
+		"zeroStarTime" : 1800
+	},
+	
+	{
+		"copyCode" : 51007,
+		"oneStarDropList" : "212306003",
+		"oneStarTime" : 260,
+		"threeStarDropList" : "212306005",
+		"threeStarTime" : 180,
+		"twoStarDropList" : "212306004",
+		"twoStarTime" : 220,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 300
+	},
+	
+	{
+		"copyCode" : 51008,
+		"oneStarDropList" : "208106001",
+		"oneStarTime" : 210,
+		"threeStarDropList" : "208106003",
+		"threeStarTime" : 150,
+		"twoStarDropList" : "208106002",
+		"twoStarTime" : 180,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 390
+	},
+	
+	{
+		"copyCode" : 51009,
+		"oneStarTime" : 600,
+		"threeStarDropList" : "206901000",
+		"threeStarTime" : 480,
+		"twoStarTime" : 540,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 900
+	},
+	
+	{
+		"copyCode" : 55401,
+		"oneStarDropList" : "605540103#605540203#605540303",
+		"oneStarTime" : 480,
+		"threeStarDropList" : "605540101#605540201#605540301#505201903",
+		"threeStarTime" : 300,
+		"twoStarDropList" : "605540102#605540202#605540302",
+		"twoStarTime" : 390,
+		"zeroStarDropList" : "605540104#605540204#605540304",
+		"zeroStarTime" : 1800
+	},
+	
+	{
+		"copyCode" : 61008,
+		"oneStarDropList" : "208107001",
+		"oneStarTime" : 210,
+		"threeStarDropList" : "208107003",
+		"threeStarTime" : 150,
+		"twoStarDropList" : "208107002",
+		"twoStarTime" : 180,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 390
+	},
+	
+	{
+		"copyCode" : 61009,
+		"oneStarTime" : 600,
+		"threeStarDropList" : "206901000",
+		"threeStarTime" : 480,
+		"twoStarTime" : 540,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 900
+	},
+	
+	{
+		"copyCode" : 65401,
+		"oneStarDropList" : "606540103#606540203#606540303",
+		"oneStarTime" : 480,
+		"threeStarDropList" : "606540101#606540201#606540301#505201903",
+		"threeStarTime" : 300,
+		"twoStarDropList" : "606540102#606540202#606540302",
+		"twoStarTime" : 390,
+		"zeroStarDropList" : "606540104#606540204#606540304",
+		"zeroStarTime" : 1800
+	},
+	
+	{
+		"copyCode" : 71009,
+		"oneStarTime" : 600,
+		"threeStarDropList" : "206901000",
+		"threeStarTime" : 480,
+		"twoStarTime" : 540,
+		"zeroStarDropList" : "0",
+		"zeroStarTime" : 900
+	},
+	
+	{
+		"copyCode" : 75401,
+		"oneStarDropList" : "607540103#607540203#607540303",
+		"oneStarTime" : 480,
+		"threeStarDropList" : "607540101#607540201#607540301#505201903",
+		"threeStarTime" : 300,
+		"twoStarDropList" : "607540102#607540202#607540302",
+		"twoStarTime" : 390,
+		"zeroStarDropList" : "607540104#607540204#607540304",
+		"zeroStarTime" : 1800
+	}
+]

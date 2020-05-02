@@ -1,0 +1,456 @@
+
+[
+	
+	{
+		"category" : 4,
+		"jumpTo" : "Shape,Wing#GodWing",
+		"type" : 238
+	},
+	
+	{
+		"category" : 4,
+		"jumpTo" : "Forge,Immortals",
+		"type" : 242
+	},
+	
+	{
+		"category" : 4,
+		"jumpTo" : "Shape,Mount",
+		"shape" : 1,
+		"type" : 248
+	},
+	
+	{
+		"category" : 4,
+		"jumpTo" : "Shape,Pet",
+		"shape" : 2,
+		"type" : 248
+	},
+	
+	{
+		"category" : 4,
+		"jumpTo" : "Shape,ShapeBattle",
+		"shape" : 9,
+		"type" : 248
+	},
+	
+	{
+		"category" : 4,
+		"jumpTo" : "Shape,ShapeSwordPool",
+		"shape" : 10,
+		"type" : 248
+	},
+	
+	{
+		"category" : 6,
+		"jumpTo" : "Shape,Mount",
+		"shape" : 1,
+		"type" : 3
+	},
+	
+	{
+		"category" : 6,
+		"jumpTo" : "Shape,Pet",
+		"shape" : 2,
+		"type" : 3
+	},
+	
+	{
+		"category" : 6,
+		"jumpTo" : "Shape,ShapeBattle",
+		"shape" : 9,
+		"type" : 3
+	},
+	
+	{
+		"category" : 6,
+		"jumpTo" : "Shape,ShapeSwordPool",
+		"shape" : 10,
+		"type" : 3
+	},
+	
+	{
+		"category" : 11,
+		"jumpTo" : "Player#MagicWare,BeastBattle",
+		"type" : 1
+	},
+	
+	{
+		"category" : 11,
+		"jumpTo" : "Player#MagicWare,BeastBattle",
+		"type" : 2
+	},
+	
+	{
+		"category" : 11,
+		"jumpTo" : "Player#MagicWare,BeastBattle",
+		"type" : 3
+	},
+	
+	{
+		"category" : 11,
+		"jumpTo" : "Player#MagicWare,BeastBattle",
+		"type" : 4
+	},
+	
+	{
+		"category" : 11,
+		"jumpTo" : "Player#MagicWare,BeastBattle",
+		"type" : 5
+	},
+	
+	{
+		"category" : 19,
+		"jumpTo" : "Skill,SkillCheats"
+	},
+	
+	{
+		"category" : 19,
+		"jumpTo" : "Skill,SkillCheats",
+		"type" : 1
+	},
+	
+	{
+		"category" : 19,
+		"jumpTo" : "Skill,SkillCheats",
+		"type" : 2
+	},
+	
+	{
+		"category" : 19,
+		"jumpTo" : "Skill,SkillCheats",
+		"type" : 3
+	},
+	
+	{
+		"category" : 19,
+		"jumpTo" : "Skill,SkillCheats",
+		"type" : 4
+	},
+	
+	{
+		"category" : 19,
+		"jumpTo" : "Skill,SkillCheats",
+		"type" : 5
+	},
+	
+	{
+		"category" : 19,
+		"jumpTo" : "Skill,SkillCheats",
+		"type" : 8
+	},
+	
+	{
+		"category" : 19,
+		"jumpTo" : "Skill,SkillCheats",
+		"type" : 10
+	},
+	
+	{
+		"category" : 20,
+		"jumpTo" : "Player#MagicWare,HeartMethod",
+		"type" : 1
+	},
+	
+	{
+		"category" : 20,
+		"jumpTo" : "Player#MagicWare,HeartMethod",
+		"type" : 2
+	},
+	
+	{
+		"category" : 20,
+		"jumpTo" : "Player#MagicWare,HeartMethod",
+		"type" : 3
+	},
+	
+	{
+		"category" : 20,
+		"jumpTo" : "Player#MagicWare,HeartMethod",
+		"type" : 4
+	},
+	
+	{
+		"category" : 20,
+		"jumpTo" : "Player#MagicWare,HeartMethod",
+		"type" : 5
+	},
+	
+	{
+		"category" : 21,
+		"jumpTo" : "QiongCang",
+		"type" : 1
+	},
+	
+	{
+		"category" : 4,
+		"itemCode" : 20000060,
+		"jumpTo" : "Peak,PeakShop",
+		"type" : 261
+	},
+	
+	{
+		"category" : 4,
+		"itemCode" : 31500001,
+		"jumpTo" : "Shape,Wing#GodWing",
+		"type" : 239
+	},
+	
+	{
+		"category" : 4,
+		"itemCode" : 32000000,
+		"jumpTo" : "Player#MagicWare,HeartMethod",
+		"type" : 249
+	},
+	
+	{
+		"category" : 6,
+		"itemCode" : 35000000,
+		"jumpTo" : "Shape,ShapeBattle",
+		"type" : 255
+	},
+	
+	{
+		"category" : 4,
+		"itemCode" : 35100001,
+		"jumpTo" : "Shape,ShapeBattle#ShapeBattleChange",
+		"shape" : 9,
+		"type" : 224
+	},
+	
+	{
+		"category" : 6,
+		"itemCode" : 36000000,
+		"jumpTo" : "Shape,ShapeSwordPool",
+		"type" : 255
+	},
+	
+	{
+		"category" : 4,
+		"itemCode" : 36100001,
+		"jumpTo" : "Shape,ShapeSwordPool#SwordPoolChange",
+		"shape" : 10,
+		"type" : 224
+	},
+	
+	{
+		"category" : 4,
+		"itemCode" : 37100001,
+		"jumpTo" : "Shape,Wing#MagicWingChange",
+		"shape" : 4,
+		"type" : 224
+	},
+	
+	{
+		"category" : 4,
+		"itemCode" : 40110221,
+		"jumpTo" : "Forge,Immortals",
+		"type" : 195
+	},
+	
+	{
+		"category" : 4,
+		"itemCode" : 40110252,
+		"jumpTo" : "Arena,Mining",
+		"type" : 195
+	},
+	
+	{
+		"category" : 4,
+		"itemCode" : 40110302,
+		"jumpTo" : "GuildNew#GuildActivity,GuildBonfire",
+		"type" : 61
+	},
+	
+	{
+		"category" : 6,
+		"itemCode" : 40151012,
+		"jumpTo" : "Skill,Nerve",
+		"type" : 15
+	},
+	
+	{
+		"category" : 6,
+		"itemCode" : 40151013,
+		"jumpTo" : "Shape,Wing",
+		"type" : 15
+	},
+	
+	{
+		"category" : 6,
+		"itemCode" : 40151014,
+		"jumpTo" : "Player#MagicWare,DragonSoul",
+		"type" : 15
+	},
+	
+	{
+		"category" : 4,
+		"itemCode" : 40245001,
+		"jumpTo" : "Player#GodEquip",
+		"type" : 231
+	},
+	
+	{
+		"category" : 4,
+		"itemCode" : 42040002,
+		"jumpTo" : "QiongCang",
+		"type" : 210
+	},
+	
+	{
+		"category" : 4,
+		"itemCode" : 42061001,
+		"jumpTo" : "Lottery",
+		"type" : 206
+	},
+	
+	{
+		"category" : 4,
+		"itemCode" : 42061004,
+		"jumpTo" : "Lottery,LotteryRune",
+		"type" : 206
+	},
+	
+	{
+		"category" : 4,
+		"itemCode" : 42061007,
+		"jumpTo" : "Shop,ShopMystery",
+		"type" : 31
+	},
+	
+	{
+		"category" : 4,
+		"itemCode" : 42220010,
+		"jumpTo" : "Shape,Pet#PetChange",
+		"shape" : 2,
+		"type" : 224
+	},
+	
+	{
+		"category" : 4,
+		"itemCode" : 42580010,
+		"jumpTo" : "Player#MagicWeaponStrengthen,MagicWeaponStarUp#MagicWeaponChange",
+		"shape" : 6,
+		"type" : 258
+	},
+	
+	{
+		"category" : 4,
+		"itemCode" : 42580120,
+		"jumpTo" : "Shape,Mount#MountChange",
+		"shape" : 1,
+		"type" : 258
+	},
+	
+	{
+		"category" : 6,
+		"itemCode" : 60010001,
+		"jumpTo" : "Forge,Strengthen",
+		"type" : 15
+	},
+	
+	{
+		"category" : 6,
+		"itemCode" : 60010002,
+		"jumpTo" : "Forge,Casting",
+		"type" : 15
+	},
+	
+	{
+		"category" : 6,
+		"itemCode" : 60030004,
+		"jumpTo" : "Shape,Wing",
+		"type" : 16
+	},
+	
+	{
+		"category" : 6,
+		"itemCode" : 60030011,
+		"jumpTo" : "Shape,Wing",
+		"type" : 16
+	},
+	
+	{
+		"category" : 6,
+		"itemCode" : 60030018,
+		"jumpTo" : "Shape,Wing",
+		"type" : 16
+	},
+	
+	{
+		"category" : 6,
+		"itemCode" : 60040001,
+		"jumpTo" : "Shape,Mount",
+		"type" : 4
+	},
+	
+	{
+		"category" : 6,
+		"itemCode" : 60040002,
+		"jumpTo" : "Shape,Pet",
+		"type" : 4
+	},
+	
+	{
+		"category" : 6,
+		"itemCode" : 60060010,
+		"jumpTo" : "Player#MagicWeaponStrengthen,MagicWeaponStarUp",
+		"type" : 6
+	},
+	
+	{
+		"category" : 6,
+		"itemCode" : 60150010,
+		"jumpTo" : "Player#MagicWare,ColorStone",
+		"type" : 15
+	},
+	
+	{
+		"category" : 6,
+		"itemCode" : 60150020,
+		"jumpTo" : "Player#MagicWare,ColorStone",
+		"type" : 15
+	},
+	
+	{
+		"category" : 6,
+		"itemCode" : 60150030,
+		"jumpTo" : "Player#MagicWare,ColorStone",
+		"type" : 15
+	},
+	
+	{
+		"category" : 6,
+		"itemCode" : 60160010,
+		"jumpTo" : "Player#MagicWare,ColorStone",
+		"type" : 16
+	},
+	
+	{
+		"category" : 6,
+		"itemCode" : 60160020,
+		"jumpTo" : "Player#MagicWare,ColorStone",
+		"type" : 16
+	},
+	
+	{
+		"category" : 6,
+		"itemCode" : 60160030,
+		"jumpTo" : "Player#MagicWare,ColorStone",
+		"type" : 16
+	},
+	
+	{
+		"category" : 6,
+		"itemCode" : 60200000,
+		"jumpTo" : "Forge,Refine",
+		"type" : 14
+	},
+	
+	{
+		"category" : 4,
+		"itemCode" : 80380010,
+		"jumpTo" : "Pack,PackSmelt",
+		"type" : 252
+	}
+]

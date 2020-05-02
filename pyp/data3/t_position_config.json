@@ -1,0 +1,62 @@
+
+[
+	
+	{
+		"expTimes" : 1,
+		"mapPointType1" : 31,
+		"mapPointType2" : 12,
+		"posId" : 1,
+		"posX" : 6,
+		"posY" : 7
+	},
+	
+	{
+		"expTimes" : 2,
+		"posId" : 2
+	},
+	
+	{
+		"expTimes" : 3,
+		"hasOwner" : 1,
+		"mapPointType1" : 25,
+		"posId" : 3,
+		"posX" : 10,
+		"posY" : 24
+	},
+	
+	{
+		"expTimes" : 3,
+		"hasOwner" : 1,
+		"mapPointType1" : 26,
+		"posId" : 4,
+		"posX" : 21,
+		"posY" : 13
+	},
+	
+	{
+		"expTimes" : 3,
+		"hasOwner" : 1,
+		"mapPointType1" : 27,
+		"posId" : 5,
+		"posX" : 21,
+		"posY" : 36
+	},
+	
+	{
+		"expTimes" : 3,
+		"hasOwner" : 1,
+		"mapPointType1" : 28,
+		"posId" : 6,
+		"posX" : 33,
+		"posY" : 24
+	},
+	
+	{
+		"expTimes" : 5,
+		"hasOwner" : 1,
+		"mapPointType1" : 29,
+		"posId" : 7,
+		"posX" : 21,
+		"posY" : 24
+	}
+]

@@ -1,0 +1,1142 @@
+
+[
+	
+	{
+		"openId" : 1,
+		"openKey" : "Mount",
+		"openKeyStr" : "坐骑",
+		"openLevel" : 30,
+		"openTask" : 390030,
+		"previewLevel" : 30,
+		"showDesc" : "坐骑有绚丽的外形，还能大幅提升战力及移动速度，征途必备伙伴#30级主线开启",
+		"showModel" : "mount_0#mount_1#1001",
+		"showName" : "拉风坐骑#30级开启",
+		"showType" : 1,
+		"showTypeArgs" : "btn_pet"
+	},
+	
+	{
+		"openId" : 2,
+		"openKey" : "Pet",
+		"openKeyStr" : "宠物",
+		"openLevel" : 15,
+		"openTask" : 390023,
+		"previewLevel" : 1,
+		"showDesc" : "增加主人属性，跟随主人助战，吞噬多余装备#完成15级主线任务开启",
+		"showModel" : "pet_0#pet_1#2001",
+		"showName" : "超萌灵宠#15级主线开启",
+		"showType" : 1,
+		"showTypeArgs" : "btn_pet"
+	},
+	
+	{
+		"openId" : 3,
+		"openKey" : "Wing",
+		"openKeyStr" : "翅膀",
+		"openLevel" : 50,
+		"previewLevel" : 30,
+		"showDesc" : "如虎添翼，不仅有炫酷的外观，增加大量的属性，还有特殊技能加持#50级主线开启",
+		"showModel" : "wing_0#wing_1#4001",
+		"showName" : "酷炫羽翼#50级开启",
+		"showType" : 1,
+		"showTypeArgs" : "btn_player"
+	},
+	
+	{
+		"openId" : 4,
+		"openKey" : "Magic",
+		"openKeyStr" : "神兵",
+		"openLevel" : 110,
+		"previewLevel" : 105,
+		"showDesc" : "强力的暴击属性，刁钻特殊的技能加持，PK秒人必备神器#等级达到110级开启",
+		"showModel" : "magic_0#magic_1#3001",
+		"showName" : "绝世神兵#110级开启",
+		"showType" : 1,
+		"showTypeArgs" : "btn_player"
+	},
+	
+	{
+		"openId" : 6,
+		"openKey" : "Spirit",
+		"openKeyStr" : "法宝",
+		"openLevel" : 60,
+		"previewLevel" : 50,
+		"showDesc" : "乾坤法轮,强力的属性，炫酷的外观，还有特殊技能加持#完成60级主线任务开启",
+		"showModel" : "spirit_0#spirit_1#6001",
+		"showName" : "超级法宝#60级开启",
+		"showType" : 1,
+		"showTypeArgs" : "btn_player"
+	},
+	
+	{
+		"openId" : 7,
+		"openKey" : "Mantle",
+		"openKeyStr" : "披风",
+		"openLevel" : 60,
+		"previewLevel" : 999,
+		"showDesc" : "青云披风,强力的属性，炫酷的外观，还有特殊技能加持#完成60级主线任务开启",
+		"showModel" : "mantle_0#mantle_1#6001",
+		"showName" : "超级披风#60级开启",
+		"showTypeArgs" : "btn_player"
+	},
+	
+	{
+		"openId" : 8,
+		"openKey" : "PetChange",
+		"openKeyStr" : "幻形",
+		"openLevel" : 200,
+		"previewLevel" : 999,
+		"showModel" : "petChange_0#petChange_1#1001"
+	},
+	
+	{
+		"openId" : 9,
+		"openKey" : "ShapeUpgrade",
+		"openKeyStr" : "外形进阶",
+		"openLevel" : 12,
+		"previewLevel" : 999,
+		"showModel" : "shapeUpgrade_0#shapeUpgrade_1#1001"
+	},
+	
+	{
+		"openId" : 10,
+		"openKey" : "WeaponStrengthen",
+		"openKeyStr" : "装备强化",
+		"openLevel" : 62,
+		"previewLevel" : 999,
+		"showTypeArgs" : "btn_refining"
+	},
+	
+	{
+		"openId" : 11,
+		"openKey" : "VeinUpgrade",
+		"openKeyStr" : "灵脉进阶",
+		"openLevel" : 999,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 12,
+		"openKey" : "CopyHall",
+		"openKeyStr" : "副本大厅",
+		"openLevel" : 30,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 13,
+		"openKey" : "WorldBoss",
+		"openKeyStr" : "世界boss",
+		"openLevel" : 90,
+		"previewLevel" : 70,
+		"showDesc" : "前方boss老巢，神装外形等你爆，仙友们冲啊！#完成90级主线任务开启",
+		"showName" : "打BOSS爆红装#90级任务开启",
+		"showType" : 1,
+		"showTypeArgs" : "btn_boss"
+	},
+	
+	{
+		"openId" : 14,
+		"openKey" : "WeaponUpgrade",
+		"openKeyStr" : "装备升阶",
+		"openLevel" : 47,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 15,
+		"openKey" : "Guild",
+		"openKeyStr" : "仙盟",
+		"openLevel" : 62,
+		"openTask" : 390053,
+		"previewLevel" : 999,
+		"showDesc" : "东风吹，战鼓擂，仙侠儿女谁怕谁，无基不欢#62级任务开启",
+		"showName" : "仙盟共享装备#62任务开启",
+		"showType" : 1,
+		"showTypeArgs" : "btn_guild"
+	},
+	
+	{
+		"openId" : 16,
+		"openKey" : "Friend",
+		"openKeyStr" : "好友",
+		"openLevel" : 44,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 17,
+		"openKey" : "Transport",
+		"openKeyStr" : "护送美女",
+		"openLevel" : 130,
+		"previewLevel" : 115,
+		"showDesc" : "美女欲远行，以大量经验为报酬，邀天下侠士护送之#等级达到130级开启",
+		"showName" : "护美女涨经验#130级开启",
+		"showType" : 1,
+		"showTypeArgs" : "btn_daily"
+	},
+	
+	{
+		"openId" : 18,
+		"openKey" : "SwordPool",
+		"openKeyStr" : "剑池",
+		"openLevel" : 65,
+		"openTask" : 390057,
+		"previewLevel" : 60,
+		"showDesc" : "完成每日日常，提升日常等级，获得炫酷外形#完成65级主线任务开启",
+		"showName" : "做日常升级快#65级任务开启",
+		"showType" : 1,
+		"showTypeArgs" : "btn_daily"
+	},
+	
+	{
+		"openId" : 19,
+		"openKey" : "DramaGuildTaskCode",
+		"openKeyStr" : "剧情副本",
+		"openLevel" : 999,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 20,
+		"openKey" : "CoinCopyCode",
+		"openKeyStr" : "铜钱副本",
+		"openLevel" : 999,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 21,
+		"openKey" : "DefenseCopyCode",
+		"openKeyStr" : "守护副本",
+		"openLevel" : 999,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 22,
+		"openKey" : "LevelCopyCode",
+		"openKeyStr" : "关卡副本",
+		"openLevel" : 999,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 23,
+		"openKey" : "MaterialCopyCode",
+		"openKeyStr" : "材料副本",
+		"openLevel" : 999,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 24,
+		"openKey" : "MagicTownCopyCode",
+		"openKeyStr" : "爬塔副本",
+		"openLevel" : 999,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 25,
+		"openKey" : "WelfareHall",
+		"openKeyStr" : "福利大厅",
+		"openLevel" : 30,
+		"previewLevel" : 999,
+		"showDesc" : ""
+	},
+	
+	{
+		"openId" : 26,
+		"openKey" : "SignReward",
+		"openKeyStr" : "签到奖励",
+		"openLevel" : 50,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 27,
+		"openKey" : "LevelReward",
+		"openKeyStr" : "等级奖励",
+		"openLevel" : 30,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 28,
+		"openKey" : "OnlineReward",
+		"openKeyStr" : "在线奖励",
+		"openLevel" : 999,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 29,
+		"openKey" : "UpdateNotice",
+		"openKeyStr" : "更新公告",
+		"openLevel" : 10,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 30,
+		"openKey" : "SevenDayReward",
+		"openKeyStr" : "七天登录奖励",
+		"openLevel" : 90,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 31,
+		"openKey" : "OfflineExpReward",
+		"openKeyStr" : "离线经验奖励",
+		"openLevel" : 50,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 32,
+		"openKey" : "Toplist",
+		"openKeyStr" : "排行榜",
+		"openLevel" : 150,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 33,
+		"openKey" : "ImagePK",
+		"openKeyStr" : "竞技场",
+		"openLevel" : 115,
+		"previewLevel" : 110,
+		"showDesc" : "与世界最强的人PK，获得大量经验荣誉，成为世界最强的人！#等级达到115级开启",
+		"showName" : "1V1决战青云#115级开启",
+		"showTypeArgs" : "btn_0_arena"
+	},
+	
+	{
+		"openId" : 34,
+		"openKey" : "PersonalPk",
+		"openKeyStr" : "巅峰竞技",
+		"openLevel" : 115,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 35,
+		"openKey" : "giftBag",
+		"openKeyStr" : "激活码礼包",
+		"openLevel" : 30,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 36,
+		"openKey" : "DemonCopy",
+		"openKeyStr" : "效率药水",
+		"openLevel" : 40,
+		"previewLevel" : 999,
+		"showDesc" : "1,40030012#2,40030001#3,40030022#"
+	},
+	
+	{
+		"openId" : 37,
+		"openKey" : "Realm",
+		"openKeyStr" : "境界",
+		"openLevel" : 95,
+		"previewLevel" : 999,
+		"showDesc" : "一步一莲花，修为通天，永无止境，无边无界#等级达到85级开启",
+		"showName" : "提升境界，加成战力#85级开启",
+		"showTypeArgs" : "btn_player"
+	},
+	
+	{
+		"openId" : 38,
+		"openKey" : "Group",
+		"openKeyStr" : "组队",
+		"openLevel" : 1,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 39,
+		"openKey" : "ExperienceGroupCopy",
+		"openKeyStr" : "九幽魔窟",
+		"openLevel" : 75,
+		"openTask" : 390062,
+		"previewLevel" : 70,
+		"showDesc" : "极限刷怪，海量经验，暴打小妖怪!#完成75级主线任务开启",
+		"showName" : "必刷经验副本#75级任务开启",
+		"showType" : 1,
+		"showTypeArgs" : "btn_copy"
+	},
+	
+	{
+		"openId" : 40,
+		"openKey" : "TowerGroupCopy",
+		"openKeyStr" : "镇魔古迹",
+		"openLevel" : 999,
+		"previewLevel" : 999,
+		"showTypeArgs" : "btn_copy"
+	},
+	
+	{
+		"openId" : 41,
+		"openKey" : "BloodMatrixGroupCopy",
+		"openKeyStr" : "圣灵血阵",
+		"openLevel" : 105,
+		"previewLevel" : 100,
+		"showDesc" : "每天组队必刷，珍稀装备掉落，再也不担心抢不到boss#等级达到105级开启",
+		"showName" : "组队打橙装#105级开启",
+		"showType" : 1,
+		"showTypeArgs" : "btn_copy"
+	},
+	
+	{
+		"openId" : 42,
+		"openKey" : "NormalChapterCopyCode",
+		"openKeyStr" : "单人剧情本",
+		"openLevel" : 999,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 43,
+		"openKey" : "RingBossSingleCopy",
+		"openKeyStr" : "仙帝宝库",
+		"openLevel" : 190,
+		"previewLevel" : 180,
+		"showDesc" : "副本金钱多多，装备强化再也不用愁！#等级达到190级开启",
+		"showName" : "必刷铜币副本#190级开启",
+		"showType" : 1,
+		"showTypeArgs" : "btn_copy"
+	},
+	
+	{
+		"openId" : 44,
+		"openKey" : "NormalDefenseSingleCopy",
+		"openKeyStr" : "守护仙灵",
+		"openLevel" : 100,
+		"openTask" : 390086,
+		"previewLevel" : 90,
+		"showDesc" : "量产宠物升级进阶材料，打副本免费获得！#完成100级主线任务开启",
+		"showName" : "必掉宠物材料#100级任务开",
+		"showType" : 1,
+		"showTypeArgs" : "btn_copy"
+	},
+	
+	{
+		"openId" : 45,
+		"openKey" : "NormalSingleCopy",
+		"openKeyStr" : "炼血秘境",
+		"openLevel" : 999,
+		"previewLevel" : 999,
+		"showType" : 1,
+		"showTypeArgs" : "btn_copy"
+	},
+	
+	{
+		"openId" : 46,
+		"openKey" : "TowerSingleCopy",
+		"openKeyStr" : "诛仙塔",
+		"openLevel" : 70,
+		"openTask" : 390058,
+		"previewLevel" : 65,
+		"showDesc" : "多种专有属性，角色成长，自由发挥！#完成70级主线任务开启",
+		"showName" : "百变属性养成#70级任务开启",
+		"showType" : 1,
+		"showTypeArgs" : "btn_copy"
+	},
+	
+	{
+		"openId" : 47,
+		"openKey" : "Market",
+		"openKeyStr" : "市场",
+		"openLevel" : 90,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 48,
+		"openKey" : "Compose",
+		"openKeyStr" : "合成",
+		"openLevel" : 60,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 49,
+		"openKey" : "Achievement",
+		"openKeyStr" : "成就",
+		"openLevel" : 80,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 50,
+		"openKey" : "ShapeChange",
+		"openKeyStr" : "外形化形",
+		"openLevel" : 180,
+		"previewLevel" : 150,
+		"showDesc" : "酷炫的外形，暴涨的战力，百变化形，一飞冲天#180级开启",
+		"showName" : "百变化形#180级开启",
+		"showType" : 1,
+		"showTypeArgs" : "btn_player"
+	},
+	
+	{
+		"openId" : 51,
+		"openKey" : "Fashion",
+		"openKeyStr" : "时装",
+		"openLevel" : 80,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 52,
+		"openKey" : "HomeBoss",
+		"openKeyStr" : "BOSS之家",
+		"openLevel" : 180,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 53,
+		"openKey" : "ETaskGroupMgRing",
+		"openKeyStr" : "赏金任务",
+		"openLevel" : 55,
+		"openTask" : 390057,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 54,
+		"openKey" : "ETaskGroupMgGuild",
+		"openKeyStr" : "仙盟任务",
+		"openLevel" : 160,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 55,
+		"openKey" : "DeityBook",
+		"openKeyStr" : "天书寻主",
+		"openLevel" : 60,
+		"previewLevel" : 55,
+		"showDesc" : "搜集极品装备，获得天书秘技，升级、打怪效率，升！升！升！#60级开启",
+		"showName" : "夺天书秘技#60级开启",
+		"showTypeArgs" : "home#openServerActivity"
+	},
+	
+	{
+		"openId" : 56,
+		"openKey" : "CrossStair",
+		"openKeyStr" : "青云之巅",
+		"openLevel" : 115,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 57,
+		"openKey" : "SpecialActiveCollectItem",
+		"openKeyStr" : "集字活动",
+		"openLevel" : 40,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 58,
+		"openKey" : "ForceWar",
+		"openKeyStr" : "三界战场",
+		"openLevel" : 115,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 59,
+		"openKey" : "OfflineWork",
+		"openKeyStr" : "脱机挂",
+		"openLevel" : 60,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 60,
+		"openKey" : "QuestionCopy",
+		"openKeyStr" : "答题玩法",
+		"openLevel" : 110,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 61,
+		"openKey" : "Treasure",
+		"openKeyStr" : "青云夺宝",
+		"openLevel" : 1,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 62,
+		"openKey" : "ActiveHall",
+		"openKeyStr" : "活动大厅",
+		"openLevel" : 110,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 63,
+		"openKey" : "Pray",
+		"openKeyStr" : "祈福",
+		"openLevel" : 100,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 64,
+		"openKey" : "Lottery",
+		"openKeyStr" : "宝藏寻宝",
+		"openLevel" : 30,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 65,
+		"openKey" : "ChangeCareer1",
+		"openKeyStr" : "一转",
+		"openLevel" : 150,
+		"previewLevel" : 130,
+		"showDesc" : "每级再额外增加120战力，单攻变群攻，高阶装备解锁，开放新化形！#150级开启",
+		"showName" : "单攻变群攻#150级开启",
+		"showType" : 1,
+		"showTypeArgs" : "btn_career"
+	},
+	
+	{
+		"openId" : 66,
+		"openKey" : "ChangeCareer2",
+		"openKeyStr" : "二转",
+		"openLevel" : 220,
+		"previewLevel" : 190,
+		"showDesc" : "每级再额外增加240战力，解锁新装备，开放新化形，解锁新技能\r\n#220级开启",
+		"showName" : "二转新技能#220级开启",
+		"showType" : 1,
+		"showTypeArgs" : "btn_career"
+	},
+	
+	{
+		"openId" : 67,
+		"openKey" : "Recharge",
+		"openKeyStr" : "充值",
+		"openLevel" : 1,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 68,
+		"openKey" : "InvestPlan",
+		"openKeyStr" : "投资计划",
+		"openLevel" : 100,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 69,
+		"openKey" : "InvestMensual",
+		"openKeyStr" : "月卡投资",
+		"openLevel" : 70,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 70,
+		"openKey" : "RechargeFirst",
+		"openKeyStr" : "首充累冲",
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 71,
+		"openKey" : "Rune",
+		"openKeyStr" : "符文",
+		"openLevel" : 70,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 72,
+		"openKey" : "RechargeTotal",
+		"openKeyStr" : "开服累冲",
+		"openLevel" : 30,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 73,
+		"openKey" : "RuneLottery",
+		"openKeyStr" : "符文寻宝",
+		"openLevel" : 65,
+		"openTask" : 390066,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 74,
+		"openKey" : "JewelEmbel",
+		"openKeyStr" : "宝石镶嵌",
+		"openLevel" : 120,
+		"previewLevel" : 999,
+		"showType" : 1,
+		"showTypeArgs" : "btn_refining"
+	},
+	
+	{
+		"openId" : 75,
+		"openKey" : "ManHuangCopy",
+		"openKeyStr" : "蛮荒禁地",
+		"openLevel" : 260,
+		"previewLevel" : 240,
+		"showDesc" : "勇闯蛮荒禁地，夺取套装神石，激活神仙级套装！#260级开启",
+		"showName" : "蛮荒禁地#260级开启",
+		"showTypeArgs" : "btn_boss"
+	},
+	
+	{
+		"openId" : 76,
+		"openKey" : "SuitUpgrade",
+		"openKeyStr" : "装备套装升级",
+		"openLevel" : 240,
+		"previewLevel" : 220,
+		"showDesc" : "收集星级装备，激活套装属性，战斗力直线上升！#240级开启",
+		"showName" : "星级套装锻造#240级开启",
+		"showTypeArgs" : "btn_refining"
+	},
+	
+	{
+		"openId" : 77,
+		"openKey" : "ChangeCareer3",
+		"openKeyStr" : "三转",
+		"openLevel" : 280,
+		"previewLevel" : 260,
+		"showDesc" : "每级再额外增加360战力，开放3转逆天技能，高阶装备解锁，开放新化形！#280级开启",
+		"showName" : "三转新技能#280级开启",
+		"showType" : 1,
+		"showTypeArgs" : "btn_career"
+	},
+	
+	{
+		"openId" : 78,
+		"openKey" : "Stronger",
+		"openKeyStr" : "我要变强",
+		"openLevel" : 30,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 79,
+		"openKey" : "FirstRechargeShow1",
+		"openKeyStr" : "首充表现1",
+		"openLevel" : 17,
+		"openTask" : 390029,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 80,
+		"openKey" : "FirstRechargeShow2",
+		"openKeyStr" : "首次表现2",
+		"openLevel" : 41,
+		"openTask" : 390047,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 81,
+		"openKey" : "GuildParty",
+		"openKeyStr" : "仙盟宴会",
+		"openLevel" : 110,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 82,
+		"openKey" : "Warehouse",
+		"openKeyStr" : "仓库",
+		"openLevel" : 80,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 83,
+		"openKey" : "SmeltEquip",
+		"openKeyStr" : "装备合成",
+		"openLevel" : 300,
+		"previewLevel" : 280,
+		"showDesc" : "收集两星橙色及红色装备，可合成更好属性的红色装备！#300级开启",
+		"showName" : "红装合成#300级开启",
+		"showTypeArgs" : "btn_synthesis"
+	},
+	
+	{
+		"openId" : 84,
+		"openKey" : "FiveElementsCopy",
+		"openKeyStr" : "五行神殿",
+		"openLevel" : 280,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 85,
+		"openKey" : "ActiveMoreExp",
+		"openKeyStr" : "双倍经验活动",
+		"openLevel" : 80,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 86,
+		"openKey" : "GuildPromotionMatch",
+		"openKeyStr" : "仙盟争霸",
+		"openLevel" : 70,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 87,
+		"openKey" : "GuildPromotionDomination",
+		"openKeyStr" : "王者圣殿",
+		"openLevel" : 70,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 88,
+		"openKey" : "CloudBuy",
+		"openKeyStr" : "限时云购",
+		"openLevel" : 100,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 89,
+		"openKey" : "ActiveMgRechargeOnce",
+		"openKeyStr" : "充值有礼",
+		"openLevel" : 100,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 90,
+		"openKey" : "ActiveLogin",
+		"openKeyStr" : "登录有礼",
+		"openLevel" : 100,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 91,
+		"openKey" : "ActiveExchageItem",
+		"openKeyStr" : "收集兑换",
+		"openLevel" : 100,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 92,
+		"openKey" : "ActiveIcon",
+		"openKeyStr" : "活动大厅图标",
+		"openLevel" : 100,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 93,
+		"openKey" : "TowerDefense",
+		"openKeyStr" : "百鬼夜行副本",
+		"openLevel" : 320,
+		"previewLevel" : 300,
+		"showDesc" : "爆出聚魂材料，激活聚魂属性！#320级开启",
+		"showName" : "百鬼夜行#320级开启",
+		"showTypeArgs" : "btn_copy"
+	},
+	
+	{
+		"openId" : 94,
+		"openKey" : "Soul",
+		"openKeyStr" : "聚魂",
+		"openLevel" : 320,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 95,
+		"openKey" : "ChangeCareer4",
+		"openKeyStr" : "四转",
+		"openLevel" : 350,
+		"previewLevel" : 320,
+		"showDesc" : "开启巅峰等级，天命觉醒，解锁新系统#350级开启",
+		"showName" : "四转巅峰#350级开启",
+		"showType" : 1,
+		"showTypeArgs" : "btn_career"
+	},
+	
+	{
+		"openId" : 96,
+		"openKey" : "BuyFirework",
+		"openKeyStr" : "购买烟花",
+		"openLevel" : 100,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 97,
+		"openKey" : "Activity",
+		"openKeyStr" : "活跃度",
+		"openLevel" : 100,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 98,
+		"openKey" : "Beast",
+		"openKeyStr" : "神兽",
+		"openLevel" : 350,
+		"openTask" : 390169,
+		"previewLevel" : 350,
+		"showDesc" : "前往跨服神兽岛，获得神兽装备，激活神兽，神兽助战战力暴涨#350级主线开启",
+		"showName" : "神兽助战#350级主线开",
+		"showTypeArgs" : "home#beast"
+	},
+	
+	{
+		"openId" : 99,
+		"openKey" : "BeastIsland",
+		"openKeyStr" : "神兽岛",
+		"openLevel" : 350,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 100,
+		"openKey" : "JewelRefine",
+		"openKeyStr" : "宝石精炼",
+		"openLevel" : 350,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 101,
+		"openKey" : "EquipUpgrade",
+		"openKeyStr" : "装备进阶",
+		"openLevel" : 350,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 102,
+		"openKey" : "ActiveMgConsume",
+		"openKeyStr" : "消费有礼活动",
+		"openLevel" : 100,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 103,
+		"openKey" : "ActiveMgRecharge",
+		"openKeyStr" : "充值有礼",
+		"openLevel" : 100,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 104,
+		"openKey" : "ShopSeckill",
+		"openKeyStr" : "特惠秒杀",
+		"openLevel" : 100,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 105,
+		"openKey" : "GuildDefense",
+		"openKeyStr" : "守卫仙盟",
+		"openLevel" : 200,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 106,
+		"openKey" : "SmeltRune",
+		"openKeyStr" : "符文合成",
+		"openLevel" : 371,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 107,
+		"openKey" : "MergeActive",
+		"openKeyStr" : "合服活动",
+		"openLevel" : 100,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 108,
+		"openKey" : "LuckRotary",
+		"openKeyStr" : "幸运转盘",
+		"openLevel" : 100,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 109,
+		"openKey" : "InvestPlan2",
+		"openKeyStr" : "投资计划-巅峰",
+		"openLevel" : 400,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 110,
+		"openKey" : "HandselFlower",
+		"openKeyStr" : "送花",
+		"openLevel" : 60,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 111,
+		"openKey" : "Marry",
+		"openKeyStr" : "结婚系统",
+		"openLevel" : 213,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 112,
+		"openKey" : "LotteryTresure",
+		"openKeyStr" : "鉴宝",
+		"openLevel" : 100,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 113,
+		"openKey" : "LoginVIP",
+		"openKeyStr" : "登录有礼",
+		"openLevel" : 100,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 114,
+		"openKey" : "Battle",
+		"openKeyStr" : "神魔战场",
+		"openLevel" : 300,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 115,
+		"openKey" : "ChangeBaseCareer",
+		"openKeyStr" : "基础职业转换",
+		"openLevel" : 213,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 116,
+		"openKey" : "DragonSpirit",
+		"openKeyStr" : "龙脉系统",
+		"openLevel" : 400,
+		"previewLevel" : 350,
+		"showDesc" : "打BOSS，夺龙魂，活龙脉，加战力，不要钱！！！#巅峰30开启",
+		"showName" : "龙脉现世#巅峰30开启",
+		"showTypeArgs" : "btn_player"
+	},
+	
+	{
+		"openId" : 117,
+		"openKey" : "Regain",
+		"openKeyStr" : "资源找回",
+		"openLevel" : 150,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 118,
+		"openKey" : "PanicBuy",
+		"openKeyStr" : "限时抢购",
+		"openLevel" : 100,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 119,
+		"openKey" : "ChangeCareer5",
+		"openKeyStr" : "五转",
+		"openLevel" : 490,
+		"previewLevel" : 450,
+		"showDesc" : "终极五转，龙神觉醒，解锁新装备，解锁新系统#巅峰120开启",
+		"showName" : "终极五转#巅峰120开启",
+		"showType" : 1,
+		"showTypeArgs" : "btn_career"
+	},
+	
+	{
+		"openId" : 120,
+		"openKey" : "LuckyStick",
+		"openKeyStr" : "上上签",
+		"openLevel" : 100,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 121,
+		"openKey" : "Hallow",
+		"openKeyStr" : "神器",
+		"openLevel" : 450,
+		"previewLevel" : 400,
+		"showDesc" : "前往上古神迹，争夺神器碎片，神器附灵，举世无敌#巅峰80开启",
+		"showName" : "神器护体#巅峰80开启",
+		"showTypeArgs" : "btn_player"
+	},
+	
+	{
+		"openId" : 122,
+		"openKey" : "ShenJiCopy",
+		"openKeyStr" : "上古神迹",
+		"openLevel" : 450,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 123,
+		"openKey" : "MagpieDonate",
+		"openKeyStr" : "搭鹊桥",
+		"openLevel" : 100,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 124,
+		"openKey" : "CrossCharmRank",
+		"openKeyStr" : "跨服魅力排行",
+		"openLevel" : 100,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 125,
+		"openKey" : "CrossGuildBattle",
+		"openKeyStr" : "跨服盟战",
+		"openLevel" : 350,
+		"previewLevel" : 999
+	},
+	
+	{
+		"openId" : 126,
+		"openKey" : "RoleState",
+		"openKeyStr" : "转生",
+		"openLevel" : 80
+	}
+]

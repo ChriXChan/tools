@@ -1,0 +1,15 @@
+
+[
+	
+	{
+		"bossType" : 1,
+		"numRate" : "0,60#1,40#",
+		"refreshBossCode" : 10100104
+	},
+	
+	{
+		"bossType" : 4,
+		"numRate" : "0,10#1,80#2,10",
+		"refreshBossCode" : 10100105
+	}
+]

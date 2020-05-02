@@ -1,0 +1,357 @@
+
+[
+	
+	{
+		"id" : 1,
+		"recovery" : 720000,
+		"type" : 13
+	},
+	
+	{
+		"id" : 2,
+		"level" : 5,
+		"recovery" : 900000,
+		"type" : 13
+	},
+	
+	{
+		"id" : 3,
+		"level" : 10,
+		"recovery" : 1080000,
+		"type" : 13
+	},
+	
+	{
+		"id" : 4,
+		"level" : 15,
+		"recovery" : 1260000,
+		"type" : 13
+	},
+	
+	{
+		"id" : 5,
+		"level" : 20,
+		"recovery" : 1440000,
+		"type" : 13
+	},
+	
+	{
+		"id" : 6,
+		"level" : 25,
+		"recovery" : 1980000,
+		"type" : 13
+	},
+	
+	{
+		"id" : 7,
+		"level" : 30,
+		"recovery" : 2520000,
+		"type" : 13
+	},
+	
+	{
+		"id" : 8,
+		"level" : 35,
+		"recovery" : 3060000,
+		"type" : 13
+	},
+	
+	{
+		"id" : 9,
+		"level" : 40,
+		"recovery" : 3600000,
+		"type" : 13
+	},
+	
+	{
+		"id" : 10,
+		"level" : 45,
+		"recovery" : 4320000,
+		"type" : 13
+	},
+	
+	{
+		"id" : 11,
+		"level" : 50,
+		"recovery" : 5040000,
+		"type" : 13
+	},
+	
+	{
+		"id" : 12,
+		"level" : 55,
+		"recovery" : 5760000,
+		"type" : 13
+	},
+	
+	{
+		"id" : 13,
+		"level" : 60,
+		"recovery" : 6480000,
+		"type" : 13
+	},
+	
+	{
+		"id" : 14,
+		"level" : 65,
+		"recovery" : 7560000,
+		"type" : 13
+	},
+	
+	{
+		"id" : 15,
+		"level" : 70,
+		"recovery" : 8640000,
+		"type" : 13
+	},
+	
+	{
+		"id" : 16,
+		"level" : 75,
+		"recovery" : 9720000,
+		"type" : 13
+	},
+	
+	{
+		"id" : 17,
+		"level" : 80,
+		"recovery" : 10800000,
+		"type" : 13
+	},
+	
+	{
+		"id" : 18,
+		"recovery" : 216000,
+		"type" : 14
+	},
+	
+	{
+		"id" : 19,
+		"level" : 5,
+		"recovery" : 270000,
+		"type" : 14
+	},
+	
+	{
+		"id" : 20,
+		"level" : 10,
+		"recovery" : 324000,
+		"type" : 14
+	},
+	
+	{
+		"id" : 21,
+		"level" : 15,
+		"recovery" : 378000,
+		"type" : 14
+	},
+	
+	{
+		"id" : 22,
+		"level" : 20,
+		"recovery" : 432000,
+		"type" : 14
+	},
+	
+	{
+		"id" : 23,
+		"level" : 25,
+		"recovery" : 594000,
+		"type" : 14
+	},
+	
+	{
+		"id" : 24,
+		"level" : 30,
+		"recovery" : 756000,
+		"type" : 14
+	},
+	
+	{
+		"id" : 25,
+		"level" : 35,
+		"recovery" : 918000,
+		"type" : 14
+	},
+	
+	{
+		"id" : 26,
+		"level" : 40,
+		"recovery" : 1080000,
+		"type" : 14
+	},
+	
+	{
+		"id" : 27,
+		"level" : 45,
+		"recovery" : 1296000,
+		"type" : 14
+	},
+	
+	{
+		"id" : 28,
+		"level" : 50,
+		"recovery" : 1512000,
+		"type" : 14
+	},
+	
+	{
+		"id" : 29,
+		"level" : 55,
+		"recovery" : 1728000,
+		"type" : 14
+	},
+	
+	{
+		"id" : 30,
+		"level" : 60,
+		"recovery" : 1944000,
+		"type" : 14
+	},
+	
+	{
+		"id" : 31,
+		"level" : 65,
+		"recovery" : 2268000,
+		"type" : 14
+	},
+	
+	{
+		"id" : 32,
+		"level" : 70,
+		"recovery" : 2592000,
+		"type" : 14
+	},
+	
+	{
+		"id" : 33,
+		"level" : 75,
+		"recovery" : 2916000,
+		"type" : 14
+	},
+	
+	{
+		"id" : 34,
+		"level" : 80,
+		"recovery" : 3240000,
+		"type" : 14
+	},
+	
+	{
+		"id" : 35,
+		"recoveryPet" : 576000,
+		"type" : 15
+	},
+	
+	{
+		"id" : 36,
+		"level" : 5,
+		"recoveryPet" : 720000,
+		"type" : 15
+	},
+	
+	{
+		"id" : 37,
+		"level" : 10,
+		"recoveryPet" : 864000,
+		"type" : 15
+	},
+	
+	{
+		"id" : 38,
+		"level" : 15,
+		"recoveryPet" : 1008000,
+		"type" : 15
+	},
+	
+	{
+		"id" : 39,
+		"level" : 20,
+		"recoveryPet" : 1152000,
+		"type" : 15
+	},
+	
+	{
+		"id" : 40,
+		"level" : 25,
+		"recoveryPet" : 1584000,
+		"type" : 15
+	},
+	
+	{
+		"id" : 41,
+		"level" : 30,
+		"recoveryPet" : 2016000,
+		"type" : 15
+	},
+	
+	{
+		"id" : 42,
+		"level" : 35,
+		"recoveryPet" : 2448000,
+		"type" : 15
+	},
+	
+	{
+		"id" : 43,
+		"level" : 40,
+		"recoveryPet" : 2880000,
+		"type" : 15
+	},
+	
+	{
+		"id" : 44,
+		"level" : 45,
+		"recoveryPet" : 3456000,
+		"type" : 15
+	},
+	
+	{
+		"id" : 45,
+		"level" : 50,
+		"recoveryPet" : 4032000,
+		"type" : 15
+	},
+	
+	{
+		"id" : 46,
+		"level" : 55,
+		"recoveryPet" : 4608000,
+		"type" : 15
+	},
+	
+	{
+		"id" : 47,
+		"level" : 60,
+		"recoveryPet" : 5184000,
+		"type" : 15
+	},
+	
+	{
+		"id" : 48,
+		"level" : 65,
+		"recoveryPet" : 6048000,
+		"type" : 15
+	},
+	
+	{
+		"id" : 49,
+		"level" : 70,
+		"recoveryPet" : 6912000,
+		"type" : 15
+	},
+	
+	{
+		"id" : 50,
+		"level" : 75,
+		"recoveryPet" : 7776000,
+		"type" : 15
+	},
+	
+	{
+		"id" : 51,
+		"level" : 80,
+		"recoveryPet" : 8640000,
+		"type" : 15
+	}
+]

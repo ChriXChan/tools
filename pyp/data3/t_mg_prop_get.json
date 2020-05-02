@@ -1,0 +1,976 @@
+
+[
+	
+	{
+		"buyLink" : "Lottery",
+		"propId" : 12050901,
+		"showText" : "装备寻宝"
+	},
+	
+	{
+		"buyLink" : "Lottery",
+		"propId" : 12051001,
+		"showText" : "装备寻宝"
+	},
+	
+	{
+		"buyLink" : "GuildBattle#GuildDefend",
+		"propId" : 12310001,
+		"showText" : "仙盟争霸#守护仙盟"
+	},
+	
+	{
+		"buyLink" : "GuildBattle#GuildDefend",
+		"propId" : 12310002,
+		"showText" : "仙盟争霸#守护仙盟"
+	},
+	
+	{
+		"buyLink" : "GuildBattle#GuildDefend",
+		"propId" : 12310003,
+		"showText" : "仙盟争霸#守护仙盟"
+	},
+	
+	{
+		"buyLink" : "GuildBattle#GuildDefend",
+		"propId" : 12310004,
+		"showText" : "仙盟争霸#守护仙盟"
+	},
+	
+	{
+		"buyLink" : "GuildBattle#GuildDefend",
+		"propId" : 12310005,
+		"showText" : "仙盟争霸#守护仙盟"
+	},
+	
+	{
+		"buyLink" : "GuildBattle#GuildDefend",
+		"propId" : 12310006,
+		"showText" : "仙盟争霸#守护仙盟"
+	},
+	
+	{
+		"buyLink" : "GuildBattle#GuildDefend",
+		"propId" : 12310007,
+		"showText" : "仙盟争霸#守护仙盟"
+	},
+	
+	{
+		"buyLink" : "GuildBattle#GuildDefend",
+		"propId" : 12310008,
+		"showText" : "仙盟争霸#守护仙盟"
+	},
+	
+	{
+		"buyLink" : "GuildBattle#GuildDefend",
+		"propId" : 12310009,
+		"showText" : "仙盟争霸#守护仙盟"
+	},
+	
+	{
+		"buyLink" : "GuildBattle#GuildDefend",
+		"propId" : 12310010,
+		"showText" : "仙盟争霸#守护仙盟"
+	},
+	
+	{
+		"buyLink" : "GuildBattle#GuildDefend",
+		"propId" : 12310011,
+		"showText" : "仙盟争霸#守护仙盟"
+	},
+	
+	{
+		"buyLink" : "GuildBattle#GuildDefend",
+		"propId" : 12310012,
+		"showText" : "仙盟争霸#守护仙盟"
+	},
+	
+	{
+		"buyLink" : "GuildBattle#GuildDefend",
+		"propId" : 12310013,
+		"showText" : "仙盟争霸#守护仙盟"
+	},
+	
+	{
+		"buyLink" : "GuildBattle#GuildDefend",
+		"propId" : 12310014,
+		"showText" : "仙盟争霸#守护仙盟"
+	},
+	
+	{
+		"buyLink" : "GuildBattle#GuildDefend",
+		"propId" : 12310015,
+		"showText" : "仙盟争霸#守护仙盟"
+	},
+	
+	{
+		"buyLink" : "GuildDefend",
+		"propId" : 12320001,
+		"showText" : "守护仙盟"
+	},
+	
+	{
+		"buyLink" : "GuildDefend",
+		"propId" : 12320002,
+		"showText" : "守护仙盟"
+	},
+	
+	{
+		"buyLink" : "GuildDefend",
+		"propId" : 12320003,
+		"showText" : "守护仙盟"
+	},
+	
+	{
+		"buyLink" : "GuildDefend",
+		"propId" : 12320004,
+		"showText" : "守护仙盟"
+	},
+	
+	{
+		"buyLink" : "GuildDefend",
+		"propId" : 12320005,
+		"showText" : "守护仙盟"
+	},
+	
+	{
+		"buyLink" : "GuildDefend",
+		"propId" : 12320006,
+		"showText" : "守护仙盟"
+	},
+	
+	{
+		"buyLink" : "GuildDefend",
+		"propId" : 12320007,
+		"showText" : "守护仙盟"
+	},
+	
+	{
+		"buyLink" : "GuildDefend",
+		"propId" : 12320008,
+		"showText" : "守护仙盟"
+	},
+	
+	{
+		"buyLink" : "GuildDefend",
+		"propId" : 12320009,
+		"showText" : "守护仙盟"
+	},
+	
+	{
+		"buyLink" : "GuildDefend",
+		"propId" : 12320010,
+		"showText" : "守护仙盟"
+	},
+	
+	{
+		"buyLink" : "LoginReward",
+		"propId" : 12320011,
+		"showText" : "登录奖励"
+	},
+	
+	{
+		"buyLink" : "LoginReward",
+		"propId" : 12320012,
+		"showText" : "登录奖励"
+	},
+	
+	{
+		"buyLink" : "LoginReward",
+		"propId" : 12320013,
+		"showText" : "登录奖励"
+	},
+	
+	{
+		"buyLink" : "LoginReward",
+		"propId" : 12320014,
+		"showText" : "登录奖励"
+	},
+	
+	{
+		"buyLink" : "VIPGift5",
+		"propId" : 12320015,
+		"showText" : "VIP5礼包"
+	},
+	
+	{
+		"buyLink" : "VIPGift6",
+		"propId" : 12320016,
+		"showText" : "VIP6礼包"
+	},
+	
+	{
+		"buyLink" : "VIPGift7",
+		"propId" : 12320017,
+		"showText" : "VIP7礼包"
+	},
+	
+	{
+		"buyLink" : "VIPGift8",
+		"propId" : 12320018,
+		"showText" : "VIP8礼包"
+	},
+	
+	{
+		"buyLink" : "Lottery",
+		"propId" : 12330001,
+		"showText" : "装备寻宝"
+	},
+	
+	{
+		"buyLink" : "Lottery",
+		"propId" : 12330002,
+		"showText" : "装备寻宝"
+	},
+	
+	{
+		"buyLink" : "Lottery",
+		"propId" : 12330003,
+		"showText" : "装备寻宝"
+	},
+	
+	{
+		"buyLink" : "Lottery",
+		"propId" : 12330004,
+		"showText" : "装备寻宝"
+	},
+	
+	{
+		"buyLink" : "Lottery",
+		"propId" : 12330005,
+		"showText" : "装备寻宝"
+	},
+	
+	{
+		"buyLink" : "Lottery",
+		"propId" : 12330006,
+		"showText" : "装备寻宝"
+	},
+	
+	{
+		"buyLink" : "Lottery",
+		"propId" : 12330007,
+		"showText" : "装备寻宝"
+	},
+	
+	{
+		"buyLink" : "Lottery",
+		"propId" : 12330008,
+		"showText" : "装备寻宝"
+	},
+	
+	{
+		"buyLink" : "Lottery",
+		"propId" : 12330009,
+		"showText" : "装备寻宝"
+	},
+	
+	{
+		"buyLink" : "VIPGift9",
+		"propId" : 12340003,
+		"showText" : "VIP9礼包"
+	},
+	
+	{
+		"buyLink" : "VIPGift10",
+		"propId" : 12340004,
+		"showText" : "VIP10礼包"
+	},
+	
+	{
+		"buyLink" : "ShopMystery",
+		"propId" : 12350001,
+		"showText" : "神秘商店"
+	},
+	
+	{
+		"buyLink" : "ShopMystery",
+		"propId" : 12350002,
+		"showText" : "神秘商店"
+	},
+	
+	{
+		"buyLink" : "ShopMystery",
+		"propId" : 12350003,
+		"showText" : "神秘商店"
+	},
+	
+	{
+		"buyLink" : "ShopMystery",
+		"propId" : 12350004,
+		"showText" : "神秘商店"
+	},
+	
+	{
+		"buyLink" : "ShopMystery",
+		"propId" : 12350005,
+		"showText" : "神秘商店"
+	},
+	
+	{
+		"buyLink" : "ShopMystery",
+		"propId" : 12350006,
+		"showText" : "神秘商店"
+	},
+	
+	{
+		"buyLink" : "ShopMystery",
+		"propId" : 12350007,
+		"showText" : "神秘商店"
+	},
+	
+	{
+		"buyLink" : "ShopMystery",
+		"propId" : 12350008,
+		"showText" : "神秘商店"
+	},
+	
+	{
+		"buyLink" : "ShopMystery",
+		"propId" : 12360001,
+		"showText" : "神秘商店"
+	},
+	
+	{
+		"buyLink" : "ShopMystery",
+		"propId" : 12360002,
+		"showText" : "神秘商店"
+	},
+	
+	{
+		"buyLink" : "ShopMystery",
+		"propId" : 12360003,
+		"showText" : "神秘商店"
+	},
+	
+	{
+		"buyLink" : "ShopMystery",
+		"propId" : 12360004,
+		"showText" : "神秘商店"
+	},
+	
+	{
+		"buyLink" : "ShopMystery",
+		"propId" : 12360005,
+		"showText" : "神秘商店"
+	},
+	
+	{
+		"buyLink" : "ShopMystery",
+		"propId" : 12360006,
+		"showText" : "神秘商店"
+	},
+	
+	{
+		"buyLink" : "ShopMystery",
+		"propId" : 12360007,
+		"showText" : "神秘商店"
+	},
+	
+	{
+		"buyLink" : "ShopMystery",
+		"propId" : 12360008,
+		"showText" : "神秘商店"
+	},
+	
+	{
+		"buyLink" : "ShopMystery",
+		"propId" : 12370001,
+		"showText" : "神秘商店"
+	},
+	
+	{
+		"buyLink" : "ShopMystery",
+		"propId" : 12370002,
+		"showText" : "神秘商店"
+	},
+	
+	{
+		"buyLink" : "ShopMystery",
+		"propId" : 12370003,
+		"showText" : "神秘商店"
+	},
+	
+	{
+		"buyLink" : "ShopMystery",
+		"propId" : 12370004,
+		"showText" : "神秘商店"
+	},
+	
+	{
+		"buyLink" : "ShopMystery",
+		"propId" : 12370005,
+		"showText" : "神秘商店"
+	},
+	
+	{
+		"buyLink" : "ShopMystery",
+		"propId" : 12370006,
+		"showText" : "神秘商店"
+	},
+	
+	{
+		"buyLink" : "ShopMystery",
+		"propId" : 12370007,
+		"showText" : "神秘商店"
+	},
+	
+	{
+		"buyLink" : "ShopMystery",
+		"propId" : 12370008,
+		"showText" : "神秘商店"
+	},
+	
+	{
+		"buyLink" : "VIP4",
+		"propId" : 12380001,
+		"showText" : "VIP4奖励"
+	},
+	
+	{
+		"buyLink" : "VIP5",
+		"propId" : 12380002,
+		"showText" : "VIP5奖励"
+	},
+	
+	{
+		"buyLink" : "VIP6",
+		"propId" : 12380003,
+		"showText" : "VIP6奖励"
+	},
+	
+	{
+		"buyLink" : "VIP7",
+		"propId" : 12380005,
+		"showText" : "VIP7奖励"
+	},
+	
+	{
+		"buyLink" : "VIP8",
+		"propId" : 12380006,
+		"showText" : "VIP8奖励"
+	},
+	
+	{
+		"buyLink" : "VIP9",
+		"propId" : 12380007,
+		"showText" : "VIP9奖励"
+	},
+	
+	{
+		"buyLink" : "VIP10",
+		"propId" : 12380008,
+		"showText" : "VIP10奖励"
+	},
+	
+	{
+		"buyLink" : "VIP6",
+		"propId" : 12380009,
+		"showText" : "VIP6奖励"
+	},
+	
+	{
+		"buyLink" : "VIP8",
+		"propId" : 12380010,
+		"showText" : "VIP8奖励"
+	},
+	
+	{
+		"buyLink" : "VIP10",
+		"propId" : 12380011,
+		"showText" : "VIP10奖励"
+	},
+	
+	{
+		"buyLink" : "GodBoss",
+		"propId" : 31500001,
+		"showText" : "神域BOSS"
+	},
+	
+	{
+		"buyLink" : "GodBoss",
+		"propId" : 31500101,
+		"showText" : "神域BOSS"
+	},
+	
+	{
+		"buyLink" : "GodBoss",
+		"propId" : 31500102,
+		"showText" : "神域BOSS"
+	},
+	
+	{
+		"buyLink" : "GodBoss",
+		"propId" : 31500103,
+		"showText" : "神域BOSS"
+	},
+	
+	{
+		"buyLink" : "GodBoss",
+		"propId" : 31500104,
+		"showText" : "神域BOSS"
+	},
+	
+	{
+		"buyLink" : "GodBoss",
+		"propId" : 31500201,
+		"showText" : "神域BOSS"
+	},
+	
+	{
+		"buyLink" : "GodBoss",
+		"propId" : 31500202,
+		"showText" : "神域BOSS"
+	},
+	
+	{
+		"buyLink" : "GodBoss",
+		"propId" : 31500203,
+		"showText" : "神域BOSS"
+	},
+	
+	{
+		"buyLink" : "GodBoss",
+		"propId" : 31500204,
+		"showText" : "神域BOSS"
+	},
+	
+	{
+		"buyLink" : "GodBoss",
+		"propId" : 31500301,
+		"showText" : "神域BOSS"
+	},
+	
+	{
+		"buyLink" : "GodBoss",
+		"propId" : 31500302,
+		"showText" : "神域BOSS"
+	},
+	
+	{
+		"buyLink" : "GodBoss",
+		"propId" : 31500303,
+		"showText" : "神域BOSS"
+	},
+	
+	{
+		"buyLink" : "GodBoss",
+		"propId" : 31500304,
+		"showText" : "神域BOSS"
+	},
+	
+	{
+		"buyLink" : "GodBoss",
+		"propId" : 31500401,
+		"showText" : "神域BOSS"
+	},
+	
+	{
+		"buyLink" : "GodBoss",
+		"propId" : 31500402,
+		"showText" : "神域BOSS"
+	},
+	
+	{
+		"buyLink" : "GodBoss",
+		"propId" : 31500403,
+		"showText" : "神域BOSS"
+	},
+	
+	{
+		"buyLink" : "GodBoss",
+		"propId" : 31500404,
+		"showText" : "神域BOSS"
+	},
+	
+	{
+		"buyLink" : "CopySword",
+		"propId" : 32000000,
+		"showText" : "守护天书"
+	},
+	
+	{
+		"buyLink" : "CopySword",
+		"propId" : 32001001,
+		"showText" : "守护天书"
+	},
+	
+	{
+		"buyLink" : "CopySword",
+		"propId" : 32002001,
+		"showText" : "守护天书"
+	},
+	
+	{
+		"buyLink" : "CopySword",
+		"propId" : 32003001,
+		"showText" : "守护天书"
+	},
+	
+	{
+		"buyLink" : "CopySword",
+		"propId" : 32004001,
+		"showText" : "守护天书"
+	},
+	
+	{
+		"buyLink" : "RechargeDay",
+		"canBuy" : 1,
+		"propId" : 35000000,
+		"showText" : "每日充值"
+	},
+	
+	{
+		"buyLink" : "GamePlayCampBattle#GamePlayCrossStair",
+		"propId" : 36000000,
+		"showText" : "激战五洲#青云之巅"
+	},
+	
+	{
+		"buyLink" : "VIP9",
+		"propId" : 36100001,
+		"showText" : "VIP9奖励"
+	},
+	
+	{
+		"buyLink" : "VIP7",
+		"propId" : 37100002,
+		"showText" : "VIP7奖励"
+	},
+	
+	{
+		"buyLink" : "Mining",
+		"propId" : 40110221,
+		"showText" : "龙脉夺宝"
+	},
+	
+	{
+		"buyLink" : "TrainNobility",
+		"canBuy" : 1,
+		"propId" : 40110252,
+		"showText" : "日常"
+	},
+	
+	{
+		"buyLink" : "Mining",
+		"propId" : 40110401,
+		"showText" : "龙脉夺宝"
+	},
+	
+	{
+		"buyLink" : "Mining",
+		"propId" : 40110402,
+		"showText" : "龙脉夺宝"
+	},
+	
+	{
+		"buyLink" : "Mining",
+		"propId" : 40110403,
+		"showText" : "龙脉夺宝"
+	},
+	
+	{
+		"buyLink" : "Mining",
+		"propId" : 40110404,
+		"showText" : "龙脉夺宝"
+	},
+	
+	{
+		"buyLink" : "Mining",
+		"propId" : 40110411,
+		"showText" : "龙脉夺宝"
+	},
+	
+	{
+		"buyLink" : "Mining",
+		"propId" : 40110412,
+		"showText" : "龙脉夺宝"
+	},
+	
+	{
+		"buyLink" : "Mining",
+		"propId" : 40110413,
+		"showText" : "龙脉夺宝"
+	},
+	
+	{
+		"buyLink" : "Mining",
+		"propId" : 40110414,
+		"showText" : "龙脉夺宝"
+	},
+	
+	{
+		"buyLink" : "Mining",
+		"propId" : 40110415,
+		"showText" : "龙脉夺宝"
+	},
+	
+	{
+		"buyLink" : "Mining",
+		"propId" : 40110416,
+		"showText" : "龙脉夺宝"
+	},
+	
+	{
+		"buyLink" : "Mining",
+		"propId" : 40110421,
+		"showText" : "龙脉夺宝"
+	},
+	
+	{
+		"buyLink" : "Mining",
+		"propId" : 40110422,
+		"showText" : "龙脉夺宝"
+	},
+	
+	{
+		"buyLink" : "Mining",
+		"propId" : 40110423,
+		"showText" : "龙脉夺宝"
+	},
+	
+	{
+		"buyLink" : "Mining",
+		"propId" : 40110424,
+		"showText" : "龙脉夺宝"
+	},
+	
+	{
+		"buyLink" : "Mining",
+		"propId" : 40110425,
+		"showText" : "龙脉夺宝"
+	},
+	
+	{
+		"buyLink" : "Mining",
+		"propId" : 40110426,
+		"showText" : "龙脉夺宝"
+	},
+	
+	{
+		"buyLink" : "Mining",
+		"propId" : 40110431,
+		"showText" : "龙脉夺宝"
+	},
+	
+	{
+		"buyLink" : "Mining",
+		"propId" : 40110432,
+		"showText" : "龙脉夺宝"
+	},
+	
+	{
+		"buyLink" : "Mining",
+		"propId" : 40110433,
+		"showText" : "龙脉夺宝"
+	},
+	
+	{
+		"buyLink" : "Mining",
+		"propId" : 40110434,
+		"showText" : "龙脉夺宝"
+	},
+	
+	{
+		"buyLink" : "Mining",
+		"propId" : 40110435,
+		"showText" : "龙脉夺宝"
+	},
+	
+	{
+		"buyLink" : "Mining",
+		"propId" : 40110436,
+		"showText" : "龙脉夺宝"
+	},
+	
+	{
+		"buyLink" : "Mining",
+		"propId" : 40110437,
+		"showText" : "龙脉夺宝"
+	},
+	
+	{
+		"buyLink" : "Mining",
+		"propId" : 40110438,
+		"showText" : "龙脉夺宝"
+	},
+	
+	{
+		"buyLink" : "Lottery",
+		"propId" : 40151012,
+		"showText" : "装备寻宝"
+	},
+	
+	{
+		"buyLink" : "NewServerLimitBuy#CopyMaterial#ShopMystery",
+		"canBuy" : 1,
+		"propId" : 40151013,
+		"showText" : "开服限购#材料副本#商城购买"
+	},
+	
+	{
+		"buyLink" : "CopyMaterial#ShopMystery",
+		"canBuy" : 1,
+		"propId" : 40151014,
+		"showText" : "材料副本#商城购买"
+	},
+	
+	{
+		"buyLink" : "Smelt#Encounter#TrainNobility#CheckPoint",
+		"propId" : 41950002,
+		"showText" : "熔炼装备#仙道斗法#日常#通关关卡"
+	},
+	
+	{
+		"buyLink" : "MgRecharge",
+		"propId" : 42220010,
+		"showText" : "七天累充"
+	},
+	
+	{
+		"buyLink" : "VIPGift4",
+		"propId" : 42220020,
+		"showText" : "VIP4礼包"
+	},
+	
+	{
+		"buyLink" : "VIPGift3",
+		"propId" : 42580120,
+		"showText" : "VIP3礼包"
+	},
+	
+	{
+		"buyLink" : "Team2",
+		"propId" : 42580130,
+		"showText" : "跨服组队"
+	},
+	
+	{
+		"buyLink" : "MgRecharge",
+		"propId" : 50010001,
+		"showText" : "七天累充"
+	},
+	
+	{
+		"buyLink" : "Peak",
+		"propId" : 50010002,
+		"showText" : "巅峰赛季"
+	},
+	
+	{
+		"buyLink" : "LoginReward",
+		"propId" : 50010003,
+		"showText" : "登陆奖励"
+	},
+	
+	{
+		"buyLink" : "GuildBattle",
+		"propId" : 50010005,
+		"showText" : "仙盟争霸"
+	},
+	
+	{
+		"buyLink" : "RechargeDayReturn",
+		"propId" : 50010006,
+		"showText" : "天天返利"
+	},
+	
+	{
+		"buyLink" : "Peak",
+		"propId" : 50010007,
+		"showText" : "巅峰赛季"
+	},
+	
+	{
+		"buyLink" : "RechargeDay",
+		"propId" : 50010101,
+		"showText" : "首充"
+	},
+	
+	{
+		"buyLink" : "MgRecharge",
+		"propId" : 50020002,
+		"showText" : "七天累充"
+	},
+	
+	{
+		"buyLink" : "GuildBattle",
+		"propId" : 50020003,
+		"showText" : "仙盟争霸"
+	},
+	
+	{
+		"buyLink" : "Peak",
+		"propId" : 50020004,
+		"showText" : "巅峰赛季"
+	},
+	
+	{
+		"buyLink" : "Peak",
+		"propId" : 50020005,
+		"showText" : "巅峰赛季"
+	},
+	
+	{
+		"buyLink" : "RechargeDay",
+		"propId" : 50020101,
+		"showText" : "首充"
+	},
+	
+	{
+		"buyLink" : "Smelt",
+		"propId" : 60010001,
+		"showText" : "熔炼装备"
+	},
+	
+	{
+		"buyLink" : "Lottery",
+		"canBuy" : 1,
+		"propId" : 60010002,
+		"showText" : "装备寻宝"
+	},
+	
+	{
+		"buyLink" : "Team2#ShopMystery",
+		"propId" : 60040001,
+		"showText" : "跨服组队#神秘商店"
+	},
+	
+	{
+		"buyLink" : "CopyMaterial#ShopMystery",
+		"canBuy" : 1,
+		"linkTo" : "CopyHall,CopyHallMaterial#Shop,ShopMystery",
+		"propId" : 60040002,
+		"showText" : "材料副本#商城购买"
+	},
+	
+	{
+		"buyLink" : "MagicWeaponCopy",
+		"propId" : 60060010,
+		"showText" : "法宝副本"
+	},
+	
+	{
+		"buyLink" : "SignIn#GamePlayExam",
+		"propId" : 60150010,
+		"showText" : "福利#科举比赛"
+	},
+	
+	{
+		"buyLink" : "Encounter#Area#BossCountry#SecretBoss",
+		"propId" : 60200000,
+		"showText" : "仙道斗法#皇者争霸#野外BOSS#秘境BOSS"
+	},
+	
+	{
+		"buyLink" : "Area",
+		"propId" : 83040000,
+		"showText" : "皇者争霸"
+	},
+	
+	{
+		"buyLink" : "VIP2#PrivilegeCard",
+		"propId" : 419906002,
+		"showText" : "VIP2、VIP6收益#特权月卡"
+	}
+]

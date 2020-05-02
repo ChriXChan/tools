@@ -1,0 +1,263 @@
+
+[
+	
+	{
+		"attrList" : "1,869#2,34776#3,348#4,348#55,120#",
+		"code" : 1,
+		"itemCode" : 31500101,
+		"level" : 1,
+		"limits" : "2,2#",
+		"smeltPlanCode" : 1,
+		"strengthenExType" : 8,
+		"transMoneyCostAmount" : 500,
+		"transMoneyCostUnit" : 2,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,2147#2,85871#3,859#4,859#55,250#",
+		"code" : 2,
+		"itemCode" : 31500102,
+		"level" : 2,
+		"limits" : "2,4#",
+		"smeltPlanCode" : 2,
+		"strengthenExType" : 8,
+		"transMoneyCostAmount" : 1000,
+		"transMoneyCostUnit" : 2,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,4318#2,172733#3,1727#4,1727#55,450#",
+		"code" : 3,
+		"itemCode" : 31500103,
+		"level" : 3,
+		"limits" : "2,6#",
+		"smeltPlanCode" : 3,
+		"strengthenExType" : 8,
+		"transMoneyCostAmount" : 1500,
+		"transMoneyCostUnit" : 2,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,8010#2,320397#3,3204#4,3204#55,750#",
+		"code" : 4,
+		"itemCode" : 31500104,
+		"level" : 4,
+		"limits" : "2,7#",
+		"smeltPlanCode" : 4,
+		"strengthenExType" : 8,
+		"transMoneyCostAmount" : 2000,
+		"transMoneyCostUnit" : 2,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,14286#2,571429#3,5714#4,5714#55,1200#",
+		"code" : 5,
+		"itemCode" : 31500105,
+		"level" : 5,
+		"limits" : "2,8#",
+		"smeltPlanCode" : 5,
+		"strengthenExType" : 8,
+		"transMoneyCostAmount" : 2500,
+		"transMoneyCostUnit" : 2,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,869#2,34776#3,348#4,348#56,120#",
+		"code" : 6,
+		"itemCode" : 31500201,
+		"level" : 1,
+		"limits" : "2,2#",
+		"smeltPlanCode" : 6,
+		"strengthenExType" : 8,
+		"transMoneyCostAmount" : 500,
+		"transMoneyCostUnit" : 2,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "1,2147#2,85871#3,859#4,859#56,250#",
+		"code" : 7,
+		"itemCode" : 31500202,
+		"level" : 2,
+		"limits" : "2,4#",
+		"smeltPlanCode" : 7,
+		"strengthenExType" : 8,
+		"transMoneyCostAmount" : 1000,
+		"transMoneyCostUnit" : 2,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "1,4318#2,172733#3,1727#4,1727#56,450#",
+		"code" : 8,
+		"itemCode" : 31500203,
+		"level" : 3,
+		"limits" : "2,6#",
+		"smeltPlanCode" : 8,
+		"strengthenExType" : 8,
+		"transMoneyCostAmount" : 1500,
+		"transMoneyCostUnit" : 2,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "1,8010#2,320397#3,3204#4,3204#56,750#",
+		"code" : 9,
+		"itemCode" : 31500204,
+		"level" : 4,
+		"limits" : "2,7#",
+		"smeltPlanCode" : 9,
+		"strengthenExType" : 8,
+		"transMoneyCostAmount" : 2000,
+		"transMoneyCostUnit" : 2,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "1,14286#2,571429#3,5714#4,5714#56,1200#",
+		"code" : 10,
+		"itemCode" : 31500205,
+		"level" : 5,
+		"limits" : "2,8#",
+		"smeltPlanCode" : 10,
+		"strengthenExType" : 8,
+		"transMoneyCostAmount" : 2500,
+		"transMoneyCostUnit" : 2,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "1,869#2,34776#3,348#4,348#55,120#",
+		"code" : 11,
+		"itemCode" : 31500301,
+		"level" : 1,
+		"limits" : "2,2#",
+		"smeltPlanCode" : 11,
+		"strengthenExType" : 8,
+		"transMoneyCostAmount" : 500,
+		"transMoneyCostUnit" : 2,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,2147#2,85871#3,859#4,859#55,250#",
+		"code" : 12,
+		"itemCode" : 31500302,
+		"level" : 2,
+		"limits" : "2,4#",
+		"smeltPlanCode" : 12,
+		"strengthenExType" : 8,
+		"transMoneyCostAmount" : 1000,
+		"transMoneyCostUnit" : 2,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,4318#2,172733#3,1727#4,1727#55,450#",
+		"code" : 13,
+		"itemCode" : 31500303,
+		"level" : 3,
+		"limits" : "2,6#",
+		"smeltPlanCode" : 13,
+		"strengthenExType" : 8,
+		"transMoneyCostAmount" : 1500,
+		"transMoneyCostUnit" : 2,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,8010#2,320397#3,3204#4,3204#55,750#",
+		"code" : 14,
+		"itemCode" : 31500304,
+		"level" : 4,
+		"limits" : "2,7#",
+		"smeltPlanCode" : 14,
+		"strengthenExType" : 8,
+		"transMoneyCostAmount" : 2000,
+		"transMoneyCostUnit" : 2,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,14286#2,571429#3,5714#4,5714#55,1200#",
+		"code" : 15,
+		"itemCode" : 31500305,
+		"level" : 5,
+		"limits" : "2,8#",
+		"smeltPlanCode" : 15,
+		"strengthenExType" : 8,
+		"transMoneyCostAmount" : 2500,
+		"transMoneyCostUnit" : 2,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,869#2,34776#3,348#4,348#56,120#",
+		"code" : 16,
+		"itemCode" : 31500401,
+		"level" : 1,
+		"limits" : "2,2#",
+		"smeltPlanCode" : 16,
+		"strengthenExType" : 8,
+		"transMoneyCostAmount" : 500,
+		"transMoneyCostUnit" : 2,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "1,2147#2,85871#3,859#4,859#56,250#",
+		"code" : 17,
+		"itemCode" : 31500402,
+		"level" : 2,
+		"limits" : "2,4#",
+		"smeltPlanCode" : 17,
+		"strengthenExType" : 8,
+		"transMoneyCostAmount" : 1000,
+		"transMoneyCostUnit" : 2,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "1,4318#2,172733#3,1727#4,1727#56,450#",
+		"code" : 18,
+		"itemCode" : 31500403,
+		"level" : 3,
+		"limits" : "2,6#",
+		"smeltPlanCode" : 18,
+		"strengthenExType" : 8,
+		"transMoneyCostAmount" : 1500,
+		"transMoneyCostUnit" : 2,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "1,8010#2,320397#3,3204#4,3204#56,750#",
+		"code" : 19,
+		"itemCode" : 31500404,
+		"level" : 4,
+		"limits" : "2,7#",
+		"smeltPlanCode" : 19,
+		"strengthenExType" : 8,
+		"transMoneyCostAmount" : 2000,
+		"transMoneyCostUnit" : 2,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "1,14286#2,571429#3,5714#4,5714#56,1200#",
+		"code" : 20,
+		"itemCode" : 31500405,
+		"level" : 5,
+		"limits" : "2,8#",
+		"smeltPlanCode" : 20,
+		"strengthenExType" : 8,
+		"transMoneyCostAmount" : 2500,
+		"transMoneyCostUnit" : 2,
+		"type" : 4
+	}
+]

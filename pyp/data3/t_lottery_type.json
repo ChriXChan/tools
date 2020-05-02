@@ -1,0 +1,359 @@
+
+[
+	
+	{
+		"bestPersonLower" : 190,
+		"bestPersonUp" : 199,
+		"maxLevel" : 999,
+		"name" : "玄灵宝藏",
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"type" : 100,
+		"unit" : 2
+	},
+	
+	{
+		"bestPersonLower" : 190,
+		"bestPersonUp" : 199,
+		"maxLevel" : 999,
+		"name" : "玄灵宝藏",
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"roleState" : 1,
+		"type" : 101,
+		"unit" : 2
+	},
+	
+	{
+		"bestPersonLower" : 190,
+		"bestPersonUp" : 199,
+		"maxLevel" : 999,
+		"name" : "玄灵宝藏",
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"roleState" : 2,
+		"type" : 102,
+		"unit" : 2
+	},
+	
+	{
+		"bestPersonLower" : 190,
+		"bestPersonUp" : 199,
+		"maxLevel" : 999,
+		"name" : "玄灵宝藏",
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"roleState" : 3,
+		"type" : 103,
+		"unit" : 2
+	},
+	
+	{
+		"bestPersonLower" : 190,
+		"bestPersonUp" : 199,
+		"maxLevel" : 999,
+		"name" : "玄灵宝藏",
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"roleState" : 4,
+		"type" : 104,
+		"unit" : 2
+	},
+	
+	{
+		"bestPersonLower" : 190,
+		"bestPersonUp" : 199,
+		"maxLevel" : 999,
+		"name" : "玄灵宝藏",
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"roleState" : 5,
+		"type" : 105,
+		"unit" : 2
+	},
+	
+	{
+		"bestPersonLower" : 190,
+		"bestPersonUp" : 199,
+		"maxLevel" : 999,
+		"name" : "玄灵宝藏",
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"roleState" : 6,
+		"type" : 106,
+		"unit" : 2
+	},
+	
+	{
+		"bestPersonLower" : 190,
+		"bestPersonUp" : 199,
+		"maxLevel" : 999,
+		"name" : "玄灵宝藏",
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"roleState" : 7,
+		"type" : 107,
+		"unit" : 2
+	},
+	
+	{
+		"bestPersonLower" : 190,
+		"bestPersonUp" : 199,
+		"maxLevel" : 999,
+		"name" : "玄灵宝藏",
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"roleState" : 8,
+		"type" : 108,
+		"unit" : 2
+	},
+	
+	{
+		"bestPersonLower" : 190,
+		"bestPersonUp" : 199,
+		"maxLevel" : 999,
+		"name" : "玄灵宝藏",
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"roleState" : 9,
+		"type" : 109,
+		"unit" : 2
+	},
+	
+	{
+		"bestPersonLower" : 190,
+		"bestPersonUp" : 199,
+		"maxLevel" : 999,
+		"name" : "玄灵宝藏",
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"roleState" : 10,
+		"type" : 110,
+		"unit" : 2
+	},
+	
+	{
+		"bestPersonLower" : 190,
+		"bestPersonUp" : 199,
+		"maxLevel" : 999,
+		"name" : "玄灵宝藏",
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"roleState" : 11,
+		"type" : 111,
+		"unit" : 2
+	},
+	
+	{
+		"bestPersonLower" : 190,
+		"bestPersonUp" : 199,
+		"maxLevel" : 999,
+		"name" : "玄灵宝藏",
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"roleState" : 12,
+		"type" : 112,
+		"unit" : 2
+	},
+	
+	{
+		"bestPersonLower" : 190,
+		"bestPersonUp" : 199,
+		"maxLevel" : 999,
+		"name" : "玄灵宝藏",
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"roleState" : 13,
+		"type" : 113,
+		"unit" : 2
+	},
+	
+	{
+		"maxBless" : 99,
+		"maxLevel" : 999,
+		"name" : "符文寻宝",
+		"propCode" : 42061004,
+		"propNum" : 1,
+		"type" : 200,
+		"unit" : 2
+	},
+	
+	{
+		"maxBless" : 99,
+		"maxLevel" : 999,
+		"name" : "符文寻宝",
+		"propCode" : 42061004,
+		"propNum" : 1,
+		"type" : 201,
+		"unit" : 2
+	},
+	
+	{
+		"maxBless" : 99,
+		"maxLevel" : 999,
+		"name" : "符文寻宝",
+		"propCode" : 42061004,
+		"propNum" : 1,
+		"type" : 202,
+		"unit" : 2
+	},
+	
+	{
+		"maxBless" : 99,
+		"maxLevel" : 999,
+		"name" : "符文寻宝",
+		"propCode" : 42061004,
+		"propNum" : 1,
+		"type" : 203,
+		"unit" : 2
+	},
+	
+	{
+		"maxBless" : 99,
+		"maxLevel" : 999,
+		"name" : "符文寻宝",
+		"propCode" : 42061004,
+		"propNum" : 1,
+		"type" : 204,
+		"unit" : 2
+	},
+	
+	{
+		"maxBless" : 99,
+		"maxLevel" : 999,
+		"name" : "符文寻宝",
+		"propCode" : 42061004,
+		"propNum" : 1,
+		"type" : 205,
+		"unit" : 2
+	},
+	
+	{
+		"maxBless" : 99,
+		"maxLevel" : 999,
+		"name" : "符文寻宝",
+		"propCode" : 42061004,
+		"propNum" : 1,
+		"type" : 206,
+		"unit" : 2
+	},
+	
+	{
+		"maxBless" : 99,
+		"maxLevel" : 999,
+		"name" : "符文寻宝",
+		"propCode" : 42061004,
+		"propNum" : 1,
+		"type" : 207,
+		"unit" : 2
+	},
+	
+	{
+		"maxBless" : 99,
+		"maxLevel" : 999,
+		"name" : "符文寻宝",
+		"propCode" : 42061004,
+		"propNum" : 1,
+		"type" : 208,
+		"unit" : 2
+	},
+	
+	{
+		"maxBless" : 99,
+		"maxLevel" : 999,
+		"name" : "符文寻宝",
+		"propCode" : 42061004,
+		"propNum" : 1,
+		"type" : 209,
+		"unit" : 2
+	},
+	
+	{
+		"maxBless" : 99,
+		"maxLevel" : 999,
+		"name" : "符文寻宝",
+		"propCode" : 42061004,
+		"propNum" : 1,
+		"type" : 210,
+		"unit" : 2
+	},
+	
+	{
+		"maxBless" : 99,
+		"maxLevel" : 999,
+		"name" : "符文寻宝",
+		"propCode" : 42061004,
+		"propNum" : 1,
+		"type" : 211,
+		"unit" : 2
+	},
+	
+	{
+		"maxBless" : 99,
+		"maxLevel" : 999,
+		"name" : "符文寻宝",
+		"propCode" : 42061004,
+		"propNum" : 1,
+		"type" : 212,
+		"unit" : 2
+	},
+	
+	{
+		"maxBless" : 500,
+		"maxLevel" : 999,
+		"name" : "混元寻宝",
+		"propNum" : 1,
+		"roleState" : 3,
+		"type" : 400,
+		"unit" : 2
+	},
+	
+	{
+		"maxLevel" : 999,
+		"name" : "诛仙塔10层转盘",
+		"type" : 500,
+		"unit" : 34
+	},
+	
+	{
+		"maxLevel" : 999,
+		"name" : "诛仙塔20层转盘",
+		"type" : 501,
+		"unit" : 34
+	},
+	
+	{
+		"maxLevel" : 999,
+		"name" : "诛仙塔30层转盘",
+		"type" : 502,
+		"unit" : 34
+	},
+	
+	{
+		"maxLevel" : 999,
+		"name" : "诛仙塔40层转盘",
+		"type" : 503,
+		"unit" : 34
+	},
+	
+	{
+		"maxLevel" : 999,
+		"name" : "诛仙塔50层转盘",
+		"type" : 504,
+		"unit" : 34
+	},
+	
+	{
+		"maxLevel" : 999,
+		"name" : "诛仙塔60层转盘",
+		"type" : 505,
+		"unit" : 34
+	},
+	
+	{
+		"maxLevel" : 999,
+		"name" : "诛仙塔70层转盘",
+		"type" : 506,
+		"unit" : 34
+	}
+]

@@ -1,0 +1,182 @@
+
+[
+	
+	{
+		"day" : "0",
+		"desc" : "走对错，抢答题，获经验！抢答速度决名次！",
+		"exp" : 5,
+		"iconRes" : "2001",
+		"id" : 1001,
+		"idx" : 1,
+		"key" : "QuestionCopy",
+		"name" : "修仙论道",
+		"operType" : 1,
+		"operValue" : 8002,
+		"showReward" : "41950001#60060011#40890061#",
+		"time" : "12:00-12:10",
+		"timeDesc" : "中午12点整",
+		"times" : 1
+	},
+	
+	{
+		"day" : "0",
+		"desc" : "双倍经验、双倍铜钱，活动时间不要错过！",
+		"iconRes" : "1004",
+		"id" : 1002,
+		"idx" : 2,
+		"key" : "Transport",
+		"name" : "双倍护送",
+		"showReward" : "41950001#41950002#",
+		"time" : "16:00-16:30#21:30-22:00",
+		"timeDesc" : "下午16点整、晚上21点30分",
+		"times" : 1
+	},
+	
+	{
+		"day" : "1,3,5,7",
+		"desc" : "活动共9层，热情乱斗聚巅峰，完成目标获豪礼！",
+		"exp" : 5,
+		"iconRes" : "2003",
+		"id" : 1003,
+		"idx" : 3,
+		"key" : "CrossStair",
+		"name" : "青云之巅",
+		"operType" : 1,
+		"operValue" : 5002,
+		"showReward" : "41950001#60040006#41951001#",
+		"time" : "20:00-20:30",
+		"timeDesc" : "晚上20点整",
+		"times" : 1
+	},
+	
+	{
+		"day" : "2,4,6",
+		"desc" : "三界争锋，激情PK决名次，完成目标获豪礼！",
+		"exp" : 5,
+		"iconRes" : "2004",
+		"id" : 1004,
+		"idx" : 4,
+		"key" : "ForceWar",
+		"name" : "三界战场",
+		"operType" : 1,
+		"operValue" : 5001,
+		"showReward" : "41950001#60060017#40890051#41951001#",
+		"time" : "20:00-20:15",
+		"timeDesc" : "晚上20点整",
+		"times" : 1
+	},
+	
+	{
+		"day" : "2,4,6",
+		"desc" : "晚宴齐聚尝烧猪，活动期间得经验，仙盟频道答题赢贡献，决出前三获红包！",
+		"exp" : 5,
+		"iconRes" : "2005",
+		"id" : 1005,
+		"idx" : 5,
+		"key" : "GuildParty",
+		"name" : "仙盟晚宴",
+		"operType" : 1,
+		"operValue" : 5004,
+		"showReward" : "41950001#41950005#",
+		"time" : "20:30-20:45",
+		"timeDesc" : "晚上20点30分",
+		"times" : 1
+	},
+	
+	{
+		"day" : "1,3,5",
+		"desc" : "凌霄殿上采秘宝，每次上限采20，宝石材料免费拿！",
+		"iconRes" : "2006",
+		"id" : 1006,
+		"idx" : 6,
+		"key" : "Treasure",
+		"name" : "青云夺宝",
+		"showReward" : "41950002#41950011#60040002#60040001#",
+		"time" : "20:30-20:45",
+		"timeDesc" : "晚上20点30分",
+		"times" : 1
+	},
+	
+	{
+		"day" : "2,4,6",
+		"desc" : "同场竞技拼实力，完成10场豪奖励！段位显排名，每日领荣誉！",
+		"iconRes" : "2007",
+		"id" : 1007,
+		"idx" : 7,
+		"key" : "PersonalPk",
+		"name" : "巅峰竞技",
+		"operType" : 1,
+		"operValue" : 5003,
+		"showReward" : "41950001#60040004#60060011#41951001#",
+		"time" : "21:00-21:30",
+		"timeDesc" : "晚上21点整",
+		"times" : 1
+	},
+	
+	{
+		"day" : "7",
+		"desc" : "仙盟大比拼，实力分赛区，神级冠军夺神殿，冠军盟主称主宰！",
+		"endDate" : 4,
+		"exp" : 10,
+		"iconRes" : "2009",
+		"id" : 1009,
+		"idx" : 10,
+		"key" : "GuildPromotionMatch",
+		"name" : "仙盟争霸",
+		"showReward" : "30180011#30180021#41951001#41950005#",
+		"startDate" : 4,
+		"time" : "21:00-21:50",
+		"timeDesc" : "晚上21点整",
+		"times" : 1
+	},
+	
+	{
+		"day" : "1,3,5",
+		"desc" : "兄弟同心，守卫仙盟，消灭来袭敌人，获得海量经验奖励！",
+		"endDate" : 8,
+		"exp" : 5,
+		"iconRes" : "2010",
+		"id" : 1010,
+		"idx" : 8,
+		"key" : "GuildDefense",
+		"name" : "守卫仙盟",
+		"showReward" : "41950001#",
+		"startDate" : 8,
+		"time" : "21:00-22:00",
+		"timeDesc" : "晚上21点整",
+		"times" : 1
+	},
+	
+	{
+		"day" : "7",
+		"desc" : "神魔对抗，全服开战，来次实力与谋略的碰撞，看谁是盖世英雄！",
+		"exp" : 5,
+		"iconRes" : "2011",
+		"id" : 1011,
+		"idx" : 11,
+		"key" : "Battle",
+		"name" : "神魔战场",
+		"operType" : 1,
+		"operValue" : 5005,
+		"showReward" : "40891091#41950001#41951001#40121091#",
+		"time" : "22:00-22:30",
+		"timeDesc" : "晚上22点整",
+		"times" : 1
+	},
+	
+	{
+		"day" : "6",
+		"desc" : "仙盟对抗赛，逐鹿全服霸主，不服来战！",
+		"exp" : 10,
+		"iconRes" : "2012",
+		"id" : 1012,
+		"idx" : 9,
+		"key" : "CrossGuildBattle",
+		"name" : "跨服盟战(测试)",
+		"showReward" : "40123101#42200001#",
+		"startDate" : 30,
+		"time" : "21:30-22:05",
+		"timeDesc" : "晚上21点30分",
+		"times" : 1
+	}
+]

@@ -1,0 +1,1053 @@
+
+[
+	
+	{
+		"rewardCoin" : 4000,
+		"rewardExp" : 10000,
+		"ring" : 1,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 4000,
+		"rewardExp" : 10000,
+		"ring" : 2,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 4000,
+		"rewardExp" : 10000,
+		"ring" : 3,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 4000,
+		"rewardExp" : 10000,
+		"ring" : 4,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 24000,
+		"rewardExp" : 60000,
+		"ring" : 5,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 4400,
+		"rewardExp" : 11000,
+		"ring" : 6,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 4400,
+		"rewardExp" : 11000,
+		"ring" : 7,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 4400,
+		"rewardExp" : 11000,
+		"ring" : 8,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 4400,
+		"rewardExp" : 11000,
+		"ring" : 9,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 26400,
+		"rewardExp" : 66000,
+		"ring" : 10,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 4800,
+		"rewardExp" : 12000,
+		"ring" : 11,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 4800,
+		"rewardExp" : 12000,
+		"ring" : 12,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 4800,
+		"rewardExp" : 12000,
+		"ring" : 13,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 4800,
+		"rewardExp" : 12000,
+		"ring" : 14,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 28800,
+		"rewardExp" : 72000,
+		"ring" : 15,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 5200,
+		"rewardExp" : 13000,
+		"ring" : 16,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 5200,
+		"rewardExp" : 13000,
+		"ring" : 17,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 5200,
+		"rewardExp" : 13000,
+		"ring" : 18,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 5200,
+		"rewardExp" : 13000,
+		"ring" : 19,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 31200,
+		"rewardExp" : 78000,
+		"ring" : 20,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 5600,
+		"rewardExp" : 14000,
+		"ring" : 21,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 5600,
+		"rewardExp" : 14000,
+		"ring" : 22,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 5600,
+		"rewardExp" : 14000,
+		"ring" : 23,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 5600,
+		"rewardExp" : 14000,
+		"ring" : 24,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 33600,
+		"rewardExp" : 84000,
+		"ring" : 25,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 6000,
+		"rewardExp" : 15000,
+		"ring" : 26,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 6000,
+		"rewardExp" : 15000,
+		"ring" : 27,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 6000,
+		"rewardExp" : 15000,
+		"ring" : 28,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 6000,
+		"rewardExp" : 15000,
+		"ring" : 29,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 36000,
+		"rewardExp" : 90000,
+		"ring" : 30,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 6400,
+		"rewardExp" : 16000,
+		"ring" : 31,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 6400,
+		"rewardExp" : 16000,
+		"ring" : 32,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 6400,
+		"rewardExp" : 16000,
+		"ring" : 33,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 6400,
+		"rewardExp" : 16000,
+		"ring" : 34,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 38400,
+		"rewardExp" : 96000,
+		"ring" : 35,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 6800,
+		"rewardExp" : 17000,
+		"ring" : 36,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 6800,
+		"rewardExp" : 17000,
+		"ring" : 37,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 6800,
+		"rewardExp" : 17000,
+		"ring" : 38,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 6800,
+		"rewardExp" : 17000,
+		"ring" : 39,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 40800,
+		"rewardExp" : 102000,
+		"ring" : 40,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 7200,
+		"rewardExp" : 18000,
+		"ring" : 41,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 7200,
+		"rewardExp" : 18000,
+		"ring" : 42,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 7200,
+		"rewardExp" : 18000,
+		"ring" : 43,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 7200,
+		"rewardExp" : 18000,
+		"ring" : 44,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 43200,
+		"rewardExp" : 108000,
+		"ring" : 45,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 7600,
+		"rewardExp" : 19000,
+		"ring" : 46,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 7600,
+		"rewardExp" : 19000,
+		"ring" : 47,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 7600,
+		"rewardExp" : 19000,
+		"ring" : 48,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 7600,
+		"rewardExp" : 19000,
+		"ring" : 49,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 45600,
+		"rewardExp" : 114000,
+		"ring" : 50,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 8000,
+		"rewardExp" : 20000,
+		"ring" : 51,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 8000,
+		"rewardExp" : 20000,
+		"ring" : 52,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 8000,
+		"rewardExp" : 20000,
+		"ring" : 53,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 8000,
+		"rewardExp" : 20000,
+		"ring" : 54,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 48000,
+		"rewardExp" : 120000,
+		"ring" : 55,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 8400,
+		"rewardExp" : 21000,
+		"ring" : 56,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 8400,
+		"rewardExp" : 21000,
+		"ring" : 57,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 8400,
+		"rewardExp" : 21000,
+		"ring" : 58,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 8400,
+		"rewardExp" : 21000,
+		"ring" : 59,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 50400,
+		"rewardExp" : 126000,
+		"ring" : 60,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 8800,
+		"rewardExp" : 22000,
+		"ring" : 61,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 8800,
+		"rewardExp" : 22000,
+		"ring" : 62,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 8800,
+		"rewardExp" : 22000,
+		"ring" : 63,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 8800,
+		"rewardExp" : 22000,
+		"ring" : 64,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 52800,
+		"rewardExp" : 132000,
+		"ring" : 65,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 9200,
+		"rewardExp" : 23000,
+		"ring" : 66,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 9200,
+		"rewardExp" : 23000,
+		"ring" : 67,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 9200,
+		"rewardExp" : 23000,
+		"ring" : 68,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 9200,
+		"rewardExp" : 23000,
+		"ring" : 69,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 55200,
+		"rewardExp" : 138000,
+		"ring" : 70,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 9600,
+		"rewardExp" : 24000,
+		"ring" : 71,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 9600,
+		"rewardExp" : 24000,
+		"ring" : 72,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 9600,
+		"rewardExp" : 24000,
+		"ring" : 73,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 9600,
+		"rewardExp" : 24000,
+		"ring" : 74,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 57600,
+		"rewardExp" : 144000,
+		"ring" : 75,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 10000,
+		"rewardExp" : 25000,
+		"ring" : 76,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 10000,
+		"rewardExp" : 25000,
+		"ring" : 77,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 10000,
+		"rewardExp" : 25000,
+		"ring" : 78,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 10000,
+		"rewardExp" : 25000,
+		"ring" : 79,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 60000,
+		"rewardExp" : 150000,
+		"ring" : 80,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 10400,
+		"rewardExp" : 26000,
+		"ring" : 81,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 10400,
+		"rewardExp" : 26000,
+		"ring" : 82,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 10400,
+		"rewardExp" : 26000,
+		"ring" : 83,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 10400,
+		"rewardExp" : 26000,
+		"ring" : 84,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 62400,
+		"rewardExp" : 156000,
+		"ring" : 85,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 10800,
+		"rewardExp" : 27000,
+		"ring" : 86,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 10800,
+		"rewardExp" : 27000,
+		"ring" : 87,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 10800,
+		"rewardExp" : 27000,
+		"ring" : 88,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 10800,
+		"rewardExp" : 27000,
+		"ring" : 89,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 64800,
+		"rewardExp" : 162000,
+		"ring" : 90,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 11200,
+		"rewardExp" : 28000,
+		"ring" : 91,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 11200,
+		"rewardExp" : 28000,
+		"ring" : 92,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 11200,
+		"rewardExp" : 28000,
+		"ring" : 93,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 11200,
+		"rewardExp" : 28000,
+		"ring" : 94,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 67200,
+		"rewardExp" : 168000,
+		"ring" : 95,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 11600,
+		"rewardExp" : 29000,
+		"ring" : 96,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 11600,
+		"rewardExp" : 29000,
+		"ring" : 97,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 11600,
+		"rewardExp" : 29000,
+		"ring" : 98,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 11600,
+		"rewardExp" : 29000,
+		"ring" : 99,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 69600,
+		"rewardExp" : 174000,
+		"ring" : 100,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 12000,
+		"rewardExp" : 30000,
+		"ring" : 101,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 12000,
+		"rewardExp" : 30000,
+		"ring" : 102,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 12000,
+		"rewardExp" : 30000,
+		"ring" : 103,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 12000,
+		"rewardExp" : 30000,
+		"ring" : 104,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 72000,
+		"rewardExp" : 180000,
+		"ring" : 105,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 12400,
+		"rewardExp" : 31000,
+		"ring" : 106,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 12400,
+		"rewardExp" : 31000,
+		"ring" : 107,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 12400,
+		"rewardExp" : 31000,
+		"ring" : 108,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 12400,
+		"rewardExp" : 31000,
+		"ring" : 109,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 74400,
+		"rewardExp" : 186000,
+		"ring" : 110,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 12800,
+		"rewardExp" : 32000,
+		"ring" : 111,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 12800,
+		"rewardExp" : 32000,
+		"ring" : 112,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 12800,
+		"rewardExp" : 32000,
+		"ring" : 113,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 12800,
+		"rewardExp" : 32000,
+		"ring" : 114,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 76800,
+		"rewardExp" : 192000,
+		"ring" : 115,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 13200,
+		"rewardExp" : 33000,
+		"ring" : 116,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 13200,
+		"rewardExp" : 33000,
+		"ring" : 117,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 13200,
+		"rewardExp" : 33000,
+		"ring" : 118,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 13200,
+		"rewardExp" : 33000,
+		"ring" : 119,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 79200,
+		"rewardExp" : 198000,
+		"ring" : 120,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 13600,
+		"rewardExp" : 34000,
+		"ring" : 121,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 13600,
+		"rewardExp" : 34000,
+		"ring" : 122,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 13600,
+		"rewardExp" : 34000,
+		"ring" : 123,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 13600,
+		"rewardExp" : 34000,
+		"ring" : 124,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 81600,
+		"rewardExp" : 204000,
+		"ring" : 125,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 14000,
+		"rewardExp" : 35000,
+		"ring" : 126,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 14000,
+		"rewardExp" : 35000,
+		"ring" : 127,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 14000,
+		"rewardExp" : 35000,
+		"ring" : 128,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 14000,
+		"rewardExp" : 35000,
+		"ring" : 129,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 84000,
+		"rewardExp" : 210000,
+		"ring" : 130,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 14400,
+		"rewardExp" : 36000,
+		"ring" : 131,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 14400,
+		"rewardExp" : 36000,
+		"ring" : 132,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 14400,
+		"rewardExp" : 36000,
+		"ring" : 133,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 14400,
+		"rewardExp" : 36000,
+		"ring" : 134,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 86400,
+		"rewardExp" : 216000,
+		"ring" : 135,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 14800,
+		"rewardExp" : 37000,
+		"ring" : 136,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 14800,
+		"rewardExp" : 37000,
+		"ring" : 137,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 14800,
+		"rewardExp" : 37000,
+		"ring" : 138,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 14800,
+		"rewardExp" : 37000,
+		"ring" : 139,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 88800,
+		"rewardExp" : 222000,
+		"ring" : 140,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 15200,
+		"rewardExp" : 38000,
+		"ring" : 141,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 15200,
+		"rewardExp" : 38000,
+		"ring" : 142,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 15200,
+		"rewardExp" : 38000,
+		"ring" : 143,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 15200,
+		"rewardExp" : 38000,
+		"ring" : 144,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 91200,
+		"rewardExp" : 228000,
+		"ring" : 145,
+		"stayTime" : 120
+	},
+	
+	{
+		"rewardCoin" : 15600,
+		"rewardExp" : 39000,
+		"ring" : 146,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 15600,
+		"rewardExp" : 39000,
+		"ring" : 147,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 15600,
+		"rewardExp" : 39000,
+		"ring" : 148,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 15600,
+		"rewardExp" : 39000,
+		"ring" : 149,
+		"stayTime" : 60
+	},
+	
+	{
+		"rewardCoin" : 93600,
+		"rewardExp" : 234000,
+		"ring" : 150,
+		"stayTime" : 120
+	}
+]

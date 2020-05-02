@@ -1,0 +1,17 @@
+
+[
+	
+	{
+		"baseExpRate" : 50,
+		"collectLimit" : 10,
+		"desc" : "使用\"神仙眷侣\"彩礼结婚后,可预约该档次婚礼。",
+		"descReward" : "大量喜宴食物可供品尝，有机会获得稀有道具！<br>场景热度达到520、1314、3344时可触发喜从天降奖励",
+		"guest" : 20,
+		"guestMax" : 50,
+		"mailItemBook" : "3,40940001,2",
+		"mailItemGuest" : "3,40940001,1",
+		"name" : "豪华婚礼",
+		"scene" : 240600,
+		"type" : 1
+	}
+]

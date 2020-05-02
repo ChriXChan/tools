@@ -1,0 +1,27 @@
+
+[
+	
+	{
+		"category" : 1,
+		"name" : "攻击",
+		"openRoleState" : 4
+	},
+	
+	{
+		"category" : 2,
+		"name" : "防御",
+		"openRoleState" : 4
+	},
+	
+	{
+		"category" : 3,
+		"name" : "通用",
+		"openRoleState" : 4
+	},
+	
+	{
+		"category" : 4,
+		"name" : "精通",
+		"openRoleState" : 5
+	}
+]

@@ -1,0 +1,103 @@
+
+[
+	
+	{
+		"id" : 1,
+		"map" : 201000,
+		"openLevel" : 45,
+		"rewardDaily" : 40120011,
+		"rewardFirst" : 40120011,
+		"rewardShow" : "41950008,60010001,41950001,41950002",
+		"ring" : 1
+	},
+	
+	{
+		"id" : 2,
+		"map" : 201000,
+		"openLevel" : 50,
+		"rewardDaily" : 40120011,
+		"rewardFirst" : 40120011,
+		"rewardShow" : "41950008,60010001,41950001,41950002",
+		"ring" : 2
+	},
+	
+	{
+		"id" : 3,
+		"map" : 201000,
+		"openLevel" : 55,
+		"rewardDaily" : 40120011,
+		"rewardFirst" : 40120011,
+		"rewardShow" : "41950008,60010001,41950001,41950002",
+		"ring" : 3
+	},
+	
+	{
+		"id" : 4,
+		"map" : 201000,
+		"openLevel" : 60,
+		"rewardDaily" : 40120011,
+		"rewardFirst" : 40120011,
+		"rewardShow" : "41950008,60010001,41950001,41950002",
+		"ring" : 4
+	},
+	
+	{
+		"id" : 5,
+		"map" : 201000,
+		"openLevel" : 65,
+		"rewardDaily" : 40120011,
+		"rewardFirst" : 40120011,
+		"rewardShow" : "41950008,60010001,41950001,41950002",
+		"ring" : 5
+	},
+	
+	{
+		"id" : 6,
+		"map" : 201000,
+		"openLevel" : 70,
+		"rewardDaily" : 40120011,
+		"rewardFirst" : 40120011,
+		"rewardShow" : "41950008,60010001,41950001,41950002",
+		"ring" : 6
+	},
+	
+	{
+		"id" : 7,
+		"map" : 201000,
+		"openLevel" : 75,
+		"rewardDaily" : 40120011,
+		"rewardFirst" : 40120011,
+		"rewardShow" : "41950008,60010001,41950001,41950002",
+		"ring" : 7
+	},
+	
+	{
+		"id" : 8,
+		"map" : 201000,
+		"openLevel" : 80,
+		"rewardDaily" : 40120011,
+		"rewardFirst" : 40120011,
+		"rewardShow" : "41950008,60010001,41950001,41950002",
+		"ring" : 8
+	},
+	
+	{
+		"id" : 9,
+		"map" : 201000,
+		"openLevel" : 85,
+		"rewardDaily" : 40120011,
+		"rewardFirst" : 40120011,
+		"rewardShow" : "41950008,60010001,41950001,41950002",
+		"ring" : 9
+	},
+	
+	{
+		"id" : 10,
+		"map" : 201000,
+		"openLevel" : 90,
+		"rewardDaily" : 40120011,
+		"rewardFirst" : 40120011,
+		"rewardShow" : "41950008,60010001,41950001,41950002",
+		"ring" : 10
+	}
+]

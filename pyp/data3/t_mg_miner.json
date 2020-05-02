@@ -1,0 +1,31 @@
+[
+  {
+    "doubleCost": 1000,
+    "id": 1,
+    "improveCostProp": 1,
+    "maxLucy": 3,
+    "name": "寻脉学徒"
+  },
+  {
+    "costProp": 1,
+    "doubleCost": 1000,
+    "id": 2,
+    "improveCostProp": 2,
+    "maxLucy": 6,
+    "name": "寻脉布衣"
+  },
+  {
+    "costProp": 3,
+    "doubleCost": 1000,
+    "id": 3,
+    "improveCostProp": 4,
+    "maxLucy": 12,
+    "name": "寻脉游侠"
+  },
+  {
+    "costProp": 7,
+    "doubleCost": 1000,
+    "id": 4,
+    "name": "寻脉宗主"
+  }
+]

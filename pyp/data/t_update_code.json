@@ -1,0 +1,2940 @@
+
+[
+	
+	{
+		"ckConsPro" : 1,
+		"updateCode" : 1,
+		"updateName" : "EUpdateCodeTest",
+		"updateStr" : "测试"
+	},
+	
+	{
+		"updateCode" : 2,
+		"updateName" : "EUpdateCodeGM",
+		"updateStr" : "GM"
+	},
+	
+	{
+		"updateCode" : 4,
+		"updateName" : "EUpdateCodeLogin",
+		"updateStr" : "登陆"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 5,
+		"updateName" : "EUpdateCodeTask",
+		"updateStr" : "任务"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 6,
+		"updateName" : "EUpdateCodeChatTrumpet",
+		"updateStr" : "聊天大喇叭"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 7,
+		"updateName" : "EUpdateCodeSkill",
+		"updateStr" : "技能"
+	},
+	
+	{
+		"updateCode" : 9,
+		"updateName" : "EUpdateCodeSystem",
+		"updateStr" : "系统"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 10,
+		"updateName" : "EUpdateCodeByCopy",
+		"updateStr" : "副本"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 11,
+		"updateName" : "EUpdateCodeTaskAndGuide",
+		"updateStr" : "任务并指引"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 12,
+		"updateName" : "EUpdateCodeTransport",
+		"updateStr" : "护送美女"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 13,
+		"updateName" : "EUpdateCodeTaskCancel",
+		"updateStr" : "任务放弃"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 14,
+		"updateName" : "EUpdateCodeBattleFieldAward",
+		"updateStr" : "战场奖励"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 19,
+		"updateName" : "EUpdateCodeByOfflineUpdateCachedCoinBind",
+		"updateStr" : "离线更新延迟更新的绑定铜钱"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 21,
+		"updateName" : "EUpdateCodeLove",
+		"updateStr" : "情缘"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 23,
+		"updateName" : "EUpdateCodeBossFieldAward",
+		"updateStr" : "封魔战场奖励"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 61,
+		"updateName" : "EUpdateCodeOpenRechargeGiftBag",
+		"updateStr" : "开服充值礼包"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 62,
+		"updateName" : "EUpdateCodeUseMediaCard",
+		"updateStr" : "使用媒体卡"
+	},
+	
+	{
+		"updateCode" : 100,
+		"updateName" : "EUpdateCodeBagTidy",
+		"updateStr" : "整理背包"
+	},
+	
+	{
+		"updateCode" : 101,
+		"updateName" : "EUpdateCodeBagSplit",
+		"updateStr" : "背包拆分"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 102,
+		"updateName" : "EUpdateCodeBagRemove",
+		"updateStr" : "背包删除"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 103,
+		"updateName" : "EUpdateCodeBagUse",
+		"updateStr" : "背包使用"
+	},
+	
+	{
+		"updateCode" : 104,
+		"updateName" : "EUpdateCodeBagMove",
+		"updateStr" : "背包移动"
+	},
+	
+	{
+		"updateCode" : 105,
+		"updateName" : "EUpdateCodeBagGet",
+		"updateStr" : "获取背包"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 106,
+		"updateName" : "EUpdateCodeBagUseFixGiftBag",
+		"updateStr" : "使用固定礼包"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 107,
+		"updateName" : "EUpdateCodeBagUseRandGiftBag",
+		"updateStr" : "使用随机礼包"
+	},
+	
+	{
+		"updateCode" : 108,
+		"updateName" : "EUpdateCodeBagTidyLogin",
+		"updateStr" : "登陆整理背包"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 109,
+		"updateName" : "EUpdateCodeBagUseDrug",
+		"updateStr" : "使用药品"
+	},
+	
+	{
+		"updateCode" : 111,
+		"updateName" : "EUpdateCodeBagMerge",
+		"updateStr" : "合并背包"
+	},
+	
+	{
+		"updateCode" : 112,
+		"updateName" : "EUpdateCodeBagFastMerge",
+		"updateStr" : "一键合并"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 113,
+		"updateName" : "EUpdateCodeBagBatchRemove",
+		"updateStr" : "背包批量删除"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 200,
+		"updateName" : "EUpdateCodeShopBuyItem",
+		"updateStr" : "商店买物品"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 201,
+		"updateName" : "EUpdateCodeShopSellItem",
+		"updateStr" : "物品卖商店"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 204,
+		"updateName" : "EUpdateCodeShopBuyBack",
+		"updateStr" : "回购物品"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 207,
+		"updateName" : "EUpdateCodeShopCostReturn",
+		"updateStr" : "领取消费返还"
+	},
+	
+	{
+		"updateCode" : 250,
+		"updateName" : "EUpdateCodeRoleDress",
+		"updateStr" : "角色着装"
+	},
+	
+	{
+		"updateCode" : 251,
+		"updateName" : "EUpdateCodeRoleUndress",
+		"updateStr" : "角色换装"
+	},
+	
+	{
+		"updateCode" : 303,
+		"updateName" : "EUpdateCodeMountUnEquip",
+		"updateStr" : "卸下坐骑"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 350,
+		"updateName" : "EUpdateCodeByRelive",
+		"updateStr" : "复活"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 351,
+		"updateName" : "EUpdateCodeByPass",
+		"updateStr" : "传送"
+	},
+	
+	{
+		"updateCode" : 352,
+		"updateName" : "EUpdateCodeBySetMode",
+		"updateStr" : "设置模式"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 353,
+		"updateName" : "EUpdateCodeByConvey",
+		"updateStr" : "使用小飞鞋传送"
+	},
+	
+	{
+		"updateCode" : 354,
+		"updateName" : "EUpdateCodeByMarrySkill",
+		"updateStr" : "仙侣技能"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 360,
+		"updateName" : "EUpdateCodeByKillBoss",
+		"updateStr" : "杀怪掉落"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 361,
+		"updateName" : "EUpdateCodeByPikeItem",
+		"updateStr" : "拾取物品"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 362,
+		"updateName" : "EUpdateCodeByKillBossCopy",
+		"updateStr" : "副本杀怪掉落"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 363,
+		"updateName" : "EUpdateCodeByKillBossNoOwner",
+		"updateStr" : "击无归属怪掉落"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 402,
+		"updateName" : "EUpdateCodeStrengthen",
+		"updateStr" : "装备强化"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 405,
+		"updateName" : "EUpdateCodeEmbedJewel",
+		"updateStr" : "宝石镶嵌"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 406,
+		"updateName" : "EUpdateCodeComposeJewel",
+		"updateStr" : "宝石合成"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 407,
+		"updateName" : "EUpdateCodeRemoveJewel",
+		"updateStr" : "宝石摘除"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 413,
+		"updateName" : "EUpdateCodeItemSmelt",
+		"updateStr" : "物品合成"
+	},
+	
+	{
+		"isShow" : 1,
+		"updateCode" : 414,
+		"updateName" : "EUpdateCodeSmeltEquip",
+		"updateStr" : "合成装备"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 420,
+		"updateName" : "EUpdateCodeEquipUpgrade",
+		"updateStr" : "装备进阶"
+	},
+	
+	{
+		"ckConsPro" : 1,
+		"isDayCost" : 1,
+		"updateCode" : 450,
+		"updateName" : "EUpdateCodeMailSend",
+		"updateStr" : "发邮件"
+	},
+	
+	{
+		"ckConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 451,
+		"updateName" : "EUpdateCodeMailGetAttachment",
+		"updateStr" : "提取邮件附件"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 452,
+		"updateName" : "EUpdateCodeMailSendCost",
+		"updateStr" : "发邮件邮资"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 453,
+		"updateName" : "EUpdateCodeMailGetAttachmentSystem",
+		"updateStr" : "提取系统邮件附件"
+	},
+	
+	{
+		"ckConsPro" : 1,
+		"isDayCost" : 1,
+		"updateCode" : 460,
+		"updateName" : "EUpdateCodeBusiness",
+		"updateStr" : "交易"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 500,
+		"updateName" : "EUpdateCodeOperationOnlineRecharge",
+		"updateStr" : "在线操作充值"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 501,
+		"updateName" : "EUpdateCodeOperationOnlineGiveMoney",
+		"updateStr" : "在线操作发钱"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 502,
+		"updateName" : "EUpdateCodeOperationOnlineGiveItem",
+		"updateStr" : "在线操作发物品"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 503,
+		"updateName" : "EUpdateCodeOperationOfflineRecharge",
+		"updateStr" : "离线操作充值"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 504,
+		"updateName" : "EUpdateCodeOperationOfflineGiveMoney",
+		"updateStr" : "离线操作发钱"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 505,
+		"updateName" : "EUpdateCodeOperationOfllineGiveItem",
+		"updateStr" : "离线操作发物品"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 506,
+		"updateName" : "EUpdateCodeOperationOnlineSubMoney",
+		"updateStr" : "在线操作扣钱"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 507,
+		"updateName" : "EUpdateCodeOperationOfflineSubMoney",
+		"updateStr" : "离线操作扣钱"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 521,
+		"updateName" : "EUpdateCodeOnlineReward",
+		"updateStr" : "每日在线奖励"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 522,
+		"updateName" : "EUpdateCodeLevelReward",
+		"updateStr" : "等级奖励"
+	},
+	
+	{
+		"updateCode" : 525,
+		"updateName" : "EUpdateCodeRoleUpdateCamp",
+		"updateStr" : "更新阵营"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 530,
+		"updateName" : "EUpdateCodeGetOfflineExp",
+		"updateStr" : "离线经验获取"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"updateCode" : 540,
+		"updateName" : "EUpdateCodeGuildCreate",
+		"updateStr" : "创建仙盟"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 541,
+		"updateName" : "EUpdateCodeGuildBuySpace",
+		"updateStr" : "购买仙盟领地"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 542,
+		"updateName" : "EUpdateCodeGuildAward",
+		"updateStr" : "领取仙盟福利"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"isShow" : 1,
+		"updateCode" : 543,
+		"updateName" : "EUpdateCodeGuildDonateMoney",
+		"updateStr" : "资金捐赠"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 544,
+		"updateName" : "EUpdateCodeGuildShopBuy",
+		"updateStr" : "仙盟商店购买"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"updateCode" : 545,
+		"updateName" : "EUpdateCodeGuildWarehouse",
+		"updateStr" : "仙盟仓库"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 546,
+		"updateName" : "EUpdateCodeGuildStructure",
+		"updateStr" : "仙盟建筑升级"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 547,
+		"updateName" : "EUpdateCodeGuildWelcome",
+		"updateStr" : "欢迎仙盟成员加入"
+	},
+	
+	{
+		"updateCode" : 549,
+		"updateName" : "EUpdateCodeGuildWar",
+		"updateStr" : "仙盟战"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 550,
+		"updateName" : "EUpdateCodeGuildWarReward",
+		"updateStr" : "仙盟战奖励"
+	},
+	
+	{
+		"isShow" : 1,
+		"updateCode" : 551,
+		"updateName" : "EUpdateCodeGuildReward",
+		"updateStr" : "仙盟摇奖"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 570,
+		"updateName" : "EUpdateCodeCopyScore",
+		"updateStr" : "副本积分"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 572,
+		"updateName" : "EUpdateCodeMagicTower",
+		"updateStr" : "镇妖塔封魔塔扫荡加速"
+	},
+	
+	{
+		"updateCode" : 577,
+		"updateName" : "EUpdateCodeCollectOre",
+		"updateStr" : "采矿"
+	},
+	
+	{
+		"updateCode" : 590,
+		"updateName" : "EUpdateCodeZazen",
+		"updateStr" : "打坐"
+	},
+	
+	{
+		"updateCode" : 600,
+		"updateName" : "EUpdateCodeTreasureHuntDead",
+		"updateStr" : "刺探寻宝玩家死亡"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 625,
+		"updateName" : "EUpdateCodeHandselFlower",
+		"updateStr" : "送花"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 630,
+		"updateName" : "EUpdateCodeVip",
+		"updateStr" : "VIP"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 640,
+		"updateName" : "EUpdateCodeUseLottery",
+		"updateStr" : "仙境"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 642,
+		"updateName" : "EUpdateCodeUseLotteryActive",
+		"updateStr" : "活动仙境"
+	},
+	
+	{
+		"updateCode" : 650,
+		"updateName" : "EUpdateCodeInSpring",
+		"updateStr" : "温泉"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 687,
+		"updateName" : "EUpdateCodeQuickCompleteTask",
+		"updateStr" : "快速完成任务"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 690,
+		"updateName" : "EUpdateCodeQuestionCopy",
+		"updateStr" : "答题副本"
+	},
+	
+	{
+		"isShow" : 1,
+		"updateCode" : 700,
+		"updateName" : "EUpdateCodeMagicTowerReward",
+		"updateStr" : "爬塔副本奖励"
+	},
+	
+	{
+		"updateCode" : 709,
+		"updateName" : "EUpdateCodeMarketSellSeekBuyFail",
+		"updateStr" : "市场求购失败"
+	},
+	
+	{
+		"ckConsPro" : 1,
+		"isDayCost" : 1,
+		"updateCode" : 720,
+		"updateName" : "EUpdateCodeMarketBuy",
+		"updateStr" : "市场购买"
+	},
+	
+	{
+		"updateCode" : 721,
+		"updateName" : "EUpdateCodeMarketBuyFail",
+		"updateStr" : "市场购买失败"
+	},
+	
+	{
+		"ckConsPro" : 1,
+		"updateCode" : 722,
+		"updateName" : "EUpdateCodeMarketCancelSell",
+		"updateStr" : "市场取消挂售"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 723,
+		"updateName" : "EUpdateCodeMarketSellItemFee",
+		"updateStr" : "挂售物品手续费"
+	},
+	
+	{
+		"updateCode" : 724,
+		"updateName" : "EUpdateCodeMarketSellItem",
+		"updateStr" : "挂售物品"
+	},
+	
+	{
+		"updateCode" : 725,
+		"updateName" : "EUpdateCodeMarketSellItemFail",
+		"updateStr" : "挂售物品失败"
+	},
+	
+	{
+		"updateCode" : 726,
+		"updateName" : "EUpdateCodeMarketTimeOutBack",
+		"updateStr" : "市场过期返还"
+	},
+	
+	{
+		"ckConsPro" : 1,
+		"updateCode" : 727,
+		"updateName" : "EUpdateCodeMarketCancelSeekBuy",
+		"updateStr" : "市场取消求购"
+	},
+	
+	{
+		"updateCode" : 728,
+		"updateName" : "EUpdateCodeMarketCancelSeekBuyAll",
+		"updateStr" : "市场取消全部求购"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 729,
+		"updateName" : "EUpdateCodeMarketSeekBuyFee",
+		"updateStr" : "求购物品手续费"
+	},
+	
+	{
+		"ckConsPro" : 1,
+		"updateCode" : 730,
+		"updateName" : "EUpdateCodeMarketSeekBuy",
+		"updateStr" : "求购物品"
+	},
+	
+	{
+		"updateCode" : 731,
+		"updateName" : "EUpdateCodeMarketSeekBuyFail",
+		"updateStr" : "求购物品失败"
+	},
+	
+	{
+		"ckConsPro" : 1,
+		"updateCode" : 732,
+		"updateName" : "EUpdateCodeMarketSellSeekItem",
+		"updateStr" : "市场求购"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 745,
+		"updateName" : "EUpdateCodeOpenCopyBox",
+		"updateStr" : "开副本箱子"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 755,
+		"updateName" : "EUpdateCodeGetContinuousLoadReward",
+		"updateStr" : "领取登陆奖励"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 756,
+		"updateName" : "EUpdateCodeGetActiveLoadReward",
+		"updateStr" : "领取活动登录奖励"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 760,
+		"updateName" : "EUpdateCodeArenaReward",
+		"updateStr" : "竞技场奖励"
+	},
+	
+	{
+		"isShow" : 1,
+		"updateCode" : 761,
+		"updateName" : "EUpdateCodeArenaAttr",
+		"updateStr" : "竞技场属性"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 762,
+		"updateName" : "EupdateCodeArenaGiftBag",
+		"updateStr" : "竞技场礼包"
+	},
+	
+	{
+		"updateCode" : 795,
+		"updateName" : "EUpdateCodeCheristmasCard",
+		"updateStr" : "圣诞贺卡"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 800,
+		"updateName" : "EUpdateCodePeaceFieldReward",
+		"updateStr" : "和平Boss奖励"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 805,
+		"updateName" : "EUpdateCodePlayerRename",
+		"updateStr" : "玩家更名"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 806,
+		"updateName" : "EUpdateCodeGuildRename",
+		"updateStr" : "仙盟改名"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 807,
+		"updateName" : "EUpdateCodeGuildPlayerLeave",
+		"updateStr" : "退出仙盟"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 810,
+		"updateName" : "EUpdateCodeUseFirework",
+		"updateStr" : "使用烟花"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 811,
+		"updateName" : "EUpdateCodeActive",
+		"updateStr" : "活动"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 812,
+		"updateName" : "EUpdateCodeCrossActive",
+		"updateStr" : "跨服活动"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 815,
+		"updateName" : "EUpdateCodeDelegate",
+		"updateStr" : "副本扫荡"
+	},
+	
+	{
+		"updateCode" : 816,
+		"updateName" : "EUpdateCodeUseTitleProp",
+		"updateStr" : "使用称号道具"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 817,
+		"updateName" : "EUpdateCodeMarry",
+		"updateStr" : "结婚"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 818,
+		"updateName" : "EUpdateCodeWeddingFirework",
+		"updateStr" : "婚礼烟花"
+	},
+	
+	{
+		"updateCode" : 834,
+		"updateName" : "EUpdateCodeSuit",
+		"updateStr" : "套装"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 860,
+		"updateName" : "EUpdateCodeGuildLeaderImpeach",
+		"updateStr" : "盟主弹劾"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 862,
+		"updateName" : "EUpdateCodeGuildUpgradeHouse",
+		"updateStr" : "升级仙盟厢房"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 865,
+		"updateName" : "EUpdateCodeGuildParty",
+		"updateStr" : "仙盟宴会"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 866,
+		"updateName" : "EUpdateCodeGuildPartyFood",
+		"updateStr" : "仙盟宴会食物"
+	},
+	
+	{
+		"updateCode" : 880,
+		"updateName" : "EUpdateCodeGuildTree",
+		"updateStr" : "仙盟摇钱树"
+	},
+	
+	{
+		"updateCode" : 881,
+		"updateName" : "EUpdateCodeGuildTreeWorm",
+		"updateStr" : "仙盟摇钱树刷虫"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 882,
+		"updateName" : "EUpdateCodeGuildTreeRipe",
+		"updateStr" : "仙盟摇钱树成熟"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 883,
+		"updateName" : "EUpdateCodeGuildReiki",
+		"updateStr" : "仙盟灵气"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 900,
+		"updateName" : "EUpdateCodeNewBattleFieldInspire",
+		"updateStr" : "天神战场鼓舞"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 901,
+		"updateName" : "EUpdateCodeNewBattleFieldAward",
+		"updateStr" : "天神战场奖励"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 902,
+		"updateName" : "EUpdateCodeBossFieldInspire",
+		"updateStr" : "怪兽战场鼓舞"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 905,
+		"updateName" : "EUpdateCodeGuildBeast",
+		"updateStr" : "仙盟boss"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 910,
+		"updateName" : "EUpdateCodeSendPos",
+		"updateStr" : "发坐标"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 926,
+		"updateName" : "EUpdateCodeUseWuxingEnergyPro",
+		"updateStr" : "使用五行能量道具"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 930,
+		"updateName" : "EUpdateCodeGuildStruggle",
+		"updateStr" : "仙盟副本"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 950,
+		"updateName" : "ExpDiceChange",
+		"updateStr" : "修改福星"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 951,
+		"updateName" : "ExpDice",
+		"updateStr" : "福星高照"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 960,
+		"updateName" : "EUpdateCodeMakeCake",
+		"updateStr" : "蛋糕制作"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 961,
+		"updateName" : "EUpdateCodeFixStone",
+		"updateStr" : "修石碑"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 964,
+		"updateName" : "EUpdateCodeArenaCrossBet",
+		"updateStr" : "跨服竞技场下注"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 965,
+		"updateName" : "EUpdateCodeArenaCross",
+		"updateStr" : "跨服竞技场"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 966,
+		"updateName" : "EUpdateCodeArenaCrossActive",
+		"updateStr" : "跨服竞技场活动"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 967,
+		"updateName" : "EUpdateCodeGuessFootball",
+		"updateStr" : "足球竞猜"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 970,
+		"updateName" : "EUpdateCodeGuildDefense",
+		"updateStr" : "仙盟防守副本"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 975,
+		"updateName" : "EUpdateCodeAchieve",
+		"updateStr" : "成就"
+	},
+	
+	{
+		"updateCode" : 980,
+		"updateName" : "EUpdateCodeCrossBeach",
+		"updateStr" : "跨服碧海银滩"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1000,
+		"updateName" : "EUpdateCodeGangFights",
+		"updateStr" : "跨服竞技场3v3"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1001,
+		"updateName" : "EUpdateCodeGangFightsTeam",
+		"updateStr" : "跨服竞技场3v3战队操作"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1002,
+		"updateName" : "EUpdateCodeGangFightsAward",
+		"updateStr" : "跨服竞技场3v3结算"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1003,
+		"updateName" : "EUpdateCodeUpdateAvatar",
+		"updateStr" : "更新玩家头像"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1031,
+		"updateName" : "EUpdateCodeGetTotalLoadReward",
+		"updateStr" : "获取累计登录奖励"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1065,
+		"updateName" : "EUpdateCodeRaceCopyReward",
+		"updateStr" : "竞速赛副本奖励"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1072,
+		"updateName" : "EUpdateCodeGetConsumeYBRetReward",
+		"updateStr" : "获取每天消耗YB返回奖励"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1073,
+		"updateName" : "EUpdateCodeUseAttributePro",
+		"updateStr" : "使用属性道具"
+	},
+	
+	{
+		"isShow" : 1,
+		"updateCode" : 1080,
+		"updateName" : "EUpadateCodeCrossStairPass",
+		"updateStr" : "爬楼传送"
+	},
+	
+	{
+		"isShow" : 1,
+		"updateCode" : 1081,
+		"updateName" : "EUpdateCodeCrossStairRevial",
+		"updateStr" : "爬楼复活"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1082,
+		"updateName" : "EUpdateCodeCrossStairReward",
+		"updateStr" : "爬楼奖励"
+	},
+	
+	{
+		"updateCode" : 1083,
+		"updateName" : "EUpdateCodeCrossStair",
+		"updateStr" : "青云之巅"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1090,
+		"updateName" : "EUpdateCodeActiveLevelUp",
+		"updateStr" : "角色等级提升奖励活动"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1095,
+		"updateName" : "EUpdateCodeExplorerShopRefresh",
+		"updateStr" : "仙境商店刷新"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1096,
+		"updateName" : "EUpdateCodeExplorerShopBuy",
+		"updateStr" : "仙境商店购买"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1110,
+		"updateName" : "EUpdateCodeMakeUpKill",
+		"updateStr" : "化妆舞会击杀"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1115,
+		"updateName" : "EUpdateCodeUseRandItem",
+		"updateStr" : "使用如意道具"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1125,
+		"updateName" : "EUpdateCodeSpecialActiveToplist",
+		"updateStr" : "排行榜特殊活动"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1130,
+		"updateName" : "EUpdateCodeSevenDayLoginReward",
+		"updateStr" : "七天登陆奖励"
+	},
+	
+	{
+		"updateCode" : 1134,
+		"updateName" : "EUpdateCodeTitle",
+		"updateStr" : "称号"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1136,
+		"updateName" : "EUpdateCodeWrestle",
+		"updateStr" : "跨服竞技场1v1"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1137,
+		"updateName" : "EUpdateCodeWrestleAward",
+		"updateStr" : "跨服竞技场1v1结算"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1170,
+		"updateName" : "EUpdateCodeAddBagCapacity",
+		"updateStr" : "扩展背包容量"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1175,
+		"updateName" : "EUpdateCodeDailyLoginReward",
+		"updateStr" : "每日登录奖励"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1177,
+		"updateName" : "EUpdateCodeGuildPartyFirework",
+		"updateStr" : "宴会烟花"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1183,
+		"updateName" : "EUpdateCodeCelebrateItem",
+		"updateStr" : "庆典物品"
+	},
+	
+	{
+		"ckConsPro" : 1,
+		"isConsPro" : 1,
+		"updateCode" : 1188,
+		"updateName" : "EUpdateCodeArenaSaveFithtRecord",
+		"updateStr" : "竞技场炫耀战报"
+	},
+	
+	{
+		"isShow" : 1,
+		"updateCode" : 1189,
+		"updateName" : "EUpdateCodeGuildLevelUpReward",
+		"updateStr" : "开服7天仙盟升级3级奖励"
+	},
+	
+	{
+		"isShow" : 1,
+		"updateCode" : 1190,
+		"updateName" : "EUpdateCodePlayerLevelReward",
+		"updateStr" : "开服7天玩家等级前10奖励"
+	},
+	
+	{
+		"isShow" : 1,
+		"updateCode" : 1191,
+		"updateName" : "EUpdateCodePetGrowthUpRewrad",
+		"updateStr" : "开服7天灵宠成长值前10奖励"
+	},
+	
+	{
+		"isShow" : 1,
+		"updateCode" : 1192,
+		"updateName" : "EUpdateCodePetSpiritUpReward",
+		"updateStr" : "开服7天灵宠灵性前10奖励"
+	},
+	
+	{
+		"isShow" : 1,
+		"updateCode" : 1193,
+		"updateName" : "EUpdateCodePlayerFightReward",
+		"updateStr" : "开服7天玩家战斗力前10奖励"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1200,
+		"updateName" : "EUpdateCodeMagicTowerDouble",
+		"updateStr" : "镇妖塔双倍"
+	},
+	
+	{
+		"updateCode" : 1201,
+		"updateName" : "EUpdateCodeAngryMonsterKingHurtReward",
+		"updateStr" : "妖王活动结束造成伤害回赠"
+	},
+	
+	{
+		"updateCode" : 1202,
+		"updateName" : "EUpdateAngryMonsterAttackReward",
+		"updateStr" : "妖王攻击后回赠"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1203,
+		"updateName" : "EUpdateCodeBlessCost",
+		"updateStr" : "祈福花费"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1204,
+		"updateName" : "EUpdateCodeBlessAwd",
+		"updateStr" : "祈福奖励"
+	},
+	
+	{
+		"updateCode" : 1214,
+		"updateName" : "EUpdateCodeFairyPetParade",
+		"updateStr" : "仙宠下凡"
+	},
+	
+	{
+		"updateCode" : 1216,
+		"updateName" : "EUpdateDailyGetReward",
+		"updateStr" : "玩家活动期间登录领取礼包"
+	},
+	
+	{
+		"isShow" : 1,
+		"updateCode" : 1268,
+		"updateName" : "EUpdateCodeDownloadReward",
+		"updateStr" : "下载奖励"
+	},
+	
+	{
+		"isShow" : 1,
+		"updateCode" : 1269,
+		"updateName" : "EUpdateCodeCopyForDownload",
+		"updateStr" : "下载奖励副本"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1273,
+		"updateName" : "EUpdateCodeCutMoney",
+		"updateStr" : "切金币"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1274,
+		"updateName" : "EUpdateCodeExploreScret",
+		"updateStr" : "探寻天机"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1275,
+		"updateName" : "EUpdateCodeUseDailyAdditionPro",
+		"updateStr" : "日常辅助"
+	},
+	
+	{
+		"updateCode" : 1295,
+		"updateName" : "EUpdateCodeMythLoopReward",
+		"updateStr" : "封神榜结算奖励"
+	},
+	
+	{
+		"updateCode" : 1298,
+		"updateName" : "EUpdateCodeGuildBattle",
+		"updateStr" : "新仙盟战"
+	},
+	
+	{
+		"updateCode" : 1300,
+		"updateName" : "EUpdateCodeBagUseBlessProp",
+		"updateStr" : "使用祝福道具"
+	},
+	
+	{
+		"updateCode" : 1301,
+		"updateName" : "EUpdateCodeGuildTree2",
+		"updateStr" : "仙盟神树"
+	},
+	
+	{
+		"isShow" : 1,
+		"updateCode" : 1303,
+		"updateName" : "EUpdateCodeGuildBattleReward",
+		"updateStr" : "新仙盟战奖励"
+	},
+	
+	{
+		"updateCode" : 1305,
+		"updateName" : "EUpdateCodeFestivalClock",
+		"updateStr" : "新年钟声"
+	},
+	
+	{
+		"updateCode" : 1311,
+		"updateName" : "EUpdateCodeGuildleftRelive",
+		"updateStr" : "离开仙盟战"
+	},
+	
+	{
+		"updateCode" : 1321,
+		"updateName" : "EUpdateCode3v3DailyTenBattles",
+		"updateStr" : "3v3每日前10场魔石奖励"
+	},
+	
+	{
+		"updateCode" : 1325,
+		"updateName" : "EUpdateCodeGetExchangeResult",
+		"updateStr" : "获取兑换活动物品"
+	},
+	
+	{
+		"updateCode" : 1326,
+		"updateName" : "EUpdateCodeCollectGoldenWeaponRewards",
+		"updateStr" : "金装活动奖励"
+	},
+	
+	{
+		"updateCode" : 1332,
+		"updateName" : "EUpdateCodeBagUseGatherSoulDrug",
+		"updateStr" : "使用聚魂丹"
+	},
+	
+	{
+		"updateCode" : 1333,
+		"updateName" : "EUpdateCodeWeddingExtend",
+		"updateStr" : "仙缘系统"
+	},
+	
+	{
+		"updateCode" : 1338,
+		"updateName" : "EUpdateCodeFeudalHegemony",
+		"updateStr" : "皇帝争霸副本"
+	},
+	
+	{
+		"updateCode" : 1340,
+		"updateName" : "EUpdateCodeFeudalHegemonyReward",
+		"updateStr" : "皇帝争霸奖励"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1341,
+		"updateName" : "EUpdateCodeSignReward",
+		"updateStr" : "签到奖励"
+	},
+	
+	{
+		"updateCode" : 1343,
+		"updateName" : "LiarDiceReward",
+		"updateStr" : "修仙骰子奖励"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1344,
+		"updateName" : "BetCompetition",
+		"updateStr" : "竞猜活动"
+	},
+	
+	{
+		"updateCode" : 1345,
+		"updateName" : "BetCompetitionTimeout",
+		"updateStr" : "竞猜超时返还"
+	},
+	
+	{
+		"isDayCost" : 1,
+		"updateCode" : 1346,
+		"updateName" : "EUpdateCodeSaveOrPickMoney",
+		"updateStr" : "仙园存或取钱"
+	},
+	
+	{
+		"updateCode" : 1354,
+		"updateName" : "EUpdateCodeActiveMarry",
+		"updateStr" : "结婚活动"
+	},
+	
+	{
+		"updateCode" : 1356,
+		"updateName" : "EUpdateCodeActiveFeudalHegemony",
+		"updateStr" : "皇帝争霸活动"
+	},
+	
+	{
+		"updateCode" : 1361,
+		"updateName" : "EUpdateCodeMapPlant",
+		"updateStr" : "天澜大陆"
+	},
+	
+	{
+		"updateCode" : 1369,
+		"updateName" : "EUpdateCodeHookEnergy",
+		"updateStr" : "更新挂机精力值"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1389,
+		"updateName" : "EUpdateCodeChargeDouble",
+		"updateStr" : "开服第一周充值双倍返利活动(3011)"
+	},
+	
+	{
+		"updateCode" : 1390,
+		"updateName" : "EUpdateCodeFlowerBoard",
+		"updateStr" : "三生石奖励"
+	},
+	
+	{
+		"updateCode" : 1394,
+		"updateName" : "EUpdateCodeUseUpgradeDrug",
+		"updateStr" : "使用提升等级物品"
+	},
+	
+	{
+		"updateCode" : 1396,
+		"updateName" : "EUpdateCodeOpenFlowerReward",
+		"updateStr" : "开服鲜花排行奖励"
+	},
+	
+	{
+		"isShow" : 1,
+		"updateCode" : 1398,
+		"updateName" : "EUpdateCodeProtectFlowerReward",
+		"updateStr" : "护花榜奖励"
+	},
+	
+	{
+		"isShow" : 1,
+		"updateCode" : 1399,
+		"updateName" : "EUpdataPetWarfareReward",
+		"updateStr" : "宠物战力奖励"
+	},
+	
+	{
+		"isShow" : 1,
+		"updateCode" : 1400,
+		"updateName" : "EUpdateGuildLevelReward",
+		"updateStr" : "仙盟等级奖励"
+	},
+	
+	{
+		"isShow" : 1,
+		"updateCode" : 1401,
+		"updateName" : "EUpdateGuildScoreReward",
+		"updateStr" : "仙盟积分奖励"
+	},
+	
+	{
+		"isShow" : 1,
+		"updateCode" : 1404,
+		"updateName" : "EUpdateCodeGoldConsumpt",
+		"updateStr" : "元宝消费排行"
+	},
+	
+	{
+		"updateCode" : 1408,
+		"updateName" : "EUpdateCodeGuildAnima",
+		"updateStr" : "仙盟灵脉"
+	},
+	
+	{
+		"updateCode" : 1410,
+		"updateName" : "EUpdateCodeChageItem",
+		"updateStr" : "时效性物品转化成过期物品"
+	},
+	
+	{
+		"updateCode" : 1418,
+		"updateName" : "EUpdateCodeDoubleMount",
+		"updateStr" : "双人坐骑"
+	},
+	
+	{
+		"updateCode" : 1419,
+		"updateName" : "EupdateCodeRechargeCrossRank",
+		"updateStr" : "跨服充值排行"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1420,
+		"updateName" : "EUpdateCodeThreeVsThree",
+		"updateStr" : "跨服3v3"
+	},
+	
+	{
+		"updateCode" : 1421,
+		"updateName" : "EUpdateCodeCrossConsumeRank",
+		"updateStr" : "跨服消费排行"
+	},
+	
+	{
+		"ckConsPro" : 1,
+		"isConsPro" : 1,
+		"updateCode" : 1425,
+		"updateName" : "EUpdateCodeAdoreCost",
+		"updateStr" : "跨服城主崇拜"
+	},
+	
+	{
+		"isShow" : 1,
+		"updateCode" : 1432,
+		"updateName" : "EUpdateCodeOpenChest",
+		"updateStr" : "开宝箱"
+	},
+	
+	{
+		"updateCode" : 1435,
+		"updateName" : "EUpdateCodeCrossFlowerRecvRank",
+		"updateStr" : "鲜花榜（跨服）奖励"
+	},
+	
+	{
+		"updateCode" : 1436,
+		"updateName" : "EUpdateCodeCrossFlowerSendRank",
+		"updateStr" : "护花榜（跨服）奖励"
+	},
+	
+	{
+		"isShow" : 1,
+		"updateCode" : 1440,
+		"updateName" : "EupdateCodeCrossTreasure",
+		"updateStr" : "跨服夺宝"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1444,
+		"updateName" : "EUpdateCodeShapeUpgrade",
+		"updateStr" : "外形进阶"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1445,
+		"updateName" : "EUpdateCodeShapeUseDrug",
+		"updateStr" : "使用外形丹"
+	},
+	
+	{
+		"isShow" : 1,
+		"updateCode" : 1446,
+		"updateName" : "EUpdateCodeShapeDress",
+		"updateStr" : "穿外形装备"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1447,
+		"updateName" : "EUpdateCodeShapeUpgradeChange",
+		"updateStr" : "外形化形进阶"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1448,
+		"updateName" : "EUpdateCodeShapeUseAddLuckyItem",
+		"updateStr" : "外形增加幸运道具"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1449,
+		"updateName" : "EUpdateCodeUpgradeJewelOnItem",
+		"updateStr" : "升级已镶嵌宝石"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1450,
+		"updateName" : "EUpdateCodeShapeRefine",
+		"updateStr" : "外形精炼"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1451,
+		"updateName" : "EUpdateCodeClearBagOneKey",
+		"updateStr" : "一键清理背包（测）"
+	},
+	
+	{
+		"isShow" : 1,
+		"updateCode" : 1452,
+		"updateName" : "EUpdateCodeLifeRecover",
+		"updateStr" : "生命恢复"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1453,
+		"updateName" : "EUpdateCodeChapterCopyTarget",
+		"updateStr" : "章节副本目标"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1454,
+		"updateName" : "EUpdateCodeChapterCopyFirstPass",
+		"updateStr" : "章节副本首次通关"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1455,
+		"updateName" : "EUpdateCodeUpgradeVein",
+		"updateStr" : "提升灵脉"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1456,
+		"updateName" : "EUpdateCodeLevelCopyPass",
+		"updateStr" : "关卡副本通关奖励"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1457,
+		"updateName" : "EUpdateCodeGuildVein",
+		"updateStr" : "仙盟心法"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1458,
+		"updateName" : "EUpdateCodeWelcomeReward",
+		"updateStr" : "登陆欢迎"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1459,
+		"updateName" : "EUpdateCodeCoinCopyTargetReward",
+		"updateStr" : "铜钱副本目标奖励"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1461,
+		"updateName" : "EUpdateCodeCoinCopyRingReward",
+		"updateStr" : "铜钱副本环数奖励"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1462,
+		"updateName" : "EUpdateCodeEnterPersonCopy",
+		"updateStr" : "进入个人boss副本"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"updateCode" : 1463,
+		"updateName" : "EUpdateCodeImagePk",
+		"updateStr" : "个人竞技"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1464,
+		"updateName" : "EUpdateCodeFashion",
+		"updateStr" : "时装"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1465,
+		"updateName" : "EUpdateCodeFashionStar",
+		"updateStr" : "时装升星"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1466,
+		"updateName" : "EUpdateCodeForceWar",
+		"updateStr" : "三界争霸"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1467,
+		"updateName" : "EUpdateCodeResetGuildBoss",
+		"updateStr" : "重置仙盟boss副本"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1468,
+		"updateName" : "EUpdateCodeSwordPoolUpgrade",
+		"updateStr" : "剑池升级"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1469,
+		"updateName" : "EUpdateCodeSwordPoolFindBack",
+		"updateStr" : "剑池找回"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1470,
+		"updateName" : "EUpdateCodeDefenseQingyun",
+		"updateStr" : "守卫青云"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1471,
+		"updateName" : "EUpdateCodeTreasure",
+		"updateStr" : "夺宝活动"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1472,
+		"updateName" : "EUpdateCodePersonalPk",
+		"updateStr" : "跨服竞技"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1473,
+		"updateName" : "EUpdateCodeMgGuildWar",
+		"updateStr" : "仙盟争霸"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"isShow" : 1,
+		"updateCode" : 1474,
+		"updateName" : "EUpdateCodeAddCopyNumByVip",
+		"updateStr" : "购买副本次数"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1475,
+		"updateName" : "EUpdateCodeUseAddCopyNumProp",
+		"updateStr" : "使用增加副本次数道具"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1476,
+		"updateName" : "EUpdateCodeExperienceCopyInspire",
+		"updateStr" : "恶魔副本鼓舞"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1477,
+		"updateName" : "EUpdateCodeExperienceCopyResetCd",
+		"updateStr" : "重置恶魔副本冷却时间"
+	},
+	
+	{
+		"updateCode" : 1478,
+		"updateName" : "EUpdateCodeChangeMapSubline",
+		"updateStr" : "切换地图分线"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1479,
+		"updateName" : "EUpdateCodeOfflineWork",
+		"updateStr" : "离线挂机"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1480,
+		"updateName" : "EUpdateCodeSellEquipOneKey",
+		"updateStr" : "一键卖装备"
+	},
+	
+	{
+		"isShow" : 1,
+		"updateCode" : 1481,
+		"updateName" : "EUpdateCodeSwallowEquip",
+		"updateStr" : "吞噬装备"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1482,
+		"updateName" : "EUpdateCodeUpgradeRealmLevel",
+		"updateStr" : "提升境界等级"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1483,
+		"updateName" : "EUpdateCodeEnterBossHome",
+		"updateStr" : "进入boss之家"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1484,
+		"updateName" : "EUpdateCodeTaskHandEquip",
+		"updateStr" : "上交装备任务"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1485,
+		"updateName" : "EUpdateCodeUseVIPCard",
+		"updateStr" : "使用VIP卡"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1486,
+		"updateName" : "EUpdateCodeRedNameKilled",
+		"updateStr" : "红名玩家被杀掉落"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1487,
+		"updateName" : "EUpdateCodeSpiritRenew",
+		"updateStr" : "精灵续费"
+	},
+	
+	{
+		"isShow" : 1,
+		"updateCode" : 1488,
+		"updateName" : "EUpdateCodeRedName",
+		"updateStr" : "红名"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1489,
+		"updateName" : "EUpdateCodeAchievementReward",
+		"updateStr" : "成就奖励"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"isShow" : 1,
+		"updateCode" : 1490,
+		"updateName" : "EUpdateCodeBuyAndUseVIPCard",
+		"updateStr" : "购买并使用VIP卡"
+	},
+	
+	{
+		"isShow" : 1,
+		"updateCode" : 1491,
+		"updateName" : "EUpdateCodeShape",
+		"updateStr" : "外形"
+	},
+	
+	{
+		"isShow" : 1,
+		"updateCode" : 1492,
+		"updateName" : "EUpdateCodeRoleLevelUpdate",
+		"updateStr" : "角色等级改变"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1493,
+		"updateName" : "EUpdateCodeToplistActive",
+		"updateStr" : "开服冲榜"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1494,
+		"updateName" : "EUpdateCodeDeityBook",
+		"updateStr" : "天书奖励"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1495,
+		"updateName" : "EUpdateCodeCollectItem",
+		"updateStr" : "集字活动"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1496,
+		"updateName" : "EUpdateCodeSwordPoolActivity",
+		"updateStr" : "剑池活跃度"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"isShow" : 1,
+		"updateCode" : 1497,
+		"updateName" : "EUpdateCodePray",
+		"updateStr" : "祈福"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1498,
+		"updateName" : "EUpdateCodeLottery",
+		"updateStr" : "宝藏寻宝"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1499,
+		"updateName" : "EUpdateCodeMarketTax",
+		"updateStr" : "市场购买扣税"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1500,
+		"updateName" : "EUpdateCodeRechargeDayGift",
+		"updateStr" : "领取七日礼包"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"isShow" : 1,
+		"updateCode" : 1501,
+		"updateName" : "EUpdateCodeInvestPlanJoin",
+		"updateStr" : "参与投资计划"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1502,
+		"updateName" : "EUpdateCodeInvestPlanRepay",
+		"updateStr" : "领取投资计划回报"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"isShow" : 1,
+		"updateCode" : 1503,
+		"updateName" : "EUpdateCodeInvestMensualJoin",
+		"updateStr" : "参与月卡投资"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1504,
+		"updateName" : "EUpdateCodeInvestMensualRepay",
+		"updateStr" : "领取月卡投资回报"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1505,
+		"updateName" : "EUpdateCodeGuildDailyReward",
+		"updateStr" : "仙盟每日工资"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1506,
+		"updateName" : "EUpdateCodeRuneDress",
+		"updateStr" : "装备符文"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1508,
+		"updateName" : "EUpdateCodeRuneUpgrade",
+		"updateStr" : "升级符文"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1509,
+		"updateName" : "EUpdateCodeRuneDecompose",
+		"updateStr" : "分解符文"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1510,
+		"updateName" : "EUpdateCodeRuneCopy",
+		"updateStr" : "符文塔副本"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1511,
+		"updateName" : "EUpdateCodeRechargeFirst",
+		"updateStr" : "领取首冲奖励"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1512,
+		"updateName" : "EUpdateCodeRechargeDayTotal",
+		"updateStr" : "领取每日累冲奖励"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1513,
+		"updateName" : "EUpdateCodeRechargeDayCount",
+		"updateStr" : "领取累冲累积奖励"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1514,
+		"updateName" : "EUpdateCodeRechargeTotal",
+		"updateStr" : "领取开服累冲奖励"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1515,
+		"updateName" : "EUpdateCodeRuneCopyDailyMail",
+		"updateStr" : "符文塔每日层数邮件奖励"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"isShow" : 1,
+		"updateCode" : 1516,
+		"updateName" : "EUpdateCodeBagUseGoldBuyGiftBag",
+		"updateStr" : "使用消费宝箱"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1517,
+		"updateName" : "EUpdateCodeRuneLottery",
+		"updateStr" : "符文寻宝"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1518,
+		"updateName" : "EUpdateCodeManHuangCopy",
+		"updateStr" : "蛮荒禁地副本"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"isShow" : 1,
+		"updateCode" : 1519,
+		"updateName" : "EUpdateCodeSuitUpgrade",
+		"updateStr" : "套装升级"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1520,
+		"updateName" : "EUpdateCodeOperationOnlineRechargeInner",
+		"updateStr" : "内部玩家在线充值"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1521,
+		"updateName" : "EUpdateCodeOneKeyRoleState3",
+		"updateStr" : "一键完成3转"
+	},
+	
+	{
+		"isShow" : 1,
+		"updateCode" : 1522,
+		"updateName" : "EUpdateCodeBagMoveLottery",
+		"updateStr" : "取出寻宝仓库物品"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1523,
+		"updateName" : "EUpdateCodeImagePkRankReward",
+		"updateStr" : "个人竞技排行奖励"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1524,
+		"updateName" : "EUpdateCodeOpenPriceUnitCard",
+		"updateStr" : "使用货币卡"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"isShow" : 1,
+		"updateCode" : 1525,
+		"updateName" : "EUpdateCodePrayCoin",
+		"updateStr" : "铜钱祈福"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"isShow" : 1,
+		"updateCode" : 1526,
+		"updateName" : "EUpdateCodePrayExp",
+		"updateStr" : "经验祈福"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1527,
+		"updateName" : "EUpdateCodeCopyAssist",
+		"updateStr" : "副本助战"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1528,
+		"updateName" : "EUpdateCopeMgGuildParty",
+		"updateStr" : "仙盟宴会"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"isShow" : 1,
+		"updateCode" : 1529,
+		"updateName" : "EUpdateCodeBuyAndUseVIPCardMonth",
+		"updateStr" : "购买并使用VIP月卡"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"isShow" : 1,
+		"updateCode" : 1530,
+		"updateName" : "EUpdateCodeBuyAndUseVIPCardSeason",
+		"updateStr" : "购买并使用VIP季卡"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"isShow" : 1,
+		"updateCode" : 1531,
+		"updateName" : "EUpdateCodeBuyAndUseVIPCardYear",
+		"updateStr" : "购买并使用VIP半年卡"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1532,
+		"updateName" : "EUpdateCodeOperationOfflineRechargeInner",
+		"updateStr" : "内部玩家离线充值"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1533,
+		"updateName" : "EUpdateCodeGuildBeastGodDonate",
+		"updateStr" : "仙盟兽神捐献"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"updateCode" : 1534,
+		"updateName" : "EUpdateCodeRefresh",
+		"updateStr" : "装备洗炼"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"updateCode" : 1535,
+		"updateName" : "EUpdateCodeRefreshOpen",
+		"updateStr" : "装备洗炼槽开启"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1536,
+		"updateName" : "EUpdateCodGuildBeastGod",
+		"updateStr" : "仙盟兽神"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"updateCode" : 1537,
+		"updateName" : "EUpdateCodeGuildRedPacketPlayer",
+		"updateStr" : "玩家发仙盟红包"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"updateCode" : 1538,
+		"updateName" : "EUpdateCodeGuildRedPacketPlayerFailed",
+		"updateStr" : "玩家发仙盟红包失败"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"updateCode" : 1539,
+		"updateName" : "EUpdateCodeGuildRedPacketGrab",
+		"updateStr" : "抢仙盟红包"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"updateCode" : 1540,
+		"updateName" : "EUpdateCodeGuildRedPacketInvalid",
+		"updateStr" : "仙盟红包失效返还"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1541,
+		"updateName" : "EUpdateCodeGuildPromotion",
+		"updateStr" : "仙盟争霸"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1542,
+		"updateName" : "EUpdateCodePlayerRecharegeReturnXwrw",
+		"updateStr" : "充值返利瑞玩"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"updateCode" : 1543,
+		"updateName" : "EUpdateCodeJoinCloudBuy",
+		"updateStr" : "参与云购"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1545,
+		"updateName" : "EUpdateCodeRechargeActiveMail",
+		"updateStr" : "充值活动未领邮件"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1547,
+		"updateName" : "EUpdateCodeCloudBuyReward",
+		"updateStr" : "云购大奖"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1549,
+		"updateName" : "EUpdateCodeTowerDefense",
+		"updateStr" : "塔防副本"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1550,
+		"updateName" : "EUpdateCodeSoulDress",
+		"updateStr" : "佩戴灵魂"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1551,
+		"updateName" : "EUpdateCodeSoulUndress",
+		"updateStr" : "卸下灵魂"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1552,
+		"updateName" : "EUpdateCodeSoulUpgrade",
+		"updateStr" : "升级灵魂"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1553,
+		"updateName" : "EUpdateCodeSoulDecompose",
+		"updateStr" : "分解灵魂"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1554,
+		"updateName" : "EUpdateCodeSoulSmelt",
+		"updateStr" : "合成灵魂"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1555,
+		"updateName" : "EUpdateCodeSoulSplit",
+		"updateStr" : "拆分灵魂"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1556,
+		"updateName" : "EUpdateCodeDestinyAwake",
+		"updateStr" : "天命觉醒"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1557,
+		"updateName" : "EUpdateCodeNaturalGift",
+		"updateStr" : "天赋系统"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1558,
+		"updateName" : "EUpdateCodeOperationOnlineRechargeWeak",
+		"updateStr" : "在线操作充值（不申请订单）"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1559,
+		"updateName" : "EUpdateCodeOperationOfflineRechargeWeak",
+		"updateStr" : "离线操作充值（不申请订单）"
+	},
+	
+	{
+		"updateCode" : 1560,
+		"updateName" : "EUpdateCodeModifyRoleName",
+		"updateStr" : "修改角色名"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"updateCode" : 1561,
+		"updateName" : "EUpdateCodeBuyProp",
+		"updateStr" : "购买特殊活动道具"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1562,
+		"updateName" : "EUpdateCodeBeastIsland",
+		"updateStr" : "神兽岛"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"updateCode" : 1563,
+		"updateName" : "EUpdateCodeGuildPurposeChange",
+		"updateStr" : "修改仙盟公告"
+	},
+	
+	{
+		"updateCode" : 1564,
+		"updateName" : "EUpdateCodeJewelRefine",
+		"updateStr" : "宝石精炼"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1570,
+		"updateName" : "EUpdateCodeBeastDress",
+		"updateStr" : "神兽穿戴装备"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1571,
+		"updateName" : "EUpdateCodeBeastUndress",
+		"updateStr" : "神兽卸下装备"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1572,
+		"updateName" : "EUpdateCodeBeastUndressAll",
+		"updateStr" : "神兽一键卸下装备"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1573,
+		"updateName" : "EUpdateCodeBeastBeckon",
+		"updateStr" : "神兽助战"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1574,
+		"updateName" : "EUpdateCodeBeastRecall",
+		"updateStr" : "神兽召回"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1575,
+		"updateName" : "EUpdateCodeBeastAddMaxBeckonNum",
+		"updateStr" : "神兽拓展助战"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"updateCode" : 1576,
+		"updateName" : "EUpdateCodeBeastStrengthen",
+		"updateStr" : "神兽强化"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"isShow" : 1,
+		"updateCode" : 1581,
+		"updateName" : "EUpdateCodeShopSeckillBuy",
+		"updateStr" : "秒杀商店购买"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1582,
+		"updateName" : "EUpdateCodeRuneSmelt",
+		"updateStr" : "符文合成"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"isShow" : 1,
+		"updateCode" : 1583,
+		"updateName" : "EUpdateCodeActiveInvest",
+		"updateStr" : "活动投资"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"isShow" : 1,
+		"updateCode" : 1584,
+		"updateName" : "EUpdateCodeLuckRotaty",
+		"updateStr" : "幸运抽奖"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1585,
+		"updateName" : "EUpdateCodeInvestPlan2Join",
+		"updateStr" : "参与投资计划-巅峰"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1586,
+		"updateName" : "EUpdateCodeInvestPlan2Repay",
+		"updateStr" : "领取投资计划回报-巅峰"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1587,
+		"updateName" : "EUpdateCodeMgGuildDefense",
+		"updateStr" : "守卫仙盟"
+	},
+	
+	{
+		"updateCode" : 1588,
+		"updateName" : "EUpdateCodeDecomposeEquip",
+		"updateStr" : "装备分解"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1589,
+		"updateName" : "EUpdateCodeShapeChangeEx",
+		"updateStr" : "骑宠化形"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1590,
+		"updateName" : "EUpdateCodeShapeUseAddChangeLuckyItem",
+		"updateStr" : "骑宠化形增加祝福值"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1591,
+		"updateName" : "EUpdateCodeMarryActiveRank",
+		"updateStr" : "结婚活动"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1592,
+		"updateName" : "EUpdateCodeMarryWeddingBless",
+		"updateStr" : "婚宴祝福"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1593,
+		"updateName" : "EUpdateCodeChildren",
+		"updateStr" : "仙娃系统"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1594,
+		"updateName" : "EUpdateCodeLoveBox",
+		"updateStr" : "爱情宝匣"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1595,
+		"updateName" : "EUpdateCodeHeartLockUpgrade",
+		"updateStr" : "同心锁"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1596,
+		"updateName" : "EUpdateCodeMarryTree",
+		"updateStr" : "姻缘树"
+	},
+	
+	{
+		"updateCode" : 1597,
+		"updateName" : "EUpdateCodeGuildRedPacketPlayerByProp",
+		"updateStr" : "使用仙盟红包道具"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1598,
+		"updateName" : "EUpdateCodeCopyMgLove",
+		"updateStr" : "情缘副本"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1599,
+		"updateName" : "EUpdateCodeMarryVersionRepay",
+		"updateStr" : "结婚优化补偿"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1600,
+		"updateName" : "EUpdateCodeMgBattle",
+		"updateStr" : "神魔战场"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1601,
+		"updateName" : "EUpdateCodeChangerBaseCareer",
+		"updateStr" : "基础职业转换"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1602,
+		"updateName" : "EUpdateCodeDragonSpirit",
+		"updateStr" : "龙脉系统"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1603,
+		"updateName" : "EUpdateCodeFashionLevel",
+		"updateStr" : "时装升级"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1604,
+		"updateName" : "EUpdateCodeFashionDecompose",
+		"updateStr" : "时装分解"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1605,
+		"updateName" : "EUpdateCodeDragonAwake",
+		"updateStr" : "神龙觉醒"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1606,
+		"updateName" : "EUpdateCodeLotteryZhuangBei",
+		"updateStr" : "装备寻宝"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1607,
+		"updateName" : "EUpdateCodeLotteryDianFeng",
+		"updateStr" : "巅峰寻宝"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isDayCost" : 1,
+		"isShow" : 1,
+		"updateCode" : 1608,
+		"updateName" : "EUpdateCodeRegain",
+		"updateStr" : "资源找回"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1609,
+		"updateName" : "EUpdateCodeLotteryZhongJi",
+		"updateStr" : "终极寻宝"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1610,
+		"updateName" : "EUpdateCodeShenJiCopy",
+		"updateStr" : "上古神迹副本"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"isShow" : 1,
+		"updateCode" : 1611,
+		"updateName" : "EUpdateCodeMagpieDonate",
+		"updateStr" : "捐献鹊羽"
+	},
+	
+	{
+		"updateCode" : 1612,
+		"updateName" : "EUpdateCodeHallowActivate",
+		"updateStr" : "神器激活"
+	},
+	
+	{
+		"updateCode" : 1613,
+		"updateName" : "EUpdateCodeHallowUpgrade",
+		"updateStr" : "神器升级"
+	},
+	
+	{
+		"updateCode" : 1614,
+		"updateName" : "EUpdateCodeHallowAttached",
+		"updateStr" : "神器附灵"
+	},
+	
+	{
+		"updateCode" : 1615,
+		"updateName" : "EUpdateCodeHallowDecompose",
+		"updateStr" : "圣器材料分解"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1616,
+		"updateName" : "EUpdateCodeMgGuildBattle",
+		"updateStr" : "跨服盟战"
+	},
+	
+	{
+		"updateCode" : 1617,
+		"updateName" : "EUpdateCodeBagMeltEquip",
+		"updateStr" : "熔炼装备"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1618,
+		"updateName" : "EUpdateCodeBossJoinReward",
+		"updateStr" : "boss参与奖励"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1619,
+		"updateName" : "EUpdateCodeNewExperience",
+		"updateStr" : "经验副本"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1620,
+		"updateName" : "EUpdateCodeDropLevel",
+		"updateStr" : "降级"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1621,
+		"updateName" : "EUpdateCodeUseRoleState",
+		"updateStr" : "使用转生丹"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1622,
+		"updateName" : "EUpdateCodeRoleState",
+		"updateStr" : "转生"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1623,
+		"updateName" : "EUpdateCodeUpgradeStrengthenEx",
+		"updateStr" : "新强化系统强化升级"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1624,
+		"updateName" : "EUpdateCodeGenerateGodEquip",
+		"updateStr" : "合成神装"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1625,
+		"updateName" : "EUpdateCodeUpgradeGodEquip",
+		"updateStr" : "升级神装"
+	},
+	
+	{
+		"isConsPro" : 1,
+		"updateCode" : 1626,
+		"updateName" : "EUpdateCodeDecomposeGodEquip",
+		"updateStr" : "分解神装"
+	}
+]

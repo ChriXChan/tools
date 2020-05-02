@@ -1,0 +1,1490 @@
+
+[
+	
+	{
+		"cultivateType" : 1,
+		"effectAddDesc" : "天怒技能对角色伤害+70%",
+		"effectDesc" : "天怒技能对玩家伤害提高到<font color='#0df14b'>550%</font>",
+		"effectStr" : "10101,1,1#",
+		"level" : 1,
+		"num" : 3,
+		"suitDesc" : "60级",
+		"suitName" : "60级天怒属性"
+	},
+	
+	{
+		"cultivateType" : 1,
+		"effectAddDesc" : "天怒技能对怪物伤害+550%",
+		"effectDesc" : "天怒技能对怪物伤害提高到<font color='#0df14b'>1550%</font>",
+		"effectStr" : "10102,1,1#",
+		"level" : 1,
+		"num" : 5,
+		"suitDesc" : "60级",
+		"suitName" : "60级天怒属性"
+	},
+	
+	{
+		"broadcastStr" : "60级天怒卦象",
+		"cultivateType" : 1,
+		"effectAddDesc" : "怒气恢复速度+10%",
+		"effectDesc" : "怒气恢复速度<font color='#0df14b'>+10%</font>",
+		"effectStr" : "10103,1,1#",
+		"level" : 1,
+		"num" : 8,
+		"suitDesc" : "60级",
+		"suitName" : "60级天怒属性"
+	},
+	
+	{
+		"cultivateType" : 1,
+		"effectAddDesc" : "天怒技能对角色伤害+130%",
+		"effectDesc" : "天怒技能对玩家伤害提高到<font color='#0df14b'>610%</font>",
+		"effectStr" : "10101,2,1#",
+		"level" : 2,
+		"num" : 3,
+		"suitDesc" : "1转",
+		"suitName" : "1转天怒属性"
+	},
+	
+	{
+		"cultivateType" : 1,
+		"effectAddDesc" : "天怒技能对怪物伤害+950%",
+		"effectDesc" : "天怒技能对怪物伤害提高到<font color='#0df14b'>2000%</font>",
+		"effectStr" : "10102,2,1#",
+		"level" : 2,
+		"num" : 5,
+		"suitDesc" : "1转",
+		"suitName" : "1转天怒属性"
+	},
+	
+	{
+		"broadcastStr" : "1转天怒卦象",
+		"cultivateType" : 1,
+		"effectAddDesc" : "怒气恢复速度+20%",
+		"effectDesc" : "怒气恢复速度<font color='#0df14b'>+20%</font>",
+		"effectStr" : "10103,2,1#",
+		"level" : 2,
+		"num" : 8,
+		"suitDesc" : "1转",
+		"suitName" : "1转天怒属性"
+	},
+	
+	{
+		"cultivateType" : 1,
+		"effectAddDesc" : "天怒技能对角色伤害+190%",
+		"effectDesc" : "天怒技能对玩家伤害提高到<font color='#0df14b'>670%</font>",
+		"effectStr" : "10101,3,1#",
+		"level" : 3,
+		"num" : 3,
+		"suitDesc" : "3转",
+		"suitName" : "3转天怒属性"
+	},
+	
+	{
+		"cultivateType" : 1,
+		"effectAddDesc" : "天怒技能对怪物伤害+1400%",
+		"effectDesc" : "天怒技能对怪物伤害提高到<font color='#0df14b'>2450%</font>",
+		"effectStr" : "10102,3,1#",
+		"level" : 3,
+		"num" : 5,
+		"suitDesc" : "3转",
+		"suitName" : "3转天怒属性"
+	},
+	
+	{
+		"broadcastStr" : "3转天怒卦象",
+		"cultivateType" : 1,
+		"effectAddDesc" : "怒气恢复速度+30%",
+		"effectDesc" : "怒气恢复速度<font color='#0df14b'>+30%</font>",
+		"effectStr" : "10103,3,1#",
+		"level" : 3,
+		"num" : 8,
+		"suitDesc" : "3转",
+		"suitName" : "3转天怒属性"
+	},
+	
+	{
+		"cultivateType" : 1,
+		"effectAddDesc" : "天怒技能对角色伤害+250%",
+		"effectDesc" : "天怒技能对玩家伤害提高到<font color='#0df14b'>730%</font>",
+		"effectStr" : "10101,4,1#",
+		"level" : 4,
+		"num" : 3,
+		"suitDesc" : "4转",
+		"suitName" : "4转天怒属性"
+	},
+	
+	{
+		"cultivateType" : 1,
+		"effectAddDesc" : "天怒技能对怪物伤害+1850%",
+		"effectDesc" : "天怒技能对怪物伤害提高到<font color='#0df14b'>2900%</font>",
+		"effectStr" : "10102,4,1#",
+		"level" : 4,
+		"num" : 5,
+		"suitDesc" : "4转",
+		"suitName" : "4转天怒属性"
+	},
+	
+	{
+		"broadcastStr" : "4转天怒卦象",
+		"cultivateType" : 1,
+		"effectAddDesc" : "怒气恢复速度+40%",
+		"effectDesc" : "怒气恢复速度<font color='#0df14b'>+40%</font>",
+		"effectStr" : "10103,4,1#",
+		"level" : 4,
+		"num" : 8,
+		"suitDesc" : "4转",
+		"suitName" : "4转天怒属性"
+	},
+	
+	{
+		"cultivateType" : 1,
+		"effectAddDesc" : "天怒技能对角色伤害+310%",
+		"effectDesc" : "天怒技能对玩家伤害提高到<font color='#0df14b'>790%</font>",
+		"effectStr" : "10101,5,1#",
+		"level" : 5,
+		"num" : 3,
+		"suitDesc" : "5转",
+		"suitName" : "5转天怒属性"
+	},
+	
+	{
+		"cultivateType" : 1,
+		"effectAddDesc" : "天怒技能对怪物伤害+2300%",
+		"effectDesc" : "天怒技能对怪物伤害提高到<font color='#0df14b'>3350%</font>",
+		"effectStr" : "10102,5,1#",
+		"level" : 5,
+		"num" : 5,
+		"suitDesc" : "5转",
+		"suitName" : "5转天怒属性"
+	},
+	
+	{
+		"broadcastStr" : "5转天怒卦象",
+		"cultivateType" : 1,
+		"effectAddDesc" : "怒气恢复速度+50%",
+		"effectDesc" : "怒气恢复速度<font color='#0df14b'>+50%</font>",
+		"effectStr" : "10103,5,1#",
+		"level" : 5,
+		"num" : 8,
+		"suitDesc" : "5转",
+		"suitName" : "5转天怒属性"
+	},
+	
+	{
+		"cultivateType" : 1,
+		"effectAddDesc" : "天怒技能对角色伤害+370%",
+		"effectDesc" : "天怒技能对玩家伤害提高到<font color='#0df14b'>850%</font>",
+		"effectStr" : "10101,6,1#",
+		"level" : 6,
+		"num" : 3,
+		"suitDesc" : "6转",
+		"suitName" : "6转天怒属性"
+	},
+	
+	{
+		"cultivateType" : 1,
+		"effectAddDesc" : "天怒技能对怪物伤害+2900%",
+		"effectDesc" : "天怒技能对怪物伤害提高到<font color='#0df14b'>4000%</font>",
+		"effectStr" : "10102,6,1#",
+		"level" : 6,
+		"num" : 5,
+		"suitDesc" : "6转",
+		"suitName" : "6转天怒属性"
+	},
+	
+	{
+		"broadcastStr" : "6转天怒卦象",
+		"cultivateType" : 1,
+		"effectAddDesc" : "怒气恢复速度+60%",
+		"effectDesc" : "怒气恢复速度<font color='#0df14b'>+60%</font>",
+		"effectStr" : "10103,6,1#",
+		"level" : 6,
+		"num" : 8,
+		"suitDesc" : "6转",
+		"suitName" : "6转天怒属性"
+	},
+	
+	{
+		"cultivateType" : 1,
+		"effectAddDesc" : "天怒技能对角色伤害+430%",
+		"effectDesc" : "天怒技能对玩家伤害提高到<font color='#0df14b'>910%</font>",
+		"effectStr" : "10101,7,1#",
+		"level" : 7,
+		"num" : 3,
+		"suitDesc" : "7转",
+		"suitName" : "7转天怒属性"
+	},
+	
+	{
+		"cultivateType" : 1,
+		"effectAddDesc" : "天怒技能对怪物伤害+3500%",
+		"effectDesc" : "天怒技能对怪物伤害提高到<font color='#0df14b'>4600%</font>",
+		"effectStr" : "10102,7,1#",
+		"level" : 7,
+		"num" : 5,
+		"suitDesc" : "7转",
+		"suitName" : "7转天怒属性"
+	},
+	
+	{
+		"broadcastStr" : "7转天怒卦象",
+		"cultivateType" : 1,
+		"effectAddDesc" : "怒气恢复速度+70%",
+		"effectDesc" : "怒气恢复速度<font color='#0df14b'>+70%</font>",
+		"effectStr" : "10103,7,1#",
+		"level" : 7,
+		"num" : 8,
+		"suitDesc" : "7转",
+		"suitName" : "7转天怒属性"
+	},
+	
+	{
+		"cultivateType" : 1,
+		"effectAddDesc" : "天怒技能对角色伤害+490%",
+		"effectDesc" : "天怒技能对玩家伤害提高到<font color='#0df14b'>970%</font>",
+		"effectStr" : "10101,8,1#",
+		"level" : 8,
+		"num" : 3,
+		"suitDesc" : "8转",
+		"suitName" : "8转天怒属性"
+	},
+	
+	{
+		"cultivateType" : 1,
+		"effectAddDesc" : "天怒技能对怪物伤害+4100%",
+		"effectDesc" : "天怒技能对怪物伤害提高到<font color='#0df14b'>5200%</font>",
+		"effectStr" : "10102,8,1#",
+		"level" : 8,
+		"num" : 5,
+		"suitDesc" : "8转",
+		"suitName" : "8转天怒属性"
+	},
+	
+	{
+		"broadcastStr" : "8转天怒卦象",
+		"cultivateType" : 1,
+		"effectAddDesc" : "怒气恢复速度+80%",
+		"effectDesc" : "怒气恢复速度<font color='#0df14b'>+80%</font>",
+		"effectStr" : "10103,8,1#",
+		"level" : 8,
+		"num" : 8,
+		"suitDesc" : "8转",
+		"suitName" : "8转天怒属性"
+	},
+	
+	{
+		"cultivateType" : 2,
+		"effectDesc" : "激活属性：羽翼全属性+<font color='#09c73d'>5%</font>",
+		"level" : 1,
+		"num" : 4,
+		"specialAttr" : "1,500#",
+		"subtype" : 8,
+		"suitName" : "神羽大师1阶"
+	},
+	
+	{
+		"cultivateType" : 2,
+		"effectDesc" : "激活属性：羽翼全属性+<font color='#09c73d'>10%</font>",
+		"level" : 2,
+		"num" : 4,
+		"specialAttr" : "1,1000#",
+		"subtype" : 8,
+		"suitName" : "神羽大师2阶"
+	},
+	
+	{
+		"cultivateType" : 2,
+		"effectDesc" : "激活属性：羽翼全属性+<font color='#09c73d'>15%</font>",
+		"level" : 3,
+		"num" : 4,
+		"specialAttr" : "1,1500#",
+		"subtype" : 8,
+		"suitName" : "神羽大师3阶"
+	},
+	
+	{
+		"cultivateType" : 2,
+		"effectDesc" : "激活属性：羽翼全属性+<font color='#09c73d'>20%</font>",
+		"level" : 4,
+		"num" : 4,
+		"specialAttr" : "1,2000#",
+		"subtype" : 8,
+		"suitName" : "神羽大师4阶"
+	},
+	
+	{
+		"cultivateType" : 2,
+		"effectDesc" : "激活属性：羽翼全属性+<font color='#09c73d'>25%</font>",
+		"level" : 5,
+		"num" : 4,
+		"specialAttr" : "1,2500#",
+		"subtype" : 8,
+		"suitName" : "神羽大师5阶"
+	},
+	
+	{
+		"attr" : "1,69#3,27#2,2856#4,27#",
+		"attrIndex" : 1,
+		"broadcastStr" : "苍穹青云套装1阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+69,破甲+27,防御+27,生命+2856",
+		"level" : 1,
+		"num" : 3,
+		"subtype" : 10,
+		"suitDesc" : "套装件数：3",
+		"suitName" : "苍穹青云"
+	},
+	
+	{
+		"attr" : "1,41#3,16#2,1688#4,16#",
+		"attrIndex" : 1,
+		"broadcastStr" : "妖莲降世套装1阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+41,破甲+16,防御+16,生命+1688",
+		"level" : 1,
+		"num" : 3,
+		"subtype" : 20,
+		"suitDesc" : "套装件数：3",
+		"suitName" : "妖莲降世"
+	},
+	
+	{
+		"attr" : "1,41#3,16#2,1688#4,16#",
+		"attrIndex" : 1,
+		"broadcastStr" : "美女如云套装1阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+41,破甲+16,防御+16,生命+1688",
+		"level" : 1,
+		"num" : 3,
+		"subtype" : 30,
+		"suitDesc" : "套装件数：3",
+		"suitName" : "美女如云"
+	},
+	
+	{
+		"attr" : "1,123#3,49#2,4984#4,49#",
+		"attrIndex" : 1,
+		"broadcastStr" : "至尊神兽套装1阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+123,破甲+49,防御+49,生命+4984",
+		"level" : 1,
+		"num" : 3,
+		"subtype" : 40,
+		"suitDesc" : "套装件数：3",
+		"suitName" : "至尊神兽"
+	},
+	
+	{
+		"attr" : "1,61#3,24#2,2552#4,24#",
+		"attrIndex" : 1,
+		"broadcastStr" : "倾国倾城套装1阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+61,破甲+24,防御+24,生命+2552",
+		"level" : 1,
+		"num" : 3,
+		"subtype" : 80,
+		"suitDesc" : "套装件数：3",
+		"suitName" : "倾国倾城"
+	},
+	
+	{
+		"attr" : "1,61#3,24#2,2552#4,24#",
+		"attrIndex" : 1,
+		"broadcastStr" : "沉鱼落雁套装1阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+61,破甲+24,防御+24,生命+2552",
+		"level" : 1,
+		"num" : 3,
+		"subtype" : 90,
+		"suitDesc" : "套装件数：3",
+		"suitName" : "沉鱼落雁"
+	},
+	
+	{
+		"attr" : "1,102#3,41#2,4160#4,41#",
+		"attrIndex" : 1,
+		"broadcastStr" : "战皇金装套装1阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+102,破甲+41,防御+41,生命+4160",
+		"level" : 1,
+		"num" : 4,
+		"subtype" : 50,
+		"suitDesc" : "套装件数：4",
+		"suitName" : "战皇金装"
+	},
+	
+	{
+		"attr" : "1,102#3,41#2,4160#4,41#",
+		"attrIndex" : 1,
+		"broadcastStr" : "仙姬金装套装1阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+102,破甲+41,防御+41,生命+4160",
+		"level" : 1,
+		"num" : 4,
+		"subtype" : 60,
+		"suitDesc" : "套装件数：4",
+		"suitName" : "仙姬金装"
+	},
+	
+	{
+		"attr" : "1,102#3,41#2,4160#4,41#",
+		"attrIndex" : 1,
+		"broadcastStr" : "医圣金装套装1阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+102,破甲+41,防御+41,生命+4160",
+		"level" : 1,
+		"num" : 4,
+		"subtype" : 70,
+		"suitDesc" : "套装件数：4",
+		"suitName" : "医圣金装"
+	},
+	
+	{
+		"attr" : "1,123#3,49#2,4984#4,49#",
+		"attrIndex" : 1,
+		"broadcastStr" : "倾国倾城套装2阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+123,破甲+49,防御+49,生命+4987",
+		"level" : 2,
+		"num" : 4,
+		"subtype" : 80,
+		"suitDesc" : "套装件数：4",
+		"suitName" : "倾国倾城"
+	},
+	
+	{
+		"attr" : "1,123#3,49#2,4984#4,49#",
+		"attrIndex" : 1,
+		"broadcastStr" : "沉鱼落雁套装2阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+123,破甲+49,防御+49,生命+4987",
+		"level" : 2,
+		"num" : 4,
+		"subtype" : 90,
+		"suitDesc" : "套装件数：4",
+		"suitName" : "沉鱼落雁"
+	},
+	
+	{
+		"attr" : "1,246#3,98#2,9968#4,98#",
+		"attrIndex" : 1,
+		"broadcastStr" : "至尊神兽套装2阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+246,破甲+98,防御+98,生命+9968",
+		"level" : 2,
+		"num" : 5,
+		"subtype" : 40,
+		"suitDesc" : "套装件数：5",
+		"suitName" : "至尊神兽"
+	},
+	
+	{
+		"attr" : "1,82#3,32#2,3376#4,32#",
+		"attrIndex" : 1,
+		"broadcastStr" : "妖莲降世套装2阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+82,破甲+32,防御+32,生命+3376",
+		"level" : 2,
+		"num" : 6,
+		"subtype" : 20,
+		"suitDesc" : "套装件数：6",
+		"suitName" : "妖莲降世"
+	},
+	
+	{
+		"attr" : "1,82#3,32#2,3376#4,32#",
+		"attrIndex" : 1,
+		"broadcastStr" : "美女如云套装2阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+82,破甲+32,防御+32,生命+3376",
+		"level" : 2,
+		"num" : 6,
+		"subtype" : 30,
+		"suitDesc" : "套装件数：6",
+		"suitName" : "美女如云"
+	},
+	
+	{
+		"attr" : "1,138#3,55#2,5632#4,55#",
+		"attrIndex" : 1,
+		"broadcastStr" : "苍穹青云套装2阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+138,破甲+55,防御+55,生命+5632",
+		"level" : 2,
+		"num" : 7,
+		"subtype" : 10,
+		"suitDesc" : "套装件数：7",
+		"suitName" : "苍穹青云"
+	},
+	
+	{
+		"attr" : "1,205#3,82#2,8280#4,82#",
+		"attrIndex" : 1,
+		"broadcastStr" : "战皇金装套装2阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+205,破甲+82,防御+82,生命+8280",
+		"level" : 2,
+		"num" : 8,
+		"subtype" : 50,
+		"suitDesc" : "套装件数：8",
+		"suitName" : "战皇金装"
+	},
+	
+	{
+		"attr" : "1,205#3,82#2,8280#4,82#",
+		"attrIndex" : 1,
+		"broadcastStr" : "仙姬金装套装2阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+205,破甲+82,防御+82,生命+8280",
+		"level" : 2,
+		"num" : 8,
+		"subtype" : 60,
+		"suitDesc" : "套装件数：8",
+		"suitName" : "仙姬金装"
+	},
+	
+	{
+		"attr" : "1,205#3,82#2,8280#4,82#",
+		"attrIndex" : 1,
+		"broadcastStr" : "医圣金装套装2阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+205,破甲+82,防御+82,生命+8280",
+		"level" : 2,
+		"num" : 8,
+		"subtype" : 70,
+		"suitDesc" : "套装件数：8",
+		"suitName" : "医圣金装"
+	},
+	
+	{
+		"attr" : "1,370#3,148#2,14832#4,148#",
+		"attrIndex" : 1,
+		"broadcastStr" : "至尊神兽套装3阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+370,破甲+148,防御+148,生命+14832",
+		"level" : 3,
+		"num" : 7,
+		"subtype" : 40,
+		"suitDesc" : "套装件数：7",
+		"suitName" : "至尊神兽"
+	},
+	
+	{
+		"attr" : "1,123#3,49#2,4984#4,49#",
+		"attrIndex" : 1,
+		"broadcastStr" : "妖莲降世套装3阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+123,破甲+49,防御+49,生命+4984",
+		"level" : 3,
+		"num" : 9,
+		"subtype" : 20,
+		"suitDesc" : "套装件数：9",
+		"suitName" : "妖莲降世"
+	},
+	
+	{
+		"attr" : "1,123#3,49#2,4984#4,49#",
+		"attrIndex" : 1,
+		"broadcastStr" : "美女如云套装3阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+123,破甲+49,防御+49,生命+4984",
+		"level" : 3,
+		"num" : 9,
+		"subtype" : 30,
+		"suitDesc" : "套装件数：9",
+		"suitName" : "美女如云"
+	},
+	
+	{
+		"attr" : "1,185#3,74#2,7416#4,74#",
+		"attrIndex" : 1,
+		"broadcastStr" : "倾国倾城套装3阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+185,破甲+74,防御+74,生命+7416",
+		"level" : 3,
+		"num" : 10,
+		"subtype" : 80,
+		"suitDesc" : "套装件数：10",
+		"suitName" : "倾国倾城"
+	},
+	
+	{
+		"attr" : "1,185#3,74#2,7416#4,74#",
+		"attrIndex" : 1,
+		"broadcastStr" : "沉鱼落雁套装3阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+185,破甲+74,防御+74,生命+7416",
+		"level" : 3,
+		"num" : 10,
+		"subtype" : 90,
+		"suitDesc" : "套装件数：10",
+		"suitName" : "沉鱼落雁"
+	},
+	
+	{
+		"attr" : "1,208#3,83#2,8368#4,83#",
+		"attrIndex" : 1,
+		"broadcastStr" : "苍穹青云套装3阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+208,破甲+83,防御+83,生命+8368",
+		"level" : 3,
+		"num" : 11,
+		"subtype" : 10,
+		"suitDesc" : "套装件数：11",
+		"suitName" : "苍穹青云"
+	},
+	
+	{
+		"attr" : "1,164#3,65#2,6672#4,65#",
+		"attrIndex" : 1,
+		"broadcastStr" : "妖莲降世套装4阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+164,破甲+65,防御+65,生命+6672",
+		"level" : 4,
+		"num" : 13,
+		"subtype" : 20,
+		"suitDesc" : "套装件数：13",
+		"suitName" : "妖莲降世"
+	},
+	
+	{
+		"attr" : "1,164#3,65#2,6672#4,65#",
+		"attrIndex" : 1,
+		"broadcastStr" : "美女如云套装4阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+164,破甲+65,防御+65,生命+6672",
+		"level" : 4,
+		"num" : 13,
+		"subtype" : 30,
+		"suitDesc" : "套装件数：13",
+		"suitName" : "美女如云"
+	},
+	
+	{
+		"attr" : "1,246#3,98#2,9968#4,98#",
+		"attrIndex" : 1,
+		"broadcastStr" : "倾国倾城套装4阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+246,破甲+98,防御+98,生命+9968",
+		"level" : 4,
+		"num" : 14,
+		"subtype" : 80,
+		"suitDesc" : "套装件数：14",
+		"suitName" : "倾国倾城"
+	},
+	
+	{
+		"attr" : "1,246#3,98#2,9968#4,98#",
+		"attrIndex" : 1,
+		"broadcastStr" : "沉鱼落雁套装4阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+246,破甲+98,防御+98,生命+9968",
+		"level" : 4,
+		"num" : 14,
+		"subtype" : 90,
+		"suitDesc" : "套装件数：14",
+		"suitName" : "沉鱼落雁"
+	},
+	
+	{
+		"attr" : "1,277#3,111#2,11144#4,111#",
+		"attrIndex" : 1,
+		"broadcastStr" : "苍穹青云套装4阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+277,破甲+111,防御+111,生命+11144",
+		"level" : 4,
+		"num" : 15,
+		"subtype" : 10,
+		"suitDesc" : "套装件数：15",
+		"suitName" : "苍穹青云"
+	},
+	
+	{
+		"attr" : "1,205#3,82#2,8280#4,82#",
+		"attrIndex" : 1,
+		"broadcastStr" : "妖莲降世套装5阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+205,破甲+82,防御+82,生命+8280",
+		"level" : 5,
+		"num" : 18,
+		"subtype" : 20,
+		"suitDesc" : "套装件数：18",
+		"suitName" : "妖莲降世"
+	},
+	
+	{
+		"attr" : "1,205#3,82#2,8280#4,82#",
+		"attrIndex" : 1,
+		"broadcastStr" : "美女如云套装5阶",
+		"cultivateType" : 3,
+		"effectDesc" : "攻击+205,破甲+82,防御+82,生命+8280",
+		"level" : 5,
+		"num" : 18,
+		"subtype" : 30,
+		"suitDesc" : "套装件数：18",
+		"suitName" : "美女如云"
+	},
+	
+	{
+		"attr" : "1,0#3,0#2,0#4,0#",
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "攻击有10%概率额外造成3600点伤害",
+		"effectStr" : "12100,1,3#",
+		"icon" : "101006",
+		"level" : 1,
+		"num" : 4,
+		"subtype" : 1,
+		"suitDesc" : "神兵所有部位都达到已激活",
+		"suitName" : "紫电神兵"
+	},
+	
+	{
+		"attr" : "1,0#3,0#2,0#4,0#",
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "受到攻击有10%概率触发恢复8000点生命值",
+		"effectStr" : "12101,1,3#",
+		"icon" : "101005",
+		"level" : 1,
+		"num" : 6,
+		"subtype" : 2,
+		"suitDesc" : "神兵所有部位都达到已激活",
+		"suitName" : "玄火神兵"
+	},
+	
+	{
+		"attr" : "1,0#3,0#2,0#4,0#",
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "攻击命中时有3%概率触发追加30%额外伤害",
+		"effectStr" : "12102,1,3#",
+		"icon" : "101006",
+		"level" : 1,
+		"num" : 6,
+		"subtype" : 3,
+		"suitDesc" : "神兵所有部位都达到已激活",
+		"suitName" : "轩辕神兵"
+	},
+	
+	{
+		"attr" : "1,0#3,0#2,0#4,0#",
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "对眩晕的目标的伤害提升9%",
+		"effectStr" : "12103,1,3#",
+		"icon" : "101005",
+		"level" : 1,
+		"num" : 8,
+		"subtype" : 4,
+		"suitDesc" : "神兵所有部位都达到已激活",
+		"suitName" : "八曜神兵"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "攻击有10%概率额外造成7200点伤害",
+		"effectStr" : "12100,2,3#",
+		"level" : 2,
+		"num" : 4,
+		"subtype" : 1,
+		"suitDesc" : "神兵所有部位突破等阶达到1阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "受到攻击有10%概率触发恢复16000点生命值",
+		"effectStr" : "12101,2,3#",
+		"level" : 2,
+		"num" : 6,
+		"subtype" : 2,
+		"suitDesc" : "神兵所有部位突破等阶达到1阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "攻击命中时有4%概率触发追加30%额外伤害",
+		"effectStr" : "12102,2,3#",
+		"level" : 2,
+		"num" : 6,
+		"subtype" : 3,
+		"suitDesc" : "神兵所有部位突破等阶达到1阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "对眩晕的目标的伤害提升18%",
+		"effectStr" : "12103,2,3#",
+		"level" : 2,
+		"num" : 8,
+		"subtype" : 4,
+		"suitDesc" : "神兵所有部位突破等阶达到1阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "攻击有10%概率额外造成10800点伤害",
+		"effectStr" : "12100,3,3#",
+		"level" : 3,
+		"num" : 4,
+		"subtype" : 1,
+		"suitDesc" : "神兵所有部位突破等阶达到2阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "受到攻击有10%概率触发恢复24000点生命值",
+		"effectStr" : "12101,3,3#",
+		"level" : 3,
+		"num" : 6,
+		"subtype" : 2,
+		"suitDesc" : "神兵所有部位突破等阶达到2阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "攻击命中时有5%概率触发追加30%额外伤害",
+		"effectStr" : "12102,3,3#",
+		"level" : 3,
+		"num" : 6,
+		"subtype" : 3,
+		"suitDesc" : "神兵所有部位突破等阶达到2阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "对眩晕的目标的伤害提升27%",
+		"effectStr" : "12103,3,3#",
+		"level" : 3,
+		"num" : 8,
+		"subtype" : 4,
+		"suitDesc" : "神兵所有部位突破等阶达到2阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "攻击有10%概率额外造成14400点伤害",
+		"effectStr" : "12100,4,3#",
+		"level" : 4,
+		"num" : 4,
+		"subtype" : 1,
+		"suitDesc" : "神兵所有部位突破等阶达到3阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "受到攻击有10%概率触发恢复32000点生命值",
+		"effectStr" : "12101,4,3#",
+		"level" : 4,
+		"num" : 6,
+		"subtype" : 2,
+		"suitDesc" : "神兵所有部位突破等阶达到3阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "攻击命中时有6%概率触发追加30%额外伤害",
+		"effectStr" : "12102,4,3#",
+		"level" : 4,
+		"num" : 6,
+		"subtype" : 3,
+		"suitDesc" : "神兵所有部位突破等阶达到3阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "对眩晕的目标的伤害提升36%",
+		"effectStr" : "12103,4,3#",
+		"level" : 4,
+		"num" : 8,
+		"subtype" : 4,
+		"suitDesc" : "神兵所有部位突破等阶达到3阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "攻击有10%概率额外造成18000点伤害",
+		"effectStr" : "12100,5,3#",
+		"level" : 5,
+		"num" : 4,
+		"subtype" : 1,
+		"suitDesc" : "神兵所有部位突破等阶达到4阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "受到攻击有10%概率触发恢复40000点生命值",
+		"effectStr" : "12101,5,3#",
+		"level" : 5,
+		"num" : 6,
+		"subtype" : 2,
+		"suitDesc" : "神兵所有部位突破等阶达到4阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "攻击命中时有7%概率触发追加30%额外伤害",
+		"effectStr" : "12102,5,3#",
+		"level" : 5,
+		"num" : 6,
+		"subtype" : 3,
+		"suitDesc" : "神兵所有部位突破等阶达到4阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "对眩晕的目标的伤害提升45%",
+		"effectStr" : "12103,5,3#",
+		"level" : 5,
+		"num" : 8,
+		"subtype" : 4,
+		"suitDesc" : "神兵所有部位突破等阶达到4阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "攻击有10%概率额外造成21600点伤害",
+		"effectStr" : "12100,6,3#",
+		"level" : 6,
+		"num" : 4,
+		"subtype" : 1,
+		"suitDesc" : "神兵所有部位突破等阶达到5阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "受到攻击有10%概率触发恢复48000点生命值",
+		"effectStr" : "12101,6,3#",
+		"level" : 6,
+		"num" : 6,
+		"subtype" : 2,
+		"suitDesc" : "神兵所有部位突破等阶达到5阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "攻击命中时有8%概率触发追加30%额外伤害",
+		"effectStr" : "12102,6,3#",
+		"level" : 6,
+		"num" : 6,
+		"subtype" : 3,
+		"suitDesc" : "神兵所有部位突破等阶达到5阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "对眩晕的目标的伤害提升54%",
+		"effectStr" : "12103,6,3#",
+		"level" : 6,
+		"num" : 8,
+		"subtype" : 4,
+		"suitDesc" : "神兵所有部位突破等阶达到5阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "攻击有10%概率额外造成25200点伤害",
+		"effectStr" : "12100,7,3#",
+		"level" : 7,
+		"num" : 4,
+		"subtype" : 1,
+		"suitDesc" : "神兵所有部位突破等阶达到6阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "受到攻击有10%概率触发恢复56000点生命值",
+		"effectStr" : "12101,7,3#",
+		"level" : 7,
+		"num" : 6,
+		"subtype" : 2,
+		"suitDesc" : "神兵所有部位突破等阶达到6阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "攻击命中时有9%概率触发追加30%额外伤害",
+		"effectStr" : "12102,7,3#",
+		"level" : 7,
+		"num" : 6,
+		"subtype" : 3,
+		"suitDesc" : "神兵所有部位突破等阶达到6阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "对眩晕的目标的伤害提升63%",
+		"effectStr" : "12103,7,3#",
+		"level" : 7,
+		"num" : 8,
+		"subtype" : 4,
+		"suitDesc" : "神兵所有部位突破等阶达到6阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "攻击有10%概率额外造成28800点伤害",
+		"effectStr" : "12100,8,3#",
+		"level" : 8,
+		"num" : 4,
+		"subtype" : 1,
+		"suitDesc" : "神兵所有部位突破等阶达到7阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "受到攻击有10%概率触发恢复64000点生命值",
+		"effectStr" : "12101,8,3#",
+		"level" : 8,
+		"num" : 6,
+		"subtype" : 2,
+		"suitDesc" : "神兵所有部位突破等阶达到7阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "攻击命中时有10%概率触发追加30%额外伤害",
+		"effectStr" : "12102,8,3#",
+		"level" : 8,
+		"num" : 6,
+		"subtype" : 3,
+		"suitDesc" : "神兵所有部位突破等阶达到7阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "对眩晕的目标的伤害提升72%",
+		"effectStr" : "12103,8,3#",
+		"level" : 8,
+		"num" : 8,
+		"subtype" : 4,
+		"suitDesc" : "神兵所有部位突破等阶达到7阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "攻击有10%概率额外造成32400点伤害",
+		"effectStr" : "12100,9,3#",
+		"level" : 9,
+		"num" : 4,
+		"subtype" : 1,
+		"suitDesc" : "神兵所有部位突破等阶达到8阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "受到攻击有10%概率触发恢复72000点生命值",
+		"effectStr" : "12101,9,3#",
+		"level" : 9,
+		"num" : 6,
+		"subtype" : 2,
+		"suitDesc" : "神兵所有部位突破等阶达到8阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "攻击命中时有11%概率触发追加30%额外伤害",
+		"effectStr" : "12102,9,3#",
+		"level" : 9,
+		"num" : 6,
+		"subtype" : 3,
+		"suitDesc" : "神兵所有部位突破等阶达到8阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "对眩晕的目标的伤害提升81%",
+		"effectStr" : "12103,9,3#",
+		"level" : 9,
+		"num" : 8,
+		"subtype" : 4,
+		"suitDesc" : "神兵所有部位突破等阶达到8阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "攻击有10%概率额外造成36000点伤害",
+		"effectStr" : "12100,10,3#",
+		"level" : 10,
+		"num" : 4,
+		"subtype" : 1,
+		"suitDesc" : "神兵所有部位突破等阶达到9阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "受到攻击有10%概率触发恢复80000点生命值",
+		"effectStr" : "12101,10,3#",
+		"level" : 10,
+		"num" : 6,
+		"subtype" : 2,
+		"suitDesc" : "神兵所有部位突破等阶达到9阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "攻击命中时有12%概率触发追加30%额外伤害",
+		"effectStr" : "12102,10,3#",
+		"level" : 10,
+		"num" : 6,
+		"subtype" : 3,
+		"suitDesc" : "神兵所有部位突破等阶达到9阶"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 4,
+		"effectDesc" : "对眩晕的目标的伤害提升90%",
+		"effectStr" : "12103,10,3#",
+		"level" : 10,
+		"num" : 8,
+		"subtype" : 4,
+		"suitDesc" : "神兵所有部位突破等阶达到9阶"
+	},
+	
+	{
+		"attr" : "1,3857#3,1542#2,154360#4,1542",
+		"attrIndex" : 3,
+		"cultivateType" : 5,
+		"level" : 1,
+		"modelId" : 10001,
+		"num" : 8,
+		"suitName" : "星 混元套装"
+	},
+	
+	{
+		"attr" : "1,7714#3,3085#2,308640#4,3085",
+		"attrIndex" : 3,
+		"cultivateType" : 5,
+		"effectDesc" : "<font color='#01ab24'>攻击玩家伤害加深+5%</font><br><font color='#01ab24'>受到玩家伤害减免+5%</font>",
+		"effectStr" : "10213,1,3#10216,1,3",
+		"level" : 2,
+		"modelId" : 10002,
+		"num" : 8,
+		"suitName" : "月 混元套装"
+	},
+	
+	{
+		"attr" : "1,11571#3,4628#2,462920#4,4628",
+		"attrIndex" : 3,
+		"cultivateType" : 5,
+		"effectDesc" : "<font color='#01ab24'>攻击玩家伤害加深+10%</font><br><font color='#01ab24'>受到玩家伤害减免+10%</font>",
+		"effectStr" : "10213,2,3#10216,2,3",
+		"level" : 3,
+		"modelId" : 10003,
+		"num" : 8,
+		"suitName" : "曜 混元套装"
+	},
+	
+	{
+		"attr" : "1,15428#3,6171#2,617200#4,6171",
+		"attrIndex" : 3,
+		"cultivateType" : 5,
+		"effectDesc" : "<font color='#01ab24'>攻击玩家伤害加深+15%</font><br><font color='#01ab24'>受到玩家伤害减免+15%</font>",
+		"effectStr" : "10213,3,3#10216,3,3",
+		"level" : 4,
+		"modelId" : 10004,
+		"num" : 8,
+		"suitName" : "圣 混元套装"
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 6,
+		"effectDesc" : "攻击时，有5%几率追加无视防御的天罡剑气伤害",
+		"effectStr" : "13001,1,3#",
+		"level" : 1,
+		"num" : 5,
+		"subtype" : 1
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 6,
+		"effectDesc" : "每隔10秒最大生命恢复+1%",
+		"effectStr" : "13005,1,3#",
+		"level" : 1,
+		"num" : 5,
+		"subtype" : 2
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 6,
+		"effectDesc" : "每第10次攻击，当次伤害提升20%，并附加200000点修罗伤害",
+		"effectStr" : "13009,1,3#",
+		"level" : 1,
+		"num" : 5,
+		"subtype" : 3
+	},
+	
+	{
+		"attr" : "2,80000#",
+		"attrIndex" : 3,
+		"cultivateType" : 6,
+		"effectDesc" : "生命+80000，同时角色生命+1%",
+		"effectStr" : "13013,1,3#",
+		"level" : 1,
+		"num" : 5,
+		"subtype" : 4
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 6,
+		"effectDesc" : "攻击时，有10%几率追加无视防御的天罡剑气伤害",
+		"effectStr" : "13001,2,3#",
+		"level" : 2,
+		"num" : 5,
+		"subtype" : 1
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 6,
+		"effectDesc" : "每隔10秒最大生命恢复+2%",
+		"effectStr" : "13005,2,3#",
+		"level" : 2,
+		"num" : 5,
+		"subtype" : 2
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 6,
+		"effectDesc" : "每第10次攻击，当次伤害提升25%，并附加300000点修罗伤害",
+		"effectStr" : "13009,2,3#",
+		"level" : 2,
+		"num" : 5,
+		"subtype" : 3
+	},
+	
+	{
+		"attr" : "2,160000#",
+		"attrIndex" : 3,
+		"cultivateType" : 6,
+		"effectDesc" : "生命+160000，同时角色生命+2%",
+		"effectStr" : "13013,2,3#",
+		"level" : 2,
+		"num" : 5,
+		"subtype" : 4
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 6,
+		"effectDesc" : "攻击时，有15%几率追加无视防御的天罡剑气伤害",
+		"effectStr" : "13001,3,3#",
+		"level" : 3,
+		"num" : 5,
+		"subtype" : 1
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 6,
+		"effectDesc" : "每隔10秒最大生命恢复+3%",
+		"effectStr" : "13005,3,3#",
+		"level" : 3,
+		"num" : 5,
+		"subtype" : 2
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 6,
+		"effectDesc" : "每第10次攻击，当次伤害提升30%，并附加400000点修罗伤害",
+		"effectStr" : "13009,3,3#",
+		"level" : 3,
+		"num" : 5,
+		"subtype" : 3
+	},
+	
+	{
+		"attr" : "2,240000#",
+		"attrIndex" : 3,
+		"cultivateType" : 6,
+		"effectDesc" : "生命+240000，同时角色生命+3%",
+		"effectStr" : "13013,3,3#",
+		"level" : 3,
+		"num" : 5,
+		"subtype" : 4
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 6,
+		"effectDesc" : "攻击时，有20%几率追加无视防御的天罡剑气伤害",
+		"effectStr" : "13001,4,3#",
+		"level" : 4,
+		"num" : 5,
+		"subtype" : 1
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 6,
+		"effectDesc" : "每隔10秒最大生命恢复+4%",
+		"effectStr" : "13005,4,3#",
+		"level" : 4,
+		"num" : 5,
+		"subtype" : 2
+	},
+	
+	{
+		"attrIndex" : 3,
+		"cultivateType" : 6,
+		"effectDesc" : "每第10次攻击，当次伤害提升40%，并附加500000点修罗伤害",
+		"effectStr" : "13009,4,3#",
+		"level" : 4,
+		"num" : 5,
+		"subtype" : 3
+	},
+	
+	{
+		"attr" : "2,320000#",
+		"attrIndex" : 3,
+		"cultivateType" : 6,
+		"effectDesc" : "生命+320000，同时角色生命+4%",
+		"effectStr" : "13013,4,3#",
+		"level" : 4,
+		"num" : 5,
+		"subtype" : 4
+	},
+	
+	{
+		"cultivateType" : 7,
+		"effectDesc" : "<font color='#d3bf96'>宠物基础属性增加：</font><font color='#09c73d'>2%</font>",
+		"level" : 1,
+		"num" : 4,
+		"specialAttr" : "1,200#",
+		"subtype" : 2,
+		"suitName" : "乌木套装"
+	},
+	
+	{
+		"cultivateType" : 7,
+		"effectDesc" : "<font color='#d3bf96'>宠物基础属性增加：</font><font color='#09c73d'>4%</font>",
+		"level" : 2,
+		"num" : 4,
+		"specialAttr" : "1,400#",
+		"subtype" : 2,
+		"suitName" : "古铜套装"
+	},
+	
+	{
+		"cultivateType" : 7,
+		"effectDesc" : "<font color='#d3bf96'>宠物基础属性增加：</font><font color='#09c73d'>6%</font>",
+		"level" : 3,
+		"num" : 4,
+		"specialAttr" : "1,600#",
+		"subtype" : 2,
+		"suitName" : "寒铁套装"
+	},
+	
+	{
+		"cultivateType" : 7,
+		"effectDesc" : "<font color='#d3bf96'>宠物基础属性增加：</font><font color='#09c73d'>8%</font>",
+		"level" : 4,
+		"num" : 4,
+		"specialAttr" : "1,800#",
+		"subtype" : 2,
+		"suitName" : "青铜套装"
+	},
+	
+	{
+		"cultivateType" : 7,
+		"effectDesc" : "<font color='#d3bf96'>宠物基础属性增加：</font><font color='#09c73d'>12%</font>",
+		"level" : 5,
+		"num" : 4,
+		"specialAttr" : "1,1200#",
+		"subtype" : 2,
+		"suitName" : "海魂套装"
+	},
+	
+	{
+		"cultivateType" : 7,
+		"effectDesc" : "<font color='#d3bf96'>宠物基础属性增加：</font><font color='#09c73d'>16%</font>",
+		"level" : 6,
+		"num" : 4,
+		"specialAttr" : "1,1600#",
+		"subtype" : 2,
+		"suitName" : "八荒套装"
+	},
+	
+	{
+		"cultivateType" : 7,
+		"effectDesc" : "<font color='#d3bf96'>宠物基础属性增加：</font><font color='#09c73d'>20%</font>",
+		"level" : 7,
+		"num" : 4,
+		"specialAttr" : "1,2000#",
+		"subtype" : 2,
+		"suitName" : "降魔套装"
+	},
+	
+	{
+		"cultivateType" : 7,
+		"effectDesc" : "<font color='#d3bf96'>宠物基础属性增加：</font><font color='#09c73d'>25%</font>",
+		"level" : 8,
+		"num" : 4,
+		"specialAttr" : "1,2500#",
+		"subtype" : 2,
+		"suitName" : "修罗套装"
+	},
+	
+	{
+		"cultivateType" : 7,
+		"effectDesc" : "<font color='#d3bf96'>宠物基础属性增加：</font><font color='#09c73d'>35%</font>",
+		"level" : 9,
+		"num" : 4,
+		"specialAttr" : "1,3500#",
+		"subtype" : 2,
+		"suitName" : "炼狱套装"
+	},
+	
+	{
+		"cultivateType" : 7,
+		"effectDesc" : "<font color='#d3bf96'>宠物基础属性增加：</font><font color='#09c73d'>50%</font>",
+		"level" : 10,
+		"num" : 4,
+		"specialAttr" : "1,5000#",
+		"subtype" : 2,
+		"suitName" : "龙牙套装"
+	}
+]

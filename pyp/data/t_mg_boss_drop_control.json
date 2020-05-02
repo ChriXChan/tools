@@ -1,0 +1,63 @@
+
+[
+	
+	{
+		"itemCode" : 42170001,
+		"rateMax" : 2469600,
+		"rateMin" : 176400
+	},
+	
+	{
+		"itemCode" : 42200001,
+		"rateMax" : 1189000,
+		"rateMin" : 116000
+	},
+	
+	{
+		"itemCode" : 42200002,
+		"rateMax" : 441600,
+		"rateMin" : 15360
+	},
+	
+	{
+		"itemCode" : 42200003,
+		"rateMax" : 1565382,
+		"rateMin" : 114680
+	},
+	
+	{
+		"itemCode" : 60074003,
+		"rateMax" : 3293600,
+		"rateMin" : 414000
+	},
+	
+	{
+		"itemCode" : 60074004,
+		"rateMax" : 2214000,
+		"rateMin" : 216000
+	},
+	
+	{
+		"itemCode" : 60074005,
+		"rateMax" : 1002540,
+		"rateMin" : 122760
+	},
+	
+	{
+		"itemCode" : 60076003,
+		"rateMax" : 1361250,
+		"rateMin" : 90000
+	},
+	
+	{
+		"itemCode" : 60076004,
+		"rateMax" : 741000,
+		"rateMin" : 97500
+	},
+	
+	{
+		"itemCode" : 60076005,
+		"rateMax" : 543360,
+		"rateMin" : 50940
+	}
+]

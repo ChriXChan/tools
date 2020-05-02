@@ -1,0 +1,63 @@
+
+[
+	
+	{
+		"endDate" : 2,
+		"id" : 1,
+		"minCond" : 100,
+		"name" : "冲级达人",
+		"rewardEndDate" : 9,
+		"showStartDate" : 1,
+		"toplist" : 111
+	},
+	
+	{
+		"endDate" : 3,
+		"id" : 2,
+		"minCond" : 11,
+		"name" : "坐骑进阶",
+		"rewardEndDate" : 9,
+		"showStartDate" : 3,
+		"toplist" : 113
+	},
+	
+	{
+		"endDate" : 4,
+		"id" : 3,
+		"minCond" : 11,
+		"name" : "驯宠达人",
+		"rewardEndDate" : 9,
+		"showStartDate" : 4,
+		"toplist" : 114
+	},
+	
+	{
+		"endDate" : 5,
+		"id" : 4,
+		"minCond" : 1,
+		"name" : "今日充值",
+		"rewardEndDate" : 9,
+		"showStartDate" : 5,
+		"toplist" : 110
+	},
+	
+	{
+		"endDate" : 6,
+		"id" : 5,
+		"minCond" : 10,
+		"name" : "宝石镶嵌",
+		"rewardEndDate" : 9,
+		"showStartDate" : 6,
+		"toplist" : 109
+	},
+	
+	{
+		"endDate" : 7,
+		"id" : 6,
+		"minCond" : 100000,
+		"name" : "战力排行",
+		"rewardEndDate" : 9,
+		"showStartDate" : 7,
+		"toplist" : 112
+	}
+]

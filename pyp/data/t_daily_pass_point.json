@@ -1,0 +1,161 @@
+
+[
+	
+	{
+		"id" : 1,
+		"mapId" : 110301,
+		"npcId" : 210301
+	},
+	
+	{
+		"id" : 2,
+		"mapId" : 110301,
+		"npcId" : 231001
+	},
+	
+	{
+		"id" : 3,
+		"mapId" : 110301,
+		"npcId" : 230303
+	},
+	
+	{
+		"id" : 4,
+		"mapId" : 110301,
+		"npcId" : 210305
+	},
+	
+	{
+		"id" : 5,
+		"mapId" : 110401,
+		"npcId" : 211000
+	},
+	
+	{
+		"id" : 6,
+		"mapId" : 110301,
+		"pointX" : 22,
+		"pointY" : 22
+	},
+	
+	{
+		"id" : 7,
+		"mapId" : 110101,
+		"pointX" : 29,
+		"pointY" : 27
+	},
+	
+	{
+		"id" : 8,
+		"mapId" : 110102,
+		"pointX" : 29,
+		"pointY" : 27
+	},
+	
+	{
+		"id" : 9,
+		"mapId" : 110103,
+		"pointX" : 29,
+		"pointY" : 27
+	},
+	
+	{
+		"id" : 10,
+		"mapId" : 110101,
+		"pointX" : 19,
+		"pointY" : 40
+	},
+	
+	{
+		"id" : 11,
+		"mapId" : 110102,
+		"pointX" : 19,
+		"pointY" : 40
+	},
+	
+	{
+		"id" : 12,
+		"mapId" : 110103,
+		"pointX" : 19,
+		"pointY" : 40
+	},
+	
+	{
+		"id" : 13,
+		"mapId" : 110101,
+		"pointX" : 38,
+		"pointY" : 69
+	},
+	
+	{
+		"id" : 14,
+		"mapId" : 110102,
+		"pointX" : 38,
+		"pointY" : 69
+	},
+	
+	{
+		"id" : 15,
+		"mapId" : 110103,
+		"pointX" : 38,
+		"pointY" : 69
+	},
+	
+	{
+		"id" : 16,
+		"mapId" : 110301,
+		"npcId" : 220231
+	},
+	
+	{
+		"id" : 17,
+		"mapId" : 110301,
+		"npcId" : 210310
+	},
+	
+	{
+		"id" : 18,
+		"mapId" : 110301,
+		"npcId" : 210310
+	},
+	
+	{
+		"id" : 19,
+		"mapId" : 110301,
+		"npcId" : 233100
+	},
+	
+	{
+		"id" : 20,
+		"mapId" : 110101,
+		"pointX" : 33,
+		"pointY" : 36
+	},
+	
+	{
+		"id" : 21,
+		"mapId" : 110102,
+		"pointX" : 33,
+		"pointY" : 36
+	},
+	
+	{
+		"id" : 22,
+		"mapId" : 110103,
+		"pointX" : 33,
+		"pointY" : 36
+	},
+	
+	{
+		"id" : 23,
+		"mapId" : 110901,
+		"pointX" : 36,
+		"pointY" : 37
+	},
+	
+	{
+		"id" : 24,
+		"mapId" : 110901,
+		"npcId" : 230030
+	}
+]

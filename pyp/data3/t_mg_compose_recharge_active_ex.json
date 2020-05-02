@@ -1,0 +1,243 @@
+
+[
+	
+	{
+		"code" : -11121,
+		"day" : 1,
+		"id" : 1,
+		"rechargeAmount" : 2000,
+		"rechargeDays" : 1,
+		"rewards" : "3,30051038,1#3,35000000,10#3,60010002,20",
+		"type" : 1
+	},
+	
+	{
+		"code" : -11121,
+		"day" : 2,
+		"id" : 2,
+		"rechargeAmount" : 2000,
+		"rechargeDays" : 1,
+		"rewards" : "3,30051038,1#3,35000000,10#3,60010002,20",
+		"type" : 1
+	},
+	
+	{
+		"code" : -11121,
+		"day" : 3,
+		"id" : 3,
+		"rechargeAmount" : 2000,
+		"rechargeDays" : 1,
+		"rewards" : "3,30051038,1#3,35000000,10#3,60010002,20",
+		"type" : 1
+	},
+	
+	{
+		"code" : -11121,
+		"day" : -1,
+		"id" : 4,
+		"rechargeAmount" : 2000,
+		"rechargeDays" : 3,
+		"rewards" : "3,40111267,1#3,30051038,2#3,35000000,30",
+		"type" : 2
+	},
+	
+	{
+		"code" : -11121,
+		"day" : 1,
+		"id" : 5,
+		"rechargeAmount" : 5000,
+		"rechargeDays" : 1,
+		"rewards" : "3,30051038,2#3,35000000,15#3,60010002,30",
+		"type" : 1
+	},
+	
+	{
+		"code" : -11121,
+		"day" : 2,
+		"id" : 6,
+		"rechargeAmount" : 5000,
+		"rechargeDays" : 1,
+		"rewards" : "3,30051038,2#3,35000000,15#3,60010002,30",
+		"type" : 1
+	},
+	
+	{
+		"code" : -11121,
+		"day" : 3,
+		"id" : 7,
+		"rechargeAmount" : 5000,
+		"rechargeDays" : 1,
+		"rewards" : "3,30051038,2#3,35000000,15#3,60010002,30",
+		"type" : 1
+	},
+	
+	{
+		"code" : -11121,
+		"day" : -1,
+		"id" : 8,
+		"rechargeAmount" : 5000,
+		"rechargeDays" : 3,
+		"rewards" : "3,12601312,1#3,35010001,3#3,35000000,45",
+		"type" : 2
+	},
+	
+	{
+		"code" : -11121,
+		"day" : 1,
+		"id" : 9,
+		"rechargeAmount" : 20000,
+		"rechargeDays" : 1,
+		"rewards" : "3,20000035,1#3,30051038,4#3,60030011,1",
+		"type" : 1
+	},
+	
+	{
+		"code" : -11121,
+		"day" : 2,
+		"id" : 10,
+		"rechargeAmount" : 20000,
+		"rechargeDays" : 1,
+		"rewards" : "3,20000035,1#3,30051038,4#3,60030011,1",
+		"type" : 1
+	},
+	
+	{
+		"code" : -11121,
+		"day" : 3,
+		"id" : 11,
+		"rechargeAmount" : 20000,
+		"rechargeDays" : 1,
+		"rewards" : "3,20000035,1#3,30051038,4#3,60030011,1",
+		"type" : 1
+	},
+	
+	{
+		"code" : -11121,
+		"day" : -1,
+		"id" : 12,
+		"rechargeAmount" : 20000,
+		"rechargeDays" : 3,
+		"rewards" : "3,20000036,1#3,12601313,1#3,35010003,1",
+		"type" : 2
+	},
+	
+	{
+		"code" : -11021,
+		"day" : 1,
+		"id" : 1,
+		"rechargeAmount" : 2000,
+		"rechargeDays" : 1,
+		"rewards" : "3,30051038,1#3,35000000,10#3,60060010,20",
+		"type" : 1
+	},
+	
+	{
+		"code" : -11021,
+		"day" : 2,
+		"id" : 2,
+		"rechargeAmount" : 2000,
+		"rechargeDays" : 1,
+		"rewards" : "3,30051038,1#3,35000000,10#3,60060010,20",
+		"type" : 1
+	},
+	
+	{
+		"code" : -11021,
+		"day" : 3,
+		"id" : 3,
+		"rechargeAmount" : 2000,
+		"rechargeDays" : 1,
+		"rewards" : "3,30051038,1#3,35000000,10#3,60060010,20",
+		"type" : 1
+	},
+	
+	{
+		"code" : -11021,
+		"day" : -1,
+		"id" : 4,
+		"rechargeAmount" : 2000,
+		"rechargeDays" : 3,
+		"rewards" : "3,40111267,1#3,30051038,2#3,35000000,30",
+		"type" : 2
+	},
+	
+	{
+		"code" : -11021,
+		"day" : 1,
+		"id" : 5,
+		"rechargeAmount" : 5000,
+		"rechargeDays" : 1,
+		"rewards" : "3,30051038,2#3,35000000,15#3,60060010,30",
+		"type" : 1
+	},
+	
+	{
+		"code" : -11021,
+		"day" : 2,
+		"id" : 6,
+		"rechargeAmount" : 5000,
+		"rechargeDays" : 1,
+		"rewards" : "3,30051038,2#3,35000000,15#3,60060010,30",
+		"type" : 1
+	},
+	
+	{
+		"code" : -11021,
+		"day" : 3,
+		"id" : 7,
+		"rechargeAmount" : 5000,
+		"rechargeDays" : 1,
+		"rewards" : "3,30051038,2#3,35000000,15#3,60060010,30",
+		"type" : 1
+	},
+	
+	{
+		"code" : -11021,
+		"day" : -1,
+		"id" : 8,
+		"rechargeAmount" : 5000,
+		"rechargeDays" : 3,
+		"rewards" : "3,12601312,1#3,35010001,3#3,35000000,45",
+		"type" : 2
+	},
+	
+	{
+		"code" : -11021,
+		"day" : 1,
+		"id" : 9,
+		"rechargeAmount" : 20000,
+		"rechargeDays" : 1,
+		"rewards" : "3,20000035,1#3,30051038,4#3,60030011,1",
+		"type" : 1
+	},
+	
+	{
+		"code" : -11021,
+		"day" : 2,
+		"id" : 10,
+		"rechargeAmount" : 20000,
+		"rechargeDays" : 1,
+		"rewards" : "3,20000035,1#3,30051038,4#3,60030011,1",
+		"type" : 1
+	},
+	
+	{
+		"code" : -11021,
+		"day" : 3,
+		"id" : 11,
+		"rechargeAmount" : 20000,
+		"rechargeDays" : 1,
+		"rewards" : "3,20000035,1#3,30051038,4#3,60030011,1",
+		"type" : 1
+	},
+	
+	{
+		"code" : -11021,
+		"day" : -1,
+		"id" : 12,
+		"rechargeAmount" : 20000,
+		"rechargeDays" : 3,
+		"rewards" : "3,20000036,1#3,12601313,1#3,35010003,1",
+		"type" : 2
+	}
+]

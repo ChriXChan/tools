@@ -1,0 +1,92 @@
+
+[
+	
+	{
+		"roleSubState" : 1,
+		"stageName" : "第一阶段",
+		"stageTargetDesc" : "找到仙九幽向她打探鬼王的踪迹，但仙九幽中了火狱奇毒无法运功，此时奄奄一息。据说只有找到玄阴内丹才能解该奇毒。",
+		"stageTargetName" : "火狱之章"
+	},
+	
+	{
+		"roleSubState" : 2,
+		"stageName" : "第二阶段",
+		"stageTargetDesc" : "鬼王的下属深渊恶魔正在附近大肆屠杀生灵，可现在的你还不是他的对手。绿瓶儿有一本功法可以增强功力，但是需要火纹琥珀来跟她交换。",
+		"stageTargetName" : "恶魔幻影"
+	},
+	
+	{
+		"roleSubState" : 3,
+		"stageName" : "第三阶段",
+		"stageTargetDesc" : "深渊恶魔袭击了瓶儿，抢走了功法，必须打败他，找回功法。研习可完成第一次转职，功力定大增。",
+		"stageTargetName" : "一转觉醒"
+	},
+	
+	{
+		"roleState" : 1
+	},
+	
+	{
+		"roleState" : 1,
+		"roleSubState" : 1,
+		"stageName" : "第一阶段",
+		"stageTargetDesc" : "紫微真人习得部分天书功法，可以找其言传。此时他正忙于抵制屠杀生灵的万妖女王，未有时间言教。一些重伤村民奄奄一息，需要玉骨白冥丹救治，不妨帮他找来。",
+		"stageTargetName" : "沙漠之章"
+	},
+	
+	{
+		"roleState" : 1,
+		"roleSubState" : 2,
+		"stageName" : "第二阶段",
+		"stageTargetDesc" : "受伤的村民感染了万妖女王的邪气，不少人魔化成怪物，开始攻击他人。沙漠之心可以净化魔障，必须赶紧找来，镇定暴乱。",
+		"stageTargetName" : "净化魔障"
+	},
+	
+	{
+		"roleState" : 1,
+		"roleSubState" : 3,
+		"stageName" : "第三阶段",
+		"stageTargetDesc" : "前往镇压万妖女王的弟子们还没回来，怕是遇到什么不测。救人刻不容缓，请火速支援，紫微真人愿以天书功法回报，助你成功二转。",
+		"stageTargetName" : "二转觉醒"
+	},
+	
+	{
+		"roleState" : 2
+	},
+	
+	{
+		"roleState" : 2,
+		"roleSubState" : 1,
+		"stageName" : "第一阶段",
+		"stageTargetDesc" : "魔教势力越来越强，红柚建议可以通过3转让修为更上一台阶，为此，需要获得帝皇资格，开启考验。",
+		"stageTargetName" : "帝皇资格"
+	},
+	
+	{
+		"roleState" : 2,
+		"roleSubState" : 2,
+		"stageName" : "第二阶段",
+		"stageTargetDesc" : "乱魔之海妖气弥漫，潜藏着各种危险。唯有绿竹炼制的圣丹方可压制这股魔刹之力，但却被魔徒抢走，实乃可恨。",
+		"stageTargetName" : "圣丹之力"
+	},
+	
+	{
+		"roleState" : 2,
+		"roleSubState" : 3,
+		"stageName" : "第三阶段",
+		"stageTargetDesc" : "传言神木不仅可以极大增强修为，还可以抵挡魔刹之力，防止被鬼王的瘴气感染成魔，是通过试炼必不可少之物。",
+		"stageTargetName" : "希望神木"
+	},
+	
+	{
+		"roleState" : 2,
+		"roleSubState" : 4,
+		"stageName" : "第四阶段",
+		"stageTargetDesc" : "转职的秘钥就在小龙女的手上，只要通过龙族的王者试炼，便可以完成转职。",
+		"stageTargetName" : "王者证明"
+	},
+	
+	{
+		"roleState" : 3
+	}
+]

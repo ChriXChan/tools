@@ -1,0 +1,936 @@
+
+[
+	
+	{
+		"id" : 1,
+		"rechargeDay" : 1,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"exRewards" : "3,35010001,1",
+		"id" : 2,
+		"rechargeDay" : 2,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"id" : 3,
+		"rechargeDay" : 3,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"exRewards" : "3,35010002,1",
+		"id" : 4,
+		"rechargeDay" : 4,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"id" : 5,
+		"rechargeDay" : 5,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"id" : 6,
+		"rechargeDay" : 6,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"exRewards" : "3,50010006,1",
+		"id" : 7,
+		"rechargeDay" : 7,
+		"rewards" : "3,40110206,3000",
+		"round" : 1
+	},
+	
+	{
+		"id" : 8,
+		"rechargeDay" : 8,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"id" : 9,
+		"rechargeDay" : 9,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"exRewards" : "3,35010003,1",
+		"id" : 10,
+		"rechargeDay" : 10,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"id" : 11,
+		"rechargeDay" : 11,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"exRewards" : "3,35010001,1",
+		"id" : 12,
+		"rechargeDay" : 12,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"id" : 13,
+		"rechargeDay" : 13,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"exRewards" : "3,35010002,1",
+		"id" : 14,
+		"rechargeDay" : 14,
+		"rewards" : "3,40110206,3600",
+		"round" : 1
+	},
+	
+	{
+		"id" : 15,
+		"rechargeDay" : 15,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"id" : 16,
+		"rechargeDay" : 16,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"exRewards" : "3,50010006,1",
+		"id" : 17,
+		"rechargeDay" : 17,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"id" : 18,
+		"rechargeDay" : 18,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"id" : 19,
+		"rechargeDay" : 19,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"exRewards" : "3,35010003,1",
+		"id" : 20,
+		"rechargeDay" : 20,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"id" : 21,
+		"rechargeDay" : 21,
+		"rewards" : "3,40110206,4200",
+		"round" : 1
+	},
+	
+	{
+		"exRewards" : "3,35010001,1",
+		"id" : 22,
+		"rechargeDay" : 22,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"id" : 23,
+		"rechargeDay" : 23,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"exRewards" : "3,35010002,1",
+		"id" : 24,
+		"rechargeDay" : 24,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"id" : 25,
+		"rechargeDay" : 25,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"id" : 26,
+		"rechargeDay" : 26,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"exRewards" : "3,50010006,1",
+		"id" : 27,
+		"rechargeDay" : 27,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"id" : 28,
+		"rechargeDay" : 28,
+		"rewards" : "3,40110206,4800",
+		"round" : 1
+	},
+	
+	{
+		"id" : 29,
+		"rechargeDay" : 29,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"exRewards" : "3,35010003,1",
+		"id" : 30,
+		"rechargeDay" : 30,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"id" : 31,
+		"rechargeDay" : 31,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"exRewards" : "3,35010001,1",
+		"id" : 32,
+		"rechargeDay" : 32,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"id" : 33,
+		"rechargeDay" : 33,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"exRewards" : "3,35010002,1",
+		"id" : 34,
+		"rechargeDay" : 34,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"id" : 35,
+		"rechargeDay" : 35,
+		"rewards" : "3,40110206,5400",
+		"round" : 1
+	},
+	
+	{
+		"id" : 36,
+		"rechargeDay" : 36,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"exRewards" : "3,50010006,1",
+		"id" : 37,
+		"rechargeDay" : 37,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"id" : 38,
+		"rechargeDay" : 38,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"id" : 39,
+		"rechargeDay" : 39,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"exRewards" : "3,35010003,1",
+		"id" : 40,
+		"rechargeDay" : 40,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"id" : 41,
+		"rechargeDay" : 41,
+		"rewards" : "3,40110206,600",
+		"round" : 1
+	},
+	
+	{
+		"exRewards" : "3,50010006,1",
+		"id" : 42,
+		"rechargeDay" : 42,
+		"rewards" : "3,40110206,6000",
+		"round" : 1
+	},
+	
+	{
+		"id" : 43,
+		"rechargeDay" : 1,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"exRewards" : "3,35010001,1",
+		"id" : 44,
+		"rechargeDay" : 2,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"id" : 45,
+		"rechargeDay" : 3,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"exRewards" : "3,35010002,1",
+		"id" : 46,
+		"rechargeDay" : 4,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"id" : 47,
+		"rechargeDay" : 5,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"id" : 48,
+		"rechargeDay" : 6,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"exRewards" : "3,50010006,1",
+		"id" : 49,
+		"rechargeDay" : 7,
+		"rewards" : "3,40110206,3000",
+		"round" : 2
+	},
+	
+	{
+		"id" : 50,
+		"rechargeDay" : 8,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"id" : 51,
+		"rechargeDay" : 9,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"exRewards" : "3,35010003,1",
+		"id" : 52,
+		"rechargeDay" : 10,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"id" : 53,
+		"rechargeDay" : 11,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"exRewards" : "3,35010001,1",
+		"id" : 54,
+		"rechargeDay" : 12,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"id" : 55,
+		"rechargeDay" : 13,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"exRewards" : "3,35010002,1",
+		"id" : 56,
+		"rechargeDay" : 14,
+		"rewards" : "3,40110206,3600",
+		"round" : 2
+	},
+	
+	{
+		"id" : 57,
+		"rechargeDay" : 15,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"id" : 58,
+		"rechargeDay" : 16,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"exRewards" : "3,50010006,1",
+		"id" : 59,
+		"rechargeDay" : 17,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"id" : 60,
+		"rechargeDay" : 18,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"id" : 61,
+		"rechargeDay" : 19,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"exRewards" : "3,35010003,1",
+		"id" : 62,
+		"rechargeDay" : 20,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"id" : 63,
+		"rechargeDay" : 21,
+		"rewards" : "3,40110206,4200",
+		"round" : 2
+	},
+	
+	{
+		"exRewards" : "3,35010001,1",
+		"id" : 64,
+		"rechargeDay" : 22,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"id" : 65,
+		"rechargeDay" : 23,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"exRewards" : "3,35010002,1",
+		"id" : 66,
+		"rechargeDay" : 24,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"id" : 67,
+		"rechargeDay" : 25,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"id" : 68,
+		"rechargeDay" : 26,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"exRewards" : "3,50010006,1",
+		"id" : 69,
+		"rechargeDay" : 27,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"id" : 70,
+		"rechargeDay" : 28,
+		"rewards" : "3,40110206,4800",
+		"round" : 2
+	},
+	
+	{
+		"id" : 71,
+		"rechargeDay" : 29,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"exRewards" : "3,35010003,1",
+		"id" : 72,
+		"rechargeDay" : 30,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"id" : 73,
+		"rechargeDay" : 31,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"exRewards" : "3,35010001,1",
+		"id" : 74,
+		"rechargeDay" : 32,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"id" : 75,
+		"rechargeDay" : 33,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"exRewards" : "3,35010002,1",
+		"id" : 76,
+		"rechargeDay" : 34,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"id" : 77,
+		"rechargeDay" : 35,
+		"rewards" : "3,40110206,5400",
+		"round" : 2
+	},
+	
+	{
+		"id" : 78,
+		"rechargeDay" : 36,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"exRewards" : "3,50010006,1",
+		"id" : 79,
+		"rechargeDay" : 37,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"id" : 80,
+		"rechargeDay" : 38,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"id" : 81,
+		"rechargeDay" : 39,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"exRewards" : "3,35010003,1",
+		"id" : 82,
+		"rechargeDay" : 40,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"id" : 83,
+		"rechargeDay" : 41,
+		"rewards" : "3,40110206,600",
+		"round" : 2
+	},
+	
+	{
+		"exRewards" : "3,50010006,1",
+		"id" : 84,
+		"rechargeDay" : 42,
+		"rewards" : "3,40110206,6000",
+		"round" : 2
+	},
+	
+	{
+		"id" : 85,
+		"rechargeDay" : 1,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"exRewards" : "3,35010001,1",
+		"id" : 86,
+		"rechargeDay" : 2,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"id" : 87,
+		"rechargeDay" : 3,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"exRewards" : "3,35010002,1",
+		"id" : 88,
+		"rechargeDay" : 4,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"id" : 89,
+		"rechargeDay" : 5,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"id" : 90,
+		"rechargeDay" : 6,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"exRewards" : "3,50010006,1",
+		"id" : 91,
+		"rechargeDay" : 7,
+		"rewards" : "3,40110206,3000",
+		"round" : 3
+	},
+	
+	{
+		"id" : 92,
+		"rechargeDay" : 8,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"id" : 93,
+		"rechargeDay" : 9,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"exRewards" : "3,35010003,1",
+		"id" : 94,
+		"rechargeDay" : 10,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"id" : 95,
+		"rechargeDay" : 11,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"exRewards" : "3,35010001,1",
+		"id" : 96,
+		"rechargeDay" : 12,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"id" : 97,
+		"rechargeDay" : 13,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"exRewards" : "3,35010002,1",
+		"id" : 98,
+		"rechargeDay" : 14,
+		"rewards" : "3,40110206,3600",
+		"round" : 3
+	},
+	
+	{
+		"id" : 99,
+		"rechargeDay" : 15,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"id" : 100,
+		"rechargeDay" : 16,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"exRewards" : "3,50010006,1",
+		"id" : 101,
+		"rechargeDay" : 17,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"id" : 102,
+		"rechargeDay" : 18,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"id" : 103,
+		"rechargeDay" : 19,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"exRewards" : "3,35010003,1",
+		"id" : 104,
+		"rechargeDay" : 20,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"id" : 105,
+		"rechargeDay" : 21,
+		"rewards" : "3,40110206,4200",
+		"round" : 3
+	},
+	
+	{
+		"exRewards" : "3,35010001,1",
+		"id" : 106,
+		"rechargeDay" : 22,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"id" : 107,
+		"rechargeDay" : 23,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"exRewards" : "3,35010002,1",
+		"id" : 108,
+		"rechargeDay" : 24,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"id" : 109,
+		"rechargeDay" : 25,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"id" : 110,
+		"rechargeDay" : 26,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"exRewards" : "3,50010006,1",
+		"id" : 111,
+		"rechargeDay" : 27,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"id" : 112,
+		"rechargeDay" : 28,
+		"rewards" : "3,40110206,4800",
+		"round" : 3
+	},
+	
+	{
+		"id" : 113,
+		"rechargeDay" : 29,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"exRewards" : "3,35010003,1",
+		"id" : 114,
+		"rechargeDay" : 30,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"id" : 115,
+		"rechargeDay" : 31,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"exRewards" : "3,35010001,1",
+		"id" : 116,
+		"rechargeDay" : 32,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"id" : 117,
+		"rechargeDay" : 33,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"exRewards" : "3,35010002,1",
+		"id" : 118,
+		"rechargeDay" : 34,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"id" : 119,
+		"rechargeDay" : 35,
+		"rewards" : "3,40110206,5400",
+		"round" : 3
+	},
+	
+	{
+		"id" : 120,
+		"rechargeDay" : 36,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"exRewards" : "3,50010006,1",
+		"id" : 121,
+		"rechargeDay" : 37,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"id" : 122,
+		"rechargeDay" : 38,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"id" : 123,
+		"rechargeDay" : 39,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"exRewards" : "3,35010003,1",
+		"id" : 124,
+		"rechargeDay" : 40,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"id" : 125,
+		"rechargeDay" : 41,
+		"rewards" : "3,40110206,600",
+		"round" : 3
+	},
+	
+	{
+		"exRewards" : "3,50010006,1",
+		"id" : 126,
+		"rechargeDay" : 42,
+		"rewards" : "3,40110206,6000",
+		"round" : 3
+	}
+]

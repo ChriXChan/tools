@@ -1,0 +1,138 @@
+
+[
+	
+	{
+		"day" : 1,
+		"rewardNotRecharge" : "51110001,1#",
+		"rewardRecharge" : "51110003,1#",
+		"type" : 1
+	},
+	
+	{
+		"day" : 2,
+		"rewardNotRecharge" : "51110001,1#",
+		"rewardRecharge" : "51110003,1#",
+		"type" : 1
+	},
+	
+	{
+		"day" : 3,
+		"rewardNotRecharge" : "51110001,1#",
+		"rewardRecharge" : "51110003,1#",
+		"type" : 1
+	},
+	
+	{
+		"day" : 4,
+		"rewardNotRecharge" : "51110001,1#",
+		"rewardRecharge" : "51110003,1#",
+		"type" : 1
+	},
+	
+	{
+		"day" : 5,
+		"rewardNotRecharge" : "51110001,1#",
+		"rewardRecharge" : "51110003,1#",
+		"type" : 1
+	},
+	
+	{
+		"day" : 6,
+		"rewardNotRecharge" : "51110001,1#",
+		"rewardRecharge" : "51110003,1#",
+		"type" : 1
+	},
+	
+	{
+		"day" : 7,
+		"rewardNotRecharge" : "51110001,1#",
+		"rewardRecharge" : "51110003,1#",
+		"type" : 1
+	},
+	
+	{
+		"day" : 8,
+		"rewardNotRecharge" : "51110001,1#",
+		"rewardRecharge" : "51110003,1#",
+		"type" : 1
+	},
+	
+	{
+		"day" : 9,
+		"rewardNotRecharge" : "51110001,1#",
+		"rewardRecharge" : "51110003,1#",
+		"type" : 1
+	},
+	
+	{
+		"day" : 10,
+		"rewardNotRecharge" : "51110001,1#",
+		"rewardRecharge" : "51110003,1#",
+		"type" : 1
+	},
+	
+	{
+		"day" : 11,
+		"rewardNotRecharge" : "51110001,1#",
+		"rewardRecharge" : "51110003,1#",
+		"type" : 1
+	},
+	
+	{
+		"day" : 12,
+		"rewardNotRecharge" : "51110001,1#",
+		"rewardRecharge" : "51110003,1#",
+		"type" : 1
+	},
+	
+	{
+		"day" : 13,
+		"rewardNotRecharge" : "51110001,1#",
+		"rewardRecharge" : "51110003,1#",
+		"type" : 1
+	},
+	
+	{
+		"day" : 14,
+		"rewardNotRecharge" : "51110001,1#",
+		"rewardRecharge" : "51110003,1#",
+		"type" : 1
+	},
+	
+	{
+		"day" : 15,
+		"rewardNotRecharge" : "51110001,1#",
+		"rewardRecharge" : "51110003,1#",
+		"type" : 1
+	},
+	
+	{
+		"day" : 3,
+		"rewardNotRecharge" : "51110001,1#",
+		"rewardRecharge" : "51110003,1#"
+	},
+	
+	{
+		"day" : 7,
+		"rewardNotRecharge" : "51110001,1#",
+		"rewardRecharge" : "51110003,1#"
+	},
+	
+	{
+		"day" : 15,
+		"rewardNotRecharge" : "51110001,1#",
+		"rewardRecharge" : "51110003,1#"
+	},
+	
+	{
+		"day" : 24,
+		"rewardNotRecharge" : "51110001,1#",
+		"rewardRecharge" : "51110003,1#"
+	},
+	
+	{
+		"rewardNotRecharge" : "51110001,1#",
+		"rewardRecharge" : "51110003,1#",
+		"type" : 2
+	}
+]

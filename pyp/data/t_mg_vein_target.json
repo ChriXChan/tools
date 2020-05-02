@@ -1,0 +1,108 @@
+
+[
+	
+	{
+		"attrList" : "1,112#2,2248#3,45#4,45#",
+		"lastAttrVeinLevel" : 10,
+		"level" : 1,
+		"name" : "修真"
+	},
+	
+	{
+		"attrList" : "1,236#2,4721#3,94#4,94#",
+		"lastAttrVeinLevel" : 20,
+		"level" : 2,
+		"name" : "筑基"
+	},
+	
+	{
+		"attrList" : "1,372#2,7441#3,149#4,149#",
+		"lastAttrVeinLevel" : 30,
+		"level" : 3,
+		"name" : "开光"
+	},
+	
+	{
+		"attrList" : "1,522#2,10434#3,209#4,209#",
+		"lastAttrVeinLevel" : 40,
+		"level" : 4,
+		"name" : "融合"
+	},
+	
+	{
+		"attrList" : "1,686#2,13725#3,275#4,275#",
+		"lastAttrVeinLevel" : 50,
+		"level" : 5,
+		"name" : "心动"
+	},
+	
+	{
+		"attrList" : "1,867#2,17346#3,347#4,347#",
+		"lastAttrVeinLevel" : 60,
+		"level" : 6,
+		"name" : "金丹"
+	},
+	
+	{
+		"attrList" : "1,1066#2,21328#3,427#4,427#",
+		"lastAttrVeinLevel" : 70,
+		"level" : 7,
+		"name" : "元婴"
+	},
+	
+	{
+		"attrList" : "1,1285#2,25709#3,514#4,514#",
+		"lastAttrVeinLevel" : 80,
+		"level" : 8,
+		"name" : "出窍"
+	},
+	
+	{
+		"attrList" : "1,1526#2,30528#3,611#4,611#",
+		"lastAttrVeinLevel" : 90,
+		"level" : 9,
+		"name" : "分神"
+	},
+	
+	{
+		"attrList" : "1,1791#2,35829#3,717#4,717#",
+		"lastAttrVeinLevel" : 100,
+		"level" : 10,
+		"name" : "合体"
+	},
+	
+	{
+		"attrList" : "1,2083#2,41660#3,833#4,833#",
+		"lastAttrVeinLevel" : 110,
+		"level" : 11,
+		"name" : "洞虚"
+	},
+	
+	{
+		"attrList" : "1,2404#2,48075#3,961#4,961#",
+		"lastAttrVeinLevel" : 120,
+		"level" : 12,
+		"name" : "大乘"
+	},
+	
+	{
+		"attrList" : "1,2757#2,55130#3,1103#4,1103#",
+		"lastAttrVeinLevel" : 130,
+		"level" : 13,
+		"name" : "渡劫"
+	},
+	
+	{
+		"attrList" : "1,3145#2,62891#3,1258#4,1258#",
+		"lastAttrVeinLevel" : 140,
+		"level" : 14,
+		"name" : "散仙"
+	},
+	
+	{
+		"attrList" : "1,3571#2,71429#3,1429#4,1429#",
+		"lastAttrVeinLevel" : 150,
+		"level" : 15,
+		"name" : "真仙"
+	}
+]

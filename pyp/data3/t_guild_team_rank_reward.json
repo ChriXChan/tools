@@ -1,0 +1,27 @@
+
+[
+	
+	{
+		"rankEnd" : 1,
+		"rankStart" : 1,
+		"rewards" : "3,40110021,6#"
+	},
+	
+	{
+		"rankEnd" : 2,
+		"rankStart" : 2,
+		"rewards" : "3,40110021,3#"
+	},
+	
+	{
+		"rankEnd" : 3,
+		"rankStart" : 3,
+		"rewards" : "3,40110021,2#"
+	},
+	
+	{
+		"rankEnd" : 999,
+		"rankStart" : 4,
+		"rewards" : "3,40110021,1#"
+	}
+]

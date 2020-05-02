@@ -1,0 +1,163 @@
+
+[
+	
+	{
+		"category" : 1,
+		"categoryName" : "成就总览",
+		"type" : 1
+	},
+	
+	{
+		"category" : 2,
+		"categoryName" : "个人成长",
+		"type" : 1,
+		"typeName" : "等级"
+	},
+	
+	{
+		"category" : 2,
+		"categoryName" : "个人成长",
+		"type" : 2,
+		"typeName" : "翅膀"
+	},
+	
+	{
+		"category" : 2,
+		"categoryName" : "个人成长",
+		"type" : 3,
+		"typeName" : "神兵"
+	},
+	
+	{
+		"category" : 2,
+		"categoryName" : "个人成长",
+		"type" : 4,
+		"typeName" : "法宝"
+	},
+	
+	{
+		"category" : 2,
+		"categoryName" : "个人成长",
+		"type" : 5,
+		"typeName" : "转职"
+	},
+	
+	{
+		"category" : 2,
+		"categoryName" : "个人成长",
+		"type" : 6,
+		"typeName" : "化形"
+	},
+	
+	{
+		"category" : 3,
+		"categoryName" : "伙伴培养",
+		"type" : 1,
+		"typeName" : "坐骑"
+	},
+	
+	{
+		"category" : 3,
+		"categoryName" : "伙伴培养",
+		"type" : 2,
+		"typeName" : "宠物"
+	},
+	
+	{
+		"category" : 3,
+		"categoryName" : "伙伴培养",
+		"type" : 3,
+		"typeName" : "神兽"
+	},
+	
+	{
+		"category" : 4,
+		"categoryName" : "装备打造",
+		"type" : 1,
+		"typeName" : "装备"
+	},
+	
+	{
+		"category" : 4,
+		"categoryName" : "装备打造",
+		"type" : 2,
+		"typeName" : "神装"
+	},
+	
+	{
+		"category" : 5,
+		"categoryName" : "日常活动",
+		"type" : 1,
+		"typeName" : "杀怪"
+	},
+	
+	{
+		"category" : 5,
+		"categoryName" : "日常活动",
+		"type" : 2,
+		"typeName" : "赏金"
+	},
+	
+	{
+		"category" : 5,
+		"categoryName" : "日常活动",
+		"type" : 3,
+		"typeName" : "活动"
+	},
+	
+	{
+		"category" : 5,
+		"categoryName" : "日常活动",
+		"type" : 4,
+		"typeName" : "副本"
+	},
+	
+	{
+		"category" : 5,
+		"categoryName" : "日常活动",
+		"type" : 5,
+		"typeName" : "仙盟"
+	},
+	
+	{
+		"category" : 5,
+		"categoryName" : "日常活动",
+		"type" : 6,
+		"typeName" : "采集"
+	},
+	
+	{
+		"category" : 6,
+		"categoryName" : "社交关系",
+		"type" : 1,
+		"typeName" : "仙盟"
+	},
+	
+	{
+		"category" : 6,
+		"categoryName" : "社交关系",
+		"type" : 2,
+		"typeName" : "PVP"
+	},
+	
+	{
+		"category" : 7,
+		"categoryName" : "精彩历程",
+		"type" : 1,
+		"typeName" : "财富"
+	},
+	
+	{
+		"category" : 7,
+		"categoryName" : "精彩历程",
+		"type" : 2,
+		"typeName" : "签到"
+	},
+	
+	{
+		"category" : 7,
+		"categoryName" : "精彩历程",
+		"type" : 3,
+		"typeName" : "储物"
+	}
+]

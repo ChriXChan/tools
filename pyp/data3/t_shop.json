@@ -1,0 +1,135 @@
+
+[
+	
+	{
+		"code" : 1001,
+		"isMall" : 1,
+		"isNpc" : 1,
+		"name" : "每周限购",
+		"unit" : 2
+	},
+	
+	{
+		"code" : 1002,
+		"isMall" : 1,
+		"isNpc" : 1,
+		"name" : "常用道具",
+		"unit" : 2
+	},
+	
+	{
+		"code" : 1003,
+		"isMall" : 1,
+		"isNpc" : 1,
+		"name" : "成长道具",
+		"unit" : 2
+	},
+	
+	{
+		"code" : 1004,
+		"isMall" : 1,
+		"isNpc" : 1,
+		"name" : "绑元商城",
+		"unit" : 3
+	},
+	
+	{
+		"code" : 1005,
+		"isMall" : 1,
+		"isNpc" : 1,
+		"name" : "荣誉商城",
+		"unit" : 4
+	},
+	
+	{
+		"code" : 1006,
+		"name" : "VIP商店",
+		"unit" : 2
+	},
+	
+	{
+		"code" : 1007,
+		"name" : "积分商城",
+		"unit" : 33
+	},
+	
+	{
+		"code" : 1008,
+		"name" : "符文商城",
+		"unit" : 35
+	},
+	
+	{
+		"code" : 1009,
+		"name" : "端午商城",
+		"unit" : 2
+	},
+	
+	{
+		"code" : 1010,
+		"name" : "高级积分商城",
+		"unit" : 33
+	},
+	
+	{
+		"code" : 1011,
+		"name" : "巅峰积分商城",
+		"unit" : 33
+	},
+	
+	{
+		"code" : 1012,
+		"isMall" : 1,
+		"isNpc" : 1,
+		"name" : "结婚商城",
+		"unit" : 2
+	},
+	
+	{
+		"code" : 1013,
+		"isMall" : 1,
+		"isNpc" : 1,
+		"name" : "结婚商城",
+		"unit" : 3
+	},
+	
+	{
+		"code" : 1014,
+		"isMall" : 1,
+		"isNpc" : 1,
+		"name" : "结婚商城",
+		"unit" : 1
+	},
+	
+	{
+		"code" : 1015,
+		"isMall" : 1,
+		"isNpc" : 1,
+		"name" : "时装外形",
+		"unit" : 2
+	},
+	
+	{
+		"code" : 1016,
+		"name" : "终极积分商城",
+		"unit" : 33
+	},
+	
+	{
+		"code" : 1017,
+		"name" : "快捷购买",
+		"unit" : 2
+	},
+	
+	{
+		"code" : 1018,
+		"name" : "筹码商城",
+		"unit" : 50
+	},
+	
+	{
+		"code" : 1019,
+		"name" : "斗魂商城",
+		"unit" : 52
+	}
+]

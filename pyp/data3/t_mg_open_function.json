@@ -1,0 +1,172 @@
+
+[
+	
+	{
+		"condDesc" : "第8个任务",
+		"index" : 1,
+		"modelId" : 110001,
+		"modelScale" : 80,
+		"modelScale2" : 100,
+		"openContent" : "激活天怒技能，攒满怒气值时释放天怒可造成巨额伤害",
+		"openContentNarrow" : "怒气释放，天崩地裂",
+		"openFlyKey" : "hejiProgessBar",
+		"openId" : 1,
+		"shapeType" : "EATkSkill",
+		"showAct" : 1
+	},
+	
+	{
+		"index" : 13,
+		"modelId" : 110006,
+		"modelScale" : 70,
+		"modelScale2" : 100,
+		"openContent" : "开启转生系统，战力飙升，更多玩法即将开放",
+		"openContentNarrow" : "超脱五行，不入冥河",
+		"openFlyKey" : "Player",
+		"openId" : 2,
+		"shapeType" : "ERoleStatu",
+		"showAct" : 1
+	},
+	
+	{
+		"index" : 7,
+		"modelId" : 1,
+		"modelScale" : 35,
+		"modelScale2" : 50,
+		"openContent" : "激活龙炎甲，升级即可提升属性，战力飙升",
+		"openContentNarrow" : "御甲在身，不灭金身",
+		"openFlyKey" : "Player",
+		"openId" : 5,
+		"shapeType" : "EDragonScale",
+		"showAct" : 1
+	},
+	
+	{
+		"index" : 4,
+		"modelId" : 4002,
+		"modelScale" : 35,
+		"modelScale2" : 50,
+		"openContent" : "激活翅膀，获得酷炫外形，升级可获得属性加成并激活翅膀技能",
+		"openContentNarrow" : "魂生双翼，上天入地",
+		"openFlyKey" : "Shape",
+		"openId" : 6,
+		"shapeType" : "EShapeWing",
+		"showAct" : 1
+	},
+	
+	{
+		"index" : 11,
+		"modelId" : 110005,
+		"modelScale" : 70,
+		"modelScale2" : 100,
+		"openContent" : "开启皇者争霸玩法，生死对决，谁能三界称王？",
+		"openContentNarrow" : "王城PK，胜者为王",
+		"openFlyKey" : "Arena",
+		"openId" : 14,
+		"shapeType" : "EKingBattle",
+		"showAct" : 1
+	},
+	
+	{
+		"index" : 8,
+		"modelId" : 110002,
+		"modelScale" : 70,
+		"modelScale2" : 100,
+		"openContent" : "获得进入诛仙塔的资格，击败每层BOSS都可获得大量经验和符文奖励",
+		"openContentNarrow" : "诛仙试炼，步步登天",
+		"openFlyKey" : "CopyHall",
+		"openId" : 18,
+		"shapeType" : "ETowerCopy",
+		"showAct" : 1
+	},
+	
+	{
+		"index" : 2,
+		"modelId" : 1,
+		"modelScale" : 100,
+		"modelScale2" : 100,
+		"openContent" : "激活内功，提升生命防御，战力飙升",
+		"openContentNarrow" : "无上内功，强化防御",
+		"openFlyKey" : "Skill",
+		"openId" : 23,
+		"shapeType" : "EInnerPower",
+		"showAct" : 1
+	},
+	
+	{
+		"index" : 9,
+		"modelId" : 110003,
+		"modelScale" : 70,
+		"modelScale2" : 100,
+		"openContent" : "激活限时任务，限定时间内完成任务目标可获得天怒卦象，强化天怒效果",
+		"openContentNarrow" : "限时任务，天怒强化",
+		"openFlyKey" : "TimeLimitTask",
+		"openId" : 39,
+		"shapeType" : "ELimitTask"
+	},
+	
+	{
+		"index" : 10,
+		"modelId" : 110004,
+		"modelScale" : 65,
+		"modelScale2" : 100,
+		"openContent" : "开启龙脉夺宝玩法，寻脉得神兵，更可争夺神兵材料",
+		"openContentNarrow" : "上古龙脉，矿藏争夺",
+		"openFlyKey" : "Arena",
+		"openId" : 48,
+		"shapeType" : "EMinning",
+		"showAct" : 1
+	},
+	
+	{
+		"index" : 3,
+		"modelId" : 2001,
+		"modelScale" : 50,
+		"modelScale2" : 75,
+		"openContent" : "激活宠物，召唤宠物一同作战，升星更可提升属性、激活技能，战力飙升",
+		"openContentNarrow" : "心有灵犀，仙宠降世",
+		"openFlyKey" : "Shape",
+		"openId" : 66,
+		"shapeType" : "EShapePet",
+		"showAct" : 1
+	},
+	
+	{
+		"index" : 12,
+		"modelId" : 9001,
+		"modelScale" : 70,
+		"modelScale2" : 100,
+		"openContent" : "激活战阵，全新战斗形象伴随，升级可获得属性加成并解锁战阵技能",
+		"openContentNarrow" : "御器飞行，法轮永转",
+		"openFlyKey" : "Shape",
+		"openId" : 91,
+		"shapeType" : "EShapeBattle",
+		"showAct" : 1
+	},
+	
+	{
+		"index" : 5,
+		"modelId" : 1001,
+		"modelScale" : 50,
+		"modelScale2" : 80,
+		"openContent" : "激活坐骑，移动时可乘坐各样灵兽，升级可获得属性加成并解锁坐骑技能",
+		"openContentNarrow" : "驾驭灵兽，驰骋三界",
+		"openFlyKey" : "Shape",
+		"openId" : 92,
+		"shapeType" : "EShapeMount",
+		"showAct" : 1
+	},
+	
+	{
+		"index" : 6,
+		"modelId" : 100010,
+		"modelScale" : 40,
+		"modelScale2" : 100,
+		"openContent" : "激活剑池，获得酷炫外形，升级可获得属性加成并激活剑池技能",
+		"openContentNarrow" : "御剑环绕，见龙卸甲",
+		"openFlyKey" : "Shape",
+		"openId" : 94,
+		"shapeType" : "EShapeSwordPool",
+		"showAct" : 1
+	}
+]

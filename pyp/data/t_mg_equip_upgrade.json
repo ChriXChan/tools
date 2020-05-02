@@ -1,0 +1,73 @@
+
+[
+	
+	{
+		"equipCode" : 10034006,
+		"newEquipCode" : 10035009,
+		"useItemCode" : 41218001,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 10044006,
+		"newEquipCode" : 10045009,
+		"useItemCode" : 41218003,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 10034106,
+		"newEquipCode" : 10035009,
+		"useItemCode" : 41218001,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 10044106,
+		"newEquipCode" : 10045009,
+		"useItemCode" : 41218003,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 10035009,
+		"newEquipCode" : 10035010,
+		"useItemCode" : 41218001,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 10045009,
+		"newEquipCode" : 10045010,
+		"useItemCode" : 41218003,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 10035010,
+		"newEquipCode" : 10035011,
+		"useItemCode" : 41218001,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 10045010,
+		"newEquipCode" : 10045011,
+		"useItemCode" : 41218003,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 10035011,
+		"newEquipCode" : 10035012,
+		"useItemCode" : 41218001,
+		"useItemNum" : 2
+	},
+	
+	{
+		"equipCode" : 10045011,
+		"newEquipCode" : 10045012,
+		"useItemCode" : 41218003,
+		"useItemNum" : 2
+	}
+]

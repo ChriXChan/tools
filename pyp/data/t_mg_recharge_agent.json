@@ -1,0 +1,147 @@
+
+[
+	
+	{
+		"agent" : "dllycq",
+		"product" : "com.junhai.qyj.gift18",
+		"rechargeId" : 1
+	},
+	
+	{
+		"agent" : "dlunion",
+		"product" : "com.junhai.qyj.gift18",
+		"rechargeId" : 1
+	},
+	
+	{
+		"agent" : "xwios",
+		"product" : "com.qyj.ios.xw.18",
+		"rechargeId" : 1
+	},
+	
+	{
+		"agent" : "dllycq",
+		"product" : "com.junhai.qyj.pay6",
+		"rechargeId" : 2
+	},
+	
+	{
+		"agent" : "dlunion",
+		"product" : "com.junhai.qyj.pay6",
+		"rechargeId" : 2
+	},
+	
+	{
+		"agent" : "xwios",
+		"product" : "com.qyj.ios.xw.6",
+		"rechargeId" : 2
+	},
+	
+	{
+		"agent" : "dllycq",
+		"product" : "com.junhai.qyj.pay30",
+		"rechargeId" : 3
+	},
+	
+	{
+		"agent" : "dlunion",
+		"product" : "com.junhai.qyj.pay30",
+		"rechargeId" : 3
+	},
+	
+	{
+		"agent" : "xwios",
+		"product" : "com.qyj.ios.xw.30",
+		"rechargeId" : 3
+	},
+	
+	{
+		"agent" : "dllycq",
+		"product" : "com.junhai.qyj.pay68",
+		"rechargeId" : 4
+	},
+	
+	{
+		"agent" : "dlunion",
+		"product" : "com.junhai.qyj.pay68",
+		"rechargeId" : 4
+	},
+	
+	{
+		"agent" : "xwios",
+		"product" : "com.qyj.ios.xw.68",
+		"rechargeId" : 4
+	},
+	
+	{
+		"agent" : "dllycq",
+		"product" : "com.junhai.qyj.pay128",
+		"rechargeId" : 5
+	},
+	
+	{
+		"agent" : "dlunion",
+		"product" : "com.junhai.qyj.pay128",
+		"rechargeId" : 5
+	},
+	
+	{
+		"agent" : "xwios",
+		"product" : "com.qyj.ios.xw.128",
+		"rechargeId" : 5
+	},
+	
+	{
+		"agent" : "dllycq",
+		"product" : "com.junhai.qyj.pay198",
+		"rechargeId" : 6
+	},
+	
+	{
+		"agent" : "dlunion",
+		"product" : "com.junhai.qyj.pay198",
+		"rechargeId" : 6
+	},
+	
+	{
+		"agent" : "xwios",
+		"product" : "com.qyj.ios.xw.198",
+		"rechargeId" : 6
+	},
+	
+	{
+		"agent" : "dllycq",
+		"product" : "com.junhai.qyj.pay328",
+		"rechargeId" : 7
+	},
+	
+	{
+		"agent" : "dlunion",
+		"product" : "com.junhai.qyj.pay328",
+		"rechargeId" : 7
+	},
+	
+	{
+		"agent" : "xwios",
+		"product" : "com.qyj.ios.xw.328",
+		"rechargeId" : 7
+	},
+	
+	{
+		"agent" : "dllycq",
+		"product" : "com.junhai.qyj.pay648",
+		"rechargeId" : 8
+	},
+	
+	{
+		"agent" : "dlunion",
+		"product" : "com.junhai.qyj.pay648",
+		"rechargeId" : 8
+	},
+	
+	{
+		"agent" : "xwios",
+		"product" : "com.qyj.ios.xw.648",
+		"rechargeId" : 8
+	}
+]

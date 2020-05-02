@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "luckyBossCost": 1000,
+    "protectBossCode": 4200200,
+    "skillCosts": "250#100#150",
+    "skillIds": "104300#104301#104302"
+  }
+]

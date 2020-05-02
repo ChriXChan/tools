@@ -1,0 +1,31 @@
+
+[
+	
+	{
+		"reviveTime" : 5,
+		"scoreMax" : 99
+	},
+	
+	{
+		"reviveTime" : 7,
+		"scoreMax" : 199,
+		"scoreMin" : 100
+	},
+	
+	{
+		"reviveTime" : 9,
+		"scoreMax" : 299,
+		"scoreMin" : 200
+	},
+	
+	{
+		"reviveTime" : 11,
+		"scoreMax" : 399,
+		"scoreMin" : 300
+	},
+	
+	{
+		"reviveTime" : 13,
+		"scoreMin" : 400
+	}
+]

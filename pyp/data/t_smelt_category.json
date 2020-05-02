@@ -1,0 +1,327 @@
+
+[
+	
+	{
+		"openLevel" : 20,
+		"smeltCategory" : 1,
+		"smeltCategoryIdx" : 1,
+		"smeltCategoryName" : "道具合成",
+		"smeltType" : 1,
+		"smeltTypeName" : "副本门票"
+	},
+	
+	{
+		"openLevel" : 400,
+		"smeltCategory" : 1,
+		"smeltCategoryIdx" : 2,
+		"smeltCategoryName" : "道具合成",
+		"smeltType" : 2,
+		"smeltTypeName" : "进阶令牌"
+	},
+	
+	{
+		"openLevel" : 213,
+		"smeltCategory" : 1,
+		"smeltCategoryIdx" : 3,
+		"smeltCategoryName" : "道具合成",
+		"smeltType" : 3,
+		"smeltTypeName" : "花卉合成"
+	},
+	
+	{
+		"openLevel" : 20,
+		"smeltCategory" : 2,
+		"smeltCategoryIdx" : 4,
+		"smeltCategoryName" : "宝石合成",
+		"smeltType" : 1,
+		"smeltTypeName" : "红宝石"
+	},
+	
+	{
+		"openLevel" : 20,
+		"smeltCategory" : 2,
+		"smeltCategoryIdx" : 5,
+		"smeltCategoryName" : "宝石合成",
+		"smeltType" : 2,
+		"smeltTypeName" : "蓝宝石"
+	},
+	
+	{
+		"openLevel" : 20,
+		"smeltCategory" : 3,
+		"smeltCategoryIdx" : 6,
+		"smeltCategoryName" : "套装材料",
+		"smeltType" : 1,
+		"smeltTypeName" : "剑客材料"
+	},
+	
+	{
+		"openLevel" : 20,
+		"smeltCategory" : 3,
+		"smeltCategoryIdx" : 7,
+		"smeltCategoryName" : "套装材料",
+		"smeltType" : 2,
+		"smeltTypeName" : "剑姬材料"
+	},
+	
+	{
+		"openLevel" : 300,
+		"smeltCategory" : 100,
+		"smeltCategoryIdx" : 8,
+		"smeltCategoryName" : "装备合成",
+		"smeltTitle" : 1,
+		"smeltType" : 1,
+		"smeltTypeName" : "紫装首饰"
+	},
+	
+	{
+		"openLevel" : 999,
+		"smeltCategory" : 100,
+		"smeltCategoryIdx" : 9,
+		"smeltCategoryName" : "装备合成",
+		"smeltTitle" : 1,
+		"smeltType" : 2,
+		"smeltTypeName" : "2星首饰"
+	},
+	
+	{
+		"openLevel" : 999,
+		"smeltCategory" : 100,
+		"smeltCategoryIdx" : 10,
+		"smeltCategoryName" : "装备合成",
+		"smeltTitle" : 1,
+		"smeltType" : 3,
+		"smeltTypeName" : "3星首饰"
+	},
+	
+	{
+		"openLevel" : 999,
+		"smeltCategory" : 100,
+		"smeltCategoryIdx" : 11,
+		"smeltCategoryName" : "装备合成",
+		"smeltTitle" : 5,
+		"smeltType" : 4,
+		"smeltTypeName" : "神兽装备"
+	},
+	
+	{
+		"openLevel" : 999,
+		"smeltCategory" : 100,
+		"smeltCategoryIdx" : 12,
+		"smeltCategoryName" : "装备合成",
+		"smeltTitle" : 1,
+		"smeltType" : 5,
+		"smeltTypeName" : "神装首饰"
+	},
+	
+	{
+		"openLevel" : 999,
+		"smeltCategory" : 100,
+		"smeltCategoryIdx" : 13,
+		"smeltCategoryName" : "装备合成",
+		"smeltTitle" : 2,
+		"smeltType" : 6,
+		"smeltTypeName" : "3星神装"
+	},
+	
+	{
+		"openLevel" : 999,
+		"smeltCategory" : 100,
+		"smeltCategoryIdx" : 14,
+		"smeltCategoryName" : "装备合成",
+		"smeltTitle" : 3,
+		"smeltType" : 7,
+		"smeltTypeName" : "3星神装"
+	},
+	
+	{
+		"openLevel" : 999,
+		"smeltCategory" : 100,
+		"smeltCategoryIdx" : 15,
+		"smeltCategoryName" : "装备合成",
+		"smeltTitle" : 4,
+		"smeltType" : 8,
+		"smeltTypeName" : "3星神装"
+	},
+	
+	{
+		"openLevel" : 300,
+		"smeltCategory" : 100,
+		"smeltCategoryIdx" : 16,
+		"smeltCategoryName" : "装备合成",
+		"smeltTitle" : 2,
+		"smeltType" : 9,
+		"smeltTypeName" : "2星红装"
+	},
+	
+	{
+		"openLevel" : 300,
+		"smeltCategory" : 100,
+		"smeltCategoryIdx" : 17,
+		"smeltCategoryName" : "装备合成",
+		"smeltTitle" : 3,
+		"smeltType" : 10,
+		"smeltTypeName" : "2星红装"
+	},
+	
+	{
+		"openLevel" : 300,
+		"smeltCategory" : 100,
+		"smeltCategoryIdx" : 18,
+		"smeltCategoryName" : "装备合成",
+		"smeltTitle" : 2,
+		"smeltType" : 11,
+		"smeltTypeName" : "3星红装"
+	},
+	
+	{
+		"openLevel" : 300,
+		"smeltCategory" : 100,
+		"smeltCategoryIdx" : 19,
+		"smeltCategoryName" : "装备合成",
+		"smeltTitle" : 3,
+		"smeltType" : 12,
+		"smeltTypeName" : "3星红装"
+	},
+	
+	{
+		"openLevel" : 300,
+		"smeltCategory" : 100,
+		"smeltCategoryIdx" : 20,
+		"smeltCategoryName" : "装备合成",
+		"smeltTitle" : 4,
+		"smeltType" : 13,
+		"smeltTypeName" : "2星红装"
+	},
+	
+	{
+		"openLevel" : 300,
+		"smeltCategory" : 100,
+		"smeltCategoryIdx" : 21,
+		"smeltCategoryName" : "装备合成",
+		"smeltTitle" : 4,
+		"smeltType" : 14,
+		"smeltTypeName" : "3星红装"
+	},
+	
+	{
+		"openLevel" : 320,
+		"smeltCategory" : 200,
+		"smeltCategoryIdx" : 22,
+		"smeltCategoryName" : "灵魂凝聚",
+		"smeltType" : 1,
+		"smeltTypeName" : "橙色单属性"
+	},
+	
+	{
+		"openLevel" : 320,
+		"smeltCategory" : 200,
+		"smeltCategoryIdx" : 23,
+		"smeltCategoryName" : "灵魂凝聚",
+		"smeltType" : 2,
+		"smeltTypeName" : "红色单属性"
+	},
+	
+	{
+		"openLevel" : 320,
+		"smeltCategory" : 200,
+		"smeltCategoryIdx" : 24,
+		"smeltCategoryName" : "灵魂凝聚",
+		"smeltType" : 3,
+		"smeltTypeName" : "紫色双属性"
+	},
+	
+	{
+		"openLevel" : 320,
+		"smeltCategory" : 200,
+		"smeltCategoryIdx" : 25,
+		"smeltCategoryName" : "灵魂凝聚",
+		"smeltType" : 4,
+		"smeltTypeName" : "橙色双属性"
+	},
+	
+	{
+		"openLevel" : 320,
+		"smeltCategory" : 200,
+		"smeltCategoryIdx" : 26,
+		"smeltCategoryName" : "灵魂凝聚",
+		"smeltType" : 5,
+		"smeltTypeName" : "红色双属性"
+	},
+	
+	{
+		"openLevel" : 320,
+		"smeltCategory" : 200,
+		"smeltCategoryIdx" : 27,
+		"smeltCategoryName" : "灵魂凝聚",
+		"smeltType" : 6,
+		"smeltTypeName" : "核心双属性"
+	},
+	
+	{
+		"openLevel" : 371,
+		"smeltCategory" : 300,
+		"smeltCategoryIdx" : 28,
+		"smeltCategoryName" : "符文合成",
+		"smeltType" : 1,
+		"smeltTypeName" : "紫色双属性"
+	},
+	
+	{
+		"openLevel" : 371,
+		"smeltCategory" : 300,
+		"smeltCategoryIdx" : 29,
+		"smeltCategoryName" : "符文合成",
+		"smeltType" : 2,
+		"smeltTypeName" : "橙色双属性"
+	},
+	
+	{
+		"openLevel" : 371,
+		"smeltCategory" : 300,
+		"smeltCategoryIdx" : 30,
+		"smeltCategoryName" : "符文合成",
+		"smeltType" : 3,
+		"smeltTypeName" : "红色双属性"
+	},
+	
+	{
+		"activeType" : 108,
+		"openLevel" : 100,
+		"smeltCategory" : 201,
+		"smeltCategoryIdx" : 31,
+		"smeltCategoryName" : "清凉配方",
+		"smeltType" : 1,
+		"smeltTypeName" : "装备时装"
+	},
+	
+	{
+		"activeType" : 108,
+		"openLevel" : 100,
+		"smeltCategory" : 201,
+		"smeltCategoryIdx" : 32,
+		"smeltCategoryName" : "清凉配方",
+		"smeltType" : 2,
+		"smeltTypeName" : "副本门票"
+	},
+	
+	{
+		"activeType" : 108,
+		"openLevel" : 100,
+		"smeltCategory" : 201,
+		"smeltCategoryIdx" : 33,
+		"smeltCategoryName" : "清凉配方",
+		"smeltType" : 3,
+		"smeltTypeName" : "男套装石"
+	},
+	
+	{
+		"activeType" : 108,
+		"openLevel" : 100,
+		"smeltCategory" : 201,
+		"smeltCategoryIdx" : 34,
+		"smeltCategoryName" : "清凉配方",
+		"smeltType" : 4,
+		"smeltTypeName" : "女套装石"
+	}
+]

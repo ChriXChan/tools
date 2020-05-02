@@ -1,0 +1,514 @@
+
+[
+	
+	{
+		"cost" : 250,
+		"openLevel" : 320,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 1,
+		"smeltType" : 1,
+		"targetCode" : 90000014,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 250,
+		"openLevel" : 320,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 2,
+		"smeltType" : 1,
+		"targetCode" : 90000024,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 250,
+		"openLevel" : 320,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 3,
+		"smeltType" : 1,
+		"targetCode" : 90000094,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 250,
+		"openLevel" : 320,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 4,
+		"smeltType" : 1,
+		"targetCode" : 90000104,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 250,
+		"openLevel" : 325,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 5,
+		"smeltType" : 1,
+		"targetCode" : 90000034,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 250,
+		"openLevel" : 325,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 6,
+		"smeltType" : 1,
+		"targetCode" : 90000044,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 250,
+		"openLevel" : 330,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 7,
+		"smeltType" : 1,
+		"targetCode" : 90000054,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 250,
+		"openLevel" : 330,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 8,
+		"smeltType" : 1,
+		"targetCode" : 90000064,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 250,
+		"openLevel" : 335,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 9,
+		"smeltType" : 1,
+		"targetCode" : 90000114,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 250,
+		"openLevel" : 335,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 10,
+		"smeltType" : 1,
+		"targetCode" : 90000124,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 250,
+		"openLevel" : 340,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 11,
+		"smeltType" : 1,
+		"targetCode" : 90000134,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 250,
+		"openLevel" : 340,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 12,
+		"smeltType" : 1,
+		"targetCode" : 90000144,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 250,
+		"openLevel" : 350,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 13,
+		"smeltType" : 1,
+		"targetCode" : 90000074,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 250,
+		"openLevel" : 350,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 14,
+		"smeltType" : 1,
+		"targetCode" : 90000084,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 750,
+		"openLevel" : 320,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 15,
+		"smeltType" : 2,
+		"targetCode" : 90000015,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 750,
+		"openLevel" : 320,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 16,
+		"smeltType" : 2,
+		"targetCode" : 90000025,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 750,
+		"openLevel" : 320,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 17,
+		"smeltType" : 2,
+		"targetCode" : 90000095,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 750,
+		"openLevel" : 320,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 18,
+		"smeltType" : 2,
+		"targetCode" : 90000105,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 750,
+		"openLevel" : 325,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 19,
+		"smeltType" : 2,
+		"targetCode" : 90000035,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 750,
+		"openLevel" : 325,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 20,
+		"smeltType" : 2,
+		"targetCode" : 90000045,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 750,
+		"openLevel" : 330,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 21,
+		"smeltType" : 2,
+		"targetCode" : 90000055,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 750,
+		"openLevel" : 330,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 22,
+		"smeltType" : 2,
+		"targetCode" : 90000065,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 750,
+		"openLevel" : 335,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 23,
+		"smeltType" : 2,
+		"targetCode" : 90000115,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 750,
+		"openLevel" : 335,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 24,
+		"smeltType" : 2,
+		"targetCode" : 90000125,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 750,
+		"openLevel" : 340,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 25,
+		"smeltType" : 2,
+		"targetCode" : 90000135,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 750,
+		"openLevel" : 340,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 26,
+		"smeltType" : 2,
+		"targetCode" : 90000145,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 750,
+		"openLevel" : 350,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 27,
+		"smeltType" : 2,
+		"targetCode" : 90000075,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 750,
+		"openLevel" : 350,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 28,
+		"smeltType" : 2,
+		"targetCode" : 90000085,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 110,
+		"materials" : "90000093,1#90000103,1#",
+		"openLevel" : 320,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 29,
+		"smeltType" : 3,
+		"targetCode" : 90000213,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 110,
+		"materials" : "90000053,1#90000063,1#",
+		"openLevel" : 330,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 30,
+		"smeltType" : 3,
+		"targetCode" : 90000193,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 110,
+		"materials" : "90000013,1#90000113,1#",
+		"openLevel" : 335,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 31,
+		"smeltType" : 3,
+		"targetCode" : 90000153,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 110,
+		"materials" : "90000023,1#90000123,1#",
+		"openLevel" : 335,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 32,
+		"smeltType" : 3,
+		"targetCode" : 90000163,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 110,
+		"materials" : "90000033,1#90000133,1#",
+		"openLevel" : 340,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 33,
+		"smeltType" : 3,
+		"targetCode" : 90000173,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 110,
+		"materials" : "90000043,1#90000143,1#",
+		"openLevel" : 340,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 34,
+		"smeltType" : 3,
+		"targetCode" : 90000183,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 550,
+		"materials" : "90000094,1#90000104,1#",
+		"openLevel" : 320,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 35,
+		"smeltType" : 4,
+		"targetCode" : 90000214,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 550,
+		"materials" : "90000054,1#90000064,1#",
+		"openLevel" : 330,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 36,
+		"smeltType" : 4,
+		"targetCode" : 90000194,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 550,
+		"materials" : "90000014,1#90000114,1#",
+		"openLevel" : 335,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 37,
+		"smeltType" : 4,
+		"targetCode" : 90000154,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 550,
+		"materials" : "90000024,1#90000124,1#",
+		"openLevel" : 335,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 38,
+		"smeltType" : 4,
+		"targetCode" : 90000164,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 550,
+		"materials" : "90000034,1#90000134,1#",
+		"openLevel" : 340,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 39,
+		"smeltType" : 4,
+		"targetCode" : 90000174,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 550,
+		"materials" : "90000044,1#90000144,1#",
+		"openLevel" : 340,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 40,
+		"smeltType" : 4,
+		"targetCode" : 90000184,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 1650,
+		"materials" : "90000095,1#90000105,1#",
+		"openLevel" : 320,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 41,
+		"smeltType" : 5,
+		"targetCode" : 90000215,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 1650,
+		"materials" : "90000055,1#90000065,1#",
+		"openLevel" : 330,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 42,
+		"smeltType" : 5,
+		"targetCode" : 90000195,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 1650,
+		"materials" : "90000015,1#90000115,1#",
+		"openLevel" : 335,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 43,
+		"smeltType" : 5,
+		"targetCode" : 90000155,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 1650,
+		"materials" : "90000025,1#90000125,1#",
+		"openLevel" : 335,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 44,
+		"smeltType" : 5,
+		"targetCode" : 90000165,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 1650,
+		"materials" : "90000035,1#90000135,1#",
+		"openLevel" : 340,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 45,
+		"smeltType" : 5,
+		"targetCode" : 90000175,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 1650,
+		"materials" : "90000045,1#90000145,1#",
+		"openLevel" : 340,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 46,
+		"smeltType" : 5,
+		"targetCode" : 90000185,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 110,
+		"materials" : "90000073,1#90000083,1#",
+		"openLevel" : 350,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 47,
+		"smeltType" : 6,
+		"targetCode" : 90000203,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 550,
+		"materials" : "90000074,1#90000084,1#",
+		"openLevel" : 350,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 48,
+		"smeltType" : 6,
+		"targetCode" : 90000204,
+		"unit" : 37
+	},
+	
+	{
+		"cost" : 1650,
+		"materials" : "90000075,1#90000085,1#",
+		"openLevel" : 350,
+		"smeltCategory" : 200,
+		"smeltPlanCode" : 49,
+		"smeltType" : 6,
+		"targetCode" : 90000205,
+		"unit" : 37
+	}
+]

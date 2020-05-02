@@ -1,0 +1,1235 @@
+
+[
+	
+	{
+		"cost" : 5,
+		"equipType" : 1,
+		"itemLevel" : 1,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 15,
+		"equipType" : 1,
+		"itemLevel" : 2,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 30,
+		"equipType" : 1,
+		"itemLevel" : 3,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 50,
+		"equipType" : 1,
+		"itemLevel" : 4,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 75,
+		"equipType" : 1,
+		"itemLevel" : 5,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 167,
+		"equipType" : 1,
+		"itemLevel" : 6,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 262,
+		"equipType" : 1,
+		"itemLevel" : 7,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 387,
+		"equipType" : 1,
+		"itemLevel" : 8,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 637,
+		"equipType" : 1,
+		"itemLevel" : 9,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 1137,
+		"equipType" : 1,
+		"itemLevel" : 10,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 2262,
+		"equipType" : 1,
+		"itemLevel" : 11,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 4137,
+		"equipType" : 1,
+		"itemLevel" : 12,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 6355,
+		"equipType" : 1,
+		"itemLevel" : 13,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 10137,
+		"equipType" : 1,
+		"itemLevel" : 14,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 14646,
+		"equipType" : 1,
+		"itemLevel" : 15,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 19646,
+		"equipType" : 1,
+		"itemLevel" : 16,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 25137,
+		"equipType" : 1,
+		"itemLevel" : 17,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 31119,
+		"equipType" : 1,
+		"itemLevel" : 18,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 37592,
+		"equipType" : 1,
+		"itemLevel" : 19,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 44556,
+		"equipType" : 1,
+		"itemLevel" : 20,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 52011,
+		"equipType" : 1,
+		"itemLevel" : 21,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 59957,
+		"equipType" : 1,
+		"itemLevel" : 22,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 2,
+		"equipType" : 3,
+		"itemLevel" : 1,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 6,
+		"equipType" : 3,
+		"itemLevel" : 2,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 12,
+		"equipType" : 3,
+		"itemLevel" : 3,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 20,
+		"equipType" : 3,
+		"itemLevel" : 4,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 30,
+		"equipType" : 3,
+		"itemLevel" : 5,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 67,
+		"equipType" : 3,
+		"itemLevel" : 6,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 105,
+		"equipType" : 3,
+		"itemLevel" : 7,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 155,
+		"equipType" : 3,
+		"itemLevel" : 8,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 255,
+		"equipType" : 3,
+		"itemLevel" : 9,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 455,
+		"equipType" : 3,
+		"itemLevel" : 10,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 905,
+		"equipType" : 3,
+		"itemLevel" : 11,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 1655,
+		"equipType" : 3,
+		"itemLevel" : 12,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 2555,
+		"equipType" : 3,
+		"itemLevel" : 13,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 4055,
+		"equipType" : 3,
+		"itemLevel" : 14,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 5855,
+		"equipType" : 3,
+		"itemLevel" : 15,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 7855,
+		"equipType" : 3,
+		"itemLevel" : 16,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 10056,
+		"equipType" : 3,
+		"itemLevel" : 17,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 12450,
+		"equipType" : 3,
+		"itemLevel" : 18,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 15039,
+		"equipType" : 3,
+		"itemLevel" : 19,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 17826,
+		"equipType" : 3,
+		"itemLevel" : 20,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 20808,
+		"equipType" : 3,
+		"itemLevel" : 21,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 23987,
+		"equipType" : 3,
+		"itemLevel" : 22,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 2,
+		"equipType" : 5,
+		"itemLevel" : 1,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 6,
+		"equipType" : 5,
+		"itemLevel" : 2,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 12,
+		"equipType" : 5,
+		"itemLevel" : 3,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 20,
+		"equipType" : 5,
+		"itemLevel" : 4,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 30,
+		"equipType" : 5,
+		"itemLevel" : 5,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 67,
+		"equipType" : 5,
+		"itemLevel" : 6,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 105,
+		"equipType" : 5,
+		"itemLevel" : 7,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 155,
+		"equipType" : 5,
+		"itemLevel" : 8,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 255,
+		"equipType" : 5,
+		"itemLevel" : 9,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 455,
+		"equipType" : 5,
+		"itemLevel" : 10,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 905,
+		"equipType" : 5,
+		"itemLevel" : 11,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 1655,
+		"equipType" : 5,
+		"itemLevel" : 12,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 2555,
+		"equipType" : 5,
+		"itemLevel" : 13,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 4055,
+		"equipType" : 5,
+		"itemLevel" : 14,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 5855,
+		"equipType" : 5,
+		"itemLevel" : 15,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 7855,
+		"equipType" : 5,
+		"itemLevel" : 16,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 10056,
+		"equipType" : 5,
+		"itemLevel" : 17,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 12450,
+		"equipType" : 5,
+		"itemLevel" : 18,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 15039,
+		"equipType" : 5,
+		"itemLevel" : 19,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 17826,
+		"equipType" : 5,
+		"itemLevel" : 20,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 20808,
+		"equipType" : 5,
+		"itemLevel" : 21,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 23987,
+		"equipType" : 5,
+		"itemLevel" : 22,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 3,
+		"equipType" : 6,
+		"itemLevel" : 1,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 10,
+		"equipType" : 6,
+		"itemLevel" : 2,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 20,
+		"equipType" : 6,
+		"itemLevel" : 3,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 34,
+		"equipType" : 6,
+		"itemLevel" : 4,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 51,
+		"equipType" : 6,
+		"itemLevel" : 5,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 118,
+		"equipType" : 6,
+		"itemLevel" : 6,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 186,
+		"equipType" : 6,
+		"itemLevel" : 7,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 279,
+		"equipType" : 6,
+		"itemLevel" : 8,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 456,
+		"equipType" : 6,
+		"itemLevel" : 9,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 816,
+		"equipType" : 6,
+		"itemLevel" : 10,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 1626,
+		"equipType" : 6,
+		"itemLevel" : 11,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 2976,
+		"equipType" : 6,
+		"itemLevel" : 12,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 4560,
+		"equipType" : 6,
+		"itemLevel" : 13,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 7296,
+		"equipType" : 6,
+		"itemLevel" : 14,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 10536,
+		"equipType" : 6,
+		"itemLevel" : 15,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 12536,
+		"equipType" : 6,
+		"itemLevel" : 16,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 18068,
+		"equipType" : 6,
+		"itemLevel" : 17,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 22368,
+		"equipType" : 6,
+		"itemLevel" : 18,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 27020,
+		"equipType" : 6,
+		"itemLevel" : 19,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 32026,
+		"equipType" : 6,
+		"itemLevel" : 20,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 37385,
+		"equipType" : 6,
+		"itemLevel" : 21,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 43096,
+		"equipType" : 6,
+		"itemLevel" : 22,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 2,
+		"equipType" : 7,
+		"itemLevel" : 1,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 6,
+		"equipType" : 7,
+		"itemLevel" : 2,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 12,
+		"equipType" : 7,
+		"itemLevel" : 3,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 20,
+		"equipType" : 7,
+		"itemLevel" : 4,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 30,
+		"equipType" : 7,
+		"itemLevel" : 5,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 67,
+		"equipType" : 7,
+		"itemLevel" : 6,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 105,
+		"equipType" : 7,
+		"itemLevel" : 7,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 155,
+		"equipType" : 7,
+		"itemLevel" : 8,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 255,
+		"equipType" : 7,
+		"itemLevel" : 9,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 455,
+		"equipType" : 7,
+		"itemLevel" : 10,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 905,
+		"equipType" : 7,
+		"itemLevel" : 11,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 1655,
+		"equipType" : 7,
+		"itemLevel" : 12,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 2555,
+		"equipType" : 7,
+		"itemLevel" : 13,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 4055,
+		"equipType" : 7,
+		"itemLevel" : 14,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 5855,
+		"equipType" : 7,
+		"itemLevel" : 15,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 7855,
+		"equipType" : 7,
+		"itemLevel" : 16,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 10056,
+		"equipType" : 7,
+		"itemLevel" : 17,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 12450,
+		"equipType" : 7,
+		"itemLevel" : 18,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 15039,
+		"equipType" : 7,
+		"itemLevel" : 19,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 17826,
+		"equipType" : 7,
+		"itemLevel" : 20,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 20808,
+		"equipType" : 7,
+		"itemLevel" : 21,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 23987,
+		"equipType" : 7,
+		"itemLevel" : 22,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 2,
+		"equipType" : 8,
+		"itemLevel" : 1,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 6,
+		"equipType" : 8,
+		"itemLevel" : 2,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 12,
+		"equipType" : 8,
+		"itemLevel" : 3,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 20,
+		"equipType" : 8,
+		"itemLevel" : 4,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 30,
+		"equipType" : 8,
+		"itemLevel" : 5,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 67,
+		"equipType" : 8,
+		"itemLevel" : 6,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 105,
+		"equipType" : 8,
+		"itemLevel" : 7,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 155,
+		"equipType" : 8,
+		"itemLevel" : 8,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 255,
+		"equipType" : 8,
+		"itemLevel" : 9,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 455,
+		"equipType" : 8,
+		"itemLevel" : 10,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 905,
+		"equipType" : 8,
+		"itemLevel" : 11,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 1655,
+		"equipType" : 8,
+		"itemLevel" : 12,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 2555,
+		"equipType" : 8,
+		"itemLevel" : 13,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 4055,
+		"equipType" : 8,
+		"itemLevel" : 14,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 5855,
+		"equipType" : 8,
+		"itemLevel" : 15,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 7855,
+		"equipType" : 8,
+		"itemLevel" : 16,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 10056,
+		"equipType" : 8,
+		"itemLevel" : 17,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 12450,
+		"equipType" : 8,
+		"itemLevel" : 18,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 15039,
+		"equipType" : 8,
+		"itemLevel" : 19,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 17826,
+		"equipType" : 8,
+		"itemLevel" : 20,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 20808,
+		"equipType" : 8,
+		"itemLevel" : 21,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 23987,
+		"equipType" : 8,
+		"itemLevel" : 22,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 2,
+		"equipType" : 9,
+		"itemLevel" : 1,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 6,
+		"equipType" : 9,
+		"itemLevel" : 2,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 12,
+		"equipType" : 9,
+		"itemLevel" : 3,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 20,
+		"equipType" : 9,
+		"itemLevel" : 4,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 30,
+		"equipType" : 9,
+		"itemLevel" : 5,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 67,
+		"equipType" : 9,
+		"itemLevel" : 6,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 105,
+		"equipType" : 9,
+		"itemLevel" : 7,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 155,
+		"equipType" : 9,
+		"itemLevel" : 8,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 255,
+		"equipType" : 9,
+		"itemLevel" : 9,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 455,
+		"equipType" : 9,
+		"itemLevel" : 10,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 905,
+		"equipType" : 9,
+		"itemLevel" : 11,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 1655,
+		"equipType" : 9,
+		"itemLevel" : 12,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 2555,
+		"equipType" : 9,
+		"itemLevel" : 13,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 4055,
+		"equipType" : 9,
+		"itemLevel" : 14,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 5855,
+		"equipType" : 9,
+		"itemLevel" : 15,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 7855,
+		"equipType" : 9,
+		"itemLevel" : 16,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 10056,
+		"equipType" : 9,
+		"itemLevel" : 17,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 12450,
+		"equipType" : 9,
+		"itemLevel" : 18,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 15039,
+		"equipType" : 9,
+		"itemLevel" : 19,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 17826,
+		"equipType" : 9,
+		"itemLevel" : 20,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 20808,
+		"equipType" : 9,
+		"itemLevel" : 21,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 23987,
+		"equipType" : 9,
+		"itemLevel" : 22,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 2,
+		"equipType" : 10,
+		"itemLevel" : 1,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 6,
+		"equipType" : 10,
+		"itemLevel" : 2,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 12,
+		"equipType" : 10,
+		"itemLevel" : 3,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 20,
+		"equipType" : 10,
+		"itemLevel" : 4,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 30,
+		"equipType" : 10,
+		"itemLevel" : 5,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 67,
+		"equipType" : 10,
+		"itemLevel" : 6,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 105,
+		"equipType" : 10,
+		"itemLevel" : 7,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 155,
+		"equipType" : 10,
+		"itemLevel" : 8,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 255,
+		"equipType" : 10,
+		"itemLevel" : 9,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 455,
+		"equipType" : 10,
+		"itemLevel" : 10,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 905,
+		"equipType" : 10,
+		"itemLevel" : 11,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 1655,
+		"equipType" : 10,
+		"itemLevel" : 12,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 2555,
+		"equipType" : 10,
+		"itemLevel" : 13,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 4055,
+		"equipType" : 10,
+		"itemLevel" : 14,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 5855,
+		"equipType" : 10,
+		"itemLevel" : 15,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 7855,
+		"equipType" : 10,
+		"itemLevel" : 16,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 10056,
+		"equipType" : 10,
+		"itemLevel" : 17,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 12450,
+		"equipType" : 10,
+		"itemLevel" : 18,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 15039,
+		"equipType" : 10,
+		"itemLevel" : 19,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 17826,
+		"equipType" : 10,
+		"itemLevel" : 20,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 20808,
+		"equipType" : 10,
+		"itemLevel" : 21,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 23987,
+		"equipType" : 10,
+		"itemLevel" : 22,
+		"needBroadcast" : 1
+	}
+]

@@ -1,0 +1,231 @@
+
+[
+	
+	{
+		"bestPersonLower" : 150,
+		"bestPersonUp" : 3600,
+		"maxLevel" : 997,
+		"name" : "神秘宝藏",
+		"personLower" : 50,
+		"personUp" : 1000,
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"type" : 100,
+		"unit" : 2
+	},
+	
+	{
+		"bestPersonLower" : 150,
+		"bestPersonUp" : 3600,
+		"maxLevel" : 999,
+		"minLevel" : 998,
+		"name" : "神秘宝藏",
+		"personLower" : 50,
+		"personUp" : 1000,
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"type" : 101,
+		"unit" : 2
+	},
+	
+	{
+		"bestPersonLower" : 150,
+		"bestPersonUp" : 3000,
+		"maxLevel" : 999,
+		"minLevel" : 350,
+		"name" : "巅峰寻宝",
+		"personLower" : 50,
+		"personUp" : 800,
+		"propCode" : 42061003,
+		"propNum" : 1,
+		"type" : 201,
+		"unit" : 2
+	},
+	
+	{
+		"maxLevel" : 999,
+		"minLevel" : 100,
+		"name" : "合服转盘",
+		"personLower" : 50,
+		"personUp" : 800,
+		"propCode" : 42061003,
+		"propNum" : 1,
+		"type" : 301,
+		"unit" : 2
+	},
+	
+	{
+		"bestPersonLower" : 20,
+		"bestPersonUp" : 400,
+		"maxLevel" : 249,
+		"name" : "庆典烟花",
+		"personLower" : 10,
+		"personUp" : 150,
+		"type" : 401,
+		"unit" : 2
+	},
+	
+	{
+		"bestPersonLower" : 20,
+		"bestPersonUp" : 250,
+		"maxLevel" : 299,
+		"minLevel" : 250,
+		"name" : "庆典烟花",
+		"personLower" : 10,
+		"personUp" : 150,
+		"type" : 402,
+		"unit" : 2
+	},
+	
+	{
+		"bestPersonLower" : 20,
+		"bestPersonUp" : 400,
+		"maxLevel" : 349,
+		"minLevel" : 300,
+		"name" : "庆典烟花",
+		"personLower" : 10,
+		"personUp" : 250,
+		"type" : 403,
+		"unit" : 2
+	},
+	
+	{
+		"bestPersonLower" : 20,
+		"bestPersonUp" : 400,
+		"maxLevel" : 399,
+		"minLevel" : 350,
+		"name" : "庆典烟花",
+		"personLower" : 10,
+		"personUp" : 250,
+		"type" : 404,
+		"unit" : 2
+	},
+	
+	{
+		"bestPersonLower" : 20,
+		"bestPersonUp" : 500,
+		"maxLevel" : 449,
+		"minLevel" : 400,
+		"name" : "庆典烟花",
+		"personLower" : 10,
+		"personUp" : 250,
+		"type" : 405,
+		"unit" : 2
+	},
+	
+	{
+		"bestPersonLower" : 20,
+		"bestPersonUp" : 600,
+		"maxLevel" : 499,
+		"minLevel" : 450,
+		"name" : "庆典烟花",
+		"personLower" : 10,
+		"personUp" : 250,
+		"type" : 406,
+		"unit" : 2
+	},
+	
+	{
+		"bestPersonLower" : 20,
+		"bestPersonUp" : 750,
+		"maxLevel" : 999,
+		"minLevel" : 500,
+		"name" : "庆典烟花",
+		"personLower" : 10,
+		"personUp" : 250,
+		"type" : 407,
+		"unit" : 2
+	},
+	
+	{
+		"activeType" : 5018,
+		"bestPersonLower" : 10,
+		"bestPersonUp" : 60,
+		"isShowLuck" : 1,
+		"maxLevel" : 999,
+		"name" : "鉴宝",
+		"personLower" : 15,
+		"personUp" : 999,
+		"type" : 501,
+		"unit" : 2
+	},
+	
+	{
+		"bestPersonLower" : 100,
+		"bestPersonUp" : 3500,
+		"maxLevel" : 999,
+		"minLevel" : 450,
+		"name" : "至尊寻宝",
+		"personLower" : 50,
+		"personUp" : 1000,
+		"propCode" : 42061005,
+		"propNum" : 1,
+		"type" : 601,
+		"unit" : 2
+	},
+	
+	{
+		"activeType" : 5020,
+		"bestPersonLower" : 7,
+		"bestPersonUp" : 76,
+		"isShowLuck" : 1,
+		"maxLevel" : 999,
+		"name" : "情缘上上签",
+		"personLower" : 15,
+		"personUp" : 999,
+		"type" : 701,
+		"unit" : 2
+	},
+	
+	{
+		"activeType" : 5020,
+		"bestPersonLower" : 7,
+		"bestPersonUp" : 76,
+		"isShowLuck" : 1,
+		"maxLevel" : 999,
+		"name" : "情缘上上签",
+		"personLower" : 15,
+		"personUp" : 999,
+		"type" : 702,
+		"unit" : 2
+	},
+	
+	{
+		"activeType" : 5020,
+		"bestPersonLower" : 7,
+		"bestPersonUp" : 76,
+		"isShowLuck" : 1,
+		"maxLevel" : 999,
+		"name" : "情缘上上签",
+		"personLower" : 15,
+		"personUp" : 999,
+		"type" : 703,
+		"unit" : 2
+	},
+	
+	{
+		"activeType" : 5020,
+		"bestPersonLower" : 7,
+		"bestPersonUp" : 76,
+		"isShowLuck" : 1,
+		"maxLevel" : 999,
+		"name" : "情缘上上签",
+		"personLower" : 15,
+		"personUp" : 999,
+		"type" : 704,
+		"unit" : 2
+	},
+	
+	{
+		"activeType" : 5020,
+		"bestPersonLower" : 7,
+		"bestPersonUp" : 76,
+		"isShowLuck" : 1,
+		"maxLevel" : 999,
+		"name" : "情缘上上签",
+		"personLower" : 15,
+		"personUp" : 999,
+		"type" : 705,
+		"unit" : 2
+	}
+]

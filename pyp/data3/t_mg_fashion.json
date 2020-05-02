@@ -1,0 +1,312 @@
+
+[
+	
+	{
+		"code" : 100001,
+		"modelId" : 1000191,
+		"modelIdList" : "1,1000191#2,1000192#4,1000192",
+		"name" : "黄金之翼",
+		"propCode" : 50010001,
+		"showIndex" : 3,
+		"type" : 1,
+		"useNum" : 1
+	},
+	
+	{
+		"code" : 100002,
+		"modelId" : 1000111,
+		"modelIdList" : "1,1000111#2,1000112#4,1000112",
+		"name" : "巅峰枭雄",
+		"propCode" : 50010002,
+		"showIndex" : 7,
+		"timeLimit" : 336,
+		"type" : 1,
+		"useNum" : 1
+	},
+	
+	{
+		"code" : 100003,
+		"modelId" : 1000181,
+		"modelIdList" : "1,1000181#2,1000182#4,1000182",
+		"name" : "夏至未至",
+		"propCode" : 50010003,
+		"showIndex" : 4,
+		"type" : 1,
+		"useNum" : 1
+	},
+	
+	{
+		"code" : 100004,
+		"modelId" : 1000091,
+		"modelIdList" : "1,1000091#2,1000092#4,1000092",
+		"name" : "纯白风絮",
+		"propCode" : 50010004,
+		"showIndex" : 5,
+		"type" : 1,
+		"useNum" : 1
+	},
+	
+	{
+		"code" : 100005,
+		"modelId" : 1000011,
+		"modelIdList" : "1,1000011#2,1000012#4,1000012",
+		"name" : "霸主金衣",
+		"propCode" : 50010005,
+		"showIndex" : 6,
+		"timeLimit" : 168,
+		"type" : 1,
+		"useNum" : 1
+	},
+	
+	{
+		"code" : 100006,
+		"modelId" : 1000171,
+		"modelIdList" : "1,1000171#2,1000172#4,1000172",
+		"name" : "不夜盛宴",
+		"propCode" : 50010006,
+		"showIndex" : 2,
+		"type" : 1,
+		"useNum" : 1
+	},
+	
+	{
+		"code" : 100007,
+		"modelId" : 1000101,
+		"modelIdList" : "1,1000101#2,1000102#4,1000102",
+		"name" : "巅峰霸主",
+		"propCode" : 50010007,
+		"showIndex" : 8,
+		"timeLimit" : 336,
+		"type" : 1,
+		"useNum" : 1
+	},
+	
+	{
+		"code" : 100008,
+		"modelId" : 1000131,
+		"modelIdList" : "1,1000131#2,1000132#4,1000132",
+		"name" : "兵行天下",
+		"propCode" : 50010008,
+		"showIndex" : 10,
+		"type" : 1,
+		"useNum" : 1
+	},
+	
+	{
+		"code" : 100009,
+		"modelId" : 1000161,
+		"modelIdList" : "1,1000161#2,1000162#4,1000162",
+		"name" : "电竞纪元",
+		"propCode" : 50010009,
+		"showIndex" : 12,
+		"timeLimit" : 720,
+		"type" : 1,
+		"useNum" : 1
+	},
+	
+	{
+		"code" : 100010,
+		"modelId" : 1000141,
+		"modelIdList" : "1,1000141#2,1000142#4,1000142",
+		"name" : "怒海争锋",
+		"propCode" : 50010010,
+		"showIndex" : 11,
+		"timeLimit" : 720,
+		"type" : 1,
+		"useNum" : 1
+	},
+	
+	{
+		"code" : 100101,
+		"modelId" : 1000121,
+		"modelIdList" : "1,1000121#2,1000122#4,1000122",
+		"name" : "云裳羽衣",
+		"propCode" : 50010101,
+		"showIndex" : 1,
+		"type" : 1,
+		"useNum" : 1
+	},
+	
+	{
+		"code" : 100102,
+		"modelId" : 1000081,
+		"modelIdList" : "1,1000081#2,1000082#4,1000082",
+		"name" : "星海征途",
+		"propCode" : 50010102,
+		"showIndex" : 9,
+		"type" : 1,
+		"useNum" : 1
+	},
+	
+	{
+		"code" : 101001,
+		"modelId" : 101005,
+		"modelIdList" : "1,101005#2,101005#4,101005",
+		"name" : "玄火重剑",
+		"propCode" : 50020002,
+		"showIndex" : 2,
+		"type" : 2,
+		"useNum" : 1
+	},
+	
+	{
+		"code" : 101002,
+		"modelId" : 3019,
+		"modelIdList" : "1,3019#2,3019#4,3019",
+		"name" : "明日之星",
+		"propCode" : 50020001,
+		"showIndex" : 3,
+		"type" : 2,
+		"useNum" : 1
+	},
+	
+	{
+		"code" : 101004,
+		"modelId" : 3006,
+		"modelIdList" : "1,3006#2,3006#4,3006",
+		"name" : "霸主神剑",
+		"propCode" : 50020003,
+		"showIndex" : 6,
+		"timeLimit" : 168,
+		"type" : 2,
+		"useNum" : 1
+	},
+	
+	{
+		"code" : 101005,
+		"modelId" : 3008,
+		"modelIdList" : "1,3008#2,3008#4,3008",
+		"name" : "天元星芒",
+		"propCode" : 50020004,
+		"showIndex" : 7,
+		"timeLimit" : 336,
+		"type" : 2,
+		"useNum" : 1
+	},
+	
+	{
+		"code" : 101006,
+		"modelId" : 3009,
+		"modelIdList" : "1,3009#2,3009#4,3009",
+		"name" : "炼狱修罗",
+		"propCode" : 50020005,
+		"showIndex" : 8,
+		"timeLimit" : 336,
+		"type" : 2,
+		"useNum" : 1
+	},
+	
+	{
+		"code" : 101007,
+		"modelId" : 3012,
+		"modelIdList" : "1,3012#2,3012#4,3012",
+		"name" : "云海游龙",
+		"propCode" : 50020006,
+		"showIndex" : 10,
+		"timeLimit" : 168,
+		"type" : 2,
+		"useNum" : 1
+	},
+	
+	{
+		"code" : 101008,
+		"modelId" : 3014,
+		"modelIdList" : "1,3014#2,3014#4,3014",
+		"name" : "天命所归",
+		"propCode" : 50020007,
+		"showIndex" : 9,
+		"type" : 2,
+		"useNum" : 1
+	},
+	
+	{
+		"code" : 101009,
+		"modelId" : 3015,
+		"modelIdList" : "1,3015#2,3015#4,3015",
+		"name" : "黑客代码",
+		"propCode" : 50020008,
+		"showIndex" : 11,
+		"timeLimit" : 720,
+		"type" : 2,
+		"useNum" : 1
+	},
+	
+	{
+		"code" : 101010,
+		"modelId" : 3018,
+		"modelIdList" : "1,3018#2,3018#4,3018",
+		"name" : "锚定乾坤",
+		"propCode" : 50020009,
+		"showIndex" : 12,
+		"timeLimit" : 720,
+		"type" : 2,
+		"useNum" : 1
+	},
+	
+	{
+		"code" : 101101,
+		"modelId" : 3010,
+		"modelIdList" : "1,3010#2,3010#4,3010",
+		"name" : "云裳幻刃",
+		"propCode" : 50020101,
+		"showIndex" : 1,
+		"type" : 2,
+		"useNum" : 1
+	},
+	
+	{
+		"code" : 101102,
+		"modelId" : 3007,
+		"modelIdList" : "1,3007#2,3007#4,3007",
+		"name" : "风絮之刃",
+		"propCode" : 50020102,
+		"showIndex" : 4,
+		"type" : 2,
+		"useNum" : 1
+	},
+	
+	{
+		"code" : 101103,
+		"modelId" : 101006,
+		"modelIdList" : "1,101006#2,101006#4,101006",
+		"name" : "紫电青霜",
+		"propCode" : 50020103,
+		"showIndex" : 5,
+		"type" : 2,
+		"useNum" : 1
+	},
+	
+	{
+		"code" : 102001,
+		"modelId" : 4003,
+		"modelIdList" : "1,4003#2,4003#4,4003",
+		"name" : "流墨轻羽",
+		"propCode" : 50030001,
+		"showIndex" : 1,
+		"type" : 3,
+		"useNum" : 1
+	},
+	
+	{
+		"code" : 102002,
+		"modelId" : 102006,
+		"modelIdList" : "1,102006#2,102006#4,102006",
+		"name" : "红莲火羽",
+		"propCode" : 50030002,
+		"showIndex" : 2,
+		"type" : 3,
+		"useNum" : 1
+	},
+	
+	{
+		"code" : 102003,
+		"modelId" : 1003003,
+		"modelIdList" : "1,1003003#2,1003003#4,1003003",
+		"name" : "龙腾世纪",
+		"propCode" : 50030005,
+		"showIndex" : 3,
+		"timeLimit" : 168,
+		"type" : 3,
+		"useNum" : 1
+	}
+]

@@ -1,0 +1,1251 @@
+
+[
+	
+	{
+		"dropList" : "0",
+		"lotteryType" : 42044001,
+		"openHole" : 1,
+		"openType" : "1#3#4#6#"
+	},
+	
+	{
+		"dropList" : "42043001",
+		"floor" : 1,
+		"lotteryType" : 42044001,
+		"mailItem" : 42041001,
+		"mailNum" : 3,
+		"rewardShow" : "41950017#41950016#",
+		"runeBox" : 42042001,
+		"runeExp" : 1200,
+		"targetRing" : 1
+	},
+	
+	{
+		"dropList" : "42043001",
+		"floor" : 2,
+		"lotteryType" : 42044001,
+		"mailItem" : 42041001,
+		"mailNum" : 3,
+		"rewardShow" : "41950017#41950016#",
+		"runeBox" : 42042001,
+		"runeExp" : 1400,
+		"targetRing" : 2
+	},
+	
+	{
+		"dropList" : "42043001",
+		"floor" : 3,
+		"lotteryType" : 42044001,
+		"mailItem" : 42041001,
+		"mailNum" : 3,
+		"rewardShow" : "41950017#41950016#",
+		"runeBox" : 42042001,
+		"runeExp" : 1600,
+		"targetRing" : 3
+	},
+	
+	{
+		"dropList" : "42043002",
+		"floor" : 4,
+		"lotteryType" : 42044002,
+		"mailItem" : 42041001,
+		"mailNum" : 3,
+		"openHole" : 2,
+		"openType" : "5#",
+		"openTypeCode" : "80000055#",
+		"rewardShow" : "41950018#41950016#",
+		"runeBox" : 42042002,
+		"runeExp" : 6000,
+		"targetRing" : 4
+	},
+	
+	{
+		"dropList" : "42043002",
+		"floor" : 5,
+		"lotteryType" : 42044002,
+		"mailItem" : 42041001,
+		"mailNum" : 3,
+		"rewardShow" : "41950018#41950016#",
+		"runeBox" : 42042002,
+		"runeExp" : 2000,
+		"targetRing" : 5
+	},
+	
+	{
+		"dropList" : "42043002",
+		"floor" : 6,
+		"lotteryType" : 42044002,
+		"mailItem" : 42041001,
+		"mailNum" : 3,
+		"rewardShow" : "41950018#41950016#",
+		"runeBox" : 42042002,
+		"runeExp" : 2200,
+		"targetRing" : 6
+	},
+	
+	{
+		"dropList" : "42043002",
+		"floor" : 7,
+		"lotteryType" : 42044002,
+		"mailItem" : 42041001,
+		"mailNum" : 3,
+		"rewardShow" : "41950018#41950016#",
+		"runeBox" : 42042002,
+		"runeExp" : 2400,
+		"targetRing" : 7
+	},
+	
+	{
+		"dropList" : "42043003",
+		"floor" : 8,
+		"lotteryType" : 42044003,
+		"mailItem" : 42041002,
+		"mailNum" : 3,
+		"openHole" : 3,
+		"openType" : "8#",
+		"openTypeCode" : "80000085#",
+		"rewardShow" : "41950019#41950016#",
+		"runeBox" : 42042003,
+		"runeExp" : 11000,
+		"targetRing" : 8
+	},
+	
+	{
+		"dropList" : "42043003",
+		"floor" : 9,
+		"lotteryType" : 42044003,
+		"mailItem" : 42041002,
+		"mailNum" : 3,
+		"rewardShow" : "41950019#41950016#",
+		"runeBox" : 42042003,
+		"runeExp" : 2800,
+		"targetRing" : 9
+	},
+	
+	{
+		"dropList" : "42043003",
+		"floor" : 10,
+		"lotteryType" : 42044003,
+		"mailItem" : 42041002,
+		"mailNum" : 3,
+		"rewardShow" : "41950019#41950016#",
+		"runeBox" : 42042003,
+		"runeExp" : 3000,
+		"targetRing" : 10
+	},
+	
+	{
+		"dropList" : "42043003",
+		"floor" : 11,
+		"lotteryType" : 42044003,
+		"mailItem" : 42041002,
+		"mailNum" : 3,
+		"rewardShow" : "41950019#41950016#",
+		"runeBox" : 42042003,
+		"runeExp" : 3200,
+		"targetRing" : 11
+	},
+	
+	{
+		"dropList" : "42043004",
+		"floor" : 12,
+		"lotteryType" : 42044004,
+		"mailItem" : 42041002,
+		"mailNum" : 3,
+		"openHole" : 4,
+		"openType" : "7#",
+		"openTypeCode" : "80000075#",
+		"rewardShow" : "41950020#41950016#",
+		"runeBox" : 42042004,
+		"runeExp" : 15000,
+		"targetRing" : 12
+	},
+	
+	{
+		"dropList" : "42043004",
+		"floor" : 13,
+		"lotteryType" : 42044004,
+		"mailItem" : 42041002,
+		"mailNum" : 3,
+		"rewardShow" : "41950020#41950016#",
+		"runeBox" : 42042004,
+		"runeExp" : 3600,
+		"targetRing" : 13
+	},
+	
+	{
+		"dropList" : "42043004",
+		"floor" : 14,
+		"lotteryType" : 42044004,
+		"mailItem" : 42041002,
+		"mailNum" : 3,
+		"rewardShow" : "41950020#41950016#",
+		"runeBox" : 42042004,
+		"runeExp" : 3800,
+		"targetRing" : 14
+	},
+	
+	{
+		"dropList" : "42043004",
+		"floor" : 15,
+		"lotteryType" : 42044004,
+		"mailItem" : 42041002,
+		"mailNum" : 3,
+		"rewardShow" : "41950020#41950016#",
+		"runeBox" : 42042004,
+		"runeExp" : 4000,
+		"targetRing" : 15
+	},
+	
+	{
+		"dropList" : "42043005",
+		"floor" : 16,
+		"lotteryType" : 42044005,
+		"mailItem" : 42041002,
+		"mailNum" : 3,
+		"openHole" : 5,
+		"openType" : "2#",
+		"openTypeCode" : "80000025#",
+		"rewardShow" : "41950021#41950016#",
+		"runeBox" : 42042005,
+		"runeExp" : 20000,
+		"targetRing" : 16
+	},
+	
+	{
+		"dropList" : "42043005",
+		"floor" : 17,
+		"lotteryType" : 42044005,
+		"mailItem" : 42041002,
+		"mailNum" : 3,
+		"rewardShow" : "41950021#41950016#",
+		"runeBox" : 42042005,
+		"runeExp" : 4400,
+		"targetRing" : 17
+	},
+	
+	{
+		"dropList" : "42043005",
+		"floor" : 18,
+		"lotteryType" : 42044005,
+		"mailItem" : 42041002,
+		"mailNum" : 3,
+		"rewardShow" : "41950021#41950016#",
+		"runeBox" : 42042005,
+		"runeExp" : 4600,
+		"targetRing" : 18
+	},
+	
+	{
+		"dropList" : "42043005",
+		"floor" : 19,
+		"lotteryType" : 42044005,
+		"mailItem" : 42041002,
+		"mailNum" : 3,
+		"rewardShow" : "41950021#41950016#",
+		"runeBox" : 42042005,
+		"runeExp" : 4800,
+		"targetRing" : 19
+	},
+	
+	{
+		"dropList" : "42043005",
+		"floor" : 20,
+		"lotteryType" : 42044005,
+		"mailItem" : 42041002,
+		"mailNum" : 3,
+		"openHole" : 6,
+		"rewardShow" : "41950021#41950016#",
+		"runeBox" : 42042005,
+		"runeExp" : 25000,
+		"targetRing" : 20
+	},
+	
+	{
+		"dropList" : "42043005",
+		"floor" : 21,
+		"lotteryType" : 42044005,
+		"mailItem" : 42041002,
+		"mailNum" : 3,
+		"rewardShow" : "41950021#41950016#",
+		"runeBox" : 42042005,
+		"runeExp" : 5200,
+		"targetRing" : 21
+	},
+	
+	{
+		"dropList" : "42043005",
+		"floor" : 22,
+		"lotteryType" : 42044005,
+		"mailItem" : 42041002,
+		"mailNum" : 3,
+		"rewardShow" : "41950021#41950016#",
+		"runeBox" : 42042005,
+		"runeExp" : 5400,
+		"targetRing" : 22
+	},
+	
+	{
+		"dropList" : "42043005",
+		"floor" : 23,
+		"lotteryType" : 42044005,
+		"mailItem" : 42041002,
+		"mailNum" : 3,
+		"rewardShow" : "41950021#41950016#",
+		"runeBox" : 42042005,
+		"runeExp" : 5600,
+		"targetRing" : 23
+	},
+	
+	{
+		"dropList" : "42043006",
+		"floor" : 24,
+		"lotteryType" : 42044006,
+		"mailItem" : 42041003,
+		"mailNum" : 3,
+		"openHole" : 7,
+		"openType" : "9#",
+		"openTypeCode" : "80000095#",
+		"rewardShow" : "41950022#41950016#",
+		"runeBox" : 42042006,
+		"runeExp" : 30000,
+		"targetRing" : 24
+	},
+	
+	{
+		"dropList" : "42043006",
+		"floor" : 25,
+		"lotteryType" : 42044006,
+		"mailItem" : 42041003,
+		"mailNum" : 3,
+		"rewardShow" : "41950022#41950016#",
+		"runeBox" : 42042006,
+		"runeExp" : 6000,
+		"targetRing" : 25
+	},
+	
+	{
+		"dropList" : "42043006",
+		"floor" : 26,
+		"lotteryType" : 42044006,
+		"mailItem" : 42041003,
+		"mailNum" : 3,
+		"rewardShow" : "41950022#41950016#",
+		"runeBox" : 42042006,
+		"runeExp" : 6200,
+		"targetRing" : 26
+	},
+	
+	{
+		"dropList" : "42043006",
+		"floor" : 27,
+		"lotteryType" : 42044006,
+		"mailItem" : 42041003,
+		"mailNum" : 3,
+		"rewardShow" : "41950022#41950016#",
+		"runeBox" : 42042006,
+		"runeExp" : 6400,
+		"targetRing" : 27
+	},
+	
+	{
+		"dropList" : "42043006",
+		"floor" : 28,
+		"lotteryType" : 42044006,
+		"mailItem" : 42041003,
+		"mailNum" : 3,
+		"rewardShow" : "41950022#41950016#",
+		"runeBox" : 42042006,
+		"runeExp" : 35000,
+		"targetRing" : 28
+	},
+	
+	{
+		"dropList" : "42043006",
+		"floor" : 29,
+		"lotteryType" : 42044006,
+		"mailItem" : 42041003,
+		"mailNum" : 3,
+		"rewardShow" : "41950022#41950016#",
+		"runeBox" : 42042006,
+		"runeExp" : 6800,
+		"targetRing" : 29
+	},
+	
+	{
+		"dropList" : "42043006",
+		"floor" : 30,
+		"lotteryType" : 42044006,
+		"mailItem" : 42041003,
+		"mailNum" : 3,
+		"rewardShow" : "41950022#41950016#",
+		"runeBox" : 42042006,
+		"runeExp" : 7000,
+		"targetRing" : 30
+	},
+	
+	{
+		"dropList" : "42043006",
+		"floor" : 31,
+		"lotteryType" : 42044006,
+		"mailItem" : 42041003,
+		"mailNum" : 3,
+		"rewardShow" : "41950022#41950016#",
+		"runeBox" : 42042006,
+		"runeExp" : 7200,
+		"targetRing" : 31
+	},
+	
+	{
+		"dropList" : "42043007",
+		"floor" : 32,
+		"lotteryType" : 42044007,
+		"mailItem" : 42041003,
+		"mailNum" : 3,
+		"openHole" : 8,
+		"openType" : "10#",
+		"openTypeCode" : "80000105#",
+		"rewardShow" : "41950023#41950016#",
+		"runeBox" : 42042007,
+		"runeExp" : 39000,
+		"targetRing" : 32
+	},
+	
+	{
+		"dropList" : "42043007",
+		"floor" : 33,
+		"lotteryType" : 42044007,
+		"mailItem" : 42041003,
+		"mailNum" : 3,
+		"rewardShow" : "41950023#41950016#",
+		"runeBox" : 42042007,
+		"runeExp" : 7600,
+		"targetRing" : 33
+	},
+	
+	{
+		"dropList" : "42043007",
+		"floor" : 34,
+		"lotteryType" : 42044007,
+		"mailItem" : 42041003,
+		"mailNum" : 3,
+		"rewardShow" : "41950023#41950016#",
+		"runeBox" : 42042007,
+		"runeExp" : 7800,
+		"targetRing" : 34
+	},
+	
+	{
+		"dropList" : "42043007",
+		"floor" : 35,
+		"lotteryType" : 42044007,
+		"mailItem" : 42041003,
+		"mailNum" : 3,
+		"rewardShow" : "41950023#41950016#",
+		"runeBox" : 42042007,
+		"runeExp" : 8000,
+		"targetRing" : 35
+	},
+	
+	{
+		"dropList" : "42043007",
+		"floor" : 36,
+		"lotteryType" : 42044007,
+		"mailItem" : 42041003,
+		"mailNum" : 3,
+		"rewardShow" : "41950023#41950016#",
+		"runeBox" : 42042007,
+		"runeExp" : 44000,
+		"targetRing" : 36
+	},
+	
+	{
+		"dropList" : "42043007",
+		"floor" : 37,
+		"lotteryType" : 42044007,
+		"mailItem" : 42041003,
+		"mailNum" : 3,
+		"rewardShow" : "41950023#41950016#",
+		"runeBox" : 42042007,
+		"runeExp" : 8400,
+		"targetRing" : 37
+	},
+	
+	{
+		"dropList" : "42043007",
+		"floor" : 38,
+		"lotteryType" : 42044007,
+		"mailItem" : 42041003,
+		"mailNum" : 3,
+		"rewardShow" : "41950023#41950016#",
+		"runeBox" : 42042007,
+		"runeExp" : 8600,
+		"targetRing" : 38
+	},
+	
+	{
+		"dropList" : "42043007",
+		"floor" : 39,
+		"lotteryType" : 42044007,
+		"mailItem" : 42041003,
+		"mailNum" : 3,
+		"rewardShow" : "41950023#41950016#",
+		"runeBox" : 42042007,
+		"runeExp" : 8800,
+		"targetRing" : 39
+	},
+	
+	{
+		"dropList" : "42043008",
+		"floor" : 40,
+		"lotteryType" : 42044008,
+		"mailItem" : 42041003,
+		"mailNum" : 3,
+		"openType" : "11#",
+		"openTypeCode" : "80000115#",
+		"rewardShow" : "41950024#41950016#",
+		"runeBox" : 42042008,
+		"runeExp" : 49000,
+		"targetRing" : 40
+	},
+	
+	{
+		"dropList" : "42043008",
+		"floor" : 41,
+		"lotteryType" : 42044008,
+		"mailItem" : 42041003,
+		"mailNum" : 3,
+		"rewardShow" : "41950024#41950016#",
+		"runeBox" : 42042008,
+		"runeExp" : 9200,
+		"targetRing" : 41
+	},
+	
+	{
+		"dropList" : "42043008",
+		"floor" : 42,
+		"lotteryType" : 42044008,
+		"mailItem" : 42041003,
+		"mailNum" : 3,
+		"rewardShow" : "41950024#41950016#",
+		"runeBox" : 42042008,
+		"runeExp" : 9400,
+		"targetRing" : 42
+	},
+	
+	{
+		"dropList" : "42043008",
+		"floor" : 43,
+		"lotteryType" : 42044008,
+		"mailItem" : 42041003,
+		"mailNum" : 3,
+		"rewardShow" : "41950024#41950016#",
+		"runeBox" : 42042008,
+		"runeExp" : 9600,
+		"targetRing" : 43
+	},
+	
+	{
+		"dropList" : "42043008",
+		"floor" : 44,
+		"lotteryType" : 42044008,
+		"mailItem" : 42041003,
+		"mailNum" : 3,
+		"rewardShow" : "41950024#41950016#",
+		"runeBox" : 42042008,
+		"runeExp" : 54000,
+		"targetRing" : 44
+	},
+	
+	{
+		"dropList" : "42043008",
+		"floor" : 45,
+		"lotteryType" : 42044008,
+		"mailItem" : 42041003,
+		"mailNum" : 3,
+		"rewardShow" : "41950024#41950016#",
+		"runeBox" : 42042008,
+		"runeExp" : 10000,
+		"targetRing" : 45
+	},
+	
+	{
+		"dropList" : "42043008",
+		"floor" : 46,
+		"lotteryType" : 42044008,
+		"mailItem" : 42041003,
+		"mailNum" : 3,
+		"rewardShow" : "41950024#41950016#",
+		"runeBox" : 42042008,
+		"runeExp" : 10200,
+		"targetRing" : 46
+	},
+	
+	{
+		"dropList" : "42043008",
+		"floor" : 47,
+		"lotteryType" : 42044008,
+		"mailItem" : 42041003,
+		"mailNum" : 3,
+		"rewardShow" : "41950024#41950016#",
+		"runeBox" : 42042008,
+		"runeExp" : 10400,
+		"targetRing" : 47
+	},
+	
+	{
+		"dropList" : "42043009",
+		"floor" : 48,
+		"lotteryType" : 42044009,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"openType" : "12#",
+		"openTypeCode" : "80000125#",
+		"rewardShow" : "41950025#41950016#",
+		"runeBox" : 42042009,
+		"runeExp" : 59000,
+		"targetRing" : 48
+	},
+	
+	{
+		"dropList" : "42043009",
+		"floor" : 49,
+		"lotteryType" : 42044009,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"rewardShow" : "41950025#41950016#",
+		"runeBox" : 42042009,
+		"runeExp" : 10800,
+		"targetRing" : 49
+	},
+	
+	{
+		"dropList" : "42043009",
+		"floor" : 50,
+		"lotteryType" : 42044009,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"rewardShow" : "41950025#41950016#",
+		"runeBox" : 42042009,
+		"runeExp" : 11000,
+		"targetRing" : 50
+	},
+	
+	{
+		"dropList" : "42043009",
+		"floor" : 51,
+		"lotteryType" : 42044009,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"rewardShow" : "41950025#41950016#",
+		"runeBox" : 42042009,
+		"runeExp" : 11200,
+		"targetRing" : 51
+	},
+	
+	{
+		"dropList" : "42043009",
+		"floor" : 52,
+		"lotteryType" : 42044009,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"rewardShow" : "41950025#41950016#",
+		"runeBox" : 42042009,
+		"runeExp" : 63000,
+		"targetRing" : 52
+	},
+	
+	{
+		"dropList" : "42043009",
+		"floor" : 53,
+		"lotteryType" : 42044009,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"rewardShow" : "41950025#41950016#",
+		"runeBox" : 42042009,
+		"runeExp" : 11600,
+		"targetRing" : 53
+	},
+	
+	{
+		"dropList" : "42043009",
+		"floor" : 54,
+		"lotteryType" : 42044009,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"rewardShow" : "41950025#41950016#",
+		"runeBox" : 42042009,
+		"runeExp" : 11800,
+		"targetRing" : 54
+	},
+	
+	{
+		"dropList" : "42043009",
+		"floor" : 55,
+		"lotteryType" : 42044009,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"rewardShow" : "41950025#41950016#",
+		"runeBox" : 42042009,
+		"runeExp" : 12000,
+		"targetRing" : 55
+	},
+	
+	{
+		"dropList" : "42043010",
+		"floor" : 56,
+		"lotteryType" : 42044010,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"openType" : "13#",
+		"openTypeCode" : "80000135#",
+		"rewardShow" : "41950026#41950016#",
+		"runeBox" : 42042010,
+		"runeExp" : 68000,
+		"targetRing" : 56
+	},
+	
+	{
+		"dropList" : "42043010",
+		"floor" : 57,
+		"lotteryType" : 42044010,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"rewardShow" : "41950026#41950016#",
+		"runeBox" : 42042010,
+		"runeExp" : 12400,
+		"targetRing" : 57
+	},
+	
+	{
+		"dropList" : "42043010",
+		"floor" : 58,
+		"lotteryType" : 42044010,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"rewardShow" : "41950026#41950016#",
+		"runeBox" : 42042010,
+		"runeExp" : 12600,
+		"targetRing" : 58
+	},
+	
+	{
+		"dropList" : "42043010",
+		"floor" : 59,
+		"lotteryType" : 42044010,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"rewardShow" : "41950026#41950016#",
+		"runeBox" : 42042010,
+		"runeExp" : 12800,
+		"targetRing" : 59
+	},
+	
+	{
+		"dropList" : "42043010",
+		"floor" : 60,
+		"lotteryType" : 42044010,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"rewardShow" : "41950026#41950016#",
+		"runeBox" : 42042010,
+		"runeExp" : 73000,
+		"targetRing" : 60
+	},
+	
+	{
+		"dropList" : "42043010",
+		"floor" : 61,
+		"lotteryType" : 42044010,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"rewardShow" : "41950026#41950016#",
+		"runeBox" : 42042010,
+		"runeExp" : 13200,
+		"targetRing" : 61
+	},
+	
+	{
+		"dropList" : "42043010",
+		"floor" : 62,
+		"lotteryType" : 42044010,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"rewardShow" : "41950026#41950016#",
+		"runeBox" : 42042010,
+		"runeExp" : 13400,
+		"targetRing" : 62
+	},
+	
+	{
+		"dropList" : "42043010",
+		"floor" : 63,
+		"lotteryType" : 42044010,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"rewardShow" : "41950026#41950016#",
+		"runeBox" : 42042010,
+		"runeExp" : 13600,
+		"targetRing" : 63
+	},
+	
+	{
+		"dropList" : "42043011",
+		"floor" : 64,
+		"lotteryType" : 42044011,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"openType" : "14#",
+		"openTypeCode" : "80000145#",
+		"rewardShow" : "41950027#41950016#",
+		"runeBox" : 42042011,
+		"runeExp" : 78000,
+		"targetRing" : 64
+	},
+	
+	{
+		"dropList" : "42043011",
+		"floor" : 65,
+		"lotteryType" : 42044011,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"rewardShow" : "41950027#41950016#",
+		"runeBox" : 42042011,
+		"runeExp" : 14000,
+		"targetRing" : 65
+	},
+	
+	{
+		"dropList" : "42043011",
+		"floor" : 66,
+		"lotteryType" : 42044011,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"rewardShow" : "41950027#41950016#",
+		"runeBox" : 42042011,
+		"runeExp" : 14200,
+		"targetRing" : 66
+	},
+	
+	{
+		"dropList" : "42043011",
+		"floor" : 67,
+		"lotteryType" : 42044011,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"rewardShow" : "41950027#41950016#",
+		"runeBox" : 42042011,
+		"runeExp" : 14400,
+		"targetRing" : 67
+	},
+	
+	{
+		"dropList" : "42043011",
+		"floor" : 68,
+		"lotteryType" : 42044011,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"rewardShow" : "41950027#41950016#",
+		"runeBox" : 42042011,
+		"runeExp" : 83000,
+		"targetRing" : 68
+	},
+	
+	{
+		"dropList" : "42043011",
+		"floor" : 69,
+		"lotteryType" : 42044011,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"rewardShow" : "41950027#41950016#",
+		"runeBox" : 42042011,
+		"runeExp" : 14800,
+		"targetRing" : 69
+	},
+	
+	{
+		"dropList" : "42043011",
+		"floor" : 70,
+		"lotteryType" : 42044011,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"rewardShow" : "41950027#41950016#",
+		"runeBox" : 42042011,
+		"runeExp" : 15000,
+		"targetRing" : 70
+	},
+	
+	{
+		"dropList" : "42043011",
+		"floor" : 71,
+		"lotteryType" : 42044011,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"rewardShow" : "41950027#41950016#",
+		"runeBox" : 42042011,
+		"runeExp" : 15200,
+		"targetRing" : 71
+	},
+	
+	{
+		"dropList" : "42043012",
+		"floor" : 72,
+		"lotteryType" : 42044012,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"openType" : "15#",
+		"openTypeCode" : "80000155#",
+		"rewardShow" : "41950028#41950016#",
+		"runeBox" : 42042012,
+		"runeExp" : 87000,
+		"targetRing" : 72
+	},
+	
+	{
+		"dropList" : "42043012",
+		"floor" : 73,
+		"lotteryType" : 42044012,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"rewardShow" : "41950028#41950016#",
+		"runeBox" : 42042012,
+		"runeExp" : 15600,
+		"targetRing" : 73
+	},
+	
+	{
+		"dropList" : "42043012",
+		"floor" : 74,
+		"lotteryType" : 42044012,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"rewardShow" : "41950028#41950016#",
+		"runeBox" : 42042012,
+		"runeExp" : 15800,
+		"targetRing" : 74
+	},
+	
+	{
+		"dropList" : "42043012",
+		"floor" : 75,
+		"lotteryType" : 42044012,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"rewardShow" : "41950028#41950016#",
+		"runeBox" : 42042012,
+		"runeExp" : 16000,
+		"targetRing" : 75
+	},
+	
+	{
+		"dropList" : "42043012",
+		"floor" : 76,
+		"lotteryType" : 42044012,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"rewardShow" : "41950028#41950016#",
+		"runeBox" : 42042012,
+		"runeExp" : 92000,
+		"targetRing" : 76
+	},
+	
+	{
+		"dropList" : "42043012",
+		"floor" : 77,
+		"lotteryType" : 42044012,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"rewardShow" : "41950028#41950016#",
+		"runeBox" : 42042012,
+		"runeExp" : 16400,
+		"targetRing" : 77
+	},
+	
+	{
+		"dropList" : "42043012",
+		"floor" : 78,
+		"lotteryType" : 42044012,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"rewardShow" : "41950028#41950016#",
+		"runeBox" : 42042012,
+		"runeExp" : 16600,
+		"targetRing" : 78
+	},
+	
+	{
+		"dropList" : "42043012",
+		"floor" : 79,
+		"lotteryType" : 42044012,
+		"mailItem" : 42041004,
+		"mailNum" : 3,
+		"rewardShow" : "41950028#41950016#",
+		"runeBox" : 42042012,
+		"runeExp" : 16800,
+		"targetRing" : 79
+	},
+	
+	{
+		"dropList" : "42043013",
+		"floor" : 80,
+		"lotteryType" : 42044013,
+		"mailItem" : 42041005,
+		"mailNum" : 3,
+		"openType" : "16#17#",
+		"openTypeCode" : "80000165#80000175#",
+		"rewardShow" : "41950029#41950016#",
+		"runeBox" : 42042013,
+		"runeExp" : 97000,
+		"targetRing" : 80
+	},
+	
+	{
+		"dropList" : "42043013",
+		"floor" : 81,
+		"lotteryType" : 42044013,
+		"mailItem" : 42041005,
+		"mailNum" : 3,
+		"rewardShow" : "41950029#41950016#",
+		"runeBox" : 42042013,
+		"runeExp" : 17200,
+		"targetRing" : 81
+	},
+	
+	{
+		"dropList" : "42043013",
+		"floor" : 82,
+		"lotteryType" : 42044013,
+		"mailItem" : 42041005,
+		"mailNum" : 3,
+		"rewardShow" : "41950029#41950016#",
+		"runeBox" : 42042013,
+		"runeExp" : 17400,
+		"targetRing" : 82
+	},
+	
+	{
+		"dropList" : "42043013",
+		"floor" : 83,
+		"lotteryType" : 42044013,
+		"mailItem" : 42041005,
+		"mailNum" : 3,
+		"rewardShow" : "41950029#41950016#",
+		"runeBox" : 42042013,
+		"runeExp" : 17600,
+		"targetRing" : 83
+	},
+	
+	{
+		"dropList" : "42043014",
+		"floor" : 84,
+		"lotteryType" : 42044014,
+		"mailItem" : 42041005,
+		"mailNum" : 3,
+		"openType" : "18#",
+		"openTypeCode" : "80000185#",
+		"rewardShow" : "41950045#41950016#",
+		"runeBox" : 42042014,
+		"runeExp" : 102000,
+		"targetRing" : 84
+	},
+	
+	{
+		"dropList" : "42043014",
+		"floor" : 85,
+		"lotteryType" : 42044014,
+		"mailItem" : 42041005,
+		"mailNum" : 3,
+		"rewardShow" : "41950045#41950016#",
+		"runeBox" : 42042014,
+		"runeExp" : 18000,
+		"targetRing" : 85
+	},
+	
+	{
+		"dropList" : "42043014",
+		"floor" : 86,
+		"lotteryType" : 42044014,
+		"mailItem" : 42041005,
+		"mailNum" : 3,
+		"rewardShow" : "41950045#41950016#",
+		"runeBox" : 42042014,
+		"runeExp" : 18200,
+		"targetRing" : 86
+	},
+	
+	{
+		"dropList" : "42043014",
+		"floor" : 87,
+		"lotteryType" : 42044014,
+		"mailItem" : 42041005,
+		"mailNum" : 3,
+		"rewardShow" : "41950045#41950016#",
+		"runeBox" : 42042014,
+		"runeExp" : 18400,
+		"targetRing" : 87
+	},
+	
+	{
+		"dropList" : "42043015",
+		"floor" : 88,
+		"lotteryType" : 42044015,
+		"mailItem" : 42041005,
+		"mailNum" : 3,
+		"openType" : "19#",
+		"openTypeCode" : "80000195#",
+		"rewardShow" : "41950045#41950016#",
+		"runeBox" : 42042015,
+		"runeExp" : 107000,
+		"targetRing" : 88
+	},
+	
+	{
+		"dropList" : "42043015",
+		"floor" : 89,
+		"lotteryType" : 42044015,
+		"mailItem" : 42041005,
+		"mailNum" : 3,
+		"rewardShow" : "41950045#41950016#",
+		"runeBox" : 42042015,
+		"runeExp" : 18800,
+		"targetRing" : 89
+	},
+	
+	{
+		"dropList" : "42043015",
+		"floor" : 90,
+		"lotteryType" : 42044015,
+		"mailItem" : 42041005,
+		"mailNum" : 3,
+		"rewardShow" : "41950045#41950016#",
+		"runeBox" : 42042015,
+		"runeExp" : 19000,
+		"targetRing" : 90
+	},
+	
+	{
+		"dropList" : "42043015",
+		"floor" : 91,
+		"lotteryType" : 42044015,
+		"mailItem" : 42041005,
+		"mailNum" : 3,
+		"rewardShow" : "41950045#41950016#",
+		"runeBox" : 42042015,
+		"runeExp" : 19200,
+		"targetRing" : 91
+	},
+	
+	{
+		"dropList" : "42043016",
+		"floor" : 92,
+		"lotteryType" : 42044016,
+		"mailItem" : 42041005,
+		"mailNum" : 3,
+		"openType" : "21#",
+		"openTypeCode" : "80000215#",
+		"rewardShow" : "41950045#41950016#",
+		"runeBox" : 42042016,
+		"runeExp" : 111000,
+		"targetRing" : 92
+	},
+	
+	{
+		"dropList" : "42043016",
+		"floor" : 93,
+		"lotteryType" : 42044016,
+		"mailItem" : 42041005,
+		"mailNum" : 3,
+		"rewardShow" : "41950045#41950016#",
+		"runeBox" : 42042016,
+		"runeExp" : 19600,
+		"targetRing" : 93
+	},
+	
+	{
+		"dropList" : "42043016",
+		"floor" : 94,
+		"lotteryType" : 42044016,
+		"mailItem" : 42041005,
+		"mailNum" : 3,
+		"rewardShow" : "41950045#41950016#",
+		"runeBox" : 42042016,
+		"runeExp" : 19800,
+		"targetRing" : 94
+	},
+	
+	{
+		"dropList" : "42043016",
+		"floor" : 95,
+		"lotteryType" : 42044016,
+		"mailItem" : 42041005,
+		"mailNum" : 3,
+		"rewardShow" : "41950045#41950016#",
+		"runeBox" : 42042016,
+		"runeExp" : 20000,
+		"targetRing" : 95
+	},
+	
+	{
+		"dropList" : "42043017",
+		"floor" : 96,
+		"lotteryType" : 42044017,
+		"mailItem" : 42041005,
+		"mailNum" : 3,
+		"openType" : "20#",
+		"openTypeCode" : "80000205#",
+		"rewardShow" : "41950045#41950016#",
+		"runeBox" : 42042017,
+		"runeExp" : 116000,
+		"targetRing" : 96
+	},
+	
+	{
+		"dropList" : "42043017",
+		"floor" : 97,
+		"lotteryType" : 42044017,
+		"mailItem" : 42041005,
+		"mailNum" : 3,
+		"rewardShow" : "41950045#41950016#",
+		"runeBox" : 42042017,
+		"runeExp" : 20400,
+		"targetRing" : 97
+	},
+	
+	{
+		"dropList" : "42043017",
+		"floor" : 98,
+		"lotteryType" : 42044017,
+		"mailItem" : 42041005,
+		"mailNum" : 3,
+		"rewardShow" : "41950045#41950016#",
+		"runeBox" : 42042017,
+		"runeExp" : 20600,
+		"targetRing" : 98
+	},
+	
+	{
+		"dropList" : "42043017",
+		"floor" : 99,
+		"lotteryType" : 42044017,
+		"mailItem" : 42041005,
+		"mailNum" : 3,
+		"rewardShow" : "41950045#41950016#",
+		"runeBox" : 42042017,
+		"runeExp" : 20800,
+		"targetRing" : 99
+	},
+	
+	{
+		"dropList" : "42043018",
+		"floor" : 100,
+		"lotteryType" : 42044018,
+		"mailItem" : 42041005,
+		"mailNum" : 3,
+		"openType" : "23#",
+		"openTypeCode" : "80000225#",
+		"rewardShow" : "41950045#41950016#",
+		"runeBox" : 42042018,
+		"runeExp" : 121000,
+		"targetRing" : 100
+	}
+]

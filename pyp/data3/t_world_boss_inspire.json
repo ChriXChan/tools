@@ -1,0 +1,113 @@
+
+[
+	
+	{
+		"buffId" : 11001,
+		"cost" : 10000,
+		"desc" : "世界BOSS加成",
+		"effect1" : 10000,
+		"effect2" : 2,
+		"level" : 1,
+		"type" : 1,
+		"unit" : 1
+	},
+	
+	{
+		"buffId" : 11002,
+		"cost" : 10000,
+		"desc" : "世界BOSS加成",
+		"effect1" : 20000,
+		"effect2" : 4,
+		"level" : 2,
+		"type" : 1,
+		"unit" : 1
+	},
+	
+	{
+		"buffId" : 11003,
+		"cost" : 10000,
+		"desc" : "世界BOSS加成",
+		"effect1" : 30000,
+		"effect2" : 6,
+		"level" : 3,
+		"type" : 1,
+		"unit" : 1
+	},
+	
+	{
+		"buffId" : 11004,
+		"cost" : 10000,
+		"desc" : "世界BOSS加成",
+		"effect1" : 40000,
+		"effect2" : 8,
+		"level" : 4,
+		"type" : 1,
+		"unit" : 1
+	},
+	
+	{
+		"buffId" : 11005,
+		"cost" : 10000,
+		"desc" : "世界BOSS加成",
+		"effect1" : 50000,
+		"effect2" : 10,
+		"level" : 5,
+		"type" : 1,
+		"unit" : 1
+	},
+	
+	{
+		"buffId" : 12001,
+		"cost" : 50,
+		"desc" : "世界BOSS加成",
+		"effect1" : 60000,
+		"effect2" : 20,
+		"level" : 1,
+		"type" : 2,
+		"unit" : 2
+	},
+	
+	{
+		"buffId" : 12002,
+		"cost" : 100,
+		"desc" : "世界BOSS加成",
+		"effect1" : 70000,
+		"effect2" : 30,
+		"level" : 2,
+		"type" : 2,
+		"unit" : 2
+	},
+	
+	{
+		"buffId" : 12003,
+		"cost" : 150,
+		"desc" : "世界BOSS加成",
+		"effect1" : 80000,
+		"effect2" : 40,
+		"level" : 3,
+		"type" : 2,
+		"unit" : 2
+	},
+	
+	{
+		"buffId" : 12004,
+		"cost" : 200,
+		"desc" : "世界BOSS加成",
+		"effect1" : 90000,
+		"effect2" : 50,
+		"level" : 4,
+		"type" : 2,
+		"unit" : 2
+	},
+	
+	{
+		"buffId" : 12005,
+		"cost" : 250,
+		"desc" : "世界BOSS加成",
+		"effect1" : 100000,
+		"effect2" : 60,
+		"level" : 5,
+		"type" : 2,
+		"unit" : 2
+	}
+]

@@ -1,0 +1,633 @@
+
+[
+	
+	{
+		"rank" : 1,
+		"type" : 1,
+		"value" : 180
+	},
+	
+	{
+		"rank" : 2,
+		"type" : 1,
+		"value" : 150
+	},
+	
+	{
+		"rank" : 3,
+		"type" : 1,
+		"value" : 120
+	},
+	
+	{
+		"rank" : 4,
+		"type" : 1,
+		"value" : 100
+	},
+	
+	{
+		"rank" : 5,
+		"type" : 1,
+		"value" : 80
+	},
+	
+	{
+		"rank" : 1,
+		"type" : 2,
+		"value" : 1500
+	},
+	
+	{
+		"rank" : 2,
+		"type" : 2,
+		"value" : 1200
+	},
+	
+	{
+		"rank" : 3,
+		"type" : 2,
+		"value" : 900
+	},
+	
+	{
+		"rank" : 4,
+		"type" : 2,
+		"value" : 750
+	},
+	
+	{
+		"rank" : 5,
+		"type" : 2,
+		"value" : 450
+	},
+	
+	{
+		"rank" : 1,
+		"type" : 3,
+		"value" : 750
+	},
+	
+	{
+		"rank" : 2,
+		"type" : 3,
+		"value" : 1200
+	},
+	
+	{
+		"rank" : 3,
+		"type" : 3,
+		"value" : 1800
+	},
+	
+	{
+		"rank" : 4,
+		"type" : 3,
+		"value" : 2400
+	},
+	
+	{
+		"rank" : 5,
+		"type" : 3,
+		"value" : 3000
+	},
+	
+	{
+		"rank" : 6,
+		"type" : 3,
+		"value" : 3750
+	},
+	
+	{
+		"rank" : 7,
+		"type" : 3,
+		"value" : 4500
+	},
+	
+	{
+		"rank" : 8,
+		"type" : 3,
+		"value" : 5250
+	},
+	
+	{
+		"rank" : 9,
+		"type" : 3,
+		"value" : 6000
+	},
+	
+	{
+		"rank" : 10,
+		"type" : 3,
+		"value" : 7500
+	},
+	
+	{
+		"rank" : 1,
+		"type" : 4,
+		"value" : 100
+	},
+	
+	{
+		"rank" : 2,
+		"type" : 4,
+		"value" : 80
+	},
+	
+	{
+		"rank" : 3,
+		"type" : 4,
+		"value" : 70
+	},
+	
+	{
+		"rank" : 4,
+		"type" : 4,
+		"value" : 65
+	},
+	
+	{
+		"rank" : 5,
+		"type" : 4,
+		"value" : 60
+	},
+	
+	{
+		"rank" : 6,
+		"type" : 4,
+		"value" : 55
+	},
+	
+	{
+		"rank" : 7,
+		"type" : 4,
+		"value" : 50
+	},
+	
+	{
+		"rank" : 8,
+		"type" : 4,
+		"value" : 45
+	},
+	
+	{
+		"rank" : 9,
+		"type" : 4,
+		"value" : 40
+	},
+	
+	{
+		"rank" : 10,
+		"type" : 4,
+		"value" : 30
+	},
+	
+	{
+		"rank" : 11,
+		"type" : 4,
+		"value" : 10
+	},
+	
+	{
+		"rank" : 27,
+		"type" : 11,
+		"value" : 12
+	},
+	
+	{
+		"rank" : 9,
+		"type" : 12,
+		"value" : 30
+	},
+	
+	{
+		"rank" : 27,
+		"type" : 13,
+		"value" : 48
+	},
+	
+	{
+		"rank" : 45,
+		"type" : 14,
+		"value" : 30
+	},
+	
+	{
+		"rank" : 30,
+		"type" : 5,
+		"value" : 5000
+	},
+	
+	{
+		"rank" : 31,
+		"type" : 5,
+		"value" : 5125
+	},
+	
+	{
+		"rank" : 32,
+		"type" : 5,
+		"value" : 5250
+	},
+	
+	{
+		"rank" : 33,
+		"type" : 5,
+		"value" : 5375
+	},
+	
+	{
+		"rank" : 34,
+		"type" : 5,
+		"value" : 5500
+	},
+	
+	{
+		"rank" : 35,
+		"type" : 5,
+		"value" : 5625
+	},
+	
+	{
+		"rank" : 36,
+		"type" : 5,
+		"value" : 5750
+	},
+	
+	{
+		"rank" : 37,
+		"type" : 5,
+		"value" : 5875
+	},
+	
+	{
+		"rank" : 38,
+		"type" : 5,
+		"value" : 6000
+	},
+	
+	{
+		"rank" : 39,
+		"type" : 5,
+		"value" : 6125
+	},
+	
+	{
+		"rank" : 40,
+		"type" : 5,
+		"value" : 6250
+	},
+	
+	{
+		"rank" : 41,
+		"type" : 5,
+		"value" : 6750
+	},
+	
+	{
+		"rank" : 42,
+		"type" : 5,
+		"value" : 7250
+	},
+	
+	{
+		"rank" : 43,
+		"type" : 5,
+		"value" : 7750
+	},
+	
+	{
+		"rank" : 44,
+		"type" : 5,
+		"value" : 8250
+	},
+	
+	{
+		"rank" : 45,
+		"type" : 5,
+		"value" : 8750
+	},
+	
+	{
+		"rank" : 46,
+		"type" : 5,
+		"value" : 9250
+	},
+	
+	{
+		"rank" : 47,
+		"type" : 5,
+		"value" : 9750
+	},
+	
+	{
+		"rank" : 48,
+		"type" : 5,
+		"value" : 10250
+	},
+	
+	{
+		"rank" : 49,
+		"type" : 5,
+		"value" : 10750
+	},
+	
+	{
+		"rank" : 50,
+		"type" : 5,
+		"value" : 11250
+	},
+	
+	{
+		"rank" : 51,
+		"type" : 5,
+		"value" : 11750
+	},
+	
+	{
+		"rank" : 52,
+		"type" : 5,
+		"value" : 12250
+	},
+	
+	{
+		"rank" : 53,
+		"type" : 5,
+		"value" : 12750
+	},
+	
+	{
+		"rank" : 54,
+		"type" : 5,
+		"value" : 13250
+	},
+	
+	{
+		"rank" : 55,
+		"type" : 5,
+		"value" : 13750
+	},
+	
+	{
+		"rank" : 56,
+		"type" : 5,
+		"value" : 14250
+	},
+	
+	{
+		"rank" : 57,
+		"type" : 5,
+		"value" : 14750
+	},
+	
+	{
+		"rank" : 58,
+		"type" : 5,
+		"value" : 15250
+	},
+	
+	{
+		"rank" : 59,
+		"type" : 5,
+		"value" : 15750
+	},
+	
+	{
+		"rank" : 60,
+		"type" : 5,
+		"value" : 17500
+	},
+	
+	{
+		"rank" : 61,
+		"type" : 5,
+		"value" : 18250
+	},
+	
+	{
+		"rank" : 62,
+		"type" : 5,
+		"value" : 19000
+	},
+	
+	{
+		"rank" : 63,
+		"type" : 5,
+		"value" : 19750
+	},
+	
+	{
+		"rank" : 64,
+		"type" : 5,
+		"value" : 20500
+	},
+	
+	{
+		"rank" : 65,
+		"type" : 5,
+		"value" : 21250
+	},
+	
+	{
+		"rank" : 66,
+		"type" : 5,
+		"value" : 22000
+	},
+	
+	{
+		"rank" : 67,
+		"type" : 5,
+		"value" : 22750
+	},
+	
+	{
+		"rank" : 68,
+		"type" : 5,
+		"value" : 23500
+	},
+	
+	{
+		"rank" : 69,
+		"type" : 5,
+		"value" : 24250
+	},
+	
+	{
+		"rank" : 70,
+		"type" : 5,
+		"value" : 25000
+	},
+	
+	{
+		"rank" : 71,
+		"type" : 5,
+		"value" : 25750
+	},
+	
+	{
+		"rank" : 72,
+		"type" : 5,
+		"value" : 26500
+	},
+	
+	{
+		"rank" : 73,
+		"type" : 5,
+		"value" : 27250
+	},
+	
+	{
+		"rank" : 74,
+		"type" : 5,
+		"value" : 28000
+	},
+	
+	{
+		"rank" : 75,
+		"type" : 5,
+		"value" : 28750
+	},
+	
+	{
+		"rank" : 76,
+		"type" : 5,
+		"value" : 29500
+	},
+	
+	{
+		"rank" : 77,
+		"type" : 5,
+		"value" : 30250
+	},
+	
+	{
+		"rank" : 78,
+		"type" : 5,
+		"value" : 31000
+	},
+	
+	{
+		"rank" : 79,
+		"type" : 5,
+		"value" : 31750
+	},
+	
+	{
+		"rank" : 80,
+		"type" : 5,
+		"value" : 32500
+	},
+	
+	{
+		"rank" : 81,
+		"type" : 5,
+		"value" : 33250
+	},
+	
+	{
+		"rank" : 82,
+		"type" : 5,
+		"value" : 34000
+	},
+	
+	{
+		"rank" : 83,
+		"type" : 5,
+		"value" : 34750
+	},
+	
+	{
+		"rank" : 84,
+		"type" : 5,
+		"value" : 35500
+	},
+	
+	{
+		"rank" : 85,
+		"type" : 5,
+		"value" : 36250
+	},
+	
+	{
+		"rank" : 86,
+		"type" : 5,
+		"value" : 37000
+	},
+	
+	{
+		"rank" : 87,
+		"type" : 5,
+		"value" : 37750
+	},
+	
+	{
+		"rank" : 88,
+		"type" : 5,
+		"value" : 38500
+	},
+	
+	{
+		"rank" : 89,
+		"type" : 5,
+		"value" : 39250
+	},
+	
+	{
+		"rank" : 90,
+		"type" : 5,
+		"value" : 40000
+	},
+	
+	{
+		"rank" : 91,
+		"type" : 5,
+		"value" : 40750
+	},
+	
+	{
+		"rank" : 92,
+		"type" : 5,
+		"value" : 41500
+	},
+	
+	{
+		"rank" : 93,
+		"type" : 5,
+		"value" : 42250
+	},
+	
+	{
+		"rank" : 94,
+		"type" : 5,
+		"value" : 43000
+	},
+	
+	{
+		"rank" : 95,
+		"type" : 5,
+		"value" : 43750
+	},
+	
+	{
+		"rank" : 96,
+		"type" : 5,
+		"value" : 44500
+	},
+	
+	{
+		"rank" : 97,
+		"type" : 5,
+		"value" : 45250
+	},
+	
+	{
+		"rank" : 98,
+		"type" : 5,
+		"value" : 46000
+	},
+	
+	{
+		"rank" : 99,
+		"type" : 5,
+		"value" : 46750
+	}
+]

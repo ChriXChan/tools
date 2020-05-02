@@ -1,0 +1,704 @@
+
+[
+	
+	{
+		"copyType" : 91,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 1
+	},
+	
+	{
+		"copyType" : 91,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 2,
+		"vipLevel" : 1
+	},
+	
+	{
+		"copyType" : 91,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 3,
+		"vipLevel" : 2
+	},
+	
+	{
+		"copyType" : 91,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 4,
+		"vipLevel" : 3
+	},
+	
+	{
+		"copyType" : 91,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 5,
+		"vipLevel" : 4
+	},
+	
+	{
+		"copyType" : 91,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 6,
+		"maxAddNum" : 1,
+		"vipLevel" : 5
+	},
+	
+	{
+		"copyType" : 91,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 7,
+		"maxAddNum" : 1,
+		"vipLevel" : 6
+	},
+	
+	{
+		"copyType" : 91,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 8,
+		"maxAddNum" : 2,
+		"vipLevel" : 7
+	},
+	
+	{
+		"copyType" : 91,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 9,
+		"maxAddNum" : 2,
+		"vipLevel" : 8
+	},
+	
+	{
+		"copyType" : 91,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 10,
+		"maxAddNum" : 2,
+		"vipLevel" : 9
+	},
+	
+	{
+		"copyType" : 92,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 11
+	},
+	
+	{
+		"copyType" : 92,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 12,
+		"maxAddNum" : 1,
+		"vipLevel" : 1
+	},
+	
+	{
+		"copyType" : 92,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 13,
+		"maxAddNum" : 2,
+		"vipLevel" : 2
+	},
+	
+	{
+		"copyType" : 92,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 14,
+		"maxAddNum" : 2,
+		"vipLevel" : 3
+	},
+	
+	{
+		"copyType" : 92,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 15,
+		"maxAddNum" : 3,
+		"vipLevel" : 4
+	},
+	
+	{
+		"copyType" : 92,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 16,
+		"maxAddNum" : 3,
+		"vipLevel" : 5
+	},
+	
+	{
+		"copyType" : 92,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 17,
+		"maxAddNum" : 4,
+		"vipLevel" : 6
+	},
+	
+	{
+		"copyType" : 92,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 18,
+		"maxAddNum" : 4,
+		"vipLevel" : 7
+	},
+	
+	{
+		"copyType" : 92,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 19,
+		"maxAddNum" : 5,
+		"vipLevel" : 8
+	},
+	
+	{
+		"copyType" : 92,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 20,
+		"maxAddNum" : 5,
+		"vipLevel" : 9
+	},
+	
+	{
+		"copyType" : 93,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 21
+	},
+	
+	{
+		"copyType" : 93,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 22,
+		"maxAddNum" : 1,
+		"vipLevel" : 1
+	},
+	
+	{
+		"copyType" : 93,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 23,
+		"maxAddNum" : 2,
+		"vipLevel" : 2
+	},
+	
+	{
+		"copyType" : 93,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 24,
+		"maxAddNum" : 2,
+		"vipLevel" : 3
+	},
+	
+	{
+		"copyType" : 93,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 25,
+		"maxAddNum" : 3,
+		"vipLevel" : 4
+	},
+	
+	{
+		"copyType" : 93,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 26,
+		"maxAddNum" : 3,
+		"vipLevel" : 5
+	},
+	
+	{
+		"copyType" : 93,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 27,
+		"maxAddNum" : 4,
+		"vipLevel" : 6
+	},
+	
+	{
+		"copyType" : 93,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 28,
+		"maxAddNum" : 4,
+		"vipLevel" : 7
+	},
+	
+	{
+		"copyType" : 93,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 29,
+		"maxAddNum" : 5,
+		"vipLevel" : 8
+	},
+	
+	{
+		"copyType" : 93,
+		"costNum" : 40,
+		"costUnit" : 3,
+		"id" : 30,
+		"maxAddNum" : 5,
+		"vipLevel" : 9
+	},
+	
+	{
+		"copyType" : 89,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 31
+	},
+	
+	{
+		"copyType" : 89,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 32,
+		"vipLevel" : 1
+	},
+	
+	{
+		"copyType" : 89,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 33,
+		"maxAddNum" : 1,
+		"vipLevel" : 2
+	},
+	
+	{
+		"copyType" : 89,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 34,
+		"maxAddNum" : 1,
+		"vipLevel" : 3
+	},
+	
+	{
+		"copyType" : 89,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 35,
+		"maxAddNum" : 1,
+		"vipLevel" : 4
+	},
+	
+	{
+		"copyType" : 89,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 36,
+		"maxAddNum" : 2,
+		"vipLevel" : 5
+	},
+	
+	{
+		"copyType" : 89,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 37,
+		"maxAddNum" : 2,
+		"vipLevel" : 6
+	},
+	
+	{
+		"copyType" : 89,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 38,
+		"maxAddNum" : 2,
+		"vipLevel" : 7
+	},
+	
+	{
+		"copyType" : 89,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 39,
+		"maxAddNum" : 3,
+		"vipLevel" : 8
+	},
+	
+	{
+		"copyType" : 89,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 40,
+		"maxAddNum" : 3,
+		"vipLevel" : 9
+	},
+	
+	{
+		"copyType" : 106,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 41
+	},
+	
+	{
+		"copyType" : 106,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 42,
+		"vipLevel" : 1
+	},
+	
+	{
+		"copyType" : 106,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 43,
+		"vipLevel" : 2
+	},
+	
+	{
+		"copyType" : 106,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 44,
+		"vipLevel" : 3
+	},
+	
+	{
+		"copyType" : 106,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 45,
+		"vipLevel" : 4
+	},
+	
+	{
+		"copyType" : 106,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 46,
+		"vipLevel" : 5
+	},
+	
+	{
+		"copyType" : 106,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 47,
+		"maxAddNum" : 1,
+		"vipLevel" : 6
+	},
+	
+	{
+		"copyType" : 106,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 48,
+		"maxAddNum" : 1,
+		"vipLevel" : 7
+	},
+	
+	{
+		"copyType" : 106,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 49,
+		"maxAddNum" : 1,
+		"vipLevel" : 8
+	},
+	
+	{
+		"copyType" : 106,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 50,
+		"maxAddNum" : 1,
+		"vipLevel" : 9
+	},
+	
+	{
+		"copyType" : 110,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 51,
+		"maxAddNum" : 1
+	},
+	
+	{
+		"copyType" : 110,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 52,
+		"maxAddNum" : 1,
+		"vipLevel" : 1
+	},
+	
+	{
+		"copyType" : 110,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 53,
+		"maxAddNum" : 1,
+		"vipLevel" : 2
+	},
+	
+	{
+		"copyType" : 110,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 54,
+		"maxAddNum" : 1,
+		"vipLevel" : 3
+	},
+	
+	{
+		"copyType" : 110,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 55,
+		"maxAddNum" : 1,
+		"vipLevel" : 4
+	},
+	
+	{
+		"copyType" : 110,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 56,
+		"maxAddNum" : 1,
+		"vipLevel" : 5
+	},
+	
+	{
+		"copyType" : 110,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 57,
+		"maxAddNum" : 1,
+		"vipLevel" : 6
+	},
+	
+	{
+		"copyType" : 110,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 58,
+		"maxAddNum" : 1,
+		"vipLevel" : 7
+	},
+	
+	{
+		"copyType" : 110,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 59,
+		"maxAddNum" : 1,
+		"vipLevel" : 8
+	},
+	
+	{
+		"copyType" : 110,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 60,
+		"maxAddNum" : 1,
+		"vipLevel" : 9
+	},
+	
+	{
+		"copyType" : 104,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 61
+	},
+	
+	{
+		"copyType" : 104,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 62,
+		"vipLevel" : 1
+	},
+	
+	{
+		"copyType" : 104,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 63,
+		"vipLevel" : 2
+	},
+	
+	{
+		"copyType" : 104,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 64,
+		"vipLevel" : 3
+	},
+	
+	{
+		"copyType" : 104,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 65,
+		"vipLevel" : 4
+	},
+	
+	{
+		"copyType" : 104,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 66,
+		"maxAddNum" : 1,
+		"vipLevel" : 5
+	},
+	
+	{
+		"copyType" : 104,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 67,
+		"maxAddNum" : 1,
+		"vipLevel" : 6
+	},
+	
+	{
+		"copyType" : 104,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 68,
+		"maxAddNum" : 1,
+		"vipLevel" : 7
+	},
+	
+	{
+		"copyType" : 104,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 69,
+		"maxAddNum" : 1,
+		"vipLevel" : 8
+	},
+	
+	{
+		"copyType" : 104,
+		"costNum" : 50,
+		"costUnit" : 3,
+		"id" : 70,
+		"maxAddNum" : 1,
+		"vipLevel" : 9
+	},
+	
+	{
+		"copyType" : 119,
+		"costNum" : 500,
+		"costUnit" : 3,
+		"id" : 71,
+		"maxAddNum" : 12
+	},
+	
+	{
+		"copyType" : 119,
+		"costNum" : 500,
+		"costUnit" : 3,
+		"id" : 72,
+		"maxAddNum" : 12,
+		"vipLevel" : 1
+	},
+	
+	{
+		"copyType" : 119,
+		"costNum" : 500,
+		"costUnit" : 3,
+		"id" : 73,
+		"maxAddNum" : 12,
+		"vipLevel" : 2
+	},
+	
+	{
+		"copyType" : 119,
+		"costNum" : 500,
+		"costUnit" : 3,
+		"id" : 74,
+		"maxAddNum" : 12,
+		"vipLevel" : 3
+	},
+	
+	{
+		"copyType" : 119,
+		"costNum" : 500,
+		"costUnit" : 3,
+		"id" : 75,
+		"maxAddNum" : 12,
+		"vipLevel" : 4
+	},
+	
+	{
+		"copyType" : 119,
+		"costNum" : 500,
+		"costUnit" : 3,
+		"id" : 76,
+		"maxAddNum" : 12,
+		"vipLevel" : 5
+	},
+	
+	{
+		"copyType" : 119,
+		"costNum" : 500,
+		"costUnit" : 3,
+		"id" : 77,
+		"maxAddNum" : 12,
+		"vipLevel" : 6
+	},
+	
+	{
+		"copyType" : 119,
+		"costNum" : 500,
+		"costUnit" : 3,
+		"id" : 78,
+		"maxAddNum" : 12,
+		"vipLevel" : 7
+	},
+	
+	{
+		"copyType" : 119,
+		"costNum" : 500,
+		"costUnit" : 3,
+		"id" : 79,
+		"maxAddNum" : 12,
+		"vipLevel" : 8
+	},
+	
+	{
+		"copyType" : 119,
+		"costNum" : 500,
+		"costUnit" : 3,
+		"id" : 80,
+		"maxAddNum" : 12,
+		"vipLevel" : 9
+	},
+	
+	{
+		"copyType" : 119,
+		"costNum" : 500,
+		"costUnit" : 3,
+		"id" : 81,
+		"maxAddNum" : 12,
+		"vipLevel" : 10
+	}
+]

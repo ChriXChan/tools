@@ -1,0 +1,223 @@
+
+[
+	
+	{
+		"bossCode" : 24050001,
+		"desc" : "每次攻击单个目标，造成100%伤害,攻击范围800，冷却时间2S。",
+		"icon" : "1001112",
+		"level" : 1,
+		"material" : 1250,
+		"name" : "天雷塔",
+		"removeMaterial" : 1250,
+		"type" : 1
+	},
+	
+	{
+		"bossCode" : 24050002,
+		"desc" : "每次攻击单个目标，造成300%伤害,攻击范围800，冷却时间2S。",
+		"icon" : "1001112",
+		"level" : 2,
+		"material" : 3375,
+		"name" : "天雷塔",
+		"removeMaterial" : 4625,
+		"type" : 1
+	},
+	
+	{
+		"bossCode" : 24050003,
+		"desc" : "每次攻击单个目标，造成600%伤害,攻击范围800，冷却时间2S。",
+		"icon" : "1001112",
+		"level" : 3,
+		"material" : 6250,
+		"name" : "天雷塔",
+		"removeMaterial" : 10875,
+		"type" : 1
+	},
+	
+	{
+		"bossCode" : 24050004,
+		"desc" : "每次攻击单个目标，造成900%伤害,攻击范围800，冷却时间2S。",
+		"icon" : "1001112",
+		"level" : 4,
+		"material" : 8625,
+		"name" : "天雷塔",
+		"removeMaterial" : 19500,
+		"type" : 1
+	},
+	
+	{
+		"bossCode" : 24050005,
+		"desc" : "每次攻击单个目标，造成1200%伤害,攻击范围800，冷却时间2S。",
+		"icon" : "1001112",
+		"level" : 5,
+		"material" : 10625,
+		"name" : "天雷塔",
+		"removeMaterial" : 30125,
+		"type" : 1
+	},
+	
+	{
+		"bossCode" : 24050101,
+		"desc" : "每次攻击6个目标，造成100%伤害,攻击范围800，冷却时间2S。",
+		"icon" : "1001150",
+		"level" : 1,
+		"material" : 2500,
+		"name" : "流火塔",
+		"removeMaterial" : 2500,
+		"type" : 2
+	},
+	
+	{
+		"bossCode" : 24050102,
+		"desc" : "每次攻击6个目标，造成300%伤害,攻击范围800，冷却时间2S。",
+		"icon" : "1001150",
+		"level" : 2,
+		"material" : 6750,
+		"name" : "流火塔",
+		"removeMaterial" : 9250,
+		"type" : 2
+	},
+	
+	{
+		"bossCode" : 24050103,
+		"desc" : "每次攻击6个目标，造成600%伤害,攻击范围800，冷却时间2S。",
+		"icon" : "1001150",
+		"level" : 3,
+		"material" : 12500,
+		"name" : "流火塔",
+		"removeMaterial" : 21750,
+		"type" : 2
+	},
+	
+	{
+		"bossCode" : 24050104,
+		"desc" : "每次攻击6个目标，造成900%伤害,攻击范围800，冷却时间2S。",
+		"icon" : "1001150",
+		"level" : 4,
+		"material" : 17250,
+		"name" : "流火塔",
+		"removeMaterial" : 39000,
+		"type" : 2
+	},
+	
+	{
+		"bossCode" : 24050105,
+		"desc" : "每次攻击6个目标，造成1200%伤害,攻击范围800，冷却时间2S。",
+		"icon" : "1001150",
+		"level" : 5,
+		"material" : 21250,
+		"name" : "流火塔",
+		"removeMaterial" : 60250,
+		"type" : 2
+	},
+	
+	{
+		"bossCode" : 24050201,
+		"desc" : "每次攻击6个目标，造成100%伤害,并使目标减速10%，持续时间3S。",
+		"icon" : "5201010",
+		"level" : 1,
+		"material" : 5000,
+		"name" : "禁足塔",
+		"removeMaterial" : 5000,
+		"type" : 3
+	},
+	
+	{
+		"bossCode" : 24050202,
+		"desc" : "每次攻击6个目标，造成300%伤害,并使目标减速20%，持续时间3S。",
+		"icon" : "5201010",
+		"level" : 2,
+		"material" : 13500,
+		"name" : "禁足塔",
+		"removeMaterial" : 18500,
+		"type" : 3
+	},
+	
+	{
+		"bossCode" : 24050203,
+		"desc" : "每次攻击6个目标，造成600%伤害,并使目标减速30%，持续时间3S。",
+		"icon" : "5201010",
+		"level" : 3,
+		"material" : 25000,
+		"name" : "禁足塔",
+		"removeMaterial" : 43500,
+		"type" : 3
+	},
+	
+	{
+		"bossCode" : 24050204,
+		"desc" : "每次攻击6个目标，造成900%伤害,并使目标减速40%，持续时间3S。",
+		"icon" : "5201010",
+		"level" : 4,
+		"material" : 34500,
+		"name" : "禁足塔",
+		"removeMaterial" : 78000,
+		"type" : 3
+	},
+	
+	{
+		"bossCode" : 24050205,
+		"desc" : "每次攻击6个目标，造成1200%伤害,并使目标减速50%，持续时间3S。",
+		"icon" : "5201010",
+		"level" : 5,
+		"material" : 42500,
+		"name" : "禁足塔",
+		"removeMaterial" : 120500,
+		"type" : 3
+	},
+	
+	{
+		"bossCode" : 24050301,
+		"desc" : "每次攻击单个目标，造成100%伤害,并且有10%概率使目标眩晕，持续时间3S。",
+		"icon" : "1002111",
+		"level" : 1,
+		"material" : 7500,
+		"name" : "眩晕塔",
+		"removeMaterial" : 7500,
+		"type" : 4
+	},
+	
+	{
+		"bossCode" : 24050302,
+		"desc" : "每次攻击单个目标，造成300%伤害,并且有20%概率使目标眩晕，持续时间3S。",
+		"icon" : "1002111",
+		"level" : 2,
+		"material" : 20250,
+		"name" : "眩晕塔",
+		"removeMaterial" : 27750,
+		"type" : 4
+	},
+	
+	{
+		"bossCode" : 24050303,
+		"desc" : "每次攻击单个目标，造成600%伤害,并且有30%概率使目标眩晕，持续时间3S。",
+		"icon" : "1002111",
+		"level" : 3,
+		"material" : 37500,
+		"name" : "眩晕塔",
+		"removeMaterial" : 65250,
+		"type" : 4
+	},
+	
+	{
+		"bossCode" : 24050304,
+		"desc" : "每次攻击单个目标，造成900%伤害,并且有40%概率使目标眩晕，持续时间3S。",
+		"icon" : "1002111",
+		"level" : 4,
+		"material" : 51750,
+		"name" : "眩晕塔",
+		"removeMaterial" : 117000,
+		"type" : 4
+	},
+	
+	{
+		"bossCode" : 24050305,
+		"desc" : "每次攻击单个目标，造成1200%伤害,并且有50%概率使目标眩晕，持续时间3S。",
+		"icon" : "1002111",
+		"level" : 5,
+		"material" : 63750,
+		"name" : "眩晕塔",
+		"removeMaterial" : 180750,
+		"type" : 4
+	}
+]

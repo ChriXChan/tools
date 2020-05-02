@@ -1,0 +1,17 @@
+
+[
+	
+	{
+		"cond" : "4,2;1,80#2,2",
+		"id" : 1,
+		"index" : 2,
+		"vipLevelOpen" : 2
+	},
+	
+	{
+		"cond" : "3,3#2,4",
+		"id" : 2,
+		"index" : 3,
+		"vipLevelOpen" : 4
+	}
+]

@@ -1,0 +1,822 @@
+
+[
+	
+	{
+		"bossCode" : 30080001,
+		"contribution" : 4000,
+		"dropList" : "300800057#300800127#300800197",
+		"time" : 3600
+	},
+	
+	{
+		"bossCode" : 30080001,
+		"contribution" : 4000,
+		"dropList" : "300800043#300800113#300800183",
+		"star" : 1,
+		"time" : 360
+	},
+	
+	{
+		"bossCode" : 30080001,
+		"contribution" : 4000,
+		"dropList" : "300800029#300800099#300800169",
+		"star" : 2,
+		"time" : 180
+	},
+	
+	{
+		"bossCode" : 30080001,
+		"contribution" : 4000,
+		"dropList" : "300800015#300800085#300800155",
+		"star" : 3,
+		"time" : 120
+	},
+	
+	{
+		"bossCode" : 30080001,
+		"contribution" : 4000,
+		"dropList" : "300800001#300800071#300800141",
+		"star" : 4,
+		"time" : 90
+	},
+	
+	{
+		"bossCode" : 30080002,
+		"contribution" : 4000,
+		"dropList" : "300800058#300800128#300800198",
+		"time" : 3600
+	},
+	
+	{
+		"bossCode" : 30080002,
+		"contribution" : 4000,
+		"dropList" : "300800044#300800114#300800184",
+		"star" : 1,
+		"time" : 360
+	},
+	
+	{
+		"bossCode" : 30080002,
+		"contribution" : 4000,
+		"dropList" : "300800030#300800100#300800170",
+		"star" : 2,
+		"time" : 180
+	},
+	
+	{
+		"bossCode" : 30080002,
+		"contribution" : 4000,
+		"dropList" : "300800016#300800086#300800156",
+		"star" : 3,
+		"time" : 120
+	},
+	
+	{
+		"bossCode" : 30080002,
+		"contribution" : 4000,
+		"dropList" : "300800002#300800072#300800142",
+		"star" : 4,
+		"time" : 90
+	},
+	
+	{
+		"bossCode" : 30080003,
+		"contribution" : 4000,
+		"dropList" : "300800059#300800129#300800199",
+		"time" : 3600
+	},
+	
+	{
+		"bossCode" : 30080003,
+		"contribution" : 4000,
+		"dropList" : "300800045#300800115#300800185",
+		"star" : 1,
+		"time" : 360
+	},
+	
+	{
+		"bossCode" : 30080003,
+		"contribution" : 4000,
+		"dropList" : "300800031#300800101#300800171",
+		"star" : 2,
+		"time" : 180
+	},
+	
+	{
+		"bossCode" : 30080003,
+		"contribution" : 4000,
+		"dropList" : "300800017#300800087#300800157",
+		"star" : 3,
+		"time" : 120
+	},
+	
+	{
+		"bossCode" : 30080003,
+		"contribution" : 4000,
+		"dropList" : "300800003#300800073#300800143",
+		"star" : 4,
+		"time" : 90
+	},
+	
+	{
+		"bossCode" : 30080004,
+		"contribution" : 4000,
+		"dropList" : "300800060#300800130#300800200",
+		"time" : 3600
+	},
+	
+	{
+		"bossCode" : 30080004,
+		"contribution" : 4000,
+		"dropList" : "300800046#300800116#300800186",
+		"star" : 1,
+		"time" : 360
+	},
+	
+	{
+		"bossCode" : 30080004,
+		"contribution" : 4000,
+		"dropList" : "300800032#300800102#300800172",
+		"star" : 2,
+		"time" : 180
+	},
+	
+	{
+		"bossCode" : 30080004,
+		"contribution" : 4000,
+		"dropList" : "300800018#300800088#300800158",
+		"star" : 3,
+		"time" : 120
+	},
+	
+	{
+		"bossCode" : 30080004,
+		"contribution" : 4000,
+		"dropList" : "300800004#300800074#300800144",
+		"star" : 4,
+		"time" : 90
+	},
+	
+	{
+		"bossCode" : 30080005,
+		"contribution" : 4000,
+		"dropList" : "300800061#300800131#300800201",
+		"time" : 3600
+	},
+	
+	{
+		"bossCode" : 30080005,
+		"contribution" : 4000,
+		"dropList" : "300800047#300800117#300800187",
+		"star" : 1,
+		"time" : 360
+	},
+	
+	{
+		"bossCode" : 30080005,
+		"contribution" : 4000,
+		"dropList" : "300800033#300800103#300800173",
+		"star" : 2,
+		"time" : 180
+	},
+	
+	{
+		"bossCode" : 30080005,
+		"contribution" : 4000,
+		"dropList" : "300800019#300800089#300800159",
+		"star" : 3,
+		"time" : 120
+	},
+	
+	{
+		"bossCode" : 30080005,
+		"contribution" : 4000,
+		"dropList" : "300800005#300800075#300800145",
+		"star" : 4,
+		"time" : 90
+	},
+	
+	{
+		"bossCode" : 30080006,
+		"contribution" : 4000,
+		"dropList" : "300800062#300800132#300800202",
+		"time" : 3600
+	},
+	
+	{
+		"bossCode" : 30080006,
+		"contribution" : 4000,
+		"dropList" : "300800048#300800118#300800188",
+		"star" : 1,
+		"time" : 360
+	},
+	
+	{
+		"bossCode" : 30080006,
+		"contribution" : 4000,
+		"dropList" : "300800034#300800104#300800174",
+		"star" : 2,
+		"time" : 180
+	},
+	
+	{
+		"bossCode" : 30080006,
+		"contribution" : 4000,
+		"dropList" : "300800020#300800090#300800160",
+		"star" : 3,
+		"time" : 120
+	},
+	
+	{
+		"bossCode" : 30080006,
+		"contribution" : 4000,
+		"dropList" : "300800006#300800076#300800146",
+		"star" : 4,
+		"time" : 90
+	},
+	
+	{
+		"bossCode" : 30080007,
+		"contribution" : 4000,
+		"dropList" : "300800063#300800133#300800203",
+		"time" : 3600
+	},
+	
+	{
+		"bossCode" : 30080007,
+		"contribution" : 4000,
+		"dropList" : "300800049#300800119#300800189",
+		"star" : 1,
+		"time" : 360
+	},
+	
+	{
+		"bossCode" : 30080007,
+		"contribution" : 4000,
+		"dropList" : "300800035#300800105#300800175",
+		"star" : 2,
+		"time" : 180
+	},
+	
+	{
+		"bossCode" : 30080007,
+		"contribution" : 4000,
+		"dropList" : "300800021#300800091#300800161",
+		"star" : 3,
+		"time" : 120
+	},
+	
+	{
+		"bossCode" : 30080007,
+		"contribution" : 4000,
+		"dropList" : "300800007#300800077#300800147",
+		"star" : 4,
+		"time" : 90
+	},
+	
+	{
+		"bossCode" : 30080008,
+		"contribution" : 4000,
+		"dropList" : "300800064#300800134#300800204",
+		"time" : 3600
+	},
+	
+	{
+		"bossCode" : 30080008,
+		"contribution" : 4000,
+		"dropList" : "300800050#300800120#300800190",
+		"star" : 1,
+		"time" : 360
+	},
+	
+	{
+		"bossCode" : 30080008,
+		"contribution" : 4000,
+		"dropList" : "300800036#300800106#300800176",
+		"star" : 2,
+		"time" : 180
+	},
+	
+	{
+		"bossCode" : 30080008,
+		"contribution" : 4000,
+		"dropList" : "300800022#300800092#300800162",
+		"star" : 3,
+		"time" : 120
+	},
+	
+	{
+		"bossCode" : 30080008,
+		"contribution" : 4000,
+		"dropList" : "300800008#300800078#300800148",
+		"star" : 4,
+		"time" : 90
+	},
+	
+	{
+		"bossCode" : 30080009,
+		"contribution" : 4000,
+		"dropList" : "300800065#300800135#300800205",
+		"time" : 3600
+	},
+	
+	{
+		"bossCode" : 30080009,
+		"contribution" : 4000,
+		"dropList" : "300800051#300800121#300800191",
+		"star" : 1,
+		"time" : 360
+	},
+	
+	{
+		"bossCode" : 30080009,
+		"contribution" : 4000,
+		"dropList" : "300800037#300800107#300800177",
+		"star" : 2,
+		"time" : 180
+	},
+	
+	{
+		"bossCode" : 30080009,
+		"contribution" : 4000,
+		"dropList" : "300800023#300800093#300800163",
+		"star" : 3,
+		"time" : 120
+	},
+	
+	{
+		"bossCode" : 30080009,
+		"contribution" : 4000,
+		"dropList" : "300800009#300800079#300800149",
+		"star" : 4,
+		"time" : 90
+	},
+	
+	{
+		"bossCode" : 30080010,
+		"contribution" : 4000,
+		"dropList" : "300800066#300800136#300800206",
+		"time" : 3600
+	},
+	
+	{
+		"bossCode" : 30080010,
+		"contribution" : 4000,
+		"dropList" : "300800052#300800122#300800192",
+		"star" : 1,
+		"time" : 360
+	},
+	
+	{
+		"bossCode" : 30080010,
+		"contribution" : 4000,
+		"dropList" : "300800038#300800108#300800178",
+		"star" : 2,
+		"time" : 180
+	},
+	
+	{
+		"bossCode" : 30080010,
+		"contribution" : 4000,
+		"dropList" : "300800024#300800094#300800164",
+		"star" : 3,
+		"time" : 120
+	},
+	
+	{
+		"bossCode" : 30080010,
+		"contribution" : 4000,
+		"dropList" : "300800010#300800080#300800150",
+		"star" : 4,
+		"time" : 90
+	},
+	
+	{
+		"bossCode" : 30080011,
+		"contribution" : 4000,
+		"dropList" : "300800067#300800137#300800207",
+		"time" : 3600
+	},
+	
+	{
+		"bossCode" : 30080011,
+		"contribution" : 4000,
+		"dropList" : "300800053#300800123#300800193",
+		"star" : 1,
+		"time" : 360
+	},
+	
+	{
+		"bossCode" : 30080011,
+		"contribution" : 4000,
+		"dropList" : "300800039#300800109#300800179",
+		"star" : 2,
+		"time" : 180
+	},
+	
+	{
+		"bossCode" : 30080011,
+		"contribution" : 4000,
+		"dropList" : "300800025#300800095#300800165",
+		"star" : 3,
+		"time" : 120
+	},
+	
+	{
+		"bossCode" : 30080011,
+		"contribution" : 4000,
+		"dropList" : "300800011#300800081#300800151",
+		"star" : 4,
+		"time" : 90
+	},
+	
+	{
+		"bossCode" : 30080012,
+		"contribution" : 4000,
+		"dropList" : "300800068#300800138#300800208",
+		"time" : 3600
+	},
+	
+	{
+		"bossCode" : 30080012,
+		"contribution" : 4000,
+		"dropList" : "300800054#300800124#300800194",
+		"star" : 1,
+		"time" : 360
+	},
+	
+	{
+		"bossCode" : 30080012,
+		"contribution" : 4000,
+		"dropList" : "300800040#300800110#300800180",
+		"star" : 2,
+		"time" : 180
+	},
+	
+	{
+		"bossCode" : 30080012,
+		"contribution" : 4000,
+		"dropList" : "300800026#300800096#300800166",
+		"star" : 3,
+		"time" : 120
+	},
+	
+	{
+		"bossCode" : 30080012,
+		"contribution" : 4000,
+		"dropList" : "300800012#300800082#300800152",
+		"star" : 4,
+		"time" : 90
+	},
+	
+	{
+		"bossCode" : 30080013,
+		"contribution" : 4000,
+		"dropList" : "300800069#300800139#300800209",
+		"time" : 3600
+	},
+	
+	{
+		"bossCode" : 30080013,
+		"contribution" : 4000,
+		"dropList" : "300800055#300800125#300800195",
+		"star" : 1,
+		"time" : 360
+	},
+	
+	{
+		"bossCode" : 30080013,
+		"contribution" : 4000,
+		"dropList" : "300800041#300800111#300800181",
+		"star" : 2,
+		"time" : 180
+	},
+	
+	{
+		"bossCode" : 30080013,
+		"contribution" : 4000,
+		"dropList" : "300800027#300800097#300800167",
+		"star" : 3,
+		"time" : 120
+	},
+	
+	{
+		"bossCode" : 30080013,
+		"contribution" : 4000,
+		"dropList" : "300800013#300800083#300800153",
+		"star" : 4,
+		"time" : 90
+	},
+	
+	{
+		"bossCode" : 30080014,
+		"contribution" : 4000,
+		"dropList" : "300800070#300800140#300800210",
+		"time" : 3600
+	},
+	
+	{
+		"bossCode" : 30080014,
+		"contribution" : 4000,
+		"dropList" : "300800056#300800126#300800196",
+		"star" : 1,
+		"time" : 360
+	},
+	
+	{
+		"bossCode" : 30080014,
+		"contribution" : 4000,
+		"dropList" : "300800042#300800112#300800182",
+		"star" : 2,
+		"time" : 180
+	},
+	
+	{
+		"bossCode" : 30080014,
+		"contribution" : 4000,
+		"dropList" : "300800028#300800098#300800168",
+		"star" : 3,
+		"time" : 120
+	},
+	
+	{
+		"bossCode" : 30080014,
+		"contribution" : 4000,
+		"dropList" : "300800014#300800084#300800154",
+		"star" : 4,
+		"time" : 90
+	},
+	
+	{
+		"bossCode" : 30080015,
+		"contribution" : 4000,
+		"dropList" : "300800253#300800268#300800283",
+		"time" : 3600
+	},
+	
+	{
+		"bossCode" : 30080015,
+		"contribution" : 4000,
+		"dropList" : "300800250#300800265#300800280",
+		"star" : 1,
+		"time" : 360
+	},
+	
+	{
+		"bossCode" : 30080015,
+		"contribution" : 4000,
+		"dropList" : "300800247#300800262#300800277",
+		"star" : 2,
+		"time" : 180
+	},
+	
+	{
+		"bossCode" : 30080015,
+		"contribution" : 4000,
+		"dropList" : "300800244#300800259#300800274",
+		"star" : 3,
+		"time" : 120
+	},
+	
+	{
+		"bossCode" : 30080015,
+		"contribution" : 4000,
+		"dropList" : "300800241#300800256#300800271",
+		"star" : 4,
+		"time" : 90
+	},
+	
+	{
+		"bossCode" : 30080016,
+		"contribution" : 4000,
+		"dropList" : "300800253#300800268#300800283",
+		"time" : 3600
+	},
+	
+	{
+		"bossCode" : 30080016,
+		"contribution" : 4000,
+		"dropList" : "300800250#300800265#300800280",
+		"star" : 1,
+		"time" : 360
+	},
+	
+	{
+		"bossCode" : 30080016,
+		"contribution" : 4000,
+		"dropList" : "300800247#300800262#300800277",
+		"star" : 2,
+		"time" : 180
+	},
+	
+	{
+		"bossCode" : 30080016,
+		"contribution" : 4000,
+		"dropList" : "300800244#300800259#300800274",
+		"star" : 3,
+		"time" : 120
+	},
+	
+	{
+		"bossCode" : 30080016,
+		"contribution" : 4000,
+		"dropList" : "300800241#300800256#300800271",
+		"star" : 4,
+		"time" : 90
+	},
+	
+	{
+		"bossCode" : 30080017,
+		"contribution" : 4000,
+		"dropList" : "300800254#300800269#300800284",
+		"time" : 3600
+	},
+	
+	{
+		"bossCode" : 30080017,
+		"contribution" : 4000,
+		"dropList" : "300800251#300800266#300800281",
+		"star" : 1,
+		"time" : 360
+	},
+	
+	{
+		"bossCode" : 30080017,
+		"contribution" : 4000,
+		"dropList" : "300800248#300800263#300800278",
+		"star" : 2,
+		"time" : 180
+	},
+	
+	{
+		"bossCode" : 30080017,
+		"contribution" : 4000,
+		"dropList" : "300800245#300800260#300800275",
+		"star" : 3,
+		"time" : 120
+	},
+	
+	{
+		"bossCode" : 30080017,
+		"contribution" : 4000,
+		"dropList" : "300800242#300800257#300800272",
+		"star" : 4,
+		"time" : 90
+	},
+	
+	{
+		"bossCode" : 30080018,
+		"contribution" : 4000,
+		"dropList" : "300800254#300800269#300800284",
+		"time" : 3600
+	},
+	
+	{
+		"bossCode" : 30080018,
+		"contribution" : 4000,
+		"dropList" : "300800251#300800266#300800281",
+		"star" : 1,
+		"time" : 360
+	},
+	
+	{
+		"bossCode" : 30080018,
+		"contribution" : 4000,
+		"dropList" : "300800248#300800263#300800278",
+		"star" : 2,
+		"time" : 180
+	},
+	
+	{
+		"bossCode" : 30080018,
+		"contribution" : 4000,
+		"dropList" : "300800245#300800260#300800275",
+		"star" : 3,
+		"time" : 120
+	},
+	
+	{
+		"bossCode" : 30080018,
+		"contribution" : 4000,
+		"dropList" : "300800242#300800257#300800272",
+		"star" : 4,
+		"time" : 90
+	},
+	
+	{
+		"bossCode" : 30080019,
+		"contribution" : 4000,
+		"dropList" : "300800255#300800270#300800285",
+		"time" : 3600
+	},
+	
+	{
+		"bossCode" : 30080019,
+		"contribution" : 4000,
+		"dropList" : "300800252#300800267#300800282",
+		"star" : 1,
+		"time" : 360
+	},
+	
+	{
+		"bossCode" : 30080019,
+		"contribution" : 4000,
+		"dropList" : "300800249#300800264#300800279",
+		"star" : 2,
+		"time" : 180
+	},
+	
+	{
+		"bossCode" : 30080019,
+		"contribution" : 4000,
+		"dropList" : "300800246#300800261#300800276",
+		"star" : 3,
+		"time" : 120
+	},
+	
+	{
+		"bossCode" : 30080019,
+		"contribution" : 4000,
+		"dropList" : "300800243#300800258#300800273",
+		"star" : 4,
+		"time" : 90
+	},
+	
+	{
+		"bossCode" : 30080020,
+		"contribution" : 4000,
+		"dropList" : "300800255#300800270#300800285",
+		"time" : 3600
+	},
+	
+	{
+		"bossCode" : 30080020,
+		"contribution" : 4000,
+		"dropList" : "300800252#300800267#300800282",
+		"star" : 1,
+		"time" : 360
+	},
+	
+	{
+		"bossCode" : 30080020,
+		"contribution" : 4000,
+		"dropList" : "300800249#300800264#300800279",
+		"star" : 2,
+		"time" : 180
+	},
+	
+	{
+		"bossCode" : 30080020,
+		"contribution" : 4000,
+		"dropList" : "300800246#300800261#300800276",
+		"star" : 3,
+		"time" : 120
+	},
+	
+	{
+		"bossCode" : 30080020,
+		"contribution" : 4000,
+		"dropList" : "300800243#300800258#300800273",
+		"star" : 4,
+		"time" : 90
+	},
+	
+	{
+		"bossCode" : 30080021,
+		"contribution" : 4000,
+		"dropList" : "300800255#300800270#300800285",
+		"time" : 3600
+	},
+	
+	{
+		"bossCode" : 30080021,
+		"contribution" : 4000,
+		"dropList" : "300800252#300800267#300800282",
+		"star" : 1,
+		"time" : 360
+	},
+	
+	{
+		"bossCode" : 30080021,
+		"contribution" : 4000,
+		"dropList" : "300800249#300800264#300800279",
+		"star" : 2,
+		"time" : 180
+	},
+	
+	{
+		"bossCode" : 30080021,
+		"contribution" : 4000,
+		"dropList" : "300800246#300800261#300800276",
+		"star" : 3,
+		"time" : 120
+	},
+	
+	{
+		"bossCode" : 30080021,
+		"contribution" : 4000,
+		"dropList" : "300800243#300800258#300800273",
+		"star" : 4,
+		"time" : 90
+	}
+]

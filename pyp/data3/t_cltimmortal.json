@@ -1,0 +1,31 @@
+
+[
+	
+	{
+		"modelid" : 3022,
+		"name" : "青冥神兵",
+		"skillId" : 101300,
+		"subtype" : 1
+	},
+	
+	{
+		"modelid" : 3020,
+		"name" : "紫炎神兵",
+		"skillId" : 101310,
+		"subtype" : 2
+	},
+	
+	{
+		"modelid" : 3011,
+		"name" : "轩辕神兵",
+		"skillId" : 101320,
+		"subtype" : 3
+	},
+	
+	{
+		"modelid" : 3021,
+		"name" : "八曜神兵",
+		"skillId" : 101330,
+		"subtype" : 4
+	}
+]

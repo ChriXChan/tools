@@ -1,0 +1,86 @@
+
+[
+	
+	{
+		"appearType" : 1,
+		"cutsceneId" : "sto_10001_0001",
+		"sceneId" : 10001,
+		"showSkip" : 1,
+		"storyId" : 1,
+		"storyType" : 1,
+		"taskId" : 110001,
+		"taskState" : 2,
+		"triggerCnt" : 1,
+		"triggerId" : "10001_2",
+		"uiCode" : 116001,
+		"uiPosX" : 30,
+		"uiPosY" : 50,
+		"uiType" : 1
+	},
+	
+	{
+		"appearType" : 1,
+		"cutsceneId" : "sto_10001_0003",
+		"sceneId" : 10001,
+		"showSkip" : 1,
+		"storyId" : 2,
+		"storyType" : 1,
+		"taskId" : 110009,
+		"taskState" : 2,
+		"triggerCnt" : 1,
+		"triggerId" : "10001_3",
+		"uiCode" : 116002,
+		"uiPosX" : 30,
+		"uiPosY" : 50,
+		"uiType" : 1
+	},
+	
+	{
+		"chapterContent" : "3_content",
+		"chapterName" : "3_name",
+		"cutsceneId" : "0",
+		"sceneId" : 10001,
+		"showSkip" : 1,
+		"storyId" : 3,
+		"storyType" : 2,
+		"taskId" : 110005,
+		"taskState" : 2,
+		"triggerCnt" : 1,
+		"triggerId" : "0"
+	},
+	
+	{
+		"cutsceneId" : "sto_10001_0005",
+		"jumpPointId" : 2,
+		"sceneId" : 10001,
+		"showSkip" : 1,
+		"storyId" : 4,
+		"storyType" : 1,
+		"subJumpPointId" : 1,
+		"triggerCnt" : -1,
+		"triggerId" : "0"
+	},
+	
+	{
+		"cutsceneId" : "sto_10001_0006",
+		"jumpPointId" : 8,
+		"sceneId" : 10001,
+		"showSkip" : 1,
+		"storyId" : 5,
+		"storyType" : 1,
+		"subJumpPointId" : 2,
+		"triggerCnt" : -1,
+		"triggerId" : "0"
+	},
+	
+	{
+		"cutsceneId" : "sto_10003_0000",
+		"initScene" : 1,
+		"sceneId" : 10003,
+		"showSkip" : 1,
+		"storyId" : 6,
+		"storyType" : 1,
+		"triggerCnt" : 1,
+		"triggerId" : "0"
+	}
+]

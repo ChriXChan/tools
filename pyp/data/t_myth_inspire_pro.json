@@ -1,0 +1,32 @@
+
+[
+	
+	{
+		"probability" : 30
+	},
+	
+	{
+		"hurtAdd" : 1,
+		"probability" : 30
+	},
+	
+	{
+		"hurtAdd" : 2,
+		"probability" : 20
+	},
+	
+	{
+		"hurtAdd" : 3,
+		"probability" : 12
+	},
+	
+	{
+		"hurtAdd" : 4,
+		"probability" : 5
+	},
+	
+	{
+		"hurtAdd" : 5,
+		"probability" : 3
+	}
+]

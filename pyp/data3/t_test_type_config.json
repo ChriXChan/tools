@@ -1,0 +1,1615 @@
+
+[
+	
+	{
+		"type" : 1,
+		"typeAuthor" : "温志华",
+		"typeName" : "加钱",
+		"typeParamDesc" : "参数1：货币类型，参数2：数量"
+	},
+	
+	{
+		"type" : 2,
+		"typeAuthor" : "梁仲英",
+		"typeName" : "充值（常规）",
+		"typeParamDesc" : "参数1：ID（范围1-22；11：元宝月卡；12：特权月卡；13-22：IOS）"
+	},
+	
+	{
+		"type" : 3,
+		"typeAuthor" : "温志华",
+		"typeName" : "外形激活",
+		"typeParamDesc" : "参数1：外形（0-激活所有外形），参数2：角色索引（默认第一个角色）"
+	},
+	
+	{
+		"type" : 4,
+		"typeAuthor" : "温志华",
+		"typeName" : "外形进阶",
+		"typeParamDesc" : "参数1：外形，参数2：物品code（坐骑、宠物不需要填）"
+	},
+	
+	{
+		"type" : 5,
+		"typeAuthor" : "温志华",
+		"typeName" : "提交功能开启任务",
+		"typeParamDesc" : "参数1：（111-所有可开启，任务code-开启某个）（需要重登）"
+	},
+	
+	{
+		"type" : 6,
+		"typeAuthor" : "温志华",
+		"typeName" : "穿外形装备",
+		"typeParamDesc" : "参数1：外形，参数2：外形装备小类"
+	},
+	
+	{
+		"type" : 7,
+		"typeAuthor" : "温志华",
+		"typeName" : "化形激活-进阶",
+		"typeParamDesc" : "参数1：外形，参数2：化形"
+	},
+	
+	{
+		"type" : 8,
+		"typeAuthor" : "温志华",
+		"typeName" : "改变使用的模型",
+		"typeParamDesc" : "参数1：外形，参数2：外形等级，参数3：化形（参数2值大于0时，优先计算参数2）"
+	},
+	
+	{
+		"type" : 9,
+		"typeAuthor" : "温志华",
+		"typeName" : "外形屏蔽",
+		"typeParamDesc" : "参数1：外形，参数2：是否屏蔽（大于0代表屏蔽）"
+	},
+	
+	{
+		"type" : 10,
+		"typeAuthor" : "陈仰新",
+		"typeName" : "添加一套装备",
+		"typeParamDesc" : "参数1：阶数,参数2：颜色,参数3：必出多少星"
+	},
+	
+	{
+		"type" : 11,
+		"typeAuthor" : "陈仰新",
+		"typeName" : "添加一类物品",
+		"typeParamDesc" : "参数1:物品大类(道具4,材料6) 2:小类(时装196称号89幻形224,化形7) 3:类型数量 4:数量"
+	},
+	
+	{
+		"type" : 12,
+		"typeAuthor" : "陈仰新",
+		"typeName" : "领取特殊活动奖励",
+		"typeParamDesc" : "参数1:活动code 参数2:下标"
+	},
+	
+	{
+		"type" : 13,
+		"typeAuthor" : "温志华",
+		"typeName" : "外形修改等级",
+		"typeParamDesc" : "参数1：外形，参数2：等级（默认为1级），参数3：角色索引（默认第一个角色）"
+	},
+	
+	{
+		"type" : 14,
+		"typeAuthor" : "温志华",
+		"typeName" : "外形升级技能",
+		"typeParamDesc" : "参数1：外形，参数2：当前技能ID"
+	},
+	
+	{
+		"type" : 15,
+		"typeAuthor" : "温志华",
+		"typeName" : "宝石镶嵌",
+		"typeParamDesc" : "参数1：装备类型，参数2：孔号，参数3：宝石道具code"
+	},
+	
+	{
+		"type" : 16,
+		"typeAuthor" : "温志华",
+		"typeName" : "宝石卸载",
+		"typeParamDesc" : "参数1：装备类型，参数2：孔号"
+	},
+	
+	{
+		"type" : 19,
+		"typeAuthor" : "温志华",
+		"typeName" : "清空或填满背包",
+		"typeParamDesc" : "参数1：111（清空），222（填满）"
+	},
+	
+	{
+		"type" : 21,
+		"typeAuthor" : "温志华",
+		"typeName" : "发邮件",
+		"typeParamDesc" : "参数1：邮件数量（最大40），参数2：（1-金钱和物品，2-金钱，3-物品，其他-没附件）"
+	},
+	
+	{
+		"type" : 22,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "刷怪",
+		"typeParamDesc" : "参数1：怪物code，参数2：数量"
+	},
+	
+	{
+		"type" : 26,
+		"typeAuthor" : "温志华",
+		"typeName" : "发一条传闻",
+		"typeParamDesc" : "参数1：广播显示位置（0-走马灯，1-中间提示）"
+	},
+	
+	{
+		"type" : 30,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "加BUFFER",
+		"typeParamDesc" : "参数1：bufferId"
+	},
+	
+	{
+		"type" : 31,
+		"typeAuthor" : "陈仰新",
+		"typeName" : "修改合服天数",
+		"typeParamDesc" : "参数1：今天的合服天数（填0时只显示当前合服天数）"
+	},
+	
+	{
+		"type" : 32,
+		"typeAuthor" : "温志华",
+		"typeName" : "修改开服天数",
+		"typeParamDesc" : "参数1：今天的开服天数（填0时只显示当前开服天数）"
+	},
+	
+	{
+		"type" : 33,
+		"typeAuthor" : "温志华",
+		"typeName" : "清除副本今日次数",
+		"typeParamDesc" : "参数1：副本code"
+	},
+	
+	{
+		"type" : 34,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "重置爬塔副本",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 35,
+		"typeAuthor" : "温志华",
+		"typeName" : "铜钱副本目标奖励",
+		"typeParamDesc" : "参数1：波数"
+	},
+	
+	{
+		"type" : 36,
+		"typeAuthor" : "温志华",
+		"typeName" : "生命百分比",
+		"typeParamDesc" : "参数1：百分比值（1-100）"
+	},
+	
+	{
+		"type" : 37,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "个人竞技排名奖励",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 40,
+		"typeAuthor" : "温志华",
+		"typeName" : "进入世界boss副本",
+		"typeParamDesc" : "参数1：副本code"
+	},
+	
+	{
+		"type" : 41,
+		"typeAuthor" : "温志华",
+		"typeName" : "世界boss存活信息",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 42,
+		"typeAuthor" : "温志华",
+		"typeName" : "获取场景boss信息",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 43,
+		"typeAuthor" : "温志华",
+		"typeName" : "进入场景boss",
+		"typeParamDesc" : "参数1：副本code"
+	},
+	
+	{
+		"type" : 44,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "三界争霸开启",
+		"typeParamDesc" : "参数1：多久后开启（秒） 参数2：活动时间（秒）"
+	},
+	
+	{
+		"type" : 45,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "三界争霸关闭",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 48,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "青云之巅开启",
+		"typeParamDesc" : "参数1：活动时间（秒）"
+	},
+	
+	{
+		"type" : 49,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "青云之巅关闭",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 52,
+		"typeAuthor" : "温志华",
+		"typeName" : "修改vip等级",
+		"typeParamDesc" : "参数1：vip等级，参数2：持续时间（分钟）"
+	},
+	
+	{
+		"type" : 53,
+		"typeAuthor" : "温志华",
+		"typeName" : "修改vip经验",
+		"typeParamDesc" : "参数1：vip经验"
+	},
+	
+	{
+		"type" : 54,
+		"typeAuthor" : "温志华",
+		"typeName" : "更新排行榜",
+		"typeParamDesc" : "参数1：是否跨服"
+	},
+	
+	{
+		"type" : 55,
+		"typeAuthor" : "温志华",
+		"typeName" : "佩戴称号",
+		"typeParamDesc" : "参数1：角色index，参数2：称号code"
+	},
+	
+	{
+		"type" : 56,
+		"typeAuthor" : "温志华",
+		"typeName" : "卸下称号"
+	},
+	
+	{
+		"type" : 57,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "答题副本开启",
+		"typeParamDesc" : "参数1：多久后开启（秒） 参数2：题目数量"
+	},
+	
+	{
+		"type" : 58,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "答题副本关闭",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 60,
+		"typeAuthor" : "温志华",
+		"typeName" : "剑池增加经验",
+		"typeParamDesc" : "参数1：经验"
+	},
+	
+	{
+		"type" : 61,
+		"typeAuthor" : "温志华",
+		"typeName" : "剑池清空活跃",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 62,
+		"typeAuthor" : "温志华",
+		"typeName" : "剑池领取活跃",
+		"typeParamDesc" : "参数1：idx（对应配置表t_mg_sword_pool_activity）"
+	},
+	
+	{
+		"type" : 63,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "守卫青云开启",
+		"typeParamDesc" : "参数1：活动时间（秒）"
+	},
+	
+	{
+		"type" : 64,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "守卫青云关闭",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 65,
+		"typeAuthor" : "温志华",
+		"typeName" : "签到日奖励",
+		"typeParamDesc" : "参数1：天，参数2：是否补签（1-补签）"
+	},
+	
+	{
+		"type" : 66,
+		"typeAuthor" : "温志华",
+		"typeName" : "签到累计奖励",
+		"typeParamDesc" : "参数1：累计天数"
+	},
+	
+	{
+		"type" : 67,
+		"typeAuthor" : "温志华",
+		"typeName" : "等级奖励",
+		"typeParamDesc" : "参数1：等级"
+	},
+	
+	{
+		"type" : 68,
+		"typeAuthor" : "温志华",
+		"typeName" : "在线奖励",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 69,
+		"typeAuthor" : "温志华",
+		"typeName" : "修改在线时间",
+		"typeParamDesc" : "参数1：当天在线时间(秒) 参数2:累计在线时间(秒)"
+	},
+	
+	{
+		"type" : 70,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "夺宝活动开启",
+		"typeParamDesc" : "参数1：活动持续时间，参数2：刷新间隔，参数3：刷怪地图，参数4：环数"
+	},
+	
+	{
+		"type" : 71,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "夺宝活动关闭",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 72,
+		"typeAuthor" : "温志华",
+		"typeName" : "修改在线天数",
+		"typeParamDesc" : "参数1：天数"
+	},
+	
+	{
+		"type" : 73,
+		"typeAuthor" : "温志华",
+		"typeName" : "签到测试隔月",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 74,
+		"typeAuthor" : "温志华",
+		"typeName" : "七天登录奖励",
+		"typeParamDesc" : "参数1：第x天"
+	},
+	
+	{
+		"type" : 75,
+		"typeAuthor" : "温志华",
+		"typeName" : "领取离线经验",
+		"typeParamDesc" : "参数1：倍数（1，2，3）"
+	},
+	
+	{
+		"type" : 76,
+		"typeAuthor" : "温志华",
+		"typeName" : "离线经验时间",
+		"typeParamDesc" : "参数1：秒数"
+	},
+	
+	{
+		"type" : 77,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "巅峰竞技开启",
+		"typeParamDesc" : "参数1：多久后开启（秒） 参数2：活动时间（秒）"
+	},
+	
+	{
+		"type" : 78,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "巅峰竞技关闭",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 81,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "重置仙盟争霸归属",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 82,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "巅峰竞技积分功勋",
+		"typeParamDesc" : "参数1：积分，参数2：功勋，参数3：赛季参与场次"
+	},
+	
+	{
+		"type" : 83,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "巅峰竞技赛季奖励",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 85,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "离线挂机时间",
+		"typeParamDesc" : "参数1：剩余分钟，参数2：剩余秒数"
+	},
+	
+	{
+		"type" : 86,
+		"typeAuthor" : "温志华",
+		"typeName" : "物品合成",
+		"typeParamDesc" : "参数1：合成方案code"
+	},
+	
+	{
+		"type" : 87,
+		"typeAuthor" : "温志华",
+		"typeName" : "扩展背包容量",
+		"typeParamDesc" : "参数1：格子数（默认1格）"
+	},
+	
+	{
+		"type" : 91,
+		"typeAuthor" : "温志华",
+		"typeName" : "获取游戏boss信息",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 92,
+		"typeAuthor" : "梁仲英",
+		"typeName" : "修改境界等级",
+		"typeParamDesc" : "参数1：境界等级"
+	},
+	
+	{
+		"type" : 93,
+		"typeAuthor" : "梁仲英",
+		"typeName" : "重置副本次数",
+		"typeParamDesc" : "参数1：副本type"
+	},
+	
+	{
+		"type" : 94,
+		"typeAuthor" : "温志华",
+		"typeName" : "精灵续费",
+		"typeParamDesc" : "参数1：商店编号，参数2：物品编号"
+	},
+	
+	{
+		"type" : 95,
+		"typeAuthor" : "温志华",
+		"typeName" : "守护精灵过期时间",
+		"typeParamDesc" : "参数1：剩余秒数"
+	},
+	
+	{
+		"type" : 96,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "增加红名值",
+		"typeParamDesc" : "参数1：增加的红名值"
+	},
+	
+	{
+		"type" : 97,
+		"typeAuthor" : "温志华",
+		"typeName" : "测试掉落ID",
+		"typeParamDesc" : "参数1：掉落ID，参数2：次数（默认1）"
+	},
+	
+	{
+		"type" : 98,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "设置疲劳值",
+		"typeParamDesc" : "参数1：疲劳值"
+	},
+	
+	{
+		"type" : 99,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "查看地型",
+		"typeParamDesc" : "参数1：地图ID，参数2：x坐标，参数3：y坐标，参数4：范围"
+	},
+	
+	{
+		"type" : 100,
+		"typeAuthor" : "温志华",
+		"typeName" : "仙盟仓库兑换物品",
+		"typeParamDesc" : "参数1：数量"
+	},
+	
+	{
+		"type" : 101,
+		"typeAuthor" : "温志华",
+		"typeName" : "测试随机数",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 106,
+		"typeAuthor" : "温志华",
+		"typeName" : "清除身上装备锻造",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 107,
+		"typeAuthor" : "温志华",
+		"typeName" : "仙盟仓库捐装备",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 109,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "查看实体坐标",
+		"typeParamDesc" : "参数1：范围(默认1格)，参数2：实体类型(1:玩家 2:怪物-默认 3:宠物)"
+	},
+	
+	{
+		"type" : 110,
+		"typeAuthor" : "温志华",
+		"typeName" : "boss(X万次)耗时",
+		"typeParamDesc" : "参数1：怪物code，参数2：x万次（1-100，默认20）"
+	},
+	
+	{
+		"type" : 111,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "查看DPS/生存力",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 112,
+		"typeAuthor" : "温志华",
+		"typeName" : "排行活动奖励",
+		"typeParamDesc" : "参数1：排行榜类型"
+	},
+	
+	{
+		"type" : 113,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "取消伤害浮动",
+		"typeParamDesc" : "参数1：是否取消 （1：取消 0：不取消）"
+	},
+	
+	{
+		"type" : 114,
+		"typeAuthor" : "温志华",
+		"typeName" : "热更活动",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 115,
+		"typeAuthor" : "温志华",
+		"typeName" : "热更配置",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 116,
+		"typeAuthor" : "梁仲英",
+		"typeName" : "重置集字奖励数量",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 117,
+		"typeAuthor" : "梁仲英",
+		"typeName" : "重置等级奖励数量",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 118,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "取消定时回血",
+		"typeParamDesc" : "参数1：是否取消 （1：取消 0：不取消）"
+	},
+	
+	{
+		"type" : 119,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "添加离线挂机实体",
+		"typeParamDesc" : "参数1：添加数量"
+	},
+	
+	{
+		"type" : 120,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "转职",
+		"typeParamDesc" : "参数1：转数（-1：不转职，只显示当前信息），参数2：转职章节（可不填）"
+	},
+	
+	{
+		"type" : 121,
+		"typeAuthor" : "温志华",
+		"typeName" : "交杀怪掉落任务",
+		"typeParamDesc" : "参数1：任务code"
+	},
+	
+	{
+		"type" : 122,
+		"typeAuthor" : "温志华",
+		"typeName" : "推送游戏信息",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 123,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "宝藏寻宝",
+		"typeParamDesc" : "参数1：宝藏类型，参数2：次数"
+	},
+	
+	{
+		"type" : 124,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "重置寻宝控制次数",
+		"typeParamDesc" : "参数1：宝藏类型"
+	},
+	
+	{
+		"type" : 125,
+		"typeAuthor" : "温志华",
+		"typeName" : "删除转职任务",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 126,
+		"typeAuthor" : "梁仲英",
+		"typeName" : "设置免费祈福",
+		"typeParamDesc" : "参数1：下次免费时间（分钟）"
+	},
+	
+	{
+		"type" : 128,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "重置怪物/刷怪",
+		"typeParamDesc" : "参数1：地图（-3：所有地图 -2：所有非副本地图 -1：所有副本地图 0：当前地图）"
+	},
+	
+	{
+		"type" : 129,
+		"typeAuthor" : "梁仲英",
+		"typeName" : "七日礼包",
+		"typeParamDesc" : "参数1：操作（1：清除不可领状态 2：更改剩余次数），参数2：剩余次数"
+	},
+	
+	{
+		"type" : 130,
+		"typeAuthor" : "温志华",
+		"typeName" : "解锁符文孔",
+		"typeParamDesc" : "参数1：孔位（1-8）"
+	},
+	
+	{
+		"type" : 131,
+		"typeAuthor" : "温志华",
+		"typeName" : "装备符文",
+		"typeParamDesc" : "参数1：孔位，参数2：符文类型（0-随机）"
+	},
+	
+	{
+		"type" : 132,
+		"typeAuthor" : "温志华",
+		"typeName" : "升级符文",
+		"typeParamDesc" : "参数1：孔位"
+	},
+	
+	{
+		"type" : 133,
+		"typeAuthor" : "温志华",
+		"typeName" : "分解符文",
+		"typeParamDesc" : "参数1：符文个数（0-分解所有）"
+	},
+	
+	{
+		"type" : 134,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "符文塔通关层数",
+		"typeParamDesc" : "参数1：层数"
+	},
+	
+	{
+		"type" : 135,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "符文寻宝",
+		"typeParamDesc" : "参数1：寻宝次数（1或10），参数2：是否免费寻宝"
+	},
+	
+	{
+		"type" : 136,
+		"typeAuthor" : "梁仲英",
+		"typeName" : "开启每日累冲",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 137,
+		"typeAuthor" : "梁仲英",
+		"typeName" : "修改累冲累积天数",
+		"typeParamDesc" : "参数1：天数"
+	},
+	
+	{
+		"type" : 138,
+		"typeAuthor" : "梁仲英",
+		"typeName" : "月卡投资奖励天数",
+		"typeParamDesc" : "参数1：ID（2-31）"
+	},
+	
+	{
+		"type" : 139,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "符文塔每日邮件奖励",
+		"typeParamDesc" : "参数1：天数"
+	},
+	
+	{
+		"type" : 140,
+		"typeAuthor" : "梁仲英",
+		"typeName" : "重置累积累冲奖励",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 141,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "减少免费符文寻宝冷却时间",
+		"typeParamDesc" : "参数1：小时，参数2：分钟"
+	},
+	
+	{
+		"type" : 142,
+		"typeAuthor" : "温志华",
+		"typeName" : "仙盟任务次数",
+		"typeParamDesc" : "参数1：次数（0-69）"
+	},
+	
+	{
+		"type" : 143,
+		"typeAuthor" : "温志华",
+		"typeName" : "一键完成3转",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 144,
+		"typeAuthor" : "温志华",
+		"typeName" : "强化",
+		"typeParamDesc" : "参数1：装备小类，参数2：强化等级"
+	},
+	
+	{
+		"type" : 145,
+		"typeAuthor" : "温志华",
+		"typeName" : "全身强化",
+		"typeParamDesc" : "参数1：强化等级"
+	},
+	
+	{
+		"type" : 146,
+		"typeAuthor" : "温志华",
+		"typeName" : "仙盟任务日期",
+		"typeParamDesc" : "参数1：距离今天X天以前（0-10）（需要重登）"
+	},
+	
+	{
+		"type" : 147,
+		"typeAuthor" : "温志华",
+		"typeName" : "杀怪掉落-装备",
+		"typeParamDesc" : "参数1：怪物code，参数2：次数，参数3：是否副本（0或1），参数4：加掉率（万分比）"
+	},
+	
+	{
+		"type" : 148,
+		"typeAuthor" : "温志华",
+		"typeName" : "武器2星极品",
+		"typeParamDesc" : "参数1：次数，参数2：（颜色 4-橙，5-红，默认-橙色）"
+	},
+	
+	{
+		"type" : 149,
+		"typeAuthor" : "梁仲英",
+		"typeName" : "充值（内部）",
+		"typeParamDesc" : "参数1：类型（1：商品，2：元宝），参数2：（商品：配置ID  元宝：数量）"
+	},
+	
+	{
+		"type" : 150,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "离线挂机测试",
+		"typeParamDesc" : "参数1：是否开启（1：开启，0：关闭） （下线一分钟后上线，获得20小时挂机效果）"
+	},
+	
+	{
+		"type" : 151,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "清空或学满技能",
+		"typeParamDesc" : "参数1：操作（1：学满，0：清空） 注：清空后需要重新登陆"
+	},
+	
+	{
+		"type" : 152,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "仙盟宴会开启",
+		"typeParamDesc" : "参数1：活动时间（秒），参数2：多久后开启"
+	},
+	
+	{
+		"type" : 153,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "仙盟宴会关闭",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 154,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "显示地图信息",
+		"typeParamDesc" : "参数1：地图ID（不填则为当前地图）"
+	},
+	
+	{
+		"type" : 155,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "仙盟兽神上交",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 156,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "仙盟兽神开启挑战",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 157,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "仙盟兽神进入副本",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 158,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "仙盟兽神重置副本次数",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 159,
+		"typeAuthor" : "梁仲英",
+		"typeName" : "杀怪掉落-非装备",
+		"typeParamDesc" : "参数1：怪物code，参数2：次数，参数3：是否副本（0或1），参数4：加掉率（万分比）"
+	},
+	
+	{
+		"type" : 160,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "显示接口调用",
+		"typeParamDesc" : "参数1：是否显示（1：显示 0：不显示），参数2：不屏蔽移动战斗接口（1：不屏蔽）"
+	},
+	
+	{
+		"type" : 161,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "仙盟争霸开启",
+		"typeParamDesc" : "参数1：第几场，参数2：多久后开启（秒），参数3：活动时间（秒）"
+	},
+	
+	{
+		"type" : 162,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "仙盟争霸关闭",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 163,
+		"typeAuthor" : "梁仲英",
+		"typeName" : "仙盟红包状态",
+		"typeParamDesc" : "参数1：Index，参数2：分钟（未发则改自动发放时间，已发则改失效时间）"
+	},
+	
+	{
+		"type" : 164,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "仙盟争霸比赛名单",
+		"typeParamDesc" : "参数1：第几阶段（0：普通 1：第一场比赛 2：第二场比赛）"
+	},
+	
+	{
+		"type" : 165,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "仙盟争霸王者圣殿",
+		"typeParamDesc" : "参数1：连胜次数，参数2：终结连胜次数，参数3：本仙盟是主宰（填1时修改主宰）"
+	},
+	
+	{
+		"type" : 166,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "战场之魂开启",
+		"typeParamDesc" : "参数1：活动时间（秒）"
+	},
+	
+	{
+		"type" : 167,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "战场之魂关闭",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 168,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "进入战场之魂",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 169,
+		"typeAuthor" : "梁仲英",
+		"typeName" : "云购",
+		"typeParamDesc" : "参数1：N分钟后不限购，参数2：N分钟后结算奖励"
+	},
+	
+	{
+		"type" : 170,
+		"typeAuthor" : "梁仲英",
+		"typeName" : "云购购买份数",
+		"typeParamDesc" : "参数1：增加份数"
+	},
+	
+	{
+		"type" : 171,
+		"typeAuthor" : "梁仲英",
+		"typeName" : "清空灵魂背包"
+	},
+	
+	{
+		"type" : 172,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "百鬼夜行副本结算",
+		"typeParamDesc" : "参数1：是否刷新黄金怪（0：刷新，1：不刷新）"
+	},
+	
+	{
+		"type" : 174,
+		"typeAuthor" : "梁仲英",
+		"typeName" : "充值（无订单）",
+		"typeParamDesc" : "参数1：档次，参数2：金额RMB，参数3：订单号"
+	},
+	
+	{
+		"type" : 175,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "设置神兽岛信息",
+		"typeParamDesc" : "参数1：疲劳值，参数2：采集大水晶数量，参数3：采集小水晶数"
+	},
+	
+	{
+		"type" : 176,
+		"typeAuthor" : "陈仰新",
+		"typeName" : "解锁副本难度",
+		"typeParamDesc" : "参数1：副本code"
+	},
+	
+	{
+		"type" : 177,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "百鬼夜行扫荡",
+		"typeParamDesc" : "参数1：扫荡次数，参数2：是否召唤黄金怪（0：召唤，1：不召唤）"
+	},
+	
+	{
+		"type" : 178,
+		"typeAuthor" : "梁仲英",
+		"typeName" : "神兽背包",
+		"typeParamDesc" : "参数1：111（清空），222（填满）"
+	},
+	
+	{
+		"type" : 179,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "清除物品每日使用次数",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 180,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "守卫仙盟开启",
+		"typeParamDesc" : "参数1：活动时间"
+	},
+	
+	{
+		"type" : 181,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "守卫仙盟结束",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 182,
+		"typeAuthor" : "梁仲英",
+		"typeName" : "婚宴开启",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 183,
+		"typeAuthor" : "梁仲英",
+		"typeName" : "婚宴关闭",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 184,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "BOSS掉落星数控制",
+		"typeParamDesc" : "参数1：颜色（全部0、橙4、红5），参数2：累计概率（填-1时只显示不修改）"
+	},
+	
+	{
+		"type" : 185,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "BOSS掉落控制",
+		"typeParamDesc" : "参数1：物品code（全部0），参数2：累计概率（填-1时只显示不修改）"
+	},
+	
+	{
+		"type" : 186,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "BOSS掉落控制测试",
+		"typeParamDesc" : "参数1：是否开启（1：开启，0：关闭） 开启后击杀BOSS会显示控制数据"
+	},
+	
+	{
+		"type" : 187,
+		"typeAuthor" : "肖倜",
+		"typeName" : "开启天神战场",
+		"typeParamDesc" : "参数1：准备时间（5分钟），参数2：入口关闭时间（10分钟），参数3：单场持续时间（20分钟），参数4：单场最大人数（40）（括号为默认值，不填取默认）"
+	},
+	
+	{
+		"type" : 188,
+		"typeAuthor" : "肖倜",
+		"typeName" : "进入天神战场",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 189,
+		"typeAuthor" : "梁仲英",
+		"typeName" : "同心锁经验",
+		"typeParamDesc" : "参数1：增加经验数（1-100000）"
+	},
+	
+	{
+		"type" : 190,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "姻缘树等级",
+		"typeParamDesc" : "参数1：等级，参数2：经验"
+	},
+	
+	{
+		"type" : 191,
+		"typeAuthor" : "陈历樟",
+		"typeName" : "爱情宝匣剩余天数",
+		"typeParamDesc" : "参数1：剩余天数"
+	},
+	
+	{
+		"type" : 192,
+		"typeAuthor" : "陈仰新",
+		"typeName" : "活动配置严格检测",
+		"typeParamDesc" : "参数1：是否严格"
+	},
+	
+	{
+		"type" : 193,
+		"typeAuthor" : "肖倜",
+		"typeName" : "加时装精华值",
+		"typeParamDesc" : "参数1：时装类型（1衣服、2武器 3:翅膀），参数2：数值 参数3:角色Idx"
+	},
+	
+	{
+		"type" : 194,
+		"typeAuthor" : "梁仲英",
+		"typeName" : "清转职卡时间",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 195,
+		"typeAuthor" : "郑楚镇",
+		"typeName" : "设置上次计算资源找回次数时间",
+		"typeParamDesc" : "参数1：上次计算找回次数的时间距离今天的天数"
+	},
+	
+	{
+		"type" : 196,
+		"typeAuthor" : "陈仰新",
+		"typeName" : "修改最后离线时间",
+		"typeParamDesc" : "参数1：天，参数2：时，参数3：分，参数4：秒，（活跃，回归玩家相关，重登有效）"
+	},
+	
+	{
+		"type" : 197,
+		"typeAuthor" : "刘志彬",
+		"typeName" : "显示百分比属性",
+		"typeParamDesc" : "无  （注：只显示有百分比加成的属性）"
+	},
+	
+	{
+		"type" : 198,
+		"typeAuthor" : "郑楚镇",
+		"typeName" : "增加人物装备、神装装备",
+		"typeParamDesc" : "参数1：物品id，参数:星数"
+	},
+	
+	{
+		"type" : 199,
+		"typeAuthor" : "肖倜",
+		"typeName" : "跨服盟战",
+		"typeParamDesc" : "参数1：1，跨服日获取数据；2，预约；3，匹配；4，结束；5，清对战信息；6，月结； 参数2：结束时间（距离当前分钟数）"
+	},
+	
+	{
+		"type" : 200,
+		"typeAuthor" : "高雄维",
+		"typeName" : "修改仙盟数值",
+		"typeParamDesc" : "参数1：类型（1：资金；2：贡献；3：加成员；4：总捐献次数；5：心法等级；6：仙盟仓库积分）"
+	},
+	
+	{
+		"type" : 201,
+		"typeAuthor" : "钟必富",
+		"typeName" : "修改关卡",
+		"typeParamDesc" : "参数1：通关数"
+	},
+	
+	{
+		"type" : 202,
+		"typeAuthor" : "赵亚辉",
+		"typeName" : "结算王者争霸",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 203,
+		"typeAuthor" : "赵亚辉",
+		"typeName" : "王者争霸修改等级",
+		"typeParamDesc" : "参数1：等级"
+	},
+	
+	{
+		"type" : 204,
+		"typeName" : "清除已激活神器",
+		"typeParamDesc" : "参数1：神器code"
+	},
+	
+	{
+		"type" : 205,
+		"typeAuthor" : "高雄维",
+		"typeName" : "每日重置相关",
+		"typeParamDesc" : "每日充值相关，签到相关"
+	},
+	
+	{
+		"type" : 206,
+		"typeAuthor" : "赵亚辉",
+		"typeName" : "修改月卡剩余时间",
+		"typeParamDesc" : "参数1：月卡类型（1：元宝月卡 2：特权月卡） 参数2：剩余分钟"
+	},
+	
+	{
+		"type" : 207,
+		"typeAuthor" : "赵亚辉",
+		"typeName" : "重置领取标志",
+		"typeParamDesc" : "参数1：月卡类型（1：元宝月卡 2：特权月卡）"
+	},
+	
+	{
+		"type" : 208,
+		"typeAuthor" : "高雄维",
+		"typeName" : "邮件发放开服排行活动奖励"
+	},
+	
+	{
+		"type" : 209,
+		"typeAuthor" : "高雄维",
+		"typeName" : "重置开服排行活动已通过邮件发放奖励标识"
+	},
+	
+	{
+		"type" : 210,
+		"typeName" : "仙道斗法结算",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 211,
+		"typeAuthor" : "刘志荣",
+		"typeName" : "添加称号",
+		"typeParamDesc" : "参数1：称号code"
+	},
+	
+	{
+		"type" : 212,
+		"typeAuthor" : "刘志荣",
+		"typeName" : "移除称号",
+		"typeParamDesc" : "参数1：称号code"
+	},
+	
+	{
+		"type" : 213,
+		"typeName" : "开启世界boss",
+		"typeParamDesc" : "参数1:活动时间(秒)"
+	},
+	
+	{
+		"type" : 214,
+		"typeName" : "关闭世界boss",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 215,
+		"typeAuthor" : "刘志荣",
+		"typeName" : "设置神秘商店免费刷新剩余时间",
+		"typeParamDesc" : "参数1：剩余小时，参数2：剩余分钟"
+	},
+	
+	{
+		"type" : 216,
+		"typeName" : "开启阵地争夺",
+		"typeParamDesc" : "参数1:活动时间(秒)"
+	},
+	
+	{
+		"type" : 217,
+		"typeName" : "关闭阵地争夺",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 218,
+		"typeName" : "开启血战比奇",
+		"typeParamDesc" : "参数1:活动时间(秒)"
+	},
+	
+	{
+		"type" : 219,
+		"typeName" : "关闭血战比奇",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 220,
+		"typeName" : "boss刷新",
+		"typeParamDesc" : "参数1：副本type（必须） 参数2：新跨服boss填（0-神兽精华 1-boss）"
+	},
+	
+	{
+		"type" : 221,
+		"typeName" : "获取1小时离线挂机奖励",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 222,
+		"typeName" : "关卡通关一关",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 223,
+		"typeName" : "重置挖矿次数",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 224,
+		"typeAuthor" : "赵亚辉",
+		"typeName" : "开启新仙盟战",
+		"typeParamDesc" : "参数1：活动时间（秒）"
+	},
+	
+	{
+		"type" : 225,
+		"typeAuthor" : "赵亚辉",
+		"typeName" : "关闭新仙盟战",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 226,
+		"typeName" : "生成诛仙塔每日奖励",
+		"typeParamDesc" : "参数1：第几层"
+	},
+	
+	{
+		"type" : 227,
+		"typeAuthor" : "李艾丹",
+		"typeName" : "融合法宝",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 228,
+		"typeName" : "设置新跨服boss次数",
+		"typeParamDesc" : "参数1：采集次数 参数2：boss次数 参数3：穹苍阁 boss 归属次数"
+	},
+	
+	{
+		"type" : 229,
+		"typeAuthor" : "李艾丹",
+		"typeName" : "boss积分活动加积分",
+		"typeParamDesc" : "参数1：积分"
+	},
+	
+	{
+		"type" : 230,
+		"typeName" : "重置传奇之路通关信息",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 231,
+		"typeAuthor" : "赵亚辉",
+		"typeName" : "修改在线时间（实名制）",
+		"typeParamDesc" : "参数1：分钟"
+	},
+	
+	{
+		"type" : 232,
+		"typeName" : "升级天赋等级",
+		"typeParamDesc" : "参数1：角色下标[0-2]，参数2：等级"
+	},
+	
+	{
+		"type" : 233,
+		"typeName" : "添加技能",
+		"typeParamDesc" : "参数1：角色下标[0-2]，参数2：技能id"
+	},
+	
+	{
+		"type" : 234,
+		"typeName" : "移除技能",
+		"typeParamDesc" : "参数1：角色下标[0-2]，参数2：技能id"
+	},
+	
+	{
+		"type" : 235,
+		"typeAuthor" : "赵亚辉",
+		"typeName" : "开启巅峰赛季",
+		"typeParamDesc" : "参数1：阶段  参数2:是否跨服（0/1）"
+	},
+	
+	{
+		"type" : 236,
+		"typeAuthor" : "赵亚辉",
+		"typeName" : "巅峰赛季报名",
+		"typeParamDesc" : "参数1：报名数量（只是本服报名）"
+	},
+	
+	{
+		"type" : 237,
+		"typeName" : "开启仙盟组队",
+		"typeParamDesc" : "参数1:活动时间(秒)"
+	},
+	
+	{
+		"type" : 238,
+		"typeName" : "关闭仙盟组队",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 239,
+		"typeName" : "首充团购调人数",
+		"typeParamDesc" : "参数1：人数"
+	},
+	
+	{
+		"type" : 241,
+		"typeName" : "科举答题活动开启",
+		"typeParamDesc" : "参数1：多久之后开启活动（秒数）设置一秒后广播"
+	},
+	
+	{
+		"type" : 242,
+		"typeName" : "boss来袭设置进度",
+		"typeParamDesc" : "参数1：bossCode（0表示全部） 参数2：进度值"
+	},
+	
+	{
+		"type" : 243,
+		"typeName" : "boss来袭刷新时间设置",
+		"typeParamDesc" : "参数1：bossCode（0表示全部） 参数2：当前时间几秒后刷新"
+	},
+	
+	{
+		"type" : 244,
+		"typeName" : "开启跨服血战",
+		"typeParamDesc" : "参数1:活动时间(秒)"
+	},
+	
+	{
+		"type" : 245,
+		"typeName" : "关闭跨服血战"
+	},
+	
+	{
+		"type" : 246,
+		"typeName" : "开启跨服阵地争夺",
+		"typeParamDesc" : "参数1:活动时间(秒)"
+	},
+	
+	{
+		"type" : 247,
+		"typeName" : "关闭跨服阵地争夺"
+	},
+	
+	{
+		"type" : 248,
+		"typeName" : "在当前地图刷镜像",
+		"typeParamDesc" : "参数1:刷新数量，参数2:是否随机"
+	},
+	
+	{
+		"type" : 249,
+		"typeName" : "清除当前地图镜像",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 250,
+		"typeName" : "清除玩家今日进入过的神兽入侵记录",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 251,
+		"typeName" : "开启1vN",
+		"typeParamDesc" : "参数1：报名时间（秒），参数2：守擂赛休息时间（秒），参数3：活动持续时间（秒）"
+	},
+	
+	{
+		"type" : 252,
+		"typeName" : "1vN报名",
+		"typeParamDesc" : "参数1：报名人数"
+	},
+	
+	{
+		"type" : 253,
+		"typeName" : "关闭所有个人副本",
+		"typeParamDesc" : "参数1：指定玩家ID（0表示玩家自己）"
+	},
+	
+	{
+		"type" : 254,
+		"typeAuthor" : "xlan",
+		"typeName" : "开启所有角色天赋系统（跳过任务）",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 255,
+		"typeName" : "跨服热更配置",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 256,
+		"typeName" : "跨服热更活动",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 257,
+		"typeName" : "修改新强化系统类型等级",
+		"typeParamDesc" : "参数1：强化类型，参数2：等级（默认为1级），参数3：角色索引（默认第一个角色）"
+	},
+	
+	{
+		"copyCode" : 6108,
+		"targetType" : 4,
+		"type" : 258,
+		"typeName" : "开启3v3",
+		"typeParamDesc" : "参数1：活动持续时间（秒）"
+	},
+	
+	{
+		"copyCode" : 6108,
+		"targetType" : 4,
+		"type" : 259,
+		"typeName" : "关闭3v3",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"copyCode" : 6108,
+		"targetType" : 3,
+		"type" : 260,
+		"typeName" : "3v3每日结算",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"copyCode" : 6108,
+		"targetType" : 3,
+		"type" : 261,
+		"typeName" : "3v3时段结束",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 262,
+		"typeName" : "GM发送连充返利活动未领取奖励邮件",
+		"typeParamDesc" : "参数1：活动 code（不填默认最小的连充返利当前活动 code）"
+	},
+	
+	{
+		"copyCode" : 6108,
+		"targetType" : 3,
+		"type" : 263,
+		"typeName" : "3v3修改分数",
+		"typeParamDesc" : "参数1：分数"
+	},
+	
+	{
+		"targetType" : 1,
+		"type" : 264,
+		"typeName" : "3v3图标开启",
+		"typeParamDesc" : "参数1：开启时间（秒）"
+	},
+	
+	{
+		"targetType" : 1,
+		"type" : 265,
+		"typeName" : "3v3图标关闭",
+		"typeParamDesc" : "无"
+	},
+	
+	{
+		"type" : 266,
+		"typeName" : "一键完成当前的限时任务",
+		"typeParamDesc" : "无"
+	}
+]

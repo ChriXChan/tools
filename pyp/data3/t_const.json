@@ -1,0 +1,4971 @@
+[
+  {
+    "constName": "60DefenseCopyBossCount",
+    "constValue": 5
+  },
+  {
+    "constName": "60DefenseCopyBossFlashDistance",
+    "constValue": 200
+  },
+  {
+    "constName": "60DefenseCopyBossFlowDistance",
+    "constValue": 150
+  },
+  {
+    "constName": "60DefenseCopyBossFlowDistanceFighting",
+    "constValue": 300
+  },
+  {
+    "constName": "AccSignLoopLastXDay",
+    "constValue": 5
+  },
+  {
+    "constName": "ActiveHideAndSeekCollectionMax",
+    "constValue": 9
+  },
+  {
+    "constName": "ActivePlayerLevel",
+    "constValue": 100
+  },
+  {
+    "constName": "AddBagCapacityCost",
+    "constValue": 55
+  },
+  {
+    "constName": "AdoreCrazy",
+    "constValue": 30,
+    "constValueEx": 2
+  },
+  {
+    "constName": "AdoreFriendlyCost",
+    "constValue": 10000,
+    "constValueEx": 1
+  },
+  {
+    "constName": "AdoreRespectfully",
+    "constValue": 10,
+    "constValueEx": 2
+  },
+  {
+    "constName": "AiInterval",
+    "constValue": 500
+  },
+  {
+    "constName": "AltarCopyBossBorn",
+    "constValue": 9,
+    "constValueEx": 10
+  },
+  {
+    "constName": "AltarCopyBossBufferBase",
+    "constValue": 65100000,
+    "constValueEx": 65000000
+  },
+  {
+    "constName": "AltarCopyCode",
+    "constValue": 601
+  },
+  {
+    "constName": "AngryMonsterCopyCode",
+    "constValue": 501
+  },
+  {
+    "constName": "AngryMonsterKingBufferId",
+    "constValue": 55031010
+  },
+  {
+    "constName": "AngryMonsterKingRemoveBufferCd",
+    "constValue": 4
+  },
+  {
+    "constName": "AngryMonsterPrepareTime",
+    "constValue": 300000
+  },
+  {
+    "constName": "ArenaBattlePlayerNum",
+    "constValue": 1
+  },
+  {
+    "constName": "ArenaBattleTime",
+    "constValue": 15,
+    "constValueEx": 300
+  },
+  {
+    "constName": "ArenaClosePrepareTime",
+    "constValue": 120,
+    "constValueEx": 30
+  },
+  {
+    "constName": "ArenaCopyCode",
+    "constValue": 128
+  },
+  {
+    "constName": "ArenaCrossBattlePlayerNum",
+    "constValue": 1
+  },
+  {
+    "constName": "ArenaCrossBattleTime",
+    "constValue": 15,
+    "constValueEx": 180
+  },
+  {
+    "constName": "ArenaCrossCopyCode",
+    "constValue": 144
+  },
+  {
+    "constName": "ArenaCrossFinalMatchMaxRank",
+    "constValue": 2,
+    "constValueEx": 4
+  },
+  {
+    "constName": "ArenaCrossFinalMatchPlayerNum",
+    "constValue": 32
+  },
+  {
+    "constName": "ArenaCrossFinalMaxBattleNumInRing",
+    "constValue": 3
+  },
+  {
+    "constName": "ArenaCrossFinalMaxRing",
+    "constValue": 3,
+    "constValueEx": 5
+  },
+  {
+    "constName": "ArenaCrossFinalRingTime",
+    "constValue": 1200,
+    "constValueEx": 240
+  },
+  {
+    "constName": "ArenaCrossFocusMaxNum",
+    "constValue": 20,
+    "constValueEx": 10
+  },
+  {
+    "constName": "ArenaCrossFocusReward",
+    "constValue": 14012278,
+    "constValueEx": 1
+  },
+  {
+    "constName": "ArenaCrossGroupMatchGroupNum",
+    "constValue": 16,
+    "constValueEx": 10
+  },
+  {
+    "constName": "ArenaCrossGroupRingTime",
+    "constValue": 240
+  },
+  {
+    "constName": "ArenaCrossMaxBattleWatchNum",
+    "constValue": 500
+  },
+  {
+    "constName": "ArenaCrossMaxQuestionTimes",
+    "constValue": 30
+  },
+  {
+    "constName": "ArenaCrossMinBattleNum",
+    "constValue": 20
+  },
+  {
+    "constName": "ArenaCrossMinSignUpLevel",
+    "constValue": 60
+  },
+  {
+    "constName": "ArenaCrossMinSignUpWarfare",
+    "constValue": 15000
+  },
+  {
+    "constName": "ArenaCrossRegistReward",
+    "constValue": 14011533,
+    "constValueEx": 1
+  },
+  {
+    "constName": "ArenaCrossSendFlowerReward",
+    "constValue": 20
+  },
+  {
+    "constName": "ArenaCrossSysSendFlowerTime",
+    "constValue": 10
+  },
+  {
+    "constName": "ArenaFinaReward1",
+    "constValue": 40111021,
+    "constValueEx": 400000
+  },
+  {
+    "constName": "ArenaFinaReward2",
+    "constValue": 40111022,
+    "constValueEx": 400001
+  },
+  {
+    "constName": "ArenaFinaReward3",
+    "constValue": 40111023,
+    "constValueEx": 400002
+  },
+  {
+    "constName": "ArenaFinaReward4",
+    "constValue": 40111024
+  },
+  {
+    "constName": "ArenaFinaReward5",
+    "constValue": 40111025
+  },
+  {
+    "constName": "ArenaFinaRingTime",
+    "constValue": 300,
+    "constValueEx": 360
+  },
+  {
+    "constName": "ArenaGiftMaxWishValue",
+    "constValue": 100,
+    "constValueEx": 149
+  },
+  {
+    "constName": "ArenaInitTimes",
+    "constValue": 30
+  },
+  {
+    "constName": "ArenaMinEnterLevel",
+    "constValue": 40
+  },
+  {
+    "constName": "ArenaRemoveGiftFiveCost",
+    "constValue": 25,
+    "constValueEx": 2
+  },
+  {
+    "constName": "ArenaRemoveGiftFiveRate",
+    "constValue": 3300,
+    "constValueEx": 6300
+  },
+  {
+    "constName": "ArenaRemoveGiftFourCost",
+    "constValue": 20,
+    "constValueEx": 2
+  },
+  {
+    "constName": "ArenaRemoveGiftFourRate",
+    "constValue": 2200,
+    "constValueEx": 4400
+  },
+  {
+    "constName": "ArenaRemoveGiftInfluenceFive",
+    "constValue": 1600,
+    "constValueEx": 1570
+  },
+  {
+    "constName": "ArenaRemoveGiftInfluenceFour",
+    "constValue": 900,
+    "constValueEx": 1015
+  },
+  {
+    "constName": "ArenaRemoveGiftInfluenceOne",
+    "constValue": 70,
+    "constValueEx": 100
+  },
+  {
+    "constName": "ArenaRemoveGiftInfluenceSix",
+    "constValue": 2400,
+    "constValueEx": 2400
+  },
+  {
+    "constName": "ArenaRemoveGiftInfluenceThree",
+    "constValue": 460,
+    "constValueEx": 570
+  },
+  {
+    "constName": "ArenaRemoveGiftInfluenceTwo",
+    "constValue": 180,
+    "constValueEx": 235
+  },
+  {
+    "constName": "ArenaRemoveGiftOneCost",
+    "constValue": 5,
+    "constValueEx": 2
+  },
+  {
+    "constName": "ArenaRemoveGiftOneRate",
+    "constValue": 220,
+    "constValueEx": 320
+  },
+  {
+    "constName": "ArenaRemoveGiftSixCost",
+    "constValue": 30,
+    "constValueEx": 2
+  },
+  {
+    "constName": "ArenaRemoveGiftSixRate",
+    "constValue": 5000,
+    "constValueEx": 9800
+  },
+  {
+    "constName": "ArenaRemoveGiftThreeCost",
+    "constValue": 15,
+    "constValueEx": 2
+  },
+  {
+    "constName": "ArenaRemoveGiftThreeRate",
+    "constValue": 1300,
+    "constValueEx": 2800
+  },
+  {
+    "constName": "ArenaRemoveGiftTwoCost",
+    "constValue": 10,
+    "constValueEx": 2
+  },
+  {
+    "constName": "ArenaRemoveGiftTwoRate",
+    "constValue": 660,
+    "constValueEx": 1460
+  },
+  {
+    "constName": "ArenaRemoveGiftZeroRate",
+    "constValue": 100,
+    "constValueEx": 151
+  },
+  {
+    "constName": "ArenaRewardCondition",
+    "constValue": 3,
+    "constValueEx": 30
+  },
+  {
+    "constName": "ArenaRewardItem1",
+    "constValue": 14049401,
+    "constValueEx": 2
+  },
+  {
+    "constName": "ArenaRewardItem2",
+    "constValue": 14049301,
+    "constValueEx": 2
+  },
+  {
+    "constName": "ArenaRewardItem3",
+    "constValue": 14037100,
+    "constValueEx": 2
+  },
+  {
+    "constName": "ArenaRewardItem4",
+    "constValue": 14037101,
+    "constValueEx": 1
+  },
+  {
+    "constName": "ArenaRewardItem5",
+    "constValue": 14009201,
+    "constValueEx": 2
+  },
+  {
+    "constName": "ArenaRewardItem6",
+    "constValue": 14009301,
+    "constValueEx": 1
+  },
+  {
+    "constName": "ArenaRewardItem7"
+  },
+  {
+    "constName": "ArenaRewardItem8"
+  },
+  {
+    "constName": "ArenaRewardItem9"
+  },
+  {
+    "constName": "ArenaSaveFightRecord",
+    "constValue": 30,
+    "constValueEx": 2
+  },
+  {
+    "constName": "ArenaSpeedUpBuffer",
+    "constValue": 55031998
+  },
+  {
+    "constName": "AStarFindWay",
+    "constValue": 1
+  },
+  {
+    "constName": "AttackCd",
+    "constValue": 1000
+  },
+  {
+    "constName": "AttackDistance",
+    "constValue": 120
+  },
+  {
+    "constName": "AttributePropUseNumPerDay",
+    "constValue": 5
+  },
+  {
+    "constName": "AutoFightBossDistance",
+    "constValue": 300
+  },
+  {
+    "constName": "BagCapacityCostGold",
+    "constValue": 2
+  },
+  {
+    "constName": "BattleBichAssistHurtTime",
+    "constValue": 15
+  },
+  {
+    "constName": "BattleBichCopyCode",
+    "constValue": 6103,
+    "constValueEx": 16103
+  },
+  {
+    "constName": "BattleBichCrossOpenDate",
+    "constValue": 8
+  },
+  {
+    "constName": "BattleBichScoreListNum",
+    "constValue": 50
+  },
+  {
+    "constName": "BattleFieldAssistDistance",
+    "constValue": 400
+  },
+  {
+    "constName": "BattleFieldBalanceTime",
+    "constValue": 600
+  },
+  {
+    "constName": "BattleFieldCampMaxPlayerNum",
+    "constValue": 40
+  },
+  {
+    "constName": "BattleFieldCanOpenTime",
+    "constValue": 1200
+  },
+  {
+    "constName": "BattleFieldCloseDelay",
+    "constValue": 120
+  },
+  {
+    "constName": "BattleFieldCopyCode",
+    "constValue": 110
+  },
+  {
+    "constName": "BattleFieldDeadHonour",
+    "constValue": 3
+  },
+  {
+    "constName": "BattleFieldEnterCD",
+    "constValue": 30
+  },
+  {
+    "constName": "BattleFieldFirstCampAddition",
+    "constValue": 100
+  },
+  {
+    "constName": "BattleFieldInstantKillCD",
+    "constValue": 5
+  },
+  {
+    "constName": "BattleFieldJoinHonour",
+    "constValue": 50
+  },
+  {
+    "constName": "BattleFieldLimitLevel",
+    "constValue": 30
+  },
+  {
+    "constName": "BattleFieldMaxFieldNum",
+    "constValue": 10
+  },
+  {
+    "constName": "BattleFieldNewFieldNeedCampNum",
+    "constValue": 2
+  },
+  {
+    "constName": "BattleFieldNewFieldNeedPlayerNum",
+    "constValue": 35
+  },
+  {
+    "constName": "BattleFieldSecondCampAddition",
+    "constValue": 140
+  },
+  {
+    "constName": "BattleFieldThirdCampAddition",
+    "constValue": 150
+  },
+  {
+    "constName": "BattleFieldUnionCreditPercent",
+    "constValue": 48
+  },
+  {
+    "constName": "BattleMinLevel",
+    "constValue": 30
+  },
+  {
+    "constName": "BeastAddMaxBeckonNumProp",
+    "constValue": 42170001,
+    "constValueEx": 42170002
+  },
+  {
+    "constName": "BeastIslandAddBaseExperienceNum",
+    "constValue": 4
+  },
+  {
+    "constName": "BeastIslandAddExperienceInterval",
+    "constValue": 30
+  },
+  {
+    "constName": "BeastIslandCollectLifePer",
+    "constValue": 7
+  },
+  {
+    "constName": "BeastIslandCollectLiftCount",
+    "constValue": 10
+  },
+  {
+    "constName": "BeastIslandCrystalRefreshInterval_510702",
+    "constValue": 2400
+  },
+  {
+    "constName": "BeastIslandCrystalRefreshInterval_510703",
+    "constValue": 2400
+  },
+  {
+    "constName": "BeastIslandEliteBossCode",
+    "constValue": 506101201
+  },
+  {
+    "constName": "BeastIslandEliteRefreshInterval_510702",
+    "constValue": 1800
+  },
+  {
+    "constName": "BeastIslandEliteRefreshInterval_510703",
+    "constValue": 1800
+  },
+  {
+    "constName": "BeastIslandTireMax",
+    "constValue": 3
+  },
+  {
+    "constName": "BeastMaxBeckonNum",
+    "constValue": 2
+  },
+  {
+    "constName": "BetCompetitionTimeoutRate",
+    "constValue": 50
+  },
+  {
+    "constName": "bornProtectBufCode",
+    "constValue": 67100011
+  },
+  {
+    "constName": "BossFieldAssistDistance",
+    "constValue": 400
+  },
+  {
+    "constName": "BossFieldBossBuffer",
+    "constValue": 55997001
+  },
+  {
+    "constName": "BossFieldBossCampHonour",
+    "constValue": 5000
+  },
+  {
+    "constName": "BossFieldCampForceMaxPlayerNum",
+    "constValue": 20
+  },
+  {
+    "constName": "BossFieldCanOpenTime",
+    "constValue": 1200
+  },
+  {
+    "constName": "BossFieldCopyCode",
+    "constValue": 162
+  },
+  {
+    "constName": "BossFieldDeadHonour",
+    "constValue": 3
+  },
+  {
+    "constName": "BossFieldEnterCD",
+    "constValue": 30
+  },
+  {
+    "constName": "BossFieldFirstCampHonour",
+    "constValue": 5000
+  },
+  {
+    "constName": "BossFieldFirstForceAddition",
+    "constValue": 100
+  },
+  {
+    "constName": "BossFieldInstantKillCD",
+    "constValue": 5
+  },
+  {
+    "constName": "BossFieldJoinHonour",
+    "constValue": 100
+  },
+  {
+    "constName": "BossFieldLimitLevel",
+    "constValue": 30
+  },
+  {
+    "constName": "BossFieldMaxFieldNum",
+    "constValue": 9
+  },
+  {
+    "constName": "BossFieldNewFieldNeedPlayerNum",
+    "constValue": 20,
+    "constValueEx": 4
+  },
+  {
+    "constName": "BossFieldSecondCampHonour",
+    "constValue": 4500
+  },
+  {
+    "constName": "BossFieldSecondForceAddition",
+    "constValue": 110
+  },
+  {
+    "constName": "BossFieldTaskBeKillNum",
+    "constValue": 5
+  },
+  {
+    "constName": "BossFieldTaskHonourAward",
+    "constValue": 2000
+  },
+  {
+    "constName": "BossFieldTaskKillNum",
+    "constValue": 3
+  },
+  {
+    "constName": "BossFieldThirdCampHonour",
+    "constValue": 4200
+  },
+  {
+    "constName": "BossFieldThirdForceAddition",
+    "constValue": 120
+  },
+  {
+    "constName": "BossHatredFactorMaster",
+    "constValue": 2
+  },
+  {
+    "constName": "BossHatredFactorTaoist",
+    "constValue": 1
+  },
+  {
+    "constName": "BossHatredFactorWarrior",
+    "constValue": 1000
+  },
+  {
+    "constName": "bossLeadLifePer",
+    "constValue": 50
+  },
+  {
+    "constName": "BossMapRevivalTireAddCD",
+    "constValue": 300
+  },
+  {
+    "constName": "BossMapRevivalTireLimit",
+    "constValue": 5000
+  },
+  {
+    "constName": "BossQuestionMaxDistance",
+    "constValue": 200
+  },
+  {
+    "constName": "BossRefreshDynamicFunc",
+    "constValue": 1
+  },
+  {
+    "constName": "BroadcastItemGoldPriceMin",
+    "constValue": 20
+  },
+  {
+    "constName": "CachedGBICDropLogMsgMaxNum",
+    "constValue": 100
+  },
+  {
+    "constName": "CachedInteractiveMsgMaxNum",
+    "constValue": 50
+  },
+  {
+    "constName": "CampOneCityPassPoint",
+    "constValue": 100102,
+    "constValueEx": 1840187
+  },
+  {
+    "constName": "CampThreeCityPassPoint",
+    "constValue": 300102,
+    "constValueEx": 1770170
+  },
+  {
+    "constName": "CampTwoCityPassPoint",
+    "constValue": 200102,
+    "constValueEx": 1710189
+  },
+  {
+    "constName": "CatagropheBossBornPoint",
+    "constValue": 8,
+    "constValueEx": 16
+  },
+  {
+    "constName": "CelebrateValueStepEnd",
+    "constValue": 50000,
+    "constValueEx": 40151109
+  },
+  {
+    "constName": "CelebrateValueStepOne",
+    "constValue": 20000,
+    "constValueEx": 40151102
+  },
+  {
+    "constName": "ChanePlayerMountNewPlayer1",
+    "constValue": 1210003,
+    "constValueEx": 1210003
+  },
+  {
+    "constName": "ChanePlayerMountNewPlayer2",
+    "constValue": 1210001,
+    "constValueEx": 1210001
+  },
+  {
+    "constName": "ChangeSexCD",
+    "constValue": 7
+  },
+  {
+    "constName": "ChapterCopyAddNumIntervalSec",
+    "constValue": 900
+  },
+  {
+    "constName": "ChapterCopyCode",
+    "constValue": 1001
+  },
+  {
+    "constName": "ChapterCopyDelegateStarLimit",
+    "constValue": 3
+  },
+  {
+    "constName": "ChapterCopyInitNum",
+    "constValue": 20
+  },
+  {
+    "constName": "ChapterCopyThressStarLimit",
+    "constValue": 60
+  },
+  {
+    "constName": "ChapterCopyTodayEnterExtraTime",
+    "constValue": 5,
+    "constValueEx": 2
+  },
+  {
+    "constName": "ChapterCopyTwoStarLimit",
+    "constValue": 120
+  },
+  {
+    "constName": "CharmRankReward",
+    "constValue": 40111234
+  },
+  {
+    "constName": "ChatIntervalTime",
+    "constValue": 5,
+    "constValueEx": 1
+  },
+  {
+    "constName": "ChatIntervalTimeMili",
+    "constValue": 500,
+    "constValueEx": 200
+  },
+  {
+    "constName": "ChatSpacePlayerLevel",
+    "constValue": 371
+  },
+  {
+    "constName": "ChatWorldPlayerLevel",
+    "constValue": 40
+  },
+  {
+    "constName": "CheckPointLimit",
+    "constValue": 50,
+    "constValueEx": 22
+  },
+  {
+    "constName": "CheckpointPunchFloor",
+    "constValue": 4
+  },
+  {
+    "constName": "CheckPointRobotAtrrRate",
+    "constValue": 20
+  },
+  {
+    "constName": "CheristmasCardExp1",
+    "constValue": 2000
+  },
+  {
+    "constName": "CheristmasCardExp2",
+    "constValue": 5000
+  },
+  {
+    "constName": "CheristmasCardExp3",
+    "constValue": 10000
+  },
+  {
+    "constName": "ChildrenSpecialCode",
+    "constValue": 2000
+  },
+  {
+    "constName": "ChildrenSpecialHeartLockLevel",
+    "constValue": 20
+  },
+  {
+    "constName": "CityEnterCd",
+    "constValue": 30
+  },
+  {
+    "constName": "CityMapId",
+    "constValue": 999997
+  },
+  {
+    "constName": "CityOnlineDropTime",
+    "constValue": 10
+  },
+  {
+    "constName": "ClientBroadcastCachedMaxNum",
+    "constValue": 10
+  },
+  {
+    "constName": "CoinCopyCode",
+    "constValue": 1004
+  },
+  {
+    "constName": "CollectDistance",
+    "constValue": 120
+  },
+  {
+    "constName": "ContestBetPercent",
+    "constValue": 120,
+    "constValueEx": 100
+  },
+  {
+    "constName": "ContestBetWinItemCode",
+    "constValue": 20000066
+  },
+  {
+    "constName": "ContestCopyCode",
+    "constValue": 6107
+  },
+  {
+    "constName": "ContestOpenValue",
+    "constValue": 15,
+    "constValueEx": 5
+  },
+  {
+    "constName": "ContestPlayerNum",
+    "constValue": 180,
+    "constValueEx": 130
+  },
+  {
+    "constName": "ContestWarfareNum",
+    "constValue": 10,
+    "constValueEx": 1
+  },
+  {
+    "constName": "ConvenienceStore",
+    "constValue": 1721
+  },
+  {
+    "constName": "ConveyNearDistance",
+    "constValue": 640
+  },
+  {
+    "constName": "CopyAssistCount",
+    "constValue": 20,
+    "constValueEx": 800
+  },
+  {
+    "constName": "CopyAssistGuildReqCD",
+    "constValue": 60
+  },
+  {
+    "constName": "CopyEnergyAddPerHour",
+    "constValue": 10,
+    "constValueEx": 720
+  },
+  {
+    "constName": "CopyEnterNpcDistance",
+    "constValue": 500
+  },
+  {
+    "constName": "copyFeudalHegemonyCode",
+    "constValue": 189
+  },
+  {
+    "constName": "CopyGroupNameMaxLength",
+    "constValue": 7
+  },
+  {
+    "constName": "CopyGuildAssistReqValidTime",
+    "constValue": 180
+  },
+  {
+    "constName": "CopyHeroAssistCount"
+  },
+  {
+    "constName": "CopyRingPerWave",
+    "constValue": 1
+  },
+  {
+    "constName": "CopyRoomPlayerCount",
+    "constValue": 5
+  },
+  {
+    "constName": "CrossBeachCopyCode",
+    "constValue": 149
+  },
+  {
+    "constName": "CrossBeachMaxNum",
+    "constValue": 30
+  },
+  {
+    "constName": "CrossBeachMaxPlayerNum",
+    "constValue": 100
+  },
+  {
+    "constName": "CrossBeachOpenNeedPlayerNum",
+    "constValue": 80,
+    "constValueEx": 2
+  },
+  {
+    "constName": "CrossBossCopyCode",
+    "constValue": 153
+  },
+  {
+    "constName": "CrossBossFieldBossForceMaxMonsterNum",
+    "constValue": 3
+  },
+  {
+    "constName": "CrossBossFieldCampForceMaxPlayerNum",
+    "constValue": 20
+  },
+  {
+    "constName": "CrossBossFieldCopyCode",
+    "constValue": 166
+  },
+  {
+    "constName": "CrossBossFieldLimitLevel",
+    "constValue": 40
+  },
+  {
+    "constName": "CrossBossFieldNewFieldNeedPlayerNum",
+    "constValue": 20,
+    "constValueEx": 4
+  },
+  {
+    "constName": "CrossBossMaxPlayerNum",
+    "constValue": 85
+  },
+  {
+    "constName": "CrossBossNeedCombat",
+    "constValue": 180000
+  },
+  {
+    "constName": "CrossBossNeedPlayerNum",
+    "constValue": 8
+  },
+  {
+    "constName": "crossBossNum",
+    "constValue": 3
+  },
+  {
+    "constName": "CrossBossWaitingRoomMapId",
+    "constValue": 900803
+  },
+  {
+    "constName": "CrossCellChannel",
+    "constValue": 30000800,
+    "constValueEx": 3331
+  },
+  {
+    "constName": "CrossCellEnterLevel",
+    "constValue": 70
+  },
+  {
+    "constName": "CrossCellMapId",
+    "constValue": 110901
+  },
+  {
+    "constName": "CrossCityActiveContinueTime",
+    "constValue": 30
+  },
+  {
+    "constName": "CrossCityBackTime",
+    "constValue": 30
+  },
+  {
+    "constName": "CrosscityColdCD",
+    "constValue": 120
+  },
+  {
+    "constName": "CrossCityCopyCode",
+    "constValue": 705
+  },
+  {
+    "constName": "CrossCityDefaultCombat1",
+    "constValue": 50000
+  },
+  {
+    "constName": "CrossCityDefaultCombat2",
+    "constValue": 40000
+  },
+  {
+    "constName": "CrossCityDefaultCombat3",
+    "constValue": 40000
+  },
+  {
+    "constName": "CrossCityDefaultCombat4",
+    "constValue": 30000
+  },
+  {
+    "constName": "CrossCityDefaultCombat5",
+    "constValue": 30000
+  },
+  {
+    "constName": "CrossCityDefaultCombat6",
+    "constValue": 30000
+  },
+  {
+    "constName": "CrossCityDefaultLevel",
+    "constValue": 50
+  },
+  {
+    "constName": "CrossCityGiftCode",
+    "constValue": 40121135
+  },
+  {
+    "constName": "CrossCityHelpDistance",
+    "constValue": 20
+  },
+  {
+    "constName": "CrossCityKillAndDeadGetHonor",
+    "constValue": 3,
+    "constValueEx": 1
+  },
+  {
+    "constName": "CrossCityKillBossReward",
+    "constValue": 40121136,
+    "constValueEx": 1
+  },
+  {
+    "constName": "CrossCityLastTime",
+    "constValue": 600
+  },
+  {
+    "constName": "CrossCityLastTime1",
+    "constValue": 600
+  },
+  {
+    "constName": "CrossCityLastTime2",
+    "constValue": 300
+  },
+  {
+    "constName": "CrossCityLastTime3",
+    "constValue": 300
+  },
+  {
+    "constName": "CrossCityLastTime4",
+    "constValue": 180
+  },
+  {
+    "constName": "CrossCityLastTime5",
+    "constValue": 180
+  },
+  {
+    "constName": "CrossCityLastTime6",
+    "constValue": 180
+  },
+  {
+    "constName": "CrossCityLevelLimit",
+    "constValue": 40
+  },
+  {
+    "constName": "CrossCityMaxPlayer",
+    "constValue": 50
+  },
+  {
+    "constName": "CrossCitymaxSupportNum",
+    "constValue": 15
+  },
+  {
+    "constName": "CrossCityPreviousTime",
+    "constValue": 10,
+    "constValueEx": 30
+  },
+  {
+    "constName": "CrossCityRevivalBuffer",
+    "constValue": 55997000
+  },
+  {
+    "constName": "CrossCityWinRewardJoin",
+    "constValue": 40151112,
+    "constValueEx": 2
+  },
+  {
+    "constName": "CrossCityWinRewardNoJoin",
+    "constValue": 40151112,
+    "constValueEx": 1
+  },
+  {
+    "constName": "CrossCityWorldLevelLimit",
+    "constValue": 60
+  },
+  {
+    "constName": "CrossFairylandMaxCopyNum",
+    "constValue": 200
+  },
+  {
+    "constName": "CrossGuildBattleCopyCode",
+    "constValue": 704,
+    "constValueEx": 131602
+  },
+  {
+    "constName": "CrossGuildBattleLevel",
+    "constValue": 38
+  },
+  {
+    "constName": "CrossGuildBattleNumber",
+    "constValue": 200
+  },
+  {
+    "constName": "CrossGuildBattleServerOpenMinDay",
+    "constValue": 9999999
+  },
+  {
+    "constName": "CrossInterId",
+    "constValue": 160000999
+  },
+  {
+    "constName": "CrossMainCellHostDiscount",
+    "constValue": 95
+  },
+  {
+    "constName": "CrossMainCellTicket",
+    "constValue": 100000
+  },
+  {
+    "constName": "CrossMazeRewardTime",
+    "constValueEx": 22
+  },
+  {
+    "constName": "CrossSkyCityMapId",
+    "constValue": 500104
+  },
+  {
+    "constName": "CrossSpaCopyCode",
+    "constValue": 121
+  },
+  {
+    "constName": "CrossSpaMaxNum",
+    "constValue": 100
+  },
+  {
+    "constName": "CrossSpaMaxPlayerNum",
+    "constValue": 60,
+    "constValueEx": 4
+  },
+  {
+    "constName": "CrossSpaOpenNeedPlayerNum",
+    "constValue": 60,
+    "constValueEx": 4
+  },
+  {
+    "constName": "CrossStairAssistDistance",
+    "constValue": 500
+  },
+  {
+    "constName": "CrossStairAutoAddScore",
+    "constValue": 100,
+    "constValueEx": 30
+  },
+  {
+    "constName": "CrossStairCopyCode",
+    "constValue": 5002,
+    "constValueEx": 5012
+  },
+  {
+    "constName": "CrossStairDeathScore",
+    "constValue": 1
+  },
+  {
+    "constName": "CrossStairFinalBossCode",
+    "constValue": 30600001
+  },
+  {
+    "constName": "CrossStairFirstTopReward",
+    "constValue": 40111012
+  },
+  {
+    "constName": "CrossStairKillPlayerAddNum",
+    "constValue": 2
+  },
+  {
+    "constName": "CrossStairKillScore",
+    "constValue": 10,
+    "constValueEx": 1
+  },
+  {
+    "constName": "CrossStairMaxNeedNum",
+    "constValue": 20
+  },
+  {
+    "constName": "CrossStairMaxRoomPlayerNum",
+    "constValue": 60
+  },
+  {
+    "constName": "CrossStairOpenDate",
+    "constValue": 8
+  },
+  {
+    "constName": "CrossStairRevivalCount",
+    "constValue": 5
+  },
+  {
+    "constName": "CrossStairSkillId",
+    "constValue": 10107061
+  },
+  {
+    "constName": "CrossStairSkillMaxCd",
+    "constValue": 10
+  },
+  {
+    "constName": "CrossStairTitleOwnerReward",
+    "constValue": 40111013
+  },
+  {
+    "constName": "CrossTeamAdditionTime1",
+    "constValue": 11,
+    "constValueEx": 13
+  },
+  {
+    "constName": "CrossTeamAdditionTime2",
+    "constValue": 23,
+    "constValueEx": 24
+  },
+  {
+    "constName": "CrossTeamAdditionTime3",
+    "constValueEx": 1
+  },
+  {
+    "constName": "CrossTeamBossBuffCode",
+    "constValue": 2000007,
+    "constValueEx": 22901
+  },
+  {
+    "constName": "CrossTeamCopyCode",
+    "constValue": 2901
+  },
+  {
+    "constName": "crossTreasureBossCode1",
+    "constValue": 61100121
+  },
+  {
+    "constName": "crossTreasureBossCode2",
+    "constValue": 61100122
+  },
+  {
+    "constName": "crossTreasureBossCode3",
+    "constValue": 61100123
+  },
+  {
+    "constName": "crossTreasureCompass",
+    "constValue": 2000,
+    "constValueEx": 1
+  },
+  {
+    "constName": "crossTreasureMap1",
+    "constValue": 111001
+  },
+  {
+    "constName": "crossTreasureMap2",
+    "constValue": 111001
+  },
+  {
+    "constName": "crossTreasureMap3",
+    "constValue": 111001
+  },
+  {
+    "constName": "crossTreasureMap4",
+    "constValue": 111001
+  },
+  {
+    "constName": "crossTreasureMapNum",
+    "constValue": 99
+  },
+  {
+    "constName": "crossTreasurePointNum",
+    "constValue": 4
+  },
+  {
+    "constName": "crossTreasurePos1",
+    "constValue": 46,
+    "constValueEx": 40
+  },
+  {
+    "constName": "crossTreasurePos2",
+    "constValue": 23,
+    "constValueEx": 9
+  },
+  {
+    "constName": "crossTreasurePos3",
+    "constValue": 10,
+    "constValueEx": 49
+  },
+  {
+    "constName": "crossTreasurePos4",
+    "constValue": 21,
+    "constValueEx": 81
+  },
+  {
+    "constName": "crossTreasureSearch",
+    "constValue": 1000,
+    "constValueEx": 1
+  },
+  {
+    "constName": "CrystalOneBossCode_510702",
+    "constValue": 506101001
+  },
+  {
+    "constName": "CrystalOneBossCode_510703",
+    "constValue": 506102001
+  },
+  {
+    "constName": "CrystalOneNumMax",
+    "constValue": 2
+  },
+  {
+    "constName": "CrystalOneShareNumItem",
+    "constValue": 40126004
+  },
+  {
+    "constName": "CrystalTwoBossCode_510702",
+    "constValue": 506101101
+  },
+  {
+    "constName": "CrystalTwoBossCode_510703",
+    "constValue": 506102101
+  },
+  {
+    "constName": "CrystalTwoNumMax",
+    "constValue": 20
+  },
+  {
+    "constName": "CutMoneyMaxMark",
+    "constValue": 51000
+  },
+  {
+    "constName": "CutMoneyMultipleTimes",
+    "constValue": 2,
+    "constValueEx": 10
+  },
+  {
+    "constName": "CutMoneyTimesLimit",
+    "constValue": 1
+  },
+  {
+    "constName": "CutMoneyToplistNumToPush",
+    "constValue": 3
+  },
+  {
+    "constName": "DailyAdditionSet",
+    "constValue": 20
+  },
+  {
+    "constName": "DailyLoginReward",
+    "constValue": 40151315,
+    "constValueEx": 1
+  },
+  {
+    "constName": "DailyRewardLimiteLevel",
+    "constValue": 30
+  },
+  {
+    "constName": "DailyShareRewardLevel",
+    "constValue": 30
+  },
+  {
+    "constName": "DefaultRefreshRange",
+    "constValue": 120,
+    "constValueEx": 150
+  },
+  {
+    "constName": "DefenseCopyBossHatredCount",
+    "constValue": 15,
+    "constValueEx": 10
+  },
+  {
+    "constName": "DefenseCopyCode",
+    "constValue": 1006
+  },
+  {
+    "constName": "DefenseCopyDefenderLimit",
+    "constValue": 5
+  },
+  {
+    "constName": "DefenseCopyScore",
+    "constValue": 50,
+    "constValueEx": 50
+  },
+  {
+    "constName": "DefenseQingyunTargetBoss",
+    "constValue": 10100101
+  },
+  {
+    "constName": "DelegateMaxGlodCost",
+    "constValue": 20
+  },
+  {
+    "constName": "DestinyAwakeOpenRoleState",
+    "constValue": 3
+  },
+  {
+    "constName": "DianFengBaseLevel",
+    "constValue": 370
+  },
+  {
+    "constName": "DivorceForceNeedGold"
+  },
+  {
+    "constName": "DonateFirewoodContributionReward",
+    "constValue": 30
+  },
+  {
+    "constName": "DonateFirewoodExpReward",
+    "constValue": 5
+  },
+  {
+    "constName": "DoubleDropCost",
+    "constValue": 10
+  },
+  {
+    "constName": "downloadCopyMaxExp",
+    "constValue": 300000
+  },
+  {
+    "constName": "downloadRewardBindCoin1"
+  },
+  {
+    "constName": "downloadRewardBindCoin2"
+  },
+  {
+    "constName": "downloadRewardBindCoin3",
+    "constValue": 188888
+  },
+  {
+    "constName": "downloadRewardBindGold1"
+  },
+  {
+    "constName": "downloadRewardBindGold2"
+  },
+  {
+    "constName": "downloadRewardBindGold3",
+    "constValue": 188
+  },
+  {
+    "constName": "downloadRewardRewardItem1",
+    "constValue": 40111007,
+    "constValueEx": 1
+  },
+  {
+    "constName": "downloadRewardRewardItem2",
+    "constValue": 40111007,
+    "constValueEx": 1
+  },
+  {
+    "constName": "DragonAwakeOpenRoleState",
+    "constValue": 4
+  },
+  {
+    "constName": "DragonSpiritOpenLevel",
+    "constValue": 400
+  },
+  {
+    "constName": "DramaGuildTaskCode",
+    "constValue": 2001007
+  },
+  {
+    "constName": "DropBindControlLessWorldLevel",
+    "constValue": 50
+  },
+  {
+    "constName": "DropBindControlMaxBossLevel",
+    "constValue": 250
+  },
+  {
+    "constName": "DropItemClearSec",
+    "constValue": 60,
+    "constValueEx": 120
+  },
+  {
+    "constName": "DropItemProtectSec",
+    "constValue": 30
+  },
+  {
+    "constName": "DrugBagMaxLife",
+    "constValue": 100000000
+  },
+  {
+    "constName": "EactiveLoginRewardOnceLimitLev",
+    "constValue": 1
+  },
+  {
+    "constName": "EIntimateLevelChanceBuff",
+    "constValue": 1340900
+  },
+  {
+    "constName": "EIntimateLevelCloseBuff",
+    "constValue": 1350900
+  },
+  {
+    "constName": "EIntimateLevelHeartMagicalBuff",
+    "constValue": 1300900
+  },
+  {
+    "constName": "EIntimateLevelHeartPhysicalBuff",
+    "constValue": 1290900
+  },
+  {
+    "constName": "EIntimateLevelLifeMagiicalBuff",
+    "constValue": 1390900
+  },
+  {
+    "constName": "EIntimateLevelLifePhysicalBuff",
+    "constValue": 1400900
+  },
+  {
+    "constName": "EIntimateLevelPurposeBuff",
+    "constValue": 1330900
+  },
+  {
+    "constName": "EliteUpPercent",
+    "constValue": 20
+  },
+  {
+    "constName": "EncounterClearPkCost",
+    "constValue": 4
+  },
+  {
+    "constName": "EncounterCloseHour",
+    "constValue": 23,
+    "constValueEx": 59
+  },
+  {
+    "constName": "EncounterEndDt",
+    "constValue": 23,
+    "constValueEx": 59
+  },
+  {
+    "constName": "EncounterKillScoreAdd",
+    "constValue": 25
+  },
+  {
+    "constName": "EncounterPkScoreAdd",
+    "constValue": 20
+  },
+  {
+    "constName": "EncounterRankNum",
+    "constValue": 50000
+  },
+  {
+    "constName": "EncounterStartDt",
+    "constValueEx": 1
+  },
+  {
+    "constName": "EncounterTargetSelectNum",
+    "constValue": 50,
+    "constValueEx": 10
+  },
+  {
+    "constName": "EndlessBossCopyCode",
+    "constValue": 701
+  },
+  {
+    "constName": "EnergyMax",
+    "constValue": 1000
+  },
+  {
+    "constName": "EnterGuildBattleNumber",
+    "constValue": 30,
+    "constValueEx": 38
+  },
+  {
+    "constName": "EnterGuildMapContribution"
+  },
+  {
+    "constName": "EnterGuildMapCost",
+    "constValue": 200,
+    "constValueEx": 1
+  },
+  {
+    "constName": "EquipCopyBuffEndTimeNight",
+    "constValue": 18,
+    "constValueEx": 21500
+  },
+  {
+    "constName": "EquipCopyBuffEndTimeNoon",
+    "constValue": 12,
+    "constValueEx": 21500
+  },
+  {
+    "constName": "EquipCopyBuffID",
+    "constValue": 59000010
+  },
+  {
+    "constName": "EquipCopySweepPerTime",
+    "constValue": 180
+  },
+  {
+    "constName": "EquipCopySweepPerTimeCost",
+    "constValue": 3
+  },
+  {
+    "constName": "EquipDurableCostTime",
+    "constValue": 100
+  },
+  {
+    "constName": "EscortLeftTimeOut",
+    "constValue": 600
+  },
+  {
+    "constName": "EscortMaxDistance",
+    "constValue": 400
+  },
+  {
+    "constName": "EscortMinDistance"
+  },
+  {
+    "constName": "EscortNotifyTime",
+    "constValue": 60
+  },
+  {
+    "constName": "EscortNpc",
+    "constValue": 101010
+  },
+  {
+    "constName": "EscortPassDistance",
+    "constValue": 400
+  },
+  {
+    "constName": "ExpDice",
+    "constValue": 10
+  },
+  {
+    "constName": "ExpDiceFreeChange",
+    "constValue": 10
+  },
+  {
+    "constName": "ExpDicePlayerLevel",
+    "constValue": 60
+  },
+  {
+    "constName": "ExperienceCatagropheBroadCastLevel",
+    "constValue": 11
+  },
+  {
+    "constName": "ExperienceCatagropheCode",
+    "constValue": 150
+  },
+  {
+    "constName": "ExperienceCatastropheMaxBossNum",
+    "constValue": 130
+  },
+  {
+    "constName": "ExperienceCopyGoldCost",
+    "constValue": 500,
+    "constValueEx": 998
+  },
+  {
+    "constName": "ExperienceCopyResetCDCost",
+    "constValue": 100
+  },
+  {
+    "constName": "FairylandBossRefreshTime",
+    "constValue": 1800
+  },
+  {
+    "constName": "FairylandClosePrepareTime",
+    "constValue": 30,
+    "constValueEx": 10
+  },
+  {
+    "constName": "FairylandCopyCode",
+    "constValue": 129
+  },
+  {
+    "constName": "FairylandCrossCopyCode",
+    "constValue": 130
+  },
+  {
+    "constName": "FairylandMaxCopyNum",
+    "constValue": 18
+  },
+  {
+    "constName": "FairylandNpcPosition",
+    "constValue": 110401,
+    "constValueEx": 211000
+  },
+  {
+    "constName": "FairyPetParadeMapId",
+    "constValue": 110301
+  },
+  {
+    "constName": "FairyPetParadeMaxDistance",
+    "constValue": 300
+  },
+  {
+    "constName": "FairyPetParadeMinDistance",
+    "constValue": 80
+  },
+  {
+    "constName": "FarmAcceleratePlantPrice",
+    "constValue": 10
+  },
+  {
+    "constName": "FarmMaxAccelerateDay",
+    "constValue": 7
+  },
+  {
+    "constName": "FarmMaxGainDay",
+    "constValue": 50
+  },
+  {
+    "constName": "FarmMaxOperatorExp",
+    "constValue": 500,
+    "constValueEx": 500
+  },
+  {
+    "constName": "FarmMoneyTreeCount",
+    "constValue": 23
+  },
+  {
+    "constName": "FarmMoneyTreeFreeCount",
+    "constValue": 3
+  },
+  {
+    "constName": "FarmMoreGains",
+    "constValue": 2
+  },
+  {
+    "constName": "FarmNimbusTreeCostCount",
+    "constValue": 20
+  },
+  {
+    "constName": "FarmNimbusTreeFreeCount",
+    "constValue": 3
+  },
+  {
+    "constName": "FarmOperateMoneyTreeTime",
+    "constValue": 10
+  },
+  {
+    "constName": "FarmPetCanGetCount",
+    "constValue": 15
+  },
+  {
+    "constName": "FarmPetRefreshPrice",
+    "constValue": 5
+  },
+  {
+    "constName": "FarmPetRefreshTime",
+    "constValue": 1200
+  },
+  {
+    "constName": "FarmPetRefreshUnit",
+    "constValue": 3
+  },
+  {
+    "constName": "FarmPlantTime1",
+    "constValue": 3600,
+    "constValueEx": 100
+  },
+  {
+    "constName": "FarmPlantTime2",
+    "constValue": 14400,
+    "constValueEx": 90
+  },
+  {
+    "constName": "FarmPlantTime3",
+    "constValue": 43200,
+    "constValueEx": 80
+  },
+  {
+    "constName": "FeudalHegemonyAssistance",
+    "constValue": 1,
+    "constValueEx": 1
+  },
+  {
+    "constName": "FeudalHegemonyAssistRange",
+    "constValue": 500
+  },
+  {
+    "constName": "FeudalHegemonyAuto",
+    "constValue": 1,
+    "constValueEx": 2
+  },
+  {
+    "constName": "FeudalHegemonyBossId",
+    "constValue": 63230001
+  },
+  {
+    "constName": "FeudalHegemonyBuffer",
+    "constValue": 59000015,
+    "constValueEx": 55020699
+  },
+  {
+    "constName": "FeudalHegemonyCollect",
+    "constValue": 3,
+    "constValueEx": 5
+  },
+  {
+    "constName": "FeudalHegemonyCollectEx",
+    "constValue": 2
+  },
+  {
+    "constName": "FeudalHegemonyCoolDownTime",
+    "constValue": 120
+  },
+  {
+    "constName": "FeudalHegemonyKillOwner",
+    "constValue": 10,
+    "constValueEx": 10
+  },
+  {
+    "constName": "FeudalHegemonyKillPlayer",
+    "constValue": 3,
+    "constValueEx": 5
+  },
+  {
+    "constName": "FeudalHegemonyLevelLimit",
+    "constValue": 60,
+    "constValueEx": 40
+  },
+  {
+    "constName": "FeudalHegemonyLocation",
+    "constValue": 22,
+    "constValueEx": 27
+  },
+  {
+    "constName": "FeudalHegemonyTime",
+    "constValue": 1800
+  },
+  {
+    "constName": "FeudalHegemonyWorldLevel",
+    "constValue": 60
+  },
+  {
+    "constName": "FightMsgBroadCastMode"
+  },
+  {
+    "constName": "FireWoodAddCd",
+    "constValue": 60,
+    "constValueEx": 10
+  },
+  {
+    "constName": "FirewoodItemCode",
+    "constValue": 40110302
+  },
+  {
+    "constName": "FireworkBuffid",
+    "constValue": 8005000
+  },
+  {
+    "constName": "FireworkTimeLimit",
+    "constValue": 3
+  },
+  {
+    "constName": "FirstCampHonour",
+    "constValue": 4000
+  },
+  {
+    "constName": "FirstForceHonour",
+    "constValue": 3000
+  },
+  {
+    "constName": "FirstRechargeShowLevel",
+    "constValue": 10
+  },
+  {
+    "constName": "FirstRechargeTime",
+    "constValue": 2
+  },
+  {
+    "constName": "FiveElementsCopyBoss",
+    "constValue": 24000301
+  },
+  {
+    "constName": "FixStoneMapID",
+    "constValue": 400101
+  },
+  {
+    "constName": "FlowerRewardExp",
+    "constValue": 2000
+  },
+  {
+    "constName": "FlowerRewardExpLimited",
+    "constValue": 20
+  },
+  {
+    "constName": "FlushLoopTaskColorCost",
+    "constValue": 1,
+    "constValueEx": 1
+  },
+  {
+    "constName": "ForbidLockWordLevel",
+    "constValue": 30
+  },
+  {
+    "constName": "ForceWarAddScoreInterval",
+    "constValue": 30
+  },
+  {
+    "constName": "ForceWarForceOneModel",
+    "constValue": 10071007
+  },
+  {
+    "constName": "ForceWarForceThreeModel",
+    "constValue": 400001
+  },
+  {
+    "constName": "ForceWarForceTwoModel",
+    "constValue": 400002
+  },
+  {
+    "constName": "ForceWarPillarOwnTime",
+    "constValue": 300
+  },
+  {
+    "constName": "ForceWarSkillMaxCd",
+    "constValue": 5
+  },
+  {
+    "constName": "ForceWarSkills",
+    "constValue": 10107061,
+    "constValueEx": 10107062
+  },
+  {
+    "constName": "ForgetPetSkillCost",
+    "constValue": 10
+  },
+  {
+    "constName": "FreeGuildLotteryTimes",
+    "constValue": 3
+  },
+  {
+    "constName": "FriendActiveAddLevelLimit",
+    "constValue": 150
+  },
+  {
+    "constName": "FriendBlessMaxCount",
+    "constValue": 30
+  },
+  {
+    "constName": "FristRechargeGiftBagCode",
+    "constValue": 40111008
+  },
+  {
+    "constName": "FristRechargeGiftBagCode1",
+    "constValue": 40111008
+  },
+  {
+    "constName": "FristRechargeGiftBagCode2",
+    "constValue": 40111009
+  },
+  {
+    "constName": "FristRechargeGiftBagCode3",
+    "constValue": 40111010
+  },
+  {
+    "constName": "GangFightActiveId",
+    "constValue": -33
+  },
+  {
+    "constName": "gangFightBattlesMinPlayerNum",
+    "constValue": 6
+  },
+  {
+    "constName": "GangFightsAwardMinDayNum",
+    "constValue": 5
+  },
+  {
+    "constName": "GangFightsAwardMinMonthNum",
+    "constValue": 5
+  },
+  {
+    "constName": "GangFightsBattleItemReward",
+    "constValue": 14031195
+  },
+  {
+    "constName": "GangfightsBattleMagicStoneReward",
+    "constValue": 10,
+    "constValueEx": 16
+  },
+  {
+    "constName": "GangFightsBattlePlayerNum",
+    "constValue": 3
+  },
+  {
+    "constName": "GangFightsBattleTime",
+    "constValue": 15,
+    "constValueEx": 300
+  },
+  {
+    "constName": "GangFightsCopyCode",
+    "constValue": 151
+  },
+  {
+    "constName": "GangFightsCreateTeamCost",
+    "constValue": 10000,
+    "constValueEx": 1
+  },
+  {
+    "constName": "GangFightsInitMark",
+    "constValue": 12000,
+    "constValueEx": 12000
+  },
+  {
+    "constName": "GangFightsMarkRange",
+    "constValue": 8000,
+    "constValueEx": 25000
+  },
+  {
+    "constName": "GangFightsMatchInterval",
+    "constValue": 10
+  },
+  {
+    "constName": "GangFightsMinSignUpLevel",
+    "constValue": 65
+  },
+  {
+    "constName": "GangFightsModifyTeamCost",
+    "constValue": 10000,
+    "constValueEx": 1
+  },
+  {
+    "constName": "GangFightsMonthAwardItem10"
+  },
+  {
+    "constName": "GangFightsMonthAwardItem100"
+  },
+  {
+    "constName": "GangFightsMonthAwardItem1000"
+  },
+  {
+    "constName": "GangFightsMonthAwardItem5000",
+    "constValue": 14011689
+  },
+  {
+    "constName": "GangFightsRoomPlayerNum",
+    "constValue": 1200
+  },
+  {
+    "constName": "GangFightsTeamNameLimit",
+    "constValue": 10
+  },
+  {
+    "constName": "GangFightsToplistMaxNum",
+    "constValue": 2000
+  },
+  {
+    "constName": "GodEquipFragmentCode",
+    "constValue": 40245001
+  },
+  {
+    "constName": "GoldRefreshWorldBossTimes"
+  },
+  {
+    "constName": "GroupInviteCDTime",
+    "constValue": 60,
+    "constValueEx": 10
+  },
+  {
+    "constName": "GroupKeepActive",
+    "constValue": 180
+  },
+  {
+    "constName": "GroupShareDist",
+    "constValue": 1000
+  },
+  {
+    "constName": "Guild2CreateNeedMoney",
+    "constValue": 200,
+    "constValueEx": 2
+  },
+  {
+    "constName": "GuildAnimaCode",
+    "constValue": 137
+  },
+  {
+    "constName": "GuildBattleAltarTimerLimit",
+    "constValue": 30
+  },
+  {
+    "constName": "GuildBattleAssistant",
+    "constValue": 2,
+    "constValueEx": 1
+  },
+  {
+    "constName": "GuildBattleBuff",
+    "constValue": 55020699,
+    "constValueEx": 55060099
+  },
+  {
+    "constName": "GuildBattleClosePrepareTime",
+    "constValue": 120,
+    "constValueEx": 30
+  },
+  {
+    "constName": "GuildBattleCoolDownTime",
+    "constValue": 120
+  },
+  {
+    "constName": "GuildBattleCopyCode",
+    "constValue": 126,
+    "constValueEx": 131601
+  },
+  {
+    "constName": "GuildBattleEndScore",
+    "constValue": 3000
+  },
+  {
+    "constName": "GuildBattleEndTime",
+    "constValue": 1800,
+    "constValueEx": 120
+  },
+  {
+    "constName": "GuildBattleKill",
+    "constValue": 10,
+    "constValueEx": 5
+  },
+  {
+    "constName": "GuildBattleKillBoss",
+    "constValue": 400,
+    "constValueEx": 200
+  },
+  {
+    "constName": "GuildBattleKillBossEx",
+    "constValueEx": 10
+  },
+  {
+    "constName": "GuildBattleKilled",
+    "constValue": 2,
+    "constValueEx": 2
+  },
+  {
+    "constName": "GuildBattleKillOwner",
+    "constValue": 20,
+    "constValueEx": 20
+  },
+  {
+    "constName": "GuildBattleKillTop",
+    "constValue": 50,
+    "constValueEx": 20
+  },
+  {
+    "constName": "GuildBattleOcupied",
+    "constValue": 20,
+    "constValueEx": 10
+  },
+  {
+    "constName": "GuildBattleOcupiedEx",
+    "constValueEx": 5
+  },
+  {
+    "constName": "GuildBattleOcupiedTimer",
+    "constValue": 1,
+    "constValueEx": 1
+  },
+  {
+    "constName": "GuildBattleReward",
+    "constValue": 40111030,
+    "constValueEx": 40111031
+  },
+  {
+    "constName": "GuildBeastFoodItemCode",
+    "constValue": 41121000,
+    "constValueEx": 1
+  },
+  {
+    "constName": "GuildBeastGodBossBornPoint",
+    "constValue": 15,
+    "constValueEx": 24
+  },
+  {
+    "constName": "GuildBeastGodBossRefreshInterval",
+    "constValue": 30
+  },
+  {
+    "constName": "GuildBeastGodCopyCloseInterval",
+    "constValue": 10
+  },
+  {
+    "constName": "GuildBeastGodCopySuccessCloseInterval",
+    "constValue": 60
+  },
+  {
+    "constName": "GuildBeastGodFoodCode",
+    "constValue": 42070001
+  },
+  {
+    "constName": "GuildBeastGodOpenCountLimit",
+    "constValue": 5
+  },
+  {
+    "constName": "GuildBeastGodOpenNeedVal",
+    "constValue": 7000
+  },
+  {
+    "constName": "GuildBeastGodOpenTimeLimitLower",
+    "constValue": 20
+  },
+  {
+    "constName": "GuildBeastGodOpenTimeLimitUpper",
+    "constValue": 22
+  },
+  {
+    "constName": "GuildBeastGrowth",
+    "constValue": 10000
+  },
+  {
+    "constName": "GuildBeastGrowthOne",
+    "constValue": 3500
+  },
+  {
+    "constName": "GuildBeastGrowthThree",
+    "constValue": 12000
+  },
+  {
+    "constName": "GuildBeastGrowthTwo",
+    "constValue": 7000
+  },
+  {
+    "constName": "GuildBossAddBuffMax",
+    "constValue": 20
+  },
+  {
+    "constName": "GuildBossFeedReward",
+    "constValue": 10
+  },
+  {
+    "constName": "GuildBossIntruderCrossOpenPerDayTime",
+    "constValue": 20,
+    "constValueEx": 30
+  },
+  {
+    "constName": "GuildBossMaxLevel",
+    "constValue": 5
+  },
+  {
+    "constName": "GuildBossPoint",
+    "constValue": 5,
+    "constValueEx": 16
+  },
+  {
+    "constName": "GuildBossSummonCount",
+    "constValue": 3
+  },
+  {
+    "constName": "GuildBuySpaceNeedMoney",
+    "constValue": 50000
+  },
+  {
+    "constName": "GuildCopyCode",
+    "constValue": 109
+  },
+  {
+    "constName": "GuildCreateInitMoney",
+    "constValue": 3000
+  },
+  {
+    "constName": "GuildCreateInitWarfareLimited",
+    "constValue": 20000
+  },
+  {
+    "constName": "GuildCreateNeedMoney",
+    "constValue": 2000,
+    "constValueEx": 2
+  },
+  {
+    "constName": "GuildCreateOptionGVExContributionReward",
+    "constValue": 5000
+  },
+  {
+    "constName": "GuildCreateOptionGVExNeedMoney",
+    "constValue": 5000,
+    "constValueEx": 2
+  },
+  {
+    "constName": "GuildCreateOptionGVExVipLimit",
+    "constValue": 4
+  },
+  {
+    "constName": "GuildCreateOptionGVNeedMoney",
+    "constValue": 1000,
+    "constValueEx": 2
+  },
+  {
+    "constName": "GuildCreateOptionGVVipLimit",
+    "constValue": 1
+  },
+  {
+    "constName": "GuildCreateOptionMPNeedMoney",
+    "constValue": 5000000,
+    "constValueEx": 1
+  },
+  {
+    "constName": "GuildCreateOptionMPNeedProp",
+    "constValue": 42230004,
+    "constValueEx": 1
+  },
+  {
+    "constName": "GuildDailyReward",
+    "constValue": 41980001,
+    "constValueEx": 1
+  },
+  {
+    "constName": "GuildDefenceBorder",
+    "constValue": 12,
+    "constValueEx": 18
+  },
+  {
+    "constName": "GuildDefenceBossPlanFour",
+    "constValue": 23
+  },
+  {
+    "constName": "GuildDefenceBossPlanOne",
+    "constValue": 20
+  },
+  {
+    "constName": "GuildDefenceBossPlanThree",
+    "constValue": 22
+  },
+  {
+    "constName": "GuildDefenceBossPlanTwo",
+    "constValue": 21
+  },
+  {
+    "constName": "GuildDefencePlayerCount",
+    "constValue": 2
+  },
+  {
+    "constName": "GuildDefenseCopyCode",
+    "constValue": 148
+  },
+  {
+    "constName": "GuildDefenseWeekCount",
+    "constValue": 2
+  },
+  {
+    "constName": "GuildDisbandPlayerNumLimit",
+    "constValue": 10
+  },
+  {
+    "constName": "GuildDonateBeastGodAddContri",
+    "constValue": 100
+  },
+  {
+    "constName": "GuildFlameDrinkBuffId",
+    "constValue": 55910099,
+    "constValueEx": 10000
+  },
+  {
+    "constName": "GuildFlameDrinkMaxCount",
+    "constValue": 5,
+    "constValueEx": 120
+  },
+  {
+    "constName": "GuildFlameNpcId",
+    "constValue": 232001
+  },
+  {
+    "constName": "GuildFlameRewardDistance",
+    "constValue": 600
+  },
+  {
+    "constName": "GuildHouseMaxLevel",
+    "constValue": 6
+  },
+  {
+    "constName": "GuildLeaveCostContributionPer",
+    "constValue": 100
+  },
+  {
+    "constName": "GuildLevelUpMailLevel",
+    "constValue": 43
+  },
+  {
+    "constName": "GuildLogMaxNum",
+    "constValue": 100
+  },
+  {
+    "constName": "GuildManagerPoint",
+    "constValue": 172,
+    "constValueEx": 77
+  },
+  {
+    "constName": "GuildMaxLevel",
+    "constValue": 20
+  },
+  {
+    "constName": "GuildMinMoney",
+    "constValue": -10000
+  },
+  {
+    "constName": "GuildNameLimit",
+    "constValue": 7
+  },
+  {
+    "constName": "GuildPartyAutoTimerInterval",
+    "constValue": 15
+  },
+  {
+    "constName": "GuildPartyBookTime",
+    "constValue": 9,
+    "constValueEx": 22
+  },
+  {
+    "constName": "GuildPartyBornPoint",
+    "constValue": 20,
+    "constValueEx": 25
+  },
+  {
+    "constName": "GuildPartyContinueTime",
+    "constValue": 900
+  },
+  {
+    "constName": "GuildPartyHotConsume",
+    "constValue": 5000,
+    "constValueEx": 1
+  },
+  {
+    "constName": "GuildPartyHotDegree",
+    "constValue": 10,
+    "constValueEx": 1000
+  },
+  {
+    "constName": "GuildPromotionAreaCount",
+    "constValue": 5
+  },
+  {
+    "constName": "GuildPromotionCrystal",
+    "constValue": 30090002,
+    "constValueEx": 30090003
+  },
+  {
+    "constName": "GuildPromotionCrystalDefault",
+    "constValue": 30090001
+  },
+  {
+    "constName": "GuildPromotionFirstOpenDay",
+    "constValue": 4
+  },
+  {
+    "constName": "GuildPromotionMakeListTime",
+    "constValue": 19
+  },
+  {
+    "constName": "GuildPromotionMatchOneBeginTime",
+    "constValue": 21
+  },
+  {
+    "constName": "GuildPromotionMatchOneEndTime",
+    "constValue": 21,
+    "constValueEx": 20
+  },
+  {
+    "constName": "GuildPromotionMatchTwoBeginTime",
+    "constValue": 21,
+    "constValueEx": 30
+  },
+  {
+    "constName": "GuildPromotionMatchTwoEndTime",
+    "constValue": 21,
+    "constValueEx": 50
+  },
+  {
+    "constName": "GuildPromotionMaxScore",
+    "constValue": 2000
+  },
+  {
+    "constName": "GuildPromotionMergeOpenDay",
+    "constValue": 2,
+    "constValueEx": 5
+  },
+  {
+    "constName": "GuildPromotionOpenWaitSec",
+    "constValue": 60
+  },
+  {
+    "constName": "GuildPurposeChangeNeedLevel",
+    "constValue": 3
+  },
+  {
+    "constName": "GuildPurposeLimit",
+    "constValue": 200
+  },
+  {
+    "constName": "GuildPurposeNoticeCost",
+    "constValue": 10
+  },
+  {
+    "constName": "GuildPurposeNoticeNeedLevel",
+    "constValue": 3
+  },
+  {
+    "constName": "GuildPurposeNoticeNumPerWeek",
+    "constValue": 3
+  },
+  {
+    "constName": "GuildRedPacketBroadcastLimit",
+    "constValue": 100
+  },
+  {
+    "constName": "GuildRedPacketPlayerLimit",
+    "constValue": 6,
+    "constValueEx": 10
+  },
+  {
+    "constName": "GuildRedPacketSystemLimit",
+    "constValue": 10
+  },
+  {
+    "constName": "GuildReikiAddReward",
+    "constValue": 3000,
+    "constValueEx": 1500
+  },
+  {
+    "constName": "GuildReikiRange",
+    "constValueEx": 900
+  },
+  {
+    "constName": "guildRewardAddTimes",
+    "constValue": 2,
+    "constValueEx": 1
+  },
+  {
+    "constName": "GuildShopMaxLevel",
+    "constValue": 1
+  },
+  {
+    "constName": "GuildShopRefreshTime"
+  },
+  {
+    "constName": "GuildSpaceNeedLevel",
+    "constValue": 2
+  },
+  {
+    "constName": "GuildStruggleAnswerMaxDrop",
+    "constValue": 12040102,
+    "constValueEx": 1
+  },
+  {
+    "constName": "GuildStruggleAnswerRightDrop",
+    "constValue": 14031003,
+    "constValueEx": 10
+  },
+  {
+    "constName": "GuildStruggleClosePrepareTime",
+    "constValue": 120,
+    "constValueEx": 30
+  },
+  {
+    "constName": "GuildStruggleCopyCode",
+    "constValue": 142
+  },
+  {
+    "constName": "GuildStruggleMinGuildLevel",
+    "constValue": 2
+  },
+  {
+    "constName": "GuildStruggleOpenDayOfWeek",
+    "constValue": 3,
+    "constValueEx": 5
+  },
+  {
+    "constName": "GuildSumeruDreamlandCopyCode",
+    "constValue": 149
+  },
+  {
+    "constName": "GuildSumeruDreamlandWeekCount",
+    "constValue": 2
+  },
+  {
+    "constName": "GuildTeamCopyCode",
+    "constValue": 6002
+  },
+  {
+    "constName": "GuildTreeAddColdTime",
+    "constValue": 3600
+  },
+  {
+    "constName": "GuildTreeAddExperience",
+    "constValue": 10
+  },
+  {
+    "constName": "GuildTreeAddValueContribution",
+    "constValue": 20
+  },
+  {
+    "constName": "GuildTreeBornPoint",
+    "constValue": 20,
+    "constValueEx": 25
+  },
+  {
+    "constName": "GuildTreeBoss",
+    "constValue": 2109100,
+    "constValueEx": 2109006
+  },
+  {
+    "constName": "GuildTreeBossMaxCount",
+    "constValue": 40,
+    "constValueEx": 100
+  },
+  {
+    "constName": "GuildTreeCallNumPerWeek",
+    "constValue": 5
+  },
+  {
+    "constName": "GuildTreeExtraPercent",
+    "constValue": 20
+  },
+  {
+    "constName": "GuildTreeHighPrize",
+    "constValue": 450,
+    "constValueEx": 100
+  },
+  {
+    "constName": "GuildTreeLowPrize"
+  },
+  {
+    "constName": "GuildTreeMaxAddList",
+    "constValue": 18
+  },
+  {
+    "constName": "GuildTreeMaxAddNum",
+    "constValue": 5
+  },
+  {
+    "constName": "GuildTreeMaxPickNum",
+    "constValue": 5
+  },
+  {
+    "constName": "GuildTreeMidPrize",
+    "constValue": 100,
+    "constValueEx": 20
+  },
+  {
+    "constName": "GuildTreeNpcId",
+    "constValue": 3000037
+  },
+  {
+    "constName": "GuildTreePickContribution",
+    "constValue": 2
+  },
+  {
+    "constName": "GuildTreeRipeRefreshTimes",
+    "constValue": 5
+  },
+  {
+    "constName": "GuildTreeRipeStartTime",
+    "constValue": 14,
+    "constValueEx": 30
+  },
+  {
+    "constName": "GuildTreeRipeStartTimeRand",
+    "constValue": 3600
+  },
+  {
+    "constName": "GuildTreeShakeMinLevel",
+    "constValue": 40
+  },
+  {
+    "constName": "GuildTreeTotalValue",
+    "constValue": 120
+  },
+  {
+    "constName": "GuildTreeWormRefreshTimes",
+    "constValue": 5
+  },
+  {
+    "constName": "GuildTreeWormStartTime",
+    "constValue": 14,
+    "constValueEx": 30
+  },
+  {
+    "constName": "GuildTreeWormStartTimeRand",
+    "constValue": 3600
+  },
+  {
+    "constName": "GuildWarAssistRange",
+    "constValue": 500
+  },
+  {
+    "constName": "GuildWarBeKilledOutReward",
+    "constValue": 20
+  },
+  {
+    "constName": "GuildWarBossCode",
+    "constValue": 63090000
+  },
+  {
+    "constName": "GuildWarClosePrepareTime",
+    "constValue": 120,
+    "constValueEx": 30
+  },
+  {
+    "constName": "GuildWarCopyCode",
+    "constValue": 119
+  },
+  {
+    "constName": "GuildWarehouseApplyContribution",
+    "constValue": 500
+  },
+  {
+    "constName": "GuildWarehouseChangeItem",
+    "constValue": 40030706,
+    "constValueEx": 20000
+  },
+  {
+    "constName": "GuildWarFirstMeritsReward",
+    "constValue": 14112301,
+    "constValueEx": 4
+  },
+  {
+    "constName": "GuildWarGuildNum",
+    "constValue": 5
+  },
+  {
+    "constName": "GuildWarKillAssistScore",
+    "constValue": 4,
+    "constValueEx": 50
+  },
+  {
+    "constName": "GuildWarKillGuildScore",
+    "constValue": 20,
+    "constValueEx": 500
+  },
+  {
+    "constName": "GuildWarKillPlayerScore",
+    "constValue": 10,
+    "constValueEx": 120
+  },
+  {
+    "constName": "GuildWarKillRewardItem",
+    "constValue": 14102305
+  },
+  {
+    "constName": "GuildWarMaxKillBossNum",
+    "constValue": 3
+  },
+  {
+    "constName": "GuildWarMinGuildPlayerNum",
+    "constValue": 5
+  },
+  {
+    "constName": "GuildWarReviveBuffer",
+    "constValue": 55997000
+  },
+  {
+    "constName": "GuildWarReviveTimes",
+    "constValue": 6
+  },
+  {
+    "constName": "GuildWarRewardItem1",
+    "constValue": 40111030,
+    "constValueEx": 2
+  },
+  {
+    "constName": "GuildWarRewardItem1Level60",
+    "constValue": 40111031,
+    "constValueEx": 2
+  },
+  {
+    "constName": "GuildWarRewardItem2",
+    "constValue": 40111030,
+    "constValueEx": 1
+  },
+  {
+    "constName": "GuildWarRewardItem2Level60",
+    "constValue": 40111031,
+    "constValueEx": 1
+  },
+  {
+    "constName": "GuildWarRewardItem3",
+    "constValue": 40111030,
+    "constValueEx": 1
+  },
+  {
+    "constName": "GuildWarRewardItem3Level60",
+    "constValue": 40111031,
+    "constValueEx": 1
+  },
+  {
+    "constName": "GuildWarRewardItemInGuild",
+    "constValue": 14011461
+  },
+  {
+    "constName": "GuildWarRingTime",
+    "constValue": 3,
+    "constValueEx": 600
+  },
+  {
+    "constName": "GuildWarSignUpTime",
+    "constValue": 600,
+    "constValueEx": 300
+  },
+  {
+    "constName": "HandselCheristmasCardAddIntimateLimit",
+    "constValue": 199
+  },
+  {
+    "constName": "HandselCheristmasCardBuffid",
+    "constValue": 8004000
+  },
+  {
+    "constName": "HandselFlowerAddIntimateLimit",
+    "constValue": 1000000,
+    "constValueEx": 1000000
+  },
+  {
+    "constName": "HonourExchangeNpc",
+    "constValue": 110401,
+    "constValueEx": 230301
+  },
+  {
+    "constName": "HooKEnergyMax",
+    "constValue": 100000
+  },
+  {
+    "constName": "HooKEnergyRecoverPerMinute",
+    "constValue": 5,
+    "constValueEx": 2
+  },
+  {
+    "constName": "HundredBindGoldCode",
+    "constValue": 40151320
+  },
+  {
+    "constName": "HurMakeDropDistance",
+    "constValue": 500
+  },
+  {
+    "constName": "ImagePkBuyFightNumCost",
+    "constValue": 10,
+    "constValueEx": 2
+  },
+  {
+    "constName": "ImagePkDayBuyFightNum",
+    "constValue": 5
+  },
+  {
+    "constName": "ImagePkDayFightNum",
+    "constValue": 10
+  },
+  {
+    "constName": "ImagePkFightRewardHonour",
+    "constValue": 1000
+  },
+  {
+    "constName": "ImagePkInspireCost",
+    "constValue": 20,
+    "constValueEx": 2
+  },
+  {
+    "constName": "ImagePkInspireEffect",
+    "constValue": 5
+  },
+  {
+    "constName": "ImagePkInspireMaxNum",
+    "constValue": 10
+  },
+  {
+    "constName": "ImagePkRankRewardHour",
+    "constValue": 22
+  },
+  {
+    "constName": "ImpeachGuildLeaderCost",
+    "constValue": 288
+  },
+  {
+    "constName": "InterHonourExchangeNpc",
+    "constValue": 140101,
+    "constValueEx": 210415
+  },
+  {
+    "constName": "IntimateCommingSourceBossHome",
+    "constValue": 2
+  },
+  {
+    "constName": "IntimateCommingSourceCopy",
+    "constValue": 5
+  },
+  {
+    "constName": "IntimateCommingSourceGroup",
+    "constValue": 3
+  },
+  {
+    "constName": "IntimateLevelEight",
+    "constValue": 150000
+  },
+  {
+    "constName": "IntimateLevelFive",
+    "constValue": 26000
+  },
+  {
+    "constName": "IntimateLevelFour",
+    "constValue": 13000
+  },
+  {
+    "constName": "IntimateLevelNine",
+    "constValue": 300000
+  },
+  {
+    "constName": "IntimateLevelOne",
+    "constValue": 1000
+  },
+  {
+    "constName": "IntimateLevelSeven",
+    "constValue": 90000
+  },
+  {
+    "constName": "IntimateLevelSix",
+    "constValue": 50000
+  },
+  {
+    "constName": "IntimateLevelThree",
+    "constValue": 6000
+  },
+  {
+    "constName": "IntimateLevelTwo",
+    "constValue": 3000
+  },
+  {
+    "constName": "InvestMensual",
+    "constValue": 300
+  },
+  {
+    "constName": "InvestPlan",
+    "constValue": 400
+  },
+  {
+    "constName": "IssmReward1",
+    "constValue": 40110206,
+    "constValueEx": 500
+  },
+  {
+    "constName": "IssmReward2",
+    "constValue": 60010002,
+    "constValueEx": 10
+  },
+  {
+    "constName": "IssmReward3",
+    "constValue": 40151014,
+    "constValueEx": 10
+  },
+  {
+    "constName": "JewelRefineLevel",
+    "constValue": 7
+  },
+  {
+    "constName": "KillBossAddIntimate",
+    "constValue": 3
+  },
+  {
+    "constName": "KillGuildLeaderBroadcastInterval",
+    "constValue": 300,
+    "constValueEx": 60
+  },
+  {
+    "constName": "KillMonsterBossReward",
+    "constValue": 40151112
+  },
+  {
+    "constName": "KingStifeCloseHour",
+    "constValue": 22,
+    "constValueEx": 30
+  },
+  {
+    "constName": "KingStifeEndDt",
+    "constValue": 22
+  },
+  {
+    "constName": "KingStifeRankNum",
+    "constValue": 20
+  },
+  {
+    "constName": "KingStifeStartDt",
+    "constValue": 10
+  },
+  {
+    "constName": "KingStifeWeekClose",
+    "constValue": 1
+  },
+  {
+    "constName": "lastTime",
+    "constValue": 300
+  },
+  {
+    "constName": "LedTheFightReward",
+    "constValue": 40121014
+  },
+  {
+    "constName": "LevelCopyCode",
+    "constValue": 1002
+  },
+  {
+    "constName": "LevelUpMailLevel1",
+    "constValue": 55
+  },
+  {
+    "constName": "LevelUpMailLevel2",
+    "constValue": 80
+  },
+  {
+    "constName": "LiarDiceCopyCode",
+    "constValue": 188
+  },
+  {
+    "constName": "LiarDiceValidPos",
+    "constValue": 1,
+    "constValueEx": 5
+  },
+  {
+    "constName": "LifeRecoverTimePercent",
+    "constValue": 10,
+    "constValueEx": 50
+  },
+  {
+    "constName": "LoopTaskBookFreeFlushMaxCount",
+    "constValue": 3
+  },
+  {
+    "constName": "LotteryCopyCode",
+    "constValue": 123
+  },
+  {
+    "constName": "LotteryEquipFirst",
+    "constValue": 40151012,
+    "constValueEx": 5
+  },
+  {
+    "constName": "LotteryFloodCountLimit",
+    "constValue": 10
+  },
+  {
+    "constName": "LotteryGiveMoney",
+    "constValue": 10000
+  },
+  {
+    "constName": "LotterySeabedCountLimit",
+    "constValue": 10
+  },
+  {
+    "constName": "LoveBoxExpiredDay",
+    "constValue": 30
+  },
+  {
+    "constName": "LoveBoxPrice",
+    "constValue": 520
+  },
+  {
+    "constName": "LoveStoneItemCode",
+    "constValue": 40451210
+  },
+  {
+    "constName": "LoveZazenDistance",
+    "constValue": 400
+  },
+  {
+    "constName": "LoveZazenMaxTime",
+    "constValue": 14400
+  },
+  {
+    "constName": "LoveZazenNPCId",
+    "constValue": 230305
+  },
+  {
+    "constName": "MagicTowerBossAddTime",
+    "constValue": 20
+  },
+  {
+    "constName": "MagicTowerBossDelTime",
+    "constValue": 20
+  },
+  {
+    "constName": "MagicTowerSweepSecPerFloor",
+    "constValue": 30
+  },
+  {
+    "constName": "MagicTownCopyCode",
+    "constValue": 1005
+  },
+  {
+    "constName": "MainCityGuildMessengerCoordinate",
+    "constValue": 42,
+    "constValueEx": 12
+  },
+  {
+    "constName": "MainCityMapId",
+    "constValue": 110401
+  },
+  {
+    "constName": "MakeCakeMapId",
+    "constValue": 500104
+  },
+  {
+    "constName": "MakeUpBufferRange",
+    "constValue": 2600032,
+    "constValueEx": 2600032
+  },
+  {
+    "constName": "MakeUpKillGiftBag",
+    "constValue": 14012314
+  },
+  {
+    "constName": "ManHuangCopyLeftInterval",
+    "constValue": 30
+  },
+  {
+    "constName": "ManHuangCopyReviveAddRate",
+    "constValue": 20
+  },
+  {
+    "constName": "ManHuangPropPrice",
+    "constValue": 80
+  },
+  {
+    "constName": "MapShieldUpdateCD",
+    "constValue": 20
+  },
+  {
+    "constName": "MarketPerPage",
+    "constValue": 10,
+    "constValueEx": 1
+  },
+  {
+    "constName": "MarketSellAmountLimit",
+    "constValue": 8,
+    "constValueEx": 8
+  },
+  {
+    "constName": "MarryManAndWomanDis",
+    "constValue": 300
+  },
+  {
+    "constName": "MarryNeedIntimate",
+    "constValue": 520
+  },
+  {
+    "constName": "MaterialBossCode",
+    "constValue": 20400102
+  },
+  {
+    "constName": "MaterialCopyCode",
+    "constValue": 1003
+  },
+  {
+    "constName": "MaxAccumulation",
+    "constValue": 9999999
+  },
+  {
+    "constName": "MaxAttchmentPlayerMailOneDay",
+    "constValue": 20
+  },
+  {
+    "constName": "MaxBlackListAmount",
+    "constValue": 50
+  },
+  {
+    "constName": "MaxCakeMaterialAmount",
+    "constValue": 20
+  },
+  {
+    "constName": "MaxChatPhraseLength",
+    "constValue": 30
+  },
+  {
+    "constName": "MaxEnemyAmount",
+    "constValue": 20
+  },
+  {
+    "constName": "MaxFriendAmount",
+    "constValue": 50
+  },
+  {
+    "constName": "MaxFriendApplyAmount",
+    "constValue": 50
+  },
+  {
+    "constName": "MaxFriendGiveStrength",
+    "constValue": 50
+  },
+  {
+    "constName": "MaxFriendOfflineChatMsgSize",
+    "constValue": 50
+  },
+  {
+    "constName": "MaxOfferStrengthLevel",
+    "constValue": 40
+  },
+  {
+    "constName": "MaxPlayerCreateRoleLimit",
+    "constValue": 1
+  },
+  {
+    "constName": "MaxStoneMaterialAmount",
+    "constValue": 30
+  },
+  {
+    "constName": "MeritAddFailGame",
+    "constValue": 10
+  },
+  {
+    "constName": "MeritAddKillOnePlayer",
+    "constValue": 10
+  },
+  {
+    "constName": "MeritAddWinGame",
+    "constValue": 20
+  },
+  {
+    "constName": "MgBattlePrepareTime",
+    "constValue": 30
+  },
+  {
+    "constName": "MgBattleRankOneTitleCode",
+    "constValue": 200043
+  },
+  {
+    "constName": "MgBattleRankThreeTitleCode",
+    "constValue": 200056
+  },
+  {
+    "constName": "MgBattleRankTwoTitleCode",
+    "constValue": 200055
+  },
+  {
+    "constName": "MgBattleRewardItemCode",
+    "constValue": 40111095,
+    "constValueEx": 40111096
+  },
+  {
+    "constName": "MgGuildBattleCollectLifeCount",
+    "constValue": 10
+  },
+  {
+    "constName": "MgGuildBattleCollectLifePer",
+    "constValue": 7
+  },
+  {
+    "constName": "MgGuildBattleDoorLifePer",
+    "constValue": 50
+  },
+  {
+    "constName": "MgGuildBattleOpen",
+    "constValue": 1
+  },
+  {
+    "constName": "MgGuildBattleServerGuildNum",
+    "constValue": 2,
+    "constValueEx": 4
+  },
+  {
+    "constName": "MgGuildDefenseAutoNextRingInterval",
+    "constValue": 10
+  },
+  {
+    "constName": "MgGuildDefenseBossPoints",
+    "constValue": 60
+  },
+  {
+    "constName": "MgGuildDefenseElilePoints",
+    "constValue": 20
+  },
+  {
+    "constName": "MgGuildDefenseEnterCloseInterval",
+    "constValue": 900
+  },
+  {
+    "constName": "MgGuildDefenseFailItemCode",
+    "constValue": 40110255
+  },
+  {
+    "constName": "MgGuildDefenseMaxPickUpNum",
+    "constValue": 2
+  },
+  {
+    "constName": "MgGuildDefenseNormalPoints",
+    "constValue": 5
+  },
+  {
+    "constName": "MgGuildDefenseReingBossWave",
+    "constValue": 8
+  },
+  {
+    "constName": "MgGuildDefenseRingPerWave",
+    "constValue": 10
+  },
+  {
+    "constName": "MgGuildDefenseSecondStageCloseInterval",
+    "constValue": 300
+  },
+  {
+    "constName": "MgGuildDefenseSpecialBossInterval",
+    "constValue": 150
+  },
+  {
+    "constName": "MgGuildDefenseSpecialBossMaxWave",
+    "constValue": 4
+  },
+  {
+    "constName": "MgGuildDefenseSuccessItemCode",
+    "constValue": 40110254
+  },
+  {
+    "constName": "MgGuildPartyRankReward",
+    "constValue": 40150001,
+    "constValueEx": 1
+  },
+  {
+    "constName": "MgGuildTaskMax",
+    "constValue": 70
+  },
+  {
+    "constName": "MgGuildTaskNpc",
+    "constValue": 101004
+  },
+  {
+    "constName": "MgRingTaskMax",
+    "constValue": 20
+  },
+  {
+    "constName": "MgRingTaskNpc",
+    "constValue": 101005
+  },
+  {
+    "constName": "MixSpirit",
+    "constValue": 2,
+    "constValueEx": 1888
+  },
+  {
+    "constName": "MoneyTrace31To40",
+    "constValue": 500
+  },
+  {
+    "constName": "MoneyTrace41To50",
+    "constValue": 2000
+  },
+  {
+    "constName": "MoneyTrace51To60",
+    "constValue": 5000
+  },
+  {
+    "constName": "MountUpgradeBatch",
+    "constValue": 4
+  },
+  {
+    "constName": "MountUpgradeCoin",
+    "constValue": 20000,
+    "constValueEx": 100
+  },
+  {
+    "constName": "MountUpgradeMoney",
+    "constValue": 20,
+    "constValueEx": 200
+  },
+  {
+    "constName": "MysteryShopBeltPr",
+    "constValue": 1250,
+    "constValueEx": 8
+  },
+  {
+    "constName": "MysteryShopBuyRecordsMaxNum",
+    "constValue": 50,
+    "constValueEx": 10
+  },
+  {
+    "constName": "MysteryShopCategoryPr",
+    "constValue": 3000
+  },
+  {
+    "constName": "MysteryShopClothesPr",
+    "constValue": 1250,
+    "constValueEx": 7
+  },
+  {
+    "constName": "MysteryShopCode",
+    "constValue": 1018
+  },
+  {
+    "constName": "MysteryShopColorPr",
+    "constValue": 4000
+  },
+  {
+    "constName": "MysteryShopEquipDiscountPr0",
+    "constValue": 3300,
+    "constValueEx": 10
+  },
+  {
+    "constName": "MysteryShopEquipDiscountPr5",
+    "constValue": 3300,
+    "constValueEx": 5
+  },
+  {
+    "constName": "MysteryShopEquipDiscountPr8",
+    "constValue": 3400,
+    "constValueEx": 8
+  },
+  {
+    "constName": "MysteryShopGlovesPr",
+    "constValue": 1250,
+    "constValueEx": 9
+  },
+  {
+    "constName": "MysteryShopGoldCost",
+    "constValue": 200
+  },
+  {
+    "constName": "MysteryShopHelmetPr",
+    "constValue": 1250,
+    "constValueEx": 3
+  },
+  {
+    "constName": "MysteryShopKeyItemCode",
+    "constValue": 42061007
+  },
+  {
+    "constName": "MysteryShopRefreshTime",
+    "constValue": 4
+  },
+  {
+    "constName": "MysteryShopShoesPr",
+    "constValue": 1250,
+    "constValueEx": 10
+  },
+  {
+    "constName": "MysteryShopShoulderPr",
+    "constValue": 1250,
+    "constValueEx": 6
+  },
+  {
+    "constName": "MysteryShopWeaponPr",
+    "constValue": 1250,
+    "constValueEx": 1
+  },
+  {
+    "constName": "MysteryShopWristletPr",
+    "constValue": 1250,
+    "constValueEx": 5
+  },
+  {
+    "constName": "MythChallengeCd",
+    "constValue": 600,
+    "constValueEx": 5
+  },
+  {
+    "constName": "MythChallengeTimes",
+    "constValue": 15
+  },
+  {
+    "constName": "NaturalGiftNum",
+    "constValue": 10,
+    "constValueEx": 1
+  },
+  {
+    "constName": "NeedLoginQueue",
+    "constValue": 1
+  },
+  {
+    "constName": "NeedUserActivationCard"
+  },
+  {
+    "constName": "New60CopyTotalWaveNum",
+    "constValue": 200
+  },
+  {
+    "constName": "NewBattleEnterTime",
+    "constValue": 2
+  },
+  {
+    "constName": "NewBattleFieldAssistDistance",
+    "constValue": 400
+  },
+  {
+    "constName": "NewBattleFieldCanOpenTime",
+    "constValue": 5400
+  },
+  {
+    "constName": "NewBattleFieldCloseDelay",
+    "constValue": 120
+  },
+  {
+    "constName": "NewBattleFieldCopyCode",
+    "constValue": 136
+  },
+  {
+    "constName": "NewBattleFieldDeadHonour",
+    "constValue": 2
+  },
+  {
+    "constName": "NewBattleFieldEnterCD"
+  },
+  {
+    "constName": "NewBattleFieldInstantKillCD",
+    "constValue": 5
+  },
+  {
+    "constName": "NewBattleFieldLastTime",
+    "constValue": 1200
+  },
+  {
+    "constName": "NewBattleFieldLastTowerEffect",
+    "constValue": 58
+  },
+  {
+    "constName": "NewBattleFieldMaxFieldNum",
+    "constValue": 30
+  },
+  {
+    "constName": "NewBattleFieldMaxPlayerNum",
+    "constValue": 60
+  },
+  {
+    "constName": "NewBattleFieldMaxPlayerNumForVIP",
+    "constValue": 100
+  },
+  {
+    "constName": "NewBattleFieldMinEnterLevel",
+    "constValue": 45
+  },
+  {
+    "constName": "NewBattleFieldNewFieldNeedPlayerNum",
+    "constValue": 50
+  },
+  {
+    "constName": "NewBattleFieldTowerEffect",
+    "constValue": 5
+  },
+  {
+    "constName": "NewBattleFieldTowerHonour",
+    "constValue": 600
+  },
+  {
+    "constName": "NewBattleShieldCount",
+    "constValue": 30
+  },
+  {
+    "constName": "NewCrossBossBuffCode",
+    "constValue": 67100008,
+    "constValueEx": 67100009
+  },
+  {
+    "constName": "NewCrossBossCopyCode",
+    "constValue": 7101
+  },
+  {
+    "constName": "NewCrossBossCrossFieldNum",
+    "constValue": 1
+  },
+  {
+    "constName": "NewCrossBossCrossFieldNumEx",
+    "constValue": 4
+  },
+  {
+    "constName": "NewCrossBossLocalNum",
+    "constValueEx": 3
+  },
+  {
+    "constName": "NewCrossBossServerNum",
+    "constValueEx": 20
+  },
+  {
+    "constName": "NewGuidRemove",
+    "constValue": 50
+  },
+  {
+    "constName": "NewWorldBossCopyCode",
+    "constValue": 801
+  },
+  {
+    "constName": "NewWorldBossExAiTime",
+    "constValue": 3,
+    "constValueEx": 5
+  },
+  {
+    "constName": "NewWorldBossExEnterTime",
+    "constValue": 8
+  },
+  {
+    "constName": "NewWorldBossExPlayerNum",
+    "constValue": 2
+  },
+  {
+    "constName": "NewWorldBossExRefreshTime",
+    "constValue": 120,
+    "constValueEx": 90
+  },
+  {
+    "constName": "NewYearReturnGiftCode",
+    "constValue": 14011464
+  },
+  {
+    "constName": "NewYearReturnGiftDay",
+    "constValue": 15368
+  },
+  {
+    "constName": "NimbusMax",
+    "constValue": 100000
+  },
+  {
+    "constName": "NonCurrentDayRegistCost",
+    "constValue": 20
+  },
+  {
+    "constName": "NormalChapterMinCopyCode",
+    "constValue": 8901
+  },
+  {
+    "constName": "NpcTaskDistance",
+    "constValue": 400
+  },
+  {
+    "constName": "OfflineChatMsgPageSize",
+    "constValue": 100
+  },
+  {
+    "constName": "OfflineExpMaxHour",
+    "constValue": 12
+  },
+  {
+    "constName": "OfflineQuickLinkLastTime",
+    "constValue": 10,
+    "constValueEx": 5
+  },
+  {
+    "constName": "OfflineStoreMessageMaxTime",
+    "constValue": 500
+  },
+  {
+    "constName": "OfflineWorkCreateRoleInitHour",
+    "constValue": 10
+  },
+  {
+    "constName": "OfflineWorkMaxHour",
+    "constValue": 20
+  },
+  {
+    "constName": "OfflineWorkRevivalCost",
+    "constValue": 20
+  },
+  {
+    "constName": "OfflineWorkStartSec",
+    "constValue": 60
+  },
+  {
+    "constName": "OlymAllGuess0RightGift",
+    "constValue": 14011628
+  },
+  {
+    "constName": "OlymAllGuess10RightGift",
+    "constValue": 14011631
+  },
+  {
+    "constName": "OlymAllGuess3RightGift",
+    "constValue": 14011629
+  },
+  {
+    "constName": "OlymAllGuess7RightGift",
+    "constValue": 14011630
+  },
+  {
+    "constName": "OlymAllGuessAllRightGift",
+    "constValue": 14011632
+  },
+  {
+    "constName": "OlymDayGuessRightGift",
+    "constValue": 14011627,
+    "constValueEx": 14011626
+  },
+  {
+    "constName": "OlymMostGoldGuessGift",
+    "constValue": 14011633
+  },
+  {
+    "constName": "OneGuildBattleNumber",
+    "constValue": 40
+  },
+  {
+    "constName": "OneKeyMakeFriendsLevel",
+    "constValue": 16,
+    "constValueEx": 28
+  },
+  {
+    "constName": "OneKeyMakeFriendsLevelRange",
+    "constValue": 20
+  },
+  {
+    "constName": "OneKeyMakeFriendsLevelUpper",
+    "constValue": 40
+  },
+  {
+    "constName": "OneKeyMakeFriendsMaxCount",
+    "constValue": 50,
+    "constValueEx": 4
+  },
+  {
+    "constName": "OneKeyMakeFriendsMinLevel",
+    "constValue": 14
+  },
+  {
+    "constName": "OneKeyMakeFriendsMinSize",
+    "constValue": 4
+  },
+  {
+    "constName": "OneKeyMakeFriendsNumLimit",
+    "constValue": 40
+  },
+  {
+    "constName": "OneKeyRoleState3Const",
+    "constValue": 1000
+  },
+  {
+    "constName": "OnlineCoinDropInterval",
+    "constValue": 4
+  },
+  {
+    "constName": "OnlineEquipDropInterval",
+    "constValue": 10
+  },
+  {
+    "constName": "OnlineExpDropInterval",
+    "constValue": 2
+  },
+  {
+    "constName": "OpenGuildSumeruDreamLandNeedOnlinePlayer",
+    "constValue": 4
+  },
+  {
+    "constName": "OpenNewRealRoleCareer1",
+    "constValue": 1
+  },
+  {
+    "constName": "OpenNewRealRoleCareer2",
+    "constValue": 2
+  },
+  {
+    "constName": "OpenNewRealRoleCareer3",
+    "constValue": 4
+  },
+  {
+    "constName": "OpenRefreshCost",
+    "constValue": 100
+  },
+  {
+    "constName": "OtherEquipAttrAddRandomZone",
+    "constValue": 1,
+    "constValueEx": 15
+  },
+  {
+    "constName": "ParaseleneCopyCode",
+    "constValue": 155
+  },
+  {
+    "constName": "PassDistance",
+    "constValue": 300
+  },
+  {
+    "constName": "PassToMaxDistance",
+    "constValue": 120
+  },
+  {
+    "constName": "PassToMinDistance",
+    "constValue": 40
+  },
+  {
+    "constName": "PassTypeNpcCost",
+    "constValue": 100
+  },
+  {
+    "constName": "PeaceFieldCopyCode",
+    "constValue": 132
+  },
+  {
+    "constName": "PeaceFieldCreateNewInterval",
+    "constValue": 600
+  },
+  {
+    "constName": "PeaceFieldMaxCollectNum",
+    "constValue": 3
+  },
+  {
+    "constName": "PeaceFieldMaxPlayerNum",
+    "constValue": 20
+  },
+  {
+    "constName": "PeaceFieldNewAreaPlayerNum",
+    "constValue": 20
+  },
+  {
+    "constName": "PeaceFieldRefreshBossPlayerNum",
+    "constValue": 1
+  },
+  {
+    "constName": "PeaceFieldRefreshBossTime",
+    "constValue": 60
+  },
+  {
+    "constName": "PeepTimeNo1",
+    "constValue": 5
+  },
+  {
+    "constName": "PeepTimeNo2",
+    "constValue": 10
+  },
+  {
+    "constName": "PeepTimeNo3",
+    "constValue": 15
+  },
+  {
+    "constName": "PeepTimeNo4",
+    "constValue": 20
+  },
+  {
+    "constName": "PeepTimeNo5",
+    "constValue": 25
+  },
+  {
+    "constName": "PeepTimeNo6",
+    "constValue": 30
+  },
+  {
+    "constName": "PersoalBossDelegateState",
+    "constValue": 4,
+    "constValueEx": 3
+  },
+  {
+    "constName": "PersonalCopyBagFreeCapacity",
+    "constValue": 20
+  },
+  {
+    "constName": "PersonalPkBuyJoinNumCost",
+    "constValue": 10
+  },
+  {
+    "constName": "PersonalPkMaxBuyJoinNum",
+    "constValue": 5
+  },
+  {
+    "constName": "PersonalPkMaxDayJoinNum",
+    "constValue": 10
+  },
+  {
+    "constName": "PersonalPkRewardItem",
+    "constValue": 60040033,
+    "constValueEx": 1
+  },
+  {
+    "constName": "PersonalPkRewardJoinNum",
+    "constValue": 10,
+    "constValueEx": 15
+  },
+  {
+    "constName": "PersonalPkSeasonBeginMonth",
+    "constValue": 2017,
+    "constValueEx": 6
+  },
+  {
+    "constName": "PersonalPkSeasonRewardMinJoinNum",
+    "constValue": 20
+  },
+  {
+    "constName": "PersonCopyPerIntervalCost",
+    "constValue": 4
+  },
+  {
+    "constName": "PetBackDistance",
+    "constValue": 1000
+  },
+  {
+    "constName": "PetExploreAutoExploreCost",
+    "constValue": 1000,
+    "constValueEx": 1
+  },
+  {
+    "constName": "PetExploreCostInFail1",
+    "constValue": 1000,
+    "constValueEx": 1
+  },
+  {
+    "constName": "PetExploreCostInFail2",
+    "constValue": 2000,
+    "constValueEx": 1
+  },
+  {
+    "constName": "PetExploreCostInFail3",
+    "constValue": 5000,
+    "constValueEx": 1
+  },
+  {
+    "constName": "PetExploreDoubeIncomeCost",
+    "constValue": 10,
+    "constValueEx": 2
+  },
+  {
+    "constName": "PetExploreMaxTimes",
+    "constValue": 1
+  },
+  {
+    "constName": "PetExploreMaxTimesPerDay",
+    "constValue": 4
+  },
+  {
+    "constName": "PetExploreMinLevel",
+    "constValue": 50,
+    "constValueEx": 55
+  },
+  {
+    "constName": "PetFollowDistance",
+    "constValue": 250
+  },
+  {
+    "constName": "PetGrowthFirstSkill",
+    "constValue": 10
+  },
+  {
+    "constName": "PetGrowthSecondSkill",
+    "constValue": 15
+  },
+  {
+    "constName": "PetGrowthThreeSkill",
+    "constValue": 25
+  },
+  {
+    "constName": "PetRandSkillCost",
+    "constValue": 10,
+    "constValueEx": 100
+  },
+  {
+    "constName": "PetRecallCd",
+    "constValue": 8
+  },
+  {
+    "constName": "PetSpeedPercentage",
+    "constValue": 150
+  },
+  {
+    "constName": "PetSpiritFirstSkill",
+    "constValue": 6
+  },
+  {
+    "constName": "PetSpiritSecondSkill",
+    "constValue": 12
+  },
+  {
+    "constName": "PetSpiritThreeSkill",
+    "constValue": 18
+  },
+  {
+    "constName": "PetUpgradeGrowthBaseExperience",
+    "constValue": 100
+  },
+  {
+    "constName": "PetUpgradeGrowthBatchCondition",
+    "constValueEx": 2
+  },
+  {
+    "constName": "PetUpgradeGrowthMulExperience",
+    "constValue": 10
+  },
+  {
+    "constName": "PetUpgradeSpiritCondition",
+    "constValueEx": 2
+  },
+  {
+    "constName": "PetXiSuiCost",
+    "constValue": 10
+  },
+  {
+    "constName": "PickUpDropItemAssistDistance",
+    "constValue": 500
+  },
+  {
+    "constName": "PickUpDropItemDistance",
+    "constValue": 15
+  },
+  {
+    "constName": "PlantLandMapId",
+    "constValue": 132401
+  },
+  {
+    "constName": "PlantLandOriginPos",
+    "constValue": 1
+  },
+  {
+    "constName": "PlayerDataRecordEnable",
+    "constValue": 1
+  },
+  {
+    "constName": "PlayerDrugBagInitialValue",
+    "constValue": 100000
+  },
+  {
+    "constName": "PlayerLifeRecover",
+    "constValue": 5,
+    "constValueEx": 10
+  },
+  {
+    "constName": "PlayerLockMaxErrorTimes",
+    "constValue": 5,
+    "constValueEx": 5
+  },
+  {
+    "constName": "Pm2CampTransportEnd",
+    "constValue": 22
+  },
+  {
+    "constName": "Pm2CampTransportStart",
+    "constValue": 21,
+    "constValueEx": 30
+  },
+  {
+    "constName": "PmCampTransportEnd",
+    "constValue": 16,
+    "constValueEx": 30
+  },
+  {
+    "constName": "PmCampTransportStart",
+    "constValue": 16
+  },
+  {
+    "constName": "PositionCopyCode",
+    "constValue": 6102,
+    "constValueEx": 16102
+  },
+  {
+    "constName": "PositionCrossOpenDate",
+    "constValue": 8
+  },
+  {
+    "constName": "PositionRevivalTime",
+    "constValue": 15
+  },
+  {
+    "constName": "PrivateTalkAddIntimate",
+    "constValue": 20,
+    "constValueEx": 1
+  },
+  {
+    "constName": "PrivilegeCardTitleCode",
+    "constValue": 200001
+  },
+  {
+    "constName": "PrivilegeRefreshWorldBossTimes"
+  },
+  {
+    "constName": "PromotionCardErrorCount",
+    "constValue": 10
+  },
+  {
+    "constName": "PunchFloor",
+    "constValue": 20
+  },
+  {
+    "constName": "PunchLeadPos1",
+    "constValue": 19,
+    "constValueEx": 21
+  },
+  {
+    "constName": "PunchLeadPos2",
+    "constValue": 18,
+    "constValueEx": 22
+  },
+  {
+    "constName": "PunchLeadPos4",
+    "constValue": 19,
+    "constValueEx": 24
+  },
+  {
+    "constName": "PunchSkillFirstCD",
+    "constValue": 5
+  },
+  {
+    "constName": "QiongCangAtticBossBuffCode",
+    "constValue": 67100008,
+    "constValueEx": 67100009
+  },
+  {
+    "constName": "QualifyingCollectScore",
+    "constValue": 50,
+    "constValueEx": 150
+  },
+  {
+    "constName": "QualifyingCopyCode",
+    "constValue": 6108
+  },
+  {
+    "constName": "QualifyingDayRewardTime",
+    "constValue": 23,
+    "constValueEx": 59
+  },
+  {
+    "constName": "QualifyingDayTimes",
+    "constValue": 5,
+    "constValueEx": 10
+  },
+  {
+    "constName": "QualifyingDefaultScore",
+    "constValue": 900
+  },
+  {
+    "constName": "QualifyingEndTime1",
+    "constValue": 12,
+    "constValueEx": 30
+  },
+  {
+    "constName": "QualifyingEndTime2",
+    "constValue": 22
+  },
+  {
+    "constName": "QualifyingFirstCollect",
+    "constValue": 10
+  },
+  {
+    "constName": "QualifyingFirstKill",
+    "constValue": 10
+  },
+  {
+    "constName": "QualifyingItemCode",
+    "constValue": 20000060
+  },
+  {
+    "constName": "QualifyingKillScore",
+    "constValue": 50,
+    "constValueEx": 50
+  },
+  {
+    "constName": "QualifyingMaxScore",
+    "constValue": 1000,
+    "constValueEx": 800
+  },
+  {
+    "constName": "QualifyingMvp",
+    "constValue": 30
+  },
+  {
+    "constName": "QualifyingRankNum",
+    "constValue": 200,
+    "constValueEx": 100
+  },
+  {
+    "constName": "QualifyingRevivalTime",
+    "constValue": 10
+  },
+  {
+    "constName": "QualifyingRoundTime",
+    "constValue": 30,
+    "constValueEx": 180
+  },
+  {
+    "constName": "QualifyingStageScore",
+    "constValue": 1000,
+    "constValueEx": 2000
+  },
+  {
+    "constName": "QualifyingStartTime1",
+    "constValue": 12
+  },
+  {
+    "constName": "QualifyingStartTime2",
+    "constValue": 21,
+    "constValueEx": 30
+  },
+  {
+    "constName": "QuestionAmuseCoolingSec",
+    "constValue": 180
+  },
+  {
+    "constName": "QuestionAnswerTime",
+    "constValue": 10
+  },
+  {
+    "constName": "QuestionCopyAnswerWrongModelId",
+    "constValue": 999999
+  },
+  {
+    "constName": "QuestionCopyBornPoint",
+    "constValue": 4,
+    "constValueEx": 14
+  },
+  {
+    "constName": "QuestionCopyFirstTitle",
+    "constValue": 980000
+  },
+  {
+    "constName": "QuestionCopySkills",
+    "constValue": 30000001,
+    "constValueEx": 30000002
+  },
+  {
+    "constName": "QuestionLookTime",
+    "constValue": 10
+  },
+  {
+    "constName": "QuestionShowTime",
+    "constValue": 10
+  },
+  {
+    "constName": "QuestionTotalNum",
+    "constValue": 30
+  },
+  {
+    "constName": "QuestionTotalNumDebug",
+    "constValue": 10
+  },
+  {
+    "constName": "QuickCompleteTaskCost",
+    "constValue": 10
+  },
+  {
+    "constName": "RaceCopyCode",
+    "constValue": 152
+  },
+  {
+    "constName": "RaceCopyMaxRoomNum",
+    "constValue": 16
+  },
+  {
+    "constName": "RaceCopyMaxSkillNum",
+    "constValue": 4
+  },
+  {
+    "constName": "RaceCopyModelBuffer",
+    "constValue": 2600032
+  },
+  {
+    "constName": "RaceCopyPerfectNum2",
+    "constValue": 14011884
+  },
+  {
+    "constName": "RaceCopyPerfectNum3",
+    "constValue": 14011883
+  },
+  {
+    "constName": "RaceCopyPerfectNum4",
+    "constValue": 14011882
+  },
+  {
+    "constName": "RaceCopyPerfectNum5",
+    "constValue": 14011881
+  },
+  {
+    "constName": "RaceCopyRankIn1",
+    "constValue": 14011878
+  },
+  {
+    "constName": "RaceCopyRankIn10",
+    "constValue": 14011880
+  },
+  {
+    "constName": "RaceCopyRankIn3",
+    "constValue": 14011879
+  },
+  {
+    "constName": "RaceCopyRoomRaceTime",
+    "constValue": 480
+  },
+  {
+    "constName": "RankingOverLordCopyCode1",
+    "constValue": 118
+  },
+  {
+    "constName": "RankingOverLordCopyCode2",
+    "constValue": 131
+  },
+  {
+    "constName": "RankingOverLordCopyNum",
+    "constValue": 2
+  },
+  {
+    "constName": "RechargeDayTotal",
+    "constValue": 7
+  },
+  {
+    "constName": "RechargeNumLimit",
+    "constValue": 5000
+  },
+  {
+    "constName": "RechargeTotal",
+    "constValue": 7
+  },
+  {
+    "constName": "RedEquipAttrAddRandomZone",
+    "constValue": 15,
+    "constValueEx": 15
+  },
+  {
+    "constName": "RedNameKillValueDecreaseTime",
+    "constValue": 3600,
+    "constValueEx": 3600
+  },
+  {
+    "constName": "RedNameMaxKillValue",
+    "constValue": 10
+  },
+  {
+    "constName": "RedNamePlayerKilledCoinDrop",
+    "constValue": 100000
+  },
+  {
+    "constName": "RedNamePlayerKilledGoldDrop",
+    "constValue": 10,
+    "constValueEx": 10
+  },
+  {
+    "constName": "RefreshHideBossMin",
+    "constValue": 3
+  },
+  {
+    "constName": "RefreshHideBossRate",
+    "constValue": 10
+  },
+  {
+    "constName": "RefreshHideBossTime",
+    "constValue": 60
+  },
+  {
+    "constName": "RefreshWorldBossCost",
+    "constValue": 500
+  },
+  {
+    "constName": "RegainRewardPercent",
+    "constValue": 90,
+    "constValueEx": 50
+  },
+  {
+    "constName": "ReturnNeedConsumeYBNum",
+    "constValue": 100
+  },
+  {
+    "constName": "ReturnPlayerBuffLevel"
+  },
+  {
+    "constName": "ReturnPlayerDays",
+    "constValue": 5
+  },
+  {
+    "constName": "RevivalFreeLevel",
+    "constValue": 5
+  },
+  {
+    "constName": "RevivalGold",
+    "constValue": 100
+  },
+  {
+    "constName": "RobotDazenDistance",
+    "constValue": 300
+  },
+  {
+    "constName": "RobotNewPlayerLevel",
+    "constValue": 10
+  },
+  {
+    "constName": "RobotRefreshSecond",
+    "constValue": 10
+  },
+  {
+    "constName": "RoleIndexDistance",
+    "constValue": 100,
+    "constValueEx": 50
+  },
+  {
+    "constName": "RootMaxLevel",
+    "constValue": 40
+  },
+  {
+    "constName": "RuneActivateCost",
+    "constValue": 16,
+    "constValueEx": 1000
+  },
+  {
+    "constName": "RuneAddExtraNumCost",
+    "constValue": 16,
+    "constValueEx": 2000
+  },
+  {
+    "constName": "RuneLotteryFreeInterval",
+    "constValue": 48
+  },
+  {
+    "constName": "RuneUpgradeGoldCost",
+    "constValue": 20
+  },
+  {
+    "constName": "RuneUpgradeMaxTimesPerDay",
+    "constValue": 10
+  },
+  {
+    "constName": "RuneUpgradeStoneCost",
+    "constValue": 20
+  },
+  {
+    "constName": "SchoolTaskCostGold",
+    "constValue": 2,
+    "constValueEx": 1
+  },
+  {
+    "constName": "scrossPlayerPushTime",
+    "constValue": 10
+  },
+  {
+    "constName": "SecondCampHonour",
+    "constValue": 3500
+  },
+  {
+    "constName": "SecondForceHonour",
+    "constValue": 2000
+  },
+  {
+    "constName": "SecretBossGift",
+    "constValue": 20001000
+  },
+  {
+    "constName": "SendMailCost",
+    "constValue": 100
+  },
+  {
+    "constName": "SetFightModeLevel",
+    "constValue": 60
+  },
+  {
+    "constName": "SetPeaceModeCd",
+    "constValue": 1800
+  },
+  {
+    "constName": "ShenJiAddBaseExperienceNum",
+    "constValue": 4
+  },
+  {
+    "constName": "ShenJiCollectLifePer",
+    "constValue": 7
+  },
+  {
+    "constName": "ShenJiCollectLiftCount",
+    "constValue": 10
+  },
+  {
+    "constName": "ShenJiCopyLeftInterval",
+    "constValue": 30
+  },
+  {
+    "constName": "ShenJiCopyReviveAddRate",
+    "constValue": 10
+  },
+  {
+    "constName": "ShenJiPropPrice",
+    "constValue": 50
+  },
+  {
+    "constName": "ShopTreasureBuyTimes",
+    "constValue": 10
+  },
+  {
+    "constName": "ShopTreasureFreeRefreshNumDay",
+    "constValue": 3
+  },
+  {
+    "constName": "ShopTreasureRefreshPrice",
+    "constValue": 10
+  },
+  {
+    "constName": "ShowCheckPointTaskCode",
+    "constValue": 300023
+  },
+  {
+    "constName": "SilverPerHurt",
+    "constValue": 5
+  },
+  {
+    "constName": "SkillBeatBackCode",
+    "constValue": 2003
+  },
+  {
+    "constName": "SkillPublicCd",
+    "constValue": 200
+  },
+  {
+    "constName": "SkillPunchNotMainRolePercent",
+    "constValue": 20
+  },
+  {
+    "constName": "SkyCityCopyCode",
+    "constValue": 143
+  },
+  {
+    "constName": "SkyCityMaxPlayerNum",
+    "constValue": 200
+  },
+  {
+    "constName": "SkyCopyMaxNum",
+    "constValue": 15
+  },
+  {
+    "constName": "SkyCopyOpenNeedPlayerNum",
+    "constValue": 160,
+    "constValueEx": 2
+  },
+  {
+    "constName": "SpaCopyCode",
+    "constValue": 120
+  },
+  {
+    "constName": "SpaExpAddCoolTime",
+    "constValue": 10
+  },
+  {
+    "constName": "SpaLimitLevel",
+    "constValue": 40
+  },
+  {
+    "constName": "SpaPlayerNum",
+    "constValue": 100
+  },
+  {
+    "constName": "SpecialActiveExchangeCode",
+    "constValue": 40310018
+  },
+  {
+    "constName": "SpecialActiveSmeltCode",
+    "constValue": 40310036
+  },
+  {
+    "constName": "SpiritCopyCostGold",
+    "constValue": 500,
+    "constValueEx": 998
+  },
+  {
+    "constName": "SpiritCopyRewards",
+    "constValue": 60060010,
+    "constValueEx": 10
+  },
+  {
+    "constName": "SpringColdDrinkCD",
+    "constValue": 30
+  },
+  {
+    "constName": "SpringColdDrinkCost",
+    "constValue": 1000,
+    "constValueEx": 1
+  },
+  {
+    "constName": "SpringColdDrinkExp",
+    "constValue": 3000
+  },
+  {
+    "constName": "SpringColdDrinkLimit",
+    "constValue": 10
+  },
+  {
+    "constName": "SpringIntimate",
+    "constValue": 3,
+    "constValueEx": 3
+  },
+  {
+    "constName": "SpringKissCD",
+    "constValue": 30
+  },
+  {
+    "constName": "SpringKissExp",
+    "constValue": 1500
+  },
+  {
+    "constName": "SpringKissLimit",
+    "constValue": 10
+  },
+  {
+    "constName": "StarFortuneCallNPCCondition",
+    "constValue": 2
+  },
+  {
+    "constName": "SuitSkillUpgradeMaxTimes",
+    "constValue": 5
+  },
+  {
+    "constName": "SunBathPassCdTime",
+    "constValue": 300
+  },
+  {
+    "constName": "SunBathPassSuitCode",
+    "constValue": 10113075,
+    "constValueEx": 10113081
+  },
+  {
+    "constName": "SunBathPassTitleCode",
+    "constValue": 1000035,
+    "constValueEx": 1000048
+  },
+  {
+    "constName": "TalentEveryLevelAddPos",
+    "constValue": 30
+  },
+  {
+    "constName": "TalentEveryLevelAddSkillPoint",
+    "constValue": 10
+  },
+  {
+    "constName": "TaxesPecentOfGold",
+    "constValue": 1
+  },
+  {
+    "constName": "TaxesPecentOfSilver",
+    "constValue": 100
+  },
+  {
+    "constName": "ThirdCampHonour",
+    "constValue": 3200
+  },
+  {
+    "constName": "ThirdForceHonour",
+    "constValue": 1000
+  },
+  {
+    "constName": "ThreeVsThreeBroadcastTmie",
+    "constValue": 5
+  },
+  {
+    "constName": "ThreeVsThreeBuffId",
+    "constValue": 59999002
+  },
+  {
+    "constName": "ThreeVsThreeCopyCode",
+    "constValue": 702
+  },
+  {
+    "constName": "ThreeVsThreeCopyMapId",
+    "constValue": 133102
+  },
+  {
+    "constName": "ThreeVsThreeEnterMinLevel",
+    "constValue": 65
+  },
+  {
+    "constName": "ThreeVsThreeFailGetScoreAndHonor",
+    "constValue": 100,
+    "constValueEx": 100
+  },
+  {
+    "constName": "ThreeVsThreeMapId",
+    "constValue": 133101
+  },
+  {
+    "constName": "ThreeVsThreeMatchSec1",
+    "constValue": 30
+  },
+  {
+    "constName": "ThreeVsThreeMatchSec2",
+    "constValue": 40
+  },
+  {
+    "constName": "ThreeVsThreeMatchSec3",
+    "constValue": 50
+  },
+  {
+    "constName": "ThreeVsThreeMatchSec4",
+    "constValue": 60
+  },
+  {
+    "constName": "ThreeVsThreeMaxFightTimes",
+    "constValue": 15
+  },
+  {
+    "constName": "ThreeVsThreePassPoint",
+    "constValue": 3,
+    "constValueEx": 21
+  },
+  {
+    "constName": "ThreeVsThreeRestRoomCopyCode",
+    "constValue": 703
+  },
+  {
+    "constName": "ThreeVsThreeRewardMaxNum",
+    "constValue": 10
+  },
+  {
+    "constName": "ThreeVsThreeSendRewardTime",
+    "constValueEx": 22
+  },
+  {
+    "constName": "ThreeVsThreeWinGetScoreAndHonor",
+    "constValue": 200,
+    "constValueEx": 200
+  },
+  {
+    "constName": "TidyBagCdSec",
+    "constValue": 5
+  },
+  {
+    "constName": "TienGloryCodeTienHolinessCode",
+    "constValue": 40111034
+  },
+  {
+    "constName": "TienGodCode"
+  },
+  {
+    "constName": "TienHolinessCode"
+  },
+  {
+    "constName": "TienHuWeiCode"
+  },
+  {
+    "constName": "TienImmortalCode"
+  },
+  {
+    "constName": "TireDescCD",
+    "constValue": 3600
+  },
+  {
+    "constName": "TireMaxValue",
+    "constValue": 12
+  },
+  {
+    "constName": "ToastFriendAddIntimate",
+    "constValue": 5,
+    "constValueEx": 3
+  },
+  {
+    "constName": "ToplistMaxOfflineDay",
+    "constValue": 15
+  },
+  {
+    "constName": "TowerDefenseInitMaterial",
+    "constValue": 20000
+  },
+  {
+    "constName": "TowerDefenseRingPerWave",
+    "constValue": 15
+  },
+  {
+    "constName": "TowerDefenseSpecialBossCode",
+    "constValue": 24050300
+  },
+  {
+    "constName": "TowerDefenseSpecialBossCost",
+    "constValue": 20
+  },
+  {
+    "constName": "TowerDefenseSpecialBossPos",
+    "constValue": 2,
+    "constValueEx": 10
+  },
+  {
+    "constName": "TransportMaxCount",
+    "constValue": 3
+  },
+  {
+    "constName": "TreasureChestCode",
+    "constValue": 40121006,
+    "constValueEx": 40121006
+  },
+  {
+    "constName": "TreasureChestCodeLower",
+    "constValue": 40121005
+  },
+  {
+    "constName": "TreasureChestDropRate",
+    "constValue": 30,
+    "constValueEx": 20
+  },
+  {
+    "constName": "TreasureFullCountReward"
+  },
+  {
+    "constName": "TreasureHelpPass",
+    "constValue": 2000
+  },
+  {
+    "constName": "TreasureTaskDistance",
+    "constValue": 200
+  },
+  {
+    "constName": "UpdateAvatarCount",
+    "constValue": 3
+  },
+  {
+    "constName": "UpdateAvatarInterval",
+    "constValue": 100
+  },
+  {
+    "constName": "UseFireworkPropIntimate",
+    "constValue": 5
+  },
+  {
+    "constName": "VotePlayerLimit",
+    "constValue": 10
+  },
+  {
+    "constName": "WatchRecordCopyCode",
+    "constValue": 155
+  },
+  {
+    "constName": "WeddingCarMapId",
+    "constValue": 110301
+  },
+  {
+    "constName": "WeddingCopyCeremonyTime",
+    "constValue": 180,
+    "constValueEx": 60
+  },
+  {
+    "constName": "WeddingCopyClosePrepareTime"
+  },
+  {
+    "constName": "WeddingCopyLifeTime",
+    "constValue": 900
+  },
+  {
+    "constName": "WeddingCopyStartPrepareTime",
+    "constValue": 300
+  },
+  {
+    "constName": "WeddingCopySuit",
+    "constValue": 400022
+  },
+  {
+    "constName": "WeddingCostPerGust",
+    "constValue": 5
+  },
+  {
+    "constName": "WeddingMarchRefreshBossCD",
+    "constValue": 15
+  },
+  {
+    "constName": "WeddingMaxSweetTitle"
+  },
+  {
+    "constName": "WeddingNpcId",
+    "constValue": 210310
+  },
+  {
+    "constName": "WeddingSendCoinMax",
+    "constValue": 17000
+  },
+  {
+    "constName": "WelcomeRewardItem",
+    "constValue": 10011001
+  },
+  {
+    "constName": "WelcomeRewardMoney",
+    "constValue": 200,
+    "constValueEx": 100000
+  },
+  {
+    "constName": "WildKillBossMoreExpOneEnd",
+    "constValue": 2
+  },
+  {
+    "constName": "WildKillBossMoreExpOneStart",
+    "constValue": 1
+  },
+  {
+    "constName": "WildKillBossMoreExpRatio",
+    "constValue": 5
+  },
+  {
+    "constName": "WildKillBossMoreExpThreeEnd",
+    "constValue": 23,
+    "constValueEx": 59
+  },
+  {
+    "constName": "WildKillBossMoreExpThreeStart",
+    "constValue": 22,
+    "constValueEx": 30
+  },
+  {
+    "constName": "WildKillBossMoreExpTwoEnd",
+    "constValue": 18,
+    "constValueEx": 30
+  },
+  {
+    "constName": "WildKillBossMoreExpTwoStart",
+    "constValue": 18
+  },
+  {
+    "constName": "WorldBossCodeBase",
+    "constValue": 5100000
+  },
+  {
+    "constName": "WorldBossPunchCd",
+    "constValue": 10
+  },
+  {
+    "constName": "WorldBossRing",
+    "constValue": 1,
+    "constValueEx": 100
+  },
+  {
+    "constName": "WorldBossScoreBase",
+    "constValue": 10000
+  },
+  {
+    "constName": "WorldBossStayTime",
+    "constValue": 20
+  },
+  {
+    "constName": "WorldBossTime",
+    "constValue": 300,
+    "constValueEx": 420
+  },
+  {
+    "constName": "WorldBossTitle",
+    "constValue": 40890167
+  },
+  {
+    "constName": "WorldLevelExpAddMinPlayerLevel",
+    "constValue": 110
+  },
+  {
+    "constName": "WrestleAwardMinDayNum",
+    "constValue": 10
+  },
+  {
+    "constName": "WrestleAwardMinMonthNum",
+    "constValue": 10
+  },
+  {
+    "constName": "WrestleAwardMinWeekNum",
+    "constValue": 10
+  },
+  {
+    "constName": "WrestleBattleTime",
+    "constValue": 15,
+    "constValueEx": 300
+  },
+  {
+    "constName": "WrestleCopyCode",
+    "constValue": 158
+  },
+  {
+    "constName": "WrestleInitMark",
+    "constValue": 12000
+  },
+  {
+    "constName": "WrestleMarkRange",
+    "constValue": 10000,
+    "constValueEx": 9999999
+  },
+  {
+    "constName": "WrestleMatchInterval",
+    "constValue": 10
+  },
+  {
+    "constName": "WrestleRoomPlayerNum",
+    "constValue": 1500
+  },
+  {
+    "constName": "WuxingCopyCdTime",
+    "constValue": 8
+  },
+  {
+    "constName": "XpSkillCdTime",
+    "constValue": 300
+  }
+]

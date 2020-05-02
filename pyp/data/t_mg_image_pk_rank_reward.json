@@ -1,0 +1,50 @@
+
+[
+	
+	{
+		"coinBind" : 2000000,
+		"honour" : 10000,
+		"id" : 1,
+		"rankMax" : 1,
+		"rankMin" : 1
+	},
+	
+	{
+		"coinBind" : 1500000,
+		"honour" : 8000,
+		"id" : 2,
+		"rankMax" : 10,
+		"rankMin" : 2
+	},
+	
+	{
+		"coinBind" : 1200000,
+		"honour" : 6000,
+		"id" : 3,
+		"rankMax" : 20,
+		"rankMin" : 11
+	},
+	
+	{
+		"coinBind" : 1000000,
+		"honour" : 5000,
+		"id" : 4,
+		"rankMax" : 50,
+		"rankMin" : 21
+	},
+	
+	{
+		"coinBind" : 600000,
+		"honour" : 3000,
+		"id" : 5,
+		"rankMax" : 100,
+		"rankMin" : 51
+	},
+	
+	{
+		"coinBind" : 300000,
+		"honour" : 2000,
+		"id" : 6,
+		"rankMin" : 100
+	}
+]

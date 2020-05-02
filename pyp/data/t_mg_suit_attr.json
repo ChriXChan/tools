@@ -1,0 +1,651 @@
+
+[
+	
+	{
+		"attr" : "1,774#3,516#52,200#",
+		"condition" : 2,
+		"id" : 1,
+		"itemLevel" : 5,
+		"suitCategory" : 1,
+		"suitCode" : 10511001,
+		"suitNameFemale" : "【诛仙】诛邪套装",
+		"suitNameMale" : "【诛仙】诛邪套装",
+		"suitType" : 1
+	},
+	
+	{
+		"attr" : "2,20640#4,688#53,400#",
+		"condition" : 4,
+		"id" : 2,
+		"itemLevel" : 5,
+		"suitCategory" : 1,
+		"suitCode" : 10511002,
+		"suitNameFemale" : "【诛仙】诛邪套装",
+		"suitNameMale" : "【诛仙】诛邪套装",
+		"suitType" : 1
+	},
+	
+	{
+		"attr" : "1,645#2,12900#51,200#54,400#",
+		"condition" : 6,
+		"id" : 3,
+		"itemLevel" : 5,
+		"suitCategory" : 1,
+		"suitCode" : 10511003,
+		"suitNameFemale" : "【诛仙】诛邪套装",
+		"suitNameMale" : "【诛仙】诛邪套装",
+		"suitType" : 1
+	},
+	
+	{
+		"attr" : "1,1022#3,681#52,200#",
+		"condition" : 2,
+		"id" : 4,
+		"itemLevel" : 6,
+		"suitCategory" : 1,
+		"suitCode" : 10611001,
+		"suitNameFemale" : "【诛仙】斩仙套装",
+		"suitNameMale" : "【诛仙】斩仙套装",
+		"suitType" : 1
+	},
+	
+	{
+		"attr" : "2,27245#4,908#53,400#",
+		"condition" : 4,
+		"id" : 5,
+		"itemLevel" : 6,
+		"suitCategory" : 1,
+		"suitCode" : 10611002,
+		"suitNameFemale" : "【诛仙】斩仙套装",
+		"suitNameMale" : "【诛仙】斩仙套装",
+		"suitType" : 1
+	},
+	
+	{
+		"attr" : "1,851#2,17028#51,200#54,400#",
+		"condition" : 6,
+		"id" : 6,
+		"itemLevel" : 6,
+		"suitCategory" : 1,
+		"suitCode" : 10611003,
+		"suitNameFemale" : "【诛仙】斩仙套装",
+		"suitNameMale" : "【诛仙】斩仙套装",
+		"suitType" : 1
+	},
+	
+	{
+		"attr" : "1,1349#3,899#52,200#",
+		"condition" : 2,
+		"id" : 7,
+		"itemLevel" : 7,
+		"suitCategory" : 1,
+		"suitCode" : 10711001,
+		"suitNameFemale" : "【诛仙】戮神套装",
+		"suitNameMale" : "【诛仙】戮神套装",
+		"suitType" : 1
+	},
+	
+	{
+		"attr" : "2,35963#4,1199#53,400#",
+		"condition" : 4,
+		"id" : 8,
+		"itemLevel" : 7,
+		"suitCategory" : 1,
+		"suitCode" : 10711002,
+		"suitNameFemale" : "【诛仙】戮神套装",
+		"suitNameMale" : "【诛仙】戮神套装",
+		"suitType" : 1
+	},
+	
+	{
+		"attr" : "1,1124#2,22476#51,200#54,400#",
+		"condition" : 6,
+		"id" : 9,
+		"itemLevel" : 7,
+		"suitCategory" : 1,
+		"suitCode" : 10711003,
+		"suitNameFemale" : "【诛仙】戮神套装",
+		"suitNameMale" : "【诛仙】戮神套装",
+		"suitType" : 1
+	},
+	
+	{
+		"attr" : "1,1780#3,1187#52,200#",
+		"condition" : 2,
+		"id" : 10,
+		"itemLevel" : 8,
+		"suitCategory" : 1,
+		"suitCode" : 10811001,
+		"suitNameFemale" : "【诛仙】弑圣套装",
+		"suitNameMale" : "【诛仙】弑圣套装",
+		"suitType" : 1
+	},
+	
+	{
+		"attr" : "2,47471#4,1582#53,400#",
+		"condition" : 4,
+		"id" : 11,
+		"itemLevel" : 8,
+		"suitCategory" : 1,
+		"suitCode" : 10811002,
+		"suitNameFemale" : "【诛仙】弑圣套装",
+		"suitNameMale" : "【诛仙】弑圣套装",
+		"suitType" : 1
+	},
+	
+	{
+		"attr" : "1,1483#2,29669#51,200#54,400#",
+		"condition" : 6,
+		"id" : 12,
+		"itemLevel" : 8,
+		"suitCategory" : 1,
+		"suitCode" : 10811003,
+		"suitNameFemale" : "【诛仙】弑圣套装",
+		"suitNameMale" : "【诛仙】弑圣套装",
+		"suitType" : 1
+	},
+	
+	{
+		"attr" : "1,2350#3,1567#52,200#",
+		"condition" : 2,
+		"id" : 13,
+		"itemLevel" : 9,
+		"suitCategory" : 1,
+		"suitCode" : 10911001,
+		"suitNameFemale" : "【诛仙】斗帝套装",
+		"suitNameMale" : "【诛仙】斗帝套装",
+		"suitType" : 1
+	},
+	
+	{
+		"attr" : "2,62662#4,2089#53,400#",
+		"condition" : 4,
+		"id" : 14,
+		"itemLevel" : 9,
+		"suitCategory" : 1,
+		"suitCode" : 10911002,
+		"suitNameFemale" : "【诛仙】斗帝套装",
+		"suitNameMale" : "【诛仙】斗帝套装",
+		"suitType" : 1
+	},
+	
+	{
+		"attr" : "1,1958#2,39163#51,200#54,400#",
+		"condition" : 6,
+		"id" : 15,
+		"itemLevel" : 9,
+		"suitCategory" : 1,
+		"suitCode" : 10911003,
+		"suitNameFemale" : "【诛仙】斗帝套装",
+		"suitNameMale" : "【诛仙】斗帝套装",
+		"suitType" : 1
+	},
+	
+	{
+		"attr" : "1,3102#3,2068#52,200#",
+		"condition" : 2,
+		"id" : 16,
+		"itemLevel" : 10,
+		"suitCategory" : 1,
+		"suitCode" : 11011001,
+		"suitNameFemale" : "【诛仙】遮天套装",
+		"suitNameMale" : "【诛仙】遮天套装",
+		"suitType" : 1
+	},
+	
+	{
+		"attr" : "2,82712#4,2757#53,400#",
+		"condition" : 4,
+		"id" : 17,
+		"itemLevel" : 10,
+		"suitCategory" : 1,
+		"suitCode" : 11011002,
+		"suitNameFemale" : "【诛仙】遮天套装",
+		"suitNameMale" : "【诛仙】遮天套装",
+		"suitType" : 1
+	},
+	
+	{
+		"attr" : "1,2585#2,51695#51,200#54,400#",
+		"condition" : 6,
+		"id" : 18,
+		"itemLevel" : 10,
+		"suitCategory" : 1,
+		"suitCode" : 11011003,
+		"suitNameFemale" : "【诛仙】遮天套装",
+		"suitNameMale" : "【诛仙】遮天套装",
+		"suitType" : 1
+	},
+	
+	{
+		"attr" : "1,4094#3,2730#52,200#",
+		"condition" : 2,
+		"id" : 19,
+		"itemLevel" : 11,
+		"suitCategory" : 1,
+		"suitCode" : 11111001,
+		"suitNameFemale" : "【诛仙】轩辕套装",
+		"suitNameMale" : "【诛仙】轩辕套装",
+		"suitType" : 1
+	},
+	
+	{
+		"attr" : "2,109181#4,3639#53,400#",
+		"condition" : 4,
+		"id" : 20,
+		"itemLevel" : 11,
+		"suitCategory" : 1,
+		"suitCode" : 11111002,
+		"suitNameFemale" : "【诛仙】轩辕套装",
+		"suitNameMale" : "【诛仙】轩辕套装",
+		"suitType" : 1
+	},
+	
+	{
+		"attr" : "1,3412#2,68238#51,200#54,400#",
+		"condition" : 6,
+		"id" : 21,
+		"itemLevel" : 11,
+		"suitCategory" : 1,
+		"suitCode" : 11111003,
+		"suitNameFemale" : "【诛仙】轩辕套装",
+		"suitNameMale" : "【诛仙】轩辕套装",
+		"suitType" : 1
+	},
+	
+	{
+		"attr" : "1,5404#3,3603#52,200#",
+		"condition" : 2,
+		"id" : 22,
+		"itemLevel" : 12,
+		"suitCategory" : 1,
+		"suitCode" : 11211001,
+		"suitNameFemale" : "【诛仙】洪荒套装",
+		"suitNameMale" : "【诛仙】洪荒套装",
+		"suitType" : 1
+	},
+	
+	{
+		"attr" : "2,144119#4,4804#53,400#",
+		"condition" : 4,
+		"id" : 23,
+		"itemLevel" : 12,
+		"suitCategory" : 1,
+		"suitCode" : 11211002,
+		"suitNameFemale" : "【诛仙】洪荒套装",
+		"suitNameMale" : "【诛仙】洪荒套装",
+		"suitType" : 1
+	},
+	
+	{
+		"attr" : "1,4504#2,90074#51,200#54,400#",
+		"condition" : 6,
+		"id" : 24,
+		"itemLevel" : 12,
+		"suitCategory" : 1,
+		"suitCode" : 11211003,
+		"suitNameFemale" : "【诛仙】洪荒套装",
+		"suitNameMale" : "【诛仙】洪荒套装",
+		"suitType" : 1
+	},
+	
+	{
+		"attr" : "1,1943#3,1295#52,250#",
+		"condition" : 2,
+		"id" : 25,
+		"itemLevel" : 5,
+		"suitCategory" : 1,
+		"suitCode" : 10512001,
+		"suitNameFemale" : "【诛神】诛邪套装",
+		"suitNameMale" : "【诛神】诛邪套装",
+		"suitType" : 2
+	},
+	
+	{
+		"attr" : "2,51806#4,1727#53,500#",
+		"condition" : 4,
+		"id" : 26,
+		"itemLevel" : 5,
+		"suitCategory" : 1,
+		"suitCode" : 10512002,
+		"suitNameFemale" : "【诛神】诛邪套装",
+		"suitNameMale" : "【诛神】诛邪套装",
+		"suitType" : 2
+	},
+	
+	{
+		"attr" : "1,1619#2,32379#51,250#54,500#",
+		"condition" : 6,
+		"id" : 27,
+		"itemLevel" : 5,
+		"suitCategory" : 1,
+		"suitCode" : 10512003,
+		"suitNameFemale" : "【诛神】诛邪套装",
+		"suitNameMale" : "【诛神】诛邪套装",
+		"suitType" : 2
+	},
+	
+	{
+		"attr" : "1,2564#3,1710#52,250#",
+		"condition" : 2,
+		"id" : 28,
+		"itemLevel" : 6,
+		"suitCategory" : 1,
+		"suitCode" : 10612001,
+		"suitNameFemale" : "【诛神】斩仙套装",
+		"suitNameMale" : "【诛神】斩仙套装",
+		"suitType" : 2
+	},
+	
+	{
+		"attr" : "2,68384#4,2279#53,500#",
+		"condition" : 4,
+		"id" : 29,
+		"itemLevel" : 6,
+		"suitCategory" : 1,
+		"suitCode" : 10612002,
+		"suitNameFemale" : "【诛神】斩仙套装",
+		"suitNameMale" : "【诛神】斩仙套装",
+		"suitType" : 2
+	},
+	
+	{
+		"attr" : "1,2137#2,42740#51,250#54,500#",
+		"condition" : 6,
+		"id" : 30,
+		"itemLevel" : 6,
+		"suitCategory" : 1,
+		"suitCode" : 10612003,
+		"suitNameFemale" : "【诛神】斩仙套装",
+		"suitNameMale" : "【诛神】斩仙套装",
+		"suitType" : 2
+	},
+	
+	{
+		"attr" : "1,3385#3,2257#52,250#",
+		"condition" : 2,
+		"id" : 31,
+		"itemLevel" : 7,
+		"suitCategory" : 1,
+		"suitCode" : 10712001,
+		"suitNameFemale" : "【诛神】戮神套装",
+		"suitNameMale" : "【诛神】戮神套装",
+		"suitType" : 2
+	},
+	
+	{
+		"attr" : "2,90266#4,3009#53,500#",
+		"condition" : 4,
+		"id" : 32,
+		"itemLevel" : 7,
+		"suitCategory" : 1,
+		"suitCode" : 10712002,
+		"suitNameFemale" : "【诛神】戮神套装",
+		"suitNameMale" : "【诛神】戮神套装",
+		"suitType" : 2
+	},
+	
+	{
+		"attr" : "1,2821#2,56417#51,250#54,500#",
+		"condition" : 6,
+		"id" : 33,
+		"itemLevel" : 7,
+		"suitCategory" : 1,
+		"suitCode" : 10712003,
+		"suitNameFemale" : "【诛神】戮神套装",
+		"suitNameMale" : "【诛神】戮神套装",
+		"suitType" : 2
+	},
+	
+	{
+		"attr" : "1,4468#3,2979#52,250#",
+		"condition" : 2,
+		"id" : 34,
+		"itemLevel" : 8,
+		"suitCategory" : 1,
+		"suitCode" : 10812001,
+		"suitNameFemale" : "【诛神】弑圣套装",
+		"suitNameMale" : "【诛神】弑圣套装",
+		"suitType" : 2
+	},
+	
+	{
+		"attr" : "2,119152#4,3972#53,500#",
+		"condition" : 4,
+		"id" : 35,
+		"itemLevel" : 8,
+		"suitCategory" : 1,
+		"suitCode" : 10812002,
+		"suitNameFemale" : "【诛神】弑圣套装",
+		"suitNameMale" : "【诛神】弑圣套装",
+		"suitType" : 2
+	},
+	
+	{
+		"attr" : "1,3724#2,74470#51,250#54,500#",
+		"condition" : 6,
+		"id" : 36,
+		"itemLevel" : 8,
+		"suitCategory" : 1,
+		"suitCode" : 10812003,
+		"suitNameFemale" : "【诛神】弑圣套装",
+		"suitNameMale" : "【诛神】弑圣套装",
+		"suitType" : 2
+	},
+	
+	{
+		"attr" : "1,5898#3,3932#52,250#",
+		"condition" : 2,
+		"id" : 37,
+		"itemLevel" : 9,
+		"suitCategory" : 1,
+		"suitCode" : 10912001,
+		"suitNameFemale" : "【诛神】斗帝套装",
+		"suitNameMale" : "【诛神】斗帝套装",
+		"suitType" : 2
+	},
+	
+	{
+		"attr" : "2,157280#4,5243#53,500#",
+		"condition" : 4,
+		"id" : 38,
+		"itemLevel" : 9,
+		"suitCategory" : 1,
+		"suitCode" : 10912002,
+		"suitNameFemale" : "【诛神】斗帝套装",
+		"suitNameMale" : "【诛神】斗帝套装",
+		"suitType" : 2
+	},
+	
+	{
+		"attr" : "1,4915#2,98300#51,250#54,500#",
+		"condition" : 6,
+		"id" : 39,
+		"itemLevel" : 9,
+		"suitCategory" : 1,
+		"suitCode" : 10912003,
+		"suitNameFemale" : "【诛神】斗帝套装",
+		"suitNameMale" : "【诛神】斗帝套装",
+		"suitType" : 2
+	},
+	
+	{
+		"attr" : "1,7785#3,5190#52,250#",
+		"condition" : 2,
+		"id" : 40,
+		"itemLevel" : 10,
+		"suitCategory" : 1,
+		"suitCode" : 11012001,
+		"suitNameFemale" : "【诛神】遮天套装",
+		"suitNameMale" : "【诛神】遮天套装",
+		"suitType" : 2
+	},
+	
+	{
+		"attr" : "2,207610#4,6920#53,500#",
+		"condition" : 4,
+		"id" : 41,
+		"itemLevel" : 10,
+		"suitCategory" : 1,
+		"suitCode" : 11012002,
+		"suitNameFemale" : "【诛神】遮天套装",
+		"suitNameMale" : "【诛神】遮天套装",
+		"suitType" : 2
+	},
+	
+	{
+		"attr" : "1,6488#2,129756#51,250#54,500#",
+		"condition" : 6,
+		"id" : 42,
+		"itemLevel" : 10,
+		"suitCategory" : 1,
+		"suitCode" : 11012003,
+		"suitNameFemale" : "【诛神】遮天套装",
+		"suitNameMale" : "【诛神】遮天套装",
+		"suitType" : 2
+	},
+	
+	{
+		"attr" : "1,10277#3,6851#52,250#",
+		"condition" : 2,
+		"id" : 43,
+		"itemLevel" : 11,
+		"suitCategory" : 1,
+		"suitCode" : 11112001,
+		"suitNameFemale" : "【诛神】轩辕套装",
+		"suitNameMale" : "【诛神】轩辕套装",
+		"suitType" : 2
+	},
+	
+	{
+		"attr" : "2,274044#4,9135#53,500#",
+		"condition" : 4,
+		"id" : 44,
+		"itemLevel" : 11,
+		"suitCategory" : 1,
+		"suitCode" : 11112002,
+		"suitNameFemale" : "【诛神】轩辕套装",
+		"suitNameMale" : "【诛神】轩辕套装",
+		"suitType" : 2
+	},
+	
+	{
+		"attr" : "1,8564#2,171278#51,250#54,500#",
+		"condition" : 6,
+		"id" : 45,
+		"itemLevel" : 11,
+		"suitCategory" : 1,
+		"suitCode" : 11112003,
+		"suitNameFemale" : "【诛神】轩辕套装",
+		"suitNameMale" : "【诛神】轩辕套装",
+		"suitType" : 2
+	},
+	
+	{
+		"attr" : "1,13565#3,9043#52,250#",
+		"condition" : 2,
+		"id" : 46,
+		"itemLevel" : 12,
+		"suitCategory" : 1,
+		"suitCode" : 11212001,
+		"suitNameFemale" : "【诛神】洪荒套装",
+		"suitNameMale" : "【诛神】洪荒套装",
+		"suitType" : 2
+	},
+	
+	{
+		"attr" : "2,361738#4,12058#53,500#",
+		"condition" : 4,
+		"id" : 47,
+		"itemLevel" : 12,
+		"suitCategory" : 1,
+		"suitCode" : 11212002,
+		"suitNameFemale" : "【诛神】洪荒套装",
+		"suitNameMale" : "【诛神】洪荒套装",
+		"suitType" : 2
+	},
+	
+	{
+		"attr" : "1,11304#2,226086#51,250#54,500#",
+		"condition" : 6,
+		"id" : 48,
+		"itemLevel" : 12,
+		"suitCategory" : 1,
+		"suitCode" : 11212003,
+		"suitNameFemale" : "【诛神】洪荒套装",
+		"suitNameMale" : "【诛神】洪荒套装",
+		"suitType" : 2
+	},
+	
+	{
+		"attr" : "51,150#",
+		"condition" : 1,
+		"id" : 49,
+		"itemLevel" : 5,
+		"suitCategory" : 2,
+		"suitCode" : 10521001,
+		"suitNameFemale" : "【诛仙】仙器套装",
+		"suitNameMale" : "【诛仙】仙器套装",
+		"suitType" : 1
+	},
+	
+	{
+		"attr" : "1,700#3,300#53,300#",
+		"condition" : 2,
+		"id" : 50,
+		"itemLevel" : 5,
+		"suitCategory" : 2,
+		"suitCode" : 10521002,
+		"suitNameFemale" : "【诛仙】仙器套装",
+		"suitNameMale" : "【诛仙】仙器套装",
+		"suitType" : 1
+	},
+	
+	{
+		"attr" : "2,28000#4,600#52,150#54,300#",
+		"condition" : 4,
+		"id" : 51,
+		"itemLevel" : 5,
+		"suitCategory" : 2,
+		"suitCode" : 10521003,
+		"suitNameFemale" : "【诛仙】仙器套装",
+		"suitNameMale" : "【诛仙】仙器套装",
+		"suitType" : 1
+	},
+	
+	{
+		"attr" : "51,200#",
+		"condition" : 1,
+		"id" : 52,
+		"itemLevel" : 5,
+		"suitCategory" : 2,
+		"suitCode" : 10522001,
+		"suitNameFemale" : "【诛神】仙器套装",
+		"suitNameMale" : "【诛神】仙器套装",
+		"suitType" : 2
+	},
+	
+	{
+		"attr" : "1,1867#3,800#53,400#",
+		"condition" : 2,
+		"id" : 53,
+		"itemLevel" : 5,
+		"suitCategory" : 2,
+		"suitCode" : 10522002,
+		"suitNameFemale" : "【诛神】仙器套装",
+		"suitNameMale" : "【诛神】仙器套装",
+		"suitType" : 2
+	},
+	
+	{
+		"attr" : "2,74666#4,1600#52,200#54,400#",
+		"condition" : 4,
+		"id" : 54,
+		"itemLevel" : 5,
+		"suitCategory" : 2,
+		"suitCode" : 10522003,
+		"suitNameFemale" : "【诛神】仙器套装",
+		"suitNameMale" : "【诛神】仙器套装",
+		"suitType" : 2
+	}
+]

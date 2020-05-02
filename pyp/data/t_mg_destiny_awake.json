@@ -1,0 +1,99 @@
+
+[
+	
+	{
+		"attrList" : "1,500#2,7000#4,150#",
+		"costExp" : 388056626350.0,
+		"costProp" : 4,
+		"level" : 1,
+		"name" : "天枢"
+	},
+	
+	{
+		"attrList" : "1,500#2,7000#4,150#",
+		"costExp" : 582084939530.0,
+		"costProp" : 6,
+		"level" : 2,
+		"name" : "天璇"
+	},
+	
+	{
+		"attrList" : "1,500#2,7000#4,150#",
+		"costExp" : 679099096110.0,
+		"costProp" : 7,
+		"level" : 3,
+		"name" : "天玑"
+	},
+	
+	{
+		"attrList" : "1,500#2,7000#4,150#",
+		"costExp" : 776113252700.0,
+		"costProp" : 8,
+		"level" : 4,
+		"name" : "天权"
+	},
+	
+	{
+		"attrList" : "1,500#2,7000#4,150#",
+		"costExp" : 970141565880.0,
+		"costProp" : 10,
+		"level" : 5,
+		"name" : "玉衡"
+	},
+	
+	{
+		"attrList" : "1,500#2,7000#4,150#",
+		"costExp" : 1067155722500.0,
+		"costProp" : 11,
+		"level" : 6,
+		"name" : "开阳"
+	},
+	
+	{
+		"attrList" : "1,500#2,7000#4,150#",
+		"costExp" : 1261184035600.0,
+		"costProp" : 13,
+		"level" : 7,
+		"name" : "瑶光"
+	},
+	
+	{
+		"attrList" : "1,500#2,7000#4,150#",
+		"costExp" : 1358198192200.0,
+		"costProp" : 14,
+		"level" : 8,
+		"name" : "武曲"
+	},
+	
+	{
+		"attrList" : "1,500#2,7000#4,150#",
+		"costExp" : 1455212348800.0,
+		"costProp" : 15,
+		"level" : 9,
+		"name" : "七杀"
+	},
+	
+	{
+		"attrList" : "1,500#2,7000#4,150#",
+		"costExp" : 1552226505400.0,
+		"costProp" : 16,
+		"level" : 10,
+		"name" : "破军"
+	},
+	
+	{
+		"attrList" : "1,500#2,7000#4,150#",
+		"costExp" : 1649240662000.0,
+		"costProp" : 17,
+		"level" : 11,
+		"name" : "贪狼"
+	},
+	
+	{
+		"attrList" : "1,500#2,7000#4,150#",
+		"costExp" : 1746254818600.0,
+		"costProp" : 18,
+		"level" : 12,
+		"name" : "紫微"
+	}
+]

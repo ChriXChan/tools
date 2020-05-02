@@ -1,0 +1,351 @@
+
+[
+	
+	{
+		"icon" : "20000014,1#12150150,2#12150650,2#12150550,2",
+		"id" : 1,
+		"maxLevel" : 999,
+		"num" : 1,
+		"rewardStr" : "3,12150150,1#3,12150650,1#3,12150550,1#3,20000063,1#3,50010101,1#3,12330002,1#",
+		"type" : 1,
+		"warfareShow" : 30000.0
+	},
+	
+	{
+		"day" : 1,
+		"goldShow" : 1888,
+		"icon" : "sb3_wz_show",
+		"id" : 2,
+		"index" : 1,
+		"maxLevel" : 999,
+		"num" : 800,
+		"rewardStr" : "3,60030004,1#3,401510131,60#3,40151013,10#3,40151012,6#3,419906001,1",
+		"showType" : 2,
+		"type" : 2
+	},
+	
+	{
+		"day" : 2,
+		"goldShow" : 3888,
+		"icon" : "sb3_wz_show",
+		"id" : 7,
+		"index" : 1,
+		"maxLevel" : 999,
+		"num" : 1000,
+		"rewardStr" : "3,419906002,1#3,35000000,10#3,40151012,10#3,40110252,1",
+		"showType" : 2,
+		"type" : 2
+	},
+	
+	{
+		"day" : 3,
+		"goldShow" : 3888,
+		"icon" : "sb3_wz_show",
+		"id" : 10,
+		"index" : 1,
+		"maxLevel" : 999,
+		"num" : 1000,
+		"rewardStr" : "3,35000000,10#3,40151013,10#3,40151012,10#3,40110252,1",
+		"showType" : 2,
+		"type" : 2
+	},
+	
+	{
+		"day" : 4,
+		"goldShow" : 3888,
+		"icon" : "sb3_wz_show",
+		"id" : 13,
+		"index" : 1,
+		"maxLevel" : 999,
+		"num" : 1000,
+		"rewardStr" : "3,35000000,10#3,60040002,10#3,40151012,10#3,40110252,1",
+		"showType" : 2,
+		"type" : 2
+	},
+	
+	{
+		"day" : 5,
+		"goldShow" : 3888,
+		"icon" : "sb3_wz_show",
+		"id" : 16,
+		"index" : 1,
+		"maxLevel" : 999,
+		"num" : 1000,
+		"rewardStr" : "3,35000000,10#3,35000000,10#3,40151012,10#3,40110252,1",
+		"showType" : 2,
+		"type" : 2
+	},
+	
+	{
+		"day" : 6,
+		"goldShow" : 3888,
+		"icon" : "sb3_wz_show",
+		"id" : 19,
+		"index" : 1,
+		"maxLevel" : 999,
+		"num" : 1000,
+		"rewardStr" : "3,35000000,10#3,60010002,20#3,40151012,10#3,40110252,1",
+		"showType" : 2,
+		"type" : 2
+	},
+	
+	{
+		"day" : 7,
+		"goldShow" : 3888,
+		"icon" : "sb3_wz_show",
+		"id" : 22,
+		"index" : 1,
+		"maxLevel" : 999,
+		"num" : 1000,
+		"rewardStr" : "3,35000000,10#3,36000000,10#3,40151012,10#3,40110252,1",
+		"showType" : 2,
+		"type" : 2
+	},
+	
+	{
+		"day" : 8,
+		"goldShow" : 3888,
+		"icon" : "sb3_wz_show",
+		"id" : 25,
+		"index" : 1,
+		"maxLevel" : 999,
+		"num" : 1000,
+		"rewardStr" : "3,35000000,10#3,40151012,10#3,60010002,20#3,40110252,1",
+		"showType" : 2,
+		"type" : 2
+	},
+	
+	{
+		"day" : 1,
+		"goldShow" : 5888,
+		"icon" : "sb3_wz_show",
+		"id" : 3,
+		"index" : 2,
+		"maxLevel" : 999,
+		"num" : 5000,
+		"rewardStr" : "3,30051036,2#3,60030004,1#3,40151013,30#3,40151012,15#3,35000000,5",
+		"showType" : 2,
+		"type" : 2
+	},
+	
+	{
+		"day" : 2,
+		"goldShow" : 8888,
+		"icon" : "sb3_wz_show",
+		"id" : 8,
+		"index" : 2,
+		"maxLevel" : 999,
+		"num" : 5000,
+		"rewardStr" : "3,419906002,1#3,35000000,20#3,40151012,20#3,42061007,1",
+		"showType" : 2,
+		"type" : 2
+	},
+	
+	{
+		"day" : 3,
+		"goldShow" : 8888,
+		"icon" : "sb3_wz_show",
+		"id" : 11,
+		"index" : 2,
+		"maxLevel" : 999,
+		"num" : 5000,
+		"rewardStr" : "3,35000000,20#3,20000052,1#3,40151012,20#3,42061007,1",
+		"showType" : 2,
+		"type" : 2
+	},
+	
+	{
+		"day" : 4,
+		"goldShow" : 8888,
+		"icon" : "sb3_wz_show",
+		"id" : 14,
+		"index" : 2,
+		"maxLevel" : 999,
+		"num" : 5000,
+		"rewardStr" : "3,35000000,20#3,60040002,20#3,40151012,20#3,42061007,1",
+		"showType" : 2,
+		"type" : 2
+	},
+	
+	{
+		"day" : 5,
+		"goldShow" : 8888,
+		"icon" : "sb3_wz_show",
+		"id" : 17,
+		"index" : 2,
+		"maxLevel" : 999,
+		"num" : 5000,
+		"rewardStr" : "3,35000000,20#3,35000000,20#3,40151012,20#3,42061007,1",
+		"showType" : 2,
+		"type" : 2
+	},
+	
+	{
+		"day" : 6,
+		"goldShow" : 8888,
+		"icon" : "sb3_wz_show",
+		"id" : 20,
+		"index" : 2,
+		"maxLevel" : 999,
+		"num" : 5000,
+		"rewardStr" : "3,35000000,20#3,60010002,40#3,40151012,20#3,42061007,1",
+		"showType" : 2,
+		"type" : 2
+	},
+	
+	{
+		"day" : 7,
+		"goldShow" : 8888,
+		"icon" : "sb3_wz_show",
+		"id" : 23,
+		"index" : 2,
+		"maxLevel" : 999,
+		"num" : 5000,
+		"rewardStr" : "3,35000000,20#3,36000000,20#3,40151012,20#3,42061007,1",
+		"showType" : 2,
+		"type" : 2
+	},
+	
+	{
+		"day" : 8,
+		"goldShow" : 8888,
+		"icon" : "sb3_wz_show",
+		"id" : 26,
+		"index" : 2,
+		"maxLevel" : 999,
+		"num" : 5000,
+		"rewardStr" : "3,35000000,20#3,40151012,20#3,60010002,40#3,42061007,1",
+		"showType" : 2,
+		"type" : 2
+	},
+	
+	{
+		"day" : 1,
+		"goldShow" : 18888,
+		"icon" : "sb3_wz_show",
+		"id" : 4,
+		"index" : 3,
+		"maxLevel" : 999,
+		"num" : 10000,
+		"rewardStr" : "3,20000152,1#3,60030011,1#3,40151013,50#3,40151012,21#3,419906001,2",
+		"showType" : 1,
+		"type" : 2
+	},
+	
+	{
+		"day" : 2,
+		"goldShow" : 13888,
+		"icon" : "sb3_wz_show",
+		"id" : 9,
+		"index" : 3,
+		"maxLevel" : 999,
+		"num" : 10000,
+		"rewardStr" : "3,419906002,1#3,35000000,20#3,40151012,20#3,42061004,1",
+		"showType" : 1,
+		"type" : 2
+	},
+	
+	{
+		"day" : 3,
+		"goldShow" : 13888,
+		"icon" : "sb3_wz_show",
+		"id" : 12,
+		"index" : 3,
+		"maxLevel" : 999,
+		"num" : 10000,
+		"rewardStr" : "3,35000000,20#3,20000152,1#3,40151012,20#3,42061004,1",
+		"showType" : 1,
+		"type" : 2
+	},
+	
+	{
+		"day" : 4,
+		"goldShow" : 13888,
+		"icon" : "sb3_wz_show",
+		"id" : 15,
+		"index" : 3,
+		"maxLevel" : 999,
+		"num" : 10000,
+		"rewardStr" : "3,35000000,20#3,60040002,20#3,40151012,20#3,42061004,1",
+		"showType" : 1,
+		"type" : 2
+	},
+	
+	{
+		"day" : 5,
+		"goldShow" : 13888,
+		"icon" : "sb3_wz_show",
+		"id" : 18,
+		"index" : 3,
+		"maxLevel" : 999,
+		"num" : 10000,
+		"rewardStr" : "3,35010001,1#3,35000000,20#3,35000000,20#3,42061004,1",
+		"showType" : 1,
+		"type" : 2
+	},
+	
+	{
+		"day" : 6,
+		"goldShow" : 13888,
+		"icon" : "sb3_wz_show",
+		"id" : 21,
+		"index" : 3,
+		"maxLevel" : 999,
+		"num" : 10000,
+		"rewardStr" : "3,35000000,20#3,60010002,40#3,40151012,20#3,42061004,1",
+		"showType" : 1,
+		"type" : 2
+	},
+	
+	{
+		"day" : 7,
+		"goldShow" : 13888,
+		"icon" : "sb3_wz_show",
+		"id" : 24,
+		"index" : 3,
+		"maxLevel" : 999,
+		"num" : 10000,
+		"rewardStr" : "3,36010001,3#3,36010002,3#3,35000000,20#3,42061004,1",
+		"showType" : 1,
+		"type" : 2
+	},
+	
+	{
+		"day" : 8,
+		"goldShow" : 13888,
+		"icon" : "sb3_wz_show",
+		"id" : 27,
+		"index" : 3,
+		"maxLevel" : 999,
+		"num" : 10000,
+		"rewardStr" : "3,35000000,20#3,40151012,20#3,60010002,40#3,42061004,1",
+		"showType" : 1,
+		"type" : 2
+	},
+	
+	{
+		"day" : 1,
+		"goldShow" : 28888,
+		"icon" : "sb3_wz_show",
+		"id" : 5,
+		"index" : 4,
+		"maxLevel" : 999,
+		"num" : 20000,
+		"rewardStr" : "3,20000252,1#3,60030011,1#3,40151013,80#3,40151012,30#3,419906001,2",
+		"showType" : 1,
+		"type" : 2
+	},
+	
+	{
+		"day" : 1,
+		"goldShow" : 58888,
+		"icon" : "sb3_wz_show",
+		"id" : 6,
+		"index" : 5,
+		"maxLevel" : 999,
+		"num" : 50000,
+		"rewardStr" : "3,20000352,1#3,60030011,1#3,40151013,120#3,40151012,60#3,419906001,2",
+		"showType" : 1,
+		"type" : 2
+	}
+]

@@ -1,0 +1,69 @@
+
+[
+	
+	{
+		"drug1ItemCode" : 60030001,
+		"drug1PerAttrList" : "2,800#",
+		"drug2AttrRate" : 200,
+		"drug2ItemCode" : 60030008,
+		"drug2PerAttrList" : "2,4000#4,200#",
+		"drug3ItemCode" : 60030015,
+		"drug3PerAttrList" : "4,40#",
+		"shape" : 1
+	},
+	
+	{
+		"drug1ItemCode" : 60030002,
+		"drug1PerAttrList" : "1,40#",
+		"drug2AttrRate" : 200,
+		"drug2ItemCode" : 60030009,
+		"drug2PerAttrList" : "1,200#3,200#",
+		"drug3ItemCode" : 60030016,
+		"drug3PerAttrList" : "3,40#",
+		"shape" : 2
+	},
+	
+	{
+		"drug1ItemCode" : 60030003,
+		"drug1PerAttrList" : "7,200#",
+		"drug2AttrRate" : 200,
+		"drug2ItemCode" : 60030010,
+		"drug2PerAttrList" : "7,200#8,200#",
+		"drug3ItemCode" : 60030017,
+		"drug3PerAttrList" : "8,200#",
+		"shape" : 3
+	},
+	
+	{
+		"drug1ItemCode" : 60030004,
+		"drug1PerAttrList" : "5,100#",
+		"drug2AttrRate" : 200,
+		"drug2ItemCode" : 60030011,
+		"drug2PerAttrList" : "2,4000#5,200#",
+		"drug3ItemCode" : 60030018,
+		"drug3PerAttrList" : "2,2000#",
+		"shape" : 4
+	},
+	
+	{
+		"drug1ItemCode" : 60030006,
+		"drug1PerAttrList" : "1,100#",
+		"drug2AttrRate" : 200,
+		"drug2ItemCode" : 60030013,
+		"drug2PerAttrList" : "1,200#6,200#",
+		"drug3ItemCode" : 60030020,
+		"drug3PerAttrList" : "6,100#",
+		"shape" : 6
+	},
+	
+	{
+		"drug1ItemCode" : 60030022,
+		"drug1PerAttrList" : "4,100#",
+		"drug2AttrRate" : 200,
+		"drug2ItemCode" : 60030023,
+		"drug2PerAttrList" : "2,4000#4,200#",
+		"drug3ItemCode" : 60030024,
+		"drug3PerAttrList" : "2,2000#",
+		"shape" : 8
+	}
+]

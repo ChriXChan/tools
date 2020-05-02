@@ -1,0 +1,3171 @@
+
+[
+	
+	{
+		"bossCode" : 1000020,
+		"color" : "#01ab24",
+		"desc" : "<font color='#0178fe'>1阶蓝装：</font>0件/天<br><font color='#df22e7'>1阶紫装：</font>0件/天<br><font color='#01ab24'>标准经验：</font>0.03万/分钟",
+		"mapId" : 100000,
+		"mapX" : 33,
+		"mapY" : 17,
+		"order" : 1,
+		"proposeDefense" : 19,
+		"proposeDps" : 40,
+		"proposeLevel" : 2,
+		"proposeSurvival" : 173
+	},
+	
+	{
+		"bossCode" : 1000000,
+		"color" : "#0178fe",
+		"desc" : "<font color='#0178fe'>1阶蓝装：</font>0件/天<br><font color='#df22e7'>1阶紫装：</font>0件/天<br><font color='#01ab24'>标准经验：</font>0.04万/分钟",
+		"mapId" : 100000,
+		"mapX" : 18,
+		"mapY" : 72,
+		"order" : 2,
+		"proposeDefense" : 19,
+		"proposeDps" : 40,
+		"proposeLevel" : 4,
+		"proposeSurvival" : 173
+	},
+	
+	{
+		"bossCode" : 1000005,
+		"color" : "#df140f",
+		"desc" : "<font color='#0178fe'>1阶蓝装：</font>0件/天<br><font color='#df22e7'>1阶紫装：</font>0件/天<br><font color='#01ab24'>标准经验：</font>0.05万/分钟",
+		"mapId" : 100000,
+		"mapX" : 66,
+		"mapY" : 39,
+		"order" : 3,
+		"proposeDefense" : 32,
+		"proposeDps" : 68,
+		"proposeLevel" : 8,
+		"proposeSurvival" : 213
+	},
+	
+	{
+		"bossCode" : 1000002,
+		"color" : "#df22e7",
+		"desc" : "<font color='#0178fe'>1阶蓝装：</font>0件/天<br><font color='#df22e7'>1阶紫装：</font>0件/天<br><font color='#01ab24'>标准经验：</font>0.06万/分钟",
+		"mapId" : 100000,
+		"mapX" : 64,
+		"mapY" : 74,
+		"order" : 4,
+		"proposeDefense" : 36,
+		"proposeDps" : 78,
+		"proposeLevel" : 12,
+		"proposeSurvival" : 226
+	},
+	
+	{
+		"bossCode" : 1000003,
+		"color" : "#fea700",
+		"desc" : "<font color='#0178fe'>1阶蓝装：</font>0件/天<br><font color='#df22e7'>1阶紫装：</font>0件/天<br><font color='#01ab24'>标准经验：</font>0.09万/分钟",
+		"mapId" : 100000,
+		"mapX" : 46,
+		"mapY" : 86,
+		"order" : 5,
+		"proposeDefense" : 41,
+		"proposeDps" : 87,
+		"proposeLevel" : 14,
+		"proposeSurvival" : 239
+	},
+	
+	{
+		"bossCode" : 1000004,
+		"color" : "#fea700",
+		"desc" : "<font color='#0178fe'>1阶蓝装：</font>0件/天<br><font color='#df22e7'>1阶紫装：</font>0件/天<br><font color='#01ab24'>标准经验：</font>0.13万/分钟",
+		"mapId" : 100000,
+		"mapX" : 34,
+		"mapY" : 119,
+		"order" : 6,
+		"proposeDefense" : 67,
+		"proposeDps" : 144,
+		"proposeLevel" : 17,
+		"proposeSurvival" : 319
+	},
+	
+	{
+		"bossCode" : 1000043,
+		"color" : "#fcfcfc",
+		"desc" : "<font color='#0178fe'>3阶蓝装：</font>274件/天<br><font color='#df22e7'>3阶紫装：</font>41件/天<br><font color='#01ab24'>标准经验：</font>1.85万/分钟",
+		"mapId" : 102000,
+		"mapX" : 14,
+		"mapY" : 121,
+		"order" : 1,
+		"proposeDefense" : 200,
+		"proposeDps" : 429,
+		"proposeLevel" : 40,
+		"proposeSurvival" : 719
+	},
+	
+	{
+		"bossCode" : 1000043,
+		"color" : "#fcfcfc",
+		"desc" : "<font color='#0178fe'>3阶蓝装：</font>274件/天<br><font color='#df22e7'>3阶紫装：</font>41件/天<br><font color='#01ab24'>标准经验：</font>1.85万/分钟",
+		"mapId" : 102000,
+		"mapX" : 11,
+		"mapY" : 121,
+		"order" : 2,
+		"proposeDefense" : 200,
+		"proposeDps" : 429,
+		"proposeLevel" : 40,
+		"proposeSurvival" : 719
+	},
+	
+	{
+		"bossCode" : 1000044,
+		"color" : "#01ab24",
+		"desc" : "<font color='#0178fe'>3阶蓝装：</font>315件/天<br><font color='#df22e7'>3阶紫装：</font>47件/天<br><font color='#01ab24'>标准经验：</font>2.52万/分钟",
+		"mapId" : 102000,
+		"mapX" : 11,
+		"mapY" : 79,
+		"order" : 3,
+		"proposeDefense" : 283,
+		"proposeDps" : 608,
+		"proposeLevel" : 45,
+		"proposeSurvival" : 786
+	},
+	
+	{
+		"bossCode" : 1000044,
+		"color" : "#01ab24",
+		"desc" : "<font color='#0178fe'>3阶蓝装：</font>315件/天<br><font color='#df22e7'>3阶紫装：</font>47件/天<br><font color='#01ab24'>标准经验：</font>2.52万/分钟",
+		"mapId" : 102000,
+		"mapX" : 18,
+		"mapY" : 73,
+		"order" : 4,
+		"proposeDefense" : 283,
+		"proposeDps" : 608,
+		"proposeLevel" : 45,
+		"proposeSurvival" : 786
+	},
+	
+	{
+		"bossCode" : 1000045,
+		"color" : "#0178fe",
+		"desc" : "<font color='#0178fe'>3阶蓝装：</font>357件/天<br><font color='#df22e7'>3阶紫装：</font>53件/天<br><font color='#01ab24'>标准经验：</font>7.28万/分钟",
+		"mapId" : 102000,
+		"mapX" : 13,
+		"mapY" : 28,
+		"order" : 5,
+		"proposeDefense" : 328,
+		"proposeDps" : 704,
+		"proposeLevel" : 50,
+		"proposeSurvival" : 853
+	},
+	
+	{
+		"bossCode" : 1000045,
+		"color" : "#0178fe",
+		"desc" : "<font color='#0178fe'>3阶蓝装：</font>357件/天<br><font color='#df22e7'>3阶紫装：</font>53件/天<br><font color='#01ab24'>标准经验：</font>7.28万/分钟",
+		"mapId" : 102000,
+		"mapX" : 15,
+		"mapY" : 18,
+		"order" : 6,
+		"proposeDefense" : 328,
+		"proposeDps" : 704,
+		"proposeLevel" : 50,
+		"proposeSurvival" : 853
+	},
+	
+	{
+		"bossCode" : 1000046,
+		"color" : "#df22e7",
+		"desc" : "<font color='#0178fe'>3阶蓝装：</font>398件/天<br><font color='#df22e7'>3阶紫装：</font>60件/天<br><font color='#01ab24'>标准经验：</font>12.24万/分钟",
+		"mapId" : 102000,
+		"mapX" : 72,
+		"mapY" : 57,
+		"order" : 7,
+		"proposeDefense" : 376,
+		"proposeDps" : 806,
+		"proposeLevel" : 55,
+		"proposeSurvival" : 920
+	},
+	
+	{
+		"bossCode" : 1000046,
+		"color" : "#df22e7",
+		"desc" : "<font color='#0178fe'>3阶蓝装：</font>398件/天<br><font color='#df22e7'>3阶紫装：</font>60件/天<br><font color='#01ab24'>标准经验：</font>12.24万/分钟",
+		"mapId" : 102000,
+		"mapX" : 67,
+		"mapY" : 63,
+		"order" : 8,
+		"proposeDefense" : 376,
+		"proposeDps" : 806,
+		"proposeLevel" : 55,
+		"proposeSurvival" : 920
+	},
+	
+	{
+		"bossCode" : 1000048,
+		"color" : "#fea700",
+		"desc" : "<font color='#0178fe'>3阶蓝装：</font>439件/天<br><font color='#df22e7'>3阶紫装：</font>66件/天<br><font color='#01ab24'>标准经验：</font>22.98万/分钟",
+		"mapId" : 102000,
+		"mapX" : 64,
+		"mapY" : 119,
+		"order" : 9,
+		"proposeDefense" : 426,
+		"proposeDps" : 914,
+		"proposeLevel" : 60,
+		"proposeSurvival" : 987
+	},
+	
+	{
+		"bossCode" : 1000048,
+		"color" : "#fea700",
+		"desc" : "<font color='#0178fe'>3阶蓝装：</font>439件/天<br><font color='#df22e7'>3阶紫装：</font>66件/天<br><font color='#01ab24'>标准经验：</font>22.98万/分钟",
+		"mapId" : 102000,
+		"mapX" : 71,
+		"mapY" : 112,
+		"order" : 10,
+		"proposeDefense" : 426,
+		"proposeDps" : 914,
+		"proposeLevel" : 60,
+		"proposeSurvival" : 987
+	},
+	
+	{
+		"bossCode" : 1000047,
+		"color" : "#df140f",
+		"desc" : "<font color='#0178fe'>3阶蓝装：</font>549件/天<br><font color='#df22e7'>3阶紫装：</font>82件/天<br><font color='#01ab24'>标准经验：</font>49.19万/分钟",
+		"mapId" : 102000,
+		"mapX" : 42,
+		"mapY" : 89,
+		"order" : 11,
+		"proposeDefense" : 537,
+		"proposeDps" : 1153,
+		"proposeLevel" : 70,
+		"proposeSurvival" : 1122
+	},
+	
+	{
+		"bossCode" : 1000047,
+		"color" : "#df140f",
+		"desc" : "<font color='#0178fe'>3阶蓝装：</font>549件/天<br><font color='#df22e7'>3阶紫装：</font>82件/天<br><font color='#01ab24'>标准经验：</font>49.19万/分钟",
+		"mapId" : 102000,
+		"mapX" : 35,
+		"mapY" : 91,
+		"order" : 12,
+		"proposeDefense" : 537,
+		"proposeDps" : 1153,
+		"proposeLevel" : 70,
+		"proposeSurvival" : 1122
+	},
+	
+	{
+		"bossCode" : 1000032,
+		"color" : "#fcfcfc",
+		"desc" : "<font color='#0178fe'>4阶蓝装：</font>274件/天<br><font color='#df22e7'>4阶紫装：</font>41件/天<br><font color='#01ab24'>标准经验：</font>65.81万/分钟",
+		"mapId" : 103000,
+		"mapX" : 14,
+		"mapY" : 75,
+		"order" : 1,
+		"proposeDefense" : 733,
+		"proposeDps" : 1572,
+		"proposeLevel" : 75,
+		"proposeSurvival" : 1327
+	},
+	
+	{
+		"bossCode" : 1000032,
+		"color" : "#fcfcfc",
+		"desc" : "<font color='#0178fe'>4阶蓝装：</font>274件/天<br><font color='#df22e7'>4阶紫装：</font>41件/天<br><font color='#01ab24'>标准经验：</font>65.81万/分钟",
+		"mapId" : 103000,
+		"mapX" : 17,
+		"mapY" : 80,
+		"order" : 2,
+		"proposeDefense" : 733,
+		"proposeDps" : 1572,
+		"proposeLevel" : 75,
+		"proposeSurvival" : 1327
+	},
+	
+	{
+		"bossCode" : 1000033,
+		"color" : "#01ab24",
+		"desc" : "<font color='#0178fe'>4阶蓝装：</font>315件/天<br><font color='#df22e7'>4阶紫装：</font>47件/天<br><font color='#01ab24'>标准经验：</font>85.84万/分钟",
+		"mapId" : 103000,
+		"mapX" : 32,
+		"mapY" : 86,
+		"order" : 3,
+		"proposeDefense" : 885,
+		"proposeDps" : 1898,
+		"proposeLevel" : 80,
+		"proposeSurvival" : 1464
+	},
+	
+	{
+		"bossCode" : 1000033,
+		"color" : "#01ab24",
+		"desc" : "<font color='#0178fe'>4阶蓝装：</font>315件/天<br><font color='#df22e7'>4阶紫装：</font>47件/天<br><font color='#01ab24'>标准经验：</font>85.84万/分钟",
+		"mapId" : 103000,
+		"mapX" : 35,
+		"mapY" : 76,
+		"order" : 4,
+		"proposeDefense" : 885,
+		"proposeDps" : 1898,
+		"proposeLevel" : 80,
+		"proposeSurvival" : 1464
+	},
+	
+	{
+		"bossCode" : 1000034,
+		"color" : "#0178fe",
+		"desc" : "<font color='#0178fe'>4阶蓝装：</font>357件/天<br><font color='#df22e7'>4阶紫装：</font>53件/天<br><font color='#01ab24'>标准经验：</font>110.3万/分钟",
+		"mapId" : 103000,
+		"mapX" : 51,
+		"mapY" : 71,
+		"order" : 5,
+		"proposeDefense" : 1057,
+		"proposeDps" : 2268,
+		"proposeLevel" : 90,
+		"proposeSurvival" : 1602
+	},
+	
+	{
+		"bossCode" : 1000034,
+		"color" : "#0178fe",
+		"desc" : "<font color='#0178fe'>4阶蓝装：</font>357件/天<br><font color='#df22e7'>4阶紫装：</font>53件/天<br><font color='#01ab24'>标准经验：</font>110.3万/分钟",
+		"mapId" : 103000,
+		"mapX" : 55,
+		"mapY" : 52,
+		"order" : 6,
+		"proposeDefense" : 1057,
+		"proposeDps" : 2268,
+		"proposeLevel" : 90,
+		"proposeSurvival" : 1602
+	},
+	
+	{
+		"bossCode" : 1000035,
+		"color" : "#df22e7",
+		"desc" : "<font color='#0178fe'>4阶蓝装：</font>398件/天<br><font color='#df22e7'>4阶紫装：</font>60件/天<br><font color='#01ab24'>标准经验：</font>140.51万/分钟",
+		"mapId" : 103000,
+		"mapX" : 50,
+		"mapY" : 34,
+		"order" : 7,
+		"proposeDefense" : 1253,
+		"proposeDps" : 2687,
+		"proposeLevel" : 100,
+		"proposeSurvival" : 1742
+	},
+	
+	{
+		"bossCode" : 1000035,
+		"color" : "#df22e7",
+		"desc" : "<font color='#0178fe'>4阶蓝装：</font>398件/天<br><font color='#df22e7'>4阶紫装：</font>60件/天<br><font color='#01ab24'>标准经验：</font>140.51万/分钟",
+		"mapId" : 103000,
+		"mapX" : 47,
+		"mapY" : 21,
+		"order" : 8,
+		"proposeDefense" : 1253,
+		"proposeDps" : 2687,
+		"proposeLevel" : 100,
+		"proposeSurvival" : 1742
+	},
+	
+	{
+		"bossCode" : 1000037,
+		"color" : "#fea700",
+		"desc" : "<font color='#0178fe'>4阶蓝装：</font>439件/天<br><font color='#df22e7'>4阶紫装：</font>66件/天<br><font color='#01ab24'>标准经验：</font>178.12万/分钟",
+		"mapId" : 103000,
+		"mapX" : 36,
+		"mapY" : 20,
+		"order" : 9,
+		"proposeDefense" : 1474,
+		"proposeDps" : 3162,
+		"proposeLevel" : 110,
+		"proposeSurvival" : 2374
+	},
+	
+	{
+		"bossCode" : 1000037,
+		"color" : "#fea700",
+		"desc" : "<font color='#0178fe'>4阶蓝装：</font>439件/天<br><font color='#df22e7'>4阶紫装：</font>66件/天<br><font color='#01ab24'>标准经验：</font>178.12万/分钟",
+		"mapId" : 103000,
+		"mapX" : 25,
+		"mapY" : 15,
+		"order" : 10,
+		"proposeDefense" : 1474,
+		"proposeDps" : 3162,
+		"proposeLevel" : 110,
+		"proposeSurvival" : 2374
+	},
+	
+	{
+		"bossCode" : 1000038,
+		"color" : "#df140f",
+		"desc" : "<font color='#0178fe'>4阶蓝装：</font>480件/天<br><font color='#df22e7'>4阶紫装：</font>72件/天<br><font color='#01ab24'>标准经验：</font>225.16万/分钟",
+		"mapId" : 103000,
+		"mapX" : 32,
+		"mapY" : 42,
+		"order" : 11,
+		"proposeDefense" : 1725,
+		"proposeDps" : 3701,
+		"proposeLevel" : 120,
+		"proposeSurvival" : 2601
+	},
+	
+	{
+		"bossCode" : 1000038,
+		"color" : "#df140f",
+		"desc" : "<font color='#0178fe'>4阶蓝装：</font>480件/天<br><font color='#df22e7'>4阶紫装：</font>72件/天<br><font color='#01ab24'>标准经验：</font>225.16万/分钟",
+		"mapId" : 103000,
+		"mapX" : 25,
+		"mapY" : 54,
+		"order" : 12,
+		"proposeDefense" : 1725,
+		"proposeDps" : 3701,
+		"proposeLevel" : 120,
+		"proposeSurvival" : 2601
+	},
+	
+	{
+		"bossCode" : 1000039,
+		"color" : "#df140f",
+		"desc" : "<font color='#0178fe'>4阶蓝装：</font>549件/天<br><font color='#df22e7'>4阶紫装：</font>82件/天<br><font color='#01ab24'>标准经验：</font>252.98万/分钟",
+		"mapId" : 103000,
+		"mapX" : 9,
+		"mapY" : 37,
+		"order" : 13,
+		"proposeDefense" : 1725,
+		"proposeDps" : 3701,
+		"proposeLevel" : 120,
+		"proposeSurvival" : 2601
+	},
+	
+	{
+		"bossCode" : 1000039,
+		"color" : "#df140f",
+		"desc" : "<font color='#0178fe'>4阶蓝装：</font>549件/天<br><font color='#df22e7'>4阶紫装：</font>82件/天<br><font color='#01ab24'>标准经验：</font>252.98万/分钟",
+		"mapId" : 103000,
+		"mapX" : 13,
+		"mapY" : 28,
+		"order" : 14,
+		"proposeDefense" : 1725,
+		"proposeDps" : 3701,
+		"proposeLevel" : 120,
+		"proposeSurvival" : 2601
+	},
+	
+	{
+		"bossCode" : 1000026,
+		"color" : "#fcfcfc",
+		"desc" : "<font color='#0178fe'>5阶蓝装：</font>309件/天<br><font color='#df22e7'>5阶紫装：</font>46件/天<br><font color='#01ab24'>标准经验：</font>284.15万/分钟",
+		"mapId" : 104000,
+		"mapX" : 13,
+		"mapY" : 30,
+		"order" : 1,
+		"proposeDefense" : 2010,
+		"proposeDps" : 4311,
+		"proposeLevel" : 130,
+		"proposeSurvival" : 2841
+	},
+	
+	{
+		"bossCode" : 1000026,
+		"color" : "#fcfcfc",
+		"desc" : "<font color='#0178fe'>5阶蓝装：</font>309件/天<br><font color='#df22e7'>5阶紫装：</font>46件/天<br><font color='#01ab24'>标准经验：</font>284.15万/分钟",
+		"mapId" : 104000,
+		"mapX" : 19,
+		"mapY" : 40,
+		"order" : 2,
+		"proposeDefense" : 2010,
+		"proposeDps" : 4311,
+		"proposeLevel" : 130,
+		"proposeSurvival" : 2841
+	},
+	
+	{
+		"bossCode" : 1000027,
+		"color" : "#01ab24",
+		"desc" : "<font color='#0178fe'>5阶蓝装：</font>343件/天<br><font color='#df22e7'>5阶紫装：</font>51件/天<br><font color='#01ab24'>标准经验：</font>358.18万/分钟",
+		"mapId" : 104000,
+		"mapX" : 23,
+		"mapY" : 64,
+		"order" : 3,
+		"proposeDefense" : 2332,
+		"proposeDps" : 5003,
+		"proposeLevel" : 140,
+		"proposeSurvival" : 3095
+	},
+	
+	{
+		"bossCode" : 1000027,
+		"color" : "#01ab24",
+		"desc" : "<font color='#0178fe'>5阶蓝装：</font>343件/天<br><font color='#df22e7'>5阶紫装：</font>51件/天<br><font color='#01ab24'>标准经验：</font>358.18万/分钟",
+		"mapId" : 104000,
+		"mapX" : 34,
+		"mapY" : 62,
+		"order" : 4,
+		"proposeDefense" : 2332,
+		"proposeDps" : 5003,
+		"proposeLevel" : 140,
+		"proposeSurvival" : 3095
+	},
+	
+	{
+		"bossCode" : 1000028,
+		"color" : "#0178fe",
+		"desc" : "<font color='#0178fe'>5阶蓝装：</font>377件/天<br><font color='#df22e7'>5阶紫装：</font>57件/天<br><font color='#01ab24'>标准经验：</font>451.04万/分钟",
+		"mapId" : 104000,
+		"mapX" : 44,
+		"mapY" : 21,
+		"order" : 5,
+		"proposeDefense" : 2698,
+		"proposeDps" : 5787,
+		"proposeLevel" : 150,
+		"proposeSurvival" : 3367
+	},
+	
+	{
+		"bossCode" : 1000028,
+		"color" : "#0178fe",
+		"desc" : "<font color='#0178fe'>5阶蓝装：</font>377件/天<br><font color='#df22e7'>5阶紫装：</font>57件/天<br><font color='#01ab24'>标准经验：</font>451.04万/分钟",
+		"mapId" : 104000,
+		"mapX" : 53,
+		"mapY" : 19,
+		"order" : 6,
+		"proposeDefense" : 2698,
+		"proposeDps" : 5787,
+		"proposeLevel" : 150,
+		"proposeSurvival" : 3367
+	},
+	
+	{
+		"bossCode" : 1000029,
+		"color" : "#df22e7",
+		"desc" : "<font color='#0178fe'>5阶蓝装：</font>411件/天<br><font color='#df22e7'>5阶紫装：</font>62件/天<br><font color='#01ab24'>标准经验：</font>567.36万/分钟",
+		"mapId" : 104000,
+		"mapX" : 56,
+		"mapY" : 56,
+		"order" : 7,
+		"proposeDefense" : 3112,
+		"proposeDps" : 6676,
+		"proposeLevel" : 160,
+		"proposeSurvival" : 3886
+	},
+	
+	{
+		"bossCode" : 1000029,
+		"color" : "#df22e7",
+		"desc" : "<font color='#0178fe'>5阶蓝装：</font>411件/天<br><font color='#df22e7'>5阶紫装：</font>62件/天<br><font color='#01ab24'>标准经验：</font>567.36万/分钟",
+		"mapId" : 104000,
+		"mapX" : 59,
+		"mapY" : 77,
+		"order" : 8,
+		"proposeDefense" : 3112,
+		"proposeDps" : 6676,
+		"proposeLevel" : 160,
+		"proposeSurvival" : 3886
+	},
+	
+	{
+		"bossCode" : 1000030,
+		"color" : "#fea700",
+		"desc" : "<font color='#0178fe'>5阶蓝装：</font>446件/天<br><font color='#df22e7'>5阶紫装：</font>67件/天<br><font color='#01ab24'>标准经验：</font>712.76万/分钟",
+		"mapId" : 104000,
+		"mapX" : 58,
+		"mapY" : 121,
+		"order" : 9,
+		"proposeDefense" : 3581,
+		"proposeDps" : 7683,
+		"proposeLevel" : 170,
+		"proposeSurvival" : 4212
+	},
+	
+	{
+		"bossCode" : 1000030,
+		"color" : "#fea700",
+		"desc" : "<font color='#0178fe'>5阶蓝装：</font>446件/天<br><font color='#df22e7'>5阶紫装：</font>67件/天<br><font color='#01ab24'>标准经验：</font>712.76万/分钟",
+		"mapId" : 104000,
+		"mapX" : 43,
+		"mapY" : 110,
+		"order" : 10,
+		"proposeDefense" : 3581,
+		"proposeDps" : 7683,
+		"proposeLevel" : 170,
+		"proposeSurvival" : 4212
+	},
+	
+	{
+		"bossCode" : 1000031,
+		"color" : "#df140f",
+		"desc" : "<font color='#0178fe'>5阶蓝装：</font>549件/天<br><font color='#df22e7'>5阶紫装：</font>82件/天<br><font color='#01ab24'>标准经验：</font>798.45万/分钟",
+		"mapId" : 104000,
+		"mapX" : 22,
+		"mapY" : 125,
+		"order" : 11,
+		"proposeDefense" : 4113,
+		"proposeDps" : 8824,
+		"proposeLevel" : 180,
+		"proposeSurvival" : 4563
+	},
+	
+	{
+		"bossCode" : 1000031,
+		"color" : "#df140f",
+		"desc" : "<font color='#0178fe'>5阶蓝装：</font>549件/天<br><font color='#df22e7'>5阶紫装：</font>82件/天<br><font color='#01ab24'>标准经验：</font>798.45万/分钟",
+		"mapId" : 104000,
+		"mapX" : 13,
+		"mapY" : 109,
+		"order" : 12,
+		"proposeDefense" : 4113,
+		"proposeDps" : 8824,
+		"proposeLevel" : 180,
+		"proposeSurvival" : 4563
+	},
+	
+	{
+		"bossCode" : 1000072,
+		"color" : "#fcfcfc",
+		"desc" : "<font color='#0178fe'>6阶蓝装：</font>315件/天<br><font color='#df22e7'>6阶紫装：</font>47件/天<br><font color='#01ab24'>标准经验：</font>894.07万/分钟",
+		"mapId" : 105000,
+		"mapX" : 13,
+		"mapY" : 73,
+		"order" : 1,
+		"proposeDefense" : 4717,
+		"proposeDps" : 10118,
+		"proposeLevel" : 190,
+		"proposeSurvival" : 4942
+	},
+	
+	{
+		"bossCode" : 1000072,
+		"color" : "#fcfcfc",
+		"desc" : "<font color='#0178fe'>6阶蓝装：</font>315件/天<br><font color='#df22e7'>6阶紫装：</font>47件/天<br><font color='#01ab24'>标准经验：</font>894.07万/分钟",
+		"mapId" : 105000,
+		"mapX" : 22,
+		"mapY" : 86,
+		"order" : 2,
+		"proposeDefense" : 4717,
+		"proposeDps" : 10118,
+		"proposeLevel" : 190,
+		"proposeSurvival" : 4942
+	},
+	
+	{
+		"bossCode" : 1000073,
+		"color" : "#01ab24",
+		"desc" : "<font color='#0178fe'>6阶蓝装：</font>357件/天<br><font color='#df22e7'>6阶紫装：</font>53件/天<br><font color='#01ab24'>标准经验：</font>1119.51万/分钟",
+		"mapId" : 105000,
+		"mapX" : 12,
+		"mapY" : 44,
+		"order" : 3,
+		"proposeDefense" : 5400,
+		"proposeDps" : 11584,
+		"proposeLevel" : 200,
+		"proposeSurvival" : 5352
+	},
+	
+	{
+		"bossCode" : 1000073,
+		"color" : "#01ab24",
+		"desc" : "<font color='#0178fe'>6阶蓝装：</font>357件/天<br><font color='#df22e7'>6阶紫装：</font>53件/天<br><font color='#01ab24'>标准经验：</font>1119.51万/分钟",
+		"mapId" : 105000,
+		"mapX" : 10,
+		"mapY" : 30,
+		"order" : 4,
+		"proposeDefense" : 5400,
+		"proposeDps" : 11584,
+		"proposeLevel" : 200,
+		"proposeSurvival" : 5352
+	},
+	
+	{
+		"bossCode" : 1000074,
+		"color" : "#0178fe",
+		"desc" : "<font color='#0178fe'>6阶蓝装：</font>398件/天<br><font color='#df22e7'>6阶紫装：</font>60件/天<br><font color='#01ab24'>标准经验：</font>1399.01万/分钟",
+		"mapId" : 105000,
+		"mapX" : 26,
+		"mapY" : 21,
+		"order" : 5,
+		"proposeDefense" : 6175,
+		"proposeDps" : 13246,
+		"proposeLevel" : 210,
+		"proposeSurvival" : 5797
+	},
+	
+	{
+		"bossCode" : 1000074,
+		"color" : "#0178fe",
+		"desc" : "<font color='#0178fe'>6阶蓝装：</font>398件/天<br><font color='#df22e7'>6阶紫装：</font>60件/天<br><font color='#01ab24'>标准经验：</font>1399.01万/分钟",
+		"mapId" : 105000,
+		"mapX" : 42,
+		"mapY" : 9,
+		"order" : 6,
+		"proposeDefense" : 6175,
+		"proposeDps" : 13246,
+		"proposeLevel" : 210,
+		"proposeSurvival" : 5797
+	},
+	
+	{
+		"bossCode" : 1000075,
+		"color" : "#df22e7",
+		"desc" : "<font color='#0178fe'>6阶蓝装：</font>439件/天<br><font color='#df22e7'>6阶紫装：</font>66件/天<br><font color='#01ab24'>标准经验：</font>1744.48万/分钟",
+		"mapId" : 105000,
+		"mapX" : 48,
+		"mapY" : 27,
+		"order" : 7,
+		"proposeDefense" : 7053,
+		"proposeDps" : 15129,
+		"proposeLevel" : 220,
+		"proposeSurvival" : 7221
+	},
+	
+	{
+		"bossCode" : 1000075,
+		"color" : "#df22e7",
+		"desc" : "<font color='#0178fe'>6阶蓝装：</font>439件/天<br><font color='#df22e7'>6阶紫装：</font>66件/天<br><font color='#01ab24'>标准经验：</font>1744.48万/分钟",
+		"mapId" : 105000,
+		"mapX" : 54,
+		"mapY" : 47,
+		"order" : 8,
+		"proposeDefense" : 7053,
+		"proposeDps" : 15129,
+		"proposeLevel" : 220,
+		"proposeSurvival" : 7221
+	},
+	
+	{
+		"bossCode" : 1000076,
+		"color" : "#fea700",
+		"desc" : "<font color='#0178fe'>6阶蓝装：</font>480件/天<br><font color='#df22e7'>6阶紫装：</font>72件/天<br><font color='#01ab24'>标准经验：</font>2170.22万/分钟",
+		"mapId" : 105000,
+		"mapX" : 45,
+		"mapY" : 67,
+		"order" : 9,
+		"proposeDefense" : 8048,
+		"proposeDps" : 17264,
+		"proposeLevel" : 230,
+		"proposeSurvival" : 8419
+	},
+	
+	{
+		"bossCode" : 1000076,
+		"color" : "#fea700",
+		"desc" : "<font color='#0178fe'>6阶蓝装：</font>480件/天<br><font color='#df22e7'>6阶紫装：</font>72件/天<br><font color='#01ab24'>标准经验：</font>2170.22万/分钟",
+		"mapId" : 105000,
+		"mapX" : 37,
+		"mapY" : 79,
+		"order" : 10,
+		"proposeDefense" : 8048,
+		"proposeDps" : 17264,
+		"proposeLevel" : 230,
+		"proposeSurvival" : 8419
+	},
+	
+	{
+		"bossCode" : 1000077,
+		"color" : "#df140f",
+		"desc" : "<font color='#0178fe'>6阶蓝装：</font>549件/天<br><font color='#df22e7'>6阶紫装：</font>82件/天<br><font color='#01ab24'>标准经验：</font>2418.4万/分钟",
+		"mapId" : 105000,
+		"mapX" : 24,
+		"mapY" : 56,
+		"order" : 11,
+		"proposeDefense" : 8594,
+		"proposeDps" : 18436,
+		"proposeLevel" : 230,
+		"proposeSurvival" : 8812
+	},
+	
+	{
+		"bossCode" : 1000077,
+		"color" : "#df140f",
+		"desc" : "<font color='#0178fe'>6阶蓝装：</font>549件/天<br><font color='#df22e7'>6阶紫装：</font>82件/天<br><font color='#01ab24'>标准经验：</font>2418.4万/分钟",
+		"mapId" : 105000,
+		"mapX" : 35,
+		"mapY" : 51,
+		"order" : 12,
+		"proposeDefense" : 8594,
+		"proposeDps" : 18436,
+		"proposeLevel" : 230,
+		"proposeSurvival" : 8812
+	},
+	
+	{
+		"bossCode" : 1000084,
+		"color" : "#fcfcfc",
+		"desc" : "<font color='#0178fe'>7阶蓝装：</font>315件/天<br><font color='#df22e7'>7阶紫装：</font>47件/天<br><font color='#01ab24'>标准经验：</font>2693.29万/分钟",
+		"mapId" : 106000,
+		"mapX" : 36,
+		"mapY" : 13,
+		"order" : 1,
+		"proposeDefense" : 9176,
+		"proposeDps" : 19684,
+		"proposeLevel" : 240,
+		"proposeSurvival" : 9226
+	},
+	
+	{
+		"bossCode" : 1000084,
+		"color" : "#fcfcfc",
+		"desc" : "<font color='#0178fe'>7阶蓝装：</font>315件/天<br><font color='#df22e7'>7阶紫装：</font>47件/天<br><font color='#01ab24'>标准经验：</font>2693.29万/分钟",
+		"mapId" : 106000,
+		"mapX" : 22,
+		"mapY" : 16,
+		"order" : 2,
+		"proposeDefense" : 9176,
+		"proposeDps" : 19684,
+		"proposeLevel" : 240,
+		"proposeSurvival" : 9226
+	},
+	
+	{
+		"bossCode" : 1000085,
+		"color" : "#01ab24",
+		"desc" : "<font color='#0178fe'>7阶蓝装：</font>357件/天<br><font color='#df22e7'>7阶紫装：</font>53件/天<br><font color='#01ab24'>标准经验：</font>3334.06万/分钟",
+		"mapId" : 106000,
+		"mapX" : 12,
+		"mapY" : 44,
+		"order" : 3,
+		"proposeDefense" : 10454,
+		"proposeDps" : 22426,
+		"proposeLevel" : 250,
+		"proposeSurvival" : 10121
+	},
+	
+	{
+		"bossCode" : 1000085,
+		"color" : "#01ab24",
+		"desc" : "<font color='#0178fe'>7阶蓝装：</font>357件/天<br><font color='#df22e7'>7阶紫装：</font>53件/天<br><font color='#01ab24'>标准经验：</font>3334.06万/分钟",
+		"mapId" : 106000,
+		"mapX" : 9,
+		"mapY" : 28,
+		"order" : 4,
+		"proposeDefense" : 10454,
+		"proposeDps" : 22426,
+		"proposeLevel" : 250,
+		"proposeSurvival" : 10121
+	},
+	
+	{
+		"bossCode" : 1000086,
+		"color" : "#0178fe",
+		"desc" : "<font color='#0178fe'>7阶蓝装：</font>398件/天<br><font color='#df22e7'>7阶紫装：</font>60件/天<br><font color='#01ab24'>标准经验：</font>4116.76万/分钟",
+		"mapId" : 106000,
+		"mapX" : 10,
+		"mapY" : 76,
+		"order" : 5,
+		"proposeDefense" : 11903,
+		"proposeDps" : 25534,
+		"proposeLevel" : 260,
+		"proposeSurvival" : 11510
+	},
+	
+	{
+		"bossCode" : 1000086,
+		"color" : "#0178fe",
+		"desc" : "<font color='#0178fe'>7阶蓝装：</font>398件/天<br><font color='#df22e7'>7阶紫装：</font>60件/天<br><font color='#01ab24'>标准经验：</font>4116.76万/分钟",
+		"mapId" : 106000,
+		"mapX" : 22,
+		"mapY" : 86,
+		"order" : 6,
+		"proposeDefense" : 11903,
+		"proposeDps" : 25534,
+		"proposeLevel" : 260,
+		"proposeSurvival" : 11510
+	},
+	
+	{
+		"bossCode" : 1000087,
+		"color" : "#df22e7",
+		"desc" : "<font color='#0178fe'>7阶蓝装：</font>439件/天<br><font color='#df22e7'>7阶紫装：</font>66件/天<br><font color='#01ab24'>标准经验：</font>5070.17万/分钟",
+		"mapId" : 106000,
+		"mapX" : 25,
+		"mapY" : 57,
+		"order" : 7,
+		"proposeDefense" : 13545,
+		"proposeDps" : 29057,
+		"proposeLevel" : 270,
+		"proposeSurvival" : 12670
+	},
+	
+	{
+		"bossCode" : 1000087,
+		"color" : "#df22e7",
+		"desc" : "<font color='#0178fe'>7阶蓝装：</font>439件/天<br><font color='#df22e7'>7阶紫装：</font>66件/天<br><font color='#01ab24'>标准经验：</font>5070.17万/分钟",
+		"mapId" : 106000,
+		"mapX" : 36,
+		"mapY" : 67,
+		"order" : 8,
+		"proposeDefense" : 13545,
+		"proposeDps" : 29057,
+		"proposeLevel" : 270,
+		"proposeSurvival" : 12670
+	},
+	
+	{
+		"bossCode" : 1000088,
+		"color" : "#fea700",
+		"desc" : "<font color='#0178fe'>7阶蓝装：</font>480件/天<br><font color='#df22e7'>7阶紫装：</font>72件/天<br><font color='#01ab24'>标准经验：</font>6228.41万/分钟",
+		"mapId" : 106000,
+		"mapX" : 45,
+		"mapY" : 67,
+		"order" : 9,
+		"proposeDefense" : 15406,
+		"proposeDps" : 33049,
+		"proposeLevel" : 280,
+		"proposeSurvival" : 15501
+	},
+	
+	{
+		"bossCode" : 1000088,
+		"color" : "#fea700",
+		"desc" : "<font color='#0178fe'>7阶蓝装：</font>480件/天<br><font color='#df22e7'>7阶紫装：</font>72件/天<br><font color='#01ab24'>标准经验：</font>6228.41万/分钟",
+		"mapId" : 106000,
+		"mapX" : 43,
+		"mapY" : 82,
+		"order" : 10,
+		"proposeDefense" : 15406,
+		"proposeDps" : 33049,
+		"proposeLevel" : 280,
+		"proposeSurvival" : 15501
+	},
+	
+	{
+		"bossCode" : 1000089,
+		"color" : "#df140f",
+		"desc" : "<font color='#0178fe'>7阶蓝装：</font>549件/天<br><font color='#df22e7'>7阶紫装：</font>82件/天<br><font color='#01ab24'>标准经验：</font>6896.68万/分钟",
+		"mapId" : 106000,
+		"mapX" : 44,
+		"mapY" : 31,
+		"order" : 11,
+		"proposeDefense" : 16428,
+		"proposeDps" : 35241,
+		"proposeLevel" : 280,
+		"proposeSurvival" : 16265
+	},
+	
+	{
+		"bossCode" : 1000089,
+		"color" : "#df140f",
+		"desc" : "<font color='#0178fe'>7阶蓝装：</font>549件/天<br><font color='#df22e7'>7阶紫装：</font>82件/天<br><font color='#01ab24'>标准经验：</font>6896.68万/分钟",
+		"mapId" : 106000,
+		"mapX" : 54,
+		"mapY" : 47,
+		"order" : 12,
+		"proposeDefense" : 16428,
+		"proposeDps" : 35241,
+		"proposeLevel" : 280,
+		"proposeSurvival" : 16265
+	},
+	
+	{
+		"bossCode" : 1000055,
+		"mapId" : 201102,
+		"mapX" : 16,
+		"mapY" : 27,
+		"order" : 1,
+		"proposeLevel" : 80
+	},
+	
+	{
+		"bossCode" : 1000065,
+		"mapId" : 201102,
+		"mapX" : 16,
+		"mapY" : 27,
+		"order" : 2,
+		"proposeLevel" : 80
+	},
+	
+	{
+		"bossCode" : 1000066,
+		"mapId" : 201102,
+		"mapX" : 16,
+		"mapY" : 27,
+		"order" : 3,
+		"proposeLevel" : 60
+	},
+	
+	{
+		"bossCode" : 1000056,
+		"mapId" : 201102,
+		"mapX" : 16,
+		"mapY" : 27,
+		"order" : 4,
+		"proposeLevel" : 60
+	},
+	
+	{
+		"bossCode" : 1000053,
+		"mapId" : 201103,
+		"mapX" : 15,
+		"mapY" : 20,
+		"order" : 1,
+		"proposeLevel" : 80
+	},
+	
+	{
+		"bossCode" : 1000054,
+		"mapId" : 201103,
+		"mapX" : 15,
+		"mapY" : 20,
+		"order" : 2,
+		"proposeLevel" : 80
+	},
+	
+	{
+		"bossCode" : 1000050,
+		"mapId" : 201105,
+		"mapX" : 14,
+		"mapY" : 24,
+		"order" : 1,
+		"proposeLevel" : 55
+	},
+	
+	{
+		"bossCode" : 1000078,
+		"mapId" : 201106,
+		"mapX" : 18,
+		"mapY" : 27,
+		"order" : 1,
+		"proposeLevel" : 55
+	},
+	
+	{
+		"bossCode" : 1000079,
+		"mapId" : 201106,
+		"mapX" : 18,
+		"mapY" : 27,
+		"order" : 2,
+		"proposeLevel" : 55
+	},
+	
+	{
+		"bossCode" : 1000080,
+		"mapId" : 201106,
+		"mapX" : 18,
+		"mapY" : 27,
+		"order" : 3,
+		"proposeLevel" : 55
+	},
+	
+	{
+		"bossCode" : 1000081,
+		"mapId" : 201106,
+		"mapX" : 18,
+		"mapY" : 27,
+		"order" : 4,
+		"proposeLevel" : 55
+	},
+	
+	{
+		"bossCode" : 1000036,
+		"mapId" : 201107,
+		"mapX" : 13,
+		"mapY" : 18,
+		"order" : 1,
+		"proposeLevel" : 35
+	},
+	
+	{
+		"bossCode" : 1000024,
+		"mapId" : 201108,
+		"mapX" : 8,
+		"mapY" : 15,
+		"order" : 1,
+		"proposeLevel" : 15
+	},
+	
+	{
+		"bossCode" : 1000021,
+		"mapId" : 201108,
+		"mapX" : 8,
+		"mapY" : 15,
+		"order" : 2,
+		"proposeLevel" : 15
+	},
+	
+	{
+		"bossCode" : 1000022,
+		"mapId" : 201109,
+		"mapX" : 15,
+		"mapY" : 20,
+		"order" : 1,
+		"proposeLevel" : 10
+	},
+	
+	{
+		"bossCode" : 1000023,
+		"mapId" : 201109,
+		"mapX" : 15,
+		"mapY" : 20,
+		"order" : 2,
+		"proposeLevel" : 10
+	},
+	
+	{
+		"bossCode" : 1000069,
+		"mapId" : 201110,
+		"mapX" : 16,
+		"mapY" : 20,
+		"order" : 1,
+		"proposeLevel" : 55
+	},
+	
+	{
+		"bossCode" : 1000070,
+		"mapId" : 201110,
+		"mapX" : 16,
+		"mapY" : 20,
+		"order" : 2,
+		"proposeLevel" : 55
+	},
+	
+	{
+		"mapId" : 206901,
+		"mapX" : 14,
+		"mapY" : 26,
+		"order" : 1
+	},
+	
+	{
+		"mapId" : 206902,
+		"mapX" : 14,
+		"mapY" : 26,
+		"order" : 1
+	},
+	
+	{
+		"mapId" : 206903,
+		"mapX" : 14,
+		"mapY" : 26,
+		"order" : 1
+	},
+	
+	{
+		"mapId" : 206904,
+		"mapX" : 14,
+		"mapY" : 26,
+		"order" : 1
+	},
+	
+	{
+		"mapId" : 206905,
+		"mapX" : 14,
+		"mapY" : 26,
+		"order" : 1
+	},
+	
+	{
+		"mapId" : 206906,
+		"mapX" : 14,
+		"mapY" : 26,
+		"order" : 1
+	},
+	
+	{
+		"mapId" : 206907,
+		"mapX" : 14,
+		"mapY" : 26,
+		"order" : 1
+	},
+	
+	{
+		"mapId" : 208101,
+		"mapX" : 16,
+		"mapY" : 19,
+		"order" : 1,
+		"proposeLevel" : 65
+	},
+	
+	{
+		"mapId" : 208102,
+		"mapX" : 16,
+		"mapY" : 19,
+		"order" : 1,
+		"proposeLevel" : 65
+	},
+	
+	{
+		"mapId" : 208103,
+		"mapX" : 16,
+		"mapY" : 19,
+		"order" : 1,
+		"proposeLevel" : 65
+	},
+	
+	{
+		"mapId" : 208104,
+		"mapX" : 16,
+		"mapY" : 19,
+		"order" : 1,
+		"proposeLevel" : 65
+	},
+	
+	{
+		"mapId" : 208105,
+		"mapX" : 16,
+		"mapY" : 19,
+		"order" : 1,
+		"proposeLevel" : 65
+	},
+	
+	{
+		"mapId" : 208106,
+		"mapX" : 16,
+		"mapY" : 19,
+		"order" : 1,
+		"proposeLevel" : 65
+	},
+	
+	{
+		"mapId" : 208107,
+		"mapX" : 16,
+		"mapY" : 19,
+		"order" : 1,
+		"proposeLevel" : 65
+	},
+	
+	{
+		"mapId" : 212301,
+		"mapX" : 19,
+		"mapY" : 19,
+		"order" : 1,
+		"proposeLevel" : 120
+	},
+	
+	{
+		"mapId" : 212302,
+		"mapX" : 19,
+		"mapY" : 19,
+		"order" : 1,
+		"proposeLevel" : 170
+	},
+	
+	{
+		"mapId" : 212303,
+		"mapX" : 19,
+		"mapY" : 19,
+		"order" : 1,
+		"proposeLevel" : 220
+	},
+	
+	{
+		"mapId" : 212304,
+		"mapX" : 19,
+		"mapY" : 19,
+		"order" : 1,
+		"proposeLevel" : 270
+	},
+	
+	{
+		"mapId" : 212305,
+		"mapX" : 19,
+		"mapY" : 19,
+		"order" : 1,
+		"proposeLevel" : 320
+	},
+	
+	{
+		"mapId" : 212306,
+		"mapX" : 19,
+		"mapY" : 19,
+		"order" : 1,
+		"proposeLevel" : 370
+	},
+	
+	{
+		"mapId" : 217501,
+		"mapX" : 8,
+		"mapY" : 18,
+		"order" : 1,
+		"proposeLevel" : 20
+	},
+	
+	{
+		"mapId" : 217501,
+		"mapX" : 10,
+		"mapY" : 19,
+		"order" : 2,
+		"proposeLevel" : 170
+	},
+	
+	{
+		"mapId" : 217502,
+		"mapX" : 8,
+		"mapY" : 18,
+		"order" : 1,
+		"proposeLevel" : 20
+	},
+	
+	{
+		"mapId" : 217502,
+		"mapX" : 10,
+		"mapY" : 19,
+		"order" : 2,
+		"proposeLevel" : 220
+	},
+	
+	{
+		"mapId" : 217503,
+		"mapX" : 8,
+		"mapY" : 18,
+		"order" : 1,
+		"proposeLevel" : 20
+	},
+	
+	{
+		"mapId" : 217503,
+		"mapX" : 10,
+		"mapY" : 19,
+		"order" : 2,
+		"proposeLevel" : 270
+	},
+	
+	{
+		"mapId" : 217504,
+		"mapX" : 10,
+		"mapY" : 19,
+		"order" : 1,
+		"proposeLevel" : 320
+	},
+	
+	{
+		"mapId" : 217505,
+		"mapX" : 10,
+		"mapY" : 19,
+		"order" : 1,
+		"proposeLevel" : 370
+	},
+	
+	{
+		"mapId" : 217511,
+		"mapX" : 11,
+		"mapY" : 18,
+		"order" : 1,
+		"proposeLevel" : 170
+	},
+	
+	{
+		"mapId" : 217512,
+		"mapX" : 11,
+		"mapY" : 18,
+		"order" : 1,
+		"proposeLevel" : 220
+	},
+	
+	{
+		"mapId" : 217513,
+		"mapX" : 11,
+		"mapY" : 18,
+		"order" : 1,
+		"proposeLevel" : 270
+	},
+	
+	{
+		"mapId" : 217514,
+		"mapX" : 11,
+		"mapY" : 18,
+		"order" : 1,
+		"proposeLevel" : 320
+	},
+	
+	{
+		"mapId" : 217515,
+		"mapX" : 11,
+		"mapY" : 18,
+		"order" : 1,
+		"proposeLevel" : 370
+	},
+	
+	{
+		"mapId" : 217521,
+		"mapX" : 6,
+		"mapY" : 11,
+		"order" : 1,
+		"proposeLevel" : 170
+	},
+	
+	{
+		"mapId" : 217522,
+		"mapX" : 6,
+		"mapY" : 11,
+		"order" : 1,
+		"proposeLevel" : 220
+	},
+	
+	{
+		"mapId" : 217523,
+		"mapX" : 6,
+		"mapY" : 11,
+		"order" : 1,
+		"proposeLevel" : 270
+	},
+	
+	{
+		"mapId" : 217524,
+		"mapX" : 6,
+		"mapY" : 11,
+		"order" : 1,
+		"proposeLevel" : 320
+	},
+	
+	{
+		"mapId" : 217525,
+		"mapX" : 6,
+		"mapY" : 11,
+		"order" : 1,
+		"proposeLevel" : 370
+	},
+	
+	{
+		"mapId" : 217531,
+		"mapX" : 12,
+		"mapY" : 16,
+		"order" : 1,
+		"proposeLevel" : 170
+	},
+	
+	{
+		"mapId" : 217532,
+		"mapX" : 12,
+		"mapY" : 16,
+		"order" : 1,
+		"proposeLevel" : 220
+	},
+	
+	{
+		"mapId" : 217533,
+		"mapX" : 12,
+		"mapY" : 16,
+		"order" : 1,
+		"proposeLevel" : 270
+	},
+	
+	{
+		"mapId" : 217534,
+		"mapX" : 12,
+		"mapY" : 16,
+		"order" : 1,
+		"proposeLevel" : 320
+	},
+	
+	{
+		"mapId" : 217535,
+		"mapX" : 12,
+		"mapY" : 16,
+		"order" : 1,
+		"proposeLevel" : 370
+	},
+	
+	{
+		"mapId" : 217541,
+		"mapX" : 12,
+		"mapY" : 18,
+		"order" : 1,
+		"proposeLevel" : 170
+	},
+	
+	{
+		"mapId" : 217542,
+		"mapX" : 12,
+		"mapY" : 18,
+		"order" : 1,
+		"proposeLevel" : 220
+	},
+	
+	{
+		"mapId" : 217543,
+		"mapX" : 12,
+		"mapY" : 18,
+		"order" : 1,
+		"proposeLevel" : 270
+	},
+	
+	{
+		"mapId" : 217544,
+		"mapX" : 12,
+		"mapY" : 18,
+		"order" : 1,
+		"proposeLevel" : 320
+	},
+	
+	{
+		"mapId" : 217545,
+		"mapX" : 12,
+		"mapY" : 18,
+		"order" : 1,
+		"proposeLevel" : 370
+	},
+	
+	{
+		"mapId" : 240200,
+		"mapX" : 40,
+		"mapY" : 54,
+		"order" : 1
+	},
+	
+	{
+		"bossCode" : 24080101,
+		"desc" : "击杀黄金怪，有机会获得：<br><font color='#0178fe'>铸魂石&附魔石</font>",
+		"mapId" : 240800,
+		"mapX" : 97,
+		"mapY" : 170,
+		"order" : 1,
+		"proposeDefense" : 9176,
+		"proposeLevel" : 460,
+		"proposeSurvival" : 9712
+	},
+	
+	{
+		"bossCode" : 24080102,
+		"desc" : "击杀黄金怪，有机会获得：<br><font color='#0178fe'>铸魂石&附魔石</font>",
+		"mapId" : 240800,
+		"mapX" : 68,
+		"mapY" : 37,
+		"order" : 2,
+		"proposeDefense" : 11903,
+		"proposeLevel" : 480,
+		"proposeSurvival" : 12532
+	},
+	
+	{
+		"bossCode" : 24080103,
+		"desc" : "击杀黄金怪，有机会获得：<br><font color='#0178fe'>铸魂石&附魔石</font>",
+		"mapId" : 240800,
+		"mapX" : 28,
+		"mapY" : 139,
+		"order" : 3,
+		"proposeDefense" : 15406,
+		"proposeLevel" : 500,
+		"proposeSurvival" : 15238
+	},
+	
+	{
+		"bossCode" : 24080104,
+		"desc" : "击杀黄金怪，有机会获得：<br><font color='#0178fe'>铸魂石&附魔石</font>",
+		"mapId" : 240800,
+		"mapX" : 130,
+		"mapY" : 66,
+		"order" : 4,
+		"proposeDefense" : 19907,
+		"proposeLevel" : 520,
+		"proposeSurvival" : 19825
+	},
+	
+	{
+		"bossCode" : 24080105,
+		"desc" : "击杀黄金怪，有机会获得：<br><font color='#0178fe'>铸魂石&附魔石</font>",
+		"mapId" : 240800,
+		"mapX" : 45,
+		"mapY" : 116,
+		"order" : 5,
+		"proposeDefense" : 25688,
+		"proposeLevel" : 540,
+		"proposeSurvival" : 24229
+	},
+	
+	{
+		"bossCode" : 24080106,
+		"desc" : "击杀黄金怪，有机会获得：<br><font color='#0178fe'>铸魂石&附魔石</font>",
+		"mapId" : 240800,
+		"mapX" : 69,
+		"mapY" : 136,
+		"order" : 6,
+		"proposeDefense" : 33114,
+		"proposeLevel" : 560,
+		"proposeSurvival" : 29786
+	},
+	
+	{
+		"bossCode" : 24080107,
+		"desc" : "击杀黄金怪，有机会获得：<br><font color='#0178fe'>铸魂石&附魔石</font>",
+		"mapId" : 240800,
+		"mapX" : 94,
+		"mapY" : 67,
+		"order" : 7,
+		"proposeDefense" : 42653,
+		"proposeLevel" : 580,
+		"proposeSurvival" : 36821
+	},
+	
+	{
+		"bossCode" : 24080108,
+		"desc" : "击杀黄金怪，有机会获得：<br><font color='#0178fe'>铸魂石&附魔石</font>",
+		"mapId" : 240800,
+		"mapX" : 112,
+		"mapY" : 91,
+		"order" : 8,
+		"proposeDefense" : 54907,
+		"proposeLevel" : 600,
+		"proposeSurvival" : 45757
+	},
+	
+	{
+		"bossCode" : 24080201,
+		"mapId" : 240800,
+		"mapX" : 68,
+		"mapY" : 172,
+		"order" : 9,
+		"proposeLevel" : 460
+	},
+	
+	{
+		"bossCode" : 24080202,
+		"mapId" : 240800,
+		"mapX" : 11,
+		"mapY" : 113,
+		"order" : 10,
+		"proposeLevel" : 480
+	},
+	
+	{
+		"bossCode" : 24080203,
+		"mapId" : 240800,
+		"mapX" : 151,
+		"mapY" : 87,
+		"order" : 11,
+		"proposeLevel" : 500
+	},
+	
+	{
+		"bossCode" : 24080204,
+		"mapId" : 240800,
+		"mapX" : 94,
+		"mapY" : 29,
+		"order" : 12,
+		"proposeLevel" : 520
+	},
+	
+	{
+		"bossCode" : 24080205,
+		"mapId" : 240800,
+		"mapX" : 123,
+		"mapY" : 141,
+		"order" : 13,
+		"proposeLevel" : 540
+	},
+	
+	{
+		"bossCode" : 24080206,
+		"mapId" : 240800,
+		"mapX" : 38,
+		"mapY" : 56,
+		"order" : 14,
+		"proposeLevel" : 560
+	},
+	
+	{
+		"bossCode" : 24080207,
+		"mapId" : 240800,
+		"mapX" : 18,
+		"mapY" : 169,
+		"order" : 15,
+		"proposeLevel" : 580
+	},
+	
+	{
+		"bossCode" : 24080208,
+		"mapId" : 240800,
+		"mapX" : 145,
+		"mapY" : 35,
+		"order" : 16,
+		"proposeLevel" : 600
+	},
+	
+	{
+		"mapId" : 300800,
+		"mapX" : 15,
+		"mapY" : 25,
+		"order" : 1
+	},
+	
+	{
+		"bossCode" : 30100001,
+		"mapId" : 301000,
+		"mapX" : 48,
+		"mapY" : 99,
+		"order" : 1
+	},
+	
+	{
+		"bossCode" : 30100002,
+		"mapId" : 301000,
+		"mapX" : 83,
+		"mapY" : 62,
+		"order" : 2
+	},
+	
+	{
+		"bossCode" : 30100003,
+		"mapId" : 301000,
+		"mapX" : 44,
+		"mapY" : 58,
+		"order" : 3
+	},
+	
+	{
+		"mapId" : 305000,
+		"mapX" : 40,
+		"mapY" : 54,
+		"order" : 1
+	},
+	
+	{
+		"mapId" : 306000,
+		"mapX" : 27,
+		"mapY" : 39,
+		"order" : 1
+	},
+	
+	{
+		"mapId" : 306001,
+		"mapX" : 27,
+		"mapY" : 39,
+		"order" : 1
+	},
+	
+	{
+		"mapId" : 306002,
+		"mapX" : 27,
+		"mapY" : 39,
+		"order" : 1
+	},
+	
+	{
+		"mapId" : 306003,
+		"mapX" : 27,
+		"mapY" : 39,
+		"order" : 1
+	},
+	
+	{
+		"mapId" : 306004,
+		"mapX" : 27,
+		"mapY" : 39,
+		"order" : 1
+	},
+	
+	{
+		"mapId" : 306005,
+		"mapX" : 27,
+		"mapY" : 39,
+		"order" : 1
+	},
+	
+	{
+		"mapId" : 306006,
+		"mapX" : 27,
+		"mapY" : 39,
+		"order" : 1
+	},
+	
+	{
+		"mapId" : 306007,
+		"mapX" : 27,
+		"mapY" : 39,
+		"order" : 1
+	},
+	
+	{
+		"mapId" : 306008,
+		"mapX" : 27,
+		"mapY" : 39,
+		"order" : 1
+	},
+	
+	{
+		"mapId" : 401001,
+		"mapX" : 21,
+		"mapY" : 23,
+		"order" : 1
+	},
+	
+	{
+		"mapId" : 401002,
+		"mapX" : 21,
+		"mapY" : 23,
+		"order" : 1
+	},
+	
+	{
+		"mapId" : 405103,
+		"mapX" : 13,
+		"mapY" : 26,
+		"order" : 1,
+		"proposeLevel" : 70
+	},
+	
+	{
+		"mapId" : 405104,
+		"mapX" : 13,
+		"mapY" : 26,
+		"order" : 1,
+		"proposeLevel" : 70
+	},
+	
+	{
+		"bossCode" : 505203001,
+		"mapId" : 505203,
+		"mapX" : 6,
+		"mapY" : 51,
+		"order" : 1,
+		"proposeLevel" : 190
+	},
+	
+	{
+		"bossCode" : 505203002,
+		"mapId" : 505203,
+		"mapX" : 43,
+		"mapY" : 86,
+		"order" : 2,
+		"proposeLevel" : 200
+	},
+	
+	{
+		"bossCode" : 505203003,
+		"mapId" : 505203,
+		"mapX" : 68,
+		"mapY" : 73,
+		"order" : 3,
+		"proposeLevel" : 240
+	},
+	
+	{
+		"bossCode" : 505203004,
+		"mapId" : 505203,
+		"mapX" : 21,
+		"mapY" : 28,
+		"order" : 4,
+		"proposeLevel" : 250
+	},
+	
+	{
+		"bossCode" : 505203005,
+		"mapId" : 505203,
+		"mapX" : 43,
+		"mapY" : 13,
+		"order" : 5,
+		"proposeLevel" : 290
+	},
+	
+	{
+		"bossCode" : 505203006,
+		"mapId" : 505203,
+		"mapX" : 80,
+		"mapY" : 49,
+		"order" : 6,
+		"proposeLevel" : 300
+	},
+	
+	{
+		"bossCode" : 505203007,
+		"mapId" : 505203,
+		"mapX" : 43,
+		"mapY" : 50,
+		"order" : 7,
+		"proposeLevel" : 350
+	},
+	
+	{
+		"bossCode" : 505204001,
+		"mapId" : 505204,
+		"mapX" : 6,
+		"mapY" : 49,
+		"order" : 1,
+		"proposeLevel" : 240
+	},
+	
+	{
+		"bossCode" : 505204002,
+		"mapId" : 505204,
+		"mapX" : 44,
+		"mapY" : 12,
+		"order" : 2,
+		"proposeLevel" : 250
+	},
+	
+	{
+		"bossCode" : 505204003,
+		"mapId" : 505204,
+		"mapX" : 44,
+		"mapY" : 87,
+		"order" : 3,
+		"proposeLevel" : 300
+	},
+	
+	{
+		"bossCode" : 505204004,
+		"mapId" : 505204,
+		"mapX" : 81,
+		"mapY" : 49,
+		"order" : 4,
+		"proposeLevel" : 350
+	},
+	
+	{
+		"bossCode" : 505204005,
+		"mapId" : 505204,
+		"mapX" : 44,
+		"mapY" : 49,
+		"order" : 5,
+		"proposeLevel" : 400
+	},
+	
+	{
+		"bossCode" : 505205001,
+		"mapId" : 505205,
+		"mapX" : 6,
+		"mapY" : 49,
+		"order" : 1,
+		"proposeLevel" : 300
+	},
+	
+	{
+		"bossCode" : 505205002,
+		"mapId" : 505205,
+		"mapX" : 43,
+		"mapY" : 87,
+		"order" : 2,
+		"proposeLevel" : 350
+	},
+	
+	{
+		"bossCode" : 505205003,
+		"mapId" : 505205,
+		"mapX" : 44,
+		"mapY" : 49,
+		"order" : 3,
+		"proposeLevel" : 400
+	},
+	
+	{
+		"bossCode" : 505205004,
+		"mapId" : 505205,
+		"mapX" : 44,
+		"mapY" : 12,
+		"order" : 4,
+		"proposeLevel" : 410
+	},
+	
+	{
+		"bossCode" : 505205005,
+		"mapId" : 505205,
+		"mapX" : 81,
+		"mapY" : 49,
+		"order" : 5,
+		"proposeLevel" : 440
+	},
+	
+	{
+		"bossCode" : 505206101,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套装石材料</font>",
+		"mapId" : 505206,
+		"mapX" : 93,
+		"mapY" : 69,
+		"order" : 1,
+		"proposeDefense" : 8048,
+		"proposeLevel" : 250,
+		"proposeSurvival" : 8419
+	},
+	
+	{
+		"bossCode" : 505206102,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套装石材料</font>",
+		"mapId" : 505206,
+		"mapX" : 63,
+		"mapY" : 74,
+		"order" : 2,
+		"proposeDefense" : 9176,
+		"proposeLevel" : 260,
+		"proposeSurvival" : 9226
+	},
+	
+	{
+		"bossCode" : 505206103,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套装石材料</font>",
+		"mapId" : 505206,
+		"mapX" : 35,
+		"mapY" : 96,
+		"order" : 3,
+		"proposeDefense" : 15406,
+		"proposeLevel" : 300,
+		"proposeSurvival" : 14476
+	},
+	
+	{
+		"bossCode" : 505206104,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套装石材料</font>",
+		"mapId" : 505206,
+		"mapX" : 6,
+		"mapY" : 96,
+		"order" : 4,
+		"proposeDefense" : 17516,
+		"proposeLevel" : 310,
+		"proposeSurvival" : 17074
+	},
+	
+	{
+		"bossCode" : 505206105,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套装石材料</font>",
+		"mapId" : 505206,
+		"mapX" : 5,
+		"mapY" : 50,
+		"order" : 5,
+		"proposeDefense" : 29168,
+		"proposeLevel" : 350,
+		"proposeSurvival" : 25503
+	},
+	
+	{
+		"bossCode" : 505206106,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套装石材料</font>",
+		"mapId" : 505206,
+		"mapX" : 35,
+		"mapY" : 45,
+		"order" : 6,
+		"proposeDefense" : 33114,
+		"proposeLevel" : 360,
+		"proposeSurvival" : 28296
+	},
+	
+	{
+		"bossCode" : 505206107,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套装石材料</font>",
+		"mapId" : 505206,
+		"mapX" : 84,
+		"mapY" : 16,
+		"order" : 7,
+		"proposeDefense" : 54907,
+		"proposeLevel" : 400,
+		"proposeSurvival" : 43469
+	},
+	
+	{
+		"bossCode" : 505207101,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套碎片</font>",
+		"mapId" : 505207,
+		"mapX" : 28,
+		"mapY" : 122,
+		"order" : 1,
+		"proposeDefense" : 9176,
+		"proposeLevel" : 260,
+		"proposeSurvival" : 9712
+	},
+	
+	{
+		"bossCode" : 505207102,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套碎片</font>",
+		"mapId" : 505207,
+		"mapX" : 39,
+		"mapY" : 99,
+		"order" : 2,
+		"proposeDefense" : 11903,
+		"proposeLevel" : 280,
+		"proposeSurvival" : 12532
+	},
+	
+	{
+		"bossCode" : 505207103,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套碎片</font>",
+		"mapId" : 505207,
+		"mapX" : 56,
+		"mapY" : 97,
+		"order" : 3,
+		"proposeDefense" : 15406,
+		"proposeLevel" : 300,
+		"proposeSurvival" : 15238
+	},
+	
+	{
+		"bossCode" : 505207104,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套碎片</font>",
+		"mapId" : 505207,
+		"mapX" : 17,
+		"mapY" : 51,
+		"order" : 4,
+		"proposeDefense" : 19907,
+		"proposeLevel" : 320,
+		"proposeSurvival" : 19825
+	},
+	
+	{
+		"bossCode" : 505207105,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套碎片</font>",
+		"mapId" : 505207,
+		"mapX" : 65,
+		"mapY" : 122,
+		"order" : 5,
+		"proposeDefense" : 25688,
+		"proposeLevel" : 340,
+		"proposeSurvival" : 24229
+	},
+	
+	{
+		"bossCode" : 505207106,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套碎片</font>",
+		"mapId" : 505207,
+		"mapX" : 74,
+		"mapY" : 92,
+		"order" : 6,
+		"proposeDefense" : 33114,
+		"proposeLevel" : 360,
+		"proposeSurvival" : 29786
+	},
+	
+	{
+		"bossCode" : 505207107,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套碎片</font>",
+		"mapId" : 505207,
+		"mapX" : 45,
+		"mapY" : 39,
+		"order" : 7,
+		"proposeDefense" : 42653,
+		"proposeLevel" : 380,
+		"proposeSurvival" : 36821
+	},
+	
+	{
+		"bossCode" : 505207108,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套碎片</font>",
+		"mapId" : 505207,
+		"mapX" : 90,
+		"mapY" : 47,
+		"order" : 8,
+		"proposeDefense" : 54907,
+		"proposeLevel" : 400,
+		"proposeSurvival" : 45757
+	},
+	
+	{
+		"bossCode" : 505207001,
+		"mapId" : 505207,
+		"mapX" : 12,
+		"mapY" : 78,
+		"order" : 9,
+		"proposeLevel" : 260
+	},
+	
+	{
+		"bossCode" : 505207002,
+		"mapId" : 505207,
+		"mapX" : 45,
+		"mapY" : 119,
+		"order" : 10,
+		"proposeLevel" : 280
+	},
+	
+	{
+		"bossCode" : 505207003,
+		"mapId" : 505207,
+		"mapX" : 85,
+		"mapY" : 119,
+		"order" : 11,
+		"proposeLevel" : 300
+	},
+	
+	{
+		"bossCode" : 505207004,
+		"mapId" : 505207,
+		"mapX" : 44,
+		"mapY" : 68,
+		"order" : 12,
+		"proposeLevel" : 320
+	},
+	
+	{
+		"bossCode" : 505207005,
+		"mapId" : 505207,
+		"mapX" : 19,
+		"mapY" : 15,
+		"order" : 13,
+		"proposeLevel" : 340
+	},
+	
+	{
+		"bossCode" : 505207006,
+		"mapId" : 505207,
+		"mapX" : 59,
+		"mapY" : 18,
+		"order" : 14,
+		"proposeLevel" : 360
+	},
+	
+	{
+		"bossCode" : 505207007,
+		"mapId" : 505207,
+		"mapX" : 86,
+		"mapY" : 75,
+		"order" : 15,
+		"proposeLevel" : 380
+	},
+	
+	{
+		"bossCode" : 505207008,
+		"mapId" : 505207,
+		"mapX" : 85,
+		"mapY" : 19,
+		"order" : 16,
+		"proposeLevel" : 400
+	},
+	
+	{
+		"bossCode" : 505208101,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套装石材料</font>",
+		"mapId" : 505208,
+		"mapX" : 51,
+		"mapY" : 128,
+		"order" : 1,
+		"proposeDefense" : 8048,
+		"proposeLevel" : 445,
+		"proposeSurvival" : 8419
+	},
+	
+	{
+		"bossCode" : 505208102,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套装石材料</font>",
+		"mapId" : 505208,
+		"mapX" : 93,
+		"mapY" : 85,
+		"order" : 2,
+		"proposeDefense" : 9176,
+		"proposeLevel" : 450,
+		"proposeSurvival" : 9226
+	},
+	
+	{
+		"bossCode" : 505208103,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套装石材料</font>",
+		"mapId" : 505208,
+		"mapX" : 10,
+		"mapY" : 87,
+		"order" : 3,
+		"proposeDefense" : 15406,
+		"proposeLevel" : 455,
+		"proposeSurvival" : 14476
+	},
+	
+	{
+		"bossCode" : 505208104,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套装石材料</font>",
+		"mapId" : 505208,
+		"mapX" : 78,
+		"mapY" : 40,
+		"order" : 4,
+		"proposeDefense" : 17516,
+		"proposeLevel" : 495,
+		"proposeSurvival" : 17074
+	},
+	
+	{
+		"bossCode" : 505208105,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套装石材料</font>",
+		"mapId" : 505208,
+		"mapX" : 44,
+		"mapY" : 57,
+		"order" : 5,
+		"proposeDefense" : 29168,
+		"proposeLevel" : 500,
+		"proposeSurvival" : 25503
+	},
+	
+	{
+		"bossCode" : 505208106,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套装石材料</font>",
+		"mapId" : 505208,
+		"mapX" : 10,
+		"mapY" : 48,
+		"order" : 6,
+		"proposeDefense" : 33114,
+		"proposeLevel" : 505,
+		"proposeSurvival" : 28296
+	},
+	
+	{
+		"bossCode" : 505209001,
+		"mapId" : 505209,
+		"mapX" : 6,
+		"mapY" : 49,
+		"order" : 1,
+		"proposeLevel" : 400
+	},
+	
+	{
+		"bossCode" : 505209002,
+		"mapId" : 505209,
+		"mapX" : 43,
+		"mapY" : 87,
+		"order" : 2,
+		"proposeLevel" : 440
+	},
+	
+	{
+		"bossCode" : 505209003,
+		"mapId" : 505209,
+		"mapX" : 81,
+		"mapY" : 49,
+		"order" : 3,
+		"proposeLevel" : 450
+	},
+	
+	{
+		"bossCode" : 505209004,
+		"mapId" : 505209,
+		"mapX" : 44,
+		"mapY" : 12,
+		"order" : 4,
+		"proposeLevel" : 490
+	},
+	
+	{
+		"bossCode" : 505209005,
+		"mapId" : 505209,
+		"mapX" : 43,
+		"mapY" : 49,
+		"order" : 5,
+		"proposeLevel" : 500
+	},
+	
+	{
+		"bossCode" : 505210001,
+		"mapId" : 505210,
+		"mapX" : 6,
+		"mapY" : 49,
+		"order" : 1,
+		"proposeLevel" : 540
+	},
+	
+	{
+		"bossCode" : 505210002,
+		"mapId" : 505210,
+		"mapX" : 43,
+		"mapY" : 87,
+		"order" : 2,
+		"proposeLevel" : 550
+	},
+	
+	{
+		"bossCode" : 505210003,
+		"mapId" : 505210,
+		"mapX" : 81,
+		"mapY" : 49,
+		"order" : 3,
+		"proposeLevel" : 590
+	},
+	
+	{
+		"bossCode" : 505210004,
+		"mapId" : 505210,
+		"mapX" : 44,
+		"mapY" : 12,
+		"order" : 4,
+		"proposeLevel" : 600
+	},
+	
+	{
+		"bossCode" : 505210005,
+		"mapId" : 505210,
+		"mapX" : 43,
+		"mapY" : 49,
+		"order" : 5,
+		"proposeLevel" : 650
+	},
+	
+	{
+		"bossCode" : 505211101,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套装石材料</font>",
+		"mapId" : 505211,
+		"mapX" : 70,
+		"mapY" : 117,
+		"order" : 1,
+		"proposeDefense" : 15406,
+		"proposeLevel" : 545,
+		"proposeSurvival" : 14476
+	},
+	
+	{
+		"bossCode" : 505211102,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套装石材料</font>",
+		"mapId" : 505211,
+		"mapX" : 33,
+		"mapY" : 120,
+		"order" : 2,
+		"proposeDefense" : 17516,
+		"proposeLevel" : 550,
+		"proposeSurvival" : 17074
+	},
+	
+	{
+		"bossCode" : 505211103,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套装石材料</font>",
+		"mapId" : 505211,
+		"mapX" : 69,
+		"mapY" : 25,
+		"order" : 3,
+		"proposeDefense" : 29168,
+		"proposeLevel" : 560,
+		"proposeSurvival" : 25503
+	},
+	
+	{
+		"bossCode" : 505211104,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套装石材料</font>",
+		"mapId" : 505211,
+		"mapX" : 17,
+		"mapY" : 23,
+		"order" : 4,
+		"proposeDefense" : 33114,
+		"proposeLevel" : 600,
+		"proposeSurvival" : 28296
+	},
+	
+	{
+		"bossCode" : 505217101,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套碎片</font>",
+		"mapId" : 505217,
+		"mapX" : 28,
+		"mapY" : 122,
+		"order" : 1,
+		"proposeDefense" : 75238,
+		"proposeLevel" : 420,
+		"proposeSurvival" : 48349
+	},
+	
+	{
+		"bossCode" : 505217102,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套碎片</font>",
+		"mapId" : 505217,
+		"mapX" : 39,
+		"mapY" : 99,
+		"order" : 2,
+		"proposeDefense" : 103043,
+		"proposeLevel" : 440,
+		"proposeSurvival" : 64278
+	},
+	
+	{
+		"bossCode" : 505217103,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套碎片</font>",
+		"mapId" : 505217,
+		"mapX" : 56,
+		"mapY" : 97,
+		"order" : 3,
+		"proposeDefense" : 141068,
+		"proposeLevel" : 460,
+		"proposeSurvival" : 85930
+	},
+	
+	{
+		"bossCode" : 505217104,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套碎片</font>",
+		"mapId" : 505217,
+		"mapX" : 17,
+		"mapY" : 51,
+		"order" : 4,
+		"proposeDefense" : 193070,
+		"proposeLevel" : 480,
+		"proposeSurvival" : 115409
+	},
+	
+	{
+		"bossCode" : 505217105,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套碎片</font>",
+		"mapId" : 505217,
+		"mapX" : 65,
+		"mapY" : 122,
+		"order" : 5,
+		"proposeDefense" : 264185,
+		"proposeLevel" : 500,
+		"proposeSurvival" : 155592
+	},
+	
+	{
+		"bossCode" : 505217106,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套碎片</font>",
+		"mapId" : 505217,
+		"mapX" : 74,
+		"mapY" : 92,
+		"order" : 6,
+		"proposeDefense" : 361441,
+		"proposeLevel" : 520,
+		"proposeSurvival" : 210413
+	},
+	
+	{
+		"bossCode" : 505217107,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套碎片</font>",
+		"mapId" : 505217,
+		"mapX" : 45,
+		"mapY" : 39,
+		"order" : 7,
+		"proposeDefense" : 494443,
+		"proposeLevel" : 540,
+		"proposeSurvival" : 285253
+	},
+	
+	{
+		"bossCode" : 505217108,
+		"desc" : "击杀精英怪，有机会获得：<br><font color='#0178fe'>诛仙套碎片</font>",
+		"mapId" : 505217,
+		"mapX" : 90,
+		"mapY" : 47,
+		"order" : 8,
+		"proposeDefense" : 676334,
+		"proposeLevel" : 560,
+		"proposeSurvival" : 387469
+	},
+	
+	{
+		"bossCode" : 505217001,
+		"mapId" : 505217,
+		"mapX" : 12,
+		"mapY" : 78,
+		"order" : 9,
+		"proposeLevel" : 425
+	},
+	
+	{
+		"bossCode" : 505217002,
+		"mapId" : 505217,
+		"mapX" : 45,
+		"mapY" : 119,
+		"order" : 10,
+		"proposeLevel" : 450
+	},
+	
+	{
+		"bossCode" : 505217003,
+		"mapId" : 505217,
+		"mapX" : 85,
+		"mapY" : 119,
+		"order" : 11,
+		"proposeLevel" : 475
+	},
+	
+	{
+		"bossCode" : 505217004,
+		"mapId" : 505217,
+		"mapX" : 44,
+		"mapY" : 68,
+		"order" : 12,
+		"proposeLevel" : 500
+	},
+	
+	{
+		"bossCode" : 505217005,
+		"mapId" : 505217,
+		"mapX" : 19,
+		"mapY" : 15,
+		"order" : 13,
+		"proposeLevel" : 525
+	},
+	
+	{
+		"bossCode" : 505217006,
+		"mapId" : 505217,
+		"mapX" : 59,
+		"mapY" : 18,
+		"order" : 14,
+		"proposeLevel" : 550
+	},
+	
+	{
+		"bossCode" : 505217007,
+		"mapId" : 505217,
+		"mapX" : 86,
+		"mapY" : 75,
+		"order" : 15,
+		"proposeLevel" : 575
+	},
+	
+	{
+		"bossCode" : 505217008,
+		"mapId" : 505217,
+		"mapX" : 85,
+		"mapY" : 19,
+		"order" : 16,
+		"proposeLevel" : 600
+	},
+	
+	{
+		"mapId" : 505301,
+		"mapX" : 15,
+		"mapY" : 22,
+		"order" : 1,
+		"proposeLevel" : 190
+	},
+	
+	{
+		"mapId" : 505302,
+		"mapX" : 18,
+		"mapY" : 22,
+		"order" : 1,
+		"proposeLevel" : 190
+	},
+	
+	{
+		"mapId" : 505303,
+		"mapX" : 12,
+		"mapY" : 24,
+		"order" : 1,
+		"proposeLevel" : 190
+	},
+	
+	{
+		"mapId" : 505304,
+		"mapX" : 10,
+		"mapY" : 23,
+		"order" : 1,
+		"proposeLevel" : 190
+	},
+	
+	{
+		"mapId" : 505305,
+		"mapX" : 13,
+		"mapY" : 13,
+		"order" : 1,
+		"proposeLevel" : 190
+	},
+	
+	{
+		"bossCode" : 506101301,
+		"mapId" : 510702,
+		"mapX" : 60,
+		"mapY" : 147,
+		"order" : 1,
+		"proposeLevel" : 350
+	},
+	
+	{
+		"bossCode" : 506101302,
+		"mapId" : 510702,
+		"mapX" : 128,
+		"mapY" : 232,
+		"order" : 2,
+		"proposeLevel" : 370
+	},
+	
+	{
+		"bossCode" : 506101303,
+		"mapId" : 510702,
+		"mapX" : 14,
+		"mapY" : 104,
+		"order" : 3,
+		"proposeLevel" : 390
+	},
+	
+	{
+		"bossCode" : 506101304,
+		"mapId" : 510702,
+		"mapX" : 107,
+		"mapY" : 161,
+		"order" : 4,
+		"proposeLevel" : 410
+	},
+	
+	{
+		"bossCode" : 506101305,
+		"mapId" : 510702,
+		"mapX" : 28,
+		"mapY" : 21,
+		"order" : 5,
+		"proposeLevel" : 430
+	},
+	
+	{
+		"bossCode" : 506101306,
+		"mapId" : 510702,
+		"mapX" : 165,
+		"mapY" : 143,
+		"order" : 6,
+		"proposeLevel" : 450
+	},
+	
+	{
+		"bossCode" : 506101307,
+		"mapId" : 510702,
+		"mapX" : 196,
+		"mapY" : 110,
+		"order" : 7,
+		"proposeLevel" : 470
+	},
+	
+	{
+		"bossCode" : 506101308,
+		"mapId" : 510702,
+		"mapX" : 102,
+		"mapY" : 21,
+		"order" : 8,
+		"proposeLevel" : 490
+	},
+	
+	{
+		"bossCode" : 506102301,
+		"mapId" : 510703,
+		"mapX" : 60,
+		"mapY" : 147,
+		"order" : 1,
+		"proposeLevel" : 510
+	},
+	
+	{
+		"bossCode" : 506102302,
+		"mapId" : 510703,
+		"mapX" : 128,
+		"mapY" : 232,
+		"order" : 2,
+		"proposeLevel" : 530
+	},
+	
+	{
+		"bossCode" : 506102303,
+		"mapId" : 510703,
+		"mapX" : 14,
+		"mapY" : 104,
+		"order" : 3,
+		"proposeLevel" : 550
+	},
+	
+	{
+		"bossCode" : 506102304,
+		"mapId" : 510703,
+		"mapX" : 107,
+		"mapY" : 161,
+		"order" : 4,
+		"proposeLevel" : 570
+	},
+	
+	{
+		"bossCode" : 506102305,
+		"mapId" : 510703,
+		"mapX" : 28,
+		"mapY" : 21,
+		"order" : 5,
+		"proposeLevel" : 590
+	},
+	
+	{
+		"bossCode" : 506102306,
+		"mapId" : 510703,
+		"mapX" : 165,
+		"mapY" : 143,
+		"order" : 6,
+		"proposeLevel" : 610
+	},
+	
+	{
+		"bossCode" : 506102307,
+		"mapId" : 510703,
+		"mapX" : 196,
+		"mapY" : 110,
+		"order" : 7,
+		"proposeLevel" : 630
+	},
+	
+	{
+		"bossCode" : 506102308,
+		"mapId" : 510703,
+		"mapX" : 102,
+		"mapY" : 21,
+		"order" : 8,
+		"proposeLevel" : 650
+	},
+	
+	{
+		"mapId" : 515401,
+		"mapX" : 12,
+		"mapY" : 36,
+		"order" : 1,
+		"proposeLevel" : 100
+	},
+	
+	{
+		"mapId" : 515401,
+		"mapX" : 19,
+		"mapY" : 27,
+		"order" : 2,
+		"proposeLevel" : 100
+	},
+	
+	{
+		"mapId" : 515401,
+		"mapX" : 23,
+		"mapY" : 19,
+		"order" : 3,
+		"proposeLevel" : 100
+	},
+	
+	{
+		"mapId" : 515401,
+		"mapX" : 27,
+		"mapY" : 15,
+		"order" : 4,
+		"proposeLevel" : 100
+	},
+	
+	{
+		"mapId" : 525401,
+		"mapX" : 12,
+		"mapY" : 36,
+		"order" : 1,
+		"proposeLevel" : 150
+	},
+	
+	{
+		"mapId" : 525401,
+		"mapX" : 19,
+		"mapY" : 27,
+		"order" : 2,
+		"proposeLevel" : 150
+	},
+	
+	{
+		"mapId" : 525401,
+		"mapX" : 23,
+		"mapY" : 19,
+		"order" : 3,
+		"proposeLevel" : 150
+	},
+	
+	{
+		"mapId" : 525401,
+		"mapX" : 27,
+		"mapY" : 15,
+		"order" : 4,
+		"proposeLevel" : 150
+	},
+	
+	{
+		"mapId" : 535401,
+		"mapX" : 7,
+		"mapY" : 25,
+		"order" : 1,
+		"proposeLevel" : 200
+	},
+	
+	{
+		"mapId" : 535401,
+		"mapX" : 7,
+		"mapY" : 14,
+		"order" : 2,
+		"proposeLevel" : 200
+	},
+	
+	{
+		"mapId" : 535401,
+		"mapX" : 18,
+		"mapY" : 24,
+		"order" : 3,
+		"proposeLevel" : 200
+	},
+	
+	{
+		"mapId" : 535401,
+		"mapX" : 14,
+		"mapY" : 20,
+		"order" : 4,
+		"proposeLevel" : 200
+	},
+	
+	{
+		"mapId" : 545401,
+		"mapX" : 7,
+		"mapY" : 25,
+		"order" : 1,
+		"proposeLevel" : 250
+	},
+	
+	{
+		"mapId" : 545401,
+		"mapX" : 7,
+		"mapY" : 14,
+		"order" : 2,
+		"proposeLevel" : 250
+	},
+	
+	{
+		"mapId" : 545401,
+		"mapX" : 18,
+		"mapY" : 24,
+		"order" : 3,
+		"proposeLevel" : 250
+	},
+	
+	{
+		"mapId" : 545401,
+		"mapX" : 14,
+		"mapY" : 20,
+		"order" : 4,
+		"proposeLevel" : 250
+	},
+	
+	{
+		"mapId" : 555401,
+		"mapX" : 15,
+		"mapY" : 60,
+		"order" : 1,
+		"proposeLevel" : 300
+	},
+	
+	{
+		"mapId" : 555401,
+		"mapX" : 13,
+		"mapY" : 48,
+		"order" : 2,
+		"proposeLevel" : 300
+	},
+	
+	{
+		"mapId" : 555401,
+		"mapX" : 16,
+		"mapY" : 34,
+		"order" : 3,
+		"proposeLevel" : 300
+	},
+	
+	{
+		"mapId" : 555401,
+		"mapX" : 20,
+		"mapY" : 20,
+		"order" : 4,
+		"proposeLevel" : 300
+	},
+	
+	{
+		"mapId" : 565401,
+		"mapX" : 15,
+		"mapY" : 60,
+		"order" : 1,
+		"proposeLevel" : 350
+	},
+	
+	{
+		"mapId" : 565401,
+		"mapX" : 13,
+		"mapY" : 48,
+		"order" : 2,
+		"proposeLevel" : 350
+	},
+	
+	{
+		"mapId" : 565401,
+		"mapX" : 16,
+		"mapY" : 34,
+		"order" : 3,
+		"proposeLevel" : 350
+	},
+	
+	{
+		"mapId" : 565401,
+		"mapX" : 20,
+		"mapY" : 20,
+		"order" : 4,
+		"proposeLevel" : 350
+	},
+	
+	{
+		"mapId" : 575401,
+		"mapX" : 10,
+		"mapY" : 63,
+		"order" : 1,
+		"proposeLevel" : 400
+	},
+	
+	{
+		"mapId" : 575401,
+		"mapX" : 8,
+		"mapY" : 45,
+		"order" : 2,
+		"proposeLevel" : 400
+	},
+	
+	{
+		"mapId" : 575401,
+		"mapX" : 12,
+		"mapY" : 30,
+		"order" : 3,
+		"proposeLevel" : 400
+	},
+	
+	{
+		"mapId" : 575401,
+		"mapX" : 19,
+		"mapY" : 22,
+		"order" : 4,
+		"proposeLevel" : 400
+	},
+	
+	{
+		"bossCode" : 50801000,
+		"mapId" : 801000,
+		"mapX" : 8,
+		"mapY" : 18,
+		"order" : 1,
+		"proposeLevel" : 20
+	},
+	
+	{
+		"bossCode" : 50801001,
+		"mapId" : 801001,
+		"mapX" : 8,
+		"mapY" : 18,
+		"order" : 2,
+		"proposeLevel" : 30
+	},
+	
+	{
+		"bossCode" : 50801002,
+		"mapId" : 801002,
+		"mapX" : 8,
+		"mapY" : 18,
+		"order" : 3,
+		"proposeLevel" : 40
+	},
+	
+	{
+		"bossCode" : 50801003,
+		"mapId" : 801003,
+		"mapX" : 8,
+		"mapY" : 18,
+		"order" : 4,
+		"proposeLevel" : 50
+	},
+	
+	{
+		"bossCode" : 50801004,
+		"mapId" : 801004,
+		"mapX" : 8,
+		"mapY" : 18,
+		"order" : 5,
+		"proposeLevel" : 60
+	},
+	
+	{
+		"bossCode" : 50801005,
+		"mapId" : 801005,
+		"mapX" : 8,
+		"mapY" : 18,
+		"order" : 6,
+		"proposeLevel" : 70
+	},
+	
+	{
+		"bossCode" : 50801006,
+		"mapId" : 801006,
+		"mapX" : 8,
+		"mapY" : 18,
+		"order" : 7,
+		"proposeLevel" : 80
+	},
+	
+	{
+		"bossCode" : 50801007,
+		"mapId" : 801007,
+		"mapX" : 8,
+		"mapY" : 18,
+		"order" : 8,
+		"proposeLevel" : 90
+	},
+	
+	{
+		"bossCode" : 50801008,
+		"mapId" : 801008,
+		"mapX" : 8,
+		"mapY" : 18,
+		"order" : 1,
+		"proposeLevel" : 100
+	},
+	
+	{
+		"bossCode" : 50801009,
+		"mapId" : 801009,
+		"mapX" : 8,
+		"mapY" : 18,
+		"order" : 2,
+		"proposeLevel" : 110
+	},
+	
+	{
+		"bossCode" : 50801010,
+		"mapId" : 801010,
+		"mapX" : 8,
+		"mapY" : 18,
+		"order" : 3,
+		"proposeLevel" : 120
+	},
+	
+	{
+		"bossCode" : 50801011,
+		"mapId" : 801011,
+		"mapX" : 8,
+		"mapY" : 18,
+		"order" : 4,
+		"proposeLevel" : 130
+	},
+	
+	{
+		"bossCode" : 50801012,
+		"mapId" : 801012,
+		"mapX" : 8,
+		"mapY" : 18,
+		"order" : 5,
+		"proposeLevel" : 140
+	},
+	
+	{
+		"bossCode" : 50801013,
+		"mapId" : 801013,
+		"mapX" : 8,
+		"mapY" : 18,
+		"order" : 6,
+		"proposeLevel" : 150
+	},
+	
+	{
+		"bossCode" : 50801014,
+		"mapId" : 801014,
+		"mapX" : 8,
+		"mapY" : 18,
+		"order" : 7,
+		"proposeLevel" : 160
+	},
+	
+	{
+		"bossCode" : 50801015,
+		"mapId" : 801015,
+		"mapX" : 8,
+		"mapY" : 18,
+		"order" : 8,
+		"proposeLevel" : 170
+	},
+	
+	{
+		"bossCode" : 50801016,
+		"mapId" : 801016,
+		"mapX" : 8,
+		"mapY" : 18,
+		"order" : 8,
+		"proposeLevel" : 180
+	},
+	
+	{
+		"bossCode" : 50801017,
+		"mapId" : 801017,
+		"mapX" : 8,
+		"mapY" : 18,
+		"order" : 9,
+		"proposeLevel" : 190
+	},
+	
+	{
+		"bossCode" : 50801018,
+		"mapId" : 801018,
+		"mapX" : 8,
+		"mapY" : 18,
+		"order" : 10,
+		"proposeLevel" : 200
+	},
+	
+	{
+		"bossCode" : 50801019,
+		"mapId" : 801019,
+		"mapX" : 8,
+		"mapY" : 18,
+		"order" : 11,
+		"proposeLevel" : 210
+	}
+]

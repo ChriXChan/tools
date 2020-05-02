@@ -1,0 +1,2523 @@
+
+[
+	
+	{
+		"bossCode" : 63031201,
+		"copyCode" : 162,
+		"index" : 1,
+		"maxWarfare" : 600000.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63031202,
+		"copyCode" : 162,
+		"index" : 1,
+		"levelLimit" : 50,
+		"maxWarfare" : 900000.0,
+		"minWarfare" : 600001.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63031203,
+		"copyCode" : 162,
+		"index" : 1,
+		"levelLimit" : 60,
+		"maxWarfare" : 1250000.0,
+		"minWarfare" : 900001.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63031204,
+		"copyCode" : 162,
+		"index" : 1,
+		"levelLimit" : 65,
+		"maxWarfare" : 1800000.0,
+		"minWarfare" : 1250001.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63031205,
+		"copyCode" : 162,
+		"index" : 1,
+		"levelLimit" : 70,
+		"maxWarfare" : 2400000.0,
+		"minWarfare" : 1800001.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63031206,
+		"copyCode" : 162,
+		"index" : 1,
+		"levelLimit" : 75,
+		"maxWarfare" : 3000000.0,
+		"minWarfare" : 2400001.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63031207,
+		"copyCode" : 162,
+		"index" : 1,
+		"levelLimit" : 80,
+		"maxWarfare" : 4000000.0,
+		"minWarfare" : 3000001.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63031208,
+		"copyCode" : 162,
+		"index" : 1,
+		"maxWarfare" : 6500000.0,
+		"minWarfare" : 4000001.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63031209,
+		"copyCode" : 162,
+		"index" : 1,
+		"maxWarfare" : 10000000.0,
+		"minWarfare" : 6500001.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63031210,
+		"copyCode" : 162,
+		"index" : 1,
+		"maxWarfare" : 15750000.0,
+		"minWarfare" : 10000001.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63031211,
+		"copyCode" : 162,
+		"index" : 1,
+		"maxWarfare" : 22000000.0,
+		"minWarfare" : 15750001.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63031212,
+		"copyCode" : 162,
+		"index" : 1,
+		"maxWarfare" : 28750000.0,
+		"minWarfare" : 22000001.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63031213,
+		"copyCode" : 162,
+		"index" : 1,
+		"maxWarfare" : 30000000.0,
+		"minWarfare" : 28750001.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63031214,
+		"copyCode" : 162,
+		"index" : 1,
+		"maxWarfare" : 43750000.0,
+		"minWarfare" : 30000001.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63031215,
+		"copyCode" : 162,
+		"index" : 1,
+		"maxWarfare" : 499950000.0,
+		"minWarfare" : 43750001.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63032201,
+		"copyCode" : 162,
+		"index" : 2,
+		"maxWarfare" : 600000.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63032202,
+		"copyCode" : 162,
+		"index" : 2,
+		"levelLimit" : 50,
+		"maxWarfare" : 900000.0,
+		"minWarfare" : 600001.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63032203,
+		"copyCode" : 162,
+		"index" : 2,
+		"levelLimit" : 60,
+		"maxWarfare" : 1250000.0,
+		"minWarfare" : 900001.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63032204,
+		"copyCode" : 162,
+		"index" : 2,
+		"levelLimit" : 65,
+		"maxWarfare" : 1800000.0,
+		"minWarfare" : 1250001.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63032205,
+		"copyCode" : 162,
+		"index" : 2,
+		"levelLimit" : 70,
+		"maxWarfare" : 2400000.0,
+		"minWarfare" : 1800001.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63032206,
+		"copyCode" : 162,
+		"index" : 2,
+		"levelLimit" : 75,
+		"maxWarfare" : 3000000.0,
+		"minWarfare" : 2400001.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63032207,
+		"copyCode" : 162,
+		"index" : 2,
+		"levelLimit" : 80,
+		"maxWarfare" : 4000000.0,
+		"minWarfare" : 3000001.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63032208,
+		"copyCode" : 162,
+		"index" : 2,
+		"maxWarfare" : 6500000.0,
+		"minWarfare" : 4000001.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63032209,
+		"copyCode" : 162,
+		"index" : 2,
+		"maxWarfare" : 10000000.0,
+		"minWarfare" : 6500001.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63032210,
+		"copyCode" : 162,
+		"index" : 2,
+		"maxWarfare" : 15750000.0,
+		"minWarfare" : 10000001.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63032211,
+		"copyCode" : 162,
+		"index" : 2,
+		"maxWarfare" : 22000000.0,
+		"minWarfare" : 15750001.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63032212,
+		"copyCode" : 162,
+		"index" : 2,
+		"maxWarfare" : 28750000.0,
+		"minWarfare" : 22000001.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63032213,
+		"copyCode" : 162,
+		"index" : 2,
+		"maxWarfare" : 30000000.0,
+		"minWarfare" : 28750001.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63032214,
+		"copyCode" : 162,
+		"index" : 2,
+		"maxWarfare" : 43750000.0,
+		"minWarfare" : 30000001.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63032215,
+		"copyCode" : 162,
+		"index" : 2,
+		"maxWarfare" : 499950000.0,
+		"minWarfare" : 43750001.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63033201,
+		"copyCode" : 162,
+		"index" : 3,
+		"maxWarfare" : 600000.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63033202,
+		"copyCode" : 162,
+		"index" : 3,
+		"levelLimit" : 50,
+		"maxWarfare" : 900000.0,
+		"minWarfare" : 600001.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63033203,
+		"copyCode" : 162,
+		"index" : 3,
+		"levelLimit" : 60,
+		"maxWarfare" : 1250000.0,
+		"minWarfare" : 900001.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63033204,
+		"copyCode" : 162,
+		"index" : 3,
+		"levelLimit" : 65,
+		"maxWarfare" : 1800000.0,
+		"minWarfare" : 1250001.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63033205,
+		"copyCode" : 162,
+		"index" : 3,
+		"levelLimit" : 70,
+		"maxWarfare" : 2400000.0,
+		"minWarfare" : 1800001.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63033206,
+		"copyCode" : 162,
+		"index" : 3,
+		"levelLimit" : 75,
+		"maxWarfare" : 3000000.0,
+		"minWarfare" : 2400001.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63033207,
+		"copyCode" : 162,
+		"index" : 3,
+		"levelLimit" : 80,
+		"maxWarfare" : 4000000.0,
+		"minWarfare" : 3000001.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63033208,
+		"copyCode" : 162,
+		"index" : 3,
+		"maxWarfare" : 6500000.0,
+		"minWarfare" : 4000001.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63033209,
+		"copyCode" : 162,
+		"index" : 3,
+		"maxWarfare" : 10000000.0,
+		"minWarfare" : 6500001.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63033210,
+		"copyCode" : 162,
+		"index" : 3,
+		"maxWarfare" : 15750000.0,
+		"minWarfare" : 10000001.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63033211,
+		"copyCode" : 162,
+		"index" : 3,
+		"maxWarfare" : 22000000.0,
+		"minWarfare" : 15750001.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63033212,
+		"copyCode" : 162,
+		"index" : 3,
+		"maxWarfare" : 28750000.0,
+		"minWarfare" : 22000001.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63033213,
+		"copyCode" : 162,
+		"index" : 3,
+		"maxWarfare" : 30000000.0,
+		"minWarfare" : 28750001.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63033214,
+		"copyCode" : 162,
+		"index" : 3,
+		"maxWarfare" : 43750000.0,
+		"minWarfare" : 30000001.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63033215,
+		"copyCode" : 162,
+		"index" : 3,
+		"maxWarfare" : 499950000.0,
+		"minWarfare" : 43750001.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63034201,
+		"copyCode" : 162,
+		"index" : 4,
+		"maxWarfare" : 600000.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63034202,
+		"copyCode" : 162,
+		"index" : 4,
+		"levelLimit" : 50,
+		"maxWarfare" : 900000.0,
+		"minWarfare" : 600001.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63034203,
+		"copyCode" : 162,
+		"index" : 4,
+		"levelLimit" : 60,
+		"maxWarfare" : 1250000.0,
+		"minWarfare" : 900001.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63034204,
+		"copyCode" : 162,
+		"index" : 4,
+		"levelLimit" : 65,
+		"maxWarfare" : 1800000.0,
+		"minWarfare" : 1250001.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63034205,
+		"copyCode" : 162,
+		"index" : 4,
+		"levelLimit" : 70,
+		"maxWarfare" : 2400000.0,
+		"minWarfare" : 1800001.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63034206,
+		"copyCode" : 162,
+		"index" : 4,
+		"levelLimit" : 75,
+		"maxWarfare" : 3000000.0,
+		"minWarfare" : 2400001.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63034207,
+		"copyCode" : 162,
+		"index" : 4,
+		"levelLimit" : 80,
+		"maxWarfare" : 4000000.0,
+		"minWarfare" : 3000001.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63034208,
+		"copyCode" : 162,
+		"index" : 4,
+		"maxWarfare" : 6500000.0,
+		"minWarfare" : 4000001.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63034209,
+		"copyCode" : 162,
+		"index" : 4,
+		"maxWarfare" : 10000000.0,
+		"minWarfare" : 6500001.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63034210,
+		"copyCode" : 162,
+		"index" : 4,
+		"maxWarfare" : 15750000.0,
+		"minWarfare" : 10000001.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63034211,
+		"copyCode" : 162,
+		"index" : 4,
+		"maxWarfare" : 22000000.0,
+		"minWarfare" : 15750001.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63034212,
+		"copyCode" : 162,
+		"index" : 4,
+		"maxWarfare" : 28750000.0,
+		"minWarfare" : 22000001.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63034213,
+		"copyCode" : 162,
+		"index" : 4,
+		"maxWarfare" : 30000000.0,
+		"minWarfare" : 28750001.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63034214,
+		"copyCode" : 162,
+		"index" : 4,
+		"maxWarfare" : 43750000.0,
+		"minWarfare" : 30000001.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63034215,
+		"copyCode" : 162,
+		"index" : 4,
+		"maxWarfare" : 499950000.0,
+		"minWarfare" : 43750001.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63035201,
+		"copyCode" : 162,
+		"index" : 5,
+		"maxWarfare" : 600000.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63035202,
+		"copyCode" : 162,
+		"index" : 5,
+		"levelLimit" : 50,
+		"maxWarfare" : 900000.0,
+		"minWarfare" : 600001.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63035203,
+		"copyCode" : 162,
+		"index" : 5,
+		"levelLimit" : 60,
+		"maxWarfare" : 1250000.0,
+		"minWarfare" : 900001.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63035204,
+		"copyCode" : 162,
+		"index" : 5,
+		"levelLimit" : 65,
+		"maxWarfare" : 1800000.0,
+		"minWarfare" : 1250001.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63035205,
+		"copyCode" : 162,
+		"index" : 5,
+		"levelLimit" : 70,
+		"maxWarfare" : 2400000.0,
+		"minWarfare" : 1800001.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63035206,
+		"copyCode" : 162,
+		"index" : 5,
+		"levelLimit" : 75,
+		"maxWarfare" : 3000000.0,
+		"minWarfare" : 2400001.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63035207,
+		"copyCode" : 162,
+		"index" : 5,
+		"levelLimit" : 80,
+		"maxWarfare" : 4000000.0,
+		"minWarfare" : 3000001.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63035208,
+		"copyCode" : 162,
+		"index" : 5,
+		"maxWarfare" : 6500000.0,
+		"minWarfare" : 4000001.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63035209,
+		"copyCode" : 162,
+		"index" : 5,
+		"maxWarfare" : 10000000.0,
+		"minWarfare" : 6500001.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63035210,
+		"copyCode" : 162,
+		"index" : 5,
+		"maxWarfare" : 15750000.0,
+		"minWarfare" : 10000001.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63035211,
+		"copyCode" : 162,
+		"index" : 5,
+		"maxWarfare" : 22000000.0,
+		"minWarfare" : 15750001.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63035212,
+		"copyCode" : 162,
+		"index" : 5,
+		"maxWarfare" : 28750000.0,
+		"minWarfare" : 22000001.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63035213,
+		"copyCode" : 162,
+		"index" : 5,
+		"maxWarfare" : 30000000.0,
+		"minWarfare" : 28750001.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63035214,
+		"copyCode" : 162,
+		"index" : 5,
+		"maxWarfare" : 43750000.0,
+		"minWarfare" : 30000001.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63035215,
+		"copyCode" : 162,
+		"index" : 5,
+		"maxWarfare" : 499950000.0,
+		"minWarfare" : 43750001.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63036201,
+		"copyCode" : 162,
+		"index" : 6,
+		"maxWarfare" : 600000.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63036202,
+		"copyCode" : 162,
+		"index" : 6,
+		"levelLimit" : 50,
+		"maxWarfare" : 900000.0,
+		"minWarfare" : 600001.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63036203,
+		"copyCode" : 162,
+		"index" : 6,
+		"levelLimit" : 60,
+		"maxWarfare" : 1250000.0,
+		"minWarfare" : 900001.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63036204,
+		"copyCode" : 162,
+		"index" : 6,
+		"levelLimit" : 65,
+		"maxWarfare" : 1800000.0,
+		"minWarfare" : 1250001.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63036205,
+		"copyCode" : 162,
+		"index" : 6,
+		"levelLimit" : 70,
+		"maxWarfare" : 2400000.0,
+		"minWarfare" : 1800001.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63036206,
+		"copyCode" : 162,
+		"index" : 6,
+		"levelLimit" : 75,
+		"maxWarfare" : 3000000.0,
+		"minWarfare" : 2400001.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63036207,
+		"copyCode" : 162,
+		"index" : 6,
+		"levelLimit" : 80,
+		"maxWarfare" : 4000000.0,
+		"minWarfare" : 3000001.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63036208,
+		"copyCode" : 162,
+		"index" : 6,
+		"maxWarfare" : 6500000.0,
+		"minWarfare" : 4000001.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63036209,
+		"copyCode" : 162,
+		"index" : 6,
+		"maxWarfare" : 10000000.0,
+		"minWarfare" : 6500001.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63036210,
+		"copyCode" : 162,
+		"index" : 6,
+		"maxWarfare" : 15750000.0,
+		"minWarfare" : 10000001.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63036211,
+		"copyCode" : 162,
+		"index" : 6,
+		"maxWarfare" : 22000000.0,
+		"minWarfare" : 15750001.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63036212,
+		"copyCode" : 162,
+		"index" : 6,
+		"maxWarfare" : 28750000.0,
+		"minWarfare" : 22000001.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63036213,
+		"copyCode" : 162,
+		"index" : 6,
+		"maxWarfare" : 30000000.0,
+		"minWarfare" : 28750001.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63036214,
+		"copyCode" : 162,
+		"index" : 6,
+		"maxWarfare" : 43750000.0,
+		"minWarfare" : 30000001.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63036215,
+		"copyCode" : 162,
+		"index" : 6,
+		"maxWarfare" : 499950000.0,
+		"minWarfare" : 43750001.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63037201,
+		"copyCode" : 162,
+		"index" : 7,
+		"maxWarfare" : 600000.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63037202,
+		"copyCode" : 162,
+		"index" : 7,
+		"levelLimit" : 50,
+		"maxWarfare" : 900000.0,
+		"minWarfare" : 600001.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63037203,
+		"copyCode" : 162,
+		"index" : 7,
+		"levelLimit" : 60,
+		"maxWarfare" : 1250000.0,
+		"minWarfare" : 900001.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63037204,
+		"copyCode" : 162,
+		"index" : 7,
+		"levelLimit" : 65,
+		"maxWarfare" : 1800000.0,
+		"minWarfare" : 1250001.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63037205,
+		"copyCode" : 162,
+		"index" : 7,
+		"levelLimit" : 70,
+		"maxWarfare" : 2400000.0,
+		"minWarfare" : 1800001.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63037206,
+		"copyCode" : 162,
+		"index" : 7,
+		"levelLimit" : 75,
+		"maxWarfare" : 3000000.0,
+		"minWarfare" : 2400001.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63037207,
+		"copyCode" : 162,
+		"index" : 7,
+		"levelLimit" : 80,
+		"maxWarfare" : 4000000.0,
+		"minWarfare" : 3000001.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63037208,
+		"copyCode" : 162,
+		"index" : 7,
+		"maxWarfare" : 6500000.0,
+		"minWarfare" : 4000001.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63037209,
+		"copyCode" : 162,
+		"index" : 7,
+		"maxWarfare" : 10000000.0,
+		"minWarfare" : 6500001.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63037210,
+		"copyCode" : 162,
+		"index" : 7,
+		"maxWarfare" : 15750000.0,
+		"minWarfare" : 10000001.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63037211,
+		"copyCode" : 162,
+		"index" : 7,
+		"maxWarfare" : 22000000.0,
+		"minWarfare" : 15750001.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63037212,
+		"copyCode" : 162,
+		"index" : 7,
+		"maxWarfare" : 28750000.0,
+		"minWarfare" : 22000001.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63037213,
+		"copyCode" : 162,
+		"index" : 7,
+		"maxWarfare" : 30000000.0,
+		"minWarfare" : 28750001.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63037214,
+		"copyCode" : 162,
+		"index" : 7,
+		"maxWarfare" : 43750000.0,
+		"minWarfare" : 30000001.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63037215,
+		"copyCode" : 162,
+		"index" : 7,
+		"maxWarfare" : 499950000.0,
+		"minWarfare" : 43750001.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63038201,
+		"copyCode" : 162,
+		"index" : 8,
+		"maxWarfare" : 600000.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63038202,
+		"copyCode" : 162,
+		"index" : 8,
+		"levelLimit" : 50,
+		"maxWarfare" : 900000.0,
+		"minWarfare" : 600001.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63038203,
+		"copyCode" : 162,
+		"index" : 8,
+		"levelLimit" : 60,
+		"maxWarfare" : 1250000.0,
+		"minWarfare" : 900001.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63038204,
+		"copyCode" : 162,
+		"index" : 8,
+		"levelLimit" : 65,
+		"maxWarfare" : 1800000.0,
+		"minWarfare" : 1250001.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63038205,
+		"copyCode" : 162,
+		"index" : 8,
+		"levelLimit" : 70,
+		"maxWarfare" : 2400000.0,
+		"minWarfare" : 1800001.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63038206,
+		"copyCode" : 162,
+		"index" : 8,
+		"levelLimit" : 75,
+		"maxWarfare" : 3000000.0,
+		"minWarfare" : 2400001.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63038207,
+		"copyCode" : 162,
+		"index" : 8,
+		"levelLimit" : 80,
+		"maxWarfare" : 4000000.0,
+		"minWarfare" : 3000001.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63038208,
+		"copyCode" : 162,
+		"index" : 8,
+		"maxWarfare" : 6500000.0,
+		"minWarfare" : 4000001.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63038209,
+		"copyCode" : 162,
+		"index" : 8,
+		"maxWarfare" : 10000000.0,
+		"minWarfare" : 6500001.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63038210,
+		"copyCode" : 162,
+		"index" : 8,
+		"maxWarfare" : 15750000.0,
+		"minWarfare" : 10000001.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63038211,
+		"copyCode" : 162,
+		"index" : 8,
+		"maxWarfare" : 22000000.0,
+		"minWarfare" : 15750001.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63038212,
+		"copyCode" : 162,
+		"index" : 8,
+		"maxWarfare" : 28750000.0,
+		"minWarfare" : 22000001.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63038213,
+		"copyCode" : 162,
+		"index" : 8,
+		"maxWarfare" : 30000000.0,
+		"minWarfare" : 28750001.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63038214,
+		"copyCode" : 162,
+		"index" : 8,
+		"maxWarfare" : 43750000.0,
+		"minWarfare" : 30000001.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63038215,
+		"copyCode" : 162,
+		"index" : 8,
+		"maxWarfare" : 499950000.0,
+		"minWarfare" : 43750001.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63039201,
+		"copyCode" : 162,
+		"index" : 9,
+		"maxWarfare" : 600000.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63039202,
+		"copyCode" : 162,
+		"index" : 9,
+		"levelLimit" : 50,
+		"maxWarfare" : 900000.0,
+		"minWarfare" : 600001.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63039203,
+		"copyCode" : 162,
+		"index" : 9,
+		"levelLimit" : 60,
+		"maxWarfare" : 1250000.0,
+		"minWarfare" : 900001.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63039204,
+		"copyCode" : 162,
+		"index" : 9,
+		"levelLimit" : 65,
+		"maxWarfare" : 1800000.0,
+		"minWarfare" : 1250001.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63039205,
+		"copyCode" : 162,
+		"index" : 9,
+		"levelLimit" : 70,
+		"maxWarfare" : 2400000.0,
+		"minWarfare" : 1800001.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63039206,
+		"copyCode" : 162,
+		"index" : 9,
+		"levelLimit" : 75,
+		"maxWarfare" : 3000000.0,
+		"minWarfare" : 2400001.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63039207,
+		"copyCode" : 162,
+		"index" : 9,
+		"levelLimit" : 80,
+		"maxWarfare" : 4000000.0,
+		"minWarfare" : 3000001.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63039208,
+		"copyCode" : 162,
+		"index" : 9,
+		"maxWarfare" : 6500000.0,
+		"minWarfare" : 4000001.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63039209,
+		"copyCode" : 162,
+		"index" : 9,
+		"maxWarfare" : 10000000.0,
+		"minWarfare" : 6500001.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63039210,
+		"copyCode" : 162,
+		"index" : 9,
+		"maxWarfare" : 15750000.0,
+		"minWarfare" : 10000001.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63039211,
+		"copyCode" : 162,
+		"index" : 9,
+		"maxWarfare" : 22000000.0,
+		"minWarfare" : 15750001.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63039212,
+		"copyCode" : 162,
+		"index" : 9,
+		"maxWarfare" : 28750000.0,
+		"minWarfare" : 22000001.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63039213,
+		"copyCode" : 162,
+		"index" : 9,
+		"maxWarfare" : 30000000.0,
+		"minWarfare" : 28750001.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63039214,
+		"copyCode" : 162,
+		"index" : 9,
+		"maxWarfare" : 43750000.0,
+		"minWarfare" : 30000001.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63039215,
+		"copyCode" : 162,
+		"index" : 9,
+		"maxWarfare" : 499950000.0,
+		"minWarfare" : 43750001.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63031201,
+		"copyCode" : 166,
+		"index" : 1,
+		"maxWarfare" : 600000.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63031202,
+		"copyCode" : 166,
+		"index" : 1,
+		"levelLimit" : 50,
+		"maxWarfare" : 900000.0,
+		"minWarfare" : 600001.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63031203,
+		"copyCode" : 166,
+		"index" : 1,
+		"levelLimit" : 60,
+		"maxWarfare" : 1250000.0,
+		"minWarfare" : 900001.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63031204,
+		"copyCode" : 166,
+		"index" : 1,
+		"levelLimit" : 65,
+		"maxWarfare" : 1800000.0,
+		"minWarfare" : 1250001.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63031205,
+		"copyCode" : 166,
+		"index" : 1,
+		"levelLimit" : 70,
+		"maxWarfare" : 2400000.0,
+		"minWarfare" : 1800001.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63031206,
+		"copyCode" : 166,
+		"index" : 1,
+		"levelLimit" : 75,
+		"maxWarfare" : 3000000.0,
+		"minWarfare" : 2400001.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63031207,
+		"copyCode" : 166,
+		"index" : 1,
+		"levelLimit" : 80,
+		"maxWarfare" : 4000000.0,
+		"minWarfare" : 3000001.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63031208,
+		"copyCode" : 166,
+		"index" : 1,
+		"maxWarfare" : 6500000.0,
+		"minWarfare" : 4000001.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63031209,
+		"copyCode" : 166,
+		"index" : 1,
+		"maxWarfare" : 10000000.0,
+		"minWarfare" : 6500001.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63031210,
+		"copyCode" : 166,
+		"index" : 1,
+		"maxWarfare" : 15750000.0,
+		"minWarfare" : 10000001.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63031211,
+		"copyCode" : 166,
+		"index" : 1,
+		"maxWarfare" : 22000000.0,
+		"minWarfare" : 15750001.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63031212,
+		"copyCode" : 166,
+		"index" : 1,
+		"maxWarfare" : 28750000.0,
+		"minWarfare" : 22000001.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63031213,
+		"copyCode" : 166,
+		"index" : 1,
+		"maxWarfare" : 30000000.0,
+		"minWarfare" : 28750001.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63031214,
+		"copyCode" : 166,
+		"index" : 1,
+		"maxWarfare" : 43750000.0,
+		"minWarfare" : 30000001.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63031215,
+		"copyCode" : 166,
+		"index" : 1,
+		"maxWarfare" : 499950000.0,
+		"minWarfare" : 43750001.0,
+		"modelItemCode" : 10991001
+	},
+	
+	{
+		"bossCode" : 63032201,
+		"copyCode" : 166,
+		"index" : 2,
+		"maxWarfare" : 600000.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63032202,
+		"copyCode" : 166,
+		"index" : 2,
+		"levelLimit" : 50,
+		"maxWarfare" : 900000.0,
+		"minWarfare" : 600001.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63032203,
+		"copyCode" : 166,
+		"index" : 2,
+		"levelLimit" : 60,
+		"maxWarfare" : 1250000.0,
+		"minWarfare" : 900001.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63032204,
+		"copyCode" : 166,
+		"index" : 2,
+		"levelLimit" : 65,
+		"maxWarfare" : 1800000.0,
+		"minWarfare" : 1250001.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63032205,
+		"copyCode" : 166,
+		"index" : 2,
+		"levelLimit" : 70,
+		"maxWarfare" : 2400000.0,
+		"minWarfare" : 1800001.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63032206,
+		"copyCode" : 166,
+		"index" : 2,
+		"levelLimit" : 75,
+		"maxWarfare" : 3000000.0,
+		"minWarfare" : 2400001.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63032207,
+		"copyCode" : 166,
+		"index" : 2,
+		"levelLimit" : 80,
+		"maxWarfare" : 4000000.0,
+		"minWarfare" : 3000001.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63032208,
+		"copyCode" : 166,
+		"index" : 2,
+		"maxWarfare" : 6500000.0,
+		"minWarfare" : 4000001.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63032209,
+		"copyCode" : 166,
+		"index" : 2,
+		"maxWarfare" : 10000000.0,
+		"minWarfare" : 6500001.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63032210,
+		"copyCode" : 166,
+		"index" : 2,
+		"maxWarfare" : 15750000.0,
+		"minWarfare" : 10000001.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63032211,
+		"copyCode" : 166,
+		"index" : 2,
+		"maxWarfare" : 22000000.0,
+		"minWarfare" : 15750001.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63032212,
+		"copyCode" : 166,
+		"index" : 2,
+		"maxWarfare" : 28750000.0,
+		"minWarfare" : 22000001.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63032213,
+		"copyCode" : 166,
+		"index" : 2,
+		"maxWarfare" : 30000000.0,
+		"minWarfare" : 28750001.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63032214,
+		"copyCode" : 166,
+		"index" : 2,
+		"maxWarfare" : 43750000.0,
+		"minWarfare" : 30000001.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63032215,
+		"copyCode" : 166,
+		"index" : 2,
+		"maxWarfare" : 499950000.0,
+		"minWarfare" : 43750001.0,
+		"modelItemCode" : 10991002
+	},
+	
+	{
+		"bossCode" : 63033201,
+		"copyCode" : 166,
+		"index" : 3,
+		"maxWarfare" : 600000.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63033202,
+		"copyCode" : 166,
+		"index" : 3,
+		"levelLimit" : 50,
+		"maxWarfare" : 900000.0,
+		"minWarfare" : 600001.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63033203,
+		"copyCode" : 166,
+		"index" : 3,
+		"levelLimit" : 60,
+		"maxWarfare" : 1250000.0,
+		"minWarfare" : 900001.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63033204,
+		"copyCode" : 166,
+		"index" : 3,
+		"levelLimit" : 65,
+		"maxWarfare" : 1800000.0,
+		"minWarfare" : 1250001.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63033205,
+		"copyCode" : 166,
+		"index" : 3,
+		"levelLimit" : 70,
+		"maxWarfare" : 2400000.0,
+		"minWarfare" : 1800001.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63033206,
+		"copyCode" : 166,
+		"index" : 3,
+		"levelLimit" : 75,
+		"maxWarfare" : 3000000.0,
+		"minWarfare" : 2400001.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63033207,
+		"copyCode" : 166,
+		"index" : 3,
+		"levelLimit" : 80,
+		"maxWarfare" : 4000000.0,
+		"minWarfare" : 3000001.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63033208,
+		"copyCode" : 166,
+		"index" : 3,
+		"maxWarfare" : 6500000.0,
+		"minWarfare" : 4000001.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63033209,
+		"copyCode" : 166,
+		"index" : 3,
+		"maxWarfare" : 10000000.0,
+		"minWarfare" : 6500001.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63033210,
+		"copyCode" : 166,
+		"index" : 3,
+		"maxWarfare" : 15750000.0,
+		"minWarfare" : 10000001.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63033211,
+		"copyCode" : 166,
+		"index" : 3,
+		"maxWarfare" : 22000000.0,
+		"minWarfare" : 15750001.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63033212,
+		"copyCode" : 166,
+		"index" : 3,
+		"maxWarfare" : 28750000.0,
+		"minWarfare" : 22000001.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63033213,
+		"copyCode" : 166,
+		"index" : 3,
+		"maxWarfare" : 30000000.0,
+		"minWarfare" : 28750001.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63033214,
+		"copyCode" : 166,
+		"index" : 3,
+		"maxWarfare" : 43750000.0,
+		"minWarfare" : 30000001.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63033215,
+		"copyCode" : 166,
+		"index" : 3,
+		"maxWarfare" : 499950000.0,
+		"minWarfare" : 43750001.0,
+		"modelItemCode" : 10991003
+	},
+	
+	{
+		"bossCode" : 63034201,
+		"copyCode" : 166,
+		"index" : 4,
+		"maxWarfare" : 600000.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63034202,
+		"copyCode" : 166,
+		"index" : 4,
+		"levelLimit" : 50,
+		"maxWarfare" : 900000.0,
+		"minWarfare" : 600001.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63034203,
+		"copyCode" : 166,
+		"index" : 4,
+		"levelLimit" : 60,
+		"maxWarfare" : 1250000.0,
+		"minWarfare" : 900001.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63034204,
+		"copyCode" : 166,
+		"index" : 4,
+		"levelLimit" : 65,
+		"maxWarfare" : 1800000.0,
+		"minWarfare" : 1250001.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63034205,
+		"copyCode" : 166,
+		"index" : 4,
+		"levelLimit" : 70,
+		"maxWarfare" : 2400000.0,
+		"minWarfare" : 1800001.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63034206,
+		"copyCode" : 166,
+		"index" : 4,
+		"levelLimit" : 75,
+		"maxWarfare" : 3000000.0,
+		"minWarfare" : 2400001.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63034207,
+		"copyCode" : 166,
+		"index" : 4,
+		"levelLimit" : 80,
+		"maxWarfare" : 4000000.0,
+		"minWarfare" : 3000001.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63034208,
+		"copyCode" : 166,
+		"index" : 4,
+		"maxWarfare" : 6500000.0,
+		"minWarfare" : 4000001.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63034209,
+		"copyCode" : 166,
+		"index" : 4,
+		"maxWarfare" : 10000000.0,
+		"minWarfare" : 6500001.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63034210,
+		"copyCode" : 166,
+		"index" : 4,
+		"maxWarfare" : 15750000.0,
+		"minWarfare" : 10000001.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63034211,
+		"copyCode" : 166,
+		"index" : 4,
+		"maxWarfare" : 22000000.0,
+		"minWarfare" : 15750001.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63034212,
+		"copyCode" : 166,
+		"index" : 4,
+		"maxWarfare" : 28750000.0,
+		"minWarfare" : 22000001.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63034213,
+		"copyCode" : 166,
+		"index" : 4,
+		"maxWarfare" : 30000000.0,
+		"minWarfare" : 28750001.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63034214,
+		"copyCode" : 166,
+		"index" : 4,
+		"maxWarfare" : 43750000.0,
+		"minWarfare" : 30000001.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63034215,
+		"copyCode" : 166,
+		"index" : 4,
+		"maxWarfare" : 499950000.0,
+		"minWarfare" : 43750001.0,
+		"modelItemCode" : 10991004
+	},
+	
+	{
+		"bossCode" : 63035201,
+		"copyCode" : 166,
+		"index" : 5,
+		"maxWarfare" : 600000.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63035202,
+		"copyCode" : 166,
+		"index" : 5,
+		"levelLimit" : 50,
+		"maxWarfare" : 900000.0,
+		"minWarfare" : 600001.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63035203,
+		"copyCode" : 166,
+		"index" : 5,
+		"levelLimit" : 60,
+		"maxWarfare" : 1250000.0,
+		"minWarfare" : 900001.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63035204,
+		"copyCode" : 166,
+		"index" : 5,
+		"levelLimit" : 65,
+		"maxWarfare" : 1800000.0,
+		"minWarfare" : 1250001.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63035205,
+		"copyCode" : 166,
+		"index" : 5,
+		"levelLimit" : 70,
+		"maxWarfare" : 2400000.0,
+		"minWarfare" : 1800001.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63035206,
+		"copyCode" : 166,
+		"index" : 5,
+		"levelLimit" : 75,
+		"maxWarfare" : 3000000.0,
+		"minWarfare" : 2400001.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63035207,
+		"copyCode" : 166,
+		"index" : 5,
+		"levelLimit" : 80,
+		"maxWarfare" : 4000000.0,
+		"minWarfare" : 3000001.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63035208,
+		"copyCode" : 166,
+		"index" : 5,
+		"maxWarfare" : 6500000.0,
+		"minWarfare" : 4000001.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63035209,
+		"copyCode" : 166,
+		"index" : 5,
+		"maxWarfare" : 10000000.0,
+		"minWarfare" : 6500001.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63035210,
+		"copyCode" : 166,
+		"index" : 5,
+		"maxWarfare" : 15750000.0,
+		"minWarfare" : 10000001.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63035211,
+		"copyCode" : 166,
+		"index" : 5,
+		"maxWarfare" : 22000000.0,
+		"minWarfare" : 15750001.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63035212,
+		"copyCode" : 166,
+		"index" : 5,
+		"maxWarfare" : 28750000.0,
+		"minWarfare" : 22000001.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63035213,
+		"copyCode" : 166,
+		"index" : 5,
+		"maxWarfare" : 30000000.0,
+		"minWarfare" : 28750001.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63035214,
+		"copyCode" : 166,
+		"index" : 5,
+		"maxWarfare" : 43750000.0,
+		"minWarfare" : 30000001.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63035215,
+		"copyCode" : 166,
+		"index" : 5,
+		"maxWarfare" : 499950000.0,
+		"minWarfare" : 43750001.0,
+		"modelItemCode" : 10991005
+	},
+	
+	{
+		"bossCode" : 63036201,
+		"copyCode" : 166,
+		"index" : 6,
+		"maxWarfare" : 600000.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63036202,
+		"copyCode" : 166,
+		"index" : 6,
+		"levelLimit" : 50,
+		"maxWarfare" : 900000.0,
+		"minWarfare" : 600001.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63036203,
+		"copyCode" : 166,
+		"index" : 6,
+		"levelLimit" : 60,
+		"maxWarfare" : 1250000.0,
+		"minWarfare" : 900001.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63036204,
+		"copyCode" : 166,
+		"index" : 6,
+		"levelLimit" : 65,
+		"maxWarfare" : 1800000.0,
+		"minWarfare" : 1250001.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63036205,
+		"copyCode" : 166,
+		"index" : 6,
+		"levelLimit" : 70,
+		"maxWarfare" : 2400000.0,
+		"minWarfare" : 1800001.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63036206,
+		"copyCode" : 166,
+		"index" : 6,
+		"levelLimit" : 75,
+		"maxWarfare" : 3000000.0,
+		"minWarfare" : 2400001.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63036207,
+		"copyCode" : 166,
+		"index" : 6,
+		"levelLimit" : 80,
+		"maxWarfare" : 4000000.0,
+		"minWarfare" : 3000001.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63036208,
+		"copyCode" : 166,
+		"index" : 6,
+		"maxWarfare" : 6500000.0,
+		"minWarfare" : 4000001.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63036209,
+		"copyCode" : 166,
+		"index" : 6,
+		"maxWarfare" : 10000000.0,
+		"minWarfare" : 6500001.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63036210,
+		"copyCode" : 166,
+		"index" : 6,
+		"maxWarfare" : 15750000.0,
+		"minWarfare" : 10000001.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63036211,
+		"copyCode" : 166,
+		"index" : 6,
+		"maxWarfare" : 22000000.0,
+		"minWarfare" : 15750001.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63036212,
+		"copyCode" : 166,
+		"index" : 6,
+		"maxWarfare" : 28750000.0,
+		"minWarfare" : 22000001.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63036213,
+		"copyCode" : 166,
+		"index" : 6,
+		"maxWarfare" : 30000000.0,
+		"minWarfare" : 28750001.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63036214,
+		"copyCode" : 166,
+		"index" : 6,
+		"maxWarfare" : 43750000.0,
+		"minWarfare" : 30000001.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63036215,
+		"copyCode" : 166,
+		"index" : 6,
+		"maxWarfare" : 499950000.0,
+		"minWarfare" : 43750001.0,
+		"modelItemCode" : 10991006
+	},
+	
+	{
+		"bossCode" : 63037201,
+		"copyCode" : 166,
+		"index" : 7,
+		"maxWarfare" : 600000.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63037202,
+		"copyCode" : 166,
+		"index" : 7,
+		"levelLimit" : 50,
+		"maxWarfare" : 900000.0,
+		"minWarfare" : 600001.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63037203,
+		"copyCode" : 166,
+		"index" : 7,
+		"levelLimit" : 60,
+		"maxWarfare" : 1250000.0,
+		"minWarfare" : 900001.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63037204,
+		"copyCode" : 166,
+		"index" : 7,
+		"levelLimit" : 65,
+		"maxWarfare" : 1800000.0,
+		"minWarfare" : 1250001.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63037205,
+		"copyCode" : 166,
+		"index" : 7,
+		"levelLimit" : 70,
+		"maxWarfare" : 2400000.0,
+		"minWarfare" : 1800001.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63037206,
+		"copyCode" : 166,
+		"index" : 7,
+		"levelLimit" : 75,
+		"maxWarfare" : 3000000.0,
+		"minWarfare" : 2400001.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63037207,
+		"copyCode" : 166,
+		"index" : 7,
+		"levelLimit" : 80,
+		"maxWarfare" : 4000000.0,
+		"minWarfare" : 3000001.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63037208,
+		"copyCode" : 166,
+		"index" : 7,
+		"maxWarfare" : 6500000.0,
+		"minWarfare" : 4000001.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63037209,
+		"copyCode" : 166,
+		"index" : 7,
+		"maxWarfare" : 10000000.0,
+		"minWarfare" : 6500001.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63037210,
+		"copyCode" : 166,
+		"index" : 7,
+		"maxWarfare" : 15750000.0,
+		"minWarfare" : 10000001.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63037211,
+		"copyCode" : 166,
+		"index" : 7,
+		"maxWarfare" : 22000000.0,
+		"minWarfare" : 15750001.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63037212,
+		"copyCode" : 166,
+		"index" : 7,
+		"maxWarfare" : 28750000.0,
+		"minWarfare" : 22000001.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63037213,
+		"copyCode" : 166,
+		"index" : 7,
+		"maxWarfare" : 30000000.0,
+		"minWarfare" : 28750001.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63037214,
+		"copyCode" : 166,
+		"index" : 7,
+		"maxWarfare" : 43750000.0,
+		"minWarfare" : 30000001.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63037215,
+		"copyCode" : 166,
+		"index" : 7,
+		"maxWarfare" : 499950000.0,
+		"minWarfare" : 43750001.0,
+		"modelItemCode" : 10991007
+	},
+	
+	{
+		"bossCode" : 63038201,
+		"copyCode" : 166,
+		"index" : 8,
+		"maxWarfare" : 600000.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63038202,
+		"copyCode" : 166,
+		"index" : 8,
+		"levelLimit" : 50,
+		"maxWarfare" : 900000.0,
+		"minWarfare" : 600001.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63038203,
+		"copyCode" : 166,
+		"index" : 8,
+		"levelLimit" : 60,
+		"maxWarfare" : 1250000.0,
+		"minWarfare" : 900001.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63038204,
+		"copyCode" : 166,
+		"index" : 8,
+		"levelLimit" : 65,
+		"maxWarfare" : 1800000.0,
+		"minWarfare" : 1250001.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63038205,
+		"copyCode" : 166,
+		"index" : 8,
+		"levelLimit" : 70,
+		"maxWarfare" : 2400000.0,
+		"minWarfare" : 1800001.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63038206,
+		"copyCode" : 166,
+		"index" : 8,
+		"levelLimit" : 75,
+		"maxWarfare" : 3000000.0,
+		"minWarfare" : 2400001.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63038207,
+		"copyCode" : 166,
+		"index" : 8,
+		"levelLimit" : 80,
+		"maxWarfare" : 4000000.0,
+		"minWarfare" : 3000001.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63038208,
+		"copyCode" : 166,
+		"index" : 8,
+		"maxWarfare" : 6500000.0,
+		"minWarfare" : 4000001.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63038209,
+		"copyCode" : 166,
+		"index" : 8,
+		"maxWarfare" : 10000000.0,
+		"minWarfare" : 6500001.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63038210,
+		"copyCode" : 166,
+		"index" : 8,
+		"maxWarfare" : 15750000.0,
+		"minWarfare" : 10000001.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63038211,
+		"copyCode" : 166,
+		"index" : 8,
+		"maxWarfare" : 22000000.0,
+		"minWarfare" : 15750001.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63038212,
+		"copyCode" : 166,
+		"index" : 8,
+		"maxWarfare" : 28750000.0,
+		"minWarfare" : 22000001.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63038213,
+		"copyCode" : 166,
+		"index" : 8,
+		"maxWarfare" : 30000000.0,
+		"minWarfare" : 28750001.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63038214,
+		"copyCode" : 166,
+		"index" : 8,
+		"maxWarfare" : 43750000.0,
+		"minWarfare" : 30000001.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63038215,
+		"copyCode" : 166,
+		"index" : 8,
+		"maxWarfare" : 499950000.0,
+		"minWarfare" : 43750001.0,
+		"modelItemCode" : 10991008
+	},
+	
+	{
+		"bossCode" : 63039201,
+		"copyCode" : 166,
+		"index" : 9,
+		"maxWarfare" : 600000.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63039202,
+		"copyCode" : 166,
+		"index" : 9,
+		"levelLimit" : 50,
+		"maxWarfare" : 900000.0,
+		"minWarfare" : 600001.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63039203,
+		"copyCode" : 166,
+		"index" : 9,
+		"levelLimit" : 60,
+		"maxWarfare" : 1250000.0,
+		"minWarfare" : 900001.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63039204,
+		"copyCode" : 166,
+		"index" : 9,
+		"levelLimit" : 65,
+		"maxWarfare" : 1800000.0,
+		"minWarfare" : 1250001.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63039205,
+		"copyCode" : 166,
+		"index" : 9,
+		"levelLimit" : 70,
+		"maxWarfare" : 2400000.0,
+		"minWarfare" : 1800001.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63039206,
+		"copyCode" : 166,
+		"index" : 9,
+		"levelLimit" : 75,
+		"maxWarfare" : 3000000.0,
+		"minWarfare" : 2400001.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63039207,
+		"copyCode" : 166,
+		"index" : 9,
+		"levelLimit" : 80,
+		"maxWarfare" : 4000000.0,
+		"minWarfare" : 3000001.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63039208,
+		"copyCode" : 166,
+		"index" : 9,
+		"maxWarfare" : 6500000.0,
+		"minWarfare" : 4000001.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63039209,
+		"copyCode" : 166,
+		"index" : 9,
+		"maxWarfare" : 10000000.0,
+		"minWarfare" : 6500001.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63039210,
+		"copyCode" : 166,
+		"index" : 9,
+		"maxWarfare" : 15750000.0,
+		"minWarfare" : 10000001.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63039211,
+		"copyCode" : 166,
+		"index" : 9,
+		"maxWarfare" : 22000000.0,
+		"minWarfare" : 15750001.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63039212,
+		"copyCode" : 166,
+		"index" : 9,
+		"maxWarfare" : 28750000.0,
+		"minWarfare" : 22000001.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63039213,
+		"copyCode" : 166,
+		"index" : 9,
+		"maxWarfare" : 30000000.0,
+		"minWarfare" : 28750001.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63039214,
+		"copyCode" : 166,
+		"index" : 9,
+		"maxWarfare" : 43750000.0,
+		"minWarfare" : 30000001.0,
+		"modelItemCode" : 10991009
+	},
+	
+	{
+		"bossCode" : 63039215,
+		"copyCode" : 166,
+		"index" : 9,
+		"maxWarfare" : 499950000.0,
+		"minWarfare" : 43750001.0,
+		"modelItemCode" : 10991009
+	}
+]

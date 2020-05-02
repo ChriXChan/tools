@@ -1,0 +1,285 @@
+
+[
+	
+	{
+		"bossCode" : 4300102,
+		"copyCode" : 2801,
+		"danger" : "中等",
+		"showInCopy" : 1,
+		"strategy" : "每次受到攻击时都只会受到固定伤害，推荐全体集火攻击"
+	},
+	
+	{
+		"bossCode" : 4300104,
+		"copyCode" : 2801,
+		"danger" : "中等",
+		"showInCopy" : 1,
+		"strategy" : "每次受到攻击时都只会受到固定伤害，推荐全体集火攻击"
+	},
+	
+	{
+		"bossCode" : 4300106,
+		"copyCode" : 2801,
+		"danger" : "BOSS",
+		"showInCopy" : 1,
+		"strategy" : "没有特别的能力，击杀所有小怪后将出现，击杀后即可通关"
+	},
+	
+	{
+		"bossCode" : 4400101,
+		"copyCode" : 2901,
+		"danger" : "低",
+		"showInCopy" : 1,
+		"strategy" : "只会受到固定伤害，聚集所有小怪集中击杀能够大大节省时间"
+	},
+	
+	{
+		"bossCode" : 4400102,
+		"copyCode" : 2901,
+		"danger" : "低",
+		"showInCopy" : 1,
+		"strategy" : "只会受到固定伤害，聚集所有小怪集中击杀能够大大节省时间"
+	},
+	
+	{
+		"bossCode" : 4400111,
+		"copyCode" : 2901,
+		"danger" : "BOSS",
+		"showInCopy" : 1,
+		"strategy" : "没有特别的能力，击杀所有小怪后将出现，击杀后即可通关"
+	},
+	
+	{
+		"bossCode" : 5200010,
+		"copyCode" : 6002,
+		"danger" : "BOSS",
+		"showInCopy" : 1
+	},
+	
+	{
+		"bossCode" : 5200020,
+		"copyCode" : 6002,
+		"danger" : "BOSS",
+		"showInCopy" : 1
+	},
+	
+	{
+		"bossCode" : 5200030,
+		"copyCode" : 6002,
+		"danger" : "BOSS",
+		"showInCopy" : 1
+	},
+	
+	{
+		"bossCode" : 4300203,
+		"copyCode" : 12801,
+		"danger" : "高",
+		"showInCopy" : 1,
+		"strategy" : "拥有很高的血量，组队击杀效率更高"
+	},
+	
+	{
+		"bossCode" : 4300204,
+		"copyCode" : 12801,
+		"danger" : "高",
+		"showInCopy" : 1,
+		"strategy" : "拥有很高的攻击输出伤害，建议集中击杀"
+	},
+	
+	{
+		"bossCode" : 4300205,
+		"copyCode" : 12801,
+		"danger" : "BOSS",
+		"showInCopy" : 1,
+		"strategy" : "击杀所有小怪后将出现，受到天怒伤害翻倍"
+	},
+	
+	{
+		"bossCode" : 4400201,
+		"copyCode" : 12901,
+		"danger" : "中等",
+		"showInCopy" : 1,
+		"strategy" : "不会攻击和移动，击杀后可获得攻击力提升状态，更快地击杀BOSS"
+	},
+	
+	{
+		"bossCode" : 4400211,
+		"copyCode" : 12901,
+		"danger" : "BOSS",
+		"showInCopy" : 1,
+		"strategy" : "实力强劲，建议击破灵柱对其削弱和强化自身后再进行击杀，击杀后即可通关"
+	},
+	
+	{
+		"bossCode" : 5200040,
+		"copyCode" : 16002,
+		"danger" : "BOSS",
+		"showInCopy" : 1
+	},
+	
+	{
+		"bossCode" : 5200050,
+		"copyCode" : 16002,
+		"danger" : "BOSS",
+		"showInCopy" : 1
+	},
+	
+	{
+		"bossCode" : 5200060,
+		"copyCode" : 16002,
+		"danger" : "BOSS",
+		"showInCopy" : 1
+	},
+	
+	{
+		"bossCode" : 4300301,
+		"copyCode" : 22801,
+		"danger" : "中等",
+		"showInCopy" : 1,
+		"strategy" : "会持续为周围怪物恢复血量，推荐全体集火攻击"
+	},
+	
+	{
+		"bossCode" : 4300302,
+		"copyCode" : 22801,
+		"danger" : "中等",
+		"showInCopy" : 1,
+		"strategy" : "每次受到攻击时都只会受到固定伤害，会给周围怪物叠加攻击"
+	},
+	
+	{
+		"bossCode" : 4300303,
+		"copyCode" : 22801,
+		"danger" : "中等",
+		"showInCopy" : 1,
+		"strategy" : "超高的伤害输出，建议尽早集火击杀"
+	},
+	
+	{
+		"bossCode" : 4300304,
+		"copyCode" : 22801,
+		"danger" : "BOSS",
+		"showInCopy" : 1,
+		"strategy" : "没有特别的能力，击杀所有小怪后将出现"
+	},
+	
+	{
+		"bossCode" : 4300308,
+		"copyCode" : 22801,
+		"danger" : "BOSS",
+		"showInCopy" : 1,
+		"strategy" : "没有特别的能力，击杀所有小怪后将出现，击杀后即可通关"
+	},
+	
+	{
+		"bossCode" : 4400311,
+		"copyCode" : 22901,
+		"danger" : "BOSS",
+		"showInCopy" : 1,
+		"strategy" : "每隔一段时间BOSS会轮流获得伤害减免效果，请留意BOSS身上光圈，击杀任意一个BOSS后此效果消失"
+	},
+	
+	{
+		"bossCode" : 4400312,
+		"copyCode" : 22901,
+		"danger" : "BOSS",
+		"showInCopy" : 1,
+		"strategy" : "每隔一段时间BOSS会轮流获得伤害减免效果，请留意BOSS身上光圈，击杀任意一个BOSS后此效果消失"
+	},
+	
+	{
+		"bossCode" : 4300401,
+		"copyCode" : 32801,
+		"danger" : "中等",
+		"showInCopy" : 1,
+		"strategy" : "超高的伤害输出，建议尽早集火击杀"
+	},
+	
+	{
+		"bossCode" : 4300402,
+		"copyCode" : 32801,
+		"danger" : "中等",
+		"showInCopy" : 1,
+		"strategy" : "超高的伤害输出，建议尽早集火击杀"
+	},
+	
+	{
+		"bossCode" : 4300403,
+		"copyCode" : 32801,
+		"danger" : "BOSS",
+		"showInCopy" : 1,
+		"strategy" : "拥有很高的血量，组队击杀效率更高"
+	},
+	
+	{
+		"bossCode" : 4300405,
+		"copyCode" : 32801,
+		"danger" : "中等",
+		"showInCopy" : 1,
+		"strategy" : "超高的伤害输出，建议尽早集火击杀"
+	},
+	
+	{
+		"bossCode" : 4300406,
+		"copyCode" : 32801,
+		"danger" : "中等",
+		"showInCopy" : 1,
+		"strategy" : "超高的伤害输出，建议尽早集火击杀"
+	},
+	
+	{
+		"bossCode" : 4300407,
+		"copyCode" : 32801,
+		"danger" : "BOSS",
+		"showInCopy" : 1,
+		"strategy" : "拥有很高的攻击输出伤害，建议集中击杀"
+	},
+	
+	{
+		"bossCode" : 4300409,
+		"copyCode" : 32801,
+		"danger" : "中等",
+		"showInCopy" : 1,
+		"strategy" : "超高的伤害输出，建议尽早集火击杀"
+	},
+	
+	{
+		"bossCode" : 4300410,
+		"copyCode" : 32801,
+		"danger" : "中等",
+		"showInCopy" : 1,
+		"strategy" : "超高的伤害输出，建议尽早集火击杀"
+	},
+	
+	{
+		"bossCode" : 4300411,
+		"copyCode" : 32801,
+		"danger" : "BOSS",
+		"showInCopy" : 1,
+		"strategy" : "没有特别的能力，击杀所有小怪后将出现，击杀后即可通关"
+	},
+	
+	{
+		"bossCode" : 4400401,
+		"copyCode" : 32901,
+		"danger" : "中等",
+		"showInCopy" : 1,
+		"strategy" : "不会攻击和移动，击杀后BOSS输出伤害将大大降低，确保关卡通过"
+	},
+	
+	{
+		"bossCode" : 4400402,
+		"copyCode" : 32901,
+		"danger" : "中等",
+		"showInCopy" : 1,
+		"strategy" : "不会攻击和移动，击杀后可获得输出伤害提升状态，更快地击杀BOSS"
+	},
+	
+	{
+		"bossCode" : 4400403,
+		"copyCode" : 32901,
+		"danger" : "BOSS",
+		"showInCopy" : 1,
+		"strategy" : "实力强劲，建议击破灵柱对其削弱和强化自身后再进行击杀，击杀后即可通关"
+	}
+]

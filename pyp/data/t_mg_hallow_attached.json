@@ -1,0 +1,579 @@
+
+[
+	
+	{
+		"activateNumMax" : 3,
+		"activateNumMin" : 2,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 1,
+		"attrValue" : 1500,
+		"code" : 1001,
+		"score" : 15000
+	},
+	
+	{
+		"activateNumMax" : 3,
+		"activateNumMin" : 2,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 3,
+		"attrValue" : 1500,
+		"code" : 1001,
+		"score" : 15000
+	},
+	
+	{
+		"activateNumMax" : 2,
+		"activateNumMin" : 1,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 11,
+		"attrValue" : 1500,
+		"code" : 1001,
+		"score" : 15000
+	},
+	
+	{
+		"activateNumMax" : 2,
+		"activateNumMin" : 1,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 63,
+		"attrValue" : 5000,
+		"code" : 1001,
+		"score" : 30000
+	},
+	
+	{
+		"activateNumMax" : 2,
+		"activateNumMin" : 1,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 4,
+		"attrValue" : 1750,
+		"code" : 1002,
+		"score" : 17500
+	},
+	
+	{
+		"activateNumMax" : 3,
+		"activateNumMin" : 2,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 12,
+		"attrValue" : 1750,
+		"code" : 1002,
+		"score" : 17500
+	},
+	
+	{
+		"activateNumMax" : 2,
+		"activateNumMin" : 1,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 63,
+		"attrValue" : 5000,
+		"code" : 1002,
+		"score" : 30000
+	},
+	
+	{
+		"activateNumMax" : 3,
+		"activateNumMin" : 2,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 4004,
+		"attrValue" : 2000,
+		"code" : 1002,
+		"score" : 40000
+	},
+	
+	{
+		"activateNumMax" : 2,
+		"activateNumMin" : 1,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 2,
+		"attrValue" : 35000,
+		"code" : 1003,
+		"score" : 20000
+	},
+	
+	{
+		"activateNumMax" : 3,
+		"activateNumMin" : 2,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 8,
+		"attrValue" : 2000,
+		"code" : 1003,
+		"score" : 20000
+	},
+	
+	{
+		"activateNumMax" : 2,
+		"activateNumMin" : 1,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 63,
+		"attrValue" : 5000,
+		"code" : 1003,
+		"score" : 30000
+	},
+	
+	{
+		"activateNumMax" : 3,
+		"activateNumMin" : 2,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 4002,
+		"attrValue" : 750,
+		"code" : 1003,
+		"score" : 30000
+	},
+	
+	{
+		"activateNumMax" : 3,
+		"activateNumMin" : 2,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 1,
+		"attrValue" : 2500,
+		"code" : 2001,
+		"score" : 30000
+	},
+	
+	{
+		"activateNumMax" : 2,
+		"activateNumMin" : 1,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 3,
+		"attrValue" : 2500,
+		"code" : 2001,
+		"score" : 20000
+	},
+	
+	{
+		"activateNumMax" : 2,
+		"activateNumMin" : 1,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 63,
+		"attrValue" : 5000,
+		"code" : 2001,
+		"score" : 30000
+	},
+	
+	{
+		"activateNumMax" : 3,
+		"activateNumMin" : 2,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 4003,
+		"attrValue" : 2500,
+		"code" : 2001,
+		"score" : 40000
+	},
+	
+	{
+		"activateNumMax" : 2,
+		"activateNumMin" : 1,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 2,
+		"attrValue" : 45000,
+		"code" : 2002,
+		"score" : 30000
+	},
+	
+	{
+		"activateNumMax" : 3,
+		"activateNumMin" : 2,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 4,
+		"attrValue" : 2500,
+		"code" : 2002,
+		"score" : 30000
+	},
+	
+	{
+		"activateNumMax" : 2,
+		"activateNumMin" : 1,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 63,
+		"attrValue" : 5000,
+		"code" : 2002,
+		"score" : 30000
+	},
+	
+	{
+		"activateNumMax" : 3,
+		"activateNumMin" : 2,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 86,
+		"attrValue" : 200,
+		"code" : 2002,
+		"score" : 60000
+	},
+	
+	{
+		"activateNumMax" : 2,
+		"activateNumMin" : 1,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 7,
+		"attrValue" : 3000,
+		"code" : 2003,
+		"score" : 35000
+	},
+	
+	{
+		"activateNumMax" : 2,
+		"activateNumMin" : 1,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 63,
+		"attrValue" : 5000,
+		"code" : 2003,
+		"score" : 30000
+	},
+	
+	{
+		"activateNumMax" : 3,
+		"activateNumMin" : 2,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 85,
+		"attrValue" : 250,
+		"code" : 2003,
+		"score" : 50000
+	},
+	
+	{
+		"activateNumMax" : 3,
+		"activateNumMin" : 2,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 91,
+		"attrValue" : 500,
+		"code" : 2003,
+		"score" : 50000
+	},
+	
+	{
+		"activateNumMax" : 3,
+		"activateNumMin" : 2,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 1,
+		"attrValue" : 3500,
+		"code" : 3001,
+		"score" : 42500
+	},
+	
+	{
+		"activateNumMax" : 3,
+		"activateNumMin" : 2,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 11,
+		"attrValue" : 3500,
+		"code" : 3001,
+		"score" : 42500
+	},
+	
+	{
+		"activateNumMax" : 2,
+		"activateNumMin" : 1,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 63,
+		"attrValue" : 5000,
+		"code" : 3001,
+		"score" : 30000
+	},
+	
+	{
+		"activateNumMax" : 2,
+		"activateNumMin" : 1,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 4001,
+		"attrValue" : 1500,
+		"code" : 3001,
+		"score" : 60000
+	},
+	
+	{
+		"activateNumMax" : 3,
+		"activateNumMin" : 2,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 8,
+		"attrValue" : 4000,
+		"code" : 3002,
+		"score" : 50000
+	},
+	
+	{
+		"activateNumMax" : 2,
+		"activateNumMin" : 1,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 12,
+		"attrValue" : 4000,
+		"code" : 3002,
+		"score" : 50000
+	},
+	
+	{
+		"activateNumMax" : 2,
+		"activateNumMin" : 1,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 63,
+		"attrValue" : 5000,
+		"code" : 3002,
+		"score" : 30000
+	},
+	
+	{
+		"activateNumMax" : 3,
+		"activateNumMin" : 2,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 88,
+		"attrValue" : 150,
+		"code" : 3002,
+		"score" : 80000
+	},
+	
+	{
+		"activateNumMax" : 2,
+		"activateNumMin" : 1,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 7,
+		"attrValue" : 5000,
+		"code" : 3003,
+		"score" : 60000
+	},
+	
+	{
+		"activateNumMax" : 2,
+		"activateNumMin" : 1,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 63,
+		"attrValue" : 5000,
+		"code" : 3003,
+		"score" : 30000
+	},
+	
+	{
+		"activateNumMax" : 3,
+		"activateNumMin" : 2,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 71,
+		"attrValue" : 150,
+		"code" : 3003,
+		"score" : 75000
+	},
+	
+	{
+		"activateNumMax" : 3,
+		"activateNumMin" : 2,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 73,
+		"attrValue" : 750,
+		"code" : 3003,
+		"score" : 60000
+	},
+	
+	{
+		"activateNumMax" : 2,
+		"activateNumMin" : 1,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 63,
+		"attrValue" : 5000,
+		"code" : 4001,
+		"score" : 30000
+	},
+	
+	{
+		"activateNumMax" : 2,
+		"activateNumMin" : 1,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 89,
+		"attrValue" : 750,
+		"code" : 4001,
+		"score" : 100000
+	},
+	
+	{
+		"activateNumMax" : 3,
+		"activateNumMin" : 2,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 90,
+		"attrValue" : 750,
+		"code" : 4001,
+		"score" : 100000
+	},
+	
+	{
+		"activateNumMax" : 3,
+		"activateNumMin" : 2,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 91,
+		"attrValue" : 750,
+		"code" : 4001,
+		"score" : 100000
+	},
+	
+	{
+		"activateNumMax" : 2,
+		"activateNumMin" : 1,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 63,
+		"attrValue" : 5000,
+		"code" : 4002,
+		"score" : 30000
+	},
+	
+	{
+		"activateNumMax" : 3,
+		"activateNumMin" : 2,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 86,
+		"attrValue" : 500,
+		"code" : 4002,
+		"score" : 100000
+	},
+	
+	{
+		"activateNumMax" : 3,
+		"activateNumMin" : 2,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 89,
+		"attrValue" : 1000,
+		"code" : 4002,
+		"score" : 100000
+	},
+	
+	{
+		"activateNumMax" : 2,
+		"activateNumMin" : 1,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 90,
+		"attrValue" : 1000,
+		"code" : 4002,
+		"score" : 100000
+	},
+	
+	{
+		"activateNumMax" : 2,
+		"activateNumMin" : 1,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 63,
+		"attrValue" : 5000,
+		"code" : 4003,
+		"score" : 30000
+	},
+	
+	{
+		"activateNumMax" : 3,
+		"activateNumMin" : 2,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 73,
+		"attrValue" : 1000,
+		"code" : 4003,
+		"score" : 100000
+	},
+	
+	{
+		"activateNumMax" : 2,
+		"activateNumMin" : 1,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 78,
+		"attrValue" : 150,
+		"code" : 4003,
+		"score" : 100000
+	},
+	
+	{
+		"activateNumMax" : 3,
+		"activateNumMin" : 2,
+		"activateProportion" : 2000,
+		"activateRate" : 20,
+		"attachedProportion" : "[1,3000#300,400][3001,4000#250,350][4001,5000#200,300][5001,6000#100,200][6001,7000#80,160][7001,8000#70,130][8001,9000#60,100][9001,10000#40,80]",
+		"attrType" : 91,
+		"attrValue" : 1000,
+		"code" : 4003,
+		"score" : 100000
+	}
+]

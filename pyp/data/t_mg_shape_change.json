@@ -1,0 +1,1151 @@
+
+[
+	
+	{
+		"attrList" : "1,0#3,0#7,0#78,0#",
+		"change" : 3003,
+		"modelId" : 3003,
+		"name" : "摄魂诛仙",
+		"shape" : 3,
+		"useItemCode" : 60073002,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "1,800#3,800#7,2400#78,450#",
+		"change" : 3003,
+		"level" : 1,
+		"modelId" : 3003,
+		"name" : "摄魂诛仙",
+		"shape" : 3,
+		"useItemCode" : 60073002,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "1,960#3,960#7,2880#78,540#",
+		"change" : 3003,
+		"level" : 2,
+		"modelId" : 3003,
+		"name" : "摄魂诛仙",
+		"shape" : 3,
+		"useItemCode" : 60073002,
+		"useItemNum" : 2
+	},
+	
+	{
+		"attrList" : "1,1120#3,1120#7,3360#78,630#",
+		"change" : 3003,
+		"level" : 3,
+		"modelId" : 3003,
+		"name" : "摄魂诛仙",
+		"shape" : 3,
+		"useItemCode" : 60073002,
+		"useItemNum" : 3
+	},
+	
+	{
+		"attrList" : "1,1280#3,1280#7,3840#78,720#",
+		"change" : 3003,
+		"level" : 4,
+		"modelId" : 3003,
+		"name" : "摄魂诛仙",
+		"shape" : 3,
+		"useItemCode" : 60073002,
+		"useItemNum" : 4
+	},
+	
+	{
+		"attrList" : "1,1440#3,1440#7,4320#78,810#",
+		"change" : 3003,
+		"level" : 5,
+		"modelId" : 3003,
+		"name" : "摄魂诛仙",
+		"shape" : 3,
+		"useItemCode" : 60073002,
+		"useItemNum" : 5
+	},
+	
+	{
+		"attrList" : "1,1600#3,1600#7,4800#78,900#",
+		"change" : 3003,
+		"level" : 6,
+		"modelId" : 3003,
+		"name" : "摄魂诛仙",
+		"shape" : 3,
+		"useItemCode" : 60073002
+	},
+	
+	{
+		"attrList" : "1,0#3,0#7,0#78,0#",
+		"change" : 3004,
+		"modelId" : 3004,
+		"name" : "嗜血戮仙",
+		"shape" : 3,
+		"useItemCode" : 60073003,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "1,600#3,600#7,1800#78,350#",
+		"change" : 3004,
+		"level" : 1,
+		"modelId" : 3004,
+		"name" : "嗜血戮仙",
+		"shape" : 3,
+		"useItemCode" : 60073003,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "1,720#3,720#7,2160#78,420#",
+		"change" : 3004,
+		"level" : 2,
+		"modelId" : 3004,
+		"name" : "嗜血戮仙",
+		"shape" : 3,
+		"useItemCode" : 60073003,
+		"useItemNum" : 2
+	},
+	
+	{
+		"attrList" : "1,840#3,840#7,2520#78,490#",
+		"change" : 3004,
+		"level" : 3,
+		"modelId" : 3004,
+		"name" : "嗜血戮仙",
+		"shape" : 3,
+		"useItemCode" : 60073003,
+		"useItemNum" : 3
+	},
+	
+	{
+		"attrList" : "1,960#3,960#7,2880#78,560#",
+		"change" : 3004,
+		"level" : 4,
+		"modelId" : 3004,
+		"name" : "嗜血戮仙",
+		"shape" : 3,
+		"useItemCode" : 60073003,
+		"useItemNum" : 4
+	},
+	
+	{
+		"attrList" : "1,1080#3,1080#7,3240#78,630#",
+		"change" : 3004,
+		"level" : 5,
+		"modelId" : 3004,
+		"name" : "嗜血戮仙",
+		"shape" : 3,
+		"useItemCode" : 60073003,
+		"useItemNum" : 5
+	},
+	
+	{
+		"attrList" : "1,1200#3,1200#7,3600#78,700#",
+		"change" : 3004,
+		"level" : 6,
+		"modelId" : 3004,
+		"name" : "嗜血戮仙",
+		"shape" : 3,
+		"useItemCode" : 60073003
+	},
+	
+	{
+		"attrList" : "1,0#3,0#4,0#52,0#",
+		"change" : 4002,
+		"modelId" : 4002,
+		"name" : "红莲火羽",
+		"relateBossList" : "505201001#505201002#505201003#505201004#505201005#505201006#505201007",
+		"shape" : 4,
+		"useItemCode" : 60074001,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "1,1200#3,400#4,400#52,450#",
+		"change" : 4002,
+		"level" : 1,
+		"modelId" : 4002,
+		"name" : "红莲火羽",
+		"relateBossList" : "505201001#505201002#505201003#505201004#505201005#505201006#505201007",
+		"shape" : 4,
+		"useItemCode" : 60074001,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "1,1440#3,480#4,480#52,540#",
+		"change" : 4002,
+		"level" : 2,
+		"modelId" : 4002,
+		"name" : "红莲火羽",
+		"relateBossList" : "505201001#505201002#505201003#505201004#505201005#505201006#505201007",
+		"shape" : 4,
+		"useItemCode" : 60074001,
+		"useItemNum" : 2
+	},
+	
+	{
+		"attrList" : "1,1680#3,560#4,560#52,630#",
+		"change" : 4002,
+		"level" : 3,
+		"modelId" : 4002,
+		"name" : "红莲火羽",
+		"relateBossList" : "505201001#505201002#505201003#505201004#505201005#505201006#505201007",
+		"shape" : 4,
+		"useItemCode" : 60074001,
+		"useItemNum" : 3
+	},
+	
+	{
+		"attrList" : "1,1920#3,640#4,640#52,720#",
+		"change" : 4002,
+		"level" : 4,
+		"modelId" : 4002,
+		"name" : "红莲火羽",
+		"relateBossList" : "505201001#505201002#505201003#505201004#505201005#505201006#505201007",
+		"shape" : 4,
+		"useItemCode" : 60074001,
+		"useItemNum" : 4
+	},
+	
+	{
+		"attrList" : "1,2160#3,720#4,720#52,810#",
+		"change" : 4002,
+		"level" : 5,
+		"modelId" : 4002,
+		"name" : "红莲火羽",
+		"relateBossList" : "505201001#505201002#505201003#505201004#505201005#505201006#505201007",
+		"shape" : 4,
+		"useItemCode" : 60074001,
+		"useItemNum" : 5
+	},
+	
+	{
+		"attrList" : "1,2400#3,800#4,800#52,900#",
+		"change" : 4002,
+		"level" : 6,
+		"modelId" : 4002,
+		"name" : "红莲火羽",
+		"relateBossList" : "505201001#505201002#505201003#505201004#505201005#505201006#505201007",
+		"shape" : 4,
+		"useItemCode" : 60074001
+	},
+	
+	{
+		"attrList" : "1,0#3,0#4,0#52,0#",
+		"change" : 4003,
+		"modelId" : 4003,
+		"name" : "梵天魔羽",
+		"relateBossList" : "505201008#505202001#505202002#505206001#505206002",
+		"roleState" : 1,
+		"shape" : 4,
+		"useItemCode" : 60074002,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "1,1800#3,600#4,600#52,600#",
+		"change" : 4003,
+		"level" : 1,
+		"modelId" : 4003,
+		"name" : "梵天魔羽",
+		"relateBossList" : "505201008#505202001#505202002#505206001#505206002",
+		"roleState" : 1,
+		"shape" : 4,
+		"useItemCode" : 60074002,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "1,2160#3,720#4,720#52,720#",
+		"change" : 4003,
+		"level" : 2,
+		"modelId" : 4003,
+		"name" : "梵天魔羽",
+		"relateBossList" : "505201008#505202001#505202002#505206001#505206002",
+		"roleState" : 1,
+		"shape" : 4,
+		"useItemCode" : 60074002,
+		"useItemNum" : 2
+	},
+	
+	{
+		"attrList" : "1,2520#3,840#4,840#52,840#",
+		"change" : 4003,
+		"level" : 3,
+		"modelId" : 4003,
+		"name" : "梵天魔羽",
+		"relateBossList" : "505201008#505202001#505202002#505206001#505206002",
+		"roleState" : 1,
+		"shape" : 4,
+		"useItemCode" : 60074002,
+		"useItemNum" : 3
+	},
+	
+	{
+		"attrList" : "1,2880#3,960#4,960#52,960#",
+		"change" : 4003,
+		"level" : 4,
+		"modelId" : 4003,
+		"name" : "梵天魔羽",
+		"relateBossList" : "505201008#505202001#505202002#505206001#505206002",
+		"roleState" : 1,
+		"shape" : 4,
+		"useItemCode" : 60074002,
+		"useItemNum" : 4
+	},
+	
+	{
+		"attrList" : "1,3240#3,1080#4,1080#52,1080#",
+		"change" : 4003,
+		"level" : 5,
+		"modelId" : 4003,
+		"name" : "梵天魔羽",
+		"relateBossList" : "505201008#505202001#505202002#505206001#505206002",
+		"roleState" : 1,
+		"shape" : 4,
+		"useItemCode" : 60074002,
+		"useItemNum" : 5
+	},
+	
+	{
+		"attrList" : "1,3600#3,1200#4,1200#52,1200#",
+		"change" : 4003,
+		"level" : 6,
+		"modelId" : 4003,
+		"name" : "梵天魔羽",
+		"relateBossList" : "505201008#505202001#505202002#505206001#505206002",
+		"roleState" : 1,
+		"shape" : 4,
+		"useItemCode" : 60074002
+	},
+	
+	{
+		"attrList" : "1,0#3,0#4,0#52,0#",
+		"change" : 4004,
+		"modelId" : 4004,
+		"name" : "幽冥紫羽",
+		"relateBossList" : "505202003#505202004#505206003#505206004#505202005#505206005#505202006#505206006#505206007",
+		"roleState" : 3,
+		"shape" : 4,
+		"useItemCode" : 60074003,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "1,2400#3,800#4,800#52,750#",
+		"change" : 4004,
+		"level" : 1,
+		"modelId" : 4004,
+		"name" : "幽冥紫羽",
+		"relateBossList" : "505202003#505202004#505206003#505206004#505202005#505206005#505202006#505206006#505206007",
+		"roleState" : 3,
+		"shape" : 4,
+		"useItemCode" : 60074003,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "1,2880#3,960#4,960#52,900#",
+		"change" : 4004,
+		"level" : 2,
+		"modelId" : 4004,
+		"name" : "幽冥紫羽",
+		"relateBossList" : "505202003#505202004#505206003#505206004#505202005#505206005#505202006#505206006#505206007",
+		"roleState" : 3,
+		"shape" : 4,
+		"useItemCode" : 60074003,
+		"useItemNum" : 2
+	},
+	
+	{
+		"attrList" : "1,3360#3,1120#4,1120#52,1050#",
+		"change" : 4004,
+		"level" : 3,
+		"modelId" : 4004,
+		"name" : "幽冥紫羽",
+		"relateBossList" : "505202003#505202004#505206003#505206004#505202005#505206005#505202006#505206006#505206007",
+		"roleState" : 3,
+		"shape" : 4,
+		"useItemCode" : 60074003,
+		"useItemNum" : 3
+	},
+	
+	{
+		"attrList" : "1,3840#3,1280#4,1280#52,1200#",
+		"change" : 4004,
+		"level" : 4,
+		"modelId" : 4004,
+		"name" : "幽冥紫羽",
+		"relateBossList" : "505202003#505202004#505206003#505206004#505202005#505206005#505202006#505206006#505206007",
+		"roleState" : 3,
+		"shape" : 4,
+		"useItemCode" : 60074003,
+		"useItemNum" : 4
+	},
+	
+	{
+		"attrList" : "1,4320#3,1440#4,1440#52,1350#",
+		"change" : 4004,
+		"level" : 5,
+		"modelId" : 4004,
+		"name" : "幽冥紫羽",
+		"relateBossList" : "505202003#505202004#505206003#505206004#505202005#505206005#505202006#505206006#505206007",
+		"roleState" : 3,
+		"shape" : 4,
+		"useItemCode" : 60074003,
+		"useItemNum" : 5
+	},
+	
+	{
+		"attrList" : "1,4800#3,1600#4,1600#52,1500#",
+		"change" : 4004,
+		"level" : 6,
+		"modelId" : 4004,
+		"name" : "幽冥紫羽",
+		"relateBossList" : "505202003#505202004#505206003#505206004#505202005#505206005#505202006#505206006#505206007",
+		"roleState" : 3,
+		"shape" : 4,
+		"useItemCode" : 60074003
+	},
+	
+	{
+		"attrList" : "1,0#3,0#4,0#52,0#",
+		"change" : 4005,
+		"modelId" : 4005,
+		"name" : "青云仙羽",
+		"roleState" : 4,
+		"shape" : 4,
+		"useItemCode" : 60074004,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "1,3000#3,1000#4,1000#52,900#",
+		"change" : 4005,
+		"level" : 1,
+		"modelId" : 4005,
+		"name" : "青云仙羽",
+		"roleState" : 4,
+		"shape" : 4,
+		"useItemCode" : 60074004,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "1,3600#3,1200#4,1200#52,1080#",
+		"change" : 4005,
+		"level" : 2,
+		"modelId" : 4005,
+		"name" : "青云仙羽",
+		"roleState" : 4,
+		"shape" : 4,
+		"useItemCode" : 60074004,
+		"useItemNum" : 2
+	},
+	
+	{
+		"attrList" : "1,4200#3,1400#4,1400#52,1260#",
+		"change" : 4005,
+		"level" : 3,
+		"modelId" : 4005,
+		"name" : "青云仙羽",
+		"roleState" : 4,
+		"shape" : 4,
+		"useItemCode" : 60074004,
+		"useItemNum" : 3
+	},
+	
+	{
+		"attrList" : "1,4800#3,1600#4,1600#52,1440#",
+		"change" : 4005,
+		"level" : 4,
+		"modelId" : 4005,
+		"name" : "青云仙羽",
+		"roleState" : 4,
+		"shape" : 4,
+		"useItemCode" : 60074004,
+		"useItemNum" : 4
+	},
+	
+	{
+		"attrList" : "1,5400#3,1800#4,1800#52,1620#",
+		"change" : 4005,
+		"level" : 5,
+		"modelId" : 4005,
+		"name" : "青云仙羽",
+		"roleState" : 4,
+		"shape" : 4,
+		"useItemCode" : 60074004,
+		"useItemNum" : 5
+	},
+	
+	{
+		"attrList" : "1,6000#3,2000#4,2000#52,1800#",
+		"change" : 4005,
+		"level" : 6,
+		"modelId" : 4005,
+		"name" : "青云仙羽",
+		"roleState" : 4,
+		"shape" : 4,
+		"useItemCode" : 60074004
+	},
+	
+	{
+		"attrList" : "1,0#3,0#4,0#88,0#",
+		"change" : 4006,
+		"modelId" : 4006,
+		"name" : "琅琊神羽",
+		"roleState" : 5,
+		"shape" : 4,
+		"useItemCode" : 60074005,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "1,3600#3,1200#4,1200#88,360#",
+		"change" : 4006,
+		"level" : 1,
+		"modelId" : 4006,
+		"name" : "琅琊神羽",
+		"roleState" : 5,
+		"shape" : 4,
+		"useItemCode" : 60074005,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "1,4320#3,1440#4,1440#88,420#",
+		"change" : 4006,
+		"level" : 2,
+		"modelId" : 4006,
+		"name" : "琅琊神羽",
+		"roleState" : 5,
+		"shape" : 4,
+		"useItemCode" : 60074005,
+		"useItemNum" : 2
+	},
+	
+	{
+		"attrList" : "1,5040#3,1680#4,1680#88,480#",
+		"change" : 4006,
+		"level" : 3,
+		"modelId" : 4006,
+		"name" : "琅琊神羽",
+		"roleState" : 5,
+		"shape" : 4,
+		"useItemCode" : 60074005,
+		"useItemNum" : 3
+	},
+	
+	{
+		"attrList" : "1,5760#3,1920#4,1920#88,540#",
+		"change" : 4006,
+		"level" : 4,
+		"modelId" : 4006,
+		"name" : "琅琊神羽",
+		"roleState" : 5,
+		"shape" : 4,
+		"useItemCode" : 60074005,
+		"useItemNum" : 4
+	},
+	
+	{
+		"attrList" : "1,6480#3,2160#4,2160#88,600#",
+		"change" : 4006,
+		"level" : 5,
+		"modelId" : 4006,
+		"name" : "琅琊神羽",
+		"roleState" : 5,
+		"shape" : 4,
+		"useItemCode" : 60074005,
+		"useItemNum" : 5
+	},
+	
+	{
+		"attrList" : "1,7200#3,2400#4,2400#88,720#",
+		"change" : 4006,
+		"level" : 6,
+		"modelId" : 4006,
+		"name" : "琅琊神羽",
+		"roleState" : 5,
+		"shape" : 4,
+		"useItemCode" : 60074005
+	},
+	
+	{
+		"attrList" : "2,0#3,0#4,0#51,0#",
+		"change" : 6002,
+		"modelId" : 6002,
+		"name" : "天火琉璃",
+		"relateBossList" : "505203001#505203002#505203003#505203004#505203005#505203006#505203007",
+		"shape" : 6,
+		"useItemCode" : 60076001,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "2,24000#3,400#4,400#51,450#",
+		"change" : 6002,
+		"level" : 1,
+		"modelId" : 6002,
+		"name" : "天火琉璃",
+		"relateBossList" : "505203001#505203002#505203003#505203004#505203005#505203006#505203007",
+		"shape" : 6,
+		"useItemCode" : 60076001,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "2,28800#3,480#4,480#51,540#",
+		"change" : 6002,
+		"level" : 2,
+		"modelId" : 6002,
+		"name" : "天火琉璃",
+		"relateBossList" : "505203001#505203002#505203003#505203004#505203005#505203006#505203007",
+		"shape" : 6,
+		"useItemCode" : 60076001,
+		"useItemNum" : 2
+	},
+	
+	{
+		"attrList" : "2,33600#3,560#4,560#51,630#",
+		"change" : 6002,
+		"level" : 3,
+		"modelId" : 6002,
+		"name" : "天火琉璃",
+		"relateBossList" : "505203001#505203002#505203003#505203004#505203005#505203006#505203007",
+		"shape" : 6,
+		"useItemCode" : 60076001,
+		"useItemNum" : 3
+	},
+	
+	{
+		"attrList" : "2,38400#3,640#4,640#51,720#",
+		"change" : 6002,
+		"level" : 4,
+		"modelId" : 6002,
+		"name" : "天火琉璃",
+		"relateBossList" : "505203001#505203002#505203003#505203004#505203005#505203006#505203007",
+		"shape" : 6,
+		"useItemCode" : 60076001,
+		"useItemNum" : 4
+	},
+	
+	{
+		"attrList" : "2,43200#3,720#4,720#51,810#",
+		"change" : 6002,
+		"level" : 5,
+		"modelId" : 6002,
+		"name" : "天火琉璃",
+		"relateBossList" : "505203001#505203002#505203003#505203004#505203005#505203006#505203007",
+		"shape" : 6,
+		"useItemCode" : 60076001,
+		"useItemNum" : 5
+	},
+	
+	{
+		"attrList" : "2,48000#3,800#4,800#51,900#",
+		"change" : 6002,
+		"level" : 6,
+		"modelId" : 6002,
+		"name" : "天火琉璃",
+		"relateBossList" : "505203001#505203002#505203003#505203004#505203005#505203006#505203007",
+		"shape" : 6,
+		"useItemCode" : 60076001
+	},
+	
+	{
+		"attrList" : "2,0#3,0#4,0#51,0#",
+		"change" : 6003,
+		"modelId" : 6003,
+		"name" : "虬龙幻月",
+		"relateBossList" : "505203003#505203004#505203005#505203006#505203007",
+		"roleState" : 2,
+		"shape" : 6,
+		"useItemCode" : 60076002,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "2,36000#3,600#4,600#51,600#",
+		"change" : 6003,
+		"level" : 1,
+		"modelId" : 6003,
+		"name" : "虬龙幻月",
+		"relateBossList" : "505203003#505203004#505203005#505203006#505203007",
+		"roleState" : 2,
+		"shape" : 6,
+		"useItemCode" : 60076002,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "2,43200#3,720#4,720#51,720#",
+		"change" : 6003,
+		"level" : 2,
+		"modelId" : 6003,
+		"name" : "虬龙幻月",
+		"relateBossList" : "505203003#505203004#505203005#505203006#505203007",
+		"roleState" : 2,
+		"shape" : 6,
+		"useItemCode" : 60076002,
+		"useItemNum" : 2
+	},
+	
+	{
+		"attrList" : "2,50400#3,840#4,840#51,840#",
+		"change" : 6003,
+		"level" : 3,
+		"modelId" : 6003,
+		"name" : "虬龙幻月",
+		"relateBossList" : "505203003#505203004#505203005#505203006#505203007",
+		"roleState" : 2,
+		"shape" : 6,
+		"useItemCode" : 60076002,
+		"useItemNum" : 3
+	},
+	
+	{
+		"attrList" : "2,57600#3,960#4,960#51,960#",
+		"change" : 6003,
+		"level" : 4,
+		"modelId" : 6003,
+		"name" : "虬龙幻月",
+		"relateBossList" : "505203003#505203004#505203005#505203006#505203007",
+		"roleState" : 2,
+		"shape" : 6,
+		"useItemCode" : 60076002,
+		"useItemNum" : 4
+	},
+	
+	{
+		"attrList" : "2,64800#3,1080#4,1080#51,1080#",
+		"change" : 6003,
+		"level" : 5,
+		"modelId" : 6003,
+		"name" : "虬龙幻月",
+		"relateBossList" : "505203003#505203004#505203005#505203006#505203007",
+		"roleState" : 2,
+		"shape" : 6,
+		"useItemCode" : 60076002,
+		"useItemNum" : 5
+	},
+	
+	{
+		"attrList" : "2,72000#3,1200#4,1200#51,1200#",
+		"change" : 6003,
+		"level" : 6,
+		"modelId" : 6003,
+		"name" : "虬龙幻月",
+		"relateBossList" : "505203003#505203004#505203005#505203006#505203007",
+		"roleState" : 2,
+		"shape" : 6,
+		"useItemCode" : 60076002
+	},
+	
+	{
+		"attrList" : "2,0#3,0#4,0#51,0#",
+		"change" : 6004,
+		"modelId" : 6004,
+		"name" : "梵音囚天",
+		"relateBossList" : "505203005#505203006#505203007",
+		"roleState" : 3,
+		"shape" : 6,
+		"useItemCode" : 60076003,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "2,48000#3,800#4,800#51,750#",
+		"change" : 6004,
+		"level" : 1,
+		"modelId" : 6004,
+		"name" : "梵音囚天",
+		"relateBossList" : "505203005#505203006#505203007",
+		"roleState" : 3,
+		"shape" : 6,
+		"useItemCode" : 60076003,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "2,57600#3,960#4,960#51,900#",
+		"change" : 6004,
+		"level" : 2,
+		"modelId" : 6004,
+		"name" : "梵音囚天",
+		"relateBossList" : "505203005#505203006#505203007",
+		"roleState" : 3,
+		"shape" : 6,
+		"useItemCode" : 60076003,
+		"useItemNum" : 2
+	},
+	
+	{
+		"attrList" : "2,67200#3,1120#4,1120#51,1050#",
+		"change" : 6004,
+		"level" : 3,
+		"modelId" : 6004,
+		"name" : "梵音囚天",
+		"relateBossList" : "505203005#505203006#505203007",
+		"roleState" : 3,
+		"shape" : 6,
+		"useItemCode" : 60076003,
+		"useItemNum" : 3
+	},
+	
+	{
+		"attrList" : "2,76800#3,1280#4,1280#51,1200#",
+		"change" : 6004,
+		"level" : 4,
+		"modelId" : 6004,
+		"name" : "梵音囚天",
+		"relateBossList" : "505203005#505203006#505203007",
+		"roleState" : 3,
+		"shape" : 6,
+		"useItemCode" : 60076003,
+		"useItemNum" : 4
+	},
+	
+	{
+		"attrList" : "2,86400#3,1440#4,1440#51,1350#",
+		"change" : 6004,
+		"level" : 5,
+		"modelId" : 6004,
+		"name" : "梵音囚天",
+		"relateBossList" : "505203005#505203006#505203007",
+		"roleState" : 3,
+		"shape" : 6,
+		"useItemCode" : 60076003,
+		"useItemNum" : 5
+	},
+	
+	{
+		"attrList" : "2,96000#3,1600#4,1600#51,1500#",
+		"change" : 6004,
+		"level" : 6,
+		"modelId" : 6004,
+		"name" : "梵音囚天",
+		"relateBossList" : "505203005#505203006#505203007",
+		"roleState" : 3,
+		"shape" : 6,
+		"useItemCode" : 60076003
+	},
+	
+	{
+		"attrList" : "2,0#3,0#4,0#51,0#",
+		"change" : 6005,
+		"modelId" : 6005,
+		"name" : "万道森罗",
+		"roleState" : 4,
+		"shape" : 6,
+		"useItemCode" : 60076004,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "2,60000#3,1000#4,1000#51,900#",
+		"change" : 6005,
+		"level" : 1,
+		"modelId" : 6005,
+		"name" : "万道森罗",
+		"roleState" : 4,
+		"shape" : 6,
+		"useItemCode" : 60076004,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "2,72000#3,1200#4,1200#51,1080#",
+		"change" : 6005,
+		"level" : 2,
+		"modelId" : 6005,
+		"name" : "万道森罗",
+		"roleState" : 4,
+		"shape" : 6,
+		"useItemCode" : 60076004,
+		"useItemNum" : 2
+	},
+	
+	{
+		"attrList" : "2,84000#3,1400#4,1400#51,1260#",
+		"change" : 6005,
+		"level" : 3,
+		"modelId" : 6005,
+		"name" : "万道森罗",
+		"roleState" : 4,
+		"shape" : 6,
+		"useItemCode" : 60076004,
+		"useItemNum" : 3
+	},
+	
+	{
+		"attrList" : "2,96000#3,1600#4,1600#51,1440#",
+		"change" : 6005,
+		"level" : 4,
+		"modelId" : 6005,
+		"name" : "万道森罗",
+		"roleState" : 4,
+		"shape" : 6,
+		"useItemCode" : 60076004,
+		"useItemNum" : 4
+	},
+	
+	{
+		"attrList" : "2,108000#3,1800#4,1800#51,1620#",
+		"change" : 6005,
+		"level" : 5,
+		"modelId" : 6005,
+		"name" : "万道森罗",
+		"roleState" : 4,
+		"shape" : 6,
+		"useItemCode" : 60076004,
+		"useItemNum" : 5
+	},
+	
+	{
+		"attrList" : "2,120000#3,2000#4,2000#51,1800#",
+		"change" : 6005,
+		"level" : 6,
+		"modelId" : 6005,
+		"name" : "万道森罗",
+		"roleState" : 4,
+		"shape" : 6,
+		"useItemCode" : 60076004
+	},
+	
+	{
+		"attrList" : "2,0#3,0#4,0#85,0#",
+		"change" : 6006,
+		"modelId" : 6006,
+		"name" : "玄火圣鉴",
+		"roleState" : 5,
+		"shape" : 6,
+		"useItemCode" : 60076005,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "2,72000#3,1200#4,1200#85,1200#",
+		"change" : 6006,
+		"level" : 1,
+		"modelId" : 6006,
+		"name" : "玄火圣鉴",
+		"roleState" : 5,
+		"shape" : 6,
+		"useItemCode" : 60076005,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "2,86400#3,1440#4,1440#85,1440#",
+		"change" : 6006,
+		"level" : 2,
+		"modelId" : 6006,
+		"name" : "玄火圣鉴",
+		"roleState" : 5,
+		"shape" : 6,
+		"useItemCode" : 60076005,
+		"useItemNum" : 2
+	},
+	
+	{
+		"attrList" : "2,100800#3,1680#4,1680#85,1680#",
+		"change" : 6006,
+		"level" : 3,
+		"modelId" : 6006,
+		"name" : "玄火圣鉴",
+		"roleState" : 5,
+		"shape" : 6,
+		"useItemCode" : 60076005,
+		"useItemNum" : 3
+	},
+	
+	{
+		"attrList" : "2,115200#3,1920#4,1920#85,1920#",
+		"change" : 6006,
+		"level" : 4,
+		"modelId" : 6006,
+		"name" : "玄火圣鉴",
+		"roleState" : 5,
+		"shape" : 6,
+		"useItemCode" : 60076005,
+		"useItemNum" : 4
+	},
+	
+	{
+		"attrList" : "2,129600#3,2160#4,2160#85,2160#",
+		"change" : 6006,
+		"level" : 5,
+		"modelId" : 6006,
+		"name" : "玄火圣鉴",
+		"roleState" : 5,
+		"shape" : 6,
+		"useItemCode" : 60076005,
+		"useItemNum" : 5
+	},
+	
+	{
+		"attrList" : "2,144000#3,2400#4,2400#85,2400#",
+		"change" : 6006,
+		"level" : 6,
+		"modelId" : 6006,
+		"name" : "玄火圣鉴",
+		"roleState" : 5,
+		"shape" : 6,
+		"useItemCode" : 60076005
+	},
+	
+	{
+		"attrList" : "2,0#4,0#8,0#5,0#87,0#",
+		"change" : 8002,
+		"modelId" : 8002,
+		"name" : "龙皇战麾",
+		"shape" : 8,
+		"useItemCode" : 60076006,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "2,24000#4,400#8,400#5,100#87,100#",
+		"change" : 8002,
+		"level" : 1,
+		"modelId" : 8002,
+		"name" : "龙皇战麾",
+		"shape" : 8,
+		"useItemCode" : 60076006,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "2,28800#4,480#8,480#5,120#87,120#",
+		"change" : 8002,
+		"level" : 2,
+		"modelId" : 8002,
+		"name" : "龙皇战麾",
+		"shape" : 8,
+		"useItemCode" : 60076006,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "2,33600#4,560#8,560#5,140#87,140#",
+		"change" : 8002,
+		"level" : 3,
+		"modelId" : 8002,
+		"name" : "龙皇战麾",
+		"shape" : 8,
+		"useItemCode" : 60076006,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "2,38400#4,640#8,640#5,160#87,160#",
+		"change" : 8002,
+		"level" : 4,
+		"modelId" : 8002,
+		"name" : "龙皇战麾",
+		"shape" : 8,
+		"useItemCode" : 60076006,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "2,43200#4,720#8,720#5,180#87,180#",
+		"change" : 8002,
+		"level" : 5,
+		"modelId" : 8002,
+		"name" : "龙皇战麾",
+		"shape" : 8,
+		"useItemCode" : 60076006,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "2,48000#4,800#8,800#5,200#87,200#",
+		"change" : 8002,
+		"level" : 6,
+		"modelId" : 8002,
+		"name" : "龙皇战麾",
+		"shape" : 8,
+		"useItemCode" : 60076006
+	},
+	
+	{
+		"attrList" : "2,0#4,0#8,0#5,0#87,0#",
+		"change" : 8003,
+		"modelId" : 8003,
+		"name" : "天尊战麾",
+		"shape" : 8,
+		"useItemCode" : 60076007,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "2,24000#4,400#8,400#5,100#87,100#",
+		"change" : 8003,
+		"level" : 1,
+		"modelId" : 8003,
+		"name" : "天尊战麾",
+		"shape" : 8,
+		"useItemCode" : 60076007,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "2,28800#4,480#8,480#5,120#87,120#",
+		"change" : 8003,
+		"level" : 2,
+		"modelId" : 8003,
+		"name" : "天尊战麾",
+		"shape" : 8,
+		"useItemCode" : 60076007,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "2,33600#4,560#8,560#5,140#87,140#",
+		"change" : 8003,
+		"level" : 3,
+		"modelId" : 8003,
+		"name" : "天尊战麾",
+		"shape" : 8,
+		"useItemCode" : 60076007,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "2,38400#4,640#8,640#5,160#87,160#",
+		"change" : 8003,
+		"level" : 4,
+		"modelId" : 8003,
+		"name" : "天尊战麾",
+		"shape" : 8,
+		"useItemCode" : 60076007,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "2,43200#4,720#8,720#5,180#87,180#",
+		"change" : 8003,
+		"level" : 5,
+		"modelId" : 8003,
+		"name" : "天尊战麾",
+		"shape" : 8,
+		"useItemCode" : 60076007,
+		"useItemNum" : 1
+	},
+	
+	{
+		"attrList" : "2,48000#4,800#8,800#5,200#87,200#",
+		"change" : 8003,
+		"level" : 6,
+		"modelId" : 8003,
+		"name" : "天尊战麾",
+		"shape" : 8,
+		"useItemCode" : 60076007
+	}
+]

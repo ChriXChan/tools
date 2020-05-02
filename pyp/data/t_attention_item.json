@@ -1,0 +1,3223 @@
+
+[
+	
+	{
+		"itemCode" : 10010099
+	},
+	
+	{
+		"itemCode" : 10014001
+	},
+	
+	{
+		"itemCode" : 10014002
+	},
+	
+	{
+		"itemCode" : 10014003
+	},
+	
+	{
+		"itemCode" : 10014004
+	},
+	
+	{
+		"itemCode" : 10014005
+	},
+	
+	{
+		"itemCode" : 10014006
+	},
+	
+	{
+		"itemCode" : 10014007
+	},
+	
+	{
+		"itemCode" : 10014008
+	},
+	
+	{
+		"itemCode" : 10014009
+	},
+	
+	{
+		"itemCode" : 10014010
+	},
+	
+	{
+		"itemCode" : 10014101
+	},
+	
+	{
+		"itemCode" : 10014102
+	},
+	
+	{
+		"itemCode" : 10014103
+	},
+	
+	{
+		"itemCode" : 10014104
+	},
+	
+	{
+		"itemCode" : 10014105
+	},
+	
+	{
+		"itemCode" : 10014106
+	},
+	
+	{
+		"itemCode" : 10014107
+	},
+	
+	{
+		"itemCode" : 10014108
+	},
+	
+	{
+		"itemCode" : 10014109
+	},
+	
+	{
+		"itemCode" : 10014110
+	},
+	
+	{
+		"itemCode" : 10014201
+	},
+	
+	{
+		"itemCode" : 10014202
+	},
+	
+	{
+		"itemCode" : 10014203
+	},
+	
+	{
+		"itemCode" : 10014204
+	},
+	
+	{
+		"itemCode" : 10014205
+	},
+	
+	{
+		"itemCode" : 10014206
+	},
+	
+	{
+		"itemCode" : 10014207
+	},
+	
+	{
+		"itemCode" : 10014208
+	},
+	
+	{
+		"itemCode" : 10014209
+	},
+	
+	{
+		"itemCode" : 10014210
+	},
+	
+	{
+		"itemCode" : 10015001
+	},
+	
+	{
+		"itemCode" : 10015002
+	},
+	
+	{
+		"itemCode" : 10015003
+	},
+	
+	{
+		"itemCode" : 10015004
+	},
+	
+	{
+		"itemCode" : 10015005
+	},
+	
+	{
+		"itemCode" : 10015006
+	},
+	
+	{
+		"itemCode" : 10015007
+	},
+	
+	{
+		"itemCode" : 10015008
+	},
+	
+	{
+		"itemCode" : 10015009
+	},
+	
+	{
+		"itemCode" : 10015010
+	},
+	
+	{
+		"itemCode" : 10015101
+	},
+	
+	{
+		"itemCode" : 10015102
+	},
+	
+	{
+		"itemCode" : 10015103
+	},
+	
+	{
+		"itemCode" : 10015104
+	},
+	
+	{
+		"itemCode" : 10015105
+	},
+	
+	{
+		"itemCode" : 10015106
+	},
+	
+	{
+		"itemCode" : 10015107
+	},
+	
+	{
+		"itemCode" : 10015108
+	},
+	
+	{
+		"itemCode" : 10015109
+	},
+	
+	{
+		"itemCode" : 10015110
+	},
+	
+	{
+		"itemCode" : 10015201
+	},
+	
+	{
+		"itemCode" : 10015202
+	},
+	
+	{
+		"itemCode" : 10015203
+	},
+	
+	{
+		"itemCode" : 10015204
+	},
+	
+	{
+		"itemCode" : 10015205
+	},
+	
+	{
+		"itemCode" : 10015206
+	},
+	
+	{
+		"itemCode" : 10015207
+	},
+	
+	{
+		"itemCode" : 10015208
+	},
+	
+	{
+		"itemCode" : 10015209
+	},
+	
+	{
+		"itemCode" : 10015210
+	},
+	
+	{
+		"itemCode" : 10023001
+	},
+	
+	{
+		"itemCode" : 10023002
+	},
+	
+	{
+		"itemCode" : 10023003
+	},
+	
+	{
+		"itemCode" : 10023004
+	},
+	
+	{
+		"itemCode" : 10023005
+	},
+	
+	{
+		"itemCode" : 10023006
+	},
+	
+	{
+		"itemCode" : 10023007
+	},
+	
+	{
+		"itemCode" : 10023008
+	},
+	
+	{
+		"itemCode" : 10023009
+	},
+	
+	{
+		"itemCode" : 10023010
+	},
+	
+	{
+		"itemCode" : 10024001
+	},
+	
+	{
+		"itemCode" : 10024002
+	},
+	
+	{
+		"itemCode" : 10024003
+	},
+	
+	{
+		"itemCode" : 10024004
+	},
+	
+	{
+		"itemCode" : 10024005
+	},
+	
+	{
+		"itemCode" : 10024006
+	},
+	
+	{
+		"itemCode" : 10024007
+	},
+	
+	{
+		"itemCode" : 10024008
+	},
+	
+	{
+		"itemCode" : 10024009
+	},
+	
+	{
+		"itemCode" : 10024010
+	},
+	
+	{
+		"itemCode" : 10025001
+	},
+	
+	{
+		"itemCode" : 10025002
+	},
+	
+	{
+		"itemCode" : 10025003
+	},
+	
+	{
+		"itemCode" : 10025004
+	},
+	
+	{
+		"itemCode" : 10025005
+	},
+	
+	{
+		"itemCode" : 10025006
+	},
+	
+	{
+		"itemCode" : 10025007
+	},
+	
+	{
+		"itemCode" : 10025008
+	},
+	
+	{
+		"itemCode" : 10025009
+	},
+	
+	{
+		"itemCode" : 10025010
+	},
+	
+	{
+		"itemCode" : 10032006
+	},
+	
+	{
+		"itemCode" : 10033001
+	},
+	
+	{
+		"itemCode" : 10033002
+	},
+	
+	{
+		"itemCode" : 10033003
+	},
+	
+	{
+		"itemCode" : 10033004
+	},
+	
+	{
+		"itemCode" : 10033005
+	},
+	
+	{
+		"itemCode" : 10033006
+	},
+	
+	{
+		"itemCode" : 10033007
+	},
+	
+	{
+		"itemCode" : 10033008
+	},
+	
+	{
+		"itemCode" : 10033009
+	},
+	
+	{
+		"itemCode" : 10033010
+	},
+	
+	{
+		"itemCode" : 10034001
+	},
+	
+	{
+		"itemCode" : 10034002
+	},
+	
+	{
+		"itemCode" : 10034003
+	},
+	
+	{
+		"itemCode" : 10034004
+	},
+	
+	{
+		"itemCode" : 10034005
+	},
+	
+	{
+		"itemCode" : 10034006
+	},
+	
+	{
+		"itemCode" : 10034007
+	},
+	
+	{
+		"itemCode" : 10034008
+	},
+	
+	{
+		"itemCode" : 10034009
+	},
+	
+	{
+		"itemCode" : 10034010
+	},
+	
+	{
+		"itemCode" : 10035001
+	},
+	
+	{
+		"itemCode" : 10035002
+	},
+	
+	{
+		"itemCode" : 10035003
+	},
+	
+	{
+		"itemCode" : 10035004
+	},
+	
+	{
+		"itemCode" : 10035005
+	},
+	
+	{
+		"itemCode" : 10035006
+	},
+	
+	{
+		"itemCode" : 10035007
+	},
+	
+	{
+		"itemCode" : 10035008
+	},
+	
+	{
+		"itemCode" : 10035009
+	},
+	
+	{
+		"itemCode" : 10035010
+	},
+	
+	{
+		"itemCode" : 10042006
+	},
+	
+	{
+		"itemCode" : 10043001
+	},
+	
+	{
+		"itemCode" : 10043002
+	},
+	
+	{
+		"itemCode" : 10043003
+	},
+	
+	{
+		"itemCode" : 10043004
+	},
+	
+	{
+		"itemCode" : 10043005
+	},
+	
+	{
+		"itemCode" : 10043006
+	},
+	
+	{
+		"itemCode" : 10043007
+	},
+	
+	{
+		"itemCode" : 10043008
+	},
+	
+	{
+		"itemCode" : 10043009
+	},
+	
+	{
+		"itemCode" : 10043010
+	},
+	
+	{
+		"itemCode" : 10044001
+	},
+	
+	{
+		"itemCode" : 10044002
+	},
+	
+	{
+		"itemCode" : 10044003
+	},
+	
+	{
+		"itemCode" : 10044004
+	},
+	
+	{
+		"itemCode" : 10044005
+	},
+	
+	{
+		"itemCode" : 10044006
+	},
+	
+	{
+		"itemCode" : 10044007
+	},
+	
+	{
+		"itemCode" : 10044008
+	},
+	
+	{
+		"itemCode" : 10044009
+	},
+	
+	{
+		"itemCode" : 10044010
+	},
+	
+	{
+		"itemCode" : 10045001
+	},
+	
+	{
+		"itemCode" : 10045002
+	},
+	
+	{
+		"itemCode" : 10045003
+	},
+	
+	{
+		"itemCode" : 10045004
+	},
+	
+	{
+		"itemCode" : 10045005
+	},
+	
+	{
+		"itemCode" : 10045006
+	},
+	
+	{
+		"itemCode" : 10045007
+	},
+	
+	{
+		"itemCode" : 10045008
+	},
+	
+	{
+		"itemCode" : 10045009
+	},
+	
+	{
+		"itemCode" : 10045010
+	},
+	
+	{
+		"itemCode" : 10053001
+	},
+	
+	{
+		"itemCode" : 10053002
+	},
+	
+	{
+		"itemCode" : 10053003
+	},
+	
+	{
+		"itemCode" : 10053004
+	},
+	
+	{
+		"itemCode" : 10053005
+	},
+	
+	{
+		"itemCode" : 10053006
+	},
+	
+	{
+		"itemCode" : 10053007
+	},
+	
+	{
+		"itemCode" : 10053008
+	},
+	
+	{
+		"itemCode" : 10053009
+	},
+	
+	{
+		"itemCode" : 10053010
+	},
+	
+	{
+		"itemCode" : 10054001
+	},
+	
+	{
+		"itemCode" : 10054002
+	},
+	
+	{
+		"itemCode" : 10054003
+	},
+	
+	{
+		"itemCode" : 10054004
+	},
+	
+	{
+		"itemCode" : 10054005
+	},
+	
+	{
+		"itemCode" : 10054006
+	},
+	
+	{
+		"itemCode" : 10054007
+	},
+	
+	{
+		"itemCode" : 10054008
+	},
+	
+	{
+		"itemCode" : 10054009
+	},
+	
+	{
+		"itemCode" : 10054010
+	},
+	
+	{
+		"itemCode" : 10055001
+	},
+	
+	{
+		"itemCode" : 10055002
+	},
+	
+	{
+		"itemCode" : 10055003
+	},
+	
+	{
+		"itemCode" : 10055004
+	},
+	
+	{
+		"itemCode" : 10055005
+	},
+	
+	{
+		"itemCode" : 10055006
+	},
+	
+	{
+		"itemCode" : 10055007
+	},
+	
+	{
+		"itemCode" : 10055008
+	},
+	
+	{
+		"itemCode" : 10055009
+	},
+	
+	{
+		"itemCode" : 10055010
+	},
+	
+	{
+		"itemCode" : 10064001
+	},
+	
+	{
+		"itemCode" : 10064002
+	},
+	
+	{
+		"itemCode" : 10064003
+	},
+	
+	{
+		"itemCode" : 10064004
+	},
+	
+	{
+		"itemCode" : 10064005
+	},
+	
+	{
+		"itemCode" : 10064006
+	},
+	
+	{
+		"itemCode" : 10064007
+	},
+	
+	{
+		"itemCode" : 10064008
+	},
+	
+	{
+		"itemCode" : 10064009
+	},
+	
+	{
+		"itemCode" : 10064010
+	},
+	
+	{
+		"itemCode" : 10064101
+	},
+	
+	{
+		"itemCode" : 10064102
+	},
+	
+	{
+		"itemCode" : 10064103
+	},
+	
+	{
+		"itemCode" : 10064104
+	},
+	
+	{
+		"itemCode" : 10064105
+	},
+	
+	{
+		"itemCode" : 10064106
+	},
+	
+	{
+		"itemCode" : 10064107
+	},
+	
+	{
+		"itemCode" : 10064108
+	},
+	
+	{
+		"itemCode" : 10064109
+	},
+	
+	{
+		"itemCode" : 10064110
+	},
+	
+	{
+		"itemCode" : 10064201
+	},
+	
+	{
+		"itemCode" : 10064202
+	},
+	
+	{
+		"itemCode" : 10064203
+	},
+	
+	{
+		"itemCode" : 10064204
+	},
+	
+	{
+		"itemCode" : 10064205
+	},
+	
+	{
+		"itemCode" : 10064206
+	},
+	
+	{
+		"itemCode" : 10064207
+	},
+	
+	{
+		"itemCode" : 10064208
+	},
+	
+	{
+		"itemCode" : 10064209
+	},
+	
+	{
+		"itemCode" : 10064210
+	},
+	
+	{
+		"itemCode" : 10065001
+	},
+	
+	{
+		"itemCode" : 10065002
+	},
+	
+	{
+		"itemCode" : 10065003
+	},
+	
+	{
+		"itemCode" : 10065004
+	},
+	
+	{
+		"itemCode" : 10065005
+	},
+	
+	{
+		"itemCode" : 10065006
+	},
+	
+	{
+		"itemCode" : 10065007
+	},
+	
+	{
+		"itemCode" : 10065008
+	},
+	
+	{
+		"itemCode" : 10065009
+	},
+	
+	{
+		"itemCode" : 10065010
+	},
+	
+	{
+		"itemCode" : 10065101
+	},
+	
+	{
+		"itemCode" : 10065102
+	},
+	
+	{
+		"itemCode" : 10065103
+	},
+	
+	{
+		"itemCode" : 10065104
+	},
+	
+	{
+		"itemCode" : 10065105
+	},
+	
+	{
+		"itemCode" : 10065106
+	},
+	
+	{
+		"itemCode" : 10065107
+	},
+	
+	{
+		"itemCode" : 10065108
+	},
+	
+	{
+		"itemCode" : 10065109
+	},
+	
+	{
+		"itemCode" : 10065110
+	},
+	
+	{
+		"itemCode" : 10065201
+	},
+	
+	{
+		"itemCode" : 10065202
+	},
+	
+	{
+		"itemCode" : 10065203
+	},
+	
+	{
+		"itemCode" : 10065204
+	},
+	
+	{
+		"itemCode" : 10065205
+	},
+	
+	{
+		"itemCode" : 10065206
+	},
+	
+	{
+		"itemCode" : 10065207
+	},
+	
+	{
+		"itemCode" : 10065208
+	},
+	
+	{
+		"itemCode" : 10065209
+	},
+	
+	{
+		"itemCode" : 10065210
+	},
+	
+	{
+		"itemCode" : 10070000
+	},
+	
+	{
+		"itemCode" : 10070005
+	},
+	
+	{
+		"itemCode" : 10070006
+	},
+	
+	{
+		"itemCode" : 10070007
+	},
+	
+	{
+		"itemCode" : 10070098
+	},
+	
+	{
+		"itemCode" : 10070099
+	},
+	
+	{
+		"itemCode" : 10074001
+	},
+	
+	{
+		"itemCode" : 10074002
+	},
+	
+	{
+		"itemCode" : 10074003
+	},
+	
+	{
+		"itemCode" : 10074004
+	},
+	
+	{
+		"itemCode" : 10074005
+	},
+	
+	{
+		"itemCode" : 10074006
+	},
+	
+	{
+		"itemCode" : 10074007
+	},
+	
+	{
+		"itemCode" : 10074008
+	},
+	
+	{
+		"itemCode" : 10074009
+	},
+	
+	{
+		"itemCode" : 10074010
+	},
+	
+	{
+		"itemCode" : 10074101
+	},
+	
+	{
+		"itemCode" : 10074102
+	},
+	
+	{
+		"itemCode" : 10074103
+	},
+	
+	{
+		"itemCode" : 10074104
+	},
+	
+	{
+		"itemCode" : 10074105
+	},
+	
+	{
+		"itemCode" : 10074106
+	},
+	
+	{
+		"itemCode" : 10074107
+	},
+	
+	{
+		"itemCode" : 10074108
+	},
+	
+	{
+		"itemCode" : 10074109
+	},
+	
+	{
+		"itemCode" : 10074110
+	},
+	
+	{
+		"itemCode" : 10074201
+	},
+	
+	{
+		"itemCode" : 10074202
+	},
+	
+	{
+		"itemCode" : 10074203
+	},
+	
+	{
+		"itemCode" : 10074204
+	},
+	
+	{
+		"itemCode" : 10074205
+	},
+	
+	{
+		"itemCode" : 10074206
+	},
+	
+	{
+		"itemCode" : 10074207
+	},
+	
+	{
+		"itemCode" : 10074208
+	},
+	
+	{
+		"itemCode" : 10074209
+	},
+	
+	{
+		"itemCode" : 10074210
+	},
+	
+	{
+		"itemCode" : 10075001
+	},
+	
+	{
+		"itemCode" : 10075002
+	},
+	
+	{
+		"itemCode" : 10075003
+	},
+	
+	{
+		"itemCode" : 10075004
+	},
+	
+	{
+		"itemCode" : 10075005
+	},
+	
+	{
+		"itemCode" : 10075006
+	},
+	
+	{
+		"itemCode" : 10075007
+	},
+	
+	{
+		"itemCode" : 10075008
+	},
+	
+	{
+		"itemCode" : 10075009
+	},
+	
+	{
+		"itemCode" : 10075010
+	},
+	
+	{
+		"itemCode" : 10075101
+	},
+	
+	{
+		"itemCode" : 10075102
+	},
+	
+	{
+		"itemCode" : 10075103
+	},
+	
+	{
+		"itemCode" : 10075104
+	},
+	
+	{
+		"itemCode" : 10075105
+	},
+	
+	{
+		"itemCode" : 10075106
+	},
+	
+	{
+		"itemCode" : 10075107
+	},
+	
+	{
+		"itemCode" : 10075108
+	},
+	
+	{
+		"itemCode" : 10075109
+	},
+	
+	{
+		"itemCode" : 10075110
+	},
+	
+	{
+		"itemCode" : 10075113
+	},
+	
+	{
+		"itemCode" : 10075201
+	},
+	
+	{
+		"itemCode" : 10075202
+	},
+	
+	{
+		"itemCode" : 10075203
+	},
+	
+	{
+		"itemCode" : 10075204
+	},
+	
+	{
+		"itemCode" : 10075205
+	},
+	
+	{
+		"itemCode" : 10075206
+	},
+	
+	{
+		"itemCode" : 10075207
+	},
+	
+	{
+		"itemCode" : 10075208
+	},
+	
+	{
+		"itemCode" : 10075209
+	},
+	
+	{
+		"itemCode" : 10075210
+	},
+	
+	{
+		"itemCode" : 10075213
+	},
+	
+	{
+		"itemCode" : 10075313
+	},
+	
+	{
+		"itemCode" : 10084001
+	},
+	
+	{
+		"itemCode" : 10084002
+	},
+	
+	{
+		"itemCode" : 10084003
+	},
+	
+	{
+		"itemCode" : 10084004
+	},
+	
+	{
+		"itemCode" : 10084005
+	},
+	
+	{
+		"itemCode" : 10084006
+	},
+	
+	{
+		"itemCode" : 10084007
+	},
+	
+	{
+		"itemCode" : 10084008
+	},
+	
+	{
+		"itemCode" : 10084009
+	},
+	
+	{
+		"itemCode" : 10084010
+	},
+	
+	{
+		"itemCode" : 10084101
+	},
+	
+	{
+		"itemCode" : 10084102
+	},
+	
+	{
+		"itemCode" : 10084103
+	},
+	
+	{
+		"itemCode" : 10084104
+	},
+	
+	{
+		"itemCode" : 10084105
+	},
+	
+	{
+		"itemCode" : 10084106
+	},
+	
+	{
+		"itemCode" : 10084107
+	},
+	
+	{
+		"itemCode" : 10084108
+	},
+	
+	{
+		"itemCode" : 10084109
+	},
+	
+	{
+		"itemCode" : 10084110
+	},
+	
+	{
+		"itemCode" : 10084201
+	},
+	
+	{
+		"itemCode" : 10084202
+	},
+	
+	{
+		"itemCode" : 10084203
+	},
+	
+	{
+		"itemCode" : 10084204
+	},
+	
+	{
+		"itemCode" : 10084205
+	},
+	
+	{
+		"itemCode" : 10084206
+	},
+	
+	{
+		"itemCode" : 10084207
+	},
+	
+	{
+		"itemCode" : 10084208
+	},
+	
+	{
+		"itemCode" : 10084209
+	},
+	
+	{
+		"itemCode" : 10084210
+	},
+	
+	{
+		"itemCode" : 10085001
+	},
+	
+	{
+		"itemCode" : 10085002
+	},
+	
+	{
+		"itemCode" : 10085003
+	},
+	
+	{
+		"itemCode" : 10085004
+	},
+	
+	{
+		"itemCode" : 10085005
+	},
+	
+	{
+		"itemCode" : 10085006
+	},
+	
+	{
+		"itemCode" : 10085007
+	},
+	
+	{
+		"itemCode" : 10085008
+	},
+	
+	{
+		"itemCode" : 10085009
+	},
+	
+	{
+		"itemCode" : 10085010
+	},
+	
+	{
+		"itemCode" : 10085101
+	},
+	
+	{
+		"itemCode" : 10085102
+	},
+	
+	{
+		"itemCode" : 10085103
+	},
+	
+	{
+		"itemCode" : 10085104
+	},
+	
+	{
+		"itemCode" : 10085105
+	},
+	
+	{
+		"itemCode" : 10085106
+	},
+	
+	{
+		"itemCode" : 10085107
+	},
+	
+	{
+		"itemCode" : 10085108
+	},
+	
+	{
+		"itemCode" : 10085109
+	},
+	
+	{
+		"itemCode" : 10085110
+	},
+	
+	{
+		"itemCode" : 10085201
+	},
+	
+	{
+		"itemCode" : 10085202
+	},
+	
+	{
+		"itemCode" : 10085203
+	},
+	
+	{
+		"itemCode" : 10085204
+	},
+	
+	{
+		"itemCode" : 10085205
+	},
+	
+	{
+		"itemCode" : 10085206
+	},
+	
+	{
+		"itemCode" : 10085207
+	},
+	
+	{
+		"itemCode" : 10085208
+	},
+	
+	{
+		"itemCode" : 10085209
+	},
+	
+	{
+		"itemCode" : 10085210
+	},
+	
+	{
+		"itemCode" : 10094001
+	},
+	
+	{
+		"itemCode" : 10094002
+	},
+	
+	{
+		"itemCode" : 10094003
+	},
+	
+	{
+		"itemCode" : 10094004
+	},
+	
+	{
+		"itemCode" : 10094005
+	},
+	
+	{
+		"itemCode" : 10094006
+	},
+	
+	{
+		"itemCode" : 10094007
+	},
+	
+	{
+		"itemCode" : 10094008
+	},
+	
+	{
+		"itemCode" : 10094009
+	},
+	
+	{
+		"itemCode" : 10094010
+	},
+	
+	{
+		"itemCode" : 10094101
+	},
+	
+	{
+		"itemCode" : 10094102
+	},
+	
+	{
+		"itemCode" : 10094103
+	},
+	
+	{
+		"itemCode" : 10094104
+	},
+	
+	{
+		"itemCode" : 10094105
+	},
+	
+	{
+		"itemCode" : 10094106
+	},
+	
+	{
+		"itemCode" : 10094107
+	},
+	
+	{
+		"itemCode" : 10094108
+	},
+	
+	{
+		"itemCode" : 10094109
+	},
+	
+	{
+		"itemCode" : 10094110
+	},
+	
+	{
+		"itemCode" : 10094201
+	},
+	
+	{
+		"itemCode" : 10094202
+	},
+	
+	{
+		"itemCode" : 10094203
+	},
+	
+	{
+		"itemCode" : 10094204
+	},
+	
+	{
+		"itemCode" : 10094205
+	},
+	
+	{
+		"itemCode" : 10094206
+	},
+	
+	{
+		"itemCode" : 10094207
+	},
+	
+	{
+		"itemCode" : 10094208
+	},
+	
+	{
+		"itemCode" : 10094209
+	},
+	
+	{
+		"itemCode" : 10094210
+	},
+	
+	{
+		"itemCode" : 10095001
+	},
+	
+	{
+		"itemCode" : 10095002
+	},
+	
+	{
+		"itemCode" : 10095003
+	},
+	
+	{
+		"itemCode" : 10095004
+	},
+	
+	{
+		"itemCode" : 10095005
+	},
+	
+	{
+		"itemCode" : 10095006
+	},
+	
+	{
+		"itemCode" : 10095007
+	},
+	
+	{
+		"itemCode" : 10095008
+	},
+	
+	{
+		"itemCode" : 10095009
+	},
+	
+	{
+		"itemCode" : 10095010
+	},
+	
+	{
+		"itemCode" : 10095101
+	},
+	
+	{
+		"itemCode" : 10095102
+	},
+	
+	{
+		"itemCode" : 10095103
+	},
+	
+	{
+		"itemCode" : 10095104
+	},
+	
+	{
+		"itemCode" : 10095105
+	},
+	
+	{
+		"itemCode" : 10095106
+	},
+	
+	{
+		"itemCode" : 10095107
+	},
+	
+	{
+		"itemCode" : 10095108
+	},
+	
+	{
+		"itemCode" : 10095109
+	},
+	
+	{
+		"itemCode" : 10095110
+	},
+	
+	{
+		"itemCode" : 10095201
+	},
+	
+	{
+		"itemCode" : 10095202
+	},
+	
+	{
+		"itemCode" : 10095203
+	},
+	
+	{
+		"itemCode" : 10095204
+	},
+	
+	{
+		"itemCode" : 10095205
+	},
+	
+	{
+		"itemCode" : 10095206
+	},
+	
+	{
+		"itemCode" : 10095207
+	},
+	
+	{
+		"itemCode" : 10095208
+	},
+	
+	{
+		"itemCode" : 10095209
+	},
+	
+	{
+		"itemCode" : 10095210
+	},
+	
+	{
+		"itemCode" : 10104001
+	},
+	
+	{
+		"itemCode" : 10104002
+	},
+	
+	{
+		"itemCode" : 10104003
+	},
+	
+	{
+		"itemCode" : 10104004
+	},
+	
+	{
+		"itemCode" : 10104005
+	},
+	
+	{
+		"itemCode" : 10104006
+	},
+	
+	{
+		"itemCode" : 10104007
+	},
+	
+	{
+		"itemCode" : 10104008
+	},
+	
+	{
+		"itemCode" : 10104009
+	},
+	
+	{
+		"itemCode" : 10104010
+	},
+	
+	{
+		"itemCode" : 10104101
+	},
+	
+	{
+		"itemCode" : 10104102
+	},
+	
+	{
+		"itemCode" : 10104103
+	},
+	
+	{
+		"itemCode" : 10104104
+	},
+	
+	{
+		"itemCode" : 10104105
+	},
+	
+	{
+		"itemCode" : 10104106
+	},
+	
+	{
+		"itemCode" : 10104107
+	},
+	
+	{
+		"itemCode" : 10104108
+	},
+	
+	{
+		"itemCode" : 10104109
+	},
+	
+	{
+		"itemCode" : 10104110
+	},
+	
+	{
+		"itemCode" : 10104201
+	},
+	
+	{
+		"itemCode" : 10104202
+	},
+	
+	{
+		"itemCode" : 10104203
+	},
+	
+	{
+		"itemCode" : 10104204
+	},
+	
+	{
+		"itemCode" : 10104205
+	},
+	
+	{
+		"itemCode" : 10104206
+	},
+	
+	{
+		"itemCode" : 10104207
+	},
+	
+	{
+		"itemCode" : 10104208
+	},
+	
+	{
+		"itemCode" : 10104209
+	},
+	
+	{
+		"itemCode" : 10104210
+	},
+	
+	{
+		"itemCode" : 10105001
+	},
+	
+	{
+		"itemCode" : 10105002
+	},
+	
+	{
+		"itemCode" : 10105003
+	},
+	
+	{
+		"itemCode" : 10105004
+	},
+	
+	{
+		"itemCode" : 10105005
+	},
+	
+	{
+		"itemCode" : 10105006
+	},
+	
+	{
+		"itemCode" : 10105007
+	},
+	
+	{
+		"itemCode" : 10105008
+	},
+	
+	{
+		"itemCode" : 10105009
+	},
+	
+	{
+		"itemCode" : 10105010
+	},
+	
+	{
+		"itemCode" : 10105101
+	},
+	
+	{
+		"itemCode" : 10105102
+	},
+	
+	{
+		"itemCode" : 10105103
+	},
+	
+	{
+		"itemCode" : 10105104
+	},
+	
+	{
+		"itemCode" : 10105105
+	},
+	
+	{
+		"itemCode" : 10105106
+	},
+	
+	{
+		"itemCode" : 10105107
+	},
+	
+	{
+		"itemCode" : 10105108
+	},
+	
+	{
+		"itemCode" : 10105109
+	},
+	
+	{
+		"itemCode" : 10105110
+	},
+	
+	{
+		"itemCode" : 10105201
+	},
+	
+	{
+		"itemCode" : 10105202
+	},
+	
+	{
+		"itemCode" : 10105203
+	},
+	
+	{
+		"itemCode" : 10105204
+	},
+	
+	{
+		"itemCode" : 10105205
+	},
+	
+	{
+		"itemCode" : 10105206
+	},
+	
+	{
+		"itemCode" : 10105207
+	},
+	
+	{
+		"itemCode" : 10105208
+	},
+	
+	{
+		"itemCode" : 10105209
+	},
+	
+	{
+		"itemCode" : 10105210
+	},
+	
+	{
+		"itemCode" : 11015001
+	},
+	
+	{
+		"itemCode" : 11015002
+	},
+	
+	{
+		"itemCode" : 11015005
+	},
+	
+	{
+		"itemCode" : 11015101
+	},
+	
+	{
+		"itemCode" : 11015102
+	},
+	
+	{
+		"itemCode" : 11015103
+	},
+	
+	{
+		"itemCode" : 11015104
+	},
+	
+	{
+		"itemCode" : 11015105
+	},
+	
+	{
+		"itemCode" : 11015115
+	},
+	
+	{
+		"itemCode" : 11015201
+	},
+	
+	{
+		"itemCode" : 11015202
+	},
+	
+	{
+		"itemCode" : 11015203
+	},
+	
+	{
+		"itemCode" : 11015204
+	},
+	
+	{
+		"itemCode" : 11015205
+	},
+	
+	{
+		"itemCode" : 11015215
+	},
+	
+	{
+		"itemCode" : 11015303
+	},
+	
+	{
+		"itemCode" : 11015304
+	},
+	
+	{
+		"itemCode" : 11015315
+	},
+	
+	{
+		"itemCode" : 11023003
+	},
+	
+	{
+		"itemCode" : 11025005
+	},
+	
+	{
+		"itemCode" : 11053003
+	},
+	
+	{
+		"itemCode" : 11053005
+	},
+	
+	{
+		"itemCode" : 11065001
+	},
+	
+	{
+		"itemCode" : 11065002
+	},
+	
+	{
+		"itemCode" : 11065101
+	},
+	
+	{
+		"itemCode" : 11065102
+	},
+	
+	{
+		"itemCode" : 11065201
+	},
+	
+	{
+		"itemCode" : 11065202
+	},
+	
+	{
+		"itemCode" : 11075001
+	},
+	
+	{
+		"itemCode" : 11075002
+	},
+	
+	{
+		"itemCode" : 11075005
+	},
+	
+	{
+		"itemCode" : 11075006
+	},
+	
+	{
+		"itemCode" : 11075007
+	},
+	
+	{
+		"itemCode" : 11075101
+	},
+	
+	{
+		"itemCode" : 11075102
+	},
+	
+	{
+		"itemCode" : 11075105
+	},
+	
+	{
+		"itemCode" : 11075106
+	},
+	
+	{
+		"itemCode" : 11075107
+	},
+	
+	{
+		"itemCode" : 11075115
+	},
+	
+	{
+		"itemCode" : 11075201
+	},
+	
+	{
+		"itemCode" : 11075202
+	},
+	
+	{
+		"itemCode" : 11075205
+	},
+	
+	{
+		"itemCode" : 11075206
+	},
+	
+	{
+		"itemCode" : 11075207
+	},
+	
+	{
+		"itemCode" : 11075215
+	},
+	
+	{
+		"itemCode" : 11075315
+	},
+	
+	{
+		"itemCode" : 11085001
+	},
+	
+	{
+		"itemCode" : 11085002
+	},
+	
+	{
+		"itemCode" : 11085101
+	},
+	
+	{
+		"itemCode" : 11085102
+	},
+	
+	{
+		"itemCode" : 11085201
+	},
+	
+	{
+		"itemCode" : 11085202
+	},
+	
+	{
+		"itemCode" : 11095001
+	},
+	
+	{
+		"itemCode" : 11095002
+	},
+	
+	{
+		"itemCode" : 11095005
+	},
+	
+	{
+		"itemCode" : 11095101
+	},
+	
+	{
+		"itemCode" : 11095102
+	},
+	
+	{
+		"itemCode" : 11095105
+	},
+	
+	{
+		"itemCode" : 11095201
+	},
+	
+	{
+		"itemCode" : 11095202
+	},
+	
+	{
+		"itemCode" : 11095205
+	},
+	
+	{
+		"itemCode" : 11100001
+	},
+	
+	{
+		"itemCode" : 11100002
+	},
+	
+	{
+		"itemCode" : 11100003
+	},
+	
+	{
+		"itemCode" : 11104003
+	},
+	
+	{
+		"itemCode" : 11104103
+	},
+	
+	{
+		"itemCode" : 11104203
+	},
+	
+	{
+		"itemCode" : 11105001
+	},
+	
+	{
+		"itemCode" : 11105002
+	},
+	
+	{
+		"itemCode" : 11105101
+	},
+	
+	{
+		"itemCode" : 11105102
+	},
+	
+	{
+		"itemCode" : 11105201
+	},
+	
+	{
+		"itemCode" : 11105202
+	},
+	
+	{
+		"itemCode" : 40030021
+	},
+	
+	{
+		"itemCode" : 40030022
+	},
+	
+	{
+		"itemCode" : 40241002
+	},
+	
+	{
+		"itemCode" : 40241003
+	},
+	
+	{
+		"itemCode" : 40241004
+	},
+	
+	{
+		"itemCode" : 40241005
+	},
+	
+	{
+		"itemCode" : 40241101
+	},
+	
+	{
+		"itemCode" : 40241106
+	},
+	
+	{
+		"itemCode" : 40241107
+	},
+	
+	{
+		"itemCode" : 40241108
+	},
+	
+	{
+		"itemCode" : 40241109
+	},
+	
+	{
+		"itemCode" : 40241110
+	},
+	
+	{
+		"itemCode" : 40241201
+	},
+	
+	{
+		"itemCode" : 40241206
+	},
+	
+	{
+		"itemCode" : 40241207
+	},
+	
+	{
+		"itemCode" : 40241208
+	},
+	
+	{
+		"itemCode" : 40241209
+	},
+	
+	{
+		"itemCode" : 40241210
+	},
+	
+	{
+		"itemCode" : 40242001
+	},
+	
+	{
+		"itemCode" : 40242002
+	},
+	
+	{
+		"itemCode" : 40242003
+	},
+	
+	{
+		"itemCode" : 40242004
+	},
+	
+	{
+		"itemCode" : 40242005
+	},
+	
+	{
+		"itemCode" : 40242006
+	},
+	
+	{
+		"itemCode" : 40242007
+	},
+	
+	{
+		"itemCode" : 40242008
+	},
+	
+	{
+		"itemCode" : 40242009
+	},
+	
+	{
+		"itemCode" : 40242010
+	},
+	
+	{
+		"itemCode" : 40243001
+	},
+	
+	{
+		"itemCode" : 40244001
+	},
+	
+	{
+		"itemCode" : 40270001
+	},
+	
+	{
+		"itemCode" : 40310034
+	},
+	
+	{
+		"itemCode" : 40310035
+	},
+	
+	{
+		"itemCode" : 40430003
+	},
+	
+	{
+		"itemCode" : 41960001
+	},
+	
+	{
+		"itemCode" : 41960002
+	},
+	
+	{
+		"itemCode" : 41960003
+	},
+	
+	{
+		"itemCode" : 41960004
+	},
+	
+	{
+		"itemCode" : 41960005
+	},
+	
+	{
+		"itemCode" : 41960006
+	},
+	
+	{
+		"itemCode" : 41960007
+	},
+	
+	{
+		"itemCode" : 41960008
+	},
+	
+	{
+		"itemCode" : 41960051
+	},
+	
+	{
+		"itemCode" : 41960052
+	},
+	
+	{
+		"itemCode" : 41960053
+	},
+	
+	{
+		"itemCode" : 41992000
+	},
+	
+	{
+		"itemCode" : 41992001
+	},
+	
+	{
+		"itemCode" : 41993000
+	},
+	
+	{
+		"itemCode" : 41993001
+	},
+	
+	{
+		"itemCode" : 42000001
+	},
+	
+	{
+		"itemCode" : 42010001
+	},
+	
+	{
+		"itemCode" : 42030001
+	},
+	
+	{
+		"itemCode" : 42030002
+	},
+	
+	{
+		"itemCode" : 42030003
+	},
+	
+	{
+		"itemCode" : 42030004
+	},
+	
+	{
+		"itemCode" : 42170001
+	},
+	
+	{
+		"itemCode" : 42200001
+	},
+	
+	{
+		"itemCode" : 42200002
+	},
+	
+	{
+		"itemCode" : 42200003
+	},
+	
+	{
+		"itemCode" : 42230001
+	},
+	
+	{
+		"itemCode" : 42230002
+	},
+	
+	{
+		"itemCode" : 42230003
+	},
+	
+	{
+		"itemCode" : 51110004
+	},
+	
+	{
+		"itemCode" : 51110005
+	},
+	
+	{
+		"itemCode" : 51110006
+	},
+	
+	{
+		"itemCode" : 51110007
+	},
+	
+	{
+		"itemCode" : 51110008
+	},
+	
+	{
+		"itemCode" : 51110009
+	},
+	
+	{
+		"itemCode" : 51110014
+	},
+	
+	{
+		"itemCode" : 51110015
+	},
+	
+	{
+		"itemCode" : 51110016
+	},
+	
+	{
+		"itemCode" : 51110017
+	},
+	
+	{
+		"itemCode" : 51110018
+	},
+	
+	{
+		"itemCode" : 51110019
+	},
+	
+	{
+		"itemCode" : 51120004
+	},
+	
+	{
+		"itemCode" : 51120005
+	},
+	
+	{
+		"itemCode" : 51120006
+	},
+	
+	{
+		"itemCode" : 51120007
+	},
+	
+	{
+		"itemCode" : 51120008
+	},
+	
+	{
+		"itemCode" : 51120009
+	},
+	
+	{
+		"itemCode" : 51120014
+	},
+	
+	{
+		"itemCode" : 51120015
+	},
+	
+	{
+		"itemCode" : 51120016
+	},
+	
+	{
+		"itemCode" : 51120017
+	},
+	
+	{
+		"itemCode" : 51120018
+	},
+	
+	{
+		"itemCode" : 51120019
+	},
+	
+	{
+		"itemCode" : 60010002
+	},
+	
+	{
+		"itemCode" : 60020001
+	},
+	
+	{
+		"itemCode" : 60020002
+	},
+	
+	{
+		"itemCode" : 60020003
+	},
+	
+	{
+		"itemCode" : 60020011
+	},
+	
+	{
+		"itemCode" : 60020012
+	},
+	
+	{
+		"itemCode" : 60020013
+	},
+	
+	{
+		"itemCode" : 60030001
+	},
+	
+	{
+		"itemCode" : 60030002
+	},
+	
+	{
+		"itemCode" : 60030003
+	},
+	
+	{
+		"itemCode" : 60030004
+	},
+	
+	{
+		"itemCode" : 60030005
+	},
+	
+	{
+		"itemCode" : 60030006
+	},
+	
+	{
+		"itemCode" : 60030007
+	},
+	
+	{
+		"itemCode" : 60030008
+	},
+	
+	{
+		"itemCode" : 60030009
+	},
+	
+	{
+		"itemCode" : 60030010
+	},
+	
+	{
+		"itemCode" : 60030011
+	},
+	
+	{
+		"itemCode" : 60030012
+	},
+	
+	{
+		"itemCode" : 60030013
+	},
+	
+	{
+		"itemCode" : 60030014
+	},
+	
+	{
+		"itemCode" : 60030015
+	},
+	
+	{
+		"itemCode" : 60030016
+	},
+	
+	{
+		"itemCode" : 60030017
+	},
+	
+	{
+		"itemCode" : 60030018
+	},
+	
+	{
+		"itemCode" : 60030019
+	},
+	
+	{
+		"itemCode" : 60030020
+	},
+	
+	{
+		"itemCode" : 60030021
+	},
+	
+	{
+		"itemCode" : 60040038
+	},
+	
+	{
+		"itemCode" : 60040039
+	},
+	
+	{
+		"itemCode" : 60040040
+	},
+	
+	{
+		"itemCode" : 60040041
+	},
+	
+	{
+		"itemCode" : 60040042
+	},
+	
+	{
+		"itemCode" : 60040043
+	},
+	
+	{
+		"itemCode" : 60040044
+	},
+	
+	{
+		"itemCode" : 60040045
+	},
+	
+	{
+		"itemCode" : 60040046
+	},
+	
+	{
+		"itemCode" : 60040047
+	},
+	
+	{
+		"itemCode" : 60040048
+	},
+	
+	{
+		"itemCode" : 60040049
+	},
+	
+	{
+		"itemCode" : 60040050
+	},
+	
+	{
+		"itemCode" : 60040051
+	},
+	
+	{
+		"itemCode" : 60040052
+	},
+	
+	{
+		"itemCode" : 60040053
+	},
+	
+	{
+		"itemCode" : 60040054
+	},
+	
+	{
+		"itemCode" : 60040055
+	},
+	
+	{
+		"itemCode" : 60040056
+	},
+	
+	{
+		"itemCode" : 60040057
+	},
+	
+	{
+		"itemCode" : 60040058
+	},
+	
+	{
+		"itemCode" : 60060001
+	},
+	
+	{
+		"itemCode" : 60060002
+	},
+	
+	{
+		"itemCode" : 60060003
+	},
+	
+	{
+		"itemCode" : 60060004
+	},
+	
+	{
+		"itemCode" : 60060005
+	},
+	
+	{
+		"itemCode" : 60060006
+	},
+	
+	{
+		"itemCode" : 60060007
+	},
+	
+	{
+		"itemCode" : 60060012
+	},
+	
+	{
+		"itemCode" : 60060015
+	},
+	
+	{
+		"itemCode" : 60060018
+	},
+	
+	{
+		"itemCode" : 60060021
+	},
+	
+	{
+		"itemCode" : 60060024
+	},
+	
+	{
+		"itemCode" : 60060027
+	},
+	
+	{
+		"itemCode" : 60071001
+	},
+	
+	{
+		"itemCode" : 60071002
+	},
+	
+	{
+		"itemCode" : 60071003
+	},
+	
+	{
+		"itemCode" : 60072001
+	},
+	
+	{
+		"itemCode" : 60072002
+	},
+	
+	{
+		"itemCode" : 60072003
+	},
+	
+	{
+		"itemCode" : 60073001
+	},
+	
+	{
+		"itemCode" : 60073002
+	},
+	
+	{
+		"itemCode" : 60073003
+	},
+	
+	{
+		"itemCode" : 60073101
+	},
+	
+	{
+		"itemCode" : 60073102
+	},
+	
+	{
+		"itemCode" : 60073103
+	},
+	
+	{
+		"itemCode" : 60074001
+	},
+	
+	{
+		"itemCode" : 60074002
+	},
+	
+	{
+		"itemCode" : 60074003
+	},
+	
+	{
+		"itemCode" : 60074004
+	},
+	
+	{
+		"itemCode" : 60074005
+	},
+	
+	{
+		"itemCode" : 60074101
+	},
+	
+	{
+		"itemCode" : 60074102
+	},
+	
+	{
+		"itemCode" : 60074103
+	},
+	
+	{
+		"itemCode" : 60074104
+	},
+	
+	{
+		"itemCode" : 60076001
+	},
+	
+	{
+		"itemCode" : 60076002
+	},
+	
+	{
+		"itemCode" : 60076003
+	},
+	
+	{
+		"itemCode" : 60076004
+	},
+	
+	{
+		"itemCode" : 60076005
+	},
+	
+	{
+		"itemCode" : 60076101
+	},
+	
+	{
+		"itemCode" : 60076102
+	},
+	
+	{
+		"itemCode" : 60076103
+	},
+	
+	{
+		"itemCode" : 60076104
+	},
+	
+	{
+		"itemCode" : 60110002
+	},
+	
+	{
+		"itemCode" : 60110003
+	},
+	
+	{
+		"itemCode" : 60110004
+	},
+	
+	{
+		"itemCode" : 60120002
+	},
+	
+	{
+		"itemCode" : 60120003
+	},
+	
+	{
+		"itemCode" : 60120004
+	},
+	
+	{
+		"itemCode" : 60132001
+	},
+	
+	{
+		"itemCode" : 60132002
+	},
+	
+	{
+		"itemCode" : 60132003
+	},
+	
+	{
+		"itemCode" : 60133001
+	},
+	
+	{
+		"itemCode" : 60133002
+	},
+	
+	{
+		"itemCode" : 60133003
+	},
+	
+	{
+		"itemCode" : 60134001
+	},
+	
+	{
+		"itemCode" : 60134002
+	},
+	
+	{
+		"itemCode" : 60134003
+	},
+	
+	{
+		"itemCode" : 80000014
+	},
+	
+	{
+		"itemCode" : 80000015
+	},
+	
+	{
+		"itemCode" : 80000024
+	},
+	
+	{
+		"itemCode" : 80000025
+	},
+	
+	{
+		"itemCode" : 80000034
+	},
+	
+	{
+		"itemCode" : 80000035
+	},
+	
+	{
+		"itemCode" : 80000044
+	},
+	
+	{
+		"itemCode" : 80000045
+	},
+	
+	{
+		"itemCode" : 80000054
+	},
+	
+	{
+		"itemCode" : 80000055
+	},
+	
+	{
+		"itemCode" : 80000064
+	},
+	
+	{
+		"itemCode" : 80000065
+	},
+	
+	{
+		"itemCode" : 80000074
+	},
+	
+	{
+		"itemCode" : 80000075
+	},
+	
+	{
+		"itemCode" : 80000084
+	},
+	
+	{
+		"itemCode" : 80000085
+	},
+	
+	{
+		"itemCode" : 80000094
+	},
+	
+	{
+		"itemCode" : 80000095
+	},
+	
+	{
+		"itemCode" : 80000104
+	},
+	
+	{
+		"itemCode" : 80000105
+	},
+	
+	{
+		"itemCode" : 80000114
+	},
+	
+	{
+		"itemCode" : 80000115
+	},
+	
+	{
+		"itemCode" : 80000124
+	},
+	
+	{
+		"itemCode" : 80000125
+	},
+	
+	{
+		"itemCode" : 80000134
+	},
+	
+	{
+		"itemCode" : 80000135
+	},
+	
+	{
+		"itemCode" : 80000144
+	},
+	
+	{
+		"itemCode" : 80000145
+	},
+	
+	{
+		"itemCode" : 80000154
+	},
+	
+	{
+		"itemCode" : 80000155
+	},
+	
+	{
+		"itemCode" : 80000164
+	},
+	
+	{
+		"itemCode" : 80000165
+	},
+	
+	{
+		"itemCode" : 110013001
+	},
+	
+	{
+		"itemCode" : 110014001
+	},
+	
+	{
+		"itemCode" : 110015001
+	},
+	
+	{
+		"itemCode" : 110023001
+	},
+	
+	{
+		"itemCode" : 110024001
+	},
+	
+	{
+		"itemCode" : 110025001
+	},
+	
+	{
+		"itemCode" : 110033001
+	},
+	
+	{
+		"itemCode" : 110034001
+	},
+	
+	{
+		"itemCode" : 110035001
+	},
+	
+	{
+		"itemCode" : 110043001
+	},
+	
+	{
+		"itemCode" : 110044001
+	},
+	
+	{
+		"itemCode" : 110045001
+	},
+	
+	{
+		"itemCode" : 110053001
+	},
+	
+	{
+		"itemCode" : 110054001
+	},
+	
+	{
+		"itemCode" : 110055001
+	}
+]

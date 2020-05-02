@@ -1,0 +1,75 @@
+
+[
+	
+	{
+		"floor" : 1,
+		"killNum" : 2,
+		"map" : 910101,
+		"mapCross" : 910110,
+		"rewards" : "3,30041211,2#"
+	},
+	
+	{
+		"floor" : 2,
+		"killNum" : 3,
+		"map" : 910102,
+		"mapCross" : 910111,
+		"rewards" : "3,30041211,3#"
+	},
+	
+	{
+		"floor" : 3,
+		"killNum" : 4,
+		"map" : 910103,
+		"mapCross" : 910112,
+		"rewards" : "3,30041211,4#"
+	},
+	
+	{
+		"floor" : 4,
+		"killNum" : 5,
+		"map" : 910104,
+		"mapCross" : 910113,
+		"rewards" : "3,30041211,6#"
+	},
+	
+	{
+		"floor" : 5,
+		"killNum" : 7,
+		"map" : 910105,
+		"mapCross" : 910114,
+		"rewards" : "3,30041211,9#"
+	},
+	
+	{
+		"floor" : 6,
+		"killNum" : 9,
+		"map" : 910106,
+		"mapCross" : 910115,
+		"rewards" : "3,30041211,12#"
+	},
+	
+	{
+		"floor" : 7,
+		"killNum" : 11,
+		"map" : 910107,
+		"mapCross" : 910116,
+		"rewards" : "3,30041211,16#"
+	},
+	
+	{
+		"floor" : 8,
+		"killNum" : 13,
+		"map" : 910108,
+		"mapCross" : 910117,
+		"rewards" : "3,30041211,20#"
+	},
+	
+	{
+		"floor" : 9,
+		"killNum" : 15,
+		"map" : 910109,
+		"mapCross" : 910118,
+		"rewards" : "3,30041211,30#"
+	}
+]

@@ -1,0 +1,1143 @@
+
+[
+	
+	{
+		"change" : 1003,
+		"costAmount" : 1,
+		"costItem" : 34100001,
+		"level" : 1,
+		"shape" : 5,
+		"skillId" : 156001,
+		"skillIndex" : 1003
+	},
+	
+	{
+		"change" : 1003,
+		"costAmount" : 1,
+		"costItem" : 34100001,
+		"level" : 2,
+		"shape" : 5,
+		"skillId" : 156002,
+		"skillIndex" : 1003
+	},
+	
+	{
+		"change" : 1003,
+		"costAmount" : 1,
+		"costItem" : 34100001,
+		"level" : 3,
+		"shape" : 5,
+		"skillId" : 156003,
+		"skillIndex" : 1003
+	},
+	
+	{
+		"change" : 1003,
+		"costAmount" : 1,
+		"costItem" : 34100001,
+		"level" : 4,
+		"shape" : 5,
+		"skillId" : 156004,
+		"skillIndex" : 1003
+	},
+	
+	{
+		"change" : 1003,
+		"costAmount" : 1,
+		"costItem" : 34100001,
+		"level" : 5,
+		"shape" : 5,
+		"skillId" : 156005,
+		"skillIndex" : 1003
+	},
+	
+	{
+		"change" : 1003,
+		"costAmount" : 1,
+		"costItem" : 34100001,
+		"level" : 6,
+		"shape" : 5,
+		"skillId" : 156006,
+		"skillIndex" : 1003
+	},
+	
+	{
+		"change" : 1004,
+		"costAmount" : 1,
+		"costItem" : 34100002,
+		"level" : 1,
+		"shape" : 5,
+		"skillId" : 157001,
+		"skillIndex" : 1004
+	},
+	
+	{
+		"change" : 1004,
+		"costAmount" : 1,
+		"costItem" : 34100002,
+		"level" : 2,
+		"shape" : 5,
+		"skillId" : 157002,
+		"skillIndex" : 1004
+	},
+	
+	{
+		"change" : 1004,
+		"costAmount" : 1,
+		"costItem" : 34100002,
+		"level" : 3,
+		"shape" : 5,
+		"skillId" : 157003,
+		"skillIndex" : 1004
+	},
+	
+	{
+		"change" : 1004,
+		"costAmount" : 1,
+		"costItem" : 34100002,
+		"level" : 4,
+		"shape" : 5,
+		"skillId" : 157004,
+		"skillIndex" : 1004
+	},
+	
+	{
+		"change" : 1004,
+		"costAmount" : 1,
+		"costItem" : 34100002,
+		"level" : 5,
+		"shape" : 5,
+		"skillId" : 157005,
+		"skillIndex" : 1004
+	},
+	
+	{
+		"change" : 1004,
+		"costAmount" : 1,
+		"costItem" : 34100002,
+		"level" : 6,
+		"shape" : 5,
+		"skillId" : 157006,
+		"skillIndex" : 1004
+	},
+	
+	{
+		"change" : 1020,
+		"costAmount" : 1,
+		"costItem" : 42580120,
+		"level" : 1,
+		"shape" : 1,
+		"skillId" : 400101,
+		"skillIndex" : 1102
+	},
+	
+	{
+		"change" : 1020,
+		"costAmount" : 2,
+		"costItem" : 42580120,
+		"level" : 2,
+		"shape" : 1,
+		"skillId" : 400102,
+		"skillIndex" : 1102
+	},
+	
+	{
+		"change" : 1020,
+		"costAmount" : 3,
+		"costItem" : 42580120,
+		"level" : 3,
+		"shape" : 1,
+		"skillId" : 400103,
+		"skillIndex" : 1102
+	},
+	
+	{
+		"change" : 1020,
+		"costAmount" : 4,
+		"costItem" : 42580120,
+		"level" : 4,
+		"shape" : 1,
+		"skillId" : 400104,
+		"skillIndex" : 1102
+	},
+	
+	{
+		"change" : 1020,
+		"costAmount" : 5,
+		"costItem" : 42580120,
+		"level" : 5,
+		"shape" : 1,
+		"skillId" : 400105,
+		"skillIndex" : 1102
+	},
+	
+	{
+		"change" : 1020,
+		"costAmount" : 1,
+		"costItem" : 42580120,
+		"level" : 6,
+		"shape" : 1,
+		"skillId" : 400106,
+		"skillIndex" : 1102
+	},
+	
+	{
+		"change" : 1030,
+		"costAmount" : 1,
+		"costItem" : 42580130,
+		"level" : 1,
+		"shape" : 1,
+		"skillId" : 400201,
+		"skillIndex" : 1103
+	},
+	
+	{
+		"change" : 1030,
+		"costAmount" : 2,
+		"costItem" : 42580130,
+		"level" : 2,
+		"shape" : 1,
+		"skillId" : 400202,
+		"skillIndex" : 1103
+	},
+	
+	{
+		"change" : 1030,
+		"costAmount" : 3,
+		"costItem" : 42580130,
+		"level" : 3,
+		"shape" : 1,
+		"skillId" : 400203,
+		"skillIndex" : 1103
+	},
+	
+	{
+		"change" : 1030,
+		"costAmount" : 4,
+		"costItem" : 42580130,
+		"level" : 4,
+		"shape" : 1,
+		"skillId" : 400204,
+		"skillIndex" : 1103
+	},
+	
+	{
+		"change" : 1030,
+		"costAmount" : 5,
+		"costItem" : 42580130,
+		"level" : 5,
+		"shape" : 1,
+		"skillId" : 400205,
+		"skillIndex" : 1103
+	},
+	
+	{
+		"change" : 1030,
+		"costAmount" : 1,
+		"costItem" : 42580130,
+		"level" : 6,
+		"shape" : 1,
+		"skillId" : 400206,
+		"skillIndex" : 1103
+	},
+	
+	{
+		"change" : 2100,
+		"costAmount" : 1,
+		"costItem" : 42220010,
+		"level" : 1,
+		"shape" : 2,
+		"skillId" : 141301,
+		"skillIndex" : 2100
+	},
+	
+	{
+		"change" : 2100,
+		"costAmount" : 2,
+		"costItem" : 42220010,
+		"level" : 2,
+		"shape" : 2,
+		"skillId" : 141302,
+		"skillIndex" : 2100
+	},
+	
+	{
+		"change" : 2100,
+		"costAmount" : 3,
+		"costItem" : 42220010,
+		"level" : 3,
+		"shape" : 2,
+		"skillId" : 141303,
+		"skillIndex" : 2100
+	},
+	
+	{
+		"change" : 2100,
+		"costAmount" : 4,
+		"costItem" : 42220010,
+		"level" : 4,
+		"shape" : 2,
+		"skillId" : 141304,
+		"skillIndex" : 2100
+	},
+	
+	{
+		"change" : 2100,
+		"costAmount" : 5,
+		"costItem" : 42220010,
+		"level" : 5,
+		"shape" : 2,
+		"skillId" : 141305,
+		"skillIndex" : 2100
+	},
+	
+	{
+		"change" : 2100,
+		"costAmount" : 1,
+		"costItem" : 42220010,
+		"level" : 6,
+		"shape" : 2,
+		"skillId" : 141306,
+		"skillIndex" : 2100
+	},
+	
+	{
+		"change" : 2101,
+		"costAmount" : 1,
+		"costItem" : 42220020,
+		"level" : 1,
+		"shape" : 2,
+		"skillId" : 141201,
+		"skillIndex" : 2101
+	},
+	
+	{
+		"change" : 2101,
+		"costAmount" : 2,
+		"costItem" : 42220020,
+		"level" : 2,
+		"shape" : 2,
+		"skillId" : 141202,
+		"skillIndex" : 2101
+	},
+	
+	{
+		"change" : 2101,
+		"costAmount" : 3,
+		"costItem" : 42220020,
+		"level" : 3,
+		"shape" : 2,
+		"skillId" : 141203,
+		"skillIndex" : 2101
+	},
+	
+	{
+		"change" : 2101,
+		"costAmount" : 4,
+		"costItem" : 42220020,
+		"level" : 4,
+		"shape" : 2,
+		"skillId" : 141204,
+		"skillIndex" : 2101
+	},
+	
+	{
+		"change" : 2101,
+		"costAmount" : 5,
+		"costItem" : 42220020,
+		"level" : 5,
+		"shape" : 2,
+		"skillId" : 141205,
+		"skillIndex" : 2101
+	},
+	
+	{
+		"change" : 2101,
+		"costAmount" : 1,
+		"costItem" : 42220020,
+		"level" : 6,
+		"shape" : 2,
+		"skillId" : 141206,
+		"skillIndex" : 2101
+	},
+	
+	{
+		"change" : 2103,
+		"costAmount" : 1,
+		"costItem" : 42220060,
+		"level" : 1,
+		"shape" : 2,
+		"skillId" : 141401,
+		"skillIndex" : 2103
+	},
+	
+	{
+		"change" : 2103,
+		"costAmount" : 2,
+		"costItem" : 42220060,
+		"level" : 2,
+		"shape" : 2,
+		"skillId" : 141402,
+		"skillIndex" : 2103
+	},
+	
+	{
+		"change" : 2103,
+		"costAmount" : 3,
+		"costItem" : 42220060,
+		"level" : 3,
+		"shape" : 2,
+		"skillId" : 141403,
+		"skillIndex" : 2103
+	},
+	
+	{
+		"change" : 2103,
+		"costAmount" : 4,
+		"costItem" : 42220060,
+		"level" : 4,
+		"shape" : 2,
+		"skillId" : 141404,
+		"skillIndex" : 2103
+	},
+	
+	{
+		"change" : 2103,
+		"costAmount" : 5,
+		"costItem" : 42220060,
+		"level" : 5,
+		"shape" : 2,
+		"skillId" : 141405,
+		"skillIndex" : 2103
+	},
+	
+	{
+		"change" : 2103,
+		"costAmount" : 1,
+		"costItem" : 42220060,
+		"level" : 6,
+		"shape" : 2,
+		"skillId" : 141406,
+		"skillIndex" : 2103
+	},
+	
+	{
+		"change" : 1003,
+		"costAmount" : 1,
+		"costItem" : 34100001,
+		"level" : 1,
+		"shape" : 5,
+		"skillId" : 156001,
+		"skillIndex" : 3001
+	},
+	
+	{
+		"change" : 1003,
+		"costAmount" : 1,
+		"costItem" : 34100001,
+		"level" : 2,
+		"shape" : 5,
+		"skillId" : 156002,
+		"skillIndex" : 3001
+	},
+	
+	{
+		"change" : 1003,
+		"costAmount" : 1,
+		"costItem" : 34100001,
+		"level" : 3,
+		"shape" : 5,
+		"skillId" : 156003,
+		"skillIndex" : 3001
+	},
+	
+	{
+		"change" : 1003,
+		"costAmount" : 1,
+		"costItem" : 34100001,
+		"level" : 4,
+		"shape" : 5,
+		"skillId" : 156004,
+		"skillIndex" : 3001
+	},
+	
+	{
+		"change" : 1003,
+		"costAmount" : 1,
+		"costItem" : 34100001,
+		"level" : 5,
+		"shape" : 5,
+		"skillId" : 156005,
+		"skillIndex" : 3001
+	},
+	
+	{
+		"change" : 1003,
+		"costAmount" : 1,
+		"costItem" : 34100001,
+		"level" : 6,
+		"shape" : 5,
+		"skillId" : 156006,
+		"skillIndex" : 3001
+	},
+	
+	{
+		"change" : 1004,
+		"costAmount" : 1,
+		"costItem" : 34100002,
+		"level" : 1,
+		"shape" : 5,
+		"skillId" : 157001,
+		"skillIndex" : 3002
+	},
+	
+	{
+		"change" : 1004,
+		"costAmount" : 1,
+		"costItem" : 34100002,
+		"level" : 2,
+		"shape" : 5,
+		"skillId" : 157002,
+		"skillIndex" : 3002
+	},
+	
+	{
+		"change" : 1004,
+		"costAmount" : 1,
+		"costItem" : 34100002,
+		"level" : 3,
+		"shape" : 5,
+		"skillId" : 157003,
+		"skillIndex" : 3002
+	},
+	
+	{
+		"change" : 1004,
+		"costAmount" : 1,
+		"costItem" : 34100002,
+		"level" : 4,
+		"shape" : 5,
+		"skillId" : 157004,
+		"skillIndex" : 3002
+	},
+	
+	{
+		"change" : 1004,
+		"costAmount" : 1,
+		"costItem" : 34100002,
+		"level" : 5,
+		"shape" : 5,
+		"skillId" : 157005,
+		"skillIndex" : 3002
+	},
+	
+	{
+		"change" : 1004,
+		"costAmount" : 1,
+		"costItem" : 34100002,
+		"level" : 6,
+		"shape" : 5,
+		"skillId" : 157006,
+		"skillIndex" : 3002
+	},
+	
+	{
+		"change" : 6003,
+		"costAmount" : 1,
+		"costItem" : 42580010,
+		"level" : 1,
+		"shape" : 6,
+		"skillId" : 131001,
+		"skillIndex" : 6003
+	},
+	
+	{
+		"change" : 6003,
+		"costAmount" : 2,
+		"costItem" : 42580010,
+		"level" : 2,
+		"shape" : 6,
+		"skillId" : 131002,
+		"skillIndex" : 6003
+	},
+	
+	{
+		"change" : 6003,
+		"costAmount" : 3,
+		"costItem" : 42580010,
+		"level" : 3,
+		"shape" : 6,
+		"skillId" : 131003,
+		"skillIndex" : 6003
+	},
+	
+	{
+		"change" : 6003,
+		"costAmount" : 4,
+		"costItem" : 42580010,
+		"level" : 4,
+		"shape" : 6,
+		"skillId" : 131004,
+		"skillIndex" : 6003
+	},
+	
+	{
+		"change" : 6003,
+		"costAmount" : 5,
+		"costItem" : 42580010,
+		"level" : 5,
+		"shape" : 6,
+		"skillId" : 131005,
+		"skillIndex" : 6003
+	},
+	
+	{
+		"change" : 6003,
+		"costAmount" : 6,
+		"costItem" : 42580010,
+		"level" : 6,
+		"shape" : 6,
+		"skillId" : 131006,
+		"skillIndex" : 6003
+	},
+	
+	{
+		"change" : 6004,
+		"costAmount" : 1,
+		"costItem" : 42580020,
+		"level" : 1,
+		"shape" : 6,
+		"skillId" : 131101,
+		"skillIndex" : 6004
+	},
+	
+	{
+		"change" : 6004,
+		"costAmount" : 2,
+		"costItem" : 42580020,
+		"level" : 2,
+		"shape" : 6,
+		"skillId" : 131102,
+		"skillIndex" : 6004
+	},
+	
+	{
+		"change" : 6004,
+		"costAmount" : 3,
+		"costItem" : 42580020,
+		"level" : 3,
+		"shape" : 6,
+		"skillId" : 131103,
+		"skillIndex" : 6004
+	},
+	
+	{
+		"change" : 6004,
+		"costAmount" : 4,
+		"costItem" : 42580020,
+		"level" : 4,
+		"shape" : 6,
+		"skillId" : 131104,
+		"skillIndex" : 6004
+	},
+	
+	{
+		"change" : 6004,
+		"costAmount" : 5,
+		"costItem" : 42580020,
+		"level" : 5,
+		"shape" : 6,
+		"skillId" : 131105,
+		"skillIndex" : 6004
+	},
+	
+	{
+		"change" : 6004,
+		"costAmount" : 6,
+		"costItem" : 42580020,
+		"level" : 6,
+		"shape" : 6,
+		"skillId" : 131106,
+		"skillIndex" : 6004
+	},
+	
+	{
+		"change" : 6005,
+		"costAmount" : 1,
+		"costItem" : 42580030,
+		"level" : 1,
+		"shape" : 6,
+		"skillId" : 131201,
+		"skillIndex" : 6005
+	},
+	
+	{
+		"change" : 6005,
+		"costAmount" : 2,
+		"costItem" : 42580030,
+		"level" : 2,
+		"shape" : 6,
+		"skillId" : 131202,
+		"skillIndex" : 6005
+	},
+	
+	{
+		"change" : 6005,
+		"costAmount" : 3,
+		"costItem" : 42580030,
+		"level" : 3,
+		"shape" : 6,
+		"skillId" : 131203,
+		"skillIndex" : 6005
+	},
+	
+	{
+		"change" : 6005,
+		"costAmount" : 4,
+		"costItem" : 42580030,
+		"level" : 4,
+		"shape" : 6,
+		"skillId" : 131204,
+		"skillIndex" : 6005
+	},
+	
+	{
+		"change" : 6005,
+		"costAmount" : 5,
+		"costItem" : 42580030,
+		"level" : 5,
+		"shape" : 6,
+		"skillId" : 131205,
+		"skillIndex" : 6005
+	},
+	
+	{
+		"change" : 6005,
+		"costAmount" : 6,
+		"costItem" : 42580030,
+		"level" : 6,
+		"shape" : 6,
+		"skillId" : 131206,
+		"skillIndex" : 6005
+	},
+	
+	{
+		"change" : 6006,
+		"costAmount" : 1,
+		"costItem" : 42580040,
+		"level" : 1,
+		"shape" : 6,
+		"skillId" : 131301,
+		"skillIndex" : 6006
+	},
+	
+	{
+		"change" : 6006,
+		"costAmount" : 2,
+		"costItem" : 42580040,
+		"level" : 2,
+		"shape" : 6,
+		"skillId" : 131302,
+		"skillIndex" : 6006
+	},
+	
+	{
+		"change" : 6006,
+		"costAmount" : 3,
+		"costItem" : 42580040,
+		"level" : 3,
+		"shape" : 6,
+		"skillId" : 131303,
+		"skillIndex" : 6006
+	},
+	
+	{
+		"change" : 6006,
+		"costAmount" : 4,
+		"costItem" : 42580040,
+		"level" : 4,
+		"shape" : 6,
+		"skillId" : 131304,
+		"skillIndex" : 6006
+	},
+	
+	{
+		"change" : 6006,
+		"costAmount" : 5,
+		"costItem" : 42580040,
+		"level" : 5,
+		"shape" : 6,
+		"skillId" : 131305,
+		"skillIndex" : 6006
+	},
+	
+	{
+		"change" : 6006,
+		"costAmount" : 6,
+		"costItem" : 42580040,
+		"level" : 6,
+		"shape" : 6,
+		"skillId" : 131306,
+		"skillIndex" : 6006
+	},
+	
+	{
+		"change" : 6007,
+		"costAmount" : 1,
+		"costItem" : 42580050,
+		"level" : 1,
+		"shape" : 6,
+		"skillId" : 131401,
+		"skillIndex" : 6007
+	},
+	
+	{
+		"change" : 6007,
+		"costAmount" : 2,
+		"costItem" : 42580050,
+		"level" : 2,
+		"shape" : 6,
+		"skillId" : 131402,
+		"skillIndex" : 6007
+	},
+	
+	{
+		"change" : 6007,
+		"costAmount" : 3,
+		"costItem" : 42580050,
+		"level" : 3,
+		"shape" : 6,
+		"skillId" : 131403,
+		"skillIndex" : 6007
+	},
+	
+	{
+		"change" : 6007,
+		"costAmount" : 4,
+		"costItem" : 42580050,
+		"level" : 4,
+		"shape" : 6,
+		"skillId" : 131404,
+		"skillIndex" : 6007
+	},
+	
+	{
+		"change" : 6007,
+		"costAmount" : 5,
+		"costItem" : 42580050,
+		"level" : 5,
+		"shape" : 6,
+		"skillId" : 131405,
+		"skillIndex" : 6007
+	},
+	
+	{
+		"change" : 6007,
+		"costAmount" : 6,
+		"costItem" : 42580050,
+		"level" : 6,
+		"shape" : 6,
+		"skillId" : 131406,
+		"skillIndex" : 6007
+	},
+	
+	{
+		"change" : 9002,
+		"costAmount" : 1,
+		"costItem" : 35100001,
+		"level" : 1,
+		"shape" : 9,
+		"skillId" : 161001,
+		"skillIndex" : 9002
+	},
+	
+	{
+		"change" : 9002,
+		"costAmount" : 1,
+		"costItem" : 35100001,
+		"level" : 2,
+		"shape" : 9,
+		"skillId" : 161002,
+		"skillIndex" : 9002
+	},
+	
+	{
+		"change" : 9002,
+		"costAmount" : 1,
+		"costItem" : 35100001,
+		"level" : 3,
+		"shape" : 9,
+		"skillId" : 161003,
+		"skillIndex" : 9002
+	},
+	
+	{
+		"change" : 9002,
+		"costAmount" : 1,
+		"costItem" : 35100001,
+		"level" : 4,
+		"shape" : 9,
+		"skillId" : 161004,
+		"skillIndex" : 9002
+	},
+	
+	{
+		"change" : 9002,
+		"costAmount" : 1,
+		"costItem" : 35100001,
+		"level" : 5,
+		"shape" : 9,
+		"skillId" : 161005,
+		"skillIndex" : 9002
+	},
+	
+	{
+		"change" : 9002,
+		"costAmount" : 1,
+		"costItem" : 35100001,
+		"level" : 6,
+		"shape" : 9,
+		"skillId" : 161006,
+		"skillIndex" : 9002
+	},
+	
+	{
+		"change" : 9003,
+		"costAmount" : 1,
+		"costItem" : 35100002,
+		"level" : 1,
+		"shape" : 9,
+		"skillId" : 162001,
+		"skillIndex" : 9003
+	},
+	
+	{
+		"change" : 9003,
+		"costAmount" : 1,
+		"costItem" : 35100002,
+		"level" : 2,
+		"shape" : 9,
+		"skillId" : 162002,
+		"skillIndex" : 9003
+	},
+	
+	{
+		"change" : 9003,
+		"costAmount" : 1,
+		"costItem" : 35100002,
+		"level" : 3,
+		"shape" : 9,
+		"skillId" : 162003,
+		"skillIndex" : 9003
+	},
+	
+	{
+		"change" : 9003,
+		"costAmount" : 1,
+		"costItem" : 35100002,
+		"level" : 4,
+		"shape" : 9,
+		"skillId" : 162004,
+		"skillIndex" : 9003
+	},
+	
+	{
+		"change" : 9003,
+		"costAmount" : 1,
+		"costItem" : 35100002,
+		"level" : 5,
+		"shape" : 9,
+		"skillId" : 162005,
+		"skillIndex" : 9003
+	},
+	
+	{
+		"change" : 9003,
+		"costAmount" : 1,
+		"costItem" : 35100002,
+		"level" : 6,
+		"shape" : 9,
+		"skillId" : 162006,
+		"skillIndex" : 9003
+	},
+	
+	{
+		"change" : 10002,
+		"costAmount" : 1,
+		"costItem" : 36100001,
+		"level" : 1,
+		"shape" : 10,
+		"skillId" : 171001,
+		"skillIndex" : 10002
+	},
+	
+	{
+		"change" : 10002,
+		"costAmount" : 1,
+		"costItem" : 36100001,
+		"level" : 2,
+		"shape" : 10,
+		"skillId" : 171002,
+		"skillIndex" : 10002
+	},
+	
+	{
+		"change" : 10002,
+		"costAmount" : 1,
+		"costItem" : 36100001,
+		"level" : 3,
+		"shape" : 10,
+		"skillId" : 171003,
+		"skillIndex" : 10002
+	},
+	
+	{
+		"change" : 10002,
+		"costAmount" : 1,
+		"costItem" : 36100001,
+		"level" : 4,
+		"shape" : 10,
+		"skillId" : 171004,
+		"skillIndex" : 10002
+	},
+	
+	{
+		"change" : 10002,
+		"costAmount" : 1,
+		"costItem" : 36100001,
+		"level" : 5,
+		"shape" : 10,
+		"skillId" : 171005,
+		"skillIndex" : 10002
+	},
+	
+	{
+		"change" : 10002,
+		"costAmount" : 1,
+		"costItem" : 36100001,
+		"level" : 6,
+		"shape" : 10,
+		"skillId" : 171006,
+		"skillIndex" : 10002
+	},
+	
+	{
+		"change" : 10003,
+		"costAmount" : 1,
+		"costItem" : 36100002,
+		"level" : 1,
+		"shape" : 10,
+		"skillId" : 172001,
+		"skillIndex" : 10003
+	},
+	
+	{
+		"change" : 10003,
+		"costAmount" : 1,
+		"costItem" : 36100002,
+		"level" : 2,
+		"shape" : 10,
+		"skillId" : 172002,
+		"skillIndex" : 10003
+	},
+	
+	{
+		"change" : 10003,
+		"costAmount" : 1,
+		"costItem" : 36100002,
+		"level" : 3,
+		"shape" : 10,
+		"skillId" : 172003,
+		"skillIndex" : 10003
+	},
+	
+	{
+		"change" : 10003,
+		"costAmount" : 1,
+		"costItem" : 36100002,
+		"level" : 4,
+		"shape" : 10,
+		"skillId" : 172004,
+		"skillIndex" : 10003
+	},
+	
+	{
+		"change" : 10003,
+		"costAmount" : 1,
+		"costItem" : 36100002,
+		"level" : 5,
+		"shape" : 10,
+		"skillId" : 172005,
+		"skillIndex" : 10003
+	},
+	
+	{
+		"change" : 10003,
+		"costAmount" : 1,
+		"costItem" : 36100002,
+		"level" : 6,
+		"shape" : 10,
+		"skillId" : 172006,
+		"skillIndex" : 10003
+	},
+	
+	{
+		"change" : 1003002,
+		"costAmount" : 1,
+		"costItem" : 37100002,
+		"level" : 1,
+		"shape" : 4,
+		"skillId" : 112001,
+		"skillIndex" : 1003002
+	},
+	
+	{
+		"change" : 1003002,
+		"costAmount" : 2,
+		"costItem" : 37100002,
+		"level" : 2,
+		"shape" : 4,
+		"skillId" : 112002,
+		"skillIndex" : 1003002
+	},
+	
+	{
+		"change" : 1003002,
+		"costAmount" : 3,
+		"costItem" : 37100002,
+		"level" : 3,
+		"shape" : 4,
+		"skillId" : 112003,
+		"skillIndex" : 1003002
+	},
+	
+	{
+		"change" : 1003002,
+		"costAmount" : 4,
+		"costItem" : 37100002,
+		"level" : 4,
+		"shape" : 4,
+		"skillId" : 112004,
+		"skillIndex" : 1003002
+	},
+	
+	{
+		"change" : 1003002,
+		"costAmount" : 5,
+		"costItem" : 37100002,
+		"level" : 5,
+		"shape" : 4,
+		"skillId" : 112005,
+		"skillIndex" : 1003002
+	},
+	
+	{
+		"change" : 1003002,
+		"costAmount" : 6,
+		"costItem" : 37100002,
+		"level" : 6,
+		"shape" : 4,
+		"skillId" : 112006,
+		"skillIndex" : 1003002
+	}
+]

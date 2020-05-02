@@ -1,0 +1,64 @@
+
+[
+	
+	{
+		"condition" : 1,
+		"id" : 1,
+		"score" : 1,
+		"type" : 1
+	},
+	
+	{
+		"condition" : 3,
+		"id" : 2,
+		"score" : 2,
+		"type" : 1
+	},
+	
+	{
+		"condition" : 5,
+		"id" : 3,
+		"score" : 3,
+		"type" : 1
+	},
+	
+	{
+		"condition" : 10,
+		"id" : 4,
+		"score" : 5,
+		"type" : 1
+	},
+	
+	{
+		"condition" : 3,
+		"id" : 5,
+		"score" : 1,
+		"type" : 2
+	},
+	
+	{
+		"condition" : 5,
+		"id" : 6,
+		"score" : 2,
+		"type" : 2
+	},
+	
+	{
+		"condition" : 10,
+		"id" : 7,
+		"score" : 3,
+		"type" : 2
+	},
+	
+	{
+		"id" : 8,
+		"score" : 5,
+		"type" : 3
+	},
+	
+	{
+		"id" : 9,
+		"score" : 5,
+		"type" : 4
+	}
+]

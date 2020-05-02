@@ -1,0 +1,33 @@
+
+[
+	
+	{
+		"idx" : 1,
+		"needExp" : 30,
+		"rewardStr" : "3,40270006,1#"
+	},
+	
+	{
+		"idx" : 2,
+		"needExp" : 60,
+		"rewardStr" : "3,40270005,1#"
+	},
+	
+	{
+		"idx" : 3,
+		"needExp" : 90,
+		"rewardStr" : "3,60040030,5#"
+	},
+	
+	{
+		"idx" : 4,
+		"needExp" : 120,
+		"rewardStr" : "3,40270005,1#"
+	},
+	
+	{
+		"idx" : 5,
+		"needExp" : 150,
+		"rewardStr" : "3,40270005,1#"
+	}
+]

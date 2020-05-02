@@ -1,0 +1,70 @@
+
+[
+	
+	{
+		"activeName" : "世界BOSS",
+		"activeType" : 5030,
+		"desc" : "1.活动时间：<font color='#0df14b'>每天19:30</font><br>2.参与活动有概率获得<font color='#0df14b'>神装橙装</font><br>3.最后一击可获得<font color='#0df14b'>专业补刀</font>称号",
+		"openDesc" : "每天19:30开启",
+		"openDt" : "19:30-19:40",
+		"openKey" : "TimeLimitBoss",
+		"rewards" : "3,40110219,1#3,40110220,1#3,40890167,1",
+		"status" : 1
+	},
+	
+	{
+		"activeName" : "激战五洲",
+		"activeType" : 5032,
+		"desc" : "1.活动时间：<font color='#0df14b'>每周一、三、五20:00-20:15</font><br>2.参与活动即可获得<font color='#0df14b'>神剑碎片</font>奖励<br>3.进入活动后玩家随机分配成<font color='#0df14b'>两个对立的阵营</font>，每5分钟重新分配阵营<br>4.击败玩家、助攻、杀怪、持续参与活动都可以获得积分，个人积分越高，奖励越丰厚<br>5.活动结束后根据玩家综合表现发放排名奖励<br><font color='#fea700'>PS：在活动中待得越久，获得的奖励越多</font>",
+		"openDesc" : "每周一、三、五20:00开启",
+		"openDt" : "20:00-20:15",
+		"rewards" : "3,36000000,1#3,12300102,1#3,41240001,1#",
+		"status" : 1
+	},
+	
+	{
+		"activeName" : "科举答题",
+		"activeType" : 5038,
+		"openDesc" : "每天12:00开启",
+		"openDt" : "12:00-12:10",
+		"rewards" : "3,60150010,1#3,41240001,1#",
+		"status" : 1
+	},
+	
+	{
+		"activeName" : "青云之巅",
+		"activeType" : 5007,
+		"desc" : "1.青云之巅共<font color='#0df14b'>9层</font>，挑战层数越高，获得奖励越丰盛<br>2.击败<font color='#0df14b'>1名玩家</font>，战胜点数<font color='#0df14b'>+2点</font>；击败<font color='#0df14b'>怪物</font>，战胜点数<font color='#0df14b'>+1点</font><br>3.获得足够的战胜点数可挑战下一层<br>4.击杀完成9层目标即可通关",
+		"openDesc" : "周二、四、日20:00开启",
+		"openDt" : "20:00-20:30",
+		"rewards" : "3,36000000,1#3,41950001,1#3,41240001,1#",
+		"status" : 1
+	},
+	
+	{
+		"activeName" : "守护仙盟",
+		"activeType" : 5015,
+		"desc" : "1.活动时间：<font color='#0df14b'>每周一、三、五20:30-21:00</font><br>2.加入仙盟的玩家可参与活动，活动结束前请不要<font color='#0df14b'>退出场景</font>，以免损失奖励<br>3.每击杀一只怪物，场景内所有玩家均可获得<font color='#0df14b'>经验</font><br>4.击杀怪物越多，评分越高，经验奖励也越高<br>5.守护<font color='#0df14b'>仙盟神女</font>不被打破直到活动结束则算胜利，场景中会刷出大量宝箱",
+		"openDesc" : "周一、三、五20:30开启",
+		"openDt" : "20:30-21:00",
+		"rewards" : "3,40110254,1#3,41950001,1#3,41240001,1#",
+		"status" : 1
+	},
+	
+	{
+		"activeName" : "阵地争夺",
+		"activeType" : 5031,
+		"desc" : "1.活动时间：<font color='#0df14b'>每周二、四、日20:00-20:15</font><br>2.进入场景的玩家每10秒可获得一次<font color='#0df14b'>经验</font><br>3.场景有<font color='#0df14b'>多倍</font>经验区域，抢占后可获得多倍收益<br>4.最高可获得<font color='#0df14b'>5倍</font>收益<br>5.活动结束时根据玩家获得的经验总和排名，排名前10的玩家可获得大量<font color='#0df14b'>战阵精石</font>奖励<br><font color='#fea700'>PS：在活动中待得越久，获得的经验越多</font>",
+		"openDesc" : "每周二、四、日20:00开启",
+		"openDt" : "20:00-20:15",
+		"openKey" : "ExpPositionOccupy",
+		"rewards" : "3,41950001,1#3,35000000,1#"
+	},
+	
+	{
+		"activeName" : "仙盟争霸",
+		"activeType" : 5033,
+		"openDesc" : "每周六20:00开启",
+		"openDt" : "20:00-20:20"
+	}
+]

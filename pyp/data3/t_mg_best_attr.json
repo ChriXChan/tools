@@ -1,0 +1,3133 @@
+
+[
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 31,
+		"attrValue" : 1003,
+		"desc" : "每3级攻击 +1",
+		"equipColor" : 3,
+		"equipType" : 1,
+		"factor" : 1000,
+		"id" : 130310003,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 33,
+		"attrValue" : 1003,
+		"desc" : "每3级破甲 +1",
+		"equipColor" : 3,
+		"equipType" : 1,
+		"factor" : 1000,
+		"id" : 130330003,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 51,
+		"attrValue" : 240,
+		"desc" : "攻击 +2.4%",
+		"equipColor" : 3,
+		"equipType" : 1,
+		"factor" : 3456,
+		"id" : 130510200,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 53,
+		"attrValue" : 480,
+		"desc" : "破甲 +4.8%",
+		"equipColor" : 3,
+		"equipType" : 1,
+		"factor" : 3072,
+		"id" : 130530400,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 71,
+		"attrValue" : 180,
+		"desc" : "伤害 +1.8%",
+		"equipColor" : 3,
+		"equipType" : 1,
+		"factor" : 3840,
+		"id" : 130710150,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 300,
+		"desc" : "铜钱掉落 +3%",
+		"equipColor" : 3,
+		"equipType" : 1,
+		"id" : 130800300,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 31,
+		"attrValue" : 1003,
+		"desc" : "每3级攻击 +1",
+		"equipColor" : 4,
+		"equipType" : 1,
+		"factor" : 700,
+		"id" : 140310002,
+		"rate" : 3000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 33,
+		"attrValue" : 1003,
+		"desc" : "每3级破甲 +1",
+		"equipColor" : 4,
+		"equipType" : 1,
+		"factor" : 700,
+		"id" : 140330002,
+		"rate" : 3000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 51,
+		"attrValue" : 320,
+		"desc" : "攻击 +3.2%",
+		"equipColor" : 4,
+		"equipType" : 1,
+		"factor" : 4608,
+		"id" : 140510320,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 53,
+		"attrValue" : 640,
+		"desc" : "破甲 +6.4%",
+		"equipColor" : 4,
+		"equipType" : 1,
+		"factor" : 4096,
+		"id" : 140530640,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 71,
+		"attrValue" : 240,
+		"desc" : "伤害 +2.4%",
+		"equipColor" : 4,
+		"equipType" : 1,
+		"factor" : 5120,
+		"id" : 140710240,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 400,
+		"desc" : "铜钱掉落 +4%",
+		"equipColor" : 4,
+		"equipType" : 1,
+		"id" : 140800400,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 31,
+		"attrValue" : 1003,
+		"desc" : "每3级攻击 +1",
+		"equipColor" : 5,
+		"equipType" : 1,
+		"factor" : 500,
+		"id" : 150310001,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 33,
+		"attrValue" : 1003,
+		"desc" : "每3级破甲 +1",
+		"equipColor" : 5,
+		"equipType" : 1,
+		"factor" : 500,
+		"id" : 150330001,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 51,
+		"attrValue" : 400,
+		"desc" : "攻击 +4%",
+		"equipColor" : 5,
+		"equipType" : 1,
+		"factor" : 5760,
+		"id" : 150510400,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 53,
+		"attrValue" : 800,
+		"desc" : "破甲 +8%",
+		"equipColor" : 5,
+		"equipType" : 1,
+		"factor" : 5120,
+		"id" : 150530800,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 71,
+		"attrValue" : 300,
+		"desc" : "伤害 +3%",
+		"equipColor" : 5,
+		"equipType" : 1,
+		"factor" : 6400,
+		"id" : 150710300,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 500,
+		"desc" : "铜钱掉落 +5%",
+		"equipColor" : 5,
+		"equipType" : 1,
+		"id" : 150800500,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 51,
+		"attrValue" : 400,
+		"desc" : "攻击 +4%",
+		"equipColor" : 6,
+		"equipType" : 1,
+		"factor" : 5760,
+		"id" : 160510400,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 53,
+		"attrValue" : 800,
+		"desc" : "破甲 +8%",
+		"equipColor" : 6,
+		"equipType" : 1,
+		"factor" : 5120,
+		"id" : 160530800,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 71,
+		"attrValue" : 300,
+		"desc" : "伤害 +3%",
+		"equipColor" : 6,
+		"equipType" : 1,
+		"factor" : 6400,
+		"id" : 160710300,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 85,
+		"attrValue" : 1200,
+		"desc" : "会心率 +12%",
+		"equipColor" : 6,
+		"equipType" : 1,
+		"factor" : 7680,
+		"id" : 160851200,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 85,
+		"attrValue" : 1400,
+		"desc" : "会心率 +14%",
+		"equipColor" : 6,
+		"equipType" : 1,
+		"factor" : 8960,
+		"id" : 160851400,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 85,
+		"attrValue" : 1600,
+		"desc" : "会心率 +16%",
+		"equipColor" : 6,
+		"equipType" : 1,
+		"factor" : 10240,
+		"id" : 160851600,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 85,
+		"attrValue" : 1800,
+		"desc" : "会心率 +18%",
+		"equipColor" : 6,
+		"equipType" : 1,
+		"factor" : 11520,
+		"id" : 160851800,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 31,
+		"attrValue" : 1003,
+		"desc" : "每3级攻击 +1",
+		"equipColor" : 3,
+		"equipType" : 2,
+		"factor" : 1000,
+		"id" : 230310003,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 33,
+		"attrValue" : 1003,
+		"desc" : "每3级破甲 +1",
+		"equipColor" : 3,
+		"equipType" : 2,
+		"factor" : 1000,
+		"id" : 230330003,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 51,
+		"attrValue" : 240,
+		"desc" : "攻击 +2.4%",
+		"equipColor" : 3,
+		"equipType" : 2,
+		"factor" : 3456,
+		"id" : 230510200,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 53,
+		"attrValue" : 480,
+		"desc" : "破甲 +4.8%",
+		"equipColor" : 3,
+		"equipType" : 2,
+		"factor" : 3072,
+		"id" : 230530400,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 71,
+		"attrValue" : 180,
+		"desc" : "伤害 +1.8%",
+		"equipColor" : 3,
+		"equipType" : 2,
+		"factor" : 3840,
+		"id" : 230710150,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 300,
+		"desc" : "铜钱掉落 +3%",
+		"equipColor" : 3,
+		"equipType" : 2,
+		"id" : 230800300,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 31,
+		"attrValue" : 1003,
+		"desc" : "每3级攻击 +1",
+		"equipColor" : 4,
+		"equipType" : 2,
+		"factor" : 700,
+		"id" : 240310002,
+		"rate" : 3000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 33,
+		"attrValue" : 1003,
+		"desc" : "每3级破甲 +1",
+		"equipColor" : 4,
+		"equipType" : 2,
+		"factor" : 700,
+		"id" : 240330002,
+		"rate" : 3000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 51,
+		"attrValue" : 320,
+		"desc" : "攻击 +3.2%",
+		"equipColor" : 4,
+		"equipType" : 2,
+		"factor" : 4608,
+		"id" : 240510320,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 53,
+		"attrValue" : 640,
+		"desc" : "破甲 +6.4%",
+		"equipColor" : 4,
+		"equipType" : 2,
+		"factor" : 4096,
+		"id" : 240530640,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 71,
+		"attrValue" : 240,
+		"desc" : "伤害 +2.4%",
+		"equipColor" : 4,
+		"equipType" : 2,
+		"factor" : 5120,
+		"id" : 240710240,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 400,
+		"desc" : "铜钱掉落 +4%",
+		"equipColor" : 4,
+		"equipType" : 2,
+		"id" : 240800400,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 31,
+		"attrValue" : 1003,
+		"desc" : "每3级攻击 +1",
+		"equipColor" : 5,
+		"equipType" : 2,
+		"factor" : 500,
+		"id" : 250310001,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 33,
+		"attrValue" : 1003,
+		"desc" : "每3级破甲 +1",
+		"equipColor" : 5,
+		"equipType" : 2,
+		"factor" : 500,
+		"id" : 250330001,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 51,
+		"attrValue" : 400,
+		"desc" : "攻击 +4%",
+		"equipColor" : 5,
+		"equipType" : 2,
+		"factor" : 5760,
+		"id" : 250510400,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 53,
+		"attrValue" : 800,
+		"desc" : "破甲 +8%",
+		"equipColor" : 5,
+		"equipType" : 2,
+		"factor" : 5120,
+		"id" : 250530800,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 71,
+		"attrValue" : 300,
+		"desc" : "伤害 +3%",
+		"equipColor" : 5,
+		"equipType" : 2,
+		"factor" : 6400,
+		"id" : 250710300,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 500,
+		"desc" : "铜钱掉落 +5%",
+		"equipColor" : 5,
+		"equipType" : 2,
+		"id" : 250800500,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 51,
+		"attrValue" : 400,
+		"desc" : "攻击 +4%",
+		"equipColor" : 6,
+		"equipType" : 2,
+		"factor" : 5760,
+		"id" : 260510400,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 53,
+		"attrValue" : 800,
+		"desc" : "破甲 +8%",
+		"equipColor" : 6,
+		"equipType" : 2,
+		"factor" : 5120,
+		"id" : 260530800,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 71,
+		"attrValue" : 300,
+		"desc" : "伤害 +3%",
+		"equipColor" : 6,
+		"equipType" : 2,
+		"factor" : 6400,
+		"id" : 260710300,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 89,
+		"attrValue" : 1800,
+		"desc" : "技能伤害 +18%",
+		"equipColor" : 6,
+		"equipType" : 2,
+		"factor" : 7680,
+		"id" : 260891800,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 89,
+		"attrValue" : 2100,
+		"desc" : "技能伤害 +21%",
+		"equipColor" : 6,
+		"equipType" : 2,
+		"factor" : 8960,
+		"id" : 260892100,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 89,
+		"attrValue" : 2400,
+		"desc" : "技能伤害 +24%",
+		"equipColor" : 6,
+		"equipType" : 2,
+		"factor" : 10240,
+		"id" : 260892400,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 89,
+		"attrValue" : 2700,
+		"desc" : "技能伤害 +27%",
+		"equipColor" : 6,
+		"equipType" : 2,
+		"factor" : 11520,
+		"id" : 260892700,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 31,
+		"attrValue" : 1003,
+		"desc" : "每3级攻击 +1",
+		"equipColor" : 3,
+		"equipType" : 3,
+		"factor" : 1000,
+		"id" : 330310003,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 33,
+		"attrValue" : 1003,
+		"desc" : "每3级破甲 +1",
+		"equipColor" : 3,
+		"equipType" : 3,
+		"factor" : 1000,
+		"id" : 330330003,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 51,
+		"attrValue" : 240,
+		"desc" : "攻击 +2.4%",
+		"equipColor" : 3,
+		"equipType" : 3,
+		"factor" : 3456,
+		"id" : 330510200,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 53,
+		"attrValue" : 480,
+		"desc" : "破甲 +4.8%",
+		"equipColor" : 3,
+		"equipType" : 3,
+		"factor" : 3072,
+		"id" : 330530400,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 78,
+		"attrValue" : 180,
+		"desc" : "暴击率 +1.8%",
+		"equipColor" : 3,
+		"equipType" : 3,
+		"factor" : 3840,
+		"id" : 330710150,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 300,
+		"desc" : "铜钱掉落 +3%",
+		"equipColor" : 3,
+		"equipType" : 3,
+		"id" : 330800300,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 31,
+		"attrValue" : 1003,
+		"desc" : "每3级攻击 +1",
+		"equipColor" : 4,
+		"equipType" : 3,
+		"factor" : 700,
+		"id" : 340310002,
+		"rate" : 3000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 33,
+		"attrValue" : 1003,
+		"desc" : "每3级破甲 +1",
+		"equipColor" : 4,
+		"equipType" : 3,
+		"factor" : 700,
+		"id" : 340330002,
+		"rate" : 3000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 51,
+		"attrValue" : 320,
+		"desc" : "攻击 +3.2%",
+		"equipColor" : 4,
+		"equipType" : 3,
+		"factor" : 4608,
+		"id" : 340510320,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 53,
+		"attrValue" : 640,
+		"desc" : "破甲 +6.4%",
+		"equipColor" : 4,
+		"equipType" : 3,
+		"factor" : 4096,
+		"id" : 340530640,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 78,
+		"attrValue" : 240,
+		"desc" : "暴击率 +2.4%",
+		"equipColor" : 4,
+		"equipType" : 3,
+		"factor" : 5120,
+		"id" : 340710240,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 400,
+		"desc" : "铜钱掉落 +4%",
+		"equipColor" : 4,
+		"equipType" : 3,
+		"id" : 340800400,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 31,
+		"attrValue" : 1003,
+		"desc" : "每3级攻击 +1",
+		"equipColor" : 5,
+		"equipType" : 3,
+		"factor" : 500,
+		"id" : 350310001,
+		"rate" : 24000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 33,
+		"attrValue" : 1003,
+		"desc" : "每3级破甲 +1",
+		"equipColor" : 5,
+		"equipType" : 3,
+		"factor" : 500,
+		"id" : 350330001,
+		"rate" : 24000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 51,
+		"attrValue" : 400,
+		"desc" : "攻击 +4%",
+		"equipColor" : 5,
+		"equipType" : 3,
+		"factor" : 5760,
+		"id" : 350510400,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 53,
+		"attrValue" : 800,
+		"desc" : "破甲 +8%",
+		"equipColor" : 5,
+		"equipType" : 3,
+		"factor" : 5120,
+		"id" : 350530800,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 78,
+		"attrValue" : 300,
+		"desc" : "暴击率 +3%",
+		"equipColor" : 5,
+		"equipType" : 3,
+		"factor" : 6400,
+		"id" : 350710300,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 500,
+		"desc" : "铜钱掉落 +5%",
+		"equipColor" : 5,
+		"equipType" : 3,
+		"id" : 350800500,
+		"rate" : 48000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 51,
+		"attrValue" : 400,
+		"desc" : "攻击 +4%",
+		"equipColor" : 6,
+		"equipType" : 3,
+		"factor" : 5760,
+		"id" : 360510400,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 53,
+		"attrValue" : 800,
+		"desc" : "破甲 +8%",
+		"equipColor" : 6,
+		"equipType" : 3,
+		"factor" : 5120,
+		"id" : 360530800,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 78,
+		"attrValue" : 300,
+		"desc" : "暴击率 +3%",
+		"equipColor" : 6,
+		"equipType" : 3,
+		"factor" : 6400,
+		"id" : 360710300,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 73,
+		"attrValue" : 1200,
+		"desc" : "暴击伤害 +12%",
+		"equipColor" : 6,
+		"equipType" : 3,
+		"factor" : 7680,
+		"id" : 360731200,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 73,
+		"attrValue" : 1400,
+		"desc" : "暴击伤害 +14%",
+		"equipColor" : 6,
+		"equipType" : 3,
+		"factor" : 8960,
+		"id" : 360731400,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 73,
+		"attrValue" : 1600,
+		"desc" : "暴击伤害 +16%",
+		"equipColor" : 6,
+		"equipType" : 3,
+		"factor" : 10240,
+		"id" : 360731600,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 73,
+		"attrValue" : 1800,
+		"desc" : "暴击伤害 +18%",
+		"equipColor" : 6,
+		"equipType" : 3,
+		"factor" : 11520,
+		"id" : 360731800,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 31,
+		"attrValue" : 1003,
+		"desc" : "每3级攻击 +1",
+		"equipColor" : 3,
+		"equipType" : 4,
+		"factor" : 1000,
+		"id" : 430310003,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 33,
+		"attrValue" : 1003,
+		"desc" : "每3级破甲 +1",
+		"equipColor" : 3,
+		"equipType" : 4,
+		"factor" : 1000,
+		"id" : 430330003,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 51,
+		"attrValue" : 240,
+		"desc" : "攻击 +2.4%",
+		"equipColor" : 3,
+		"equipType" : 4,
+		"factor" : 3456,
+		"id" : 430510200,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 53,
+		"attrValue" : 480,
+		"desc" : "破甲 +4.8%",
+		"equipColor" : 3,
+		"equipType" : 4,
+		"factor" : 3072,
+		"id" : 430530400,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 78,
+		"attrValue" : 180,
+		"desc" : "暴击率 +1.8%",
+		"equipColor" : 3,
+		"equipType" : 4,
+		"factor" : 3840,
+		"id" : 430710150,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 300,
+		"desc" : "铜钱掉落 +3%",
+		"equipColor" : 3,
+		"equipType" : 4,
+		"id" : 430800300,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 31,
+		"attrValue" : 1003,
+		"desc" : "每3级攻击 +1",
+		"equipColor" : 4,
+		"equipType" : 4,
+		"factor" : 700,
+		"id" : 440310002,
+		"rate" : 3000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 33,
+		"attrValue" : 1003,
+		"desc" : "每3级破甲 +1",
+		"equipColor" : 4,
+		"equipType" : 4,
+		"factor" : 700,
+		"id" : 440330002,
+		"rate" : 3000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 51,
+		"attrValue" : 320,
+		"desc" : "攻击 +3.2%",
+		"equipColor" : 4,
+		"equipType" : 4,
+		"factor" : 4608,
+		"id" : 440510320,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 53,
+		"attrValue" : 640,
+		"desc" : "破甲 +6.4%",
+		"equipColor" : 4,
+		"equipType" : 4,
+		"factor" : 4096,
+		"id" : 440530640,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 78,
+		"attrValue" : 240,
+		"desc" : "暴击率 +2.4%",
+		"equipColor" : 4,
+		"equipType" : 4,
+		"factor" : 5120,
+		"id" : 440710240,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 400,
+		"desc" : "铜钱掉落 +4%",
+		"equipColor" : 4,
+		"equipType" : 4,
+		"id" : 440800400,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 31,
+		"attrValue" : 1003,
+		"desc" : "每3级攻击 +1",
+		"equipColor" : 5,
+		"equipType" : 4,
+		"factor" : 500,
+		"id" : 450310001,
+		"rate" : 24000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 33,
+		"attrValue" : 1003,
+		"desc" : "每3级破甲 +1",
+		"equipColor" : 5,
+		"equipType" : 4,
+		"factor" : 500,
+		"id" : 450330001,
+		"rate" : 24000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 51,
+		"attrValue" : 400,
+		"desc" : "攻击 +4%",
+		"equipColor" : 5,
+		"equipType" : 4,
+		"factor" : 5760,
+		"id" : 450510400,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 53,
+		"attrValue" : 800,
+		"desc" : "破甲 +8%",
+		"equipColor" : 5,
+		"equipType" : 4,
+		"factor" : 5120,
+		"id" : 450530800,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 78,
+		"attrValue" : 300,
+		"desc" : "暴击率 +3%",
+		"equipColor" : 5,
+		"equipType" : 4,
+		"factor" : 6400,
+		"id" : 450710300,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 500,
+		"desc" : "铜钱掉落 +5%",
+		"equipColor" : 5,
+		"equipType" : 4,
+		"id" : 450800500,
+		"rate" : 48000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 51,
+		"attrValue" : 400,
+		"desc" : "攻击 +4%",
+		"equipColor" : 6,
+		"equipType" : 4,
+		"factor" : 5760,
+		"id" : 460510400,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 53,
+		"attrValue" : 800,
+		"desc" : "破甲 +8%",
+		"equipColor" : 6,
+		"equipType" : 4,
+		"factor" : 5120,
+		"id" : 460530800,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 78,
+		"attrValue" : 300,
+		"desc" : "暴击率 +3%",
+		"equipColor" : 6,
+		"equipType" : 4,
+		"factor" : 6400,
+		"id" : 460710300,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 73,
+		"attrValue" : 1200,
+		"desc" : "暴击伤害 +12%",
+		"equipColor" : 6,
+		"equipType" : 4,
+		"factor" : 7680,
+		"id" : 460731200,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 73,
+		"attrValue" : 1400,
+		"desc" : "暴击伤害 +14%",
+		"equipColor" : 6,
+		"equipType" : 4,
+		"factor" : 8960,
+		"id" : 460731400,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 73,
+		"attrValue" : 1600,
+		"desc" : "暴击伤害 +16%",
+		"equipColor" : 6,
+		"equipType" : 4,
+		"factor" : 10240,
+		"id" : 460731600,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 73,
+		"attrValue" : 1800,
+		"desc" : "暴击伤害 +18%",
+		"equipColor" : 6,
+		"equipType" : 4,
+		"factor" : 11520,
+		"id" : 460731800,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 31,
+		"attrValue" : 1003,
+		"desc" : "每3级攻击 +1",
+		"equipColor" : 3,
+		"equipType" : 5,
+		"factor" : 1000,
+		"id" : 530310003,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 33,
+		"attrValue" : 1003,
+		"desc" : "每3级破甲 +1",
+		"equipColor" : 3,
+		"equipType" : 5,
+		"factor" : 1000,
+		"id" : 530330003,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 51,
+		"attrValue" : 240,
+		"desc" : "攻击 +2.4%",
+		"equipColor" : 3,
+		"equipType" : 5,
+		"factor" : 3456,
+		"id" : 530510200,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 53,
+		"attrValue" : 480,
+		"desc" : "破甲 +4.8%",
+		"equipColor" : 3,
+		"equipType" : 5,
+		"factor" : 3072,
+		"id" : 530530400,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 78,
+		"attrValue" : 180,
+		"desc" : "暴击率 +1.8%",
+		"equipColor" : 3,
+		"equipType" : 5,
+		"factor" : 3840,
+		"id" : 530710150,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 300,
+		"desc" : "铜钱掉落 +3%",
+		"equipColor" : 3,
+		"equipType" : 5,
+		"id" : 530800300,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 31,
+		"attrValue" : 1003,
+		"desc" : "每3级攻击 +1",
+		"equipColor" : 4,
+		"equipType" : 5,
+		"factor" : 700,
+		"id" : 540310002,
+		"rate" : 3000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 33,
+		"attrValue" : 1003,
+		"desc" : "每3级破甲 +1",
+		"equipColor" : 4,
+		"equipType" : 5,
+		"factor" : 700,
+		"id" : 540330002,
+		"rate" : 3000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 51,
+		"attrValue" : 320,
+		"desc" : "攻击 +3.2%",
+		"equipColor" : 4,
+		"equipType" : 5,
+		"factor" : 4608,
+		"id" : 540510320,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 53,
+		"attrValue" : 640,
+		"desc" : "破甲 +6.4%",
+		"equipColor" : 4,
+		"equipType" : 5,
+		"factor" : 4096,
+		"id" : 540530640,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 78,
+		"attrValue" : 240,
+		"desc" : "暴击率 +2.4%",
+		"equipColor" : 4,
+		"equipType" : 5,
+		"factor" : 5120,
+		"id" : 540710240,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 400,
+		"desc" : "铜钱掉落 +4%",
+		"equipColor" : 4,
+		"equipType" : 5,
+		"id" : 540800400,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 31,
+		"attrValue" : 1003,
+		"desc" : "每3级攻击 +1",
+		"equipColor" : 5,
+		"equipType" : 5,
+		"factor" : 500,
+		"id" : 550310001,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 33,
+		"attrValue" : 1003,
+		"desc" : "每3级破甲 +1",
+		"equipColor" : 5,
+		"equipType" : 5,
+		"factor" : 500,
+		"id" : 550330001,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 51,
+		"attrValue" : 400,
+		"desc" : "攻击 +4%",
+		"equipColor" : 5,
+		"equipType" : 5,
+		"factor" : 5760,
+		"id" : 550510400,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 53,
+		"attrValue" : 800,
+		"desc" : "破甲 +8%",
+		"equipColor" : 5,
+		"equipType" : 5,
+		"factor" : 5120,
+		"id" : 550530800,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 78,
+		"attrValue" : 300,
+		"desc" : "暴击率 +3%",
+		"equipColor" : 5,
+		"equipType" : 5,
+		"factor" : 6400,
+		"id" : 550710300,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 500,
+		"desc" : "铜钱掉落 +5%",
+		"equipColor" : 5,
+		"equipType" : 5,
+		"id" : 550800500,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 51,
+		"attrValue" : 400,
+		"desc" : "攻击 +4%",
+		"equipColor" : 6,
+		"equipType" : 5,
+		"factor" : 5760,
+		"id" : 560510400,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 53,
+		"attrValue" : 800,
+		"desc" : "破甲 +8%",
+		"equipColor" : 6,
+		"equipType" : 5,
+		"factor" : 5120,
+		"id" : 560530800,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 78,
+		"attrValue" : 300,
+		"desc" : "暴击率 +3%",
+		"equipColor" : 6,
+		"equipType" : 5,
+		"factor" : 6400,
+		"id" : 560710300,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 85,
+		"attrValue" : 1200,
+		"desc" : "会心率 +12%",
+		"equipColor" : 6,
+		"equipType" : 5,
+		"factor" : 7680,
+		"id" : 560851200,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 85,
+		"attrValue" : 1400,
+		"desc" : "会心率 +14%",
+		"equipColor" : 6,
+		"equipType" : 5,
+		"factor" : 8960,
+		"id" : 560851400,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 85,
+		"attrValue" : 1600,
+		"desc" : "会心率 +16%",
+		"equipColor" : 6,
+		"equipType" : 5,
+		"factor" : 10240,
+		"id" : 560851600,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 85,
+		"attrValue" : 1800,
+		"desc" : "会心率 +18%",
+		"equipColor" : 6,
+		"equipType" : 5,
+		"factor" : 11520,
+		"id" : 560851800,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 32,
+		"attrValue" : 20003,
+		"desc" : "每3级生命 +20",
+		"equipColor" : 3,
+		"equipType" : 6,
+		"factor" : 1000,
+		"id" : 630320003,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 34,
+		"attrValue" : 1003,
+		"desc" : "每3级防御 +1",
+		"equipColor" : 3,
+		"equipType" : 6,
+		"factor" : 1000,
+		"id" : 630340003,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 52,
+		"attrValue" : 240,
+		"desc" : "生命 +2.4%",
+		"equipColor" : 3,
+		"equipType" : 6,
+		"factor" : 3456,
+		"id" : 630520200,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 54,
+		"attrValue" : 480,
+		"desc" : "防御 +4.8%",
+		"equipColor" : 3,
+		"equipType" : 6,
+		"factor" : 3072,
+		"id" : 630540400,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 72,
+		"attrValue" : 180,
+		"desc" : "伤害减免 +1.8%",
+		"equipColor" : 3,
+		"equipType" : 6,
+		"factor" : 3840,
+		"id" : 630720150,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 81,
+		"attrValue" : 300,
+		"desc" : "物品掉率 +3%",
+		"equipColor" : 3,
+		"equipType" : 6,
+		"id" : 630810300,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 32,
+		"attrValue" : 20003,
+		"desc" : "每3级生命 +20",
+		"equipColor" : 4,
+		"equipType" : 6,
+		"factor" : 700,
+		"id" : 640320002,
+		"rate" : 3000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 34,
+		"attrValue" : 1003,
+		"desc" : "每3级防御 +1",
+		"equipColor" : 4,
+		"equipType" : 6,
+		"factor" : 700,
+		"id" : 640340002,
+		"rate" : 3000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 52,
+		"attrValue" : 320,
+		"desc" : "生命 +3.2%",
+		"equipColor" : 4,
+		"equipType" : 6,
+		"factor" : 4608,
+		"id" : 640520320,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 54,
+		"attrValue" : 640,
+		"desc" : "防御 +6.4%",
+		"equipColor" : 4,
+		"equipType" : 6,
+		"factor" : 4096,
+		"id" : 640540640,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 72,
+		"attrValue" : 240,
+		"desc" : "伤害减免 +2.4%",
+		"equipColor" : 4,
+		"equipType" : 6,
+		"factor" : 5120,
+		"id" : 640720240,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 81,
+		"attrValue" : 400,
+		"desc" : "物品掉率 +4%",
+		"equipColor" : 4,
+		"equipType" : 6,
+		"id" : 640810400,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 32,
+		"attrValue" : 20003,
+		"desc" : "每3级生命 +20",
+		"equipColor" : 5,
+		"equipType" : 6,
+		"factor" : 500,
+		"id" : 650320001,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 34,
+		"attrValue" : 1003,
+		"desc" : "每3级防御 +1",
+		"equipColor" : 5,
+		"equipType" : 6,
+		"factor" : 500,
+		"id" : 650340001,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 52,
+		"attrValue" : 400,
+		"desc" : "生命 +4%",
+		"equipColor" : 5,
+		"equipType" : 6,
+		"factor" : 5760,
+		"id" : 650520400,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 54,
+		"attrValue" : 800,
+		"desc" : "防御 +8%",
+		"equipColor" : 5,
+		"equipType" : 6,
+		"factor" : 5120,
+		"id" : 650540800,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 72,
+		"attrValue" : 300,
+		"desc" : "伤害减免 +3.0%",
+		"equipColor" : 5,
+		"equipType" : 6,
+		"factor" : 6400,
+		"id" : 650720300,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 81,
+		"attrValue" : 500,
+		"desc" : "物品掉率 +5%",
+		"equipColor" : 5,
+		"equipType" : 6,
+		"id" : 650810500,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 52,
+		"attrValue" : 400,
+		"desc" : "生命 +4%",
+		"equipColor" : 6,
+		"equipType" : 6,
+		"factor" : 5760,
+		"id" : 660520400,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 54,
+		"attrValue" : 800,
+		"desc" : "防御 +8%",
+		"equipColor" : 6,
+		"equipType" : 6,
+		"factor" : 5120,
+		"id" : 660540800,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 72,
+		"attrValue" : 300,
+		"desc" : "伤害减免 +3.0%",
+		"equipColor" : 6,
+		"equipType" : 6,
+		"factor" : 6400,
+		"id" : 660720300,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 86,
+		"attrValue" : 1200,
+		"desc" : "格挡率 +12.0%",
+		"equipColor" : 6,
+		"equipType" : 6,
+		"factor" : 8000,
+		"id" : 660861200,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 86,
+		"attrValue" : 1400,
+		"desc" : "格挡率 +14.0%",
+		"equipColor" : 6,
+		"equipType" : 6,
+		"factor" : 9330,
+		"id" : 660861400,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 86,
+		"attrValue" : 1600,
+		"desc" : "格挡率 +16.0%",
+		"equipColor" : 6,
+		"equipType" : 6,
+		"factor" : 10670,
+		"id" : 660861600,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 86,
+		"attrValue" : 1800,
+		"desc" : "格挡率 +18.0%",
+		"equipColor" : 6,
+		"equipType" : 6,
+		"factor" : 12000,
+		"id" : 660861800,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 32,
+		"attrValue" : 20003,
+		"desc" : "每3级生命 +20",
+		"equipColor" : 3,
+		"equipType" : 7,
+		"factor" : 1000,
+		"id" : 730320003,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 34,
+		"attrValue" : 1003,
+		"desc" : "每3级防御 +1",
+		"equipColor" : 3,
+		"equipType" : 7,
+		"factor" : 1000,
+		"id" : 730340003,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 52,
+		"attrValue" : 240,
+		"desc" : "生命 +2.4%",
+		"equipColor" : 3,
+		"equipType" : 7,
+		"factor" : 3456,
+		"id" : 730520200,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 54,
+		"attrValue" : 480,
+		"desc" : "防御 +4.8%",
+		"equipColor" : 3,
+		"equipType" : 7,
+		"factor" : 3072,
+		"id" : 730540400,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 72,
+		"attrValue" : 180,
+		"desc" : "伤害减免 +1.8%",
+		"equipColor" : 3,
+		"equipType" : 7,
+		"factor" : 3840,
+		"id" : 730720150,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 81,
+		"attrValue" : 300,
+		"desc" : "物品掉率 +3%",
+		"equipColor" : 3,
+		"equipType" : 7,
+		"id" : 730810300,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 32,
+		"attrValue" : 20003,
+		"desc" : "每3级生命 +20",
+		"equipColor" : 4,
+		"equipType" : 7,
+		"factor" : 700,
+		"id" : 740320002,
+		"rate" : 3000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 34,
+		"attrValue" : 1003,
+		"desc" : "每3级防御 +1",
+		"equipColor" : 4,
+		"equipType" : 7,
+		"factor" : 700,
+		"id" : 740340002,
+		"rate" : 3000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 52,
+		"attrValue" : 320,
+		"desc" : "生命 +3.2%",
+		"equipColor" : 4,
+		"equipType" : 7,
+		"factor" : 4608,
+		"id" : 740520320,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 54,
+		"attrValue" : 640,
+		"desc" : "防御 +6.4%",
+		"equipColor" : 4,
+		"equipType" : 7,
+		"factor" : 4096,
+		"id" : 740540640,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 72,
+		"attrValue" : 240,
+		"desc" : "伤害减免 +2.4%",
+		"equipColor" : 4,
+		"equipType" : 7,
+		"factor" : 5120,
+		"id" : 740720240,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 81,
+		"attrValue" : 400,
+		"desc" : "物品掉率 +4%",
+		"equipColor" : 4,
+		"equipType" : 7,
+		"id" : 740810400,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 32,
+		"attrValue" : 20003,
+		"desc" : "每3级生命 +20",
+		"equipColor" : 5,
+		"equipType" : 7,
+		"factor" : 500,
+		"id" : 750320001,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 34,
+		"attrValue" : 1003,
+		"desc" : "每3级防御 +1",
+		"equipColor" : 5,
+		"equipType" : 7,
+		"factor" : 500,
+		"id" : 750340001,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 52,
+		"attrValue" : 400,
+		"desc" : "生命 +4%",
+		"equipColor" : 5,
+		"equipType" : 7,
+		"factor" : 5760,
+		"id" : 750520400,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 54,
+		"attrValue" : 800,
+		"desc" : "防御 +8%",
+		"equipColor" : 5,
+		"equipType" : 7,
+		"factor" : 5120,
+		"id" : 750540800,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 72,
+		"attrValue" : 300,
+		"desc" : "伤害减免 +3.0%",
+		"equipColor" : 5,
+		"equipType" : 7,
+		"factor" : 6400,
+		"id" : 750720300,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 81,
+		"attrValue" : 500,
+		"desc" : "物品掉率 +5%",
+		"equipColor" : 5,
+		"equipType" : 7,
+		"id" : 750810500,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 52,
+		"attrValue" : 400,
+		"desc" : "生命 +4%",
+		"equipColor" : 6,
+		"equipType" : 7,
+		"factor" : 5760,
+		"id" : 760520400,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 54,
+		"attrValue" : 800,
+		"desc" : "防御 +8%",
+		"equipColor" : 6,
+		"equipType" : 7,
+		"factor" : 5120,
+		"id" : 760540800,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 72,
+		"attrValue" : 300,
+		"desc" : "伤害减免 +3.0%",
+		"equipColor" : 6,
+		"equipType" : 7,
+		"factor" : 6400,
+		"id" : 760720300,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 88,
+		"attrValue" : 360,
+		"desc" : "暴击抵抗 +3.6%",
+		"equipColor" : 6,
+		"equipType" : 7,
+		"factor" : 7680,
+		"id" : 760880360,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 88,
+		"attrValue" : 420,
+		"desc" : "暴击抵抗 +4.2%",
+		"equipColor" : 6,
+		"equipType" : 7,
+		"factor" : 8960,
+		"id" : 760880420,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 88,
+		"attrValue" : 480,
+		"desc" : "暴击抵抗 +4.8%",
+		"equipColor" : 6,
+		"equipType" : 7,
+		"factor" : 10240,
+		"id" : 760880480,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 88,
+		"attrValue" : 540,
+		"desc" : "暴击抵抗 +5.4%",
+		"equipColor" : 6,
+		"equipType" : 7,
+		"factor" : 11520,
+		"id" : 760880540,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 32,
+		"attrValue" : 20003,
+		"desc" : "每3级生命 +20",
+		"equipColor" : 3,
+		"equipType" : 8,
+		"factor" : 1000,
+		"id" : 830320003,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 34,
+		"attrValue" : 1003,
+		"desc" : "每3级防御 +1",
+		"equipColor" : 3,
+		"equipType" : 8,
+		"factor" : 1000,
+		"id" : 830340003,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 52,
+		"attrValue" : 240,
+		"desc" : "生命 +2.4%",
+		"equipColor" : 3,
+		"equipType" : 8,
+		"factor" : 3456,
+		"id" : 830520200,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 54,
+		"attrValue" : 480,
+		"desc" : "防御 +4.8%",
+		"equipColor" : 3,
+		"equipType" : 8,
+		"factor" : 3072,
+		"id" : 830540400,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 72,
+		"attrValue" : 180,
+		"desc" : "伤害减免 +1.8%",
+		"equipColor" : 3,
+		"equipType" : 8,
+		"factor" : 3840,
+		"id" : 830720150,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 81,
+		"attrValue" : 300,
+		"desc" : "物品掉率 +3%",
+		"equipColor" : 3,
+		"equipType" : 8,
+		"id" : 830810300,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 32,
+		"attrValue" : 20003,
+		"desc" : "每3级生命 +20",
+		"equipColor" : 4,
+		"equipType" : 8,
+		"factor" : 700,
+		"id" : 840320002,
+		"rate" : 3000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 34,
+		"attrValue" : 1003,
+		"desc" : "每3级防御 +1",
+		"equipColor" : 4,
+		"equipType" : 8,
+		"factor" : 700,
+		"id" : 840340002,
+		"rate" : 3000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 52,
+		"attrValue" : 320,
+		"desc" : "生命 +3.2%",
+		"equipColor" : 4,
+		"equipType" : 8,
+		"factor" : 4608,
+		"id" : 840520320,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 54,
+		"attrValue" : 640,
+		"desc" : "防御 +6.4%",
+		"equipColor" : 4,
+		"equipType" : 8,
+		"factor" : 4096,
+		"id" : 840540640,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 72,
+		"attrValue" : 240,
+		"desc" : "伤害减免 +2.4%",
+		"equipColor" : 4,
+		"equipType" : 8,
+		"factor" : 5120,
+		"id" : 840720240,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 81,
+		"attrValue" : 400,
+		"desc" : "物品掉率 +4%",
+		"equipColor" : 4,
+		"equipType" : 8,
+		"id" : 840810400,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 32,
+		"attrValue" : 20003,
+		"desc" : "每3级生命 +20",
+		"equipColor" : 5,
+		"equipType" : 8,
+		"factor" : 500,
+		"id" : 850320001,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 34,
+		"attrValue" : 1003,
+		"desc" : "每3级防御 +1",
+		"equipColor" : 5,
+		"equipType" : 8,
+		"factor" : 500,
+		"id" : 850340001,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 52,
+		"attrValue" : 400,
+		"desc" : "生命 +4%",
+		"equipColor" : 5,
+		"equipType" : 8,
+		"factor" : 5760,
+		"id" : 850520400,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 54,
+		"attrValue" : 800,
+		"desc" : "防御 +8%",
+		"equipColor" : 5,
+		"equipType" : 8,
+		"factor" : 5120,
+		"id" : 850540800,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 72,
+		"attrValue" : 300,
+		"desc" : "伤害减免 +3.0%",
+		"equipColor" : 5,
+		"equipType" : 8,
+		"factor" : 6400,
+		"id" : 850720300,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 81,
+		"attrValue" : 500,
+		"desc" : "物品掉率 +5%",
+		"equipColor" : 5,
+		"equipType" : 8,
+		"id" : 850810500,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 52,
+		"attrValue" : 400,
+		"desc" : "生命 +4%",
+		"equipColor" : 6,
+		"equipType" : 8,
+		"factor" : 5760,
+		"id" : 860520400,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 54,
+		"attrValue" : 800,
+		"desc" : "防御 +8%",
+		"equipColor" : 6,
+		"equipType" : 8,
+		"factor" : 5120,
+		"id" : 860540800,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 72,
+		"attrValue" : 300,
+		"desc" : "伤害减免 +3.0%",
+		"equipColor" : 6,
+		"equipType" : 8,
+		"factor" : 6400,
+		"id" : 860720300,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 88,
+		"attrValue" : 360,
+		"desc" : "暴击抵抗 +3.6%",
+		"equipColor" : 6,
+		"equipType" : 8,
+		"factor" : 7680,
+		"id" : 860880360,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 88,
+		"attrValue" : 420,
+		"desc" : "暴击抵抗 +4.2%",
+		"equipColor" : 6,
+		"equipType" : 8,
+		"factor" : 8960,
+		"id" : 860880420,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 88,
+		"attrValue" : 480,
+		"desc" : "暴击抵抗 +4.8%",
+		"equipColor" : 6,
+		"equipType" : 8,
+		"factor" : 10240,
+		"id" : 860880480,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 88,
+		"attrValue" : 540,
+		"desc" : "暴击抵抗 +5.4%",
+		"equipColor" : 6,
+		"equipType" : 8,
+		"factor" : 11520,
+		"id" : 860880540,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 32,
+		"attrValue" : 20003,
+		"desc" : "每3级生命 +20",
+		"equipColor" : 3,
+		"equipType" : 9,
+		"factor" : 1000,
+		"id" : 930320003,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 34,
+		"attrValue" : 1003,
+		"desc" : "每3级防御 +1",
+		"equipColor" : 3,
+		"equipType" : 9,
+		"factor" : 1000,
+		"id" : 930340003,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 52,
+		"attrValue" : 240,
+		"desc" : "生命 +2.4%",
+		"equipColor" : 3,
+		"equipType" : 9,
+		"factor" : 3456,
+		"id" : 930520200,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 54,
+		"attrValue" : 480,
+		"desc" : "防御 +4.8%",
+		"equipColor" : 3,
+		"equipType" : 9,
+		"factor" : 3072,
+		"id" : 930540400,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 72,
+		"attrValue" : 180,
+		"desc" : "伤害减免 +1.8%",
+		"equipColor" : 3,
+		"equipType" : 9,
+		"factor" : 3840,
+		"id" : 930720150,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 81,
+		"attrValue" : 300,
+		"desc" : "物品掉率 +3%",
+		"equipColor" : 3,
+		"equipType" : 9,
+		"id" : 930810300,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 32,
+		"attrValue" : 20003,
+		"desc" : "每3级生命 +20",
+		"equipColor" : 4,
+		"equipType" : 9,
+		"factor" : 700,
+		"id" : 940320002,
+		"rate" : 3000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 34,
+		"attrValue" : 1003,
+		"desc" : "每3级防御 +1",
+		"equipColor" : 4,
+		"equipType" : 9,
+		"factor" : 700,
+		"id" : 940340002,
+		"rate" : 3000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 52,
+		"attrValue" : 320,
+		"desc" : "生命 +3.2%",
+		"equipColor" : 4,
+		"equipType" : 9,
+		"factor" : 4608,
+		"id" : 940520320,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 54,
+		"attrValue" : 640,
+		"desc" : "防御 +6.4%",
+		"equipColor" : 4,
+		"equipType" : 9,
+		"factor" : 4096,
+		"id" : 940540640,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 72,
+		"attrValue" : 240,
+		"desc" : "伤害减免 +2.4%",
+		"equipColor" : 4,
+		"equipType" : 9,
+		"factor" : 5120,
+		"id" : 940720240,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 81,
+		"attrValue" : 400,
+		"desc" : "物品掉率 +4%",
+		"equipColor" : 4,
+		"equipType" : 9,
+		"id" : 940810400,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 32,
+		"attrValue" : 20003,
+		"desc" : "每3级生命 +20",
+		"equipColor" : 5,
+		"equipType" : 9,
+		"factor" : 500,
+		"id" : 950320001,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 34,
+		"attrValue" : 1003,
+		"desc" : "每3级防御 +1",
+		"equipColor" : 5,
+		"equipType" : 9,
+		"factor" : 500,
+		"id" : 950340001,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 52,
+		"attrValue" : 400,
+		"desc" : "生命 +4%",
+		"equipColor" : 5,
+		"equipType" : 9,
+		"factor" : 5760,
+		"id" : 950520400,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 54,
+		"attrValue" : 800,
+		"desc" : "防御 +8%",
+		"equipColor" : 5,
+		"equipType" : 9,
+		"factor" : 5120,
+		"id" : 950540800,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 72,
+		"attrValue" : 300,
+		"desc" : "伤害减免 +3.0%",
+		"equipColor" : 5,
+		"equipType" : 9,
+		"factor" : 6400,
+		"id" : 950720300,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 81,
+		"attrValue" : 500,
+		"desc" : "物品掉率 +5%",
+		"equipColor" : 5,
+		"equipType" : 9,
+		"id" : 950810500,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 52,
+		"attrValue" : 400,
+		"desc" : "生命 +4%",
+		"equipColor" : 6,
+		"equipType" : 9,
+		"factor" : 5760,
+		"id" : 960520400,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 54,
+		"attrValue" : 800,
+		"desc" : "防御 +8%",
+		"equipColor" : 6,
+		"equipType" : 9,
+		"factor" : 5120,
+		"id" : 960540800,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 72,
+		"attrValue" : 300,
+		"desc" : "伤害减免 +3.0%",
+		"equipColor" : 6,
+		"equipType" : 9,
+		"factor" : 6400,
+		"id" : 960720300,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 86,
+		"attrValue" : 1200,
+		"desc" : "格挡率 +12.0%",
+		"equipColor" : 6,
+		"equipType" : 9,
+		"factor" : 8000,
+		"id" : 960861200,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 86,
+		"attrValue" : 1400,
+		"desc" : "格挡率 +14.0%",
+		"equipColor" : 6,
+		"equipType" : 9,
+		"factor" : 9330,
+		"id" : 960861400,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 86,
+		"attrValue" : 1600,
+		"desc" : "格挡率 +16.0%",
+		"equipColor" : 6,
+		"equipType" : 9,
+		"factor" : 10670,
+		"id" : 960861600,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 86,
+		"attrValue" : 1800,
+		"desc" : "格挡率 +18.0%",
+		"equipColor" : 6,
+		"equipType" : 9,
+		"factor" : 12000,
+		"id" : 960861800,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 32,
+		"attrValue" : 20003,
+		"desc" : "每3级生命 +20",
+		"equipColor" : 3,
+		"equipType" : 10,
+		"factor" : 1000,
+		"id" : 1030320003,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 34,
+		"attrValue" : 1003,
+		"desc" : "每3级防御 +1",
+		"equipColor" : 3,
+		"equipType" : 10,
+		"factor" : 1000,
+		"id" : 1030340003,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 52,
+		"attrValue" : 240,
+		"desc" : "生命 +2.4%",
+		"equipColor" : 3,
+		"equipType" : 10,
+		"factor" : 3456,
+		"id" : 1030520200,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 54,
+		"attrValue" : 480,
+		"desc" : "防御 +4.8%",
+		"equipColor" : 3,
+		"equipType" : 10,
+		"factor" : 3072,
+		"id" : 1030540400,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 72,
+		"attrValue" : 180,
+		"desc" : "伤害减免 +1.8%",
+		"equipColor" : 3,
+		"equipType" : 10,
+		"factor" : 3840,
+		"id" : 1030720150,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 81,
+		"attrValue" : 300,
+		"desc" : "物品掉率 +3%",
+		"equipColor" : 3,
+		"equipType" : 10,
+		"id" : 1030810300,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 32,
+		"attrValue" : 20003,
+		"desc" : "每3级生命 +20",
+		"equipColor" : 4,
+		"equipType" : 10,
+		"factor" : 700,
+		"id" : 1040320002,
+		"rate" : 3000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 34,
+		"attrValue" : 1003,
+		"desc" : "每3级防御 +1",
+		"equipColor" : 4,
+		"equipType" : 10,
+		"factor" : 700,
+		"id" : 1040340002,
+		"rate" : 3000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 52,
+		"attrValue" : 320,
+		"desc" : "生命 +3.2%",
+		"equipColor" : 4,
+		"equipType" : 10,
+		"factor" : 4608,
+		"id" : 1040520320,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 54,
+		"attrValue" : 640,
+		"desc" : "防御 +6.4%",
+		"equipColor" : 4,
+		"equipType" : 10,
+		"factor" : 4096,
+		"id" : 1040540640,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 72,
+		"attrValue" : 240,
+		"desc" : "伤害减免 +2.4%",
+		"equipColor" : 4,
+		"equipType" : 10,
+		"factor" : 5120,
+		"id" : 1040720240,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 81,
+		"attrValue" : 400,
+		"desc" : "物品掉率 +4%",
+		"equipColor" : 4,
+		"equipType" : 10,
+		"id" : 1040810400,
+		"rate" : 12000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 32,
+		"attrValue" : 20003,
+		"desc" : "每3级生命 +20",
+		"equipColor" : 5,
+		"equipType" : 10,
+		"factor" : 500,
+		"id" : 1050320001,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 34,
+		"attrValue" : 1003,
+		"desc" : "每3级防御 +1",
+		"equipColor" : 5,
+		"equipType" : 10,
+		"factor" : 500,
+		"id" : 1050340001,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 52,
+		"attrValue" : 400,
+		"desc" : "生命 +4%",
+		"equipColor" : 5,
+		"equipType" : 10,
+		"factor" : 5760,
+		"id" : 1050520400,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 54,
+		"attrValue" : 800,
+		"desc" : "防御 +8%",
+		"equipColor" : 5,
+		"equipType" : 10,
+		"factor" : 5120,
+		"id" : 1050540800,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 72,
+		"attrValue" : 300,
+		"desc" : "伤害减免 +3.0%",
+		"equipColor" : 5,
+		"equipType" : 10,
+		"factor" : 6400,
+		"id" : 1050720300,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 81,
+		"attrValue" : 500,
+		"desc" : "物品掉率 +5%",
+		"equipColor" : 5,
+		"equipType" : 10,
+		"id" : 1050810500,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 52,
+		"attrValue" : 400,
+		"desc" : "生命 +4%",
+		"equipColor" : 6,
+		"equipType" : 10,
+		"factor" : 5760,
+		"id" : 1060520400,
+		"rate" : 1000,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 54,
+		"attrValue" : 800,
+		"desc" : "防御 +8%",
+		"equipColor" : 6,
+		"equipType" : 10,
+		"factor" : 5120,
+		"id" : 1060540800,
+		"rate" : 1500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 72,
+		"attrValue" : 300,
+		"desc" : "伤害减免 +3.0%",
+		"equipColor" : 6,
+		"equipType" : 10,
+		"factor" : 6400,
+		"id" : 1060720300,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 79,
+		"attrValue" : 360,
+		"desc" : "闪避率 +3.6%",
+		"equipColor" : 6,
+		"equipType" : 10,
+		"factor" : 8000,
+		"id" : 1060790360,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 79,
+		"attrValue" : 420,
+		"desc" : "闪避率 +4.2%",
+		"equipColor" : 6,
+		"equipType" : 10,
+		"factor" : 9330,
+		"id" : 1060790420,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 79,
+		"attrValue" : 480,
+		"desc" : "闪避率 +4.8%",
+		"equipColor" : 6,
+		"equipType" : 10,
+		"factor" : 10670,
+		"id" : 1060790480,
+		"rate" : 500,
+		"recommend" : 1
+	},
+	
+	{
+		"attrQuality" : 4,
+		"attrType" : 79,
+		"attrValue" : 540,
+		"desc" : "闪避率 +5.4%",
+		"equipColor" : 6,
+		"equipType" : 10,
+		"factor" : 12000,
+		"id" : 1060790540,
+		"rate" : 500,
+		"recommend" : 1
+	}
+]

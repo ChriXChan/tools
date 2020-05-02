@@ -1,0 +1,99 @@
+
+[
+	
+	{
+		"agentProduct" : "dlunion,com.junhai.qyj.gift18",
+		"id" : 1,
+		"money" : 18,
+		"name" : "绑元礼包",
+		"order" : 1,
+		"productId" : "dlunion,com.junhai.qyj.gift18",
+		"rewardStr" : "2,3,100",
+		"type" : 2,
+		"value" : 7
+	},
+	
+	{
+		"agentProduct" : "dlunion,com.junhai.qyj.pay6",
+		"id" : 2,
+		"money" : 6,
+		"name" : "60元宝",
+		"order" : 2,
+		"productId" : "dlunion,com.junhai.qyj.pay6",
+		"rewardStr" : "2,3,6",
+		"type" : 1,
+		"value" : 60
+	},
+	
+	{
+		"agentProduct" : "dlunion,com.junhai.qyj.pay30",
+		"id" : 3,
+		"money" : 30,
+		"name" : "300元宝",
+		"order" : 3,
+		"productId" : "dlunion,com.junhai.qyj.pay30",
+		"rewardStr" : "2,3,33",
+		"type" : 1,
+		"value" : 300
+	},
+	
+	{
+		"agentProduct" : "dlunion,com.junhai.qyj.pay68",
+		"id" : 4,
+		"money" : 68,
+		"name" : "680元宝",
+		"order" : 4,
+		"productId" : "dlunion,com.junhai.qyj.pay68",
+		"rewardStr" : "2,3,88",
+		"type" : 1,
+		"value" : 680
+	},
+	
+	{
+		"agentProduct" : "dlunion,com.junhai.qyj.pay128",
+		"id" : 5,
+		"money" : 128,
+		"name" : "1280元宝",
+		"order" : 5,
+		"productId" : "dlunion,com.junhai.qyj.pay128",
+		"rewardStr" : "2,3,168",
+		"type" : 1,
+		"value" : 1280
+	},
+	
+	{
+		"agentProduct" : "dlunion,com.junhai.qyj.pay198",
+		"id" : 6,
+		"money" : 198,
+		"name" : "1980元宝",
+		"order" : 6,
+		"productId" : "dlunion,com.junhai.qyj.pay198",
+		"rewardStr" : "2,3,280",
+		"type" : 1,
+		"value" : 1980
+	},
+	
+	{
+		"agentProduct" : "dlunion,com.junhai.qyj.pay328",
+		"id" : 7,
+		"money" : 328,
+		"name" : "3280元宝",
+		"order" : 7,
+		"productId" : "dlunion,com.junhai.qyj.pay328",
+		"rewardStr" : "2,3,528",
+		"type" : 1,
+		"value" : 3280
+	},
+	
+	{
+		"agentProduct" : "dlunion,com.junhai.qyj.pay648",
+		"id" : 8,
+		"money" : 648,
+		"name" : "6480元宝",
+		"order" : 8,
+		"productId" : "dlunion,com.junhai.qyj.pay648",
+		"rewardStr" : "2,3,1280",
+		"type" : 1,
+		"value" : 6480
+	}
+]

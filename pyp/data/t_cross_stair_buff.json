@@ -1,0 +1,73 @@
+
+[
+	
+	{
+		"buffId" : 10107101,
+		"cost" : 50,
+		"desc" : "10",
+		"level" : 1
+	},
+	
+	{
+		"buffId" : 10107109,
+		"cost" : 50,
+		"desc" : "10",
+		"level" : 2
+	},
+	
+	{
+		"buffId" : 10107117,
+		"cost" : 50,
+		"desc" : "10",
+		"level" : 3
+	},
+	
+	{
+		"buffId" : 10107125,
+		"cost" : 50,
+		"desc" : "10",
+		"level" : 4
+	},
+	
+	{
+		"buffId" : 10107133,
+		"cost" : 50,
+		"desc" : "10",
+		"level" : 5
+	},
+	
+	{
+		"buffId" : 10107141,
+		"cost" : 50,
+		"desc" : "10",
+		"level" : 6
+	},
+	
+	{
+		"buffId" : 10107149,
+		"cost" : 50,
+		"desc" : "10",
+		"level" : 7
+	},
+	
+	{
+		"buffId" : 10107157,
+		"cost" : 50,
+		"desc" : "10",
+		"level" : 8
+	},
+	
+	{
+		"buffId" : 10107165,
+		"cost" : 50,
+		"desc" : "10",
+		"level" : 9
+	},
+	
+	{
+		"buffId" : 10107173,
+		"cost" : 50,
+		"desc" : "10",
+		"level" : 10
+	}
+]

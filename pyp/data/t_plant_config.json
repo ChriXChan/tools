@@ -1,0 +1,63 @@
+
+[
+	
+	{
+		"areaNum" : 1,
+		"areaPoints" : "0,0#-1,0#1,0#0,-1#0,1",
+		"code" : 63249101,
+		"limitCount" : 999,
+		"prizes" : "1",
+		"protectTime" : 1,
+		"volumePoints" : "0,0#"
+	},
+	
+	{
+		"areaNum" : 1,
+		"areaPoints" : "0,0#-1,0#1,0#0,-1#0,1",
+		"code" : 63249102,
+		"limitCount" : 999,
+		"prizes" : "1",
+		"protectTime" : 1,
+		"volumePoints" : "0,0#"
+	},
+	
+	{
+		"areaNum" : 1,
+		"areaPoints" : "0,0#-1,0#1,0#0,-1#0,1",
+		"code" : 63249103,
+		"limitCount" : 999,
+		"prizes" : "1",
+		"protectTime" : 1,
+		"volumePoints" : "0,0#"
+	},
+	
+	{
+		"areaNum" : 1,
+		"areaPoints" : "0,0#-1,0#1,0#0,-1#0,1",
+		"code" : 63249104,
+		"limitCount" : 999,
+		"prizes" : "1",
+		"protectTime" : 1,
+		"volumePoints" : "0,0#"
+	},
+	
+	{
+		"areaNum" : 1,
+		"areaPoints" : "0,0#-1,0#1,0#0,-1#0,1",
+		"code" : 63249105,
+		"limitCount" : 999,
+		"prizes" : "1",
+		"protectTime" : 1,
+		"volumePoints" : "0,0#"
+	},
+	
+	{
+		"areaNum" : 1,
+		"areaPoints" : "0,0#-1,0#1,0#0,-1#0,1",
+		"code" : 63249106,
+		"limitCount" : 999,
+		"prizes" : "1",
+		"protectTime" : 1,
+		"volumePoints" : "0,0#"
+	}
+]

@@ -1,0 +1,167 @@
+
+[
+	
+	{
+		"delayDie" : 350,
+		"effectHurt" : "[350]",
+		"effectList" : "[{\"effectId\":101030011,\"x\":0,\"y\":0,\"layer\":0,\"delay\":0}]",
+		"effectPos" : 1,
+		"effectType" : 2,
+		"listId" : 10103001,
+		"shake" : "{\"type\":1,\"delay\":300,\"intensity\":12,\"time\":100,\"speed\":30}"
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[{\"effectId\":101050011,\"x\":0,\"y\":0,\"layer\":0,\"delay\":0}]",
+		"effectPos" : 1,
+		"effectType" : 1,
+		"listId" : 10105001,
+		"shake" : "{\"type\":0,\"delay\":100,\"intensity\":15,\"time\":300,\"speed\":33}"
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[{\"effectId\":101040011,\"x\":0,\"y\":-65,\"layer\":2,\"delay\":0}]",
+		"effectPos" : 2,
+		"effectType" : 2,
+		"listId" : 10104001,
+		"shake" : "{\"type\":1,\"delay\":0,\"intensity\":15,\"time\":100,\"speed\":33}"
+	},
+	
+	{
+		"delayDie" : 200,
+		"effectHurt" : "[200]",
+		"effectList" : "[{\"effectId\":101060011,\"x\":0,\"y\":0,\"layer\":0,\"delay\":450},{\"effectId\":101060012,\"x\":-100,\"y\":-100,\"layer\":0,\"delay\":0},{\"effectId\":101060013,\"x\":100,\"y\":-50,\"layer\":0,\"delay\":180}]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 10106001,
+		"shake" : "{\"type\":0,\"delay\":150,\"intensity\":14,\"time\":600,\"speed\":33}"
+	},
+	
+	{
+		"delayDie" : 300,
+		"effectHurt" : "[300]",
+		"effectList" : "[{\"effectId\":102010011,\"x\":0,\"y\":-65,\"layer\":0,\"delay\":100,\"move\":{\"type\":1,\"to\":[100,100],\"endEffectId\":102010012,\"speed\":1400,\"height\":0}},{\"effectId\":102010013,\"x\":0,\"y\":0,\"layer\":3,\"delay\":0}]",
+		"effectPos" : 2,
+		"effectType" : 4,
+		"listId" : 10201001,
+		"shake" : "{\"type\":1,\"delay\":100,\"intensity\":10,\"time\":100,\"speed\":33}"
+	},
+	
+	{
+		"delayDie" : 670,
+		"effectHurt" : "[30,350,670]",
+		"effectList" : "[{\"effectId\":102040011,\"x\":0,\"y\":0,\"layer\":0,\"delay\":0},{\"effectId\":102040012,\"x\":0,\"y\":0,\"layer\":0,\"delay\":320},{\"effectId\":102040013,\"x\":0,\"y\":0,\"layer\":1,\"delay\":30},{\"effectId\":102040014,\"x\":0,\"y\":0,\"layer\":1,\"delay\":350},{\"effectId\":102010013,\"x\":0,\"y\":0,\"layer\":3,\"delay\":0}]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 10204001,
+		"shake" : "{\"type\":0,\"delay\":30,\"intensity\":15,\"time\":400,\"speed\":33}"
+	},
+	
+	{
+		"delayDie" : 350,
+		"effectHurt" : "[350]",
+		"effectList" : "[{\"effectId\":102050015,\"x\":0,\"y\":0,\"layer\":1,\"delay\":0},{\"effectId\":102010013,\"x\":0,\"y\":0,\"layer\":3,\"delay\":0}]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 10205001,
+		"shake" : "{\"type\":0,\"delay\":100,\"intensity\":16,\"time\":700,\"speed\":33}"
+	},
+	
+	{
+		"effectHurt" : "[0]",
+		"effectList" : "[{\"effectId\":102070011,\"x\":0,\"y\":0,\"layer\":2,\"delay\":0},{\"effectId\":102070012,\"x\":0,\"y\":0,\"layer\":2,\"delay\":400},{\"effectId\":102070013,\"x\":0,\"y\":0,\"layer\":2,\"delay\":3400}]",
+		"effectPos" : 1,
+		"effectType" : 1,
+		"listId" : 10207001
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[{\"effectId\":102060011,\"x\":-40,\"y\":-40,\"layer\":1,\"delay\":0},{\"effectId\":102060012,\"x\":-120,\"y\":50,\"layer\":0,\"delay\":180},{\"effectId\":102060013,\"x\":70,\"y\":0,\"layer\":1,\"delay\":120},{\"effectId\":102060014,\"x\":0,\"y\":70,\"layer\":0,\"delay\":0},{\"effectId\":102010013,\"x\":0,\"y\":0,\"layer\":3,\"delay\":0}]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 10206001,
+		"shake" : "{\"type\":0,\"delay\":100,\"intensity\":15,\"time\":400,\"speed\":33}"
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[{\"effectId\":102030011,\"x\":0,\"y\":0,\"layer\":0,\"delay\":0},{\"effectId\":102030012,\"x\":0,\"y\":0,\"layer\":3,\"delay\":0}]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 10203001,
+		"shake" : "{\"type\":1,\"delay\":100,\"intensity\":10,\"time\":100,\"speed\":33}"
+	},
+	
+	{
+		"delayDie" : 300,
+		"effectHurt" : "[300]",
+		"effectList" : "[{\"effectId\":101010011,\"x\":0,\"y\":0,\"layer\":0,\"delay\":0},{\"effectId\":102030012,\"x\":0,\"y\":0,\"layer\":3,\"delay\":0}]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 10101001,
+		"shake" : "{\"type\":1,\"delay\":100,\"intensity\":15,\"time\":150,\"speed\":33}"
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[{\"effectId\":102090011,\"x\":0,\"y\":0,\"layer\":0,\"delay\":150,\"move\":{\"type\":0,\"to\":[100,100],\"moveDis\":1000,\"speed\":1000,\"acceleration\":0,\"offAngle\":0,\"scale\":[400,1000,2,100]}},{\"effectId\":102090012,\"x\":0,\"y\":0,\"layer\":0,\"delay\":50,\"move\":{\"type\":0,\"to\":[100,100],\"moveDis\":1000,\"speed\":1000,\"acceleration\":0,\"offAngle\":15,\"scale\":[400,1000,2,100]}},{\"effectId\":102090013,\"x\":0,\"y\":0,\"layer\":0,\"delay\":0,\"move\":{\"type\":0,\"to\":[100,100],\"moveDis\":1000,\"speed\":1000,\"acceleration\":0,\"offAngle\":-10,\"scale\":[400,1000,2,100]}},{\"effectId\":102030012,\"x\":0,\"y\":0,\"layer\":3,\"delay\":0}]",
+		"effectPos" : 2,
+		"effectType" : 4,
+		"listId" : 10209001,
+		"shake" : "{\"type\":1,\"delay\":100,\"intensity\":10,\"time\":100,\"speed\":33}"
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[{\"effectId\":101070011,\"x\":0,\"y\":0,\"layer\":2,\"delay\":0},{\"effectId\":101070012,\"x\":0,\"y\":0,\"layer\":3,\"delay\":0},{\"effectId\":101070013,\"x\":0,\"y\":0,\"layer\":2,\"delay\":300},{\"effectId\":101070014,\"x\":0,\"y\":0,\"layer\":3,\"delay\":300},{\"effectId\":101070015,\"x\":0,\"y\":0,\"layer\":2,\"delay\":3300},{\"effectId\":101070016,\"x\":0,\"y\":0,\"layer\":3,\"delay\":3300}]",
+		"effectPos" : 1,
+		"effectType" : 1,
+		"listId" : 10107001
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[{\"effectId\":101020011,\"x\":130,\"y\":-130,\"layer\":0,\"delay\":0},{\"effectId\":101020012,\"x\":-20,\"y\":-230,\"layer\":0,\"delay\":200},{\"effectId\":101020013,\"x\":-120,\"y\":-65,\"layer\":0,\"delay\":300},{\"effectId\":101020014,\"x\":30,\"y\":65,\"layer\":0,\"delay\":400},{\"effectId\":102030012,\"x\":0,\"y\":0,\"layer\":3,\"delay\":0}]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 10102001,
+		"shake" : "{\"type\":1,\"delay\":100,\"intensity\":10,\"time\":250,\"speed\":33}"
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[{\"effectId\":302010011,\"x\":0,\"y\":-50,\"layer\":0,\"delay\":0,\"move\":{\"type\":1,\"to\":[100,100],\"moveDis\":1000,\"speed\":1000,\"acceleration\":200}}]",
+		"effectPos" : 2,
+		"effectType" : 4,
+		"listId" : 30201001
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[]",
+		"effectPos" : 1,
+		"effectType" : 5,
+		"listId" : 30601001
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[{\"effectId\":101080011,\"x\":0,\"y\":0,\"layer\":1,\"delay\":0}]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 10108001
+	}
+]

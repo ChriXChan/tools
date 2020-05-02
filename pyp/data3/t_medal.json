@@ -1,0 +1,1202 @@
+
+[
+	
+	{
+		"cast" : 4,
+		"dragonsoul" : 4,
+		"internalforce" : 10,
+		"level" : 1,
+		"refine" : 2,
+		"skill" : 160,
+		"upgrade" : 8,
+		"wing" : 2
+	},
+	
+	{
+		"cast" : 10,
+		"dragonsoul" : 10,
+		"internalforce" : 15,
+		"level" : 2,
+		"refine" : 4,
+		"skill" : 200,
+		"upgrade" : 10,
+		"wing" : 4
+	},
+	
+	{
+		"cast" : 16,
+		"dragonsoul" : 13,
+		"internalforce" : 20,
+		"level" : 3,
+		"refine" : 8,
+		"skill" : 240,
+		"upgrade" : 15,
+		"wing" : 6
+	},
+	
+	{
+		"cast" : 22,
+		"dragonsoul" : 16,
+		"internalforce" : 25,
+		"level" : 4,
+		"refine" : 12,
+		"skill" : 280,
+		"upgrade" : 20,
+		"wing" : 8
+	},
+	
+	{
+		"cast" : 31,
+		"dragonsoul" : 23,
+		"internalforce" : 30,
+		"level" : 5,
+		"refine" : 18,
+		"skill" : 460,
+		"upgrade" : 35,
+		"wing" : 10
+	},
+	
+	{
+		"cast" : 40,
+		"dragonsoul" : 30,
+		"internalforce" : 35,
+		"level" : 6,
+		"refine" : 24,
+		"skill" : 640,
+		"upgrade" : 50,
+		"wing" : 12
+	},
+	
+	{
+		"cast" : 50,
+		"dragonsoul" : 35,
+		"internalforce" : 40,
+		"level" : 7,
+		"refine" : 25,
+		"skill" : 653,
+		"upgrade" : 51,
+		"wing" : 14
+	},
+	
+	{
+		"cast" : 58,
+		"dragonsoul" : 40,
+		"internalforce" : 45,
+		"level" : 8,
+		"refine" : 26,
+		"skill" : 666,
+		"upgrade" : 53,
+		"wing" : 16
+	},
+	
+	{
+		"cast" : 70,
+		"dragonsoul" : 45,
+		"internalforce" : 48,
+		"level" : 9,
+		"refine" : 27,
+		"skill" : 679,
+		"upgrade" : 55,
+		"wing" : 20
+	},
+	
+	{
+		"cast" : 77,
+		"dragonsoul" : 50,
+		"internalforce" : 52,
+		"level" : 10,
+		"refine" : 28,
+		"skill" : 693,
+		"upgrade" : 56,
+		"wing" : 25
+	},
+	
+	{
+		"cast" : 90,
+		"dragonsoul" : 55,
+		"internalforce" : 56,
+		"level" : 11,
+		"refine" : 29,
+		"skill" : 706,
+		"upgrade" : 58,
+		"wing" : 30
+	},
+	
+	{
+		"cast" : 96,
+		"dragonsoul" : 60,
+		"internalforce" : 60,
+		"level" : 12,
+		"refine" : 30,
+		"skill" : 720,
+		"upgrade" : 60,
+		"wing" : 31
+	},
+	
+	{
+		"cast" : 107,
+		"dragonsoul" : 65,
+		"internalforce" : 65,
+		"level" : 13,
+		"refine" : 31,
+		"skill" : 730,
+		"upgrade" : 62,
+		"wing" : 32
+	},
+	
+	{
+		"cast" : 115,
+		"dragonsoul" : 70,
+		"internalforce" : 70,
+		"level" : 14,
+		"refine" : 32,
+		"skill" : 740,
+		"upgrade" : 65,
+		"wing" : 33
+	},
+	
+	{
+		"cast" : 122,
+		"dragonsoul" : 75,
+		"internalforce" : 75,
+		"level" : 15,
+		"refine" : 33,
+		"skill" : 750,
+		"upgrade" : 67,
+		"wing" : 34
+	},
+	
+	{
+		"cast" : 130,
+		"dragonsoul" : 80,
+		"internalforce" : 80,
+		"level" : 16,
+		"refine" : 35,
+		"skill" : 760,
+		"upgrade" : 70,
+		"wing" : 35
+	},
+	
+	{
+		"cast" : 137,
+		"dragonsoul" : 85,
+		"internalforce" : 85,
+		"level" : 17,
+		"refine" : 36,
+		"skill" : 770,
+		"upgrade" : 72,
+		"wing" : 36
+	},
+	
+	{
+		"cast" : 145,
+		"dragonsoul" : 90,
+		"internalforce" : 90,
+		"level" : 18,
+		"refine" : 37,
+		"skill" : 780,
+		"upgrade" : 75,
+		"wing" : 37
+	},
+	
+	{
+		"cast" : 152,
+		"dragonsoul" : 95,
+		"internalforce" : 95,
+		"level" : 19,
+		"refine" : 38,
+		"skill" : 790,
+		"upgrade" : 77,
+		"wing" : 38
+	},
+	
+	{
+		"cast" : 160,
+		"dragonsoul" : 100,
+		"internalforce" : 100,
+		"level" : 20,
+		"refine" : 40,
+		"skill" : 800,
+		"upgrade" : 80,
+		"wing" : 39
+	},
+	
+	{
+		"cast" : 166,
+		"dragonsoul" : 105,
+		"internalforce" : 106,
+		"level" : 21,
+		"refine" : 41,
+		"skill" : 808,
+		"upgrade" : 82,
+		"wing" : 40
+	},
+	
+	{
+		"cast" : 173,
+		"dragonsoul" : 111,
+		"internalforce" : 113,
+		"level" : 22,
+		"refine" : 42,
+		"skill" : 817,
+		"upgrade" : 84,
+		"wing" : 42
+	},
+	
+	{
+		"cast" : 180,
+		"dragonsoul" : 116,
+		"internalforce" : 120,
+		"level" : 23,
+		"refine" : 43,
+		"skill" : 826,
+		"upgrade" : 86,
+		"wing" : 44
+	},
+	
+	{
+		"cast" : 186,
+		"dragonsoul" : 122,
+		"internalforce" : 126,
+		"level" : 24,
+		"refine" : 44,
+		"skill" : 835,
+		"upgrade" : 88,
+		"wing" : 46
+	},
+	
+	{
+		"cast" : 193,
+		"dragonsoul" : 127,
+		"internalforce" : 133,
+		"level" : 25,
+		"refine" : 45,
+		"skill" : 844,
+		"upgrade" : 91,
+		"wing" : 48
+	},
+	
+	{
+		"cast" : 200,
+		"dragonsoul" : 133,
+		"internalforce" : 140,
+		"level" : 26,
+		"refine" : 46,
+		"skill" : 853,
+		"upgrade" : 93,
+		"wing" : 50
+	},
+	
+	{
+		"cast" : 206,
+		"dragonsoul" : 138,
+		"internalforce" : 146,
+		"level" : 27,
+		"refine" : 47,
+		"skill" : 862,
+		"upgrade" : 95,
+		"wing" : 54
+	},
+	
+	{
+		"cast" : 213,
+		"dragonsoul" : 143,
+		"internalforce" : 153,
+		"level" : 28,
+		"refine" : 48,
+		"skill" : 871,
+		"upgrade" : 97,
+		"wing" : 58
+	},
+	
+	{
+		"cast" : 220,
+		"dragonsoul" : 148,
+		"internalforce" : 160,
+		"level" : 29,
+		"refine" : 50,
+		"skill" : 880,
+		"upgrade" : 100,
+		"wing" : 60
+	},
+	
+	{
+		"cast" : 226,
+		"dragonsoul" : 153,
+		"internalforce" : 170,
+		"level" : 30,
+		"refine" : 55,
+		"skill" : 950,
+		"upgrade" : 111,
+		"wing" : 65
+	},
+	
+	{
+		"cast" : 232,
+		"dragonsoul" : 157,
+		"internalforce" : 180,
+		"level" : 31,
+		"refine" : 60,
+		"skill" : 1020,
+		"upgrade" : 123,
+		"wing" : 70
+	},
+	
+	{
+		"cast" : 238,
+		"dragonsoul" : 161,
+		"internalforce" : 190,
+		"level" : 32,
+		"refine" : 65,
+		"skill" : 1090,
+		"upgrade" : 135,
+		"wing" : 74
+	},
+	
+	{
+		"cast" : 245,
+		"dragonsoul" : 165,
+		"internalforce" : 200,
+		"level" : 33,
+		"refine" : 70,
+		"skill" : 1160,
+		"upgrade" : 147,
+		"wing" : 78
+	},
+	
+	{
+		"cast" : 251,
+		"dragonsoul" : 168,
+		"internalforce" : 210,
+		"level" : 34,
+		"refine" : 75,
+		"skill" : 1230,
+		"upgrade" : 159,
+		"wing" : 82
+	},
+	
+	{
+		"cast" : 257,
+		"dragonsoul" : 172,
+		"internalforce" : 203,
+		"level" : 35,
+		"refine" : 80,
+		"skill" : 1300,
+		"upgrade" : 171,
+		"wing" : 86
+	},
+	
+	{
+		"cast" : 263,
+		"dragonsoul" : 176,
+		"internalforce" : 220,
+		"level" : 36,
+		"refine" : 85,
+		"skill" : 1370,
+		"upgrade" : 183,
+		"wing" : 90
+	},
+	
+	{
+		"cast" : 270,
+		"dragonsoul" : 180,
+		"internalforce" : 237,
+		"level" : 37,
+		"refine" : 90,
+		"skill" : 1440,
+		"upgrade" : 195,
+		"wing" : 92
+	},
+	
+	{
+		"cast" : 273,
+		"dragonsoul" : 183,
+		"internalforce" : 254,
+		"level" : 38,
+		"refine" : 93,
+		"skill" : 1453,
+		"upgrade" : 200,
+		"wing" : 94
+	},
+	
+	{
+		"cast" : 276,
+		"dragonsoul" : 186,
+		"internalforce" : 271,
+		"level" : 39,
+		"refine" : 96,
+		"skill" : 1466,
+		"upgrade" : 205,
+		"wing" : 96
+	},
+	
+	{
+		"cast" : 279,
+		"dragonsoul" : 189,
+		"internalforce" : 288,
+		"level" : 40,
+		"refine" : 100,
+		"skill" : 1476,
+		"upgrade" : 210,
+		"wing" : 98
+	},
+	
+	{
+		"cast" : 283,
+		"dragonsoul" : 193,
+		"internalforce" : 305,
+		"level" : 41,
+		"refine" : 103,
+		"skill" : 1493,
+		"upgrade" : 215,
+		"wing" : 100
+	},
+	
+	{
+		"cast" : 286,
+		"dragonsoul" : 196,
+		"internalforce" : 322,
+		"level" : 42,
+		"refine" : 106,
+		"skill" : 1506,
+		"upgrade" : 220,
+		"wing" : 104
+	},
+	
+	{
+		"cast" : 289,
+		"dragonsoul" : 199,
+		"internalforce" : 339,
+		"level" : 43,
+		"refine" : 109,
+		"skill" : 1519,
+		"upgrade" : 225,
+		"wing" : 108
+	},
+	
+	{
+		"cast" : 293,
+		"dragonsoul" : 203,
+		"internalforce" : 356,
+		"level" : 44,
+		"refine" : 113,
+		"skill" : 1533,
+		"upgrade" : 230,
+		"wing" : 112
+	},
+	
+	{
+		"cast" : 296,
+		"dragonsoul" : 206,
+		"internalforce" : 373,
+		"level" : 45,
+		"refine" : 116,
+		"skill" : 1546,
+		"upgrade" : 235,
+		"wing" : 116
+	},
+	
+	{
+		"cast" : 300,
+		"dragonsoul" : 210,
+		"internalforce" : 390,
+		"level" : 46,
+		"refine" : 120,
+		"skill" : 1560,
+		"upgrade" : 240,
+		"wing" : 120
+	},
+	
+	{
+		"cast" : 303,
+		"dragonsoul" : 213,
+		"internalforce" : 400,
+		"level" : 47,
+		"refine" : 123,
+		"skill" : 1573,
+		"upgrade" : 244,
+		"wing" : 121
+	},
+	
+	{
+		"cast" : 306,
+		"dragonsoul" : 216,
+		"internalforce" : 410,
+		"level" : 48,
+		"refine" : 126,
+		"skill" : 1586,
+		"upgrade" : 248,
+		"wing" : 122
+	},
+	
+	{
+		"cast" : 309,
+		"dragonsoul" : 219,
+		"internalforce" : 420,
+		"level" : 49,
+		"refine" : 129,
+		"skill" : 1599,
+		"upgrade" : 252,
+		"wing" : 123
+	},
+	
+	{
+		"cast" : 313,
+		"dragonsoul" : 223,
+		"internalforce" : 430,
+		"level" : 50,
+		"refine" : 133,
+		"skill" : 1613,
+		"upgrade" : 256,
+		"wing" : 124
+	},
+	
+	{
+		"cast" : 316,
+		"dragonsoul" : 226,
+		"internalforce" : 440,
+		"level" : 51,
+		"refine" : 136,
+		"skill" : 1626,
+		"upgrade" : 260,
+		"wing" : 125
+	},
+	
+	{
+		"cast" : 318,
+		"dragonsoul" : 229,
+		"internalforce" : 450,
+		"level" : 52,
+		"refine" : 139,
+		"skill" : 1639,
+		"upgrade" : 264,
+		"wing" : 126
+	},
+	
+	{
+		"cast" : 321,
+		"dragonsoul" : 233,
+		"internalforce" : 460,
+		"level" : 53,
+		"refine" : 143,
+		"skill" : 1653,
+		"upgrade" : 268,
+		"wing" : 127
+	},
+	
+	{
+		"cast" : 326,
+		"dragonsoul" : 236,
+		"internalforce" : 470,
+		"level" : 54,
+		"refine" : 146,
+		"skill" : 1666,
+		"upgrade" : 272,
+		"wing" : 128
+	},
+	
+	{
+		"cast" : 330,
+		"dragonsoul" : 240,
+		"internalforce" : 480,
+		"level" : 55,
+		"refine" : 150,
+		"skill" : 1680,
+		"upgrade" : 276,
+		"wing" : 129
+	},
+	
+	{
+		"cast" : 333,
+		"dragonsoul" : 243,
+		"internalforce" : 495,
+		"level" : 56,
+		"refine" : 153,
+		"skill" : 1695,
+		"upgrade" : 281,
+		"wing" : 130
+	},
+	
+	{
+		"cast" : 337,
+		"dragonsoul" : 247,
+		"internalforce" : 510,
+		"level" : 57,
+		"refine" : 157,
+		"skill" : 1710,
+		"upgrade" : 286,
+		"wing" : 132
+	},
+	
+	{
+		"cast" : 341,
+		"dragonsoul" : 251,
+		"internalforce" : 525,
+		"level" : 58,
+		"refine" : 161,
+		"skill" : 1725,
+		"upgrade" : 291,
+		"wing" : 134
+	},
+	
+	{
+		"cast" : 345,
+		"dragonsoul" : 255,
+		"internalforce" : 540,
+		"level" : 59,
+		"refine" : 165,
+		"skill" : 1740,
+		"upgrade" : 297,
+		"wing" : 136
+	},
+	
+	{
+		"cast" : 348,
+		"dragonsoul" : 258,
+		"internalforce" : 555,
+		"level" : 60,
+		"refine" : 168,
+		"skill" : 1755,
+		"upgrade" : 302,
+		"wing" : 138
+	},
+	
+	{
+		"cast" : 352,
+		"dragonsoul" : 262,
+		"internalforce" : 570,
+		"level" : 61,
+		"refine" : 172,
+		"skill" : 1770,
+		"upgrade" : 307,
+		"wing" : 140
+	},
+	
+	{
+		"cast" : 348,
+		"dragonsoul" : 267,
+		"internalforce" : 585,
+		"level" : 62,
+		"refine" : 176,
+		"skill" : 1785,
+		"upgrade" : 312,
+		"wing" : 145
+	},
+	
+	{
+		"cast" : 351,
+		"dragonsoul" : 271,
+		"internalforce" : 600,
+		"level" : 63,
+		"refine" : 180,
+		"skill" : 1800,
+		"upgrade" : 318,
+		"wing" : 150
+	},
+	
+	{
+		"cast" : 354,
+		"dragonsoul" : 275,
+		"internalforce" : 621,
+		"level" : 64,
+		"refine" : 184,
+		"skill" : 1817,
+		"upgrade" : 323,
+		"wing" : 151
+	},
+	
+	{
+		"cast" : 357,
+		"dragonsoul" : 279,
+		"internalforce" : 642,
+		"level" : 65,
+		"refine" : 188,
+		"skill" : 1834,
+		"upgrade" : 329,
+		"wing" : 152
+	},
+	
+	{
+		"cast" : 360,
+		"dragonsoul" : 283,
+		"internalforce" : 664,
+		"level" : 66,
+		"refine" : 192,
+		"skill" : 1851,
+		"upgrade" : 334,
+		"wing" : 153
+	},
+	
+	{
+		"cast" : 363,
+		"dragonsoul" : 287,
+		"internalforce" : 685,
+		"level" : 67,
+		"refine" : 197,
+		"skill" : 1868,
+		"upgrade" : 340,
+		"wing" : 154
+	},
+	
+	{
+		"cast" : 366,
+		"dragonsoul" : 291,
+		"internalforce" : 707,
+		"level" : 68,
+		"refine" : 201,
+		"skill" : 1885,
+		"upgrade" : 345,
+		"wing" : 155
+	},
+	
+	{
+		"cast" : 369,
+		"dragonsoul" : 295,
+		"internalforce" : 728,
+		"level" : 69,
+		"refine" : 205,
+		"skill" : 1902,
+		"upgrade" : 351,
+		"wing" : 156
+	},
+	
+	{
+		"cast" : 372,
+		"dragonsoul" : 300,
+		"internalforce" : 750,
+		"level" : 70,
+		"refine" : 210,
+		"skill" : 1920,
+		"upgrade" : 357,
+		"wing" : 157
+	},
+	
+	{
+		"cast" : 375,
+		"dragonsoul" : 305,
+		"internalforce" : 775,
+		"level" : 71,
+		"refine" : 215,
+		"skill" : 1940,
+		"upgrade" : 363,
+		"wing" : 158
+	},
+	
+	{
+		"cast" : 378,
+		"dragonsoul" : 310,
+		"internalforce" : 800,
+		"level" : 72,
+		"refine" : 220,
+		"skill" : 1960,
+		"upgrade" : 369,
+		"wing" : 160
+	},
+	
+	{
+		"cast" : 381,
+		"dragonsoul" : 315,
+		"internalforce" : 825,
+		"level" : 73,
+		"refine" : 225,
+		"skill" : 1980,
+		"upgrade" : 375,
+		"wing" : 165
+	},
+	
+	{
+		"cast" : 384,
+		"dragonsoul" : 320,
+		"internalforce" : 850,
+		"level" : 74,
+		"refine" : 230,
+		"skill" : 2000,
+		"upgrade" : 381,
+		"wing" : 170
+	},
+	
+	{
+		"cast" : 387,
+		"dragonsoul" : 325,
+		"internalforce" : 875,
+		"level" : 75,
+		"refine" : 235,
+		"skill" : 2020,
+		"upgrade" : 387,
+		"wing" : 175
+	},
+	
+	{
+		"cast" : 510,
+		"dragonsoul" : 330,
+		"internalforce" : 900,
+		"level" : 76,
+		"refine" : 240,
+		"skill" : 2040,
+		"upgrade" : 393,
+		"wing" : 180
+	},
+	
+	{
+		"cast" : 525,
+		"dragonsoul" : 335,
+		"internalforce" : 925,
+		"level" : 77,
+		"refine" : 250,
+		"skill" : 2060,
+		"upgrade" : 399,
+		"wing" : 181
+	},
+	
+	{
+		"cast" : 540,
+		"dragonsoul" : 340,
+		"internalforce" : 950,
+		"level" : 78,
+		"refine" : 260,
+		"skill" : 2080,
+		"upgrade" : 405,
+		"wing" : 182
+	},
+	
+	{
+		"cast" : 555,
+		"dragonsoul" : 345,
+		"internalforce" : 975,
+		"level" : 79,
+		"refine" : 270,
+		"skill" : 2100,
+		"upgrade" : 411,
+		"wing" : 183
+	},
+	
+	{
+		"cast" : 570,
+		"dragonsoul" : 350,
+		"internalforce" : 1000,
+		"level" : 80,
+		"refine" : 280,
+		"skill" : 2120,
+		"upgrade" : 417,
+		"wing" : 184
+	},
+	
+	{
+		"cast" : 585,
+		"dragonsoul" : 355,
+		"internalforce" : 1025,
+		"level" : 81,
+		"refine" : 290,
+		"skill" : 2160,
+		"upgrade" : 423,
+		"wing" : 185
+	},
+	
+	{
+		"cast" : 600,
+		"dragonsoul" : 360,
+		"internalforce" : 1050,
+		"level" : 82,
+		"refine" : 300,
+		"skill" : 2177,
+		"upgrade" : 429,
+		"wing" : 186
+	},
+	
+	{
+		"cast" : 621,
+		"dragonsoul" : 365,
+		"internalforce" : 1071,
+		"level" : 83,
+		"refine" : 308,
+		"skill" : 2194,
+		"upgrade" : 434,
+		"wing" : 188
+	},
+	
+	{
+		"cast" : 642,
+		"dragonsoul" : 370,
+		"internalforce" : 1092,
+		"level" : 84,
+		"refine" : 317,
+		"skill" : 2211,
+		"upgrade" : 439,
+		"wing" : 190
+	},
+	
+	{
+		"cast" : 664,
+		"dragonsoul" : 375,
+		"internalforce" : 1114,
+		"level" : 85,
+		"refine" : 325,
+		"skill" : 2228,
+		"upgrade" : 444,
+		"wing" : 195
+	},
+	
+	{
+		"cast" : 685,
+		"dragonsoul" : 380,
+		"internalforce" : 1135,
+		"level" : 86,
+		"refine" : 334,
+		"skill" : 2245,
+		"upgrade" : 449,
+		"wing" : 200
+	},
+	
+	{
+		"cast" : 707,
+		"dragonsoul" : 385,
+		"internalforce" : 1157,
+		"level" : 87,
+		"refine" : 342,
+		"skill" : 2262,
+		"upgrade" : 454,
+		"wing" : 204
+	},
+	
+	{
+		"cast" : 714,
+		"dragonsoul" : 390,
+		"internalforce" : 1178,
+		"level" : 88,
+		"refine" : 351,
+		"skill" : 2280,
+		"upgrade" : 459,
+		"wing" : 208
+	},
+	
+	{
+		"cast" : 731,
+		"dragonsoul" : 395,
+		"internalforce" : 1200,
+		"level" : 89,
+		"refine" : 360,
+		"skill" : 2293,
+		"upgrade" : 465,
+		"wing" : 210
+	},
+	
+	{
+		"cast" : 748,
+		"dragonsoul" : 400,
+		"internalforce" : 1233,
+		"level" : 90,
+		"refine" : 366,
+		"skill" : 2293,
+		"upgrade" : 469,
+		"wing" : 212
+	},
+	
+	{
+		"cast" : 765,
+		"dragonsoul" : 405,
+		"internalforce" : 1266,
+		"level" : 91,
+		"refine" : 373,
+		"skill" : 2306,
+		"upgrade" : 473,
+		"wing" : 214
+	},
+	
+	{
+		"cast" : 782,
+		"dragonsoul" : 410,
+		"internalforce" : 1299,
+		"level" : 92,
+		"refine" : 380,
+		"skill" : 2319,
+		"upgrade" : 477,
+		"wing" : 216
+	},
+	
+	{
+		"cast" : 799,
+		"dragonsoul" : 415,
+		"internalforce" : 1333,
+		"level" : 93,
+		"refine" : 386,
+		"skill" : 2333,
+		"upgrade" : 481,
+		"wing" : 220
+	},
+	
+	{
+		"cast" : 816,
+		"dragonsoul" : 420,
+		"internalforce" : 1366,
+		"level" : 94,
+		"refine" : 390,
+		"skill" : 2346,
+		"upgrade" : 485,
+		"wing" : 224
+	},
+	
+	{
+		"cast" : 833,
+		"dragonsoul" : 423,
+		"internalforce" : 1399,
+		"level" : 95,
+		"refine" : 393,
+		"skill" : 2359,
+		"upgrade" : 489,
+		"wing" : 228
+	},
+	
+	{
+		"cast" : 850,
+		"dragonsoul" : 436,
+		"internalforce" : 1433,
+		"level" : 96,
+		"refine" : 406,
+		"skill" : 2373,
+		"upgrade" : 493,
+		"wing" : 232
+	},
+	
+	{
+		"cast" : 866,
+		"dragonsoul" : 443,
+		"internalforce" : 1466,
+		"level" : 97,
+		"refine" : 413,
+		"skill" : 2386,
+		"upgrade" : 497,
+		"wing" : 236
+	},
+	
+	{
+		"cast" : 883,
+		"dragonsoul" : 450,
+		"internalforce" : 1500,
+		"level" : 98,
+		"refine" : 420,
+		"skill" : 2393,
+		"upgrade" : 501,
+		"wing" : 240
+	},
+	
+	{
+		"cast" : 900,
+		"dragonsoul" : 460,
+		"internalforce" : 1540,
+		"level" : 99,
+		"refine" : 430,
+		"skill" : 2400,
+		"upgrade" : 506,
+		"wing" : 244
+	},
+	
+	{
+		"cast" : 920,
+		"dragonsoul" : 470,
+		"internalforce" : 1580,
+		"level" : 100,
+		"refine" : 440,
+		"skill" : 2420,
+		"upgrade" : 511,
+		"wing" : 248
+	},
+	
+	{
+		"cast" : 960,
+		"dragonsoul" : 480,
+		"internalforce" : 1620,
+		"level" : 101,
+		"refine" : 450,
+		"skill" : 2460,
+		"upgrade" : 516,
+		"wing" : 252
+	},
+	
+	{
+		"cast" : 980,
+		"dragonsoul" : 490,
+		"internalforce" : 1660,
+		"level" : 102,
+		"refine" : 460,
+		"skill" : 2480,
+		"upgrade" : 521,
+		"wing" : 256
+	},
+	
+	{
+		"cast" : 1000,
+		"dragonsoul" : 500,
+		"internalforce" : 1700,
+		"level" : 103,
+		"refine" : 470,
+		"skill" : 2500,
+		"upgrade" : 526,
+		"wing" : 258
+	},
+	
+	{
+		"cast" : 1020,
+		"dragonsoul" : 510,
+		"internalforce" : 1740,
+		"level" : 104,
+		"refine" : 480,
+		"skill" : 2520,
+		"upgrade" : 531,
+		"wing" : 260
+	},
+	
+	{
+		"cast" : 1040,
+		"dragonsoul" : 520,
+		"internalforce" : 1780,
+		"level" : 105,
+		"refine" : 490,
+		"skill" : 2540,
+		"upgrade" : 536,
+		"wing" : 262
+	},
+	
+	{
+		"cast" : 1060,
+		"dragonsoul" : 530,
+		"internalforce" : 1820,
+		"level" : 106,
+		"refine" : 500,
+		"skill" : 2560,
+		"upgrade" : 541,
+		"wing" : 264
+	},
+	
+	{
+		"cast" : 1080,
+		"dragonsoul" : 540,
+		"internalforce" : 1860,
+		"level" : 107,
+		"refine" : 510,
+		"skill" : 2580,
+		"upgrade" : 546,
+		"wing" : 266
+	},
+	
+	{
+		"cast" : 1100,
+		"dragonsoul" : 550,
+		"internalforce" : 1900,
+		"level" : 108,
+		"refine" : 520,
+		"skill" : 2600,
+		"upgrade" : 551,
+		"wing" : 268
+	},
+	
+	{
+		"cast" : 1120,
+		"dragonsoul" : 560,
+		"internalforce" : 1940,
+		"level" : 109,
+		"refine" : 530,
+		"skill" : 2620,
+		"upgrade" : 556,
+		"wing" : 270
+	}
+]

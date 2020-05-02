@@ -1,0 +1,263 @@
+
+[
+	
+	{
+		"copyCode" : 3603,
+		"floor" : 1,
+		"star0DropList" : "2,49,51200#",
+		"star0Time" : 300,
+		"star1DropList" : "2,49,64000#",
+		"star1Time" : 200,
+		"star2DropList" : "2,49,80000#",
+		"star2Time" : 140,
+		"star3DropList" : "2,49,100000#",
+		"star3Time" : 120
+	},
+	
+	{
+		"copyCode" : 3603,
+		"floor" : 2,
+		"star0DropList" : "2,49,80000#",
+		"star0Time" : 300,
+		"star1DropList" : "2,49,100000#",
+		"star1Time" : 200,
+		"star2DropList" : "2,49,125000#",
+		"star2Time" : 140,
+		"star3DropList" : "2,49,150000#",
+		"star3Time" : 120
+	},
+	
+	{
+		"copyCode" : 3603,
+		"floor" : 3,
+		"star0DropList" : "2,49,120000#",
+		"star0Time" : 300,
+		"star1DropList" : "2,49,150000#",
+		"star1Time" : 200,
+		"star2DropList" : "2,49,175000#",
+		"star2Time" : 140,
+		"star3DropList" : "2,49,200000#",
+		"star3Time" : 120
+	},
+	
+	{
+		"copyCode" : 3603,
+		"floor" : 4,
+		"star0DropList" : "2,49,160000#",
+		"star0Time" : 300,
+		"star1DropList" : "2,49,200000#",
+		"star1Time" : 200,
+		"star2DropList" : "2,49,225000#",
+		"star2Time" : 140,
+		"star3DropList" : "2,49,250000#",
+		"star3Time" : 120
+	},
+	
+	{
+		"copyCode" : 3603,
+		"floor" : 5,
+		"star0DropList" : "2,49,200000#",
+		"star0Time" : 300,
+		"star1DropList" : "2,49,250000#",
+		"star1Time" : 200,
+		"star2DropList" : "2,49,275000#",
+		"star2Time" : 140,
+		"star3DropList" : "2,49,300000#",
+		"star3Time" : 120
+	},
+	
+	{
+		"copyCode" : 3603,
+		"floor" : 6,
+		"star0DropList" : "2,49,240000#",
+		"star0Time" : 300,
+		"star1DropList" : "2,49,300000#",
+		"star1Time" : 200,
+		"star2DropList" : "2,49,350000#",
+		"star2Time" : 140,
+		"star3DropList" : "2,49,400000#",
+		"star3Time" : 120
+	},
+	
+	{
+		"copyCode" : 3603,
+		"floor" : 7,
+		"star0DropList" : "2,49,320000#",
+		"star0Time" : 300,
+		"star1DropList" : "2,49,400000#",
+		"star1Time" : 200,
+		"star2DropList" : "2,49,500000#",
+		"star2Time" : 140,
+		"star3DropList" : "2,49,600000#",
+		"star3Time" : 120
+	},
+	
+	{
+		"copyCode" : 3603,
+		"floor" : 8,
+		"star0DropList" : "2,49,480000#",
+		"star0Time" : 300,
+		"star1DropList" : "2,49,600000#",
+		"star1Time" : 200,
+		"star2DropList" : "2,49,700000#",
+		"star2Time" : 140,
+		"star3DropList" : "2,49,800000#",
+		"star3Time" : 120
+	},
+	
+	{
+		"copyCode" : 3603,
+		"floor" : 9,
+		"star0DropList" : "2,49,640000#",
+		"star0Time" : 300,
+		"star1DropList" : "2,49,800000#",
+		"star1Time" : 200,
+		"star2DropList" : "2,49,850000#",
+		"star2Time" : 140,
+		"star3DropList" : "2,49,900000#",
+		"star3Time" : 120
+	},
+	
+	{
+		"copyCode" : 3603,
+		"floor" : 10,
+		"star0DropList" : "2,49,720000#",
+		"star0Time" : 300,
+		"star1DropList" : "2,49,900000#",
+		"star1Time" : 200,
+		"star2DropList" : "2,49,950000#",
+		"star2Time" : 140,
+		"star3DropList" : "2,49,1000000#",
+		"star3Time" : 120
+	},
+	
+	{
+		"copyCode" : 3603,
+		"floor" : 11,
+		"star0DropList" : "2,49,800000#",
+		"star0Time" : 300,
+		"star1DropList" : "2,49,1000000#",
+		"star1Time" : 200,
+		"star2DropList" : "2,49,1050000#",
+		"star2Time" : 140,
+		"star3DropList" : "2,49,1100000#",
+		"star3Time" : 120
+	},
+	
+	{
+		"copyCode" : 3603,
+		"floor" : 12,
+		"star0DropList" : "2,49,880000#",
+		"star0Time" : 300,
+		"star1DropList" : "2,49,1100000#",
+		"star1Time" : 200,
+		"star2DropList" : "2,49,1150000#",
+		"star2Time" : 140,
+		"star3DropList" : "2,49,1200000#",
+		"star3Time" : 120
+	},
+	
+	{
+		"copyCode" : 3603,
+		"floor" : 13,
+		"star0DropList" : "2,49,960000#",
+		"star0Time" : 300,
+		"star1DropList" : "2,49,1200000#",
+		"star1Time" : 200,
+		"star2DropList" : "2,49,1250000#",
+		"star2Time" : 140,
+		"star3DropList" : "2,49,1300000#",
+		"star3Time" : 120
+	},
+	
+	{
+		"copyCode" : 3603,
+		"floor" : 14,
+		"star0DropList" : "2,49,1040000#",
+		"star0Time" : 300,
+		"star1DropList" : "2,49,1300000#",
+		"star1Time" : 200,
+		"star2DropList" : "2,49,1350000#",
+		"star2Time" : 140,
+		"star3DropList" : "2,49,1400000#",
+		"star3Time" : 120
+	},
+	
+	{
+		"copyCode" : 3603,
+		"floor" : 15,
+		"star0DropList" : "2,49,1120000#",
+		"star0Time" : 300,
+		"star1DropList" : "2,49,1400000#",
+		"star1Time" : 200,
+		"star2DropList" : "2,49,1450000#",
+		"star2Time" : 140,
+		"star3DropList" : "2,49,1500000#",
+		"star3Time" : 120
+	},
+	
+	{
+		"copyCode" : 3603,
+		"floor" : 16,
+		"star0DropList" : "2,49,1200000#",
+		"star0Time" : 300,
+		"star1DropList" : "2,49,1500000#",
+		"star1Time" : 200,
+		"star2DropList" : "2,49,1550000#",
+		"star2Time" : 140,
+		"star3DropList" : "2,49,1600000#",
+		"star3Time" : 120
+	},
+	
+	{
+		"copyCode" : 3603,
+		"floor" : 17,
+		"star0DropList" : "2,49,1280000#",
+		"star0Time" : 300,
+		"star1DropList" : "2,49,1600000#",
+		"star1Time" : 200,
+		"star2DropList" : "2,49,1650000#",
+		"star2Time" : 140,
+		"star3DropList" : "2,49,1700000#",
+		"star3Time" : 120
+	},
+	
+	{
+		"copyCode" : 3603,
+		"floor" : 18,
+		"star0DropList" : "2,49,1360000#",
+		"star0Time" : 300,
+		"star1DropList" : "2,49,1700000#",
+		"star1Time" : 200,
+		"star2DropList" : "2,49,1750000#",
+		"star2Time" : 140,
+		"star3DropList" : "2,49,1800000#",
+		"star3Time" : 120
+	},
+	
+	{
+		"copyCode" : 3603,
+		"floor" : 19,
+		"star0DropList" : "2,49,1440000#",
+		"star0Time" : 300,
+		"star1DropList" : "2,49,1800000#",
+		"star1Time" : 200,
+		"star2DropList" : "2,49,1850000#",
+		"star2Time" : 140,
+		"star3DropList" : "2,49,1900000#",
+		"star3Time" : 120
+	},
+	
+	{
+		"copyCode" : 3603,
+		"floor" : 20,
+		"star0DropList" : "2,49,1520000#",
+		"star0Time" : 300,
+		"star1DropList" : "2,49,1900000#",
+		"star1Time" : 200,
+		"star2DropList" : "2,49,1950000#",
+		"star2Time" : 140,
+		"star3DropList" : "2,49,2000000#",
+		"star3Time" : 120
+	}
+]

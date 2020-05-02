@@ -1,0 +1,507 @@
+
+[
+	
+	{
+		"amount" : 1,
+		"cost" : 150,
+		"itemAmount" : 1,
+		"itemCode" : 42130001,
+		"personLower" : 1,
+		"personUp" : 20,
+		"runeCoinLower" : 36,
+		"runeCoinUp" : 42,
+		"runeCrystalLower" : 20,
+		"runeCrystalUp" : 20,
+		"type" : 42044001
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 1200,
+		"itemAmount" : 8,
+		"itemCode" : 42130001,
+		"personLower" : 2,
+		"personUp" : 9,
+		"runeCoinLower" : 360,
+		"runeCoinUp" : 420,
+		"runeCrystalLower" : 200,
+		"runeCrystalUp" : 200,
+		"type" : 42044001
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 150,
+		"itemAmount" : 1,
+		"itemCode" : 42130001,
+		"personLower" : 1,
+		"personUp" : 20,
+		"runeCoinLower" : 36,
+		"runeCoinUp" : 42,
+		"runeCrystalLower" : 20,
+		"runeCrystalUp" : 20,
+		"type" : 42044002
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 1200,
+		"itemAmount" : 8,
+		"itemCode" : 42130001,
+		"personLower" : 2,
+		"personUp" : 9,
+		"runeCoinLower" : 360,
+		"runeCoinUp" : 420,
+		"runeCrystalLower" : 200,
+		"runeCrystalUp" : 200,
+		"type" : 42044002
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 150,
+		"itemAmount" : 1,
+		"itemCode" : 42130001,
+		"personLower" : 1,
+		"personUp" : 20,
+		"runeCoinLower" : 36,
+		"runeCoinUp" : 42,
+		"runeCrystalLower" : 20,
+		"runeCrystalUp" : 20,
+		"type" : 42044003
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 1200,
+		"itemAmount" : 8,
+		"itemCode" : 42130001,
+		"personLower" : 2,
+		"personUp" : 9,
+		"runeCoinLower" : 360,
+		"runeCoinUp" : 420,
+		"runeCrystalLower" : 200,
+		"runeCrystalUp" : 200,
+		"type" : 42044003
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 150,
+		"itemAmount" : 1,
+		"itemCode" : 42130001,
+		"personLower" : 1,
+		"personUp" : 20,
+		"runeCoinLower" : 36,
+		"runeCoinUp" : 42,
+		"runeCrystalLower" : 20,
+		"runeCrystalUp" : 20,
+		"type" : 42044004
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 1200,
+		"itemAmount" : 8,
+		"itemCode" : 42130001,
+		"personLower" : 2,
+		"personUp" : 9,
+		"runeCoinLower" : 360,
+		"runeCoinUp" : 420,
+		"runeCrystalLower" : 200,
+		"runeCrystalUp" : 200,
+		"type" : 42044004
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 150,
+		"itemAmount" : 1,
+		"itemCode" : 42130001,
+		"personLower" : 1,
+		"personUp" : 20,
+		"runeCoinLower" : 36,
+		"runeCoinUp" : 42,
+		"runeCrystalLower" : 20,
+		"runeCrystalUp" : 20,
+		"type" : 42044005
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 1200,
+		"itemAmount" : 8,
+		"itemCode" : 42130001,
+		"personLower" : 2,
+		"personUp" : 9,
+		"runeCoinLower" : 360,
+		"runeCoinUp" : 420,
+		"runeCrystalLower" : 200,
+		"runeCrystalUp" : 200,
+		"type" : 42044005
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 150,
+		"itemAmount" : 1,
+		"itemCode" : 42130001,
+		"personLower" : 1,
+		"personUp" : 20,
+		"runeCoinLower" : 36,
+		"runeCoinUp" : 42,
+		"runeCrystalLower" : 20,
+		"runeCrystalUp" : 20,
+		"type" : 42044006
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 1200,
+		"itemAmount" : 8,
+		"itemCode" : 42130001,
+		"personLower" : 2,
+		"personUp" : 9,
+		"runeCoinLower" : 360,
+		"runeCoinUp" : 420,
+		"runeCrystalLower" : 200,
+		"runeCrystalUp" : 200,
+		"type" : 42044006
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 150,
+		"itemAmount" : 1,
+		"itemCode" : 42130001,
+		"personLower" : 1,
+		"personUp" : 20,
+		"runeCoinLower" : 36,
+		"runeCoinUp" : 42,
+		"runeCrystalLower" : 20,
+		"runeCrystalUp" : 20,
+		"type" : 42044007
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 1200,
+		"itemAmount" : 8,
+		"itemCode" : 42130001,
+		"personLower" : 2,
+		"personUp" : 9,
+		"runeCoinLower" : 360,
+		"runeCoinUp" : 420,
+		"runeCrystalLower" : 200,
+		"runeCrystalUp" : 200,
+		"type" : 42044007
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 150,
+		"itemAmount" : 1,
+		"itemCode" : 42130001,
+		"personLower" : 1,
+		"personUp" : 20,
+		"runeCoinLower" : 36,
+		"runeCoinUp" : 42,
+		"runeCrystalLower" : 20,
+		"runeCrystalUp" : 20,
+		"type" : 42044008
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 1200,
+		"itemAmount" : 8,
+		"itemCode" : 42130001,
+		"personLower" : 2,
+		"personUp" : 9,
+		"runeCoinLower" : 360,
+		"runeCoinUp" : 420,
+		"runeCrystalLower" : 200,
+		"runeCrystalUp" : 200,
+		"type" : 42044008
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 150,
+		"itemAmount" : 1,
+		"itemCode" : 42130001,
+		"personLower" : 1,
+		"personUp" : 20,
+		"runeCoinLower" : 36,
+		"runeCoinUp" : 42,
+		"runeCrystalLower" : 20,
+		"runeCrystalUp" : 20,
+		"type" : 42044009
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 1200,
+		"itemAmount" : 8,
+		"itemCode" : 42130001,
+		"personLower" : 2,
+		"personUp" : 9,
+		"runeCoinLower" : 360,
+		"runeCoinUp" : 420,
+		"runeCrystalLower" : 200,
+		"runeCrystalUp" : 200,
+		"type" : 42044009
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 150,
+		"itemAmount" : 1,
+		"itemCode" : 42130001,
+		"personLower" : 1,
+		"personUp" : 20,
+		"runeCoinLower" : 36,
+		"runeCoinUp" : 42,
+		"runeCrystalLower" : 20,
+		"runeCrystalUp" : 20,
+		"type" : 42044010
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 1200,
+		"itemAmount" : 8,
+		"itemCode" : 42130001,
+		"personLower" : 2,
+		"personUp" : 9,
+		"runeCoinLower" : 360,
+		"runeCoinUp" : 420,
+		"runeCrystalLower" : 200,
+		"runeCrystalUp" : 200,
+		"type" : 42044010
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 150,
+		"itemAmount" : 1,
+		"itemCode" : 42130001,
+		"personLower" : 1,
+		"personUp" : 20,
+		"runeCoinLower" : 36,
+		"runeCoinUp" : 42,
+		"runeCrystalLower" : 20,
+		"runeCrystalUp" : 20,
+		"type" : 42044011
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 1200,
+		"itemAmount" : 8,
+		"itemCode" : 42130001,
+		"personLower" : 2,
+		"personUp" : 9,
+		"runeCoinLower" : 360,
+		"runeCoinUp" : 420,
+		"runeCrystalLower" : 200,
+		"runeCrystalUp" : 200,
+		"type" : 42044011
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 150,
+		"itemAmount" : 1,
+		"itemCode" : 42130001,
+		"personLower" : 1,
+		"personUp" : 20,
+		"runeCoinLower" : 36,
+		"runeCoinUp" : 42,
+		"runeCrystalLower" : 20,
+		"runeCrystalUp" : 20,
+		"type" : 42044012
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 1200,
+		"itemAmount" : 8,
+		"itemCode" : 42130001,
+		"personLower" : 2,
+		"personUp" : 9,
+		"runeCoinLower" : 360,
+		"runeCoinUp" : 420,
+		"runeCrystalLower" : 200,
+		"runeCrystalUp" : 200,
+		"type" : 42044012
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 150,
+		"itemAmount" : 1,
+		"itemCode" : 42130001,
+		"personLower" : 1,
+		"personUp" : 20,
+		"runeCoinLower" : 36,
+		"runeCoinUp" : 42,
+		"runeCrystalLower" : 20,
+		"runeCrystalUp" : 20,
+		"type" : 42044013
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 1200,
+		"itemAmount" : 8,
+		"itemCode" : 42130001,
+		"personLower" : 2,
+		"personUp" : 9,
+		"runeCoinLower" : 360,
+		"runeCoinUp" : 420,
+		"runeCrystalLower" : 200,
+		"runeCrystalUp" : 200,
+		"type" : 42044013
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 150,
+		"itemAmount" : 1,
+		"itemCode" : 42130001,
+		"personLower" : 1,
+		"personUp" : 20,
+		"runeCoinLower" : 36,
+		"runeCoinUp" : 42,
+		"runeCrystalLower" : 20,
+		"runeCrystalUp" : 20,
+		"type" : 42044014
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 1200,
+		"itemAmount" : 8,
+		"itemCode" : 42130001,
+		"personLower" : 2,
+		"personUp" : 9,
+		"runeCoinLower" : 360,
+		"runeCoinUp" : 420,
+		"runeCrystalLower" : 200,
+		"runeCrystalUp" : 200,
+		"type" : 42044014
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 150,
+		"itemAmount" : 1,
+		"itemCode" : 42130001,
+		"personLower" : 1,
+		"personUp" : 20,
+		"runeCoinLower" : 36,
+		"runeCoinUp" : 42,
+		"runeCrystalLower" : 20,
+		"runeCrystalUp" : 20,
+		"type" : 42044015
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 1200,
+		"itemAmount" : 8,
+		"itemCode" : 42130001,
+		"personLower" : 2,
+		"personUp" : 9,
+		"runeCoinLower" : 360,
+		"runeCoinUp" : 420,
+		"runeCrystalLower" : 200,
+		"runeCrystalUp" : 200,
+		"type" : 42044015
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 150,
+		"itemAmount" : 1,
+		"itemCode" : 42130001,
+		"personLower" : 1,
+		"personUp" : 20,
+		"runeCoinLower" : 36,
+		"runeCoinUp" : 42,
+		"runeCrystalLower" : 20,
+		"runeCrystalUp" : 20,
+		"type" : 42044016
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 1200,
+		"itemAmount" : 8,
+		"itemCode" : 42130001,
+		"personLower" : 2,
+		"personUp" : 9,
+		"runeCoinLower" : 360,
+		"runeCoinUp" : 420,
+		"runeCrystalLower" : 200,
+		"runeCrystalUp" : 200,
+		"type" : 42044016
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 150,
+		"itemAmount" : 1,
+		"itemCode" : 42130001,
+		"personLower" : 1,
+		"personUp" : 20,
+		"runeCoinLower" : 36,
+		"runeCoinUp" : 42,
+		"runeCrystalLower" : 20,
+		"runeCrystalUp" : 20,
+		"type" : 42044017
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 1200,
+		"itemAmount" : 8,
+		"itemCode" : 42130001,
+		"personLower" : 2,
+		"personUp" : 9,
+		"runeCoinLower" : 360,
+		"runeCoinUp" : 420,
+		"runeCrystalLower" : 200,
+		"runeCrystalUp" : 200,
+		"type" : 42044017
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 150,
+		"itemAmount" : 1,
+		"itemCode" : 42130001,
+		"personLower" : 1,
+		"personUp" : 20,
+		"runeCoinLower" : 36,
+		"runeCoinUp" : 42,
+		"runeCrystalLower" : 20,
+		"runeCrystalUp" : 20,
+		"type" : 42044018
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 1200,
+		"itemAmount" : 8,
+		"itemCode" : 42130001,
+		"personLower" : 2,
+		"personUp" : 9,
+		"runeCoinLower" : 360,
+		"runeCoinUp" : 420,
+		"runeCrystalLower" : 200,
+		"runeCrystalUp" : 200,
+		"type" : 42044018
+	}
+]

@@ -1,0 +1,1244 @@
+
+[
+	
+	{
+		"addStar" : 1,
+		"advance" : 1,
+		"advanceShow" : 5,
+		"failRewards" : "3,60200000,50#2,1,10000#",
+		"level" : 1,
+		"stage" : 1,
+		"successRewards" : "3,60200000,100#2,1,10000#",
+		"tolStar" : 3
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 1,
+		"advanceShow" : 5,
+		"failRewards" : "3,60200000,50#2,1,10000#",
+		"level" : 2,
+		"stage" : 1,
+		"star" : 1,
+		"successRewards" : "3,60200000,100#2,1,10000#",
+		"tolStar" : 3
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 1,
+		"advanceShow" : 5,
+		"failRewards" : "3,60200000,50#2,1,10000#",
+		"level" : 3,
+		"stage" : 1,
+		"star" : 2,
+		"successRewards" : "3,60200000,100#2,1,10000#",
+		"tolStar" : 3
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 1,
+		"advanceShow" : 5,
+		"failRewards" : "3,60200000,50#2,1,10000#",
+		"level" : 4,
+		"stage" : 1,
+		"star" : 3,
+		"successRewards" : "3,60200000,100#2,1,10000#",
+		"tolStar" : 3
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 2,
+		"advanceShow" : 4,
+		"failRewards" : "3,60200000,50#2,1,20000#",
+		"level" : 5,
+		"stage" : 1,
+		"successRewards" : "3,60200000,100#2,1,20000#",
+		"tolStar" : 3
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 2,
+		"advanceShow" : 4,
+		"failRewards" : "3,60200000,50#2,1,20000#",
+		"level" : 6,
+		"stage" : 1,
+		"star" : 1,
+		"successRewards" : "3,60200000,100#2,1,20000#",
+		"tolStar" : 3
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 2,
+		"advanceShow" : 4,
+		"failRewards" : "3,60200000,50#2,1,20000#",
+		"level" : 7,
+		"stage" : 1,
+		"star" : 2,
+		"successRewards" : "3,60200000,100#2,1,20000#",
+		"tolStar" : 3
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 2,
+		"advanceShow" : 4,
+		"failRewards" : "3,60200000,50#2,1,20000#",
+		"level" : 8,
+		"stage" : 1,
+		"star" : 3,
+		"successRewards" : "3,60200000,100#2,1,20000#",
+		"tolStar" : 3
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 3,
+		"advanceShow" : 3,
+		"failRewards" : "3,60200000,50#2,1,30000#",
+		"level" : 9,
+		"stage" : 1,
+		"successRewards" : "3,60200000,100#2,1,30000#",
+		"tolStar" : 3
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 3,
+		"advanceShow" : 3,
+		"failRewards" : "3,60200000,50#2,1,30000#",
+		"level" : 10,
+		"stage" : 1,
+		"star" : 1,
+		"successRewards" : "3,60200000,100#2,1,30000#",
+		"tolStar" : 3
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 3,
+		"advanceShow" : 3,
+		"failRewards" : "3,60200000,50#2,1,30000#",
+		"level" : 11,
+		"stage" : 1,
+		"star" : 2,
+		"successRewards" : "3,60200000,100#2,1,30000#",
+		"tolStar" : 3
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 3,
+		"advanceShow" : 3,
+		"failRewards" : "3,60200000,50#2,1,30000#",
+		"level" : 12,
+		"stage" : 1,
+		"star" : 3,
+		"successRewards" : "3,60200000,100#2,1,30000#",
+		"tolStar" : 3
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 4,
+		"advanceShow" : 2,
+		"failRewards" : "3,60200000,50#2,1,40000#",
+		"level" : 13,
+		"stage" : 1,
+		"successRewards" : "3,60200000,100#2,1,40000#",
+		"tolStar" : 3
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 4,
+		"advanceShow" : 2,
+		"failRewards" : "3,60200000,50#2,1,40000#",
+		"level" : 14,
+		"stage" : 1,
+		"star" : 1,
+		"successRewards" : "3,60200000,100#2,1,40000#",
+		"tolStar" : 3
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 4,
+		"advanceShow" : 2,
+		"failRewards" : "3,60200000,50#2,1,40000#",
+		"level" : 15,
+		"stage" : 1,
+		"star" : 2,
+		"successRewards" : "3,60200000,100#2,1,40000#",
+		"tolStar" : 3
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 4,
+		"advanceShow" : 2,
+		"failRewards" : "3,60200000,50#2,1,40000#",
+		"level" : 16,
+		"stage" : 1,
+		"star" : 3,
+		"successRewards" : "3,60200000,100#2,1,40000#",
+		"tolStar" : 3
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 5,
+		"advanceShow" : 1,
+		"failRewards" : "3,60200000,50#2,1,50000#",
+		"level" : 17,
+		"stage" : 1,
+		"successRewards" : "3,60200000,100#2,1,50000#",
+		"tolStar" : 3
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 5,
+		"advanceShow" : 1,
+		"failRewards" : "3,60200000,50#2,1,50000#",
+		"level" : 18,
+		"stage" : 1,
+		"star" : 1,
+		"successRewards" : "3,60200000,100#2,1,50000#",
+		"tolStar" : 3
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 5,
+		"advanceShow" : 1,
+		"failRewards" : "3,60200000,50#2,1,50000#",
+		"level" : 19,
+		"stage" : 1,
+		"star" : 2,
+		"successRewards" : "3,60200000,100#2,1,50000#",
+		"tolStar" : 3
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 5,
+		"advanceShow" : 1,
+		"failRewards" : "3,60200000,50#2,1,50000#",
+		"level" : 20,
+		"stage" : 1,
+		"star" : 3,
+		"successRewards" : "3,60200000,100#2,1,50000#",
+		"tolStar" : 3
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 1,
+		"advanceShow" : 5,
+		"failRewards" : "3,60200000,50#2,1,60000#",
+		"level" : 21,
+		"stage" : 2,
+		"successRewards" : "3,60200000,100#2,1,60000#",
+		"tolStar" : 4
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 1,
+		"advanceShow" : 5,
+		"failRewards" : "3,60200000,50#2,1,60000#",
+		"level" : 22,
+		"stage" : 2,
+		"star" : 1,
+		"successRewards" : "3,60200000,100#2,1,60000#",
+		"tolStar" : 4
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 1,
+		"advanceShow" : 5,
+		"failRewards" : "3,60200000,50#2,1,60000#",
+		"level" : 23,
+		"stage" : 2,
+		"star" : 2,
+		"successRewards" : "3,60200000,100#2,1,60000#",
+		"tolStar" : 4
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 1,
+		"advanceShow" : 5,
+		"failRewards" : "3,60200000,50#2,1,60000#",
+		"level" : 24,
+		"stage" : 2,
+		"star" : 3,
+		"successRewards" : "3,60200000,100#2,1,60000#",
+		"tolStar" : 4
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 1,
+		"advanceShow" : 5,
+		"failRewards" : "3,60200000,50#2,1,60000#",
+		"level" : 25,
+		"stage" : 2,
+		"star" : 4,
+		"successRewards" : "3,60200000,100#2,1,60000#",
+		"tolStar" : 4
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 2,
+		"advanceShow" : 4,
+		"failRewards" : "3,60200000,50#2,1,70000#",
+		"level" : 26,
+		"stage" : 2,
+		"successRewards" : "3,60200000,100#2,1,70000#",
+		"tolStar" : 4
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 2,
+		"advanceShow" : 4,
+		"failRewards" : "3,60200000,50#2,1,70000#",
+		"level" : 27,
+		"stage" : 2,
+		"star" : 1,
+		"successRewards" : "3,60200000,100#2,1,70000#",
+		"tolStar" : 4
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 2,
+		"advanceShow" : 4,
+		"failRewards" : "3,60200000,50#2,1,70000#",
+		"level" : 28,
+		"stage" : 2,
+		"star" : 2,
+		"successRewards" : "3,60200000,100#2,1,70000#",
+		"tolStar" : 4
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 2,
+		"advanceShow" : 4,
+		"failRewards" : "3,60200000,50#2,1,70000#",
+		"level" : 29,
+		"stage" : 2,
+		"star" : 3,
+		"successRewards" : "3,60200000,100#2,1,70000#",
+		"tolStar" : 4
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 2,
+		"advanceShow" : 4,
+		"failRewards" : "3,60200000,50#2,1,70000#",
+		"level" : 30,
+		"stage" : 2,
+		"star" : 4,
+		"successRewards" : "3,60200000,100#2,1,70000#",
+		"tolStar" : 4
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 3,
+		"advanceShow" : 3,
+		"failRewards" : "3,60200000,50#2,1,80000#",
+		"level" : 31,
+		"stage" : 2,
+		"successRewards" : "3,60200000,100#2,1,80000#",
+		"tolStar" : 4
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 3,
+		"advanceShow" : 3,
+		"failRewards" : "3,60200000,50#2,1,80000#",
+		"level" : 32,
+		"stage" : 2,
+		"star" : 1,
+		"successRewards" : "3,60200000,100#2,1,80000#",
+		"tolStar" : 4
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 3,
+		"advanceShow" : 3,
+		"failRewards" : "3,60200000,50#2,1,80000#",
+		"level" : 33,
+		"stage" : 2,
+		"star" : 2,
+		"successRewards" : "3,60200000,100#2,1,80000#",
+		"tolStar" : 4
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 3,
+		"advanceShow" : 3,
+		"failRewards" : "3,60200000,50#2,1,80000#",
+		"level" : 34,
+		"stage" : 2,
+		"star" : 3,
+		"successRewards" : "3,60200000,100#2,1,80000#",
+		"tolStar" : 4
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 3,
+		"advanceShow" : 3,
+		"failRewards" : "3,60200000,50#2,1,80000#",
+		"level" : 35,
+		"stage" : 2,
+		"star" : 4,
+		"successRewards" : "3,60200000,100#2,1,80000#",
+		"tolStar" : 4
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 4,
+		"advanceShow" : 2,
+		"failRewards" : "3,60200000,50#2,1,90000#",
+		"level" : 36,
+		"stage" : 2,
+		"successRewards" : "3,60200000,100#2,1,90000#",
+		"tolStar" : 4
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 4,
+		"advanceShow" : 2,
+		"failRewards" : "3,60200000,50#2,1,90000#",
+		"level" : 37,
+		"stage" : 2,
+		"star" : 1,
+		"successRewards" : "3,60200000,100#2,1,90000#",
+		"tolStar" : 4
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 4,
+		"advanceShow" : 2,
+		"failRewards" : "3,60200000,50#2,1,90000#",
+		"level" : 38,
+		"stage" : 2,
+		"star" : 2,
+		"successRewards" : "3,60200000,100#2,1,90000#",
+		"tolStar" : 4
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 4,
+		"advanceShow" : 2,
+		"failRewards" : "3,60200000,50#2,1,90000#",
+		"level" : 39,
+		"stage" : 2,
+		"star" : 3,
+		"successRewards" : "3,60200000,100#2,1,90000#",
+		"tolStar" : 4
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 4,
+		"advanceShow" : 2,
+		"failRewards" : "3,60200000,50#2,1,90000#",
+		"level" : 40,
+		"stage" : 2,
+		"star" : 4,
+		"successRewards" : "3,60200000,100#2,1,90000#",
+		"tolStar" : 4
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 5,
+		"advanceShow" : 1,
+		"failRewards" : "3,60200000,50#2,1,100000#",
+		"level" : 41,
+		"stage" : 2,
+		"successRewards" : "3,60200000,100#2,1,100000#",
+		"tolStar" : 4
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 5,
+		"advanceShow" : 1,
+		"failRewards" : "3,60200000,50#2,1,100000#",
+		"level" : 42,
+		"stage" : 2,
+		"star" : 1,
+		"successRewards" : "3,60200000,100#2,1,100000#",
+		"tolStar" : 4
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 5,
+		"advanceShow" : 1,
+		"failRewards" : "3,60200000,50#2,1,100000#",
+		"level" : 43,
+		"stage" : 2,
+		"star" : 2,
+		"successRewards" : "3,60200000,100#2,1,100000#",
+		"tolStar" : 4
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 5,
+		"advanceShow" : 1,
+		"failRewards" : "3,60200000,50#2,1,100000#",
+		"level" : 44,
+		"stage" : 2,
+		"star" : 3,
+		"successRewards" : "3,60200000,100#2,1,100000#",
+		"tolStar" : 4
+	},
+	
+	{
+		"addStar" : 1,
+		"advance" : 5,
+		"advanceShow" : 1,
+		"failRewards" : "3,60200000,50#2,1,100000#",
+		"level" : 45,
+		"stage" : 2,
+		"star" : 4,
+		"successRewards" : "3,60200000,100#2,1,100000#",
+		"tolStar" : 4
+	},
+	
+	{
+		"advance" : 1,
+		"advanceShow" : 5,
+		"failRewards" : "3,60200000,50#2,1,110000#",
+		"level" : 46,
+		"stage" : 3,
+		"successRewards" : "3,60200000,100#2,1,110000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 1,
+		"advanceShow" : 5,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,110000#",
+		"level" : 47,
+		"stage" : 3,
+		"star" : 1,
+		"successRewards" : "3,60200000,100#2,1,110000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 1,
+		"advanceShow" : 5,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,110000#",
+		"level" : 48,
+		"stage" : 3,
+		"star" : 2,
+		"successRewards" : "3,60200000,100#2,1,110000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 1,
+		"advanceShow" : 5,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,110000#",
+		"level" : 49,
+		"stage" : 3,
+		"star" : 3,
+		"successRewards" : "3,60200000,100#2,1,110000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 1,
+		"advanceShow" : 5,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,110000#",
+		"level" : 50,
+		"stage" : 3,
+		"star" : 4,
+		"successRewards" : "3,60200000,100#2,1,110000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 1,
+		"advanceShow" : 5,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,110000#",
+		"level" : 51,
+		"stage" : 3,
+		"star" : 5,
+		"successRewards" : "3,60200000,100#2,1,110000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 2,
+		"advanceShow" : 4,
+		"failRewards" : "3,60200000,50#2,1,120000#",
+		"level" : 52,
+		"stage" : 3,
+		"successRewards" : "3,60200000,100#2,1,120000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 2,
+		"advanceShow" : 4,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,120000#",
+		"level" : 53,
+		"stage" : 3,
+		"star" : 1,
+		"successRewards" : "3,60200000,100#2,1,120000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 2,
+		"advanceShow" : 4,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,120000#",
+		"level" : 54,
+		"stage" : 3,
+		"star" : 2,
+		"successRewards" : "3,60200000,100#2,1,120000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 2,
+		"advanceShow" : 4,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,120000#",
+		"level" : 55,
+		"stage" : 3,
+		"star" : 3,
+		"successRewards" : "3,60200000,100#2,1,120000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 2,
+		"advanceShow" : 4,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,120000#",
+		"level" : 56,
+		"stage" : 3,
+		"star" : 4,
+		"successRewards" : "3,60200000,100#2,1,120000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 2,
+		"advanceShow" : 4,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,120000#",
+		"level" : 57,
+		"stage" : 3,
+		"star" : 5,
+		"successRewards" : "3,60200000,100#2,1,120000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 3,
+		"advanceShow" : 3,
+		"failRewards" : "3,60200000,50#2,1,130000#",
+		"level" : 58,
+		"stage" : 3,
+		"successRewards" : "3,60200000,100#2,1,130000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 3,
+		"advanceShow" : 3,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,130000#",
+		"level" : 59,
+		"stage" : 3,
+		"star" : 1,
+		"successRewards" : "3,60200000,100#2,1,130000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 3,
+		"advanceShow" : 3,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,130000#",
+		"level" : 60,
+		"stage" : 3,
+		"star" : 2,
+		"successRewards" : "3,60200000,100#2,1,130000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 3,
+		"advanceShow" : 3,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,130000#",
+		"level" : 61,
+		"stage" : 3,
+		"star" : 3,
+		"successRewards" : "3,60200000,100#2,1,130000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 3,
+		"advanceShow" : 3,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,130000#",
+		"level" : 62,
+		"stage" : 3,
+		"star" : 4,
+		"successRewards" : "3,60200000,100#2,1,130000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 3,
+		"advanceShow" : 3,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,130000#",
+		"level" : 63,
+		"stage" : 3,
+		"star" : 5,
+		"successRewards" : "3,60200000,100#2,1,130000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 4,
+		"advanceShow" : 2,
+		"failRewards" : "3,60200000,50#2,1,140000#",
+		"level" : 64,
+		"stage" : 3,
+		"successRewards" : "3,60200000,100#2,1,140000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 4,
+		"advanceShow" : 2,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,140000#",
+		"level" : 65,
+		"stage" : 3,
+		"star" : 1,
+		"successRewards" : "3,60200000,100#2,1,140000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 4,
+		"advanceShow" : 2,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,140000#",
+		"level" : 66,
+		"stage" : 3,
+		"star" : 2,
+		"successRewards" : "3,60200000,100#2,1,140000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 4,
+		"advanceShow" : 2,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,140000#",
+		"level" : 67,
+		"stage" : 3,
+		"star" : 3,
+		"successRewards" : "3,60200000,100#2,1,140000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 4,
+		"advanceShow" : 2,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,140000#",
+		"level" : 68,
+		"stage" : 3,
+		"star" : 4,
+		"successRewards" : "3,60200000,100#2,1,140000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 4,
+		"advanceShow" : 2,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,140000#",
+		"level" : 69,
+		"stage" : 3,
+		"star" : 5,
+		"successRewards" : "3,60200000,100#2,1,140000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 5,
+		"advanceShow" : 1,
+		"failRewards" : "3,60200000,50#2,1,150000#",
+		"level" : 70,
+		"stage" : 3,
+		"successRewards" : "3,60200000,100#2,1,150000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 5,
+		"advanceShow" : 1,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,150000#",
+		"level" : 71,
+		"stage" : 3,
+		"star" : 1,
+		"successRewards" : "3,60200000,100#2,1,150000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 5,
+		"advanceShow" : 1,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,150000#",
+		"level" : 72,
+		"stage" : 3,
+		"star" : 2,
+		"successRewards" : "3,60200000,100#2,1,150000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 5,
+		"advanceShow" : 1,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,150000#",
+		"level" : 73,
+		"stage" : 3,
+		"star" : 3,
+		"successRewards" : "3,60200000,100#2,1,150000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 5,
+		"advanceShow" : 1,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,150000#",
+		"level" : 74,
+		"stage" : 3,
+		"star" : 4,
+		"successRewards" : "3,60200000,100#2,1,150000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 5,
+		"advanceShow" : 1,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,150000#",
+		"level" : 75,
+		"stage" : 3,
+		"star" : 5,
+		"successRewards" : "3,60200000,100#2,1,150000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 1,
+		"advanceShow" : 5,
+		"failRewards" : "3,60200000,50#2,1,160000#",
+		"level" : 76,
+		"stage" : 4,
+		"successRewards" : "3,60200000,100#2,1,160000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 1,
+		"advanceShow" : 5,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,160000#",
+		"level" : 77,
+		"stage" : 4,
+		"star" : 1,
+		"successRewards" : "3,60200000,100#2,1,160000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 1,
+		"advanceShow" : 5,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,160000#",
+		"level" : 78,
+		"stage" : 4,
+		"star" : 2,
+		"successRewards" : "3,60200000,100#2,1,160000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 1,
+		"advanceShow" : 5,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,160000#",
+		"level" : 79,
+		"stage" : 4,
+		"star" : 3,
+		"successRewards" : "3,60200000,100#2,1,160000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 1,
+		"advanceShow" : 5,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,160000#",
+		"level" : 80,
+		"stage" : 4,
+		"star" : 4,
+		"successRewards" : "3,60200000,100#2,1,160000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 1,
+		"advanceShow" : 5,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,160000#",
+		"level" : 81,
+		"stage" : 4,
+		"star" : 5,
+		"successRewards" : "3,60200000,100#2,1,160000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 2,
+		"advanceShow" : 4,
+		"failRewards" : "3,60200000,50#2,1,170000#",
+		"level" : 82,
+		"stage" : 4,
+		"successRewards" : "3,60200000,100#2,1,170000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 2,
+		"advanceShow" : 4,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,170000#",
+		"level" : 83,
+		"stage" : 4,
+		"star" : 1,
+		"successRewards" : "3,60200000,100#2,1,170000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 2,
+		"advanceShow" : 4,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,170000#",
+		"level" : 84,
+		"stage" : 4,
+		"star" : 2,
+		"successRewards" : "3,60200000,100#2,1,170000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 2,
+		"advanceShow" : 4,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,170000#",
+		"level" : 85,
+		"stage" : 4,
+		"star" : 3,
+		"successRewards" : "3,60200000,100#2,1,170000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 2,
+		"advanceShow" : 4,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,170000#",
+		"level" : 86,
+		"stage" : 4,
+		"star" : 4,
+		"successRewards" : "3,60200000,100#2,1,170000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 2,
+		"advanceShow" : 4,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,170000#",
+		"level" : 87,
+		"stage" : 4,
+		"star" : 5,
+		"successRewards" : "3,60200000,100#2,1,170000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 3,
+		"advanceShow" : 3,
+		"failRewards" : "3,60200000,50#2,1,180000#",
+		"level" : 88,
+		"stage" : 4,
+		"successRewards" : "3,60200000,100#2,1,180000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 3,
+		"advanceShow" : 3,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,180000#",
+		"level" : 89,
+		"stage" : 4,
+		"star" : 1,
+		"successRewards" : "3,60200000,100#2,1,180000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 3,
+		"advanceShow" : 3,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,180000#",
+		"level" : 90,
+		"stage" : 4,
+		"star" : 2,
+		"successRewards" : "3,60200000,100#2,1,180000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 3,
+		"advanceShow" : 3,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,180000#",
+		"level" : 91,
+		"stage" : 4,
+		"star" : 3,
+		"successRewards" : "3,60200000,100#2,1,180000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 3,
+		"advanceShow" : 3,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,180000#",
+		"level" : 92,
+		"stage" : 4,
+		"star" : 4,
+		"successRewards" : "3,60200000,100#2,1,180000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 3,
+		"advanceShow" : 3,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,180000#",
+		"level" : 93,
+		"stage" : 4,
+		"star" : 5,
+		"successRewards" : "3,60200000,100#2,1,180000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 4,
+		"advanceShow" : 2,
+		"failRewards" : "3,60200000,50#2,1,190000#",
+		"level" : 94,
+		"stage" : 4,
+		"successRewards" : "3,60200000,100#2,1,190000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 4,
+		"advanceShow" : 2,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,190000#",
+		"level" : 95,
+		"stage" : 4,
+		"star" : 1,
+		"successRewards" : "3,60200000,100#2,1,190000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 4,
+		"advanceShow" : 2,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,190000#",
+		"level" : 96,
+		"stage" : 4,
+		"star" : 2,
+		"successRewards" : "3,60200000,100#2,1,190000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 4,
+		"advanceShow" : 2,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,190000#",
+		"level" : 97,
+		"stage" : 4,
+		"star" : 3,
+		"successRewards" : "3,60200000,100#2,1,190000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 4,
+		"advanceShow" : 2,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,190000#",
+		"level" : 98,
+		"stage" : 4,
+		"star" : 4,
+		"successRewards" : "3,60200000,100#2,1,190000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 4,
+		"advanceShow" : 2,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,190000#",
+		"level" : 99,
+		"stage" : 4,
+		"star" : 5,
+		"successRewards" : "3,60200000,100#2,1,190000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 5,
+		"advanceShow" : 1,
+		"failRewards" : "3,60200000,50#2,1,200000#",
+		"level" : 100,
+		"stage" : 4,
+		"successRewards" : "3,60200000,100#2,1,200000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 5,
+		"advanceShow" : 1,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,200000#",
+		"level" : 101,
+		"stage" : 4,
+		"star" : 1,
+		"successRewards" : "3,60200000,100#2,1,200000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 5,
+		"advanceShow" : 1,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,200000#",
+		"level" : 102,
+		"stage" : 4,
+		"star" : 2,
+		"successRewards" : "3,60200000,100#2,1,200000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 5,
+		"advanceShow" : 1,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,200000#",
+		"level" : 103,
+		"stage" : 4,
+		"star" : 3,
+		"successRewards" : "3,60200000,100#2,1,200000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 5,
+		"advanceShow" : 1,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,200000#",
+		"level" : 104,
+		"stage" : 4,
+		"star" : 4,
+		"successRewards" : "3,60200000,100#2,1,200000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 5,
+		"advanceShow" : 1,
+		"descStar" : 1,
+		"failRewards" : "3,60200000,50#2,1,200000#",
+		"level" : 105,
+		"stage" : 4,
+		"star" : 5,
+		"successRewards" : "3,60200000,100#2,1,200000#",
+		"tolStar" : 5
+	},
+	
+	{
+		"advance" : 5,
+		"advanceShow" : 1,
+		"failRewards" : "3,60200000,50#2,1,200000#",
+		"level" : 106,
+		"stage" : 5,
+		"star" : 5,
+		"successRewards" : "3,60200000,100#2,1,200000#",
+		"tolStar" : 5
+	}
+]

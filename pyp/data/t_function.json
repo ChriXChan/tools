@@ -1,0 +1,2762 @@
+
+[
+	
+	{
+		"functionDesc" : "成就：获取成就总览",
+		"functionName" : "AMD_IAchievement_achievementOverviewPtr"
+	},
+	
+	{
+		"functionDesc" : "成就：飞仙令牌",
+		"functionName" : "AMD_IAchievement_getAchieveCardsPtr"
+	},
+	
+	{
+		"functionDesc" : "成就：获取某大类的成就信息",
+		"functionName" : "AMD_IAchievement_getAchievementCategroyPtr"
+	},
+	
+	{
+		"functionDesc" : "获取某大类成就的奖励",
+		"functionName" : "AMD_IAchievement_getAchievementCategroyRewardPtr"
+	},
+	
+	{
+		"functionDesc" : "成就：领取成就奖励",
+		"functionName" : "AMD_IAchievement_getAchievementRewardPtr"
+	},
+	
+	{
+		"functionDesc" : "活动投资",
+		"functionName" : "AMD_IActive_activeInvestPtr"
+	},
+	
+	{
+		"functionDesc" : "活动投资奖励",
+		"functionName" : "AMD_IActive_activeInvestRewardPtr"
+	},
+	
+	{
+		"functionDesc" : "购买道具特殊活动",
+		"functionName" : "AMD_IActive_buyPropPtr"
+	},
+	
+	{
+		"functionDesc" : "购买秒杀商店物品",
+		"functionName" : "AMD_IActive_buyShopSeckillItemPtr"
+	},
+	
+	{
+		"functionDesc" : "活动：足球竞猜",
+		"functionName" : "AMD_IActive_footballGameGuessPtr"
+	},
+	
+	{
+		"functionDesc" : "活动:获取奥运竞猜信息",
+		"functionName" : "AMD_IActive_getOlympicGuessPtr"
+	},
+	
+	{
+		"functionDesc" : "活动：领取特殊活动奖励",
+		"functionName" : "AMD_IActive_getSpecialActiveJoinRewardPtr"
+	},
+	
+	{
+		"functionDesc" : "活动：捐献鹊羽",
+		"functionName" : "AMD_IActive_magpieDonatePtr"
+	},
+	
+	{
+		"functionDesc" : "活动：鹊桥奖励",
+		"functionName" : "AMD_IActive_magpieGetRewardPtr"
+	},
+	
+	{
+		"functionDesc" : "活动:奥运竞猜",
+		"functionName" : "AMD_IActive_olympicGuessPtr"
+	},
+	
+	{
+		"functionDesc" : "在线抽奖控制",
+		"functionName" : "AMD_IActivity_beginDrawPtr"
+	},
+	
+	{
+		"functionDesc" : "获取悟性信息",
+		"functionName" : "AMD_IAcupoint_getSavvyExPtr"
+	},
+	
+	{
+		"functionDesc" : "经脉：减少提升穴位等级时间",
+		"functionName" : "AMD_IAcupoint_reduceUpgradeAcupointPtr"
+	},
+	
+	{
+		"functionDesc" : "经脉：提升穴位等级",
+		"functionName" : "AMD_IAcupoint_upgradeAcupointPtr"
+	},
+	
+	{
+		"functionDesc" : "经脉：提升根骨等级",
+		"functionName" : "AMD_IAcupoint_upgradeRootPtr"
+	},
+	
+	{
+		"functionDesc" : "提升悟性",
+		"functionName" : "AMD_IAcupoint_upgradeSavvyExPtr"
+	},
+	
+	{
+		"functionDesc" : "经脉：提升悟性等级",
+		"functionName" : "AMD_IAcupoint_upgradeSavvyPtr"
+	},
+	
+	{
+		"functionDesc" : "背包：扩展背包栏、仓库栏的容量",
+		"functionName" : "AMD_IBag_addExtendBarCapacityPtr"
+	},
+	
+	{
+		"functionDesc" : "背包：批量删除",
+		"functionName" : "AMD_IBag_batchRemovePtr"
+	},
+	
+	{
+		"functionDesc" : "背包：一键合并物品",
+		"functionName" : "AMD_IBag_fastMergePtr"
+	},
+	
+	{
+		"functionDesc" : "背包：获取竞技场礼包物品",
+		"functionName" : "AMD_IBag_getArenaGiftPtr"
+	},
+	
+	{
+		"functionDesc" : "背包：合并物品",
+		"functionName" : "AMD_IBag_mergePtr"
+	},
+	
+	{
+		"functionDesc" : "背包：背包转移",
+		"functionName" : "AMD_IBag_moveBagPtr"
+	},
+	
+	{
+		"functionDesc" : "背包：背包内移动物品",
+		"functionName" : "AMD_IBag_moveInBagPtr"
+	},
+	
+	{
+		"functionDesc" : "移动物品到衣柜",
+		"functionName" : "AMD_IBag_moveIntoWardrobePtr"
+	},
+	
+	{
+		"functionDesc" : "衣柜:取出衣柜中的物品",
+		"functionName" : "AMD_IBag_moveOutOfWardrobePtr"
+	},
+	
+	{
+		"functionDesc" : "背包：移动物品",
+		"functionName" : "AMD_IBag_movePtr"
+	},
+	
+	{
+		"functionDesc" : "背包：打开竞技场礼包",
+		"functionName" : "AMD_IBag_openArenaGiftBagPtr"
+	},
+	
+	{
+		"functionDesc" : "背包：开副本箱子（礼包）",
+		"functionName" : "AMD_IBag_openCopyBoxPtr"
+	},
+	
+	{
+		"functionDesc" : "背包：使用开心袋",
+		"functionName" : "AMD_IBag_openHappyBagPtr"
+	},
+	
+	{
+		"functionDesc" : "背包：移除竞技场礼包物品",
+		"functionName" : "AMD_IBag_removeArenaGiftPtr"
+	},
+	
+	{
+		"functionDesc" : "删除衣柜物品",
+		"functionName" : "AMD_IBag_removeItemInWardrobePtr"
+	},
+	
+	{
+		"functionDesc" : "背包：删除物品",
+		"functionName" : "AMD_IBag_removePtr"
+	},
+	
+	{
+		"functionDesc" : "仙园仓库存或取钱",
+		"functionName" : "AMD_IBag_saveOrPickMoneyPtr"
+	},
+	
+	{
+		"functionDesc" : "背包：竞技场礼包摇奖",
+		"functionName" : "AMD_IBag_shakeArenaGiftPtr"
+	},
+	
+	{
+		"functionDesc" : "背包：拆分物品",
+		"functionName" : "AMD_IBag_splitPtr"
+	},
+	
+	{
+		"functionDesc" : "背包：整理物品",
+		"functionName" : "AMD_IBag_tidyPtr"
+	},
+	
+	{
+		"functionDesc" : "背包：使用5fb币碎片",
+		"functionName" : "AMD_IBag_use5FBChipPtr"
+	},
+	
+	{
+		"functionDesc" : "背包：使用物品",
+		"functionName" : "AMD_IBag_useByItemCodePtr"
+	},
+	
+	{
+		"functionDesc" : "背包：消耗物品开箱子",
+		"functionName" : "AMD_IBag_useLotteryPtr"
+	},
+	
+	{
+		"functionDesc" : "背包：使用如意道具",
+		"functionName" : "AMD_IBag_useRandItemPtr"
+	},
+	
+	{
+		"functionDesc" : "背包：使用如意宠物蛋",
+		"functionName" : "AMD_IBag_useRandPetEggPtr"
+	},
+	
+	{
+		"functionDesc" : "交易：申请面对面交易",
+		"functionName" : "AMD_IBusiness_doApplyPtr"
+	},
+	
+	{
+		"functionDesc" : "交易：执行交易操作",
+		"functionName" : "AMD_IBusiness_doOperationPtr"
+	},
+	
+	{
+		"functionDesc" : "交易：更新物品",
+		"functionName" : "AMD_IBusiness_updateItemPtr"
+	},
+	
+	{
+		"functionDesc" : "交易：更新金钱",
+		"functionName" : "AMD_IBusiness_updateMoneyPtr"
+	},
+	
+	{
+		"functionDesc" : "修真目标：完成并领取奖励",
+		"functionName" : "AMD_IComprehensionTarget_finishTargetDayPtr"
+	},
+	
+	{
+		"functionDesc" : "修真目标：领取章节任务奖励",
+		"functionName" : "AMD_IComprehensionTarget_getChapterRewardPtr"
+	},
+	
+	{
+		"functionDesc" : "加速装备副本扫荡",
+		"functionName" : "AMD_ICopy_accelEquipCopySweepPtr"
+	},
+	
+	{
+		"functionDesc" : "扫荡：加速",
+		"functionName" : "AMD_ICopy_accelMagicTowerSweepPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：增加副本次数",
+		"functionName" : "AMD_ICopy_addCopyNumPtr"
+	},
+	
+	{
+		"functionDesc" : "镜像：增加封神榜挑战次数",
+		"functionName" : "AMD_ICopy_addMythChallengeTimesPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：跨服竞技场送花",
+		"functionName" : "AMD_ICopy_arenaCrossSendFlowerPtr"
+	},
+	
+	{
+		"functionDesc" : "渡劫：开启渡劫",
+		"functionName" : "AMD_ICopy_beginCatastrophePtr"
+	},
+	
+	{
+		"functionDesc" : "扫荡：开始",
+		"functionName" : "AMD_ICopy_beginMagicTowerSweepPtr"
+	},
+	
+	{
+		"functionDesc" : "游戏，封神竞技",
+		"functionName" : "AMD_ICopy_beginMythBattlePtr"
+	},
+	
+	{
+		"functionDesc" : "副本：跨服竞技场下注",
+		"functionName" : "AMD_ICopy_betArenaCrossPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：跨服竞技场决赛选位置",
+		"functionName" : "AMD_ICopy_chooseArenaCrossFinalPosPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：跨服竞技场选组",
+		"functionName" : "AMD_ICopy_chooseArenaCrossGroupPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：领取跨服竞技场下注奖励",
+		"functionName" : "AMD_ICopy_drawArenaCrossBetRewardPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：领取副本累积经验",
+		"functionName" : "AMD_ICopy_drawCopyExpPtr"
+	},
+	
+	{
+		"functionDesc" : "结束装备副本扫荡",
+		"functionName" : "AMD_ICopy_endEquipCopySweepPtr"
+	},
+	
+	{
+		"functionDesc" : "扫荡：结束",
+		"functionName" : "AMD_ICopy_endMagicTowerSweepPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：妖王副本",
+		"functionName" : "AMD_ICopy_enterAngryMonsterKingPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：进入跨服竞技场",
+		"functionName" : "AMD_ICopy_enterArenaCrossPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：进入竞技场",
+		"functionName" : "AMD_ICopy_enterArenaPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：进入战场",
+		"functionName" : "AMD_ICopy_enterBattleFieldPtr"
+	},
+	
+	{
+		"functionDesc" : "怪兽战场",
+		"functionName" : "AMD_ICopy_enterBossFieldPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：进入副本（新接口）",
+		"functionName" : "AMD_ICopy_enterCopyExPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：进入仙境副本",
+		"functionName" : "AMD_ICopy_enterCopyExPtr_LotteryCopy"
+	},
+	
+	{
+		"functionDesc" : "副本：进入跨服碧海银滩",
+		"functionName" : "AMD_ICopy_enterCrossBeachPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：进入跨服战场",
+		"functionName" : "AMD_ICopy_enterCrossBossFieldPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：进入跨服boss",
+		"functionName" : "AMD_ICopy_enterCrossBossPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：进入跨服温泉",
+		"functionName" : "AMD_ICopy_enterCrossSpaPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：进入剧情副本",
+		"functionName" : "AMD_ICopy_enterDramaPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：进入海底幻境",
+		"functionName" : "AMD_ICopy_enterFairylandPtr"
+	},
+	
+	{
+		"functionDesc" : "进入皇帝争霸副本",
+		"functionName" : "AMD_ICopy_enterFeudalHegemonyPtr"
+	},
+	
+	{
+		"functionDesc" : "仙盟boss：进入仙盟祭坛",
+		"functionName" : "AMD_ICopy_enterGuildAltarPtr"
+	},
+	
+	{
+		"functionDesc" : "进入新仙盟战副本",
+		"functionName" : "AMD_ICopy_enterGuildBattlePtr"
+	},
+	
+	{
+		"functionDesc" : "仙盟：进入仙盟防守副本",
+		"functionName" : "AMD_ICopy_enterGuildDefensePtr"
+	},
+	
+	{
+		"functionDesc" : "仙盟：进入仙盟牧场",
+		"functionName" : "AMD_ICopy_enterGuildPasturePtr"
+	},
+	
+	{
+		"functionDesc" : "副本：进入仙盟领地",
+		"functionName" : "AMD_ICopy_enterGuildPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：进入仙盟副本",
+		"functionName" : "AMD_ICopy_enterGuildStrugglePtr"
+	},
+	
+	{
+		"functionDesc" : "副本：进入仙盟战",
+		"functionName" : "AMD_ICopy_enterGuildWarPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：进入爬塔副本",
+		"functionName" : "AMD_ICopy_enterMagicTowerPtr"
+	},
+	
+	{
+		"functionDesc" : "进入镜像副本",
+		"functionName" : "AMD_ICopy_enterMirrorCopyPtr"
+	},
+	
+	{
+		"functionDesc" : "天神战场：进入战场",
+		"functionName" : "AMD_ICopy_enterNewBattleFieldPtr"
+	},
+	
+	{
+		"functionDesc" : "战场之魂：进入场景",
+		"functionName" : "AMD_ICopy_enterPeaceFieldListPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：进入竞速赛",
+		"functionName" : "AMD_ICopy_enterRacePtr"
+	},
+	
+	{
+		"functionDesc" : "副本：进入天空之城",
+		"functionName" : "AMD_ICopy_enterSkyCityPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：进入灵泉",
+		"functionName" : "AMD_ICopy_enterSpaPtr"
+	},
+	
+	{
+		"functionDesc" : "进入结义场景",
+		"functionName" : "AMD_ICopy_enterSwornWeddingPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：进入VIP挂机地图",
+		"functionName" : "AMD_ICopy_enterVIPHookPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：进入观看录像副本",
+		"functionName" : "AMD_ICopy_enterWatchRecordCopyPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：进入婚礼庆典场景",
+		"functionName" : "AMD_ICopy_enterWeddingPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：跨服竞技场关注玩家",
+		"functionName" : "AMD_ICopy_focusArenaCrossPlayerPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：获取跨服碧海银滩列表",
+		"functionName" : "AMD_ICopy_getCrossBeachListPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：获取跨服boss仙盟信息",
+		"functionName" : "AMD_ICopy_getCrossBossGuildInfosPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：获取跨服温泉列表",
+		"functionName" : "AMD_ICopy_getCrossSpaListPtr"
+	},
+	
+	{
+		"functionDesc" : "装备副本体力值领取",
+		"functionName" : "AMD_ICopy_getEquipCopyeEnergyPtr"
+	},
+	
+	{
+		"functionDesc" : "获取装备副本扫荡信息",
+		"functionName" : "AMD_ICopy_getEquipCopySweepInfoPtr"
+	},
+	
+	{
+		"functionDesc" : "获取皇帝争霸积分列表",
+		"functionName" : "AMD_ICopy_getFeudalHegemonyScorelistPtr"
+	},
+	
+	{
+		"functionDesc" : "新仙盟获取仙盟积分排名信息",
+		"functionName" : "AMD_ICopy_getGuildBattleScoreListPtr"
+	},
+	
+	{
+		"functionDesc" : "挂机副本界面",
+		"functionName" : "AMD_ICopy_getHookCopyInfoPtr"
+	},
+	
+	{
+		"functionDesc" : "扫荡：获取扫荡信息",
+		"functionName" : "AMD_ICopy_getMagicTowerSweepInfoPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：获取剧情副本信息",
+		"functionName" : "AMD_ICopy_getMyDramaInfoPtr"
+	},
+	
+	{
+		"functionDesc" : "获取我的皇帝争霸信息",
+		"functionName" : "AMD_ICopy_getMyFeudalHegemonyInfoPtr"
+	},
+	
+	{
+		"functionDesc" : "镜像：获取封神榜信息",
+		"functionName" : "AMD_ICopy_getMythInfoPtr"
+	},
+	
+	{
+		"functionDesc" : "镜像：领取封神榜奖励",
+		"functionName" : "AMD_ICopy_getMythRewardPtr"
+	},
+	
+	{
+		"functionDesc" : "镜像：封神榜排行榜",
+		"functionName" : "AMD_ICopy_getMythToplistPtr"
+	},
+	
+	{
+		"functionDesc" : "天神战场：获取战场列表",
+		"functionName" : "AMD_ICopy_getNewBattleFieldListPtr"
+	},
+	
+	{
+		"functionDesc" : "天神战场：获取新战场积分",
+		"functionName" : "AMD_ICopy_getNewBattleFieldScoreListPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：获取开启天空之城列表",
+		"functionName" : "AMD_ICopy_getSkyCityListPtr"
+	},
+	
+	{
+		"functionDesc" : "镜像：查看镜像数据",
+		"functionName" : "AMD_ICopy_lookupMirrorPtr"
+	},
+	
+	{
+		"functionDesc" : "封神榜鼓舞系统",
+		"functionName" : "AMD_ICopy_mythInspireMirrorPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：跨服迷宫",
+		"functionName" : "AMD_ICopy_paraseleneMazeOpPtr"
+	},
+	
+	{
+		"functionDesc" : "立刻刷出下一轮怪",
+		"functionName" : "AMD_ICopy_refreshDefenseCopyNextRingPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：跨服竞技场报名（伪）",
+		"functionName" : "AMD_ICopy_registArenaCrossPtr"
+	},
+	
+	{
+		"functionDesc" : "镜像：设置镜像技能",
+		"functionName" : "AMD_ICopy_setMirrorSkillsPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：跨服竞技场报名",
+		"functionName" : "AMD_ICopy_signUpArenaCrossPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：竞技场报名",
+		"functionName" : "AMD_ICopy_signUpArenaPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：仙盟战报名",
+		"functionName" : "AMD_ICopy_signUpGuildWarPtr"
+	},
+	
+	{
+		"functionDesc" : "天神战场报名",
+		"functionName" : "AMD_ICopy_signUpNewBattleFieldPtr"
+	},
+	
+	{
+		"functionDesc" : "开始装备副本扫荡",
+		"functionName" : "AMD_ICopy_startEquipCopySweepPtr"
+	},
+	
+	{
+		"functionDesc" : "镜像：更新镜像数据",
+		"functionName" : "AMD_ICopy_updateMirrorFigthRolesPtr"
+	},
+	
+	{
+		"functionDesc" : "天降横财：提交成绩",
+		"functionName" : "AMD_ICopy_uploadCutMoneyMarkPtr"
+	},
+	
+	{
+		"functionDesc" : "扫荡：使用万妖令",
+		"functionName" : "AMD_ICopy_useDoubleIncomeItemPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：使用竞速赛技能",
+		"functionName" : "AMD_ICopy_useRaceSkillPtr"
+	},
+	
+	{
+		"functionDesc" : "副本：观看天下第一比赛录像",
+		"functionName" : "AMD_ICopy_watchArenaCrossFightRecordPtr"
+	},
+	
+	{
+		"functionDesc" : "召集",
+		"functionName" : "AMD_ICountry_callTogetherPtr"
+	},
+	
+	{
+		"functionDesc" : "选择",
+		"functionName" : "AMD_ICountry_chooseMassacreServerPtr"
+	},
+	
+	{
+		"functionDesc" : "禁言",
+		"functionName" : "AMD_ICountry_forbidTalkingPtr"
+	},
+	
+	{
+		"functionDesc" : "国库记录",
+		"functionName" : "AMD_ICountry_getCountryMoneyRecordsPtr"
+	},
+	
+	{
+		"functionDesc" : "国家列表",
+		"functionName" : "AMD_ICountry_getCrossCountryListPtr"
+	},
+	
+	{
+		"functionDesc" : "获取官职",
+		"functionName" : "AMD_ICountry_getOfficerInfoPtr"
+	},
+	
+	{
+		"functionDesc" : "国库",
+		"functionName" : "AMD_ICountry_giveCountryMoneyPtr"
+	},
+	
+	{
+		"functionDesc" : "开启国家BUFF",
+		"functionName" : "AMD_ICountry_openCountryBuffPtr"
+	},
+	
+	{
+		"functionDesc" : "职位操作",
+		"functionName" : "AMD_ICountry_operPositionPtr"
+	},
+	
+	{
+		"functionDesc" : "显示国家官职",
+		"functionName" : "AMD_ICountry_showCountryTitlePtr"
+	},
+	
+	{
+		"functionDesc" : "竞拍出价",
+		"functionName" : "AMD_ICrossCity_bidCityPtr"
+	},
+	
+	{
+		"functionDesc" : "获取支援列表",
+		"functionName" : "AMD_ICrossCity_getHelpListPtr"
+	},
+	
+	{
+		"functionDesc" : "城战邀请援助",
+		"functionName" : "AMD_ICrossCity_InvitPlayersPtr"
+	},
+	
+	{
+		"functionDesc" : "设置战力",
+		"functionName" : "AMD_ICrossCity_setFightConditionPtr"
+	},
+	
+	{
+		"functionDesc" : "跨服：委任房主",
+		"functionName" : "AMD_ICrossGame_assignMasterPtr"
+	},
+	
+	{
+		"functionDesc" : "跨服：叫骰子",
+		"functionName" : "AMD_ICrossGame_callLiarDicePtr"
+	},
+	
+	{
+		"functionDesc" : "跨服：关闭位置",
+		"functionName" : "AMD_ICrossGame_closeLiarDicePosPtr"
+	},
+	
+	{
+		"functionDesc" : "跨服：关闭大话骰房间大厅",
+		"functionName" : "AMD_ICrossGame_closeLiarDiceSencePtr"
+	},
+	
+	{
+		"functionDesc" : "跨服：进入房间",
+		"functionName" : "AMD_ICrossGame_enterLiarDiceRoomPtr"
+	},
+	
+	{
+		"functionDesc" : "跨服：获取大话骰房间列表",
+		"functionName" : "AMD_ICrossGame_getLiarDiceListPtr"
+	},
+	
+	{
+		"functionDesc" : "跨服：放弃游戏",
+		"functionName" : "AMD_ICrossGame_giveUpLiarDicePtr"
+	},
+	
+	{
+		"functionDesc" : "跨服：邀请游戏",
+		"functionName" : "AMD_ICrossGame_inviteLiarDicePtr"
+	},
+	
+	{
+		"functionDesc" : "跨服：加入游戏",
+		"functionName" : "AMD_ICrossGame_joinLiarDicePtr"
+	},
+	
+	{
+		"functionDesc" : "跨服：踢人",
+		"functionName" : "AMD_ICrossGame_kickOutGuyPtr"
+	},
+	
+	{
+		"functionDesc" : "跨服：挂起房间",
+		"functionName" : "AMD_ICrossGame_lockOrUnlockPtr"
+	},
+	
+	{
+		"functionDesc" : "跨服：打开位置",
+		"functionName" : "AMD_ICrossGame_openLiarDicePosPtr"
+	},
+	
+	{
+		"functionDesc" : "跨服：拒绝邀请",
+		"functionName" : "AMD_ICrossGame_refuseInvitePtr"
+	},
+	
+	{
+		"functionDesc" : "跨服：托管",
+		"functionName" : "AMD_ICrossGame_setSystemPtr"
+	},
+	
+	{
+		"functionDesc" : "跨服：重摇骰子",
+		"functionName" : "AMD_ICrossGame_shakeLiarDicePtr"
+	},
+	
+	{
+		"functionDesc" : "跨服：开骰子",
+		"functionName" : "AMD_ICrossGame_showLiarDicePtr"
+	},
+	
+	{
+		"functionDesc" : "跨服：缩小房间",
+		"functionName" : "AMD_ICrossGame_zoomLiarDicePtr"
+	},
+	
+	{
+		"functionDesc" : "委托：清理委托背包",
+		"functionName" : "AMD_IDelegate_cleanDelegateBagPtr"
+	},
+	
+	{
+		"functionDesc" : "委托：获取委托背包物品",
+		"functionName" : "AMD_IDelegate_getDelegateBagItemsPtr"
+	},
+	
+	{
+		"functionDesc" : "委托：开始扫荡（新YY game）",
+		"functionName" : "AMD_IDelegate_startDelegateNewPtr"
+	},
+	
+	{
+		"functionDesc" : "委托：开始委托",
+		"functionName" : "AMD_IDelegate_startDelegatePtr"
+	},
+	
+	{
+		"functionDesc" : "仙帝争霸:挑战仙帝",
+		"functionName" : "AMD_IEndlessBoss_challengePtr"
+	},
+	
+	{
+		"functionDesc" : "仙帝争霸:获取仙帝信息",
+		"functionName" : "AMD_IEndlessBoss_getEndlessBossInfoPtr"
+	},
+	
+	{
+		"functionDesc" : "仙帝争霸:加速",
+		"functionName" : "AMD_IEndlessBoss_reduceCoolTimePtr"
+	},
+	
+	{
+		"functionDesc" : "好友：好友祝福",
+		"functionName" : "AMD_IFriend_blessPtr"
+	},
+	
+	{
+		"functionDesc" : "好友：修改好友类型",
+		"functionName" : "AMD_IFriend_changeFriendTypePtr"
+	},
+	
+	{
+		"functionDesc" : "好友：领取经验瓶",
+		"functionName" : "AMD_IFriend_getBlessBottleExpPtr"
+	},
+	
+	{
+		"functionDesc" : "获取玩家赠送的体力",
+		"functionName" : "AMD_IFriend_getFriendOfferPhysicalStrengthPtr"
+	},
+	
+	{
+		"functionDesc" : "好友：获取一键征友信息",
+		"functionName" : "AMD_IFriend_getOneKeyMakeFriendsInfoPtr"
+	},
+	
+	{
+		"functionDesc" : "聚宝盆：领取聚宝盆奖励",
+		"functionName" : "AMD_IFriend_getTreasureBowlRewardsPtr"
+	},
+	
+	{
+		"functionDesc" : "玩家赠送体力",
+		"functionName" : "AMD_IFriend_handleFriendPhysicalStrengthPtr"
+	},
+	
+	{
+		"functionDesc" : "好友：一键征友",
+		"functionName" : "AMD_IFriend_oneKeyMakeFriendsPtr"
+	},
+	
+	{
+		"functionDesc" : "好友：批量删除",
+		"functionName" : "AMD_IFriend_removeAllPtr"
+	},
+	
+	{
+		"functionDesc" : "聚宝盆：一键祝福",
+		"functionName" : "AMD_IFriend_sendAllBlessPtr"
+	},
+	
+	{
+		"functionDesc" : "聚宝盆：发送聚宝盆祝福",
+		"functionName" : "AMD_IFriend_sendTreasureBowlBlessPtr"
+	},
+	
+	{
+		"functionDesc" : "聚宝盆：世界呼唤",
+		"functionName" : "AMD_IFriend_treasureBowlCallPtr"
+	},
+	
+	{
+		"functionDesc" : "竞技：3v3申请战队",
+		"functionName" : "AMD_IGangFights_applyTeamPtr"
+	},
+	
+	{
+		"functionDesc" : "竞技：3v3创建战队",
+		"functionName" : "AMD_IGangFights_createTeamPtr"
+	},
+	
+	{
+		"functionDesc" : "竞技：3v3解散战队",
+		"functionName" : "AMD_IGangFights_disbandTeamPtr"
+	},
+	
+	{
+		"functionDesc" : "竞技：3v3进入房间",
+		"functionName" : "AMD_IGangFights_enterGangFightsPtr"
+	},
+	
+	{
+		"functionDesc" : "竞技：1v1进入房间",
+		"functionName" : "AMD_IGangFights_enterWrestlePtr"
+	},
+	
+	{
+		"functionDesc" : "3v3好友邀请",
+		"functionName" : "AMD_IGangFights_invitePlayerExPtr"
+	},
+	
+	{
+		"functionDesc" : "竞技：3v3邀请玩家入战队",
+		"functionName" : "AMD_IGangFights_invitePlayerPtr"
+	},
+	
+	{
+		"functionDesc" : "3v3战队邀请处理",
+		"functionName" : "AMD_IGangFights_joinGangFightsTeamDirectPtr"
+	},
+	
+	{
+		"functionDesc" : "竞技：3v3修改战队",
+		"functionName" : "AMD_IGangFights_modifyTeamPtr"
+	},
+	
+	{
+		"functionDesc" : "竞技：3v3报名",
+		"functionName" : "AMD_IGangFights_signUpGangFightsPtr"
+	},
+	
+	{
+		"functionDesc" : "竞技：1v1报名",
+		"functionName" : "AMD_IGangFights_signUpWrestlePtr"
+	},
+	
+	{
+		"functionDesc" : "竞技：3v3战队操作（队长转让、踢人）",
+		"functionName" : "AMD_IGangFights_teamMemberOperPtr"
+	},
+	
+	{
+		"functionDesc" : "镜像组队：获取可邀请对象列表",
+		"functionName" : "AMD_IGroup_getInvitListPtr"
+	},
+	
+	{
+		"functionDesc" : "关闭副本界面，踢出副本",
+		"functionName" : "AMD_IGroup_kickoutMirrorPtr"
+	},
+	
+	{
+		"functionDesc" : "仙盟神树：聚灵",
+		"functionName" : "AMD_IGuild_addGuildTreeValuePtr"
+	},
+	
+	{
+		"functionDesc" : "仙盟boss：领养神兽",
+		"functionName" : "AMD_IGuild_adoptGuildAltarBeastPtr"
+	},
+	
+	{
+		"functionDesc" : "仙盟：反驳弹劾",
+		"functionName" : "AMD_IGuild_antiImpeachPtr"
+	},
+	
+	{
+		"functionDesc" : "仙盟：申请仙盟",
+		"functionName" : "AMD_IGuild_applyGuildPtr"
+	},
+	
+	{
+		"functionDesc" : "仙盟：分配仙盟仓库物品",
+		"functionName" : "AMD_IGuild_assignGuildWarehousePtr"
+	},
+	
+	{
+		"functionDesc" : "批量申请仙盟",
+		"functionName" : "AMD_IGuild_batchApplyGuildPtr"
+	},
+	
+	{
+		"functionDesc" : "仙盟：购买仙盟商店物品",
+		"functionName" : "AMD_IGuild_buyGuildShopItemPtr"
+	},
+	
+	{
+		"functionDesc" : "仙盟神树：召唤",
+		"functionName" : "AMD_IGuild_callGuildTreePtr"
+	},
+	
+	{
+		"functionDesc" : "仙盟：创建仙盟",
+		"functionName" : "AMD_IGuild_createGuildPtr"
+	},
+	
+	{
+		"functionDesc" : "仙盟：销毁仙盟仓库物品",
+		"functionName" : "AMD_IGuild_destroyGuildWarehousePtr"
+	},
+	
+	{
+		"functionDesc" : "仙盟：解散仙盟",
+		"functionName" : "AMD_IGuild_disbandGuildPtr"
+	},
+	
+	{
+		"functionDesc" : "仙盟：领取分配到的仙盟仓库物品",
+		"functionName" : "AMD_IGuild_drawGuildWarehousePtr"
+	},
+	
+	{
+		"functionDesc" : "仙盟boss：喂养神兽",
+		"functionName" : "AMD_IGuild_feedGuildAltarBeastPtr"
+	},
+	
+	{
+		"functionDesc" : "仙盟：领取仙盟福利",
+		"functionName" : "AMD_IGuild_getAwardPtr"
+	},
+	
+	{
+		"functionDesc" : "仙盟神树：信息",
+		"functionName" : "AMD_IGuild_getGuildTreeInfoPtr"
+	},
+	
+	{
+		"functionDesc" : "仙盟：弹劾盟主（主动弹劾）",
+		"functionName" : "AMD_IGuild_impeachGuildLeaderPtr"
+	},
+	
+	{
+		"functionDesc" : "仙盟：开启仙盟防守副本",
+		"functionName" : "AMD_IGuild_openGuildDefensePtr"
+	},
+	
+	{
+		"functionDesc" : "仙盟：开启仙盟副本",
+		"functionName" : "AMD_IGuild_openGuildStrugglePtr"
+	},
+	
+	{
+		"functionDesc" : "仙盟：开启仙盟须弥幻境",
+		"functionName" : "AMD_IGuild_openGuildSumeruDreamlandPtr"
+	},
+	
+	{
+		"functionDesc" : "仙盟：操作仙盟仓库",
+		"functionName" : "AMD_IGuild_operGuildWarehousePtr"
+	},
+	
+	{
+		"functionDesc" : "仙盟神树：采摘",
+		"functionName" : "AMD_IGuild_pickGuildTreePtr"
+	},
+	
+	{
+		"functionDesc" : "仙盟：设置仙盟圣火时间",
+		"functionName" : "AMD_IGuild_setGuildFlameTimePtr"
+	},
+	
+	{
+		"functionDesc" : "仙盟boss：召唤神兽",
+		"functionName" : "AMD_IGuild_summonGuildAltarBeastPtr"
+	},
+	
+	{
+		"functionDesc" : "仙盟：修改仙盟名字",
+		"functionName" : "AMD_IGuild_updateGuildNamePtr"
+	},
+	
+	{
+		"functionDesc" : "仙盟：升级仙盟建筑",
+		"functionName" : "AMD_IGuild_updateGuildStruturePtr"
+	},
+	
+	{
+		"functionDesc" : "仙盟：升级仙盟厢房",
+		"functionName" : "AMD_IGuild_upgradeGuildHousePtr"
+	},
+	
+	{
+		"functionDesc" : "个人竞技：进入战斗",
+		"functionName" : "AMD_IImage_imagePkBeginFightPtr"
+	},
+	
+	{
+		"functionDesc" : "个人竞技：购买战斗次数",
+		"functionName" : "AMD_IImage_imagePkBuyFightNumPtr"
+	},
+	
+	{
+		"functionDesc" : "个人竞技：领取排名奖励",
+		"functionName" : "AMD_IImage_imagePkGetRankRewardPtr"
+	},
+	
+	{
+		"functionDesc" : "个人竞技：获取角色信息",
+		"functionName" : "AMD_IImage_imagePkGetRolesPtr"
+	},
+	
+	{
+		"functionDesc" : "个人竞技：激励",
+		"functionName" : "AMD_IImage_imagePkInspirePtr"
+	},
+	
+	{
+		"functionDesc" : "祝福：祝福回吻",
+		"functionName" : "AMD_IInteractive_blessKissBackPtr"
+	},
+	
+	{
+		"functionDesc" : "祝福：祝福",
+		"functionName" : "AMD_IInteractive_handselBlessPtr"
+	},
+	
+	{
+		"functionDesc" : "互动：赠送圣诞贺卡",
+		"functionName" : "AMD_IInteractive_handselChristmasCardPtr"
+	},
+	
+	{
+		"functionDesc" : "互动：跨服送花",
+		"functionName" : "AMD_IInteractive_handselFlowerCrossPtr"
+	},
+	
+	{
+		"functionDesc" : "互动：送花",
+		"functionName" : "AMD_IInteractive_handselFlowerPtr"
+	},
+	
+	{
+		"functionDesc" : "答题：答题互动娱乐",
+		"functionName" : "AMD_IInteractive_questionInteractivePtr"
+	},
+	
+	{
+		"functionDesc" : "互动：温泉互动",
+		"functionName" : "AMD_IInteractive_SpringInteractPtr"
+	},
+	
+	{
+		"functionDesc" : "物品：装备分解",
+		"functionName" : "AMD_IItem_equipDecomposePtr"
+	},
+	
+	{
+		"functionDesc" : "物品：装备熔炼",
+		"functionName" : "AMD_IItem_equipMeltPtr"
+	},
+	
+	{
+		"functionDesc" : "物品：装备洗练",
+		"functionName" : "AMD_IItem_equipRefreshPtr"
+	},
+	
+	{
+		"functionDesc" : "装备升星",
+		"functionName" : "AMD_IItem_equipStarUpgradePtr"
+	},
+	
+	{
+		"functionDesc" : "物品：装备强化转移",
+		"functionName" : "AMD_IItem_equipStrengthenShiftPtr"
+	},
+	
+	{
+		"functionDesc" : "物品：装备强化或精炼(调整后的新接口)",
+		"functionName" : "AMD_IItem_equipUpdatePtr"
+	},
+	
+	{
+		"functionDesc" : "物品：装备品质提升",
+		"functionName" : "AMD_IItem_equipUpgradePrefixPtr"
+	},
+	
+	{
+		"functionDesc" : "物品：物品进阶",
+		"functionName" : "AMD_IItem_itemUpdatePtr"
+	},
+	
+	{
+		"functionDesc" : "物品：宝石转换",
+		"functionName" : "AMD_IItem_jewelTransformPtr"
+	},
+	
+	{
+		"functionDesc" : "物品：宠物装备重铸",
+		"functionName" : "AMD_IItem_petEquipRecastPtr"
+	},
+	
+	{
+		"functionDesc" : "物品：宠物装备升星",
+		"functionName" : "AMD_IItem_petEquipStarUpgradePtr"
+	},
+	
+	{
+		"functionDesc" : "物品：宠物装备进阶",
+		"functionName" : "AMD_IItem_petEquipUpgradePtr"
+	},
+	
+	{
+		"functionDesc" : "物品：洗练石合成",
+		"functionName" : "AMD_IItem_propRefreshComposePtr"
+	},
+	
+	{
+		"functionDesc" : "物品：炼化系统",
+		"functionName" : "AMD_IItem_smeltPtr"
+	},
+	
+	{
+		"functionDesc" : "物品：翅膀融合",
+		"functionName" : "AMD_IItem_wingMergePtr"
+	},
+	
+	{
+		"functionDesc" : "邮件：提取附件",
+		"functionName" : "AMD_IMail_getMailAttachmentPtr"
+	},
+	
+	{
+		"functionDesc" : "邮件：发邮件",
+		"functionName" : "AMD_IMail_sendMailPtr"
+	},
+	
+	{
+		"functionDesc" : "市场：购买物品",
+		"functionName" : "AMD_IMarket_buyMarketItemPtr"
+	},
+	
+	{
+		"functionDesc" : "市场：取消挂售",
+		"functionName" : "AMD_IMarket_cancelSellPtr"
+	},
+	
+	{
+		"functionDesc" : "市场：关闭市场物品超时处理",
+		"functionName" : "AMD_IMarket_Closed_Timeout_Timer"
+	},
+	
+	{
+		"functionDesc" : "市场：查看自己的上架物品",
+		"functionName" : "AMD_IMarket_getMySellsPtr"
+	},
+	
+	{
+		"functionDesc" : "市场：通过marketId获取市场记录",
+		"functionName" : "AMD_IMarket_getRecordByMarketIdPtr"
+	},
+	
+	{
+		"functionDesc" : "市场：搜索物品",
+		"functionName" : "AMD_IMarket_searchPtr"
+	},
+	
+	{
+		"functionDesc" : "市场：求购",
+		"functionName" : "AMD_IMarket_seekBuyPtr"
+	},
+	
+	{
+		"functionDesc" : "市场：挂售物品",
+		"functionName" : "AMD_IMarket_sellItemPtr"
+	},
+	
+	{
+		"functionDesc" : "市场：出售物品",
+		"functionName" : "AMD_IMarket_sellSeekItemPtr"
+	},
+	
+	{
+		"functionDesc" : "结婚：申请离婚",
+		"functionName" : "AMD_IMarry_applyDivorcePtr"
+	},
+	
+	{
+		"functionDesc" : "结婚：索要请帖",
+		"functionName" : "AMD_IMarry_applyInviteCardPtr"
+	},
+	
+	{
+		"functionDesc" : "结婚：申请结婚",
+		"functionName" : "AMD_IMarry_applyPtr"
+	},
+	
+	{
+		"functionDesc" : "结婚：预定婚礼",
+		"functionName" : "AMD_IMarry_bookWeddingPtr"
+	},
+	
+	{
+		"functionDesc" : "仙缘：购买爱情宝匣",
+		"functionName" : "AMD_IMarry_buyMateBoxPtr"
+	},
+	
+	{
+		"functionDesc" : "结婚根随花车",
+		"functionName" : "AMD_IMarry_followWeddingCarPtr"
+	},
+	
+	{
+		"functionDesc" : "结婚：获取祝福历史",
+		"functionName" : "AMD_IMarry_getBlessHistoryPtr"
+	},
+	
+	{
+		"functionDesc" : "结婚：获取已预订时间",
+		"functionName" : "AMD_IMarry_getBookHoursPtr"
+	},
+	
+	{
+		"functionDesc" : "情缘：领取爱情宝匣奖励",
+		"functionName" : "AMD_IMarry_getBoxRewardPtr"
+	},
+	
+	{
+		"functionDesc" : "j结婚：获取索要请帖玩家",
+		"functionName" : "AMD_IMarry_getCardApplicatorsPtr"
+	},
+	
+	{
+		"functionDesc" : "结婚：获取已邀请宾客列表",
+		"functionName" : "AMD_IMarry_getInvitedGuestPtr"
+	},
+	
+	{
+		"functionDesc" : "结婚：获取红娘记事",
+		"functionName" : "AMD_IMarry_getMarryHistoryPtr"
+	},
+	
+	{
+		"functionDesc" : "结婚：邀请宾客",
+		"functionName" : "AMD_IMarry_inviteGuestPtr"
+	},
+	
+	{
+		"functionDesc" : "结婚纪念操作",
+		"functionName" : "AMD_IMarry_myMemorialOperationPtr"
+	},
+	
+	{
+		"functionDesc" : "结婚：回复索要请帖玩家",
+		"functionName" : "AMD_IMarry_replyCardApplicatorsPtr"
+	},
+	
+	{
+		"functionDesc" : "结婚：申请离婚",
+		"functionName" : "AMD_IMarry_replyDivorcePtr"
+	},
+	
+	{
+		"functionDesc" : "结婚：回复结婚",
+		"functionName" : "AMD_IMarry_replyPtr"
+	},
+	
+	{
+		"functionDesc" : "结婚：送钱",
+		"functionName" : "AMD_IMarry_sendMoneyPtr"
+	},
+	
+	{
+		"functionDesc" : "结婚：开始喜车巡游",
+		"functionName" : "AMD_IMarry_startWeddingCarPtr"
+	},
+	
+	{
+		"functionDesc" : "升级情缘等级",
+		"functionName" : "AMD_IMarry_upgradeIntimateLevelPtr"
+	},
+	
+	{
+		"functionDesc" : "结婚：使用请帖",
+		"functionName" : "AMD_IMarry_useInviteCardPtr"
+	},
+	
+	{
+		"functionDesc" : "激活坐骑装备",
+		"functionName" : "AMD_IMount_activeMountEquipPtr"
+	},
+	
+	{
+		"functionDesc" : "坐骑模型幻化",
+		"functionName" : "AMD_IMount_activeMountModelPtr"
+	},
+	
+	{
+		"functionDesc" : "镶嵌坐骑装备",
+		"functionName" : "AMD_IMount_embedMountEquipPtr"
+	},
+	
+	{
+		"functionDesc" : "坐骑：喂养",
+		"functionName" : "AMD_IMount_feedMountPtr"
+	},
+	
+	{
+		"functionDesc" : "坐骑：雕刻铭文",
+		"functionName" : "AMD_IMount_markInscriptionsPtr"
+	},
+	
+	{
+		"functionDesc" : "坐骑：幻化",
+		"functionName" : "AMD_IMount_mountChangeModelPtr"
+	},
+	
+	{
+		"functionDesc" : "坐骑：融合",
+		"functionName" : "AMD_IMount_mountMergePtr"
+	},
+	
+	{
+		"functionDesc" : "坐骑：坐骑转世",
+		"functionName" : "AMD_IMount_mountReincarnatePtr"
+	},
+	
+	{
+		"functionDesc" : "坐骑：洗髓",
+		"functionName" : "AMD_IMount_refreshMountGrowPtr"
+	},
+	
+	{
+		"functionDesc" : "坐骑：洗髓替换",
+		"functionName" : "AMD_IMount_replaceMountGrowPtr"
+	},
+	
+	{
+		"functionDesc" : "升星坐骑装备",
+		"functionName" : "AMD_IMount_starMountEquipPtr"
+	},
+	
+	{
+		"functionDesc" : "强化坐骑装备",
+		"functionName" : "AMD_IMount_strengthMountEquipPtr"
+	},
+	
+	{
+		"functionDesc" : "升级坐骑装备",
+		"functionName" : "AMD_IMount_upgradeMountEquipPtr"
+	},
+	
+	{
+		"functionDesc" : "坐骑经验培养",
+		"functionName" : "AMD_IMount_upgradeMountExperiencePtr"
+	},
+	
+	{
+		"functionDesc" : "坐骑：提升等级",
+		"functionName" : "AMD_IMount_upgradeMountLevelPtr"
+	},
+	
+	{
+		"functionDesc" : "坐骑内丹修炼",
+		"functionName" : "AMD_IMount_upGradeMountNeidanPtr"
+	},
+	
+	{
+		"functionDesc" : "离线：领取离线经验",
+		"functionName" : "AMD_IOfflineExp_offlineExpPtr"
+	},
+	
+	{
+		"functionDesc" : "操作：幻化五行属性",
+		"functionName" : "AMD_IOperation_addWuXingAttributePtr"
+	},
+	
+	{
+		"functionDesc" : "操作：结束转盘",
+		"functionName" : "AMD_IOperation_endLuckRotaryPtr"
+	},
+	
+	{
+		"functionDesc" : "操作：仙境探险",
+		"functionName" : "AMD_IOperation_explorerPtr"
+	},
+	
+	{
+		"functionDesc" : "操作：钓鱼",
+		"functionName" : "AMD_IOperation_fishPtr"
+	},
+	
+	{
+		"functionDesc" : "操作：获取答题怪题目",
+		"functionName" : "AMD_IOperation_getBossQuestionPtr"
+	},
+	
+	{
+		"functionDesc" : "操作：宝藏寻宝（抽箱子）",
+		"functionName" : "AMD_IOperation_lotteryPtr"
+	},
+	
+	{
+		"functionDesc" : "操作：拾取钓鱼获得物品",
+		"functionName" : "AMD_IOperation_pickFishItemPtr"
+	},
+	
+	{
+		"functionDesc" : "操作：飞行",
+		"functionName" : "AMD_IOperation_startFlyPtr"
+	},
+	
+	{
+		"functionDesc" : "操作：开始转盘",
+		"functionName" : "AMD_IOperation_startLuckRotaryPtr"
+	},
+	
+	{
+		"functionDesc" : "操作：开始烤鱼",
+		"functionName" : "AMD_IOperation_startRoastFishPtr"
+	},
+	
+	{
+		"functionDesc" : "碧海银滩：化妆",
+		"functionName" : "AMD_IOperation_sunBathMakeUpPtr"
+	},
+	
+	{
+		"functionDesc" : "抢购：购买物品",
+		"functionName" : "AMD_IPanicBuy_buyItemPtr"
+	},
+	
+	{
+		"functionDesc" : "促销活动购买",
+		"functionName" : "AMD_IPanicBuy_buyPromotionItemPtr"
+	},
+	
+	{
+		"functionDesc" : "跨服斗兽：购买额外次数",
+		"functionName" : "AMD_IPetArena_buyExtraNumPtr"
+	},
+	
+	{
+		"functionDesc" : "跨服斗兽：购买保险",
+		"functionName" : "AMD_IPetArena_buyInsurancePtr"
+	},
+	
+	{
+		"functionDesc" : "跨服斗兽：挑战",
+		"functionName" : "AMD_IPetArena_challengePtr"
+	},
+	
+	{
+		"functionDesc" : "跨服斗兽：获取累积奖励信息",
+		"functionName" : "AMD_IPetArena_getAccumulateRewardInfoPtr"
+	},
+	
+	{
+		"functionDesc" : "跨服斗兽：获取挑战日志",
+		"functionName" : "AMD_IPetArena_getMyPetArenaLogPtr"
+	},
+	
+	{
+		"functionDesc" : "跨服斗兽：获取我的斗兽扩展信息",
+		"functionName" : "AMD_IPetArena_getMyPetArenaPtr"
+	},
+	
+	{
+		"functionDesc" : "跨服斗兽：领取奖励",
+		"functionName" : "AMD_IPetArena_getMyRewardPtr"
+	},
+	
+	{
+		"functionDesc" : "跨服斗兽：报名",
+		"functionName" : "AMD_IPetArena_joinPtr"
+	},
+	
+	{
+		"functionDesc" : "跨服斗兽：锁定属性",
+		"functionName" : "AMD_IPetArena_lockAttributePtr"
+	},
+	
+	{
+		"functionDesc" : "跨服斗兽：观看比赛",
+		"functionName" : "AMD_IPetArena_observePtr"
+	},
+	
+	{
+		"functionDesc" : "跨服斗兽：获取宠物详细信息",
+		"functionName" : "AMD_IPetArena_petArenaDetailInfoPtr"
+	},
+	
+	{
+		"functionDesc" : "跨服斗兽：查询",
+		"functionName" : "AMD_IPetArena_searchPtr"
+	},
+	
+	{
+		"functionDesc" : "命格:装备命格",
+		"functionName" : "AMD_IPetEquip_dressLifeStypePtr"
+	},
+	
+	{
+		"functionDesc" : "宠物装备：穿装备",
+		"functionName" : "AMD_IPetEquip_dressPtr"
+	},
+	
+	{
+		"functionDesc" : "命格:猎命",
+		"functionName" : "AMD_IPetEquip_huntLifeStylePtr"
+	},
+	
+	{
+		"functionDesc" : "命格:命格升级",
+		"functionName" : "AMD_IPetEquip_lifeStyleUpgradePtr"
+	},
+	
+	{
+		"functionDesc" : "命格:拾取命格",
+		"functionName" : "AMD_IPetEquip_pickUpLifeStylePtr"
+	},
+	
+	{
+		"functionDesc" : "宠物装备：修理",
+		"functionName" : "AMD_IPetEquip_repairPetWeaponPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物命格:命格吞噬",
+		"functionName" : "AMD_IPetEquip_swallowLifeStypePtr"
+	},
+	
+	{
+		"functionDesc" : "宠物装备：一键卸装",
+		"functionName" : "AMD_IPetEquip_undressAllPtr"
+	},
+	
+	{
+		"functionDesc" : "命格:卸下命格",
+		"functionName" : "AMD_IPetEquip_unDressLifeStypePtr"
+	},
+	
+	{
+		"functionDesc" : "宠物装备：卸装备",
+		"functionName" : "AMD_IPetEquip_undressPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物：雇佣宠物",
+		"functionName" : "AMD_IPetRent_borrowPetPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物雇佣：更改雇佣价格",
+		"functionName" : "AMD_IPetRent_changeRentPricePtr"
+	},
+	
+	{
+		"functionDesc" : "宠物：领取雇佣赚取金钱",
+		"functionName" : "AMD_IPetRent_getEarnMoneyPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物：查询我的宠物",
+		"functionName" : "AMD_IPetRent_getMyRentsPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物：查询宠物雇佣详细信息",
+		"functionName" : "AMD_IPetRent_petRentDetailInfoPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物：出租宠物",
+		"functionName" : "AMD_IPetRent_rentPetPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物：查询宠物",
+		"functionName" : "AMD_IPetRent_searchPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物称号：获取称号信息",
+		"functionName" : "AMD_IPetTitle_getPetTitleInfoPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物：加速宠物修炼",
+		"functionName" : "AMD_IPet_accelerateTrainPetPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物血脉：激活血脉",
+		"functionName" : "AMD_IPet_ActivateBloodPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物：使用祝福丹",
+		"functionName" : "AMD_IPet_addPetBlessPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物：闯关重复挑战",
+		"functionName" : "AMD_IPet_addPetExploreMaxTimesPtr"
+	},
+	
+	{
+		"functionDesc" : "血脉商店",
+		"functionName" : "AMD_IPet_buyUpgradeBloodShopPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物变形",
+		"functionName" : "AMD_IPet_changePetModelExPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物：改变宠物模型",
+		"functionName" : "AMD_IPet_changePetUpgradeModelPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物：吃寿命药",
+		"functionName" : "AMD_IPet_eatLifeSpanDrugPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物：扩充宠物仓库容量",
+		"functionName" : "AMD_IPet_expandWarehousePtr"
+	},
+	
+	{
+		"functionDesc" : "宠物：删除宠物",
+		"functionName" : "AMD_IPet_firePetPtr"
+	},
+	
+	{
+		"functionName" : "AMD_IPet_getPetModelListPtr"
+	},
+	
+	{
+		"functionDesc" : "获取血脉商店物品信息",
+		"functionName" : "AMD_IPet_getUpgradeBloodShopPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物：解开新区域",
+		"functionName" : "AMD_IPet_openPetExploreAreaPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物：打开宠物闯关界面",
+		"functionName" : "AMD_IPet_openPetExplorePtr"
+	},
+	
+	{
+		"functionDesc" : "宠物：宠物融合",
+		"functionName" : "AMD_IPet_petMergePtr"
+	},
+	
+	{
+		"functionDesc" : "宠物：宠物洗髓",
+		"functionName" : "AMD_IPet_petXisuiPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物：批量提升宠物成长",
+		"functionName" : "AMD_IPet_refreshGrowthExPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物：兽魂封印",
+		"functionName" : "AMD_IPet_sealPetSkillPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物：设置宠物闯关顺序",
+		"functionName" : "AMD_IPet_setPetExploreOrderPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物：开始闯关",
+		"functionName" : "AMD_IPet_startPetExplorePtr"
+	},
+	
+	{
+		"functionDesc" : "宠物：批量提升宠物灵性",
+		"functionName" : "AMD_IPet_strengthenSpiritExPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物：整理魂器",
+		"functionName" : "AMD_IPet_tidyPetSkillsPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物：修炼宠物",
+		"functionName" : "AMD_IPet_trainPetPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物：解除兽魂封印",
+		"functionName" : "AMD_IPet_unsealPetSkillPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物血脉：提升血脉",
+		"functionName" : "AMD_IPet_upgradePetBloodPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物道具灵性悟性提升",
+		"functionName" : "AMD_IPet_upgradePetByPropsPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物：闯关使用技能卡片",
+		"functionName" : "AMD_IPet_usePetExploreCardPtr"
+	},
+	
+	{
+		"functionDesc" : "累计签到奖励",
+		"functionName" : "AMD_IPlayer_accumulateSignRewardPtr"
+	},
+	
+	{
+		"functionDesc" : "玩家：激活帐号锁",
+		"functionName" : "AMD_IPlayer_activeLockPtr"
+	},
+	
+	{
+		"functionDesc" : "玩家：答题",
+		"functionName" : "AMD_IPlayer_answerQuestionPtr"
+	},
+	
+	{
+		"functionDesc" : "玩家：阵营转换",
+		"functionName" : "AMD_IPlayer_changeCampPtr"
+	},
+	
+	{
+		"functionDesc" : "玩家：更换性别",
+		"functionName" : "AMD_IPlayer_changeSexPtr"
+	},
+	
+	{
+		"functionDesc" : "每日签到领取",
+		"functionName" : "AMD_IPlayer_dailySignRewardPtr"
+	},
+	
+	{
+		"functionDesc" : "玩家：领取VIP奖励",
+		"functionName" : "AMD_IPlayer_drawVIPRewardsPtr"
+	},
+	
+	{
+		"functionDesc" : "佩戴勋章功能控制",
+		"functionName" : "AMD_IPlayer_dressMeritMedalPtr"
+	},
+	
+	{
+		"functionDesc" : "玩家：收藏游戏",
+		"functionName" : "AMD_IPlayer_favoriteGamePtr"
+	},
+	
+	{
+		"functionDesc" : "玩家：领取活跃度奖励",
+		"functionName" : "AMD_IPlayer_getActivityRewardPtr"
+	},
+	
+	{
+		"functionDesc" : "玩家：获取头像信息",
+		"functionName" : "AMD_IPlayer_getAvatarInfoPtr"
+	},
+	
+	{
+		"functionDesc" : "获取修真活跃目标奖励",
+		"functionName" : "AMD_IPlayer_getComprehensionRewardPtr"
+	},
+	
+	{
+		"functionDesc" : "玩家：领取累计消费量礼包",
+		"functionName" : "AMD_IPlayer_getConsumeCountGiftBagPtr"
+	},
+	
+	{
+		"functionDesc" : "玩家：获取每天消耗YB返回奖励",
+		"functionName" : "AMD_IPlayer_getConsumeYBRetRewardPtr"
+	},
+	
+	{
+		"functionDesc" : "玩家：领取连续登陆奖励",
+		"functionName" : "AMD_IPlayer_getContinuousLoadRewardPtr"
+	},
+	
+	{
+		"functionDesc" : "等级礼包领取控制",
+		"functionName" : "AMD_IPlayer_getLevelGiftRewardPtr"
+	},
+	
+	{
+		"functionDesc" : "玩家：开发充值礼包",
+		"functionName" : "AMD_IPlayer_getOpenRechargeGiftBagPtr"
+	},
+	
+	{
+		"functionDesc" : "抽取随机奖励",
+		"functionName" : "AMD_IPlayer_getRandRewardPtr"
+	},
+	
+	{
+		"functionDesc" : "玩家：获取日常在线奖励",
+		"functionName" : "AMD_IPlayer_getRewardPtr_DailyReward"
+	},
+	
+	{
+		"functionDesc" : "玩家：获取等级在线奖励",
+		"functionName" : "AMD_IPlayer_getRewardPtr_LevelReward"
+	},
+	
+	{
+		"functionDesc" : "玩家：获取新手在线奖励",
+		"functionName" : "AMD_IPlayer_getRewardPtr_NewPlayerReward"
+	},
+	
+	{
+		"functionDesc" : "玩家：领取7天登陆奖励",
+		"functionName" : "AMD_IPlayer_getSevenDayLoginRewardPtr"
+	},
+	
+	{
+		"functionDesc" : "累计登录:获取额外奖励",
+		"functionName" : "AMD_IPlayer_getTotalLoadExtraRewardPtr"
+	},
+	
+	{
+		"functionDesc" : "累计登录:获取奖励",
+		"functionName" : "AMD_IPlayer_getTotalLoadRewardPtr"
+	},
+	
+	{
+		"functionDesc" : "玩家：上交蛋糕制作材料",
+		"functionName" : "AMD_IPlayer_handInCakeMaterialPtr"
+	},
+	
+	{
+		"functionDesc" : "玩家：替换头像",
+		"functionName" : "AMD_IPlayer_replaceAvatarPtr"
+	},
+	
+	{
+		"functionDesc" : "玩家：设置系统快捷键",
+		"functionName" : "AMD_IPlayer_saveSysShortcutPtr"
+	},
+	
+	{
+		"functionDesc" : "玩家：设置帐号锁",
+		"functionName" : "AMD_IPlayer_setLockPtr"
+	},
+	
+	{
+		"functionDesc" : "玩家：设置帐号锁状态",
+		"functionName" : "AMD_IPlayer_setLockStatusPtr"
+	},
+	
+	{
+		"functionDesc" : "关闭跨服练功房",
+		"functionName" : "AMD_IPlayer_takeCrossTrainRoomPositonPtr"
+	},
+	
+	{
+		"functionDesc" : "玩家：修改名字",
+		"functionName" : "AMD_IPlayer_updatePlayerNamePtr"
+	},
+	
+	{
+		"functionDesc" : "提升修真活跃等级",
+		"functionName" : "AMD_IPlayer_upgradeComprehensionLevelPtr"
+	},
+	
+	{
+		"functionDesc" : "玩家：访问站点",
+		"functionName" : "AMD_IPlayer_visitSitesPtr"
+	},
+	
+	{
+		"functionDesc" : "装备分解",
+		"functionName" : "AMD_IRefine_decomposeEquipPtr"
+	},
+	
+	{
+		"functionDesc" : "装备洗练槽开启",
+		"functionName" : "AMD_IRefine_openRefreshPtr"
+	},
+	
+	{
+		"functionDesc" : "装备洗练",
+		"functionName" : "AMD_IRefine_refreshPtr"
+	},
+	
+	{
+		"functionDesc" : "锻造：合成装备",
+		"functionName" : "AMD_IRefine_smeltEquipPtr"
+	},
+	
+	{
+		"functionDesc" : "锻造：套装升级",
+		"functionName" : "AMD_IRefine_suitUpgradePtr"
+	},
+	
+	{
+		"functionDesc" : "角色：仙命解封",
+		"functionName" : "AMD_IRole_activateStarFortunePtr"
+	},
+	
+	{
+		"functionDesc" : "角色：激活时装模型",
+		"functionName" : "AMD_IRole_activeFashionModelPtr"
+	},
+	
+	{
+		"functionDesc" : "角色：激活图鉴碎片",
+		"functionName" : "AMD_IRole_activeIllustratePiecePtr"
+	},
+	
+	{
+		"functionDesc" : "角色：补充聚气值",
+		"functionName" : "AMD_IRole_addAccumulationPtr"
+	},
+	
+	{
+		"functionDesc" : "角色：申请切磋",
+		"functionName" : "AMD_IRole_applyBattlePtr"
+	},
+	
+	{
+		"functionDesc" : "角色：申请双修",
+		"functionName" : "AMD_IRole_applyZazenPtr"
+	},
+	
+	{
+		"functionDesc" : "角色：购买仙境商店物品",
+		"functionName" : "AMD_IRole_buyExploreShopItemPtr"
+	},
+	
+	{
+		"functionDesc" : "角色：仙命召唤",
+		"functionName" : "AMD_IRole_callStarFortuneNpcPtr"
+	},
+	
+	{
+		"functionDesc" : "角色：时装幻化",
+		"functionName" : "AMD_IRole_changeFashionModelPtr"
+	},
+	
+	{
+		"functionDesc" : "改变玩家状态",
+		"functionName" : "AMD_IRole_changeRoleStatusPtr"
+	},
+	
+	{
+		"functionDesc" : "角色：翅膀幻化",
+		"functionName" : "AMD_IRole_changeWingModelPtr"
+	},
+	
+	{
+		"functionDesc" : "角色：翅膀变形",
+		"functionName" : "AMD_IRole_changeWingShapePtr"
+	},
+	
+	{
+		"functionDesc" : "角色：清除提升套装技能CD时间",
+		"functionName" : "AMD_IRole_clearSuitSkillCdPtr"
+	},
+	
+	{
+		"functionDesc" : "角色：仙命分解",
+		"functionName" : "AMD_IRole_decomposeStarFortunePtr"
+	},
+	
+	{
+		"functionDesc" : "角色：仙命寻仙",
+		"functionName" : "AMD_IRole_divineStarFortunePtr"
+	},
+	
+	{
+		"functionDesc" : "角色：时装变幻卷兑换",
+		"functionName" : "AMD_IRole_exchangeFashionReelPtr"
+	},
+	
+	{
+		"functionDesc" : "角色：仙命兑换",
+		"functionName" : "AMD_IRole_exchangeStarFortunePtr"
+	},
+	
+	{
+		"functionDesc" : "角色：获取图鉴激活奖励",
+		"functionName" : "AMD_IRole_getIllustrateRewardPtr"
+	},
+	
+	{
+		"functionDesc" : "装备奖励领取接口限制",
+		"functionName" : "AMD_IRole_getSuitRewardPtr"
+	},
+	
+	{
+		"functionDesc" : "角色： 仙命加锁",
+		"functionName" : "AMD_IRole_lockStarFortunePtr"
+	},
+	
+	{
+		"functionDesc" : "角色：装备锁定",
+		"functionName" : "AMD_IRole_lockSuitPtr"
+	},
+	
+	{
+		"functionDesc" : "角色：屏蔽翅膀",
+		"functionName" : "AMD_IRole_notShowWingPtr"
+	},
+	
+	{
+		"functionDesc" : "开启双职业",
+		"functionName" : "AMD_IRole_openSecondCareerPtr"
+	},
+	
+	{
+		"functionDesc" : "角色：仙命拾取",
+		"functionName" : "AMD_IRole_pickupStarFortunePtr"
+	},
+	
+	{
+		"functionDesc" : "角色：刷新仙境商店",
+		"functionName" : "AMD_IRole_refreshExploreShopPtr"
+	},
+	
+	{
+		"functionDesc" : "双职业切换当前职业",
+		"functionName" : "AMD_IRole_secondCareerTransformPtr"
+	},
+	
+	{
+		"functionDesc" : "角色： 仙命出售",
+		"functionName" : "AMD_IRole_sellStarFortunePtr"
+	},
+	
+	{
+		"functionDesc" : "角色：开始打坐",
+		"functionName" : "AMD_IRole_startZazenPtr"
+	},
+	
+	{
+		"functionDesc" : "角色：仙命吞噬",
+		"functionName" : "AMD_IRole_swallowStarFortunePtr"
+	},
+	
+	{
+		"functionDesc" : "角色：时装显隐设置",
+		"functionName" : "AMD_IRole_toHideFashionPtr"
+	},
+	
+	{
+		"functionDesc" : "角色：时装部位升阶",
+		"functionName" : "AMD_IRole_upgradeFashionPtr"
+	},
+	
+	{
+		"functionDesc" : "角色：提升套装技能等级",
+		"functionName" : "AMD_IRole_upgradeSuitSkillPtr"
+	},
+	
+	{
+		"functionDesc" : "角色：使用药包",
+		"functionName" : "AMD_IRole_useDrugBagPtr"
+	},
+	
+	{
+		"functionDesc" : "天赋技能： 激活",
+		"functionName" : "AMD_IRune_activateRunePtr"
+	},
+	
+	{
+		"functionDesc" : "天赋技能： 开启",
+		"functionName" : "AMD_IRune_addRuneNumPtr"
+	},
+	
+	{
+		"functionDesc" : "符文：装备符文",
+		"functionName" : "AMD_IRune_equipPtr"
+	},
+	
+	{
+		"functionDesc" : "符文：符文喂养",
+		"functionName" : "AMD_IRune_feedRunePtr"
+	},
+	
+	{
+		"functionDesc" : "符文：符文指引",
+		"functionName" : "AMD_IRune_runeGuidePtr"
+	},
+	
+	{
+		"functionDesc" : "符文：符文吞噬",
+		"functionName" : "AMD_IRune_swallowPtr"
+	},
+	
+	{
+		"functionDesc" : "符文：卸下符文",
+		"functionName" : "AMD_IRune_takeOffPtr"
+	},
+	
+	{
+		"functionDesc" : "天赋技能： 提升",
+		"functionName" : "AMD_IRune_upgradeExperiencePtr"
+	},
+	
+	{
+		"functionDesc" : "天赋技能： 吸收",
+		"functionName" : "AMD_IRune_upgradeRuneExperiencePtr"
+	},
+	
+	{
+		"functionDesc" : "符文：符文进阶",
+		"functionName" : "AMD_IRune_upgradeRunePtr"
+	},
+	
+	{
+		"functionDesc" : "商店：回购物品",
+		"functionName" : "AMD_IShop_buyBackPtr"
+	},
+	
+	{
+		"functionDesc" : "体力值购买",
+		"functionName" : "AMD_IShop_buyCopyEnergyPtr"
+	},
+	
+	{
+		"functionDesc" : "商店：购买积分商店物品",
+		"functionName" : "AMD_IShop_buyIntegralShopItemPtr"
+	},
+	
+	{
+		"functionDesc" : "商店：购买并使用物品",
+		"functionName" : "AMD_IShop_buyItemAndUsePtr"
+	},
+	
+	{
+		"functionDesc" : "商店：购买物品",
+		"functionName" : "AMD_IShop_buyItemPtr"
+	},
+	
+	{
+		"functionDesc" : "商店：购买NPC商店物品",
+		"functionName" : "AMD_IShop_buyNpcShopItemPtr"
+	},
+	
+	{
+		"functionDesc" : "商店：领取商场消费返还",
+		"functionName" : "AMD_IShop_getCostReturnPtr"
+	},
+	
+	{
+		"functionDesc" : "商店：兑换积分商店物品",
+		"functionName" : "AMD_IShop_integralExchangePtr"
+	},
+	
+	{
+		"functionDesc" : "商店：修理装备",
+		"functionName" : "AMD_IShop_repairWeaponPtr"
+	},
+	
+	{
+		"functionDesc" : "商店：出售物品",
+		"functionName" : "AMD_IShop_sellItemPtr"
+	},
+	
+	{
+		"functionDesc" : "摆摊：购买物品",
+		"functionName" : "AMD_IStall_buyItemPtr"
+	},
+	
+	{
+		"functionDesc" : "摆摊：开始摆摊",
+		"functionName" : "AMD_IStall_startStallPtr"
+	},
+	
+	{
+		"functionDesc" : "添加结义称号",
+		"functionName" : "AMD_ISworn_addSwornTitlePtr"
+	},
+	
+	{
+		"functionDesc" : "同意加入结义",
+		"functionName" : "AMD_ISworn_agreeSwornPtr"
+	},
+	
+	{
+		"functionDesc" : "创建结义",
+		"functionName" : "AMD_ISworn_createSwornPtr"
+	},
+	
+	{
+		"functionDesc" : "解散结义",
+		"functionName" : "AMD_ISworn_disbandSowrnPtr"
+	},
+	
+	{
+		"functionDesc" : "结义燃放烟花",
+		"functionName" : "AMD_ISworn_fireworkPtr"
+	},
+	
+	{
+		"functionDesc" : "获取满足结义条件的好友列表",
+		"functionName" : "AMD_ISworn_freshListPtr"
+	},
+	
+	{
+		"functionDesc" : "获取所有正在举行的结义典礼信息",
+		"functionName" : "AMD_ISworn_getAllSwornWeddingPtr"
+	},
+	
+	{
+		"functionDesc" : "获取结义礼包",
+		"functionName" : "AMD_ISworn_getSwornGiftPtr"
+	},
+	
+	{
+		"functionDesc" : "结义邀请好友",
+		"functionName" : "AMD_ISworn_invitFriendPtr"
+	},
+	
+	{
+		"functionDesc" : "结义踢出成员",
+		"functionName" : "AMD_ISworn_kickOutSwornPtr"
+	},
+	
+	{
+		"functionDesc" : "离开结义",
+		"functionName" : "AMD_ISworn_leftSwornPtr"
+	},
+	
+	{
+		"functionDesc" : "修改结义宣言",
+		"functionName" : "AMD_ISworn_modifySwornDeclationPtr"
+	},
+	
+	{
+		"functionDesc" : "修改结义称号",
+		"functionName" : "AMD_ISworn_modifySwornTitlePtr"
+	},
+	
+	{
+		"functionDesc" : "拒绝结义邀请",
+		"functionName" : "AMD_ISworn_rejectInvitPtr"
+	},
+	
+	{
+		"functionDesc" : "结义典礼开始",
+		"functionName" : "AMD_ISworn_startSwornWeddingPtr"
+	},
+	
+	{
+		"functionDesc" : "任务目标控制",
+		"functionName" : "AMD_ITaskTarget_getTargetInfoPtr"
+	},
+	
+	{
+		"functionDesc" : "情缘：加速巡游",
+		"functionName" : "AMD_ITask_accleCruisePtr"
+	},
+	
+	{
+		"functionDesc" : "祈福：祈福",
+		"functionName" : "AMD_ITask_blessingPtr"
+	},
+	
+	{
+		"functionDesc" : "探寻天机购买次数",
+		"functionName" : "AMD_ITask_buyExploreSecretDicePtr"
+	},
+	
+	{
+		"functionDesc" : "任务：购买运镖保险",
+		"functionName" : "AMD_ITask_buyInsurancePtr"
+	},
+	
+	{
+		"functionDesc" : "跨服挖宝：寻求帮助",
+		"functionName" : "AMD_ITask_crossTreasureAskForHelpPtr"
+	},
+	
+	{
+		"functionDesc" : "跨服挖宝：结束挖宝",
+		"functionName" : "AMD_ITask_crossTreasureEndPtr"
+	},
+	
+	{
+		"functionDesc" : "跨服挖宝：开始挖宝",
+		"functionName" : "AMD_ITask_crossTreasureStartPtr"
+	},
+	
+	{
+		"functionDesc" : "情缘：结束巡游",
+		"functionName" : "AMD_ITask_endCruisePtr"
+	},
+	
+	{
+		"functionDesc" : "情缘:评价情缘任务对方",
+		"functionName" : "AMD_ITask_evaluatePartnerPtr"
+	},
+	
+	{
+		"functionDesc" : "情缘:寻找有缘人",
+		"functionName" : "AMD_ITask_findPartnerPtr"
+	},
+	
+	{
+		"functionDesc" : "任务：刷循环任务书任务颜色",
+		"functionName" : "AMD_ITask_flushLoopBookTaskColorPtr"
+	},
+	
+	{
+		"functionDesc" : "任务：刷宗门任务",
+		"functionName" : "AMD_ITask_flushSchoolTaskPtr"
+	},
+	
+	{
+		"functionDesc" : "任务：刷镖车颜色",
+		"functionName" : "AMD_ITask_flushTransportColorPtr"
+	},
+	
+	{
+		"functionDesc" : "修仙宝典：下推完成任务",
+		"functionName" : "AMD_ITask_getBibleModelPtr"
+	},
+	
+	{
+		"functionDesc" : "探寻天机获取宝箱",
+		"functionName" : "AMD_ITask_getExploreSecretBoxPtr"
+	},
+	
+	{
+		"functionDesc" : "任务：接诛邪令任务",
+		"functionName" : "AMD_ITask_getKillEvilTaskPtr"
+	},
+	
+	{
+		"functionDesc" : "获取符合条件的异性好友的情缘信息",
+		"functionName" : "AMD_ITask_getLoveTaskFriendInfoPtr"
+	},
+	
+	{
+		"functionDesc" : "退出：退出游戏提醒",
+		"functionName" : "AMD_ITask_getPlayerTaskHintPtr"
+	},
+	
+	{
+		"functionDesc" : "情缘:赠送道具给情缘任务对方",
+		"functionName" : "AMD_ITask_giveGiftToPartnerPtr"
+	},
+	
+	{
+		"functionDesc" : "情缘:邀请对方进行情缘任务",
+		"functionName" : "AMD_ITask_invitePartnerPtr"
+	},
+	
+	{
+		"functionDesc" : "情缘任务 加入巡游",
+		"functionName" : "AMD_ITask_jionCruisePtr"
+	},
+	
+	{
+		"functionDesc" : "一键探寻天机",
+		"functionName" : "AMD_ITask_oneKeyExploreSecretPtr"
+	},
+	
+	{
+		"functionDesc" : "祈福：打开祈福界面",
+		"functionName" : "AMD_ITask_openBlessingPtr"
+	},
+	
+	{
+		"functionDesc" : "跨服挖宝：打开宝图",
+		"functionName" : "AMD_ITask_openTreasureMapPtr"
+	},
+	
+	{
+		"functionDesc" : "任务:情缘任务被邀请人回复",
+		"functionName" : "AMD_ITask_partnerReplyPtr"
+	},
+	
+	{
+		"functionDesc" : "任务：快速完成任务",
+		"functionName" : "AMD_ITask_quickCompleteTaskPtr"
+	},
+	
+	{
+		"functionDesc" : "任务：发布诛邪令任务",
+		"functionName" : "AMD_ITask_releaseKillEvilTaskPtr"
+	},
+	
+	{
+		"functionDesc" : "探寻天机摇骰子",
+		"functionName" : "AMD_ITask_rollExploreSecretDicePtr"
+	},
+	
+	{
+		"functionDesc" : "情缘：开始巡游",
+		"functionName" : "AMD_ITask_startCruisePtr"
+	},
+	
+	{
+		"functionDesc" : "任务：开始运镖",
+		"functionName" : "AMD_ITask_startTransportPtr"
+	},
+	
+	{
+		"functionDesc" : "任务：寻宝任务帮助",
+		"functionName" : "AMD_ITask_treasureHuntHelpPtr"
+	},
+	
+	{
+		"functionDesc" : "同意入队（申请）",
+		"functionName" : "AMD_Iteam_agreePtr"
+	},
+	
+	{
+		"functionDesc" : "申请团队",
+		"functionName" : "AMD_Iteam_applyPtr"
+	},
+	
+	{
+		"functionDesc" : "组队功能开关",
+		"functionName" : "AMD_Iteam_createGroupPtr"
+	},
+	
+	{
+		"functionDesc" : "解散团队",
+		"functionName" : "AMD_Iteam_disbandGroupPtr"
+	},
+	
+	{
+		"functionDesc" : "团队邀请援助",
+		"functionName" : "AMD_Iteam_invitePlayerToCopyPtr"
+	},
+	
+	{
+		"functionDesc" : "邀请入队",
+		"functionName" : "AMD_Iteam_invitePtr"
+	},
+	
+	{
+		"functionDesc" : "踢出团队",
+		"functionName" : "AMD_Iteam_kickOutPtr"
+	},
+	
+	{
+		"functionDesc" : "离开团队",
+		"functionName" : "AMD_Iteam_leftPtr"
+	},
+	
+	{
+		"functionDesc" : "队长权限转移",
+		"functionName" : "AMD_Iteam_modifyCaptainPtr"
+	},
+	
+	{
+		"functionDesc" : "快速入团",
+		"functionName" : "AMD_Iteam_quickGroupPtr"
+	},
+	
+	{
+		"functionDesc" : "拒绝入队（申请）",
+		"functionName" : "AMD_Iteam_rejectPtr"
+	},
+	
+	{
+		"functionDesc" : "设置团队",
+		"functionName" : "AMD_Iteam_setTeamPtr"
+	},
+	
+	{
+		"functionDesc" : "宝藏：上交水晶",
+		"functionName" : "AMD_ITreasure_handOutPtr"
+	},
+	
+	{
+		"functionDesc" : "宝藏：报名",
+		"functionName" : "AMD_ITreasure_joinPtr"
+	},
+	
+	{
+		"functionDesc" : "宝藏：传送",
+		"functionName" : "AMD_ITreasure_passToPtr"
+	},
+	
+	{
+		"functionDesc" : "宝藏：复活",
+		"functionName" : "AMD_ITreasure_revivePtr"
+	},
+	
+	{
+		"functionDesc" : "新五行系统：吸魂",
+		"functionName" : "AMD_IWuXing_absorbFiveElementsSoulPtr"
+	},
+	
+	{
+		"functionDesc" : "五行：属性洗练",
+		"functionName" : "AMD_IWuXing_attributeRefreshPtr"
+	},
+	
+	{
+		"functionDesc" : "五行：修改技能",
+		"functionName" : "AMD_IWuXing_changeTheSkillPtr"
+	},
+	
+	{
+		"functionDesc" : "新五行系统：操作主属性",
+		"functionName" : "AMD_IWuXing_operateMainElementsPtr"
+	},
+	
+	{
+		"functionDesc" : "新五行系统：引魂",
+		"functionName" : "AMD_IWuXing_refreshFiveElementsSoulPtr"
+	},
+	
+	{
+		"functionDesc" : "新五行系统：提升灵珠等级",
+		"functionName" : "AMD_IWuXing_upgradeSoulPearlLevelPtr"
+	},
+	
+	{
+		"functionDesc" : "新五行系统：提升五行等级",
+		"functionName" : "AMD_IWuXing_upgradgeFiveElementsLevelPtr"
+	},
+	
+	{
+		"functionDesc" : "宠物争霸机器人控制开关",
+		"functionName" : "Arena_pet_robot_control"
+	},
+	
+	{
+		"functionDesc" : "关闭平台限制",
+		"functionName" : "closeFlatformLimit"
+	},
+	
+	{
+		"functionDesc" : "跨服城战折扣",
+		"functionName" : "Cross_city_Count"
+	},
+	
+	{
+		"functionDesc" : "城战折扣后能否买到改物品",
+		"functionName" : "Cross_city_have_Count"
+	},
+	
+	{
+		"functionDesc" : "跨服3v3控制",
+		"functionName" : "CROSS_THREE_VS_THREE"
+	},
+	
+	{
+		"functionDesc" : "充值双倍（固定功能）",
+		"functionName" : "DoubleChargeReward"
+	},
+	
+	{
+		"functionDesc" : "关闭60副本进入口",
+		"functionName" : "EnterNew60CopyColsed"
+	},
+	
+	{
+		"functionDesc" : "基金奖励开关",
+		"functionName" : "foundActivity"
+	},
+	
+	{
+		"functionDesc" : "屏蔽功能（方便数据库关闭）",
+		"functionName" : "Function_Shield"
+	},
+	
+	{
+		"functionDesc" : "游戏活动领取控制",
+		"functionName" : "getActivityReward"
+	},
+	
+	{
+		"functionDesc" : "GM ：不开放测试接口",
+		"functionName" : "GM_AMD_ITest_AllInferface"
+	},
+	
+	{
+		"functionDesc" : "GM：关闭以后的智慧问答",
+		"functionName" : "GM_Closed_Question_Active"
+	},
+	
+	{
+		"functionDesc" : "GM：不启用私聊规则（30级以下只能同好友私聊）",
+		"functionName" : "GM_NotUsed_ChatPrivateRule"
+	},
+	
+	{
+		"functionDesc" : "GM：不启用禁言或锁号关键字",
+		"functionName" : "GM_NotUsed_ForbidOrLockWord"
+	},
+	
+	{
+		"functionDesc" : "GM：不启用邮件过滤词",
+		"functionName" : "GM_NotUsed_MailForbidWord"
+	},
+	
+	{
+		"functionDesc" : "GM：不广播仙境探险得到的物品",
+		"functionName" : "GM_Not_Broadcast_Explorer_Item"
+	},
+	
+	{
+		"functionDesc" : "情缘任务",
+		"functionName" : "LOVETASK"
+	},
+	
+	{
+		"functionDesc" : "元宝流通控制",
+		"functionName" : "MONEY_TRACE_CONTROL"
+	},
+	
+	{
+		"functionDesc" : "关闭60副本扫荡",
+		"functionName" : "New60CopySweepCopyClosed"
+	}
+]

@@ -1,0 +1,131 @@
+
+[
+	
+	{
+		"attrList" : "1,0#3,0#2,0#4,0#",
+		"code" : 1,
+		"icon" : "beast_1",
+		"name" : "天狼",
+		"skillList" : "340001"
+	},
+	
+	{
+		"attrList" : "1,0#3,0#2,0#4,0#",
+		"code" : 2,
+		"icon" : "beast_2",
+		"name" : "青鸾",
+		"skillList" : "340101"
+	},
+	
+	{
+		"attrList" : "1,0#3,0#2,0#4,0#",
+		"code" : 3,
+		"icon" : "beast_3",
+		"name" : "金翅鸟",
+		"skillList" : "340002"
+	},
+	
+	{
+		"attrList" : "1,0#3,0#2,0#4,0#",
+		"code" : 4,
+		"icon" : "beast_4",
+		"name" : "金蟾王",
+		"skillList" : "340102"
+	},
+	
+	{
+		"attrList" : "1,0#3,0#2,0#4,0#",
+		"code" : 5,
+		"icon" : "beast_5",
+		"name" : "九尾狐",
+		"skillList" : "340003"
+	},
+	
+	{
+		"attrList" : "1,0#3,0#2,0#4,0#",
+		"code" : 6,
+		"icon" : "beast_6",
+		"name" : "水麒麟",
+		"skillList" : "340103"
+	},
+	
+	{
+		"attrList" : "1,0#3,0#2,0#4,0#",
+		"code" : 7,
+		"icon" : "beast_7",
+		"name" : "赤炎兽",
+		"skillList" : "340201,340003"
+	},
+	
+	{
+		"attrList" : "1,0#3,0#2,0#4,0#",
+		"code" : 8,
+		"icon" : "beast_8",
+		"name" : "腾蛇",
+		"skillList" : "340301,340103"
+	},
+	
+	{
+		"attrList" : "1,0#3,0#2,0#4,0#",
+		"code" : 9,
+		"icon" : "beast_9",
+		"name" : "狻猊",
+		"skillList" : "340202,340003"
+	},
+	
+	{
+		"attrList" : "1,0#3,0#2,0#4,0#",
+		"code" : 10,
+		"icon" : "beast_10",
+		"name" : "穷奇",
+		"skillList" : "340302,340103"
+	},
+	
+	{
+		"attrList" : "1,0#3,0#2,0#4,0#",
+		"code" : 11,
+		"icon" : "beast_11",
+		"name" : "饕餮",
+		"skillList" : "340203,340003"
+	},
+	
+	{
+		"attrList" : "1,0#3,0#2,0#4,0#",
+		"code" : 12,
+		"icon" : "beast_12",
+		"name" : "青龙",
+		"skillList" : "340303,340103"
+	},
+	
+	{
+		"attrList" : "1,0#3,0#2,0#4,0#",
+		"code" : 13,
+		"icon" : "beast_13",
+		"name" : "白虎",
+		"skillList" : "340203,340303"
+	},
+	
+	{
+		"attrList" : "1,0#3,0#2,0#4,0#",
+		"code" : 14,
+		"icon" : "beast_14",
+		"name" : "朱雀",
+		"skillList" : "340403,340103"
+	},
+	
+	{
+		"attrList" : "1,0#3,0#2,0#4,0#",
+		"code" : 15,
+		"icon" : "beast_15",
+		"name" : "玄武",
+		"skillList" : "340403,340003"
+	},
+	
+	{
+		"attrList" : "1,0#3,0#2,0#4,0#",
+		"code" : 16,
+		"icon" : "beast_16",
+		"name" : "上古祖龙",
+		"skillList" : "340404,340103"
+	}
+]

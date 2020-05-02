@@ -1,0 +1,308 @@
+
+[
+	
+	{
+		"exp" : 156,
+		"level" : 1,
+		"percentage" : 3
+	},
+	
+	{
+		"exp" : 177,
+		"level" : 2,
+		"percentage" : 6
+	},
+	
+	{
+		"exp" : 201,
+		"level" : 3,
+		"percentage" : 9
+	},
+	
+	{
+		"exp" : 227,
+		"level" : 4,
+		"percentage" : 12
+	},
+	
+	{
+		"exp" : 255,
+		"level" : 5,
+		"percentage" : 15
+	},
+	
+	{
+		"exp" : 286,
+		"level" : 6,
+		"percentage" : 18
+	},
+	
+	{
+		"exp" : 321,
+		"level" : 7,
+		"percentage" : 21
+	},
+	
+	{
+		"exp" : 358,
+		"level" : 8,
+		"percentage" : 24
+	},
+	
+	{
+		"exp" : 400,
+		"level" : 9,
+		"percentage" : 27
+	},
+	
+	{
+		"exp" : 445,
+		"level" : 10,
+		"needBroadcast" : 1,
+		"percentage" : 30
+	},
+	
+	{
+		"exp" : 495,
+		"level" : 11,
+		"percentage" : 33
+	},
+	
+	{
+		"exp" : 550,
+		"level" : 12,
+		"percentage" : 36
+	},
+	
+	{
+		"exp" : 610,
+		"level" : 13,
+		"percentage" : 39
+	},
+	
+	{
+		"exp" : 676,
+		"level" : 14,
+		"percentage" : 42
+	},
+	
+	{
+		"exp" : 748,
+		"level" : 15,
+		"percentage" : 45
+	},
+	
+	{
+		"exp" : 828,
+		"level" : 16,
+		"percentage" : 48
+	},
+	
+	{
+		"exp" : 915,
+		"level" : 17,
+		"percentage" : 51
+	},
+	
+	{
+		"exp" : 1011,
+		"level" : 18,
+		"percentage" : 54
+	},
+	
+	{
+		"exp" : 1117,
+		"level" : 19,
+		"percentage" : 57
+	},
+	
+	{
+		"exp" : 1232,
+		"level" : 20,
+		"needBroadcast" : 1,
+		"percentage" : 60
+	},
+	
+	{
+		"exp" : 1359,
+		"level" : 21,
+		"percentage" : 63
+	},
+	
+	{
+		"exp" : 1499,
+		"level" : 22,
+		"percentage" : 66
+	},
+	
+	{
+		"exp" : 1652,
+		"level" : 23,
+		"percentage" : 69
+	},
+	
+	{
+		"exp" : 1820,
+		"level" : 24,
+		"percentage" : 72
+	},
+	
+	{
+		"exp" : 2005,
+		"level" : 25,
+		"percentage" : 75
+	},
+	
+	{
+		"exp" : 2207,
+		"level" : 26,
+		"percentage" : 78
+	},
+	
+	{
+		"exp" : 2430,
+		"level" : 27,
+		"percentage" : 81
+	},
+	
+	{
+		"exp" : 2674,
+		"level" : 28,
+		"percentage" : 84
+	},
+	
+	{
+		"exp" : 2942,
+		"level" : 29,
+		"percentage" : 87
+	},
+	
+	{
+		"exp" : 3237,
+		"level" : 30,
+		"needBroadcast" : 1,
+		"percentage" : 90
+	},
+	
+	{
+		"exp" : 3561,
+		"level" : 31,
+		"percentage" : 93
+	},
+	
+	{
+		"exp" : 3916,
+		"level" : 32,
+		"percentage" : 96
+	},
+	
+	{
+		"exp" : 4306,
+		"level" : 33,
+		"percentage" : 99
+	},
+	
+	{
+		"exp" : 4734,
+		"level" : 34,
+		"percentage" : 102
+	},
+	
+	{
+		"exp" : 5204,
+		"level" : 35,
+		"percentage" : 105
+	},
+	
+	{
+		"exp" : 5720,
+		"level" : 36,
+		"percentage" : 108
+	},
+	
+	{
+		"exp" : 6287,
+		"level" : 37,
+		"percentage" : 111
+	},
+	
+	{
+		"exp" : 6909,
+		"level" : 38,
+		"percentage" : 114
+	},
+	
+	{
+		"exp" : 7593,
+		"level" : 39,
+		"percentage" : 117
+	},
+	
+	{
+		"exp" : 8343,
+		"level" : 40,
+		"needBroadcast" : 1,
+		"percentage" : 120
+	},
+	
+	{
+		"exp" : 9167,
+		"level" : 41,
+		"percentage" : 123
+	},
+	
+	{
+		"exp" : 10072,
+		"level" : 42,
+		"percentage" : 126
+	},
+	
+	{
+		"exp" : 11065,
+		"level" : 43,
+		"percentage" : 129
+	},
+	
+	{
+		"exp" : 12155,
+		"level" : 44,
+		"percentage" : 132
+	},
+	
+	{
+		"exp" : 13353,
+		"level" : 45,
+		"percentage" : 135
+	},
+	
+	{
+		"exp" : 14668,
+		"level" : 46,
+		"percentage" : 138
+	},
+	
+	{
+		"exp" : 16111,
+		"level" : 47,
+		"percentage" : 141
+	},
+	
+	{
+		"exp" : 17696,
+		"level" : 48,
+		"percentage" : 144
+	},
+	
+	{
+		"exp" : 19437,
+		"level" : 49,
+		"percentage" : 147
+	},
+	
+	{
+		"exp" : 21348,
+		"level" : 50,
+		"needBroadcast" : 1,
+		"percentage" : 150
+	}
+]

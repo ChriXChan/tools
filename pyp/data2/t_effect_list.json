@@ -1,0 +1,221 @@
+
+[
+	
+	{
+		"delayDie" : 200,
+		"effectHurt" : "[100,200]",
+		"effectList" : "[{\"effectId\":101030011,\"x\":0,\"y\":-50,\"layer\":0,\"delay\":0},{\"effectId\":101030012,\"x\":0,\"y\":-50,\"layer\":0,\"delay\":0},{\"effectId\":101030013,\"x\":0,\"y\":-50,\"layer\":0,\"delay\":0},{\"effectId\":101030014,\"x\":0,\"y\":-50,\"layer\":0,\"delay\":200},{\"effectId\":101030015,\"x\":0,\"y\":-50,\"layer\":0,\"delay\":200},{\"effectId\":101030016,\"x\":0,\"y\":-50,\"layer\":0,\"delay\":100},{\"effectId\":101030017,\"x\":0,\"y\":-50,\"layer\":0,\"delay\":200},{\"effectId\":101030018,\"x\":0,\"y\":-50,\"layer\":0,\"delay\":300}]",
+		"effectPos" : 2,
+		"effectType" : 2,
+		"listId" : 10103001
+	},
+	
+	{
+		"delayDie" : 300,
+		"effectHurt" : "[100,200,300]",
+		"effectList" : "[{\"effectId\":101050011,\"x\":0,\"y\":0,\"layer\":5,\"delay\":180}]",
+		"effectPos" : 1,
+		"effectType" : 1,
+		"listId" : 10105001
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[{\"effectId\":101040011,\"x\":0,\"y\":-65,\"layer\":5,\"delay\":0}]",
+		"effectPos" : 2,
+		"effectType" : 2,
+		"listId" : 10104001,
+		"shake" : "{\"type\":1,\"delay\":0,\"intensity\":15,\"time\":100,\"speed\":33}"
+	},
+	
+	{
+		"delayDie" : 850,
+		"effectHurt" : "[500,600,850]",
+		"effectList" : "[{\"effectId\":101060011,\"x\":0,\"y\":-500,\"layer\":0,\"delay\":0},{\"effectId\":101060012,\"x\":0,\"y\":-500,\"layer\":6,\"delay\":100},{\"effectId\":101060013,\"x\":-100,\"y\":-50,\"layer\":6,\"delay\":400},{\"effectId\":101060014,\"x\":0,\"y\":50,\"layer\":6,\"delay\":450},{\"effectId\":101060015,\"x\":125,\"y\":0,\"layer\":6,\"delay\":500},{\"effectId\":101060016,\"x\":30,\"y\":-50,\"layer\":6,\"delay\":550},{\"effectId\":101060017,\"x\":0,\"y\":0,\"layer\":0,\"delay\":850}]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 10106001,
+		"shake" : "{\"type\":1,\"delay\":850,\"intensity\":40,\"time\":200,\"speed\":40,\"angle\":90,\"increase\":[50,-50,3]}"
+	},
+	
+	{
+		"delayDie" : 300,
+		"effectHurt" : "[300]",
+		"effectList" : "[{\"effectId\":102010011,\"x\":0,\"y\":-75,\"layer\":0,\"delay\":100,\"move\":{\"type\":1,\"to\":[100,100],\"endEffectId\":102010012,\"speed\":900,\"height\":0}}]",
+		"effectPos" : 2,
+		"effectType" : 4,
+		"listId" : 10201001
+	},
+	
+	{
+		"delayDie" : 300,
+		"effectHurt" : "[300]",
+		"effectList" : "[{\"effectId\":102040011,\"x\":0,\"y\":0,\"layer\":0,\"delay\":0}]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 10204001,
+		"shake" : "{\"type\":0,\"delay\":30,\"intensity\":11,\"time\":400,\"speed\":33}"
+	},
+	
+	{
+		"delayDie" : 350,
+		"effectHurt" : "[350]",
+		"effectList" : "[{\"effectId\":102050015,\"x\":0,\"y\":0,\"layer\":1,\"delay\":0},{\"effectId\":102010013,\"x\":0,\"y\":0,\"layer\":3,\"delay\":0}]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 10205001,
+		"shake" : "{\"type\":0,\"delay\":100,\"intensity\":10,\"time\":700,\"speed\":33}"
+	},
+	
+	{
+		"delayDie" : 0,
+		"effectHurt" : "[0]",
+		"effectList" : "[{\"effectId\":102070011,\"x\":0,\"y\":0,\"layer\":2,\"delay\":0},{\"effectId\":102070012,\"x\":0,\"y\":0,\"layer\":2,\"delay\":400},{\"effectId\":102070013,\"x\":0,\"y\":0,\"layer\":2,\"delay\":3400}]",
+		"effectPos" : 1,
+		"effectType" : 1,
+		"listId" : 10207001
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[50,250,450,550]",
+		"effectList" : "[{\"effectId\":102060011,\"x\":-40,\"y\":-40,\"layer\":1,\"delay\":0},{\"effectId\":102060012,\"x\":-120,\"y\":50,\"layer\":0,\"delay\":180},{\"effectId\":102060013,\"x\":70,\"y\":0,\"layer\":1,\"delay\":120},{\"effectId\":102060014,\"x\":0,\"y\":70,\"layer\":0,\"delay\":0},{\"effectId\":102010013,\"x\":0,\"y\":0,\"layer\":3,\"delay\":0}]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 10206001,
+		"shake" : "{\"type\":0,\"delay\":100,\"intensity\":12,\"time\":400,\"speed\":33}"
+	},
+	
+	{
+		"delayDie" : 300,
+		"effectHurt" : "[500]",
+		"effectList" : "[{\"effectId\":102030011,\"x\":0,\"y\":0,\"layer\":0,\"delay\":100},{\"effectId\":102010013,\"x\":0,\"y\":0,\"layer\":3,\"delay\":0}]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 10203001
+	},
+	
+	{
+		"delayDie" : 300,
+		"effectHurt" : "[300]",
+		"effectList" : "[{\"effectId\":101010011,\"x\":0,\"y\":0,\"layer\":0,\"delay\":0},{\"effectId\":102030012,\"x\":0,\"y\":0,\"layer\":3,\"delay\":0},{\"effectId\":102030013,\"x\":0,\"y\":0,\"layer\":2,\"delay\":0}]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 10101001,
+		"shake" : "{\"type\":1,\"delay\":100,\"intensity\":15,\"time\":150,\"speed\":33}"
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[{\"effectId\":102090011,\"x\":0,\"y\":0,\"layer\":0,\"delay\":0,\"move\":{\"type\":0,\"to\":[0,0],\"moveDis\":500,\"speed\":600,\"acceleration\":0,\"offAngle\":0,\"scale\":[200,1000,3,200],\"noObjHeight\":1}}]",
+		"effectPos" : 2,
+		"effectType" : 4,
+		"listId" : 10209001
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[{\"effectId\":102090012,\"x\":0,\"y\":-100,\"layer\":0,\"delay\":150},{\"effectId\":102090013,\"x\":0,\"y\":-200,\"layer\":0,\"delay\":250},{\"effectId\":102090014,\"x\":0,\"y\":-300,\"layer\":0,\"delay\":350},{\"effectId\":102090015,\"x\":0,\"y\":-400,\"layer\":0,\"delay\":500}]",
+		"effectPos" : 2,
+		"effectType" : 6,
+		"listId" : 10209002
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 10107001
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[50,250,450,550]",
+		"effectList" : "[{\"effectId\":101020011,\"x\":130,\"y\":-130,\"layer\":0,\"delay\":0},{\"effectId\":101020012,\"x\":-20,\"y\":-230,\"layer\":0,\"delay\":200},{\"effectId\":101020013,\"x\":-120,\"y\":-65,\"layer\":0,\"delay\":300},{\"effectId\":101020014,\"x\":30,\"y\":65,\"layer\":0,\"delay\":400},{\"effectId\":102030012,\"x\":0,\"y\":0,\"layer\":3,\"delay\":0},{\"effectId\":102030013,\"x\":0,\"y\":0,\"layer\":2,\"delay\":0}]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 10102001,
+		"shake" : "{\"type\":1,\"delay\":100,\"intensity\":12,\"time\":250,\"speed\":33}"
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[{\"effectId\":302010011,\"x\":0,\"y\":-50,\"layer\":0,\"delay\":600,\"move\":{\"type\":1,\"to\":[100,100],\"moveDis\":1000,\"speed\":900,\"acceleration\":0}}]",
+		"effectPos" : 2,
+		"effectType" : 4,
+		"listId" : 30201001
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[{\"effectId\":306010011,\"x\":0,\"y\":0,\"layer\":0,\"delay\":0}]",
+		"effectPos" : 1,
+		"effectType" : 5,
+		"listId" : 30601001
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[{\"effectId\":101080011,\"x\":0,\"y\":0,\"layer\":1,\"delay\":0}]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 10108001
+	},
+	
+	{
+		"delayDie" : 300,
+		"effectHurt" : "[550]",
+		"effectList" : "[{\"effectId\":9999,\"x\":0,\"y\":0,\"layer\":0,\"delay\":0},{\"effectId\":999991,\"x\":0,\"y\":0,\"layer\":6,\"delay\":180},{\"effectId\":999992,\"x\":0,\"y\":0,\"layer\":6,\"delay\":180}]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 9999,
+		"shake" : "{\"type\":1,\"delay\":200,\"intensity\":40,\"time\":500,\"speed\":40,\"angle\":90,\"increase\":[50,-50,3]}"
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[{\"effectId\":10061,\"x\":0,\"y\":-90,\"layer\":0,\"delay\":0},{\"effectId\":10062,\"x\":65,\"y\":-250,\"layer\":0,\"delay\":100},{\"effectId\":10062,\"x\":-65,\"y\":-250,\"layer\":0,\"delay\":100},{\"effectId\":10063,\"x\":130,\"y\":-380,\"layer\":0,\"delay\":200},{\"effectId\":10063,\"x\":0,\"y\":-400,\"layer\":0,\"delay\":200},{\"effectId\":10063,\"x\":-130,\"y\":-380,\"layer\":0,\"delay\":200}]",
+		"effectPos" : 1,
+		"effectType" : 3,
+		"listId" : 1006,
+		"shake" : "{\"type\":1,\"delay\":50,\"intensity\":10,\"time\":230,\"speed\":33}"
+	},
+	
+	{
+		"delayDie" : 200,
+		"effectHurt" : "[50,100,150,200,250]",
+		"effectList" : "[{\"effectId\":20061,\"x\":0,\"y\":0,\"layer\":0,\"delay\":0},{\"effectId\":20062,\"x\":80,\"y\":-30,\"layer\":0,\"delay\":50},{\"effectId\":20063,\"x\":-80,\"y\":30,\"layer\":0,\"delay\":100},{\"effectId\":20064,\"x\":50,\"y\":20,\"layer\":0,\"delay\":150},{\"effectId\":20065,\"x\":-20,\"y\":0,\"layer\":0,\"delay\":200}]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 2006,
+		"shake" : "{\"type\":1,\"delay\":50,\"intensity\":10,\"time\":200,\"speed\":33}"
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[{\"effectId\":20071,\"x\":0,\"y\":0,\"layer\":0,\"delay\":0}]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 2007
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[{\"effectId\":30061,\"x\":0,\"y\":0,\"layer\":0,\"delay\":0}]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 3006,
+		"shake" : "{\"type\":1,\"delay\":50,\"intensity\":10,\"time\":200,\"speed\":33}"
+	}
+]

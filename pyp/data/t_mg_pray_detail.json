@@ -1,0 +1,563 @@
+
+[
+	
+	{
+		"costGold" : 10,
+		"rewardCoin" : 400000,
+		"time" : 1,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 10,
+		"rewardCoin" : 400000,
+		"time" : 2,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 10,
+		"rewardCoin" : 400000,
+		"time" : 3,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 15,
+		"rewardCoin" : 400000,
+		"time" : 4,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 15,
+		"rewardCoin" : 400000,
+		"time" : 5,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 15,
+		"rewardCoin" : 400000,
+		"time" : 6,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 20,
+		"rewardCoin" : 400000,
+		"time" : 7,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 20,
+		"rewardCoin" : 400000,
+		"time" : 8,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 20,
+		"rewardCoin" : 400000,
+		"time" : 9,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 30,
+		"rewardCoin" : 400000,
+		"time" : 10,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 30,
+		"rewardCoin" : 400000,
+		"time" : 11,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 30,
+		"rewardCoin" : 400000,
+		"time" : 12,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 30,
+		"rewardCoin" : 400000,
+		"time" : 13,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 30,
+		"rewardCoin" : 400000,
+		"time" : 14,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 30,
+		"rewardCoin" : 400000,
+		"time" : 15,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 35,
+		"rewardCoin" : 400000,
+		"time" : 16,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 35,
+		"rewardCoin" : 400000,
+		"time" : 17,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 35,
+		"rewardCoin" : 400000,
+		"time" : 18,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 40,
+		"rewardCoin" : 400000,
+		"time" : 19,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 40,
+		"rewardCoin" : 400000,
+		"time" : 20,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 40,
+		"rewardCoin" : 400000,
+		"time" : 21,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 45,
+		"rewardCoin" : 400000,
+		"time" : 22,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 45,
+		"rewardCoin" : 400000,
+		"time" : 23,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 45,
+		"rewardCoin" : 400000,
+		"time" : 24,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 50,
+		"rewardCoin" : 400000,
+		"time" : 25,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 50,
+		"rewardCoin" : 400000,
+		"time" : 26,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 50,
+		"rewardCoin" : 400000,
+		"time" : 27,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 55,
+		"rewardCoin" : 400000,
+		"time" : 28,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 55,
+		"rewardCoin" : 400000,
+		"time" : 29,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 55,
+		"rewardCoin" : 400000,
+		"time" : 30,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 60,
+		"rewardCoin" : 400000,
+		"time" : 31,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 60,
+		"rewardCoin" : 400000,
+		"time" : 32,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 60,
+		"rewardCoin" : 400000,
+		"time" : 33,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 65,
+		"rewardCoin" : 400000,
+		"time" : 34,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 65,
+		"rewardCoin" : 400000,
+		"time" : 35,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 65,
+		"rewardCoin" : 400000,
+		"time" : 36,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 70,
+		"rewardCoin" : 400000,
+		"time" : 37,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 70,
+		"rewardCoin" : 400000,
+		"time" : 38,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 70,
+		"rewardCoin" : 400000,
+		"time" : 39,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 70,
+		"rewardCoin" : 400000,
+		"time" : 40,
+		"type" : 1
+	},
+	
+	{
+		"costGold" : 10,
+		"rewardBaseExpRate" : 200,
+		"time" : 1,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 20,
+		"rewardBaseExpRate" : 200,
+		"time" : 2,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 30,
+		"rewardBaseExpRate" : 200,
+		"time" : 3,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 40,
+		"rewardBaseExpRate" : 200,
+		"time" : 4,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 50,
+		"rewardBaseExpRate" : 200,
+		"time" : 5,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 60,
+		"rewardBaseExpRate" : 200,
+		"time" : 6,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 70,
+		"rewardBaseExpRate" : 200,
+		"time" : 7,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 80,
+		"rewardBaseExpRate" : 200,
+		"time" : 8,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 90,
+		"rewardBaseExpRate" : 200,
+		"time" : 9,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 100,
+		"rewardBaseExpRate" : 200,
+		"time" : 10,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 110,
+		"rewardBaseExpRate" : 200,
+		"time" : 11,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 120,
+		"rewardBaseExpRate" : 200,
+		"time" : 12,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 130,
+		"rewardBaseExpRate" : 200,
+		"time" : 13,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 140,
+		"rewardBaseExpRate" : 200,
+		"time" : 14,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 150,
+		"rewardBaseExpRate" : 200,
+		"time" : 15,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 160,
+		"rewardBaseExpRate" : 200,
+		"time" : 16,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 170,
+		"rewardBaseExpRate" : 200,
+		"time" : 17,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 180,
+		"rewardBaseExpRate" : 200,
+		"time" : 18,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 190,
+		"rewardBaseExpRate" : 200,
+		"time" : 19,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 200,
+		"rewardBaseExpRate" : 200,
+		"time" : 20,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 210,
+		"rewardBaseExpRate" : 200,
+		"time" : 21,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 220,
+		"rewardBaseExpRate" : 200,
+		"time" : 22,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 230,
+		"rewardBaseExpRate" : 200,
+		"time" : 23,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 240,
+		"rewardBaseExpRate" : 200,
+		"time" : 24,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 250,
+		"rewardBaseExpRate" : 200,
+		"time" : 25,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 260,
+		"rewardBaseExpRate" : 200,
+		"time" : 26,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 270,
+		"rewardBaseExpRate" : 200,
+		"time" : 27,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 280,
+		"rewardBaseExpRate" : 200,
+		"time" : 28,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 290,
+		"rewardBaseExpRate" : 200,
+		"time" : 29,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 300,
+		"rewardBaseExpRate" : 200,
+		"time" : 30,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 310,
+		"rewardBaseExpRate" : 200,
+		"time" : 31,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 320,
+		"rewardBaseExpRate" : 200,
+		"time" : 32,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 330,
+		"rewardBaseExpRate" : 200,
+		"time" : 33,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 340,
+		"rewardBaseExpRate" : 200,
+		"time" : 34,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 350,
+		"rewardBaseExpRate" : 200,
+		"time" : 35,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 360,
+		"rewardBaseExpRate" : 200,
+		"time" : 36,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 370,
+		"rewardBaseExpRate" : 200,
+		"time" : 37,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 380,
+		"rewardBaseExpRate" : 200,
+		"time" : 38,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 390,
+		"rewardBaseExpRate" : 200,
+		"time" : 39,
+		"type" : 2
+	},
+	
+	{
+		"costGold" : 400,
+		"rewardBaseExpRate" : 200,
+		"time" : 40,
+		"type" : 2
+	}
+]

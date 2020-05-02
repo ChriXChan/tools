@@ -1,0 +1,78 @@
+
+[
+	
+	{
+		"id" : 70,
+		"maxRank" : 1,
+		"minRank" : 1,
+		"reward" : "3,35000000,200#"
+	},
+	
+	{
+		"id" : 71,
+		"maxRank" : 2,
+		"minRank" : 2,
+		"reward" : "3,35000000,150#"
+	},
+	
+	{
+		"id" : 72,
+		"maxRank" : 3,
+		"minRank" : 3,
+		"reward" : "3,35000000,150#"
+	},
+	
+	{
+		"id" : 73,
+		"maxRank" : 4,
+		"minRank" : 4,
+		"reward" : "3,35000000,150#"
+	},
+	
+	{
+		"id" : 74,
+		"maxRank" : 5,
+		"minRank" : 5,
+		"reward" : "3,35000000,150#"
+	},
+	
+	{
+		"id" : 75,
+		"maxRank" : 6,
+		"minRank" : 6,
+		"reward" : "3,35000000,100#"
+	},
+	
+	{
+		"id" : 76,
+		"maxRank" : 7,
+		"minRank" : 7,
+		"reward" : "3,35000000,100#"
+	},
+	
+	{
+		"id" : 77,
+		"maxRank" : 8,
+		"minRank" : 8,
+		"reward" : "3,35000000,100#"
+	},
+	
+	{
+		"id" : 78,
+		"maxRank" : 9,
+		"minRank" : 9,
+		"reward" : "3,35000000,100#"
+	},
+	
+	{
+		"id" : 79,
+		"maxRank" : 10,
+		"minRank" : 10,
+		"reward" : "3,35000000,100#"
+	},
+	
+	{
+		"id" : 80,
+		"reward" : "3,35000000,100#"
+	}
+]

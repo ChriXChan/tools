@@ -1,0 +1,191 @@
+
+[
+	
+	{
+		"endTask" : 351002,
+		"levelAttrStartLevel" : 1,
+		"roleSubState" : 1,
+		"roleSubStateName" : "阶段一·火狱之章",
+		"skill1" : "40000001,,2个目标",
+		"skill2" : "40000002,,4个目标",
+		"taskList" : "351001#351002",
+		"title" : "一转强化普攻",
+		"upgradeDesc" : "解锁新装备：<br><font color='#f3f232'>离火套(5阶)奔雷套(6阶)</font><br>属性直接提升：<br><font color='#f3f232'>攻击</font><font color='#0df14b'>+175</font> <font color='#f3f232'>生命</font><font color='#0df14b'>+3500</font><br><font color='#f3f232'>防御</font><font color='#0df14b'>+75</font> <font color='#f3f232'>破甲</font><font color='#0df14b'>+75</font><br>开放新一代化形：<br><font color='#f3f232'>红莲火羽、天火琉璃</font>"
+	},
+	
+	{
+		"endTask" : 351012,
+		"levelAttrStartLevel" : 1,
+		"roleSubState" : 2,
+		"roleSubStateName" : "阶段二·恶魔幻影",
+		"skill1" : "40000101,,2个目标",
+		"skill2" : "40000102,,4个目标",
+		"taskList" : "351011#351012",
+		"title" : "一转强化普攻",
+		"upgradeDesc" : "解锁新装备：<br><font color='#f3f232'>冰魄套(5阶)惊虹套(6阶)</font><br>属性直接提升：<br><font color='#f3f232'>攻击</font><font color='#0df14b'>+175</font> <font color='#f3f232'>生命</font><font color='#0df14b'>+3500</font><br><font color='#f3f232'>防御</font><font color='#0df14b'>+75</font> <font color='#f3f232'>破甲</font><font color='#0df14b'>+75</font><br>开放新一代化形：<br><font color='#f3f232'>红莲火羽、天火琉璃</font>"
+	},
+	
+	{
+		"endTask" : 351022,
+		"levelAttrStartLevel" : 1,
+		"roleSubState" : 3,
+		"roleSubStateName" : "阶段三·一转觉醒",
+		"taskList" : "351021#351022"
+	},
+	
+	{
+		"finalAttrList" : "1,175#2,3500#3,75#4,75#",
+		"levelAttrList" : "1,4#2,80#3,2#4,2#",
+		"levelAttrStartLevel" : 150,
+		"roleState" : 1
+	},
+	
+	{
+		"endTask" : 351032,
+		"levelAttrStartLevel" : 150,
+		"roleState" : 1,
+		"roleSubState" : 1,
+		"roleSubStateName" : "阶段一·沙漠之章",
+		"skill1" : "40000002,,伤害提升20%",
+		"skill2" : "40000003,,",
+		"skill3" : "10171001,开启反伤光环,反射10%的伤害",
+		"skill4" : "10104001,流星火雨升级,附带群体眩晕",
+		"taskList" : "351031#351032",
+		"title" : "二转强化普攻,伤害提升20%",
+		"upgradeDesc" : "解锁新装备：<br><font color='#f3f232'>神霄套(7阶)游龙套(8阶)</font><br>属性直接提升：<br><font color='#f3f232'>攻击</font><font color='#0df14b'>+525</font> <font color='#f3f232'>生命</font><font color='#0df14b'>+10500</font><br><font color='#f3f232'>防御</font><font color='#0df14b'>+225</font> <font color='#f3f232'>破甲</font><font color='#0df14b'>+225</font><br>开放新一代化形：<br><font color='#f3f232'>梵天魔羽、虬龙幻月</font><br>每次升级会获得少量额外属性"
+	},
+	
+	{
+		"endTask" : 351042,
+		"levelAttrStartLevel" : 150,
+		"roleState" : 1,
+		"roleSubState" : 2,
+		"roleSubStateName" : "阶段二·净化魔障",
+		"skill1" : "40000102,,加队伍10%伤害",
+		"skill2" : "40000103,,",
+		"skill3" : "10271001,冰霜雪舞升级,附带群体眩晕",
+		"skill4" : "10204001,冰霜雪舞升级,附带群体眩晕",
+		"taskList" : "351041#351042",
+		"title" : "二转强化普攻,伤害提升20%",
+		"upgradeDesc" : "解锁新装备：<br><font color='#f3f232'>倚天套(7阶)凤鸣套(8阶)</font><br>属性直接提升：<br><font color='#f3f232'>攻击</font><font color='#0df14b'>+525</font> <font color='#f3f232'>生命</font><font color='#0df14b'>+10500</font><br><font color='#f3f232'>防御</font><font color='#0df14b'>+225</font> <font color='#f3f232'>破甲</font><font color='#0df14b'>+225</font><br>开放新一代化形：<br><font color='#f3f232'>梵天魔羽、虬龙幻月</font><br>每次升级会获得少量额外属性"
+	},
+	
+	{
+		"endTask" : 351053,
+		"levelAttrStartLevel" : 150,
+		"roleState" : 1,
+		"roleSubState" : 3,
+		"roleSubStateName" : "阶段三·二转觉醒",
+		"taskList" : "351051#351052#351053"
+	},
+	
+	{
+		"finalAttrList" : "1,525#2,10500#3,225#4,225#",
+		"levelAttrList" : "1,8#2,160#3,4#4,4#",
+		"levelAttrStartLevel" : 220,
+		"roleState" : 2
+	},
+	
+	{
+		"attr" : "攻击#防御#生命#破甲,0#0#0#0,400#170#8000#170,800#340#16000#340,1200#510#24000#510,1575#675#31500#675",
+		"endTask" : 351063,
+		"endTaskLevel" : 285,
+		"levelAttrStartLevel" : 220,
+		"roleState" : 2,
+		"roleSubState" : 1,
+		"roleSubStateName" : "阶段一·魔海之章",
+		"skill1" : "10106001,,遮天囚龙",
+		"skill2" : "10107001,,金钟护体",
+		"skill3" : "10102001,,热血狂怒",
+		"subAttrList" : "1,400#2,8000#3,170#4,170#",
+		"taskList" : "351061#351062#351063",
+		"title" : "新增三个主动技能",
+		"upgradeDesc" : "解锁新装备：<br><font size='18' color='#f3f232'>天罡套(9阶)</font><br>属性直接提升：<br><font size='18' color='#f3f232'>攻击</font><font size='18' color='#0df14b'>+1575</font> <font size='18' color='#f3f232'>生命</font><font size='18' color='#0df14b'>+31500</font><br><font size='18' color='#f3f232'>防御</font><font size='18' color='#0df14b'>+675</font> <font size='18' color='#f3f232'>破甲</font><font size='18' color='#0df14b'>+675</font><br>开放新一代化形：<br><font size='18' color='#f3f232'>幽冥紫羽、梵音囚天</font><br>技能键位增加至6个<br>解锁剩余2个技能栏孔位"
+	},
+	
+	{
+		"attr" : "攻击#防御#生命#破甲,0#0#0#0,400#170#8000#170,800#340#16000#340,1200#510#24000#510,1575#675#31500#675",
+		"endTask" : 351072,
+		"endTaskLevel" : 290,
+		"levelAttrStartLevel" : 220,
+		"roleState" : 2,
+		"roleSubState" : 2,
+		"roleSubStateName" : "阶段二·大闹魔海",
+		"skill1" : "10206001,,寒冰禁咒",
+		"skill2" : "10207001,,冰霜护甲",
+		"skill3" : "10209001,,凤舞九天",
+		"subAttrList" : "1,400#2,8000#3,170#4,170#",
+		"taskList" : "351071#351072",
+		"title" : "新增三个主动技能",
+		"upgradeDesc" : "解锁新装备：<br><font color='#f3f232'>冥煞套(9阶)</font><br>属性直接提升：<br><font color='#f3f232'>攻击</font><font color='#0df14b'>+1575</font> <font color='#f3f232'>生命</font><font color='#0df14b'>+31500</font><br><font color='#f3f232'>防御</font><font color='#0df14b'>+675</font> <font color='#f3f232'>破甲</font><font color='#0df14b'>+675</font><br>开放新一代化形：<br><font color='#f3f232'>幽冥紫羽、梵音囚天</font><br>技能键位增加至6个<br>解锁剩余2个技能栏孔位"
+	},
+	
+	{
+		"endTask" : 351082,
+		"endTaskLevel" : 295,
+		"levelAttrStartLevel" : 220,
+		"roleState" : 2,
+		"roleSubState" : 3,
+		"roleSubStateName" : "阶段三·魔海翻云",
+		"subAttrList" : "1,400#2,8000#3,170#4,170#",
+		"taskList" : "351081#351082"
+	},
+	
+	{
+		"endTask" : 351092,
+		"levelAttrStartLevel" : 220,
+		"roleState" : 2,
+		"roleSubState" : 4,
+		"roleSubStateName" : "阶段三·三转觉醒",
+		"taskList" : "351091#351092"
+	},
+	
+	{
+		"finalAttrList" : "1,1575#2,31500#3,675#4,675#",
+		"levelAttrList" : "1,16#2,320#3,8#4,8#",
+		"levelAttrStartLevel" : 295,
+		"roleState" : 3
+	},
+	
+	{
+		"endTask" : 351101,
+		"levelAttrStartLevel" : 295,
+		"roleState" : 3,
+		"roleSubState" : 1,
+		"roleSubStateName" : "阶段一·王者之章",
+		"taskList" : "351101"
+	},
+	
+	{
+		"roleState" : 4
+	},
+	
+	{
+		"endTask" : 351111,
+		"roleState" : 4,
+		"roleSubState" : 1,
+		"roleSubStateName" : "阶段一·龙魄归位",
+		"taskList" : "351111"
+	},
+	
+	{
+		"endTask" : 351121,
+		"roleState" : 4,
+		"roleSubState" : 2,
+		"roleSubStateName" : "阶段二·龙魂重塑",
+		"taskList" : "351121"
+	},
+	
+	{
+		"endTask" : 351131,
+		"endTaskLevel" : 500,
+		"roleState" : 4,
+		"roleSubState" : 3,
+		"roleSubStateName" : "阶段三·苍龙觉醒",
+		"taskList" : "351131"
+	},
+	
+	{
+		"roleState" : 5
+	}
+]

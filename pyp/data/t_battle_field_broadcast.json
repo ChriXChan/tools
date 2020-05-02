@@ -1,0 +1,603 @@
+
+[
+	
+	{
+		"context" : "five_kill",
+		"copyCode" : 136,
+		"honour" : 10,
+		"num" : 5,
+		"type" : 1
+	},
+	
+	{
+		"context" : "ten_kill",
+		"copyCode" : 136,
+		"honour" : 15,
+		"num" : 10,
+		"type" : 1
+	},
+	
+	{
+		"context" : "fifteen_kill",
+		"copyCode" : 136,
+		"honour" : 20,
+		"num" : 15,
+		"type" : 1
+	},
+	
+	{
+		"context" : "twenty_kill",
+		"copyCode" : 136,
+		"honour" : 20,
+		"num" : 20,
+		"type" : 1
+	},
+	
+	{
+		"context" : "twenty_five_kill",
+		"copyCode" : 136,
+		"honour" : 20,
+		"num" : 25,
+		"type" : 1
+	},
+	
+	{
+		"context" : "thirty_kill",
+		"copyCode" : 136,
+		"honour" : 20,
+		"num" : 30,
+		"type" : 1
+	},
+	
+	{
+		"context" : "thirty_five_kill",
+		"copyCode" : 136,
+		"honour" : 20,
+		"num" : 35,
+		"type" : 1
+	},
+	
+	{
+		"context" : "fourty_kill",
+		"copyCode" : 136,
+		"honour" : 20,
+		"num" : 40,
+		"type" : 1
+	},
+	
+	{
+		"context" : "fourty_five_kill",
+		"copyCode" : 136,
+		"honour" : 20,
+		"num" : 45,
+		"type" : 1
+	},
+	
+	{
+		"addNum" : 5,
+		"context" : "fifty_kill",
+		"copyCode" : 136,
+		"honour" : 20,
+		"num" : 50,
+		"type" : 1
+	},
+	
+	{
+		"context" : "double_kill",
+		"copyCode" : 136,
+		"num" : 2,
+		"type" : 2
+	},
+	
+	{
+		"context" : "triple_kill",
+		"copyCode" : 136,
+		"num" : 3,
+		"type" : 2
+	},
+	
+	{
+		"context" : "ultra_kill",
+		"copyCode" : 136,
+		"num" : 4,
+		"type" : 2
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "rampage",
+		"copyCode" : 136,
+		"num" : 5,
+		"type" : 2
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_five_kill",
+		"copyCode" : 136,
+		"honour" : 10,
+		"num" : 5,
+		"type" : 3
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_ten_kill",
+		"copyCode" : 136,
+		"honour" : 25,
+		"num" : 10,
+		"type" : 3
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_fifteen_kill",
+		"copyCode" : 136,
+		"honour" : 45,
+		"num" : 15,
+		"type" : 3
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_twenty_kill",
+		"copyCode" : 136,
+		"honour" : 65,
+		"num" : 20,
+		"type" : 3
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_twenty_five_kill",
+		"copyCode" : 136,
+		"honour" : 85,
+		"num" : 25,
+		"type" : 3
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_thirty_kill",
+		"copyCode" : 136,
+		"honour" : 105,
+		"num" : 30,
+		"type" : 3
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_thirty_five_kill",
+		"copyCode" : 136,
+		"honour" : 125,
+		"num" : 35,
+		"type" : 3
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_fourty_kill",
+		"copyCode" : 136,
+		"honour" : 145,
+		"num" : 40,
+		"type" : 3
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_fourty_five_kill",
+		"copyCode" : 136,
+		"honour" : 165,
+		"num" : 45,
+		"type" : 3
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_fifty_kill",
+		"copyCode" : 136,
+		"honour" : 185,
+		"num" : 50,
+		"type" : 3
+	},
+	
+	{
+		"context" : "five_kill",
+		"copyCode" : 162,
+		"honour" : 10,
+		"num" : 5,
+		"type" : 1
+	},
+	
+	{
+		"context" : "ten_kill",
+		"copyCode" : 162,
+		"honour" : 15,
+		"num" : 10,
+		"type" : 1
+	},
+	
+	{
+		"context" : "fifteen_kill",
+		"copyCode" : 162,
+		"honour" : 20,
+		"num" : 15,
+		"type" : 1
+	},
+	
+	{
+		"context" : "twenty_kill",
+		"copyCode" : 162,
+		"honour" : 20,
+		"num" : 20,
+		"type" : 1
+	},
+	
+	{
+		"context" : "twenty_five_kill",
+		"copyCode" : 162,
+		"honour" : 20,
+		"num" : 25,
+		"type" : 1
+	},
+	
+	{
+		"context" : "thirty_kill",
+		"copyCode" : 162,
+		"honour" : 20,
+		"num" : 30,
+		"type" : 1
+	},
+	
+	{
+		"context" : "thirty_five_kill",
+		"copyCode" : 162,
+		"honour" : 20,
+		"num" : 35,
+		"type" : 1
+	},
+	
+	{
+		"context" : "fourty_kill",
+		"copyCode" : 162,
+		"honour" : 20,
+		"num" : 40,
+		"type" : 1
+	},
+	
+	{
+		"context" : "fourty_five_kill",
+		"copyCode" : 162,
+		"honour" : 20,
+		"num" : 45,
+		"type" : 1
+	},
+	
+	{
+		"addNum" : 5,
+		"context" : "fifty_kill",
+		"copyCode" : 162,
+		"honour" : 20,
+		"num" : 50,
+		"type" : 1
+	},
+	
+	{
+		"context" : "double_kill",
+		"copyCode" : 162,
+		"num" : 2,
+		"type" : 2
+	},
+	
+	{
+		"context" : "triple_kill",
+		"copyCode" : 162,
+		"num" : 3,
+		"type" : 2
+	},
+	
+	{
+		"context" : "ultra_kill",
+		"copyCode" : 162,
+		"num" : 4,
+		"type" : 2
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "rampage",
+		"copyCode" : 162,
+		"num" : 5,
+		"type" : 2
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_five_kill",
+		"copyCode" : 162,
+		"honour" : 10,
+		"num" : 5,
+		"type" : 3
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_ten_kill",
+		"copyCode" : 162,
+		"honour" : 25,
+		"num" : 10,
+		"type" : 3
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_fifteen_kill",
+		"copyCode" : 162,
+		"honour" : 45,
+		"num" : 15,
+		"type" : 3
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_twenty_kill",
+		"copyCode" : 162,
+		"honour" : 65,
+		"num" : 20,
+		"type" : 3
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_twenty_five_kill",
+		"copyCode" : 162,
+		"honour" : 85,
+		"num" : 25,
+		"type" : 3
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_thirty_kill",
+		"copyCode" : 162,
+		"honour" : 105,
+		"num" : 30,
+		"type" : 3
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_thirty_five_kill",
+		"copyCode" : 162,
+		"honour" : 125,
+		"num" : 35,
+		"type" : 3
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_fourty_kill",
+		"copyCode" : 162,
+		"honour" : 145,
+		"num" : 40,
+		"type" : 3
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_fourty_five_kill",
+		"copyCode" : 162,
+		"honour" : 165,
+		"num" : 45,
+		"type" : 3
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_fifty_kill",
+		"copyCode" : 162,
+		"honour" : 185,
+		"num" : 50,
+		"type" : 3
+	},
+	
+	{
+		"context" : "five_kill",
+		"copyCode" : 166,
+		"honour" : 10,
+		"num" : 5,
+		"type" : 1
+	},
+	
+	{
+		"context" : "ten_kill",
+		"copyCode" : 166,
+		"honour" : 15,
+		"num" : 10,
+		"type" : 1
+	},
+	
+	{
+		"context" : "fifteen_kill",
+		"copyCode" : 166,
+		"honour" : 20,
+		"num" : 15,
+		"type" : 1
+	},
+	
+	{
+		"context" : "twenty_kill",
+		"copyCode" : 166,
+		"honour" : 20,
+		"num" : 20,
+		"type" : 1
+	},
+	
+	{
+		"context" : "twenty_five_kill",
+		"copyCode" : 166,
+		"honour" : 20,
+		"num" : 25,
+		"type" : 1
+	},
+	
+	{
+		"context" : "thirty_kill",
+		"copyCode" : 166,
+		"honour" : 20,
+		"num" : 30,
+		"type" : 1
+	},
+	
+	{
+		"context" : "thirty_five_kill",
+		"copyCode" : 166,
+		"honour" : 20,
+		"num" : 35,
+		"type" : 1
+	},
+	
+	{
+		"context" : "fourty_kill",
+		"copyCode" : 166,
+		"honour" : 20,
+		"num" : 40,
+		"type" : 1
+	},
+	
+	{
+		"context" : "fourty_five_kill",
+		"copyCode" : 166,
+		"honour" : 20,
+		"num" : 45,
+		"type" : 1
+	},
+	
+	{
+		"addNum" : 5,
+		"context" : "fifty_kill",
+		"copyCode" : 166,
+		"honour" : 20,
+		"num" : 50,
+		"type" : 1
+	},
+	
+	{
+		"context" : "double_kill",
+		"copyCode" : 166,
+		"num" : 2,
+		"type" : 2
+	},
+	
+	{
+		"context" : "triple_kill",
+		"copyCode" : 166,
+		"num" : 3,
+		"type" : 2
+	},
+	
+	{
+		"context" : "ultra_kill",
+		"copyCode" : 166,
+		"num" : 4,
+		"type" : 2
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "rampage",
+		"copyCode" : 166,
+		"num" : 5,
+		"type" : 2
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_five_kill",
+		"copyCode" : 166,
+		"honour" : 10,
+		"num" : 5,
+		"type" : 3
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_ten_kill",
+		"copyCode" : 166,
+		"honour" : 25,
+		"num" : 10,
+		"type" : 3
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_fifteen_kill",
+		"copyCode" : 166,
+		"honour" : 45,
+		"num" : 15,
+		"type" : 3
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_twenty_kill",
+		"copyCode" : 166,
+		"honour" : 65,
+		"num" : 20,
+		"type" : 3
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_twenty_five_kill",
+		"copyCode" : 166,
+		"honour" : 85,
+		"num" : 25,
+		"type" : 3
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_thirty_kill",
+		"copyCode" : 166,
+		"honour" : 105,
+		"num" : 30,
+		"type" : 3
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_thirty_five_kill",
+		"copyCode" : 166,
+		"honour" : 125,
+		"num" : 35,
+		"type" : 3
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_fourty_kill",
+		"copyCode" : 166,
+		"honour" : 145,
+		"num" : 40,
+		"type" : 3
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_fourty_five_kill",
+		"copyCode" : 166,
+		"honour" : 165,
+		"num" : 45,
+		"type" : 3
+	},
+	
+	{
+		"addNum" : 1,
+		"context" : "end_fifty_kill",
+		"copyCode" : 166,
+		"honour" : 185,
+		"num" : 50,
+		"type" : 3
+	}
+]

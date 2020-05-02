@@ -1,0 +1,25 @@
+﻿{
+	"actionName" : "[战士]",
+	"actionDirs" : [1, 3],
+	"attackFrames" : {
+		"attack1":[4,3,4,4,1,4,4,3]
+		,"attack2":[4,3,3,4,4,1,4,4]
+		,"attack3":[3,3,4,5,1,4,4,3]
+	},
+	"actionFrameRate" : {
+		"attack1":45
+		,"attack2":45
+		,"attack3":45
+		,"attack4":45
+		,"attack5":45
+		,"attack6":45
+		,"die":1
+		,"jump1":1
+		,"jump2":11
+		,"jump3":13
+		,"move":9
+		,"mount_move":8
+		,"stand":7
+		,"mount_stand":7
+	}
+}

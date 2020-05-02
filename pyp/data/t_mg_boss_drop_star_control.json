@@ -1,0 +1,15 @@
+
+[
+	
+	{
+		"color" : 4,
+		"rateMax" : 28000,
+		"rateMin" : 2000
+	},
+	
+	{
+		"color" : 5,
+		"rateMax" : 40000,
+		"rateMin" : 1000
+	}
+]

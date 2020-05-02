@@ -1,0 +1,138 @@
+
+[
+	
+	{
+		"effectivePeriodCode" : 19040900,
+		"endDate" : 1,
+		"getWay" : "Activity,170#CopyHall,CopyHallMaterial",
+		"gotoUpgrade" : "MagicWare,DragonSoul",
+		"id" : 1,
+		"maxRankNum" : 30,
+		"minCond" : 40,
+		"name" : "龙炎榜",
+		"rewardEndDate" : 9,
+		"showStartDate" : 1,
+		"toplist" : 116
+	},
+	
+	{
+		"effectivePeriodCode" : 19040900,
+		"endDate" : 2,
+		"getWay" : "Activity,170#CopyHall,CopyHallDaily",
+		"gotoUpgrade" : "Player,RoleState",
+		"id" : 2,
+		"maxRankNum" : 30,
+		"minCond" : 1,
+		"name" : "等级榜",
+		"rewardEndDate" : 9,
+		"showStartDate" : 2,
+		"toplist" : 119
+	},
+	
+	{
+		"effectivePeriodCode" : 19040900,
+		"endDate" : 3,
+		"getWay" : "Activity,170#Shop,ShopMystery#CopyHall,CopyHallMaterial",
+		"gotoUpgrade" : "Shape,Wing",
+		"id" : 3,
+		"maxRankNum" : 50,
+		"minCond" : 15,
+		"name" : "翅膀榜",
+		"rewardEndDate" : 9,
+		"showStartDate" : 3,
+		"toplist" : 117
+	},
+	
+	{
+		"endDate" : 4,
+		"getWay" : "Activity,170#Shop,ShopMystery#CopyHall,CopyHallMaterial",
+		"gotoUpgrade" : "Shape,Pet",
+		"id" : 4,
+		"maxRankNum" : 30,
+		"minCond" : 25,
+		"name" : "宠物榜",
+		"rewardEndDate" : 9,
+		"showStartDate" : 4,
+		"toplist" : 114
+	},
+	
+	{
+		"endDate" : 5,
+		"gotoUpgrade" : "Recharge",
+		"id" : 5,
+		"maxRankNum" : 30,
+		"minCond" : 10000,
+		"name" : "充值榜",
+		"rewardEndDate" : 9,
+		"showStartDate" : 5,
+		"toplist" : 110
+	},
+	
+	{
+		"endDate" : 6,
+		"getWay" : "Activity,170#Lottery,LotteryEquip",
+		"gotoUpgrade" : "Forge,Casting",
+		"id" : 6,
+		"maxRankNum" : 30,
+		"minCond" : 8,
+		"name" : "铸造榜",
+		"rewardEndDate" : 9,
+		"showStartDate" : 6,
+		"toplist" : 115
+	},
+	
+	{
+		"endDate" : 7,
+		"getWay" : "Activity,170#Lottery,LotteryEquip",
+		"gotoUpgrade" : "GodEquip,GodEquip",
+		"id" : 7,
+		"maxRankNum" : 30,
+		"minCond" : 1000000,
+		"name" : "战力榜",
+		"rewardEndDate" : 9,
+		"showStartDate" : 7,
+		"toplist" : 112
+	},
+	
+	{
+		"effectivePeriodCode" : 19040901,
+		"endDate" : 1,
+		"getWay" : "Activity,170#Shop,ShopMystery#CopyHall,CopyHallMaterial",
+		"gotoUpgrade" : "Shape,Wing",
+		"id" : 8,
+		"maxRankNum" : 50,
+		"minCond" : 15,
+		"name" : "翅膀榜",
+		"rewardEndDate" : 9,
+		"showStartDate" : 1,
+		"toplist" : 117
+	},
+	
+	{
+		"effectivePeriodCode" : 19040901,
+		"endDate" : 2,
+		"getWay" : "Activity,170#CopyHall,CopyHallDaily",
+		"gotoUpgrade" : "Player,RoleState",
+		"id" : 9,
+		"maxRankNum" : 30,
+		"minCond" : 1,
+		"name" : "等级榜",
+		"rewardEndDate" : 9,
+		"showStartDate" : 2,
+		"toplist" : 119
+	},
+	
+	{
+		"effectivePeriodCode" : 19040901,
+		"endDate" : 3,
+		"getWay" : "Activity,170#CopyHall,CopyHallMaterial",
+		"gotoUpgrade" : "MagicWare,DragonSoul",
+		"id" : 10,
+		"maxRankNum" : 30,
+		"minCond" : 40,
+		"name" : "龙炎榜",
+		"rewardEndDate" : 9,
+		"showStartDate" : 3,
+		"toplist" : 116
+	}
+]

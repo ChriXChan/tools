@@ -1,0 +1,7491 @@
+
+[
+	
+	{
+		"consumes" : "3,40241101,36#",
+		"id" : 1,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241106,36#",
+		"id" : 2,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241107,36#",
+		"id" : 3,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241108,36#",
+		"id" : 4,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241109,36#",
+		"id" : 5,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241110,36#",
+		"id" : 6,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241201,36#",
+		"id" : 7,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241206,36#",
+		"id" : 8,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241207,36#",
+		"id" : 9,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241208,36#",
+		"id" : 10,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241209,36#",
+		"id" : 11,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241210,36#",
+		"id" : 12,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241002,10#",
+		"id" : 13,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 2,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241003,10#",
+		"id" : 14,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 3,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241004,10#",
+		"id" : 15,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 4,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241005,10#",
+		"id" : 16,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 5,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241101,36#3,40242001,28#",
+		"id" : 17,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241106,36#3,40242006,28#",
+		"id" : 18,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241107,36#3,40242007,28#",
+		"id" : 19,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241108,36#3,40242008,28#",
+		"id" : 20,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241109,36#3,40242009,28#",
+		"id" : 21,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241110,36#3,40242010,28#",
+		"id" : 22,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241201,36#3,40242001,28#",
+		"id" : 23,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241206,36#3,40242006,28#",
+		"id" : 24,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241207,36#3,40242007,28#",
+		"id" : 25,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241208,36#3,40242008,28#",
+		"id" : 26,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241209,36#3,40242009,28#",
+		"id" : 27,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241210,36#3,40242010,28#",
+		"id" : 28,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241002,10#3,40242002,10#",
+		"id" : 29,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 2,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241003,10#3,40242003,10#",
+		"id" : 30,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 3,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241004,10#3,40242004,10#",
+		"id" : 31,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 4,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241005,10#3,40242005,10#",
+		"id" : 32,
+		"itemColor" : 4,
+		"itemLevel" : 5,
+		"itemType" : 5,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241101,36#",
+		"id" : 33,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241106,36#",
+		"id" : 34,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241107,36#",
+		"id" : 35,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241108,36#",
+		"id" : 36,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241109,36#",
+		"id" : 37,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241110,36#",
+		"id" : 38,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241201,36#",
+		"id" : 39,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241206,36#",
+		"id" : 40,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241207,36#",
+		"id" : 41,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241208,36#",
+		"id" : 42,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241209,36#",
+		"id" : 43,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241210,36#",
+		"id" : 44,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241002,10#",
+		"id" : 45,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 2,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241003,10#",
+		"id" : 46,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 3,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241004,10#",
+		"id" : 47,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 4,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241005,10#",
+		"id" : 48,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 5,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241101,36#3,40242001,28#",
+		"id" : 49,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241106,36#3,40242006,28#",
+		"id" : 50,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241107,36#3,40242007,28#",
+		"id" : 51,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241108,36#3,40242008,28#",
+		"id" : 52,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241109,36#3,40242009,28#",
+		"id" : 53,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241110,36#3,40242010,28#",
+		"id" : 54,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241201,36#3,40242001,28#",
+		"id" : 55,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241206,36#3,40242006,28#",
+		"id" : 56,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241207,36#3,40242007,28#",
+		"id" : 57,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241208,36#3,40242008,28#",
+		"id" : 58,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241209,36#3,40242009,28#",
+		"id" : 59,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241210,36#3,40242010,28#",
+		"id" : 60,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241002,10#3,40242002,10#",
+		"id" : 61,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 2,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241003,10#3,40242003,10#",
+		"id" : 62,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 3,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241004,10#3,40242004,10#",
+		"id" : 63,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 4,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241005,10#3,40242005,10#",
+		"id" : 64,
+		"itemColor" : 5,
+		"itemLevel" : 5,
+		"itemType" : 5,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241101,36#",
+		"id" : 65,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241106,36#",
+		"id" : 66,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241107,36#",
+		"id" : 67,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241108,36#",
+		"id" : 68,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241109,36#",
+		"id" : 69,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241110,36#",
+		"id" : 70,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241201,36#",
+		"id" : 71,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241206,36#",
+		"id" : 72,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241207,36#",
+		"id" : 73,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241208,36#",
+		"id" : 74,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241209,36#",
+		"id" : 75,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241210,36#",
+		"id" : 76,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241002,10#",
+		"id" : 77,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 2,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241003,10#",
+		"id" : 78,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 3,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241004,10#",
+		"id" : 79,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 4,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241005,10#",
+		"id" : 80,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 5,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241101,36#3,40242001,28#",
+		"id" : 81,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241106,36#3,40242006,28#",
+		"id" : 82,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241107,36#3,40242007,28#",
+		"id" : 83,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241108,36#3,40242008,28#",
+		"id" : 84,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241109,36#3,40242009,28#",
+		"id" : 85,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241110,36#3,40242010,28#",
+		"id" : 86,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241201,36#3,40242001,28#",
+		"id" : 87,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241206,36#3,40242006,28#",
+		"id" : 88,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241207,36#3,40242007,28#",
+		"id" : 89,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241208,36#3,40242008,28#",
+		"id" : 90,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241209,36#3,40242009,28#",
+		"id" : 91,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241210,36#3,40242010,28#",
+		"id" : 92,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241002,10#3,40242002,10#",
+		"id" : 93,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 2,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241003,10#3,40242003,10#",
+		"id" : 94,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 3,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241004,10#3,40242004,10#",
+		"id" : 95,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 4,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241005,10#3,40242005,10#",
+		"id" : 96,
+		"itemColor" : 6,
+		"itemLevel" : 5,
+		"itemType" : 5,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241101,47#",
+		"id" : 97,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241106,47#",
+		"id" : 98,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241107,47#",
+		"id" : 99,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241108,47#",
+		"id" : 100,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241109,47#",
+		"id" : 101,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241110,47#",
+		"id" : 102,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241201,47#",
+		"id" : 103,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241206,47#",
+		"id" : 104,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241207,47#",
+		"id" : 105,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241208,47#",
+		"id" : 106,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241209,47#",
+		"id" : 107,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241210,47#",
+		"id" : 108,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241002,10#",
+		"id" : 109,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 2,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241003,10#",
+		"id" : 110,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 3,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241004,10#",
+		"id" : 111,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 4,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241005,10#",
+		"id" : 112,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 5,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241101,47#3,40242001,38#",
+		"id" : 113,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241106,47#3,40242006,38#",
+		"id" : 114,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241107,47#3,40242007,38#",
+		"id" : 115,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241108,47#3,40242008,38#",
+		"id" : 116,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241109,47#3,40242009,38#",
+		"id" : 117,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241110,47#3,40242010,38#",
+		"id" : 118,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241201,47#3,40242001,38#",
+		"id" : 119,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241206,47#3,40242006,38#",
+		"id" : 120,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241207,47#3,40242007,38#",
+		"id" : 121,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241208,47#3,40242008,38#",
+		"id" : 122,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241209,47#3,40242009,38#",
+		"id" : 123,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241210,47#3,40242010,38#",
+		"id" : 124,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241002,10#3,40242002,10#",
+		"id" : 125,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 2,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241003,10#3,40242003,10#",
+		"id" : 126,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 3,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241004,10#3,40242004,10#",
+		"id" : 127,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 4,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241005,10#3,40242005,10#",
+		"id" : 128,
+		"itemColor" : 4,
+		"itemLevel" : 6,
+		"itemType" : 5,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241101,47#",
+		"id" : 129,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241106,47#",
+		"id" : 130,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241107,47#",
+		"id" : 131,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241108,47#",
+		"id" : 132,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241109,47#",
+		"id" : 133,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241110,47#",
+		"id" : 134,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241201,47#",
+		"id" : 135,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241206,47#",
+		"id" : 136,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241207,47#",
+		"id" : 137,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241208,47#",
+		"id" : 138,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241209,47#",
+		"id" : 139,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241210,47#",
+		"id" : 140,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241002,10#",
+		"id" : 141,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 2,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241003,10#",
+		"id" : 142,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 3,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241004,10#",
+		"id" : 143,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 4,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241005,10#",
+		"id" : 144,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 5,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241101,47#3,40242001,38#",
+		"id" : 145,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241106,47#3,40242006,38#",
+		"id" : 146,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241107,47#3,40242007,38#",
+		"id" : 147,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241108,47#3,40242008,38#",
+		"id" : 148,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241109,47#3,40242009,38#",
+		"id" : 149,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241110,47#3,40242010,38#",
+		"id" : 150,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241201,47#3,40242001,38#",
+		"id" : 151,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241206,47#3,40242006,38#",
+		"id" : 152,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241207,47#3,40242007,38#",
+		"id" : 153,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241208,47#3,40242008,38#",
+		"id" : 154,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241209,47#3,40242009,38#",
+		"id" : 155,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241210,47#3,40242010,38#",
+		"id" : 156,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241002,10#3,40242002,10#",
+		"id" : 157,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 2,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241003,10#3,40242003,10#",
+		"id" : 158,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 3,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241004,10#3,40242004,10#",
+		"id" : 159,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 4,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241005,10#3,40242005,10#",
+		"id" : 160,
+		"itemColor" : 5,
+		"itemLevel" : 6,
+		"itemType" : 5,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241101,47#",
+		"id" : 161,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241106,47#",
+		"id" : 162,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241107,47#",
+		"id" : 163,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241108,47#",
+		"id" : 164,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241109,47#",
+		"id" : 165,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241110,47#",
+		"id" : 166,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241201,47#",
+		"id" : 167,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241206,47#",
+		"id" : 168,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241207,47#",
+		"id" : 169,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241208,47#",
+		"id" : 170,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241209,47#",
+		"id" : 171,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241210,47#",
+		"id" : 172,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241002,10#",
+		"id" : 173,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 2,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241003,10#",
+		"id" : 174,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 3,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241004,10#",
+		"id" : 175,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 4,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241005,10#",
+		"id" : 176,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 5,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241101,47#3,40242001,38#",
+		"id" : 177,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241106,47#3,40242006,38#",
+		"id" : 178,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241107,47#3,40242007,38#",
+		"id" : 179,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241108,47#3,40242008,38#",
+		"id" : 180,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241109,47#3,40242009,38#",
+		"id" : 181,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241110,47#3,40242010,38#",
+		"id" : 182,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241201,47#3,40242001,38#",
+		"id" : 183,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241206,47#3,40242006,38#",
+		"id" : 184,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241207,47#3,40242007,38#",
+		"id" : 185,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241208,47#3,40242008,38#",
+		"id" : 186,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241209,47#3,40242009,38#",
+		"id" : 187,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241210,47#3,40242010,38#",
+		"id" : 188,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241002,10#3,40242002,10#",
+		"id" : 189,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 2,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241003,10#3,40242003,10#",
+		"id" : 190,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 3,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241004,10#3,40242004,10#",
+		"id" : 191,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 4,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241005,10#3,40242005,10#",
+		"id" : 192,
+		"itemColor" : 6,
+		"itemLevel" : 6,
+		"itemType" : 5,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241101,81#",
+		"id" : 193,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241106,81#",
+		"id" : 194,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241107,81#",
+		"id" : 195,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241108,81#",
+		"id" : 196,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241109,81#",
+		"id" : 197,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241110,81#",
+		"id" : 198,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241201,81#",
+		"id" : 199,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241206,81#",
+		"id" : 200,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241207,81#",
+		"id" : 201,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241208,81#",
+		"id" : 202,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241209,81#",
+		"id" : 203,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241210,81#",
+		"id" : 204,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241002,10#",
+		"id" : 205,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 2,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241003,10#",
+		"id" : 206,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 3,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241004,10#",
+		"id" : 207,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 4,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241005,10#",
+		"id" : 208,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 5,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241101,81#3,40242001,65#",
+		"id" : 209,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241106,81#3,40242006,65#",
+		"id" : 210,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241107,81#3,40242007,65#",
+		"id" : 211,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241108,81#3,40242008,65#",
+		"id" : 212,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241109,81#3,40242009,65#",
+		"id" : 213,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241110,81#3,40242010,65#",
+		"id" : 214,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241201,81#3,40242001,65#",
+		"id" : 215,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241206,81#3,40242006,65#",
+		"id" : 216,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241207,81#3,40242007,65#",
+		"id" : 217,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241208,81#3,40242008,65#",
+		"id" : 218,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241209,81#3,40242009,65#",
+		"id" : 219,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241210,81#3,40242010,65#",
+		"id" : 220,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241002,10#3,40242002,10#",
+		"id" : 221,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 2,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241003,10#3,40242003,10#",
+		"id" : 222,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 3,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241004,10#3,40242004,10#",
+		"id" : 223,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 4,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241005,10#3,40242005,10#",
+		"id" : 224,
+		"itemColor" : 4,
+		"itemLevel" : 7,
+		"itemType" : 5,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241101,81#",
+		"id" : 225,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241106,81#",
+		"id" : 226,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241107,81#",
+		"id" : 227,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241108,81#",
+		"id" : 228,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241109,81#",
+		"id" : 229,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241110,81#",
+		"id" : 230,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241201,81#",
+		"id" : 231,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241206,81#",
+		"id" : 232,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241207,81#",
+		"id" : 233,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241208,81#",
+		"id" : 234,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241209,81#",
+		"id" : 235,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241210,81#",
+		"id" : 236,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241002,10#",
+		"id" : 237,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 2,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241003,10#",
+		"id" : 238,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 3,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241004,10#",
+		"id" : 239,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 4,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241005,10#",
+		"id" : 240,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 5,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241101,81#3,40242001,65#",
+		"id" : 241,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241106,81#3,40242006,65#",
+		"id" : 242,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241107,81#3,40242007,65#",
+		"id" : 243,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241108,81#3,40242008,65#",
+		"id" : 244,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241109,81#3,40242009,65#",
+		"id" : 245,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241110,81#3,40242010,65#",
+		"id" : 246,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241201,81#3,40242001,65#",
+		"id" : 247,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241206,81#3,40242006,65#",
+		"id" : 248,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241207,81#3,40242007,65#",
+		"id" : 249,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241208,81#3,40242008,65#",
+		"id" : 250,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241209,81#3,40242009,65#",
+		"id" : 251,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241210,81#3,40242010,65#",
+		"id" : 252,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241002,10#3,40242002,10#",
+		"id" : 253,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 2,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241003,10#3,40242003,10#",
+		"id" : 254,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 3,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241004,10#3,40242004,10#",
+		"id" : 255,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 4,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241005,10#3,40242005,10#",
+		"id" : 256,
+		"itemColor" : 5,
+		"itemLevel" : 7,
+		"itemType" : 5,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241101,81#",
+		"id" : 257,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241106,81#",
+		"id" : 258,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241107,81#",
+		"id" : 259,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241108,81#",
+		"id" : 260,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241109,81#",
+		"id" : 261,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241110,81#",
+		"id" : 262,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241201,81#",
+		"id" : 263,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241206,81#",
+		"id" : 264,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241207,81#",
+		"id" : 265,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241208,81#",
+		"id" : 266,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241209,81#",
+		"id" : 267,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241210,81#",
+		"id" : 268,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241002,10#",
+		"id" : 269,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 2,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241003,10#",
+		"id" : 270,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 3,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241004,10#",
+		"id" : 271,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 4,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241005,10#",
+		"id" : 272,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 5,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241101,81#3,40242001,65#",
+		"id" : 273,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241106,81#3,40242006,65#",
+		"id" : 274,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241107,81#3,40242007,65#",
+		"id" : 275,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241108,81#3,40242008,65#",
+		"id" : 276,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241109,81#3,40242009,65#",
+		"id" : 277,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241110,81#3,40242010,65#",
+		"id" : 278,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241201,81#3,40242001,65#",
+		"id" : 279,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241206,81#3,40242006,65#",
+		"id" : 280,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241207,81#3,40242007,65#",
+		"id" : 281,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241208,81#3,40242008,65#",
+		"id" : 282,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241209,81#3,40242009,65#",
+		"id" : 283,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241210,81#3,40242010,65#",
+		"id" : 284,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241002,10#3,40242002,10#",
+		"id" : 285,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 2,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241003,10#3,40242003,10#",
+		"id" : 286,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 3,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241004,10#3,40242004,10#",
+		"id" : 287,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 4,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241005,10#3,40242005,10#",
+		"id" : 288,
+		"itemColor" : 6,
+		"itemLevel" : 7,
+		"itemType" : 5,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241101,139#",
+		"id" : 289,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241106,139#",
+		"id" : 290,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241107,139#",
+		"id" : 291,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241108,139#",
+		"id" : 292,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241109,139#",
+		"id" : 293,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241110,139#",
+		"id" : 294,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241201,139#",
+		"id" : 295,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241206,139#",
+		"id" : 296,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241207,139#",
+		"id" : 297,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241208,139#",
+		"id" : 298,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241209,139#",
+		"id" : 299,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241210,139#",
+		"id" : 300,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241002,10#",
+		"id" : 301,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 2,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241003,10#",
+		"id" : 302,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 3,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241004,10#",
+		"id" : 303,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 4,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241005,10#",
+		"id" : 304,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 5,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241101,139#3,40242001,111#",
+		"id" : 305,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241106,139#3,40242006,111#",
+		"id" : 306,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241107,139#3,40242007,111#",
+		"id" : 307,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241108,139#3,40242008,111#",
+		"id" : 308,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241109,139#3,40242009,111#",
+		"id" : 309,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241110,139#3,40242010,111#",
+		"id" : 310,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241201,139#3,40242001,111#",
+		"id" : 311,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241206,139#3,40242006,111#",
+		"id" : 312,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241207,139#3,40242007,111#",
+		"id" : 313,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241208,139#3,40242008,111#",
+		"id" : 314,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241209,139#3,40242009,111#",
+		"id" : 315,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241210,139#3,40242010,111#",
+		"id" : 316,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241002,10#3,40242002,10#",
+		"id" : 317,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 2,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241003,10#3,40242003,10#",
+		"id" : 318,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 3,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241004,10#3,40242004,10#",
+		"id" : 319,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 4,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241005,10#3,40242005,10#",
+		"id" : 320,
+		"itemColor" : 4,
+		"itemLevel" : 8,
+		"itemType" : 5,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241101,139#",
+		"id" : 321,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241106,139#",
+		"id" : 322,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241107,139#",
+		"id" : 323,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241108,139#",
+		"id" : 324,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241109,139#",
+		"id" : 325,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241110,139#",
+		"id" : 326,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241201,139#",
+		"id" : 327,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241206,139#",
+		"id" : 328,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241207,139#",
+		"id" : 329,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241208,139#",
+		"id" : 330,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241209,139#",
+		"id" : 331,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241210,139#",
+		"id" : 332,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241002,10#",
+		"id" : 333,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 2,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241003,10#",
+		"id" : 334,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 3,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241004,10#",
+		"id" : 335,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 4,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241005,10#",
+		"id" : 336,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 5,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241101,139#3,40242001,111#",
+		"id" : 337,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241106,139#3,40242006,111#",
+		"id" : 338,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241107,139#3,40242007,111#",
+		"id" : 339,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241108,139#3,40242008,111#",
+		"id" : 340,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241109,139#3,40242009,111#",
+		"id" : 341,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241110,139#3,40242010,111#",
+		"id" : 342,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241201,139#3,40242001,111#",
+		"id" : 343,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241206,139#3,40242006,111#",
+		"id" : 344,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241207,139#3,40242007,111#",
+		"id" : 345,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241208,139#3,40242008,111#",
+		"id" : 346,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241209,139#3,40242009,111#",
+		"id" : 347,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241210,139#3,40242010,111#",
+		"id" : 348,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241002,10#3,40242002,10#",
+		"id" : 349,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 2,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241003,10#3,40242003,10#",
+		"id" : 350,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 3,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241004,10#3,40242004,10#",
+		"id" : 351,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 4,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241005,10#3,40242005,10#",
+		"id" : 352,
+		"itemColor" : 5,
+		"itemLevel" : 8,
+		"itemType" : 5,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241101,139#",
+		"id" : 353,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241106,139#",
+		"id" : 354,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241107,139#",
+		"id" : 355,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241108,139#",
+		"id" : 356,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241109,139#",
+		"id" : 357,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241110,139#",
+		"id" : 358,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241201,139#",
+		"id" : 359,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241206,139#",
+		"id" : 360,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241207,139#",
+		"id" : 361,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241208,139#",
+		"id" : 362,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241209,139#",
+		"id" : 363,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241210,139#",
+		"id" : 364,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241002,10#",
+		"id" : 365,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 2,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241003,10#",
+		"id" : 366,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 3,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241004,10#",
+		"id" : 367,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 4,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241005,10#",
+		"id" : 368,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 5,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241101,139#3,40242001,111#",
+		"id" : 369,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241106,139#3,40242006,111#",
+		"id" : 370,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241107,139#3,40242007,111#",
+		"id" : 371,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241108,139#3,40242008,111#",
+		"id" : 372,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241109,139#3,40242009,111#",
+		"id" : 373,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241110,139#3,40242010,111#",
+		"id" : 374,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241201,139#3,40242001,111#",
+		"id" : 375,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241206,139#3,40242006,111#",
+		"id" : 376,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241207,139#3,40242007,111#",
+		"id" : 377,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241208,139#3,40242008,111#",
+		"id" : 378,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241209,139#3,40242009,111#",
+		"id" : 379,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241210,139#3,40242010,111#",
+		"id" : 380,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241002,10#3,40242002,10#",
+		"id" : 381,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 2,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241003,10#3,40242003,10#",
+		"id" : 382,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 3,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241004,10#3,40242004,10#",
+		"id" : 383,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 4,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241005,10#3,40242005,10#",
+		"id" : 384,
+		"itemColor" : 6,
+		"itemLevel" : 8,
+		"itemType" : 5,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241101,238#",
+		"id" : 385,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241106,238#",
+		"id" : 386,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241107,238#",
+		"id" : 387,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241108,238#",
+		"id" : 388,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241109,238#",
+		"id" : 389,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241110,238#",
+		"id" : 390,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241201,238#",
+		"id" : 391,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241206,238#",
+		"id" : 392,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241207,238#",
+		"id" : 393,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241208,238#",
+		"id" : 394,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241209,238#",
+		"id" : 395,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241210,238#",
+		"id" : 396,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241002,10#",
+		"id" : 397,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 2,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241003,10#",
+		"id" : 398,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 3,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241004,10#",
+		"id" : 399,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 4,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241005,10#",
+		"id" : 400,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 5,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241101,238#3,40242001,181#",
+		"id" : 401,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241106,238#3,40242006,181#",
+		"id" : 402,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241107,238#3,40242007,181#",
+		"id" : 403,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241108,238#3,40242008,181#",
+		"id" : 404,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241109,238#3,40242009,181#",
+		"id" : 405,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241110,238#3,40242010,181#",
+		"id" : 406,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241201,238#3,40242001,181#",
+		"id" : 407,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241206,238#3,40242006,181#",
+		"id" : 408,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241207,238#3,40242007,181#",
+		"id" : 409,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241208,238#3,40242008,181#",
+		"id" : 410,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241209,238#3,40242009,181#",
+		"id" : 411,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241210,238#3,40242010,181#",
+		"id" : 412,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241002,10#3,40242002,10#",
+		"id" : 413,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 2,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241003,10#3,40242003,10#",
+		"id" : 414,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 3,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241004,10#3,40242004,10#",
+		"id" : 415,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 4,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241005,10#3,40242005,10#",
+		"id" : 416,
+		"itemColor" : 4,
+		"itemLevel" : 9,
+		"itemType" : 5,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241101,238#",
+		"id" : 417,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241106,238#",
+		"id" : 418,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241107,238#",
+		"id" : 419,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241108,238#",
+		"id" : 420,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241109,238#",
+		"id" : 421,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241110,238#",
+		"id" : 422,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241201,238#",
+		"id" : 423,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241206,238#",
+		"id" : 424,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241207,238#",
+		"id" : 425,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241208,238#",
+		"id" : 426,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241209,238#",
+		"id" : 427,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241210,238#",
+		"id" : 428,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241002,10#",
+		"id" : 429,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 2,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241003,10#",
+		"id" : 430,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 3,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241004,10#",
+		"id" : 431,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 4,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241005,10#",
+		"id" : 432,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 5,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241101,238#3,40242001,181#",
+		"id" : 433,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241106,238#3,40242006,181#",
+		"id" : 434,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241107,238#3,40242007,181#",
+		"id" : 435,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241108,238#3,40242008,181#",
+		"id" : 436,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241109,238#3,40242009,181#",
+		"id" : 437,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241110,238#3,40242010,181#",
+		"id" : 438,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241201,238#3,40242001,181#",
+		"id" : 439,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241206,238#3,40242006,181#",
+		"id" : 440,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241207,238#3,40242007,181#",
+		"id" : 441,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241208,238#3,40242008,181#",
+		"id" : 442,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241209,238#3,40242009,181#",
+		"id" : 443,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241210,238#3,40242010,181#",
+		"id" : 444,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241002,10#3,40242002,10#",
+		"id" : 445,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 2,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241003,10#3,40242003,10#",
+		"id" : 446,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 3,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241004,10#3,40242004,10#",
+		"id" : 447,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 4,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241005,10#3,40242005,10#",
+		"id" : 448,
+		"itemColor" : 5,
+		"itemLevel" : 9,
+		"itemType" : 5,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241101,238#",
+		"id" : 449,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241106,238#",
+		"id" : 450,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241107,238#",
+		"id" : 451,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241108,238#",
+		"id" : 452,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241109,238#",
+		"id" : 453,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241110,238#",
+		"id" : 454,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241201,238#",
+		"id" : 455,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241206,238#",
+		"id" : 456,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241207,238#",
+		"id" : 457,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241208,238#",
+		"id" : 458,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241209,238#",
+		"id" : 459,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241210,238#",
+		"id" : 460,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241002,10#",
+		"id" : 461,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 2,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241003,10#",
+		"id" : 462,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 3,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241004,10#",
+		"id" : 463,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 4,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241005,10#",
+		"id" : 464,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 5,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241101,238#3,40242001,181#",
+		"id" : 465,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241106,238#3,40242006,181#",
+		"id" : 466,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241107,238#3,40242007,181#",
+		"id" : 467,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241108,238#3,40242008,181#",
+		"id" : 468,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241109,238#3,40242009,181#",
+		"id" : 469,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241110,238#3,40242010,181#",
+		"id" : 470,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241201,238#3,40242001,181#",
+		"id" : 471,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241206,238#3,40242006,181#",
+		"id" : 472,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241207,238#3,40242007,181#",
+		"id" : 473,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241208,238#3,40242008,181#",
+		"id" : 474,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241209,238#3,40242009,181#",
+		"id" : 475,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241210,238#3,40242010,181#",
+		"id" : 476,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241002,10#3,40242002,10#",
+		"id" : 477,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 2,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241003,10#3,40242003,10#",
+		"id" : 478,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 3,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241004,10#3,40242004,10#",
+		"id" : 479,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 4,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241005,10#3,40242005,10#",
+		"id" : 480,
+		"itemColor" : 6,
+		"itemLevel" : 9,
+		"itemType" : 5,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241101,410#",
+		"id" : 481,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241106,410#",
+		"id" : 482,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241107,410#",
+		"id" : 483,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241108,410#",
+		"id" : 484,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241109,410#",
+		"id" : 485,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241110,410#",
+		"id" : 486,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241201,410#",
+		"id" : 487,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241206,410#",
+		"id" : 488,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241207,410#",
+		"id" : 489,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241208,410#",
+		"id" : 490,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241209,410#",
+		"id" : 491,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241210,410#",
+		"id" : 492,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241002,10#",
+		"id" : 493,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 2,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241003,10#",
+		"id" : 494,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 3,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241004,10#",
+		"id" : 495,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 4,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241005,10#",
+		"id" : 496,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 5,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241101,410#3,40242001,206#3,40243001,9#",
+		"id" : 497,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241106,410#3,40242006,206#3,40243001,9#",
+		"id" : 498,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241107,410#3,40242007,206#3,40243001,9#",
+		"id" : 499,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241108,410#3,40242008,206#3,40243001,9#",
+		"id" : 500,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241109,410#3,40242009,206#3,40243001,9#",
+		"id" : 501,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241110,410#3,40242010,206#3,40243001,9#",
+		"id" : 502,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241201,410#3,40242001,206#3,40243001,9#",
+		"id" : 503,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241206,410#3,40242006,206#3,40243001,9#",
+		"id" : 504,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241207,410#3,40242007,206#3,40243001,9#",
+		"id" : 505,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241208,410#3,40242008,206#3,40243001,9#",
+		"id" : 506,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241209,410#3,40242009,206#3,40243001,9#",
+		"id" : 507,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241210,410#3,40242010,206#3,40243001,9#",
+		"id" : 508,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241002,10#3,40242002,10#",
+		"id" : 509,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 2,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241003,10#3,40242003,10#",
+		"id" : 510,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 3,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241004,10#3,40242004,10#",
+		"id" : 511,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 4,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241005,10#3,40242005,10#",
+		"id" : 512,
+		"itemColor" : 4,
+		"itemLevel" : 10,
+		"itemType" : 5,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241101,410#",
+		"id" : 513,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241106,410#",
+		"id" : 514,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241107,410#",
+		"id" : 515,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241108,410#",
+		"id" : 516,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241109,410#",
+		"id" : 517,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241110,410#",
+		"id" : 518,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241201,410#",
+		"id" : 519,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241206,410#",
+		"id" : 520,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241207,410#",
+		"id" : 521,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241208,410#",
+		"id" : 522,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241209,410#",
+		"id" : 523,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241210,410#",
+		"id" : 524,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241002,10#",
+		"id" : 525,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 2,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241003,10#",
+		"id" : 526,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 3,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241004,10#",
+		"id" : 527,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 4,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241005,10#",
+		"id" : 528,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 5,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241101,410#3,40242001,206#3,40243001,9#",
+		"id" : 529,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241106,410#3,40242006,206#3,40243001,9#",
+		"id" : 530,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241107,410#3,40242007,206#3,40243001,9#",
+		"id" : 531,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241108,410#3,40242008,206#3,40243001,9#",
+		"id" : 532,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241109,410#3,40242009,206#3,40243001,9#",
+		"id" : 533,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241110,410#3,40242010,206#3,40243001,9#",
+		"id" : 534,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241201,410#3,40242001,206#3,40243001,9#",
+		"id" : 535,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241206,410#3,40242006,206#3,40243001,9#",
+		"id" : 536,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241207,410#3,40242007,206#3,40243001,9#",
+		"id" : 537,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241208,410#3,40242008,206#3,40243001,9#",
+		"id" : 538,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241209,410#3,40242009,206#3,40243001,9#",
+		"id" : 539,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241210,410#3,40242010,206#3,40243001,9#",
+		"id" : 540,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241002,10#3,40242002,10#",
+		"id" : 541,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 2,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241003,10#3,40242003,10#",
+		"id" : 542,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 3,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241004,10#3,40242004,10#",
+		"id" : 543,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 4,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241005,10#3,40242005,10#",
+		"id" : 544,
+		"itemColor" : 5,
+		"itemLevel" : 10,
+		"itemType" : 5,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241101,410#",
+		"id" : 545,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241106,410#",
+		"id" : 546,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241107,410#",
+		"id" : 547,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241108,410#",
+		"id" : 548,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241109,410#",
+		"id" : 549,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241110,410#",
+		"id" : 550,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241201,410#",
+		"id" : 551,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241206,410#",
+		"id" : 552,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241207,410#",
+		"id" : 553,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241208,410#",
+		"id" : 554,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241209,410#",
+		"id" : 555,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241210,410#",
+		"id" : 556,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241002,10#",
+		"id" : 557,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 2,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241003,10#",
+		"id" : 558,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 3,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241004,10#",
+		"id" : 559,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 4,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241005,10#",
+		"id" : 560,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 5,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241101,410#3,40242001,206#3,40243001,9#",
+		"id" : 561,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241106,410#3,40242006,206#3,40243001,9#",
+		"id" : 562,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241107,410#3,40242007,206#3,40243001,9#",
+		"id" : 563,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241108,410#3,40242008,206#3,40243001,9#",
+		"id" : 564,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241109,410#3,40242009,206#3,40243001,9#",
+		"id" : 565,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241110,410#3,40242010,206#3,40243001,9#",
+		"id" : 566,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241201,410#3,40242001,206#3,40243001,9#",
+		"id" : 567,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241206,410#3,40242006,206#3,40243001,9#",
+		"id" : 568,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241207,410#3,40242007,206#3,40243001,9#",
+		"id" : 569,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241208,410#3,40242008,206#3,40243001,9#",
+		"id" : 570,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241209,410#3,40242009,206#3,40243001,9#",
+		"id" : 571,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241210,410#3,40242010,206#3,40243001,9#",
+		"id" : 572,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241002,10#3,40242002,10#",
+		"id" : 573,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 2,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241003,10#3,40242003,10#",
+		"id" : 574,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 3,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241004,10#3,40242004,10#",
+		"id" : 575,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 4,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241005,10#3,40242005,10#",
+		"id" : 576,
+		"itemColor" : 6,
+		"itemLevel" : 10,
+		"itemType" : 5,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241101,625#",
+		"id" : 577,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241106,625#",
+		"id" : 578,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241107,625#",
+		"id" : 579,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241108,625#",
+		"id" : 580,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241109,625#",
+		"id" : 581,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241110,625#",
+		"id" : 582,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241201,625#",
+		"id" : 583,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241206,625#",
+		"id" : 584,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241207,625#",
+		"id" : 585,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241208,625#",
+		"id" : 586,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241209,625#",
+		"id" : 587,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241210,625#",
+		"id" : 588,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241002,10#",
+		"id" : 589,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 2,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241003,10#",
+		"id" : 590,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 3,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241004,10#",
+		"id" : 591,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 4,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241005,10#",
+		"id" : 592,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 5,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241101,625#3,40242001,349#3,40243001,15#",
+		"id" : 593,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241106,625#3,40242006,349#3,40243001,15#",
+		"id" : 594,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241107,625#3,40242007,349#3,40243001,15#",
+		"id" : 595,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241108,625#3,40242008,349#3,40243001,15#",
+		"id" : 596,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241109,625#3,40242009,349#3,40243001,15#",
+		"id" : 597,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241110,625#3,40242010,349#3,40243001,15#",
+		"id" : 598,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241201,625#3,40242001,349#3,40243001,15#",
+		"id" : 599,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241206,625#3,40242006,349#3,40243001,15#",
+		"id" : 600,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241207,625#3,40242007,349#3,40243001,15#",
+		"id" : 601,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241208,625#3,40242008,349#3,40243001,15#",
+		"id" : 602,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241209,625#3,40242009,349#3,40243001,15#",
+		"id" : 603,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241210,625#3,40242010,349#3,40243001,15#",
+		"id" : 604,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241002,10#3,40242002,10#",
+		"id" : 605,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 2,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241003,10#3,40242003,10#",
+		"id" : 606,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 3,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241004,10#3,40242004,10#",
+		"id" : 607,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 4,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241005,10#3,40242005,10#",
+		"id" : 608,
+		"itemColor" : 4,
+		"itemLevel" : 11,
+		"itemType" : 5,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241101,625#",
+		"id" : 609,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241106,625#",
+		"id" : 610,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241107,625#",
+		"id" : 611,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241108,625#",
+		"id" : 612,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241109,625#",
+		"id" : 613,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241110,625#",
+		"id" : 614,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241201,625#",
+		"id" : 615,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241206,625#",
+		"id" : 616,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241207,625#",
+		"id" : 617,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241208,625#",
+		"id" : 618,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241209,625#",
+		"id" : 619,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241210,625#",
+		"id" : 620,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241002,10#",
+		"id" : 621,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 2,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241003,10#",
+		"id" : 622,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 3,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241004,10#",
+		"id" : 623,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 4,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241005,10#",
+		"id" : 624,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 5,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241101,625#3,40242001,349#3,40243001,15#",
+		"id" : 625,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241106,625#3,40242006,349#3,40243001,15#",
+		"id" : 626,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241107,625#3,40242007,349#3,40243001,15#",
+		"id" : 627,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241108,625#3,40242008,349#3,40243001,15#",
+		"id" : 628,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241109,625#3,40242009,349#3,40243001,15#",
+		"id" : 629,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241110,625#3,40242010,349#3,40243001,15#",
+		"id" : 630,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241201,625#3,40242001,349#3,40243001,15#",
+		"id" : 631,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241206,625#3,40242006,349#3,40243001,15#",
+		"id" : 632,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241207,625#3,40242007,349#3,40243001,15#",
+		"id" : 633,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241208,625#3,40242008,349#3,40243001,15#",
+		"id" : 634,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241209,625#3,40242009,349#3,40243001,15#",
+		"id" : 635,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241210,625#3,40242010,349#3,40243001,15#",
+		"id" : 636,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241002,10#3,40242002,10#",
+		"id" : 637,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 2,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241003,10#3,40242003,10#",
+		"id" : 638,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 3,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241004,10#3,40242004,10#",
+		"id" : 639,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 4,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241005,10#3,40242005,10#",
+		"id" : 640,
+		"itemColor" : 5,
+		"itemLevel" : 11,
+		"itemType" : 5,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241101,625#",
+		"id" : 641,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241106,625#",
+		"id" : 642,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241107,625#",
+		"id" : 643,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241108,625#",
+		"id" : 644,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241109,625#",
+		"id" : 645,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241110,625#",
+		"id" : 646,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241201,625#",
+		"id" : 647,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241206,625#",
+		"id" : 648,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241207,625#",
+		"id" : 649,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241208,625#",
+		"id" : 650,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241209,625#",
+		"id" : 651,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241210,625#",
+		"id" : 652,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241002,10#",
+		"id" : 653,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 2,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241003,10#",
+		"id" : 654,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 3,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241004,10#",
+		"id" : 655,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 4,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241005,10#",
+		"id" : 656,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 5,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241101,625#3,40242001,349#3,40243001,15#",
+		"id" : 657,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241106,625#3,40242006,349#3,40243001,15#",
+		"id" : 658,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241107,625#3,40242007,349#3,40243001,15#",
+		"id" : 659,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241108,625#3,40242008,349#3,40243001,15#",
+		"id" : 660,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241109,625#3,40242009,349#3,40243001,15#",
+		"id" : 661,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241110,625#3,40242010,349#3,40243001,15#",
+		"id" : 662,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241201,625#3,40242001,349#3,40243001,15#",
+		"id" : 663,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241206,625#3,40242006,349#3,40243001,15#",
+		"id" : 664,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241207,625#3,40242007,349#3,40243001,15#",
+		"id" : 665,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241208,625#3,40242008,349#3,40243001,15#",
+		"id" : 666,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241209,625#3,40242009,349#3,40243001,15#",
+		"id" : 667,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241210,625#3,40242010,349#3,40243001,15#",
+		"id" : 668,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241002,10#3,40242002,10#",
+		"id" : 669,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 2,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241003,10#3,40242003,10#",
+		"id" : 670,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 3,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241004,10#3,40242004,10#",
+		"id" : 671,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 4,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241005,10#3,40242005,10#",
+		"id" : 672,
+		"itemColor" : 6,
+		"itemLevel" : 11,
+		"itemType" : 5,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241101,1032#",
+		"id" : 673,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241106,1032#",
+		"id" : 674,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241107,1032#",
+		"id" : 675,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241108,1032#",
+		"id" : 676,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241109,1032#",
+		"id" : 677,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241110,1032#",
+		"id" : 678,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241201,1032#",
+		"id" : 679,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241206,1032#",
+		"id" : 680,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241207,1032#",
+		"id" : 681,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241208,1032#",
+		"id" : 682,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241209,1032#",
+		"id" : 683,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241210,1032#",
+		"id" : 684,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241002,10#",
+		"id" : 685,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 2,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241003,10#",
+		"id" : 686,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 3,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241004,10#",
+		"id" : 687,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 4,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241005,10#",
+		"id" : 688,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 5,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241101,1032#3,40242001,575#3,40243001,25#",
+		"id" : 689,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241106,1032#3,40242006,575#3,40243001,25#",
+		"id" : 690,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241107,1032#3,40242007,575#3,40243001,25#",
+		"id" : 691,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241108,1032#3,40242008,575#3,40243001,25#",
+		"id" : 692,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241109,1032#3,40242009,575#3,40243001,25#",
+		"id" : 693,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241110,1032#3,40242010,575#3,40243001,25#",
+		"id" : 694,
+		"itemCareer" : 1,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241201,1032#3,40242001,575#3,40243001,25#",
+		"id" : 695,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241206,1032#3,40242006,575#3,40243001,25#",
+		"id" : 696,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241207,1032#3,40242007,575#3,40243001,25#",
+		"id" : 697,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241208,1032#3,40242008,575#3,40243001,25#",
+		"id" : 698,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241209,1032#3,40242009,575#3,40243001,25#",
+		"id" : 699,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241210,1032#3,40242010,575#3,40243001,25#",
+		"id" : 700,
+		"itemCareer" : 2,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241002,10#3,40242002,10#",
+		"id" : 701,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 2,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241003,10#3,40242003,10#",
+		"id" : 702,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 3,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241004,10#3,40242004,10#",
+		"id" : 703,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 4,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241005,10#3,40242005,10#",
+		"id" : 704,
+		"itemColor" : 4,
+		"itemLevel" : 12,
+		"itemType" : 5,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241101,1032#",
+		"id" : 705,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241106,1032#",
+		"id" : 706,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241107,1032#",
+		"id" : 707,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241108,1032#",
+		"id" : 708,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241109,1032#",
+		"id" : 709,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241110,1032#",
+		"id" : 710,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241201,1032#",
+		"id" : 711,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241206,1032#",
+		"id" : 712,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241207,1032#",
+		"id" : 713,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241208,1032#",
+		"id" : 714,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241209,1032#",
+		"id" : 715,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241210,1032#",
+		"id" : 716,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241002,10#",
+		"id" : 717,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 2,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241003,10#",
+		"id" : 718,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 3,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241004,10#",
+		"id" : 719,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 4,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241005,10#",
+		"id" : 720,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 5,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241101,1032#3,40242001,575#3,40243001,25#",
+		"id" : 721,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241106,1032#3,40242006,575#3,40243001,25#",
+		"id" : 722,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241107,1032#3,40242007,575#3,40243001,25#",
+		"id" : 723,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241108,1032#3,40242008,575#3,40243001,25#",
+		"id" : 724,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241109,1032#3,40242009,575#3,40243001,25#",
+		"id" : 725,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241110,1032#3,40242010,575#3,40243001,25#",
+		"id" : 726,
+		"itemCareer" : 1,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241201,1032#3,40242001,575#3,40243001,25#",
+		"id" : 727,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241206,1032#3,40242006,575#3,40243001,25#",
+		"id" : 728,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241207,1032#3,40242007,575#3,40243001,25#",
+		"id" : 729,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241208,1032#3,40242008,575#3,40243001,25#",
+		"id" : 730,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241209,1032#3,40242009,575#3,40243001,25#",
+		"id" : 731,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241210,1032#3,40242010,575#3,40243001,25#",
+		"id" : 732,
+		"itemCareer" : 2,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241002,10#3,40242002,10#",
+		"id" : 733,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 2,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241003,10#3,40242003,10#",
+		"id" : 734,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 3,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241004,10#3,40242004,10#",
+		"id" : 735,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 4,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241005,10#3,40242005,10#",
+		"id" : 736,
+		"itemColor" : 5,
+		"itemLevel" : 12,
+		"itemType" : 5,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241101,1032#",
+		"id" : 737,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241106,1032#",
+		"id" : 738,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241107,1032#",
+		"id" : 739,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241108,1032#",
+		"id" : 740,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241109,1032#",
+		"id" : 741,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241110,1032#",
+		"id" : 742,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241201,1032#",
+		"id" : 743,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 1,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241206,1032#",
+		"id" : 744,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 6,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241207,1032#",
+		"id" : 745,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 7,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241208,1032#",
+		"id" : 746,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 8,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241209,1032#",
+		"id" : 747,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 9,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241210,1032#",
+		"id" : 748,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 10,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241002,10#",
+		"id" : 749,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 2,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241003,10#",
+		"id" : 750,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 3,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241004,10#",
+		"id" : 751,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 4,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241005,10#",
+		"id" : 752,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 5,
+		"suitType" : 1
+	},
+	
+	{
+		"consumes" : "3,40241101,1032#3,40242001,575#3,40243001,25#",
+		"id" : 753,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241106,1032#3,40242006,575#3,40243001,25#",
+		"id" : 754,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241107,1032#3,40242007,575#3,40243001,25#",
+		"id" : 755,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241108,1032#3,40242008,575#3,40243001,25#",
+		"id" : 756,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241109,1032#3,40242009,575#3,40243001,25#",
+		"id" : 757,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241110,1032#3,40242010,575#3,40243001,25#",
+		"id" : 758,
+		"itemCareer" : 1,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241201,1032#3,40242001,575#3,40243001,25#",
+		"id" : 759,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 1,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241206,1032#3,40242006,575#3,40243001,25#",
+		"id" : 760,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 6,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241207,1032#3,40242007,575#3,40243001,25#",
+		"id" : 761,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 7,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241208,1032#3,40242008,575#3,40243001,25#",
+		"id" : 762,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 8,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241209,1032#3,40242009,575#3,40243001,25#",
+		"id" : 763,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 9,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241210,1032#3,40242010,575#3,40243001,25#",
+		"id" : 764,
+		"itemCareer" : 2,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 10,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241002,10#3,40242002,10#",
+		"id" : 765,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 2,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241003,10#3,40242003,10#",
+		"id" : 766,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 3,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241004,10#3,40242004,10#",
+		"id" : 767,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 4,
+		"suitType" : 2
+	},
+	
+	{
+		"consumes" : "3,40241005,10#3,40242005,10#",
+		"id" : 768,
+		"itemColor" : 6,
+		"itemLevel" : 12,
+		"itemType" : 5,
+		"suitType" : 2
+	}
+]

@@ -1,0 +1,35 @@
+
+[
+	
+	{
+		"description" : "击杀20只南海妖灵",
+		"targetCode" : 10057001,
+		"targetId" : 1,
+		"targetNum" : 20,
+		"worldLevelReward" : 10001
+	},
+	
+	{
+		"description" : "击杀20只离水海妖",
+		"targetCode" : 10057002,
+		"targetId" : 2,
+		"targetNum" : 20,
+		"worldLevelReward" : 10002
+	},
+	
+	{
+		"description" : "采集3个深海珍珠",
+		"targetCode" : 10057003,
+		"targetId" : 3,
+		"targetNum" : 3,
+		"worldLevelReward" : 10003
+	},
+	
+	{
+		"description" : "采集3个深海珊瑚",
+		"targetCode" : 10057004,
+		"targetId" : 4,
+		"targetNum" : 3,
+		"worldLevelReward" : 10004
+	}
+]

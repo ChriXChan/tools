@@ -1,0 +1,27 @@
+
+[
+	
+	{
+		"camp" : 1,
+		"copyCode" : 162,
+		"maxRate" : 10000,
+		"minRate" : 1,
+		"point" : 3
+	},
+	
+	{
+		"camp" : 2,
+		"copyCode" : 162,
+		"maxRate" : 10000,
+		"minRate" : 1,
+		"point" : 2
+	},
+	
+	{
+		"camp" : 3,
+		"copyCode" : 162,
+		"maxRate" : 10000,
+		"minRate" : 1,
+		"point" : 1
+	}
+]

@@ -1,0 +1,143 @@
+
+[
+	
+	{
+		"functionId" : 10001,
+		"idExtend" : 5201,
+		"level" : 90,
+		"name" : "世界BOSS"
+	},
+	
+	{
+		"functionId" : 10002,
+		"idExtend" : 5203,
+		"level" : 180,
+		"name" : "BOSS之家一层"
+	},
+	
+	{
+		"functionId" : 10003,
+		"idExtend" : 5204,
+		"level" : 180,
+		"name" : "BOSS之家二层"
+	},
+	
+	{
+		"functionId" : 10004,
+		"idExtend" : 5205,
+		"level" : 180,
+		"name" : "BOSS之家三层"
+	},
+	
+	{
+		"functionId" : 10005,
+		"idExtend" : 5207,
+		"level" : 180,
+		"name" : "BOSS之家四层"
+	},
+	
+	{
+		"functionId" : 10006,
+		"idExtend" : 5208,
+		"level" : 180,
+		"name" : "BOSS之家五层"
+	},
+	
+	{
+		"functionId" : 10007,
+		"idExtend" : 5206,
+		"level" : 260,
+		"name" : "蛮荒禁地一层"
+	},
+	
+	{
+		"functionId" : 10008,
+		"idExtend" : 15206,
+		"level" : 371,
+		"name" : "蛮荒禁地二层"
+	},
+	
+	{
+		"functionId" : 10009,
+		"idExtend" : 6101,
+		"level" : 350,
+		"name" : "神兽岛"
+	},
+	
+	{
+		"functionId" : 10010,
+		"level" : 115,
+		"name" : "决战青云"
+	},
+	
+	{
+		"functionId" : 10011,
+		"idExtend" : 5002,
+		"level" : 110,
+		"name" : "青云之巅【单服】",
+		"time" : "20:00-20:30"
+	},
+	
+	{
+		"functionId" : 10012,
+		"idExtend" : 5012,
+		"level" : 110,
+		"name" : "青云之巅【跨服】",
+		"time" : "20:00-20:30"
+	},
+	
+	{
+		"functionId" : 10013,
+		"level" : 130,
+		"name" : "双倍护送",
+		"time" : "16:00-16:30;21:30-22:00"
+	},
+	
+	{
+		"functionId" : 20001,
+		"info" : "function_extend：当天进入的玩家总数",
+		"level" : 50,
+		"name" : "三界战场",
+		"time" : "20:00-20:15"
+	},
+	
+	{
+		"functionId" : 20002,
+		"info" : "function_extend：当天进入的玩家总数",
+		"level" : 50,
+		"name" : "仙盟晚宴",
+		"time" : "20:30-20:45"
+	},
+	
+	{
+		"functionId" : 20003,
+		"info" : "function_extend：当天进入的玩家总数",
+		"level" : 110,
+		"name" : "修仙论道",
+		"time" : "12:00-12:09"
+	},
+	
+	{
+		"functionId" : 20004,
+		"info" : "function_extend：当天进入的玩家总数",
+		"level" : 1,
+		"name" : "青云夺宝",
+		"time" : "20:45-21:00"
+	},
+	
+	{
+		"functionId" : 20005,
+		"info" : "int_extend：当天开启仙盟数 int_extend2：当天参与玩家数",
+		"level" : 200,
+		"name" : "守卫仙盟",
+		"time" : "21:00-22:00"
+	},
+	
+	{
+		"functionId" : 20006,
+		"info" : "function_extend：参与的仙盟数 int_extend：仙盟总数 int_extend2：参与玩家数",
+		"level" : 60,
+		"name" : "仙盟争霸",
+		"time" : "21:00-21:20;21:30-21:50"
+	}
+]

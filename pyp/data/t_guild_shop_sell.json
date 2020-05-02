@@ -1,0 +1,99 @@
+
+[
+	
+	{
+		"amountMax" : -1,
+		"amountMin" : -1,
+		"buyLimitMax" : 10,
+		"buyLimitMin" : 10,
+		"itemCode" : 60010001,
+		"priceMax" : 100,
+		"priceMin" : 100,
+		"randType" : 1,
+		"shopLevel" : 1
+	},
+	
+	{
+		"amountMax" : -1,
+		"amountMin" : -1,
+		"buyLimitMax" : 2,
+		"buyLimitMin" : 2,
+		"itemCode" : 60030001,
+		"priceMax" : 250,
+		"priceMin" : 250,
+		"randType" : 1,
+		"shopLevel" : 1
+	},
+	
+	{
+		"amountMax" : -1,
+		"amountMin" : -1,
+		"buyLimitMax" : 2,
+		"buyLimitMin" : 2,
+		"itemCode" : 60030002,
+		"priceMax" : 250,
+		"priceMin" : 250,
+		"randType" : 1,
+		"shopLevel" : 1
+	},
+	
+	{
+		"amountMax" : -1,
+		"amountMin" : -1,
+		"buyLimitMax" : 2,
+		"buyLimitMin" : 2,
+		"itemCode" : 60030003,
+		"priceMax" : 250,
+		"priceMin" : 250,
+		"randType" : 1,
+		"shopLevel" : 1
+	},
+	
+	{
+		"amountMax" : -1,
+		"amountMin" : -1,
+		"buyLimitMax" : 2,
+		"buyLimitMin" : 2,
+		"itemCode" : 60030004,
+		"priceMax" : 250,
+		"priceMin" : 250,
+		"randType" : 1,
+		"shopLevel" : 1
+	},
+	
+	{
+		"amountMax" : -1,
+		"amountMin" : -1,
+		"buyLimitMax" : 2,
+		"buyLimitMin" : 2,
+		"itemCode" : 60030005,
+		"priceMax" : 250,
+		"priceMin" : 250,
+		"randType" : 1,
+		"shopLevel" : 1
+	},
+	
+	{
+		"amountMax" : -1,
+		"amountMin" : -1,
+		"buyLimitMax" : 2,
+		"buyLimitMin" : 2,
+		"itemCode" : 60030006,
+		"priceMax" : 250,
+		"priceMin" : 250,
+		"randType" : 1,
+		"shopLevel" : 1
+	},
+	
+	{
+		"amountMax" : -1,
+		"amountMin" : -1,
+		"buyLimitMax" : 2,
+		"buyLimitMin" : 2,
+		"itemCode" : 60030007,
+		"priceMax" : 250,
+		"priceMin" : 250,
+		"randType" : 1,
+		"shopLevel" : 1
+	}
+]

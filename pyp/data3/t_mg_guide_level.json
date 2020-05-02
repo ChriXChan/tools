@@ -1,0 +1,47 @@
+
+[
+	
+	{
+		"id" : 1,
+		"name" : "通关关卡",
+		"showIndex" : 1,
+		"star" : 3,
+		"type" : 1
+	},
+	
+	{
+		"id" : 2,
+		"name" : "仙道斗法",
+		"openkey" : "Encounter",
+		"showIndex" : 2,
+		"star" : 4,
+		"type" : 4
+	},
+	
+	{
+		"id" : 3,
+		"name" : "野外BOSS",
+		"openkey" : "WorldBoss",
+		"showIndex" : 4,
+		"star" : 3,
+		"type" : 6
+	},
+	
+	{
+		"id" : 4,
+		"name" : "诛仙塔",
+		"openkey" : "CopyHallTower",
+		"showIndex" : 5,
+		"star" : 4,
+		"type" : 2
+	},
+	
+	{
+		"id" : 5,
+		"name" : "经验副本",
+		"openkey" : "CopyHallDaily",
+		"showIndex" : 3,
+		"star" : 5,
+		"type" : 3
+	}
+]

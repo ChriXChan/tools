@@ -1,0 +1,63 @@
+
+[
+	
+	{
+		"costNum" : 1,
+		"levelLimit" : 80,
+		"num" : 1
+	},
+	
+	{
+		"costNum" : 1,
+		"levelLimit" : 80,
+		"num" : 2
+	},
+	
+	{
+		"costNum" : 1,
+		"levelLimit" : 80,
+		"num" : 3
+	},
+	
+	{
+		"costNum" : 1,
+		"levelLimit" : 80,
+		"num" : 4
+	},
+	
+	{
+		"costNum" : 2,
+		"levelLimit" : 80,
+		"num" : 5
+	},
+	
+	{
+		"costNum" : 2,
+		"levelLimit" : 80,
+		"num" : 6
+	},
+	
+	{
+		"costNum" : 2,
+		"levelLimit" : 80,
+		"num" : 7
+	},
+	
+	{
+		"costNum" : 3,
+		"levelLimit" : 80,
+		"num" : 8
+	},
+	
+	{
+		"costNum" : 3,
+		"levelLimit" : 80,
+		"num" : 9
+	},
+	
+	{
+		"costNum" : 3,
+		"levelLimit" : 80,
+		"num" : 10
+	}
+]

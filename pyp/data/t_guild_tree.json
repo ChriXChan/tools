@@ -1,0 +1,242 @@
+
+[
+	
+	{
+		"baseReward" : "4,0,1000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,2000",
+		"level" : 1,
+		"upgradeExperience" : 10
+	},
+	
+	{
+		"baseReward" : "4,0,2000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,4000",
+		"level" : 2,
+		"upgradeExperience" : 25
+	},
+	
+	{
+		"baseReward" : "4,0,3000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,6000",
+		"level" : 3,
+		"upgradeExperience" : 45
+	},
+	
+	{
+		"baseReward" : "4,0,4000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,8000",
+		"level" : 4,
+		"upgradeExperience" : 70
+	},
+	
+	{
+		"baseReward" : "4,0,5000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,10000",
+		"level" : 5,
+		"upgradeExperience" : 100
+	},
+	
+	{
+		"baseReward" : "4,0,6000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,12000",
+		"level" : 6,
+		"upgradeExperience" : 135
+	},
+	
+	{
+		"baseReward" : "4,0,7000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,14000",
+		"level" : 7,
+		"upgradeExperience" : 175
+	},
+	
+	{
+		"baseReward" : "4,0,8000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,16000",
+		"level" : 8,
+		"upgradeExperience" : 220
+	},
+	
+	{
+		"baseReward" : "4,0,9000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,18000",
+		"level" : 9,
+		"upgradeExperience" : 270
+	},
+	
+	{
+		"baseReward" : "4,0,10000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,20000",
+		"level" : 10,
+		"upgradeExperience" : 325
+	},
+	
+	{
+		"baseReward" : "4,0,11000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,22000",
+		"level" : 11,
+		"upgradeExperience" : 385
+	},
+	
+	{
+		"baseReward" : "4,0,12000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,24000",
+		"level" : 12,
+		"upgradeExperience" : 450
+	},
+	
+	{
+		"baseReward" : "4,0,13000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,26000",
+		"level" : 13,
+		"upgradeExperience" : 520
+	},
+	
+	{
+		"baseReward" : "4,0,14000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,28000",
+		"level" : 14,
+		"upgradeExperience" : 595
+	},
+	
+	{
+		"baseReward" : "4,0,15000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,30000",
+		"level" : 15,
+		"upgradeExperience" : 675
+	},
+	
+	{
+		"baseReward" : "4,0,16000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,32000",
+		"level" : 16,
+		"upgradeExperience" : 760
+	},
+	
+	{
+		"baseReward" : "4,0,17000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,34000",
+		"level" : 17,
+		"upgradeExperience" : 850
+	},
+	
+	{
+		"baseReward" : "4,0,18000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,36000",
+		"level" : 18,
+		"upgradeExperience" : 945
+	},
+	
+	{
+		"baseReward" : "4,0,19000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,38000",
+		"level" : 19,
+		"upgradeExperience" : 1045
+	},
+	
+	{
+		"baseReward" : "4,0,20000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,40000",
+		"level" : 20,
+		"upgradeExperience" : 1150
+	},
+	
+	{
+		"baseReward" : "4,0,21000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,42000",
+		"level" : 21,
+		"upgradeExperience" : 1260
+	},
+	
+	{
+		"baseReward" : "4,0,22000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,44000",
+		"level" : 22,
+		"upgradeExperience" : 1375
+	},
+	
+	{
+		"baseReward" : "4,0,23000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,46000",
+		"level" : 23,
+		"upgradeExperience" : 1495
+	},
+	
+	{
+		"baseReward" : "4,0,24000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,48000",
+		"level" : 24,
+		"upgradeExperience" : 1620
+	},
+	
+	{
+		"baseReward" : "4,0,25000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,50000",
+		"level" : 25,
+		"upgradeExperience" : 1750
+	},
+	
+	{
+		"baseReward" : "4,0,26000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,52000",
+		"level" : 26,
+		"upgradeExperience" : 1885
+	},
+	
+	{
+		"baseReward" : "4,0,27000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,54000",
+		"level" : 27,
+		"upgradeExperience" : 2025
+	},
+	
+	{
+		"baseReward" : "4,0,28000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,56000",
+		"level" : 28,
+		"upgradeExperience" : 2170
+	},
+	
+	{
+		"baseReward" : "4,0,29000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,58000",
+		"level" : 29,
+		"upgradeExperience" : 2320
+	},
+	
+	{
+		"baseReward" : "4,0,30000000",
+		"gainsNum" : 500,
+		"gainsReward" : "4,0,60000",
+		"level" : 30
+	}
+]

@@ -1,0 +1,1975 @@
+
+[
+	
+	{
+		"maxRank" : 1,
+		"minRank" : 1,
+		"rewardStr" : "3,30182011,12#3,30182021,10#3,30182031,7#5,0,6#2,9,65000#",
+		"rewardStrEx" : "3,30182011,10#3,30182021,8#3,30182031,5#5,0,6#2,9,60000#",
+		"type" : 1
+	},
+	
+	{
+		"maxRank" : 1,
+		"minRank" : 1,
+		"rewardStr" : "2,9,40000#",
+		"type" : 2
+	},
+	
+	{
+		"maxRank" : 3,
+		"minRank" : 2,
+		"rewardStr" : "2,9,30000#",
+		"type" : 2
+	},
+	
+	{
+		"maxRank" : 10,
+		"minRank" : 4,
+		"rewardStr" : "2,9,20000#",
+		"type" : 2
+	},
+	
+	{
+		"maxRank" : 999,
+		"minRank" : 11,
+		"rewardStr" : "2,9,15000#",
+		"type" : 2
+	},
+	
+	{
+		"maxRank" : 1,
+		"maxWorldLevel" : 299,
+		"minRank" : 1,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40123001,1#16,0,900",
+		"rewardStrEx" : "16,0,450",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 2,
+		"maxWorldLevel" : 299,
+		"minRank" : 2,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40123001,1#16,0,880",
+		"rewardStrEx" : "16,0,440",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 3,
+		"maxWorldLevel" : 299,
+		"minRank" : 3,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40123001,1#16,0,860",
+		"rewardStrEx" : "16,0,430",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 4,
+		"maxWorldLevel" : 299,
+		"minRank" : 4,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40123001,1#16,0,840",
+		"rewardStrEx" : "16,0,420",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 5,
+		"maxWorldLevel" : 299,
+		"minRank" : 5,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40123001,1#16,0,820",
+		"rewardStrEx" : "16,0,410",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 6,
+		"maxWorldLevel" : 299,
+		"minRank" : 6,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40123001,1#16,0,800",
+		"rewardStrEx" : "16,0,400",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 7,
+		"maxWorldLevel" : 299,
+		"minRank" : 7,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40123001,1#16,0,780",
+		"rewardStrEx" : "16,0,390",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 8,
+		"maxWorldLevel" : 299,
+		"minRank" : 8,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40123001,1#16,0,760",
+		"rewardStrEx" : "16,0,380",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 9,
+		"maxWorldLevel" : 299,
+		"minRank" : 9,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40123001,1#16,0,740",
+		"rewardStrEx" : "16,0,370",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 10,
+		"maxWorldLevel" : 299,
+		"minRank" : 10,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40123001,1#16,0,720",
+		"rewardStrEx" : "16,0,360",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 11,
+		"maxWorldLevel" : 299,
+		"minRank" : 11,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40123001,1#16,0,700",
+		"rewardStrEx" : "16,0,350",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 12,
+		"maxWorldLevel" : 299,
+		"minRank" : 12,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40123001,1#16,0,680",
+		"rewardStrEx" : "16,0,340",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 13,
+		"maxWorldLevel" : 299,
+		"minRank" : 13,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40123001,1#16,0,660",
+		"rewardStrEx" : "16,0,330",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 14,
+		"maxWorldLevel" : 299,
+		"minRank" : 14,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40123001,1#16,0,640",
+		"rewardStrEx" : "16,0,320",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 15,
+		"maxWorldLevel" : 299,
+		"minRank" : 15,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40123001,1#16,0,620",
+		"rewardStrEx" : "16,0,310",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 16,
+		"maxWorldLevel" : 299,
+		"minRank" : 16,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40123001,1#16,0,600",
+		"rewardStrEx" : "16,0,300",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 1,
+		"maxWorldLevel" : 349,
+		"minRank" : 1,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40123011,1#16,0,900",
+		"rewardStrEx" : "16,0,450",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 2,
+		"maxWorldLevel" : 349,
+		"minRank" : 2,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40123011,1#16,0,880",
+		"rewardStrEx" : "16,0,440",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 3,
+		"maxWorldLevel" : 349,
+		"minRank" : 3,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40123011,1#16,0,860",
+		"rewardStrEx" : "16,0,430",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 4,
+		"maxWorldLevel" : 349,
+		"minRank" : 4,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40123011,1#16,0,840",
+		"rewardStrEx" : "16,0,420",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 5,
+		"maxWorldLevel" : 349,
+		"minRank" : 5,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40123011,1#16,0,820",
+		"rewardStrEx" : "16,0,410",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 6,
+		"maxWorldLevel" : 349,
+		"minRank" : 6,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40123011,1#16,0,800",
+		"rewardStrEx" : "16,0,400",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 7,
+		"maxWorldLevel" : 349,
+		"minRank" : 7,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40123011,1#16,0,780",
+		"rewardStrEx" : "16,0,390",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 8,
+		"maxWorldLevel" : 349,
+		"minRank" : 8,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40123011,1#16,0,760",
+		"rewardStrEx" : "16,0,380",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 9,
+		"maxWorldLevel" : 349,
+		"minRank" : 9,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40123011,1#16,0,740",
+		"rewardStrEx" : "16,0,370",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 10,
+		"maxWorldLevel" : 349,
+		"minRank" : 10,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40123011,1#16,0,720",
+		"rewardStrEx" : "16,0,360",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 11,
+		"maxWorldLevel" : 349,
+		"minRank" : 11,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40123011,1#16,0,700",
+		"rewardStrEx" : "16,0,350",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 12,
+		"maxWorldLevel" : 349,
+		"minRank" : 12,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40123011,1#16,0,680",
+		"rewardStrEx" : "16,0,340",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 13,
+		"maxWorldLevel" : 349,
+		"minRank" : 13,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40123011,1#16,0,660",
+		"rewardStrEx" : "16,0,330",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 14,
+		"maxWorldLevel" : 349,
+		"minRank" : 14,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40123011,1#16,0,640",
+		"rewardStrEx" : "16,0,320",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 15,
+		"maxWorldLevel" : 349,
+		"minRank" : 15,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40123011,1#16,0,620",
+		"rewardStrEx" : "16,0,310",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 16,
+		"maxWorldLevel" : 349,
+		"minRank" : 16,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40123011,1#16,0,600",
+		"rewardStrEx" : "16,0,300",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 1,
+		"maxWorldLevel" : 399,
+		"minRank" : 1,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40123021,1#16,0,900",
+		"rewardStrEx" : "16,0,450",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 2,
+		"maxWorldLevel" : 399,
+		"minRank" : 2,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40123021,1#16,0,880",
+		"rewardStrEx" : "16,0,440",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 3,
+		"maxWorldLevel" : 399,
+		"minRank" : 3,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40123021,1#16,0,860",
+		"rewardStrEx" : "16,0,430",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 4,
+		"maxWorldLevel" : 399,
+		"minRank" : 4,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40123021,1#16,0,840",
+		"rewardStrEx" : "16,0,420",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 5,
+		"maxWorldLevel" : 399,
+		"minRank" : 5,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40123021,1#16,0,820",
+		"rewardStrEx" : "16,0,410",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 6,
+		"maxWorldLevel" : 399,
+		"minRank" : 6,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40123021,1#16,0,800",
+		"rewardStrEx" : "16,0,400",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 7,
+		"maxWorldLevel" : 399,
+		"minRank" : 7,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40123021,1#16,0,780",
+		"rewardStrEx" : "16,0,390",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 8,
+		"maxWorldLevel" : 399,
+		"minRank" : 8,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40123021,1#16,0,760",
+		"rewardStrEx" : "16,0,380",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 9,
+		"maxWorldLevel" : 399,
+		"minRank" : 9,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40123021,1#16,0,740",
+		"rewardStrEx" : "16,0,370",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 10,
+		"maxWorldLevel" : 399,
+		"minRank" : 10,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40123021,1#16,0,720",
+		"rewardStrEx" : "16,0,360",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 11,
+		"maxWorldLevel" : 399,
+		"minRank" : 11,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40123021,1#16,0,700",
+		"rewardStrEx" : "16,0,350",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 12,
+		"maxWorldLevel" : 399,
+		"minRank" : 12,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40123021,1#16,0,680",
+		"rewardStrEx" : "16,0,340",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 13,
+		"maxWorldLevel" : 399,
+		"minRank" : 13,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40123021,1#16,0,660",
+		"rewardStrEx" : "16,0,330",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 14,
+		"maxWorldLevel" : 399,
+		"minRank" : 14,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40123021,1#16,0,640",
+		"rewardStrEx" : "16,0,320",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 15,
+		"maxWorldLevel" : 399,
+		"minRank" : 15,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40123021,1#16,0,620",
+		"rewardStrEx" : "16,0,310",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 16,
+		"maxWorldLevel" : 399,
+		"minRank" : 16,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40123021,1#16,0,600",
+		"rewardStrEx" : "16,0,300",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 1,
+		"maxWorldLevel" : 449,
+		"minRank" : 1,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40123031,1#16,0,900",
+		"rewardStrEx" : "16,0,450",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 2,
+		"maxWorldLevel" : 449,
+		"minRank" : 2,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40123031,1#16,0,880",
+		"rewardStrEx" : "16,0,440",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 3,
+		"maxWorldLevel" : 449,
+		"minRank" : 3,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40123031,1#16,0,860",
+		"rewardStrEx" : "16,0,430",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 4,
+		"maxWorldLevel" : 449,
+		"minRank" : 4,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40123031,1#16,0,840",
+		"rewardStrEx" : "16,0,420",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 5,
+		"maxWorldLevel" : 449,
+		"minRank" : 5,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40123031,1#16,0,820",
+		"rewardStrEx" : "16,0,410",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 6,
+		"maxWorldLevel" : 449,
+		"minRank" : 6,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40123031,1#16,0,800",
+		"rewardStrEx" : "16,0,400",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 7,
+		"maxWorldLevel" : 449,
+		"minRank" : 7,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40123031,1#16,0,780",
+		"rewardStrEx" : "16,0,390",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 8,
+		"maxWorldLevel" : 449,
+		"minRank" : 8,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40123031,1#16,0,760",
+		"rewardStrEx" : "16,0,380",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 9,
+		"maxWorldLevel" : 449,
+		"minRank" : 9,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40123031,1#16,0,740",
+		"rewardStrEx" : "16,0,370",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 10,
+		"maxWorldLevel" : 449,
+		"minRank" : 10,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40123031,1#16,0,720",
+		"rewardStrEx" : "16,0,360",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 11,
+		"maxWorldLevel" : 449,
+		"minRank" : 11,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40123031,1#16,0,700",
+		"rewardStrEx" : "16,0,350",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 12,
+		"maxWorldLevel" : 449,
+		"minRank" : 12,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40123031,1#16,0,680",
+		"rewardStrEx" : "16,0,340",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 13,
+		"maxWorldLevel" : 449,
+		"minRank" : 13,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40123031,1#16,0,660",
+		"rewardStrEx" : "16,0,330",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 14,
+		"maxWorldLevel" : 449,
+		"minRank" : 14,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40123031,1#16,0,640",
+		"rewardStrEx" : "16,0,320",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 15,
+		"maxWorldLevel" : 449,
+		"minRank" : 15,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40123031,1#16,0,620",
+		"rewardStrEx" : "16,0,310",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 16,
+		"maxWorldLevel" : 449,
+		"minRank" : 16,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40123031,1#16,0,600",
+		"rewardStrEx" : "16,0,300",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 1,
+		"maxWorldLevel" : 499,
+		"minRank" : 1,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40123041,1#16,0,900",
+		"rewardStrEx" : "16,0,450",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 2,
+		"maxWorldLevel" : 499,
+		"minRank" : 2,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40123041,1#16,0,880",
+		"rewardStrEx" : "16,0,440",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 3,
+		"maxWorldLevel" : 499,
+		"minRank" : 3,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40123041,1#16,0,860",
+		"rewardStrEx" : "16,0,430",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 4,
+		"maxWorldLevel" : 499,
+		"minRank" : 4,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40123041,1#16,0,840",
+		"rewardStrEx" : "16,0,420",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 5,
+		"maxWorldLevel" : 499,
+		"minRank" : 5,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40123041,1#16,0,820",
+		"rewardStrEx" : "16,0,410",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 6,
+		"maxWorldLevel" : 499,
+		"minRank" : 6,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40123041,1#16,0,800",
+		"rewardStrEx" : "16,0,400",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 7,
+		"maxWorldLevel" : 499,
+		"minRank" : 7,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40123041,1#16,0,780",
+		"rewardStrEx" : "16,0,390",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 8,
+		"maxWorldLevel" : 499,
+		"minRank" : 8,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40123041,1#16,0,760",
+		"rewardStrEx" : "16,0,380",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 9,
+		"maxWorldLevel" : 499,
+		"minRank" : 9,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40123041,1#16,0,740",
+		"rewardStrEx" : "16,0,370",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 10,
+		"maxWorldLevel" : 499,
+		"minRank" : 10,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40123041,1#16,0,720",
+		"rewardStrEx" : "16,0,360",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 11,
+		"maxWorldLevel" : 499,
+		"minRank" : 11,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40123041,1#16,0,700",
+		"rewardStrEx" : "16,0,350",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 12,
+		"maxWorldLevel" : 499,
+		"minRank" : 12,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40123041,1#16,0,680",
+		"rewardStrEx" : "16,0,340",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 13,
+		"maxWorldLevel" : 499,
+		"minRank" : 13,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40123041,1#16,0,660",
+		"rewardStrEx" : "16,0,330",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 14,
+		"maxWorldLevel" : 499,
+		"minRank" : 14,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40123041,1#16,0,640",
+		"rewardStrEx" : "16,0,320",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 15,
+		"maxWorldLevel" : 499,
+		"minRank" : 15,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40123041,1#16,0,620",
+		"rewardStrEx" : "16,0,310",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 16,
+		"maxWorldLevel" : 499,
+		"minRank" : 16,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40123041,1#16,0,600",
+		"rewardStrEx" : "16,0,300",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 1,
+		"maxWorldLevel" : 999,
+		"minRank" : 1,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40123051,1#16,0,900",
+		"rewardStrEx" : "16,0,450",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 2,
+		"maxWorldLevel" : 999,
+		"minRank" : 2,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40123051,1#16,0,880",
+		"rewardStrEx" : "16,0,440",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 3,
+		"maxWorldLevel" : 999,
+		"minRank" : 3,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40123051,1#16,0,860",
+		"rewardStrEx" : "16,0,430",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 4,
+		"maxWorldLevel" : 999,
+		"minRank" : 4,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40123051,1#16,0,840",
+		"rewardStrEx" : "16,0,420",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 5,
+		"maxWorldLevel" : 999,
+		"minRank" : 5,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40123051,1#16,0,820",
+		"rewardStrEx" : "16,0,410",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 6,
+		"maxWorldLevel" : 999,
+		"minRank" : 6,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40123051,1#16,0,800",
+		"rewardStrEx" : "16,0,400",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 7,
+		"maxWorldLevel" : 999,
+		"minRank" : 7,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40123051,1#16,0,780",
+		"rewardStrEx" : "16,0,390",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 8,
+		"maxWorldLevel" : 999,
+		"minRank" : 8,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40123051,1#16,0,760",
+		"rewardStrEx" : "16,0,380",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 9,
+		"maxWorldLevel" : 999,
+		"minRank" : 9,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40123051,1#16,0,740",
+		"rewardStrEx" : "16,0,370",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 10,
+		"maxWorldLevel" : 999,
+		"minRank" : 10,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40123051,1#16,0,720",
+		"rewardStrEx" : "16,0,360",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 11,
+		"maxWorldLevel" : 999,
+		"minRank" : 11,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40123051,1#16,0,700",
+		"rewardStrEx" : "16,0,350",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 12,
+		"maxWorldLevel" : 999,
+		"minRank" : 12,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40123051,1#16,0,680",
+		"rewardStrEx" : "16,0,340",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 13,
+		"maxWorldLevel" : 999,
+		"minRank" : 13,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40123051,1#16,0,660",
+		"rewardStrEx" : "16,0,330",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 14,
+		"maxWorldLevel" : 999,
+		"minRank" : 14,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40123051,1#16,0,640",
+		"rewardStrEx" : "16,0,320",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 15,
+		"maxWorldLevel" : 999,
+		"minRank" : 15,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40123051,1#16,0,620",
+		"rewardStrEx" : "16,0,310",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 16,
+		"maxWorldLevel" : 999,
+		"minRank" : 16,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40123051,1#16,0,600",
+		"rewardStrEx" : "16,0,300",
+		"type" : 3
+	},
+	
+	{
+		"maxRank" : 1,
+		"maxWorldLevel" : 299,
+		"minRank" : 1,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40122001,1#3,42200001,3#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 2,
+		"maxWorldLevel" : 299,
+		"minRank" : 2,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40122001,1#3,42200001,2#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 3,
+		"maxWorldLevel" : 299,
+		"minRank" : 3,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40122001,1#3,42200001,2#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 4,
+		"maxWorldLevel" : 299,
+		"minRank" : 4,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40122001,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 5,
+		"maxWorldLevel" : 299,
+		"minRank" : 5,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40122001,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 6,
+		"maxWorldLevel" : 299,
+		"minRank" : 6,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40122001,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 7,
+		"maxWorldLevel" : 299,
+		"minRank" : 7,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40122001,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 8,
+		"maxWorldLevel" : 299,
+		"minRank" : 8,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40122001,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 9,
+		"maxWorldLevel" : 299,
+		"minRank" : 9,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40122001,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 10,
+		"maxWorldLevel" : 299,
+		"minRank" : 10,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40122001,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 11,
+		"maxWorldLevel" : 299,
+		"minRank" : 11,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40122001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 12,
+		"maxWorldLevel" : 299,
+		"minRank" : 12,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40122001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 13,
+		"maxWorldLevel" : 299,
+		"minRank" : 13,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40122001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 14,
+		"maxWorldLevel" : 299,
+		"minRank" : 14,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40122001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 15,
+		"maxWorldLevel" : 299,
+		"minRank" : 15,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40122001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 16,
+		"maxWorldLevel" : 299,
+		"minRank" : 16,
+		"minWorldLevel" : 1,
+		"rewardStr" : "3,40122001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 1,
+		"maxWorldLevel" : 349,
+		"minRank" : 1,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40122011,1#3,42200001,3#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 2,
+		"maxWorldLevel" : 349,
+		"minRank" : 2,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40122011,1#3,42200001,2#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 3,
+		"maxWorldLevel" : 349,
+		"minRank" : 3,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40122011,1#3,42200001,2#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 4,
+		"maxWorldLevel" : 349,
+		"minRank" : 4,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40122011,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 5,
+		"maxWorldLevel" : 349,
+		"minRank" : 5,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40122011,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 6,
+		"maxWorldLevel" : 349,
+		"minRank" : 6,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40122011,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 7,
+		"maxWorldLevel" : 349,
+		"minRank" : 7,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40122011,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 8,
+		"maxWorldLevel" : 349,
+		"minRank" : 8,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40122011,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 9,
+		"maxWorldLevel" : 349,
+		"minRank" : 9,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40122011,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 10,
+		"maxWorldLevel" : 349,
+		"minRank" : 10,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40122011,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 11,
+		"maxWorldLevel" : 349,
+		"minRank" : 11,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40122011,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 12,
+		"maxWorldLevel" : 349,
+		"minRank" : 12,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40122011,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 13,
+		"maxWorldLevel" : 349,
+		"minRank" : 13,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40122011,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 14,
+		"maxWorldLevel" : 349,
+		"minRank" : 14,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40122011,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 15,
+		"maxWorldLevel" : 349,
+		"minRank" : 15,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40122011,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 16,
+		"maxWorldLevel" : 349,
+		"minRank" : 16,
+		"minWorldLevel" : 300,
+		"rewardStr" : "3,40122011,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 1,
+		"maxWorldLevel" : 399,
+		"minRank" : 1,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40122021,1#3,42200001,3#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 2,
+		"maxWorldLevel" : 399,
+		"minRank" : 2,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40122021,1#3,42200001,2#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 3,
+		"maxWorldLevel" : 399,
+		"minRank" : 3,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40122021,1#3,42200001,2#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 4,
+		"maxWorldLevel" : 399,
+		"minRank" : 4,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40122021,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 5,
+		"maxWorldLevel" : 399,
+		"minRank" : 5,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40122021,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 6,
+		"maxWorldLevel" : 399,
+		"minRank" : 6,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40122021,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 7,
+		"maxWorldLevel" : 399,
+		"minRank" : 7,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40122021,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 8,
+		"maxWorldLevel" : 399,
+		"minRank" : 8,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40122021,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 9,
+		"maxWorldLevel" : 399,
+		"minRank" : 9,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40122021,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 10,
+		"maxWorldLevel" : 399,
+		"minRank" : 10,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40122021,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 11,
+		"maxWorldLevel" : 399,
+		"minRank" : 11,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40122021,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 12,
+		"maxWorldLevel" : 399,
+		"minRank" : 12,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40122021,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 13,
+		"maxWorldLevel" : 399,
+		"minRank" : 13,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40122021,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 14,
+		"maxWorldLevel" : 399,
+		"minRank" : 14,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40122021,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 15,
+		"maxWorldLevel" : 399,
+		"minRank" : 15,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40122021,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 16,
+		"maxWorldLevel" : 399,
+		"minRank" : 16,
+		"minWorldLevel" : 350,
+		"rewardStr" : "3,40122021,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 1,
+		"maxWorldLevel" : 449,
+		"minRank" : 1,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40122031,1#3,42200001,3#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 2,
+		"maxWorldLevel" : 449,
+		"minRank" : 2,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40122031,1#3,42200001,2#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 3,
+		"maxWorldLevel" : 449,
+		"minRank" : 3,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40122031,1#3,42200001,2#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 4,
+		"maxWorldLevel" : 449,
+		"minRank" : 4,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40122031,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 5,
+		"maxWorldLevel" : 449,
+		"minRank" : 5,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40122031,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 6,
+		"maxWorldLevel" : 449,
+		"minRank" : 6,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40122031,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 7,
+		"maxWorldLevel" : 449,
+		"minRank" : 7,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40122031,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 8,
+		"maxWorldLevel" : 449,
+		"minRank" : 8,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40122031,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 9,
+		"maxWorldLevel" : 449,
+		"minRank" : 9,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40122031,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 10,
+		"maxWorldLevel" : 449,
+		"minRank" : 10,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40122031,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 11,
+		"maxWorldLevel" : 449,
+		"minRank" : 11,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40122031,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 12,
+		"maxWorldLevel" : 449,
+		"minRank" : 12,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40122031,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 13,
+		"maxWorldLevel" : 449,
+		"minRank" : 13,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40122031,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 14,
+		"maxWorldLevel" : 449,
+		"minRank" : 14,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40122031,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 15,
+		"maxWorldLevel" : 449,
+		"minRank" : 15,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40122031,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 16,
+		"maxWorldLevel" : 449,
+		"minRank" : 16,
+		"minWorldLevel" : 400,
+		"rewardStr" : "3,40122031,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 1,
+		"maxWorldLevel" : 499,
+		"minRank" : 1,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40122041,1#3,42200001,3#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 2,
+		"maxWorldLevel" : 499,
+		"minRank" : 2,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40122041,1#3,42200001,2#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 3,
+		"maxWorldLevel" : 499,
+		"minRank" : 3,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40122041,1#3,42200001,2#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 4,
+		"maxWorldLevel" : 499,
+		"minRank" : 4,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40122041,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 5,
+		"maxWorldLevel" : 499,
+		"minRank" : 5,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40122041,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 6,
+		"maxWorldLevel" : 499,
+		"minRank" : 6,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40122041,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 7,
+		"maxWorldLevel" : 499,
+		"minRank" : 7,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40122041,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 8,
+		"maxWorldLevel" : 499,
+		"minRank" : 8,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40122041,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 9,
+		"maxWorldLevel" : 499,
+		"minRank" : 9,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40122041,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 10,
+		"maxWorldLevel" : 499,
+		"minRank" : 10,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40122041,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 11,
+		"maxWorldLevel" : 499,
+		"minRank" : 11,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40122041,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 12,
+		"maxWorldLevel" : 499,
+		"minRank" : 12,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40122041,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 13,
+		"maxWorldLevel" : 499,
+		"minRank" : 13,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40122041,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 14,
+		"maxWorldLevel" : 499,
+		"minRank" : 14,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40122041,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 15,
+		"maxWorldLevel" : 499,
+		"minRank" : 15,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40122041,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 16,
+		"maxWorldLevel" : 499,
+		"minRank" : 16,
+		"minWorldLevel" : 450,
+		"rewardStr" : "3,40122041,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 1,
+		"maxWorldLevel" : 999,
+		"minRank" : 1,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40122051,1#3,42200001,3#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 2,
+		"maxWorldLevel" : 999,
+		"minRank" : 2,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40122051,1#3,42200001,2#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 3,
+		"maxWorldLevel" : 999,
+		"minRank" : 3,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40122051,1#3,42200001,2#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 4,
+		"maxWorldLevel" : 999,
+		"minRank" : 4,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40122051,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 5,
+		"maxWorldLevel" : 999,
+		"minRank" : 5,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40122051,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 6,
+		"maxWorldLevel" : 999,
+		"minRank" : 6,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40122051,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 7,
+		"maxWorldLevel" : 999,
+		"minRank" : 7,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40122051,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 8,
+		"maxWorldLevel" : 999,
+		"minRank" : 8,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40122051,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 9,
+		"maxWorldLevel" : 999,
+		"minRank" : 9,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40122051,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 10,
+		"maxWorldLevel" : 999,
+		"minRank" : 10,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40122051,1#3,42200001,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 11,
+		"maxWorldLevel" : 999,
+		"minRank" : 11,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40122051,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 12,
+		"maxWorldLevel" : 999,
+		"minRank" : 12,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40122051,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 13,
+		"maxWorldLevel" : 999,
+		"minRank" : 13,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40122051,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 14,
+		"maxWorldLevel" : 999,
+		"minRank" : 14,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40122051,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 15,
+		"maxWorldLevel" : 999,
+		"minRank" : 15,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40122051,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 16,
+		"maxWorldLevel" : 999,
+		"minRank" : 16,
+		"minWorldLevel" : 500,
+		"rewardStr" : "3,40122051,1#",
+		"type" : 4
+	},
+	
+	{
+		"maxRank" : 1,
+		"minRank" : 1,
+		"rewardStr" : "16,0,900",
+		"type" : 5
+	},
+	
+	{
+		"maxRank" : 2,
+		"minRank" : 2,
+		"rewardStr" : "16,0,880",
+		"type" : 5
+	},
+	
+	{
+		"maxRank" : 3,
+		"minRank" : 3,
+		"rewardStr" : "16,0,860",
+		"type" : 5
+	},
+	
+	{
+		"maxRank" : 4,
+		"minRank" : 4,
+		"rewardStr" : "16,0,840",
+		"type" : 5
+	},
+	
+	{
+		"maxRank" : 5,
+		"minRank" : 5,
+		"rewardStr" : "16,0,820",
+		"type" : 5
+	},
+	
+	{
+		"maxRank" : 6,
+		"minRank" : 6,
+		"rewardStr" : "16,0,800",
+		"type" : 5
+	},
+	
+	{
+		"maxRank" : 7,
+		"minRank" : 7,
+		"rewardStr" : "16,0,780",
+		"type" : 5
+	},
+	
+	{
+		"maxRank" : 8,
+		"minRank" : 8,
+		"rewardStr" : "16,0,760",
+		"type" : 5
+	},
+	
+	{
+		"maxRank" : 9,
+		"minRank" : 9,
+		"rewardStr" : "16,0,740",
+		"type" : 5
+	},
+	
+	{
+		"maxRank" : 10,
+		"minRank" : 10,
+		"rewardStr" : "16,0,720",
+		"type" : 5
+	},
+	
+	{
+		"maxRank" : 11,
+		"minRank" : 11,
+		"rewardStr" : "16,0,700",
+		"type" : 5
+	},
+	
+	{
+		"maxRank" : 12,
+		"minRank" : 12,
+		"rewardStr" : "16,0,680",
+		"type" : 5
+	},
+	
+	{
+		"maxRank" : 13,
+		"minRank" : 13,
+		"rewardStr" : "16,0,660",
+		"type" : 5
+	},
+	
+	{
+		"maxRank" : 14,
+		"minRank" : 14,
+		"rewardStr" : "16,0,640",
+		"type" : 5
+	},
+	
+	{
+		"maxRank" : 15,
+		"minRank" : 15,
+		"rewardStr" : "16,0,620",
+		"type" : 5
+	},
+	
+	{
+		"maxRank" : 16,
+		"minRank" : 16,
+		"rewardStr" : "16,0,600",
+		"type" : 5
+	}
+]

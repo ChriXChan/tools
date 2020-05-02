@@ -1,0 +1,107 @@
+
+[
+	
+	{
+		"attrType" : 1,
+		"equipType" : "1#2#3#4#5",
+		"id" : 1,
+		"maxCredit" : 10000,
+		"rate" : 1000
+	},
+	
+	{
+		"attrType" : 3,
+		"equipType" : "1#2#3#4#5",
+		"id" : 2,
+		"maxCredit" : 10000,
+		"rate" : 1000
+	},
+	
+	{
+		"attrType" : 6,
+		"equipType" : "1#2#3#4#5",
+		"id" : 3,
+		"maxCredit" : 10000,
+		"rate" : 1000
+	},
+	
+	{
+		"attrType" : 51,
+		"equipType" : "1#2#3#4#5",
+		"id" : 4,
+		"maxCredit" : 10000,
+		"rate" : 1000
+	},
+	
+	{
+		"attrType" : 53,
+		"equipType" : "1#2#3#4#5",
+		"id" : 5,
+		"maxCredit" : 10000,
+		"rate" : 1000
+	},
+	
+	{
+		"attrType" : 56,
+		"equipType" : "1#2#3#4#5",
+		"id" : 6,
+		"maxCredit" : 10000,
+		"rate" : 1000
+	},
+	
+	{
+		"attrType" : 2,
+		"equipType" : "6#7#8#9#10",
+		"id" : 7,
+		"maxCredit" : 10000,
+		"rate" : 1000
+	},
+	
+	{
+		"attrType" : 4,
+		"equipType" : "6#7#8#9#10",
+		"id" : 8,
+		"maxCredit" : 10000,
+		"rate" : 1000
+	},
+	
+	{
+		"attrType" : 5,
+		"equipType" : "6#7#8#9#10",
+		"id" : 9,
+		"maxCredit" : 10000,
+		"rate" : 1000
+	},
+	
+	{
+		"attrType" : 8,
+		"equipType" : "6#7#8#9#10",
+		"id" : 10,
+		"maxCredit" : 10000,
+		"rate" : 1000
+	},
+	
+	{
+		"attrType" : 52,
+		"equipType" : "6#7#8#9#10",
+		"id" : 11,
+		"maxCredit" : 10000,
+		"rate" : 1000
+	},
+	
+	{
+		"attrType" : 54,
+		"equipType" : "6#7#8#9#10",
+		"id" : 12,
+		"maxCredit" : 10000,
+		"rate" : 1000
+	},
+	
+	{
+		"attrType" : 55,
+		"equipType" : "6#7#8#9#10",
+		"id" : 13,
+		"maxCredit" : 10000,
+		"rate" : 1000
+	}
+]

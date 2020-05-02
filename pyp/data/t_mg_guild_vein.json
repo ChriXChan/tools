@@ -1,0 +1,12039 @@
+
+[
+	
+	{
+		"attrType" : 1,
+		"costContribution" : 833
+	},
+	
+	{
+		"attrType" : 2,
+		"costContribution" : 833
+	},
+	
+	{
+		"attrType" : 3,
+		"costContribution" : 417
+	},
+	
+	{
+		"attrType" : 4,
+		"costContribution" : 417
+	},
+	
+	{
+		"attrType" : 5,
+		"costContribution" : 417,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"costContribution" : 417,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"costContribution" : 417,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"costContribution" : 417,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 50,
+		"attrType" : 1,
+		"costContribution" : 1167,
+		"level" : 1
+	},
+	
+	{
+		"attrRate" : 50,
+		"attrType" : 2,
+		"costContribution" : 1167,
+		"level" : 1
+	},
+	
+	{
+		"attrRate" : 50,
+		"attrType" : 3,
+		"costContribution" : 583,
+		"level" : 1
+	},
+	
+	{
+		"attrRate" : 50,
+		"attrType" : 4,
+		"costContribution" : 583,
+		"level" : 1
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 42,
+		"costContribution" : 583,
+		"level" : 1,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 42,
+		"costContribution" : 583,
+		"level" : 1,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 42,
+		"costContribution" : 583,
+		"level" : 1,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 42,
+		"costContribution" : 583,
+		"level" : 1,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 100,
+		"attrType" : 1,
+		"costContribution" : 1500,
+		"level" : 2
+	},
+	
+	{
+		"attrRate" : 100,
+		"attrType" : 2,
+		"costContribution" : 1500,
+		"level" : 2
+	},
+	
+	{
+		"attrRate" : 100,
+		"attrType" : 3,
+		"costContribution" : 750,
+		"level" : 2
+	},
+	
+	{
+		"attrRate" : 100,
+		"attrType" : 4,
+		"costContribution" : 750,
+		"level" : 2
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 83,
+		"costContribution" : 750,
+		"level" : 2,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 83,
+		"costContribution" : 750,
+		"level" : 2,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 83,
+		"costContribution" : 750,
+		"level" : 2,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 83,
+		"costContribution" : 750,
+		"level" : 2,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 150,
+		"attrType" : 1,
+		"costContribution" : 1833,
+		"level" : 3
+	},
+	
+	{
+		"attrRate" : 150,
+		"attrType" : 2,
+		"costContribution" : 1833,
+		"level" : 3
+	},
+	
+	{
+		"attrRate" : 150,
+		"attrType" : 3,
+		"costContribution" : 917,
+		"level" : 3
+	},
+	
+	{
+		"attrRate" : 150,
+		"attrType" : 4,
+		"costContribution" : 917,
+		"level" : 3
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 125,
+		"costContribution" : 917,
+		"level" : 3,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 125,
+		"costContribution" : 917,
+		"level" : 3,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 125,
+		"costContribution" : 917,
+		"level" : 3,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 125,
+		"costContribution" : 917,
+		"level" : 3,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 200,
+		"attrType" : 1,
+		"costContribution" : 2167,
+		"level" : 4
+	},
+	
+	{
+		"attrRate" : 200,
+		"attrType" : 2,
+		"costContribution" : 2167,
+		"level" : 4
+	},
+	
+	{
+		"attrRate" : 200,
+		"attrType" : 3,
+		"costContribution" : 1083,
+		"level" : 4
+	},
+	
+	{
+		"attrRate" : 200,
+		"attrType" : 4,
+		"costContribution" : 1083,
+		"level" : 4
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 167,
+		"costContribution" : 1083,
+		"level" : 4,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 167,
+		"costContribution" : 1083,
+		"level" : 4,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 167,
+		"costContribution" : 1083,
+		"level" : 4,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 167,
+		"costContribution" : 1083,
+		"level" : 4,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 250,
+		"attrType" : 1,
+		"costContribution" : 2500,
+		"level" : 5
+	},
+	
+	{
+		"attrRate" : 250,
+		"attrType" : 2,
+		"costContribution" : 2500,
+		"level" : 5
+	},
+	
+	{
+		"attrRate" : 250,
+		"attrType" : 3,
+		"costContribution" : 1250,
+		"level" : 5
+	},
+	
+	{
+		"attrRate" : 250,
+		"attrType" : 4,
+		"costContribution" : 1250,
+		"level" : 5
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 208,
+		"costContribution" : 1250,
+		"level" : 5,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 208,
+		"costContribution" : 1250,
+		"level" : 5,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 208,
+		"costContribution" : 1250,
+		"level" : 5,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 208,
+		"costContribution" : 1250,
+		"level" : 5,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 300,
+		"attrType" : 1,
+		"costContribution" : 2833,
+		"level" : 6
+	},
+	
+	{
+		"attrRate" : 300,
+		"attrType" : 2,
+		"costContribution" : 2833,
+		"level" : 6
+	},
+	
+	{
+		"attrRate" : 300,
+		"attrType" : 3,
+		"costContribution" : 1417,
+		"level" : 6
+	},
+	
+	{
+		"attrRate" : 300,
+		"attrType" : 4,
+		"costContribution" : 1417,
+		"level" : 6
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 250,
+		"costContribution" : 1417,
+		"level" : 6,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 250,
+		"costContribution" : 1417,
+		"level" : 6,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 250,
+		"costContribution" : 1417,
+		"level" : 6,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 250,
+		"costContribution" : 1417,
+		"level" : 6,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 350,
+		"attrType" : 1,
+		"costContribution" : 3167,
+		"level" : 7
+	},
+	
+	{
+		"attrRate" : 350,
+		"attrType" : 2,
+		"costContribution" : 3167,
+		"level" : 7
+	},
+	
+	{
+		"attrRate" : 350,
+		"attrType" : 3,
+		"costContribution" : 1583,
+		"level" : 7
+	},
+	
+	{
+		"attrRate" : 350,
+		"attrType" : 4,
+		"costContribution" : 1583,
+		"level" : 7
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 292,
+		"costContribution" : 1583,
+		"level" : 7,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 292,
+		"costContribution" : 1583,
+		"level" : 7,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 292,
+		"costContribution" : 1583,
+		"level" : 7,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 292,
+		"costContribution" : 1583,
+		"level" : 7,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 400,
+		"attrType" : 1,
+		"costContribution" : 3500,
+		"level" : 8
+	},
+	
+	{
+		"attrRate" : 400,
+		"attrType" : 2,
+		"costContribution" : 3500,
+		"level" : 8
+	},
+	
+	{
+		"attrRate" : 400,
+		"attrType" : 3,
+		"costContribution" : 1750,
+		"level" : 8
+	},
+	
+	{
+		"attrRate" : 400,
+		"attrType" : 4,
+		"costContribution" : 1750,
+		"level" : 8
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 333,
+		"costContribution" : 1750,
+		"level" : 8,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 333,
+		"costContribution" : 1750,
+		"level" : 8,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 333,
+		"costContribution" : 1750,
+		"level" : 8,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 333,
+		"costContribution" : 1750,
+		"level" : 8,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 450,
+		"attrType" : 1,
+		"costContribution" : 3833,
+		"level" : 9
+	},
+	
+	{
+		"attrRate" : 450,
+		"attrType" : 2,
+		"costContribution" : 3833,
+		"level" : 9
+	},
+	
+	{
+		"attrRate" : 450,
+		"attrType" : 3,
+		"costContribution" : 1917,
+		"level" : 9
+	},
+	
+	{
+		"attrRate" : 450,
+		"attrType" : 4,
+		"costContribution" : 1917,
+		"level" : 9
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 375,
+		"costContribution" : 1917,
+		"level" : 9,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 375,
+		"costContribution" : 1917,
+		"level" : 9,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 375,
+		"costContribution" : 1917,
+		"level" : 9,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 375,
+		"costContribution" : 1917,
+		"level" : 9,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 500,
+		"attrType" : 1,
+		"costContribution" : 4167,
+		"level" : 10
+	},
+	
+	{
+		"attrRate" : 500,
+		"attrType" : 2,
+		"costContribution" : 4167,
+		"level" : 10
+	},
+	
+	{
+		"attrRate" : 500,
+		"attrType" : 3,
+		"costContribution" : 2083,
+		"level" : 10
+	},
+	
+	{
+		"attrRate" : 500,
+		"attrType" : 4,
+		"costContribution" : 2083,
+		"level" : 10
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 417,
+		"costContribution" : 2083,
+		"level" : 10,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 417,
+		"costContribution" : 2083,
+		"level" : 10,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 417,
+		"costContribution" : 2083,
+		"level" : 10,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 417,
+		"costContribution" : 2083,
+		"level" : 10,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 550,
+		"attrType" : 1,
+		"costContribution" : 4500,
+		"level" : 11
+	},
+	
+	{
+		"attrRate" : 550,
+		"attrType" : 2,
+		"costContribution" : 4500,
+		"level" : 11
+	},
+	
+	{
+		"attrRate" : 550,
+		"attrType" : 3,
+		"costContribution" : 2250,
+		"level" : 11
+	},
+	
+	{
+		"attrRate" : 550,
+		"attrType" : 4,
+		"costContribution" : 2250,
+		"level" : 11
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 458,
+		"costContribution" : 2250,
+		"level" : 11,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 458,
+		"costContribution" : 2250,
+		"level" : 11,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 458,
+		"costContribution" : 2250,
+		"level" : 11,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 458,
+		"costContribution" : 2250,
+		"level" : 11,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 600,
+		"attrType" : 1,
+		"costContribution" : 4833,
+		"level" : 12
+	},
+	
+	{
+		"attrRate" : 600,
+		"attrType" : 2,
+		"costContribution" : 4833,
+		"level" : 12
+	},
+	
+	{
+		"attrRate" : 600,
+		"attrType" : 3,
+		"costContribution" : 2417,
+		"level" : 12
+	},
+	
+	{
+		"attrRate" : 600,
+		"attrType" : 4,
+		"costContribution" : 2417,
+		"level" : 12
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 500,
+		"costContribution" : 2417,
+		"level" : 12,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 500,
+		"costContribution" : 2417,
+		"level" : 12,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 500,
+		"costContribution" : 2417,
+		"level" : 12,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 500,
+		"costContribution" : 2417,
+		"level" : 12,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 650,
+		"attrType" : 1,
+		"costContribution" : 5167,
+		"level" : 13
+	},
+	
+	{
+		"attrRate" : 650,
+		"attrType" : 2,
+		"costContribution" : 5167,
+		"level" : 13
+	},
+	
+	{
+		"attrRate" : 650,
+		"attrType" : 3,
+		"costContribution" : 2583,
+		"level" : 13
+	},
+	
+	{
+		"attrRate" : 650,
+		"attrType" : 4,
+		"costContribution" : 2583,
+		"level" : 13
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 542,
+		"costContribution" : 2583,
+		"level" : 13,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 542,
+		"costContribution" : 2583,
+		"level" : 13,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 542,
+		"costContribution" : 2583,
+		"level" : 13,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 542,
+		"costContribution" : 2583,
+		"level" : 13,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 700,
+		"attrType" : 1,
+		"costContribution" : 5500,
+		"level" : 14
+	},
+	
+	{
+		"attrRate" : 700,
+		"attrType" : 2,
+		"costContribution" : 5500,
+		"level" : 14
+	},
+	
+	{
+		"attrRate" : 700,
+		"attrType" : 3,
+		"costContribution" : 2750,
+		"level" : 14
+	},
+	
+	{
+		"attrRate" : 700,
+		"attrType" : 4,
+		"costContribution" : 2750,
+		"level" : 14
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 583,
+		"costContribution" : 2750,
+		"level" : 14,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 583,
+		"costContribution" : 2750,
+		"level" : 14,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 583,
+		"costContribution" : 2750,
+		"level" : 14,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 583,
+		"costContribution" : 2750,
+		"level" : 14,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 750,
+		"attrType" : 1,
+		"costContribution" : 5833,
+		"level" : 15
+	},
+	
+	{
+		"attrRate" : 750,
+		"attrType" : 2,
+		"costContribution" : 5833,
+		"level" : 15
+	},
+	
+	{
+		"attrRate" : 750,
+		"attrType" : 3,
+		"costContribution" : 2917,
+		"level" : 15
+	},
+	
+	{
+		"attrRate" : 750,
+		"attrType" : 4,
+		"costContribution" : 2917,
+		"level" : 15
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 625,
+		"costContribution" : 2917,
+		"level" : 15,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 625,
+		"costContribution" : 2917,
+		"level" : 15,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 625,
+		"costContribution" : 2917,
+		"level" : 15,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 625,
+		"costContribution" : 2917,
+		"level" : 15,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 800,
+		"attrType" : 1,
+		"costContribution" : 6167,
+		"level" : 16
+	},
+	
+	{
+		"attrRate" : 800,
+		"attrType" : 2,
+		"costContribution" : 6167,
+		"level" : 16
+	},
+	
+	{
+		"attrRate" : 800,
+		"attrType" : 3,
+		"costContribution" : 3083,
+		"level" : 16
+	},
+	
+	{
+		"attrRate" : 800,
+		"attrType" : 4,
+		"costContribution" : 3083,
+		"level" : 16
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 667,
+		"costContribution" : 3083,
+		"level" : 16,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 667,
+		"costContribution" : 3083,
+		"level" : 16,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 667,
+		"costContribution" : 3083,
+		"level" : 16,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 667,
+		"costContribution" : 3083,
+		"level" : 16,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 850,
+		"attrType" : 1,
+		"costContribution" : 6500,
+		"level" : 17
+	},
+	
+	{
+		"attrRate" : 850,
+		"attrType" : 2,
+		"costContribution" : 6500,
+		"level" : 17
+	},
+	
+	{
+		"attrRate" : 850,
+		"attrType" : 3,
+		"costContribution" : 3250,
+		"level" : 17
+	},
+	
+	{
+		"attrRate" : 850,
+		"attrType" : 4,
+		"costContribution" : 3250,
+		"level" : 17
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 708,
+		"costContribution" : 3250,
+		"level" : 17,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 708,
+		"costContribution" : 3250,
+		"level" : 17,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 708,
+		"costContribution" : 3250,
+		"level" : 17,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 708,
+		"costContribution" : 3250,
+		"level" : 17,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 900,
+		"attrType" : 1,
+		"costContribution" : 6833,
+		"level" : 18
+	},
+	
+	{
+		"attrRate" : 900,
+		"attrType" : 2,
+		"costContribution" : 6833,
+		"level" : 18
+	},
+	
+	{
+		"attrRate" : 900,
+		"attrType" : 3,
+		"costContribution" : 3417,
+		"level" : 18
+	},
+	
+	{
+		"attrRate" : 900,
+		"attrType" : 4,
+		"costContribution" : 3417,
+		"level" : 18
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 750,
+		"costContribution" : 3417,
+		"level" : 18,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 750,
+		"costContribution" : 3417,
+		"level" : 18,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 750,
+		"costContribution" : 3417,
+		"level" : 18,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 750,
+		"costContribution" : 3417,
+		"level" : 18,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 950,
+		"attrType" : 1,
+		"costContribution" : 7167,
+		"level" : 19
+	},
+	
+	{
+		"attrRate" : 950,
+		"attrType" : 2,
+		"costContribution" : 7167,
+		"level" : 19
+	},
+	
+	{
+		"attrRate" : 950,
+		"attrType" : 3,
+		"costContribution" : 3583,
+		"level" : 19
+	},
+	
+	{
+		"attrRate" : 950,
+		"attrType" : 4,
+		"costContribution" : 3583,
+		"level" : 19
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 792,
+		"costContribution" : 3583,
+		"level" : 19,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 792,
+		"costContribution" : 3583,
+		"level" : 19,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 792,
+		"costContribution" : 3583,
+		"level" : 19,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 792,
+		"costContribution" : 3583,
+		"level" : 19,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 1000,
+		"attrType" : 1,
+		"costContribution" : 7500,
+		"level" : 20
+	},
+	
+	{
+		"attrRate" : 1000,
+		"attrType" : 2,
+		"costContribution" : 7500,
+		"level" : 20
+	},
+	
+	{
+		"attrRate" : 1000,
+		"attrType" : 3,
+		"costContribution" : 3750,
+		"level" : 20
+	},
+	
+	{
+		"attrRate" : 1000,
+		"attrType" : 4,
+		"costContribution" : 3750,
+		"level" : 20
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 833,
+		"costContribution" : 3750,
+		"level" : 20,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 833,
+		"costContribution" : 3750,
+		"level" : 20,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 833,
+		"costContribution" : 3750,
+		"level" : 20,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 833,
+		"costContribution" : 3750,
+		"level" : 20,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 1050,
+		"attrType" : 1,
+		"costContribution" : 7833,
+		"level" : 21
+	},
+	
+	{
+		"attrRate" : 1050,
+		"attrType" : 2,
+		"costContribution" : 7833,
+		"level" : 21
+	},
+	
+	{
+		"attrRate" : 1050,
+		"attrType" : 3,
+		"costContribution" : 3917,
+		"level" : 21
+	},
+	
+	{
+		"attrRate" : 1050,
+		"attrType" : 4,
+		"costContribution" : 3917,
+		"level" : 21
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 875,
+		"costContribution" : 3917,
+		"level" : 21,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 875,
+		"costContribution" : 3917,
+		"level" : 21,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 875,
+		"costContribution" : 3917,
+		"level" : 21,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 875,
+		"costContribution" : 3917,
+		"level" : 21,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 1100,
+		"attrType" : 1,
+		"costContribution" : 8167,
+		"level" : 22
+	},
+	
+	{
+		"attrRate" : 1100,
+		"attrType" : 2,
+		"costContribution" : 8167,
+		"level" : 22
+	},
+	
+	{
+		"attrRate" : 1100,
+		"attrType" : 3,
+		"costContribution" : 4083,
+		"level" : 22
+	},
+	
+	{
+		"attrRate" : 1100,
+		"attrType" : 4,
+		"costContribution" : 4083,
+		"level" : 22
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 917,
+		"costContribution" : 4083,
+		"level" : 22,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 917,
+		"costContribution" : 4083,
+		"level" : 22,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 917,
+		"costContribution" : 4083,
+		"level" : 22,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 917,
+		"costContribution" : 4083,
+		"level" : 22,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 1150,
+		"attrType" : 1,
+		"costContribution" : 8500,
+		"level" : 23
+	},
+	
+	{
+		"attrRate" : 1150,
+		"attrType" : 2,
+		"costContribution" : 8500,
+		"level" : 23
+	},
+	
+	{
+		"attrRate" : 1150,
+		"attrType" : 3,
+		"costContribution" : 4250,
+		"level" : 23
+	},
+	
+	{
+		"attrRate" : 1150,
+		"attrType" : 4,
+		"costContribution" : 4250,
+		"level" : 23
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 958,
+		"costContribution" : 4250,
+		"level" : 23,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 958,
+		"costContribution" : 4250,
+		"level" : 23,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 958,
+		"costContribution" : 4250,
+		"level" : 23,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 958,
+		"costContribution" : 4250,
+		"level" : 23,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 1200,
+		"attrType" : 1,
+		"costContribution" : 8833,
+		"level" : 24
+	},
+	
+	{
+		"attrRate" : 1200,
+		"attrType" : 2,
+		"costContribution" : 8833,
+		"level" : 24
+	},
+	
+	{
+		"attrRate" : 1200,
+		"attrType" : 3,
+		"costContribution" : 4417,
+		"level" : 24
+	},
+	
+	{
+		"attrRate" : 1200,
+		"attrType" : 4,
+		"costContribution" : 4417,
+		"level" : 24
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 1000,
+		"costContribution" : 4417,
+		"level" : 24,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 1000,
+		"costContribution" : 4417,
+		"level" : 24,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 1000,
+		"costContribution" : 4417,
+		"level" : 24,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 1000,
+		"costContribution" : 4417,
+		"level" : 24,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 1250,
+		"attrType" : 1,
+		"costContribution" : 9167,
+		"level" : 25
+	},
+	
+	{
+		"attrRate" : 1250,
+		"attrType" : 2,
+		"costContribution" : 9167,
+		"level" : 25
+	},
+	
+	{
+		"attrRate" : 1250,
+		"attrType" : 3,
+		"costContribution" : 4583,
+		"level" : 25
+	},
+	
+	{
+		"attrRate" : 1250,
+		"attrType" : 4,
+		"costContribution" : 4583,
+		"level" : 25
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 1042,
+		"costContribution" : 4583,
+		"level" : 25,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 1042,
+		"costContribution" : 4583,
+		"level" : 25,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 1042,
+		"costContribution" : 4583,
+		"level" : 25,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 1042,
+		"costContribution" : 4583,
+		"level" : 25,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 1300,
+		"attrType" : 1,
+		"costContribution" : 9500,
+		"level" : 26
+	},
+	
+	{
+		"attrRate" : 1300,
+		"attrType" : 2,
+		"costContribution" : 9500,
+		"level" : 26
+	},
+	
+	{
+		"attrRate" : 1300,
+		"attrType" : 3,
+		"costContribution" : 4750,
+		"level" : 26
+	},
+	
+	{
+		"attrRate" : 1300,
+		"attrType" : 4,
+		"costContribution" : 4750,
+		"level" : 26
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 1083,
+		"costContribution" : 4750,
+		"level" : 26,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 1083,
+		"costContribution" : 4750,
+		"level" : 26,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 1083,
+		"costContribution" : 4750,
+		"level" : 26,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 1083,
+		"costContribution" : 4750,
+		"level" : 26,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 1350,
+		"attrType" : 1,
+		"costContribution" : 9833,
+		"level" : 27
+	},
+	
+	{
+		"attrRate" : 1350,
+		"attrType" : 2,
+		"costContribution" : 9833,
+		"level" : 27
+	},
+	
+	{
+		"attrRate" : 1350,
+		"attrType" : 3,
+		"costContribution" : 4917,
+		"level" : 27
+	},
+	
+	{
+		"attrRate" : 1350,
+		"attrType" : 4,
+		"costContribution" : 4917,
+		"level" : 27
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 1125,
+		"costContribution" : 4917,
+		"level" : 27,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 1125,
+		"costContribution" : 4917,
+		"level" : 27,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 1125,
+		"costContribution" : 4917,
+		"level" : 27,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 1125,
+		"costContribution" : 4917,
+		"level" : 27,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 1400,
+		"attrType" : 1,
+		"costContribution" : 10167,
+		"level" : 28
+	},
+	
+	{
+		"attrRate" : 1400,
+		"attrType" : 2,
+		"costContribution" : 10167,
+		"level" : 28
+	},
+	
+	{
+		"attrRate" : 1400,
+		"attrType" : 3,
+		"costContribution" : 5083,
+		"level" : 28
+	},
+	
+	{
+		"attrRate" : 1400,
+		"attrType" : 4,
+		"costContribution" : 5083,
+		"level" : 28
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 1167,
+		"costContribution" : 5083,
+		"level" : 28,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 1167,
+		"costContribution" : 5083,
+		"level" : 28,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 1167,
+		"costContribution" : 5083,
+		"level" : 28,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 1167,
+		"costContribution" : 5083,
+		"level" : 28,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 1450,
+		"attrType" : 1,
+		"costContribution" : 10500,
+		"level" : 29
+	},
+	
+	{
+		"attrRate" : 1450,
+		"attrType" : 2,
+		"costContribution" : 10500,
+		"level" : 29
+	},
+	
+	{
+		"attrRate" : 1450,
+		"attrType" : 3,
+		"costContribution" : 5250,
+		"level" : 29
+	},
+	
+	{
+		"attrRate" : 1450,
+		"attrType" : 4,
+		"costContribution" : 5250,
+		"level" : 29
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 1208,
+		"costContribution" : 5250,
+		"level" : 29,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 1208,
+		"costContribution" : 5250,
+		"level" : 29,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 1208,
+		"costContribution" : 5250,
+		"level" : 29,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 1208,
+		"costContribution" : 5250,
+		"level" : 29,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 1500,
+		"attrType" : 1,
+		"costContribution" : 10833,
+		"level" : 30
+	},
+	
+	{
+		"attrRate" : 1500,
+		"attrType" : 2,
+		"costContribution" : 10833,
+		"level" : 30
+	},
+	
+	{
+		"attrRate" : 1500,
+		"attrType" : 3,
+		"costContribution" : 5417,
+		"level" : 30
+	},
+	
+	{
+		"attrRate" : 1500,
+		"attrType" : 4,
+		"costContribution" : 5417,
+		"level" : 30
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 1250,
+		"costContribution" : 5417,
+		"level" : 30,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 1250,
+		"costContribution" : 5417,
+		"level" : 30,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 1250,
+		"costContribution" : 5417,
+		"level" : 30,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 1250,
+		"costContribution" : 5417,
+		"level" : 30,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 1550,
+		"attrType" : 1,
+		"costContribution" : 11167,
+		"level" : 31
+	},
+	
+	{
+		"attrRate" : 1550,
+		"attrType" : 2,
+		"costContribution" : 11167,
+		"level" : 31
+	},
+	
+	{
+		"attrRate" : 1550,
+		"attrType" : 3,
+		"costContribution" : 5583,
+		"level" : 31
+	},
+	
+	{
+		"attrRate" : 1550,
+		"attrType" : 4,
+		"costContribution" : 5583,
+		"level" : 31
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 1292,
+		"costContribution" : 5583,
+		"level" : 31,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 1292,
+		"costContribution" : 5583,
+		"level" : 31,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 1292,
+		"costContribution" : 5583,
+		"level" : 31,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 1292,
+		"costContribution" : 5583,
+		"level" : 31,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 1600,
+		"attrType" : 1,
+		"costContribution" : 11500,
+		"level" : 32
+	},
+	
+	{
+		"attrRate" : 1600,
+		"attrType" : 2,
+		"costContribution" : 11500,
+		"level" : 32
+	},
+	
+	{
+		"attrRate" : 1600,
+		"attrType" : 3,
+		"costContribution" : 5750,
+		"level" : 32
+	},
+	
+	{
+		"attrRate" : 1600,
+		"attrType" : 4,
+		"costContribution" : 5750,
+		"level" : 32
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 1333,
+		"costContribution" : 5750,
+		"level" : 32,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 1333,
+		"costContribution" : 5750,
+		"level" : 32,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 1333,
+		"costContribution" : 5750,
+		"level" : 32,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 1333,
+		"costContribution" : 5750,
+		"level" : 32,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 1650,
+		"attrType" : 1,
+		"costContribution" : 11833,
+		"level" : 33
+	},
+	
+	{
+		"attrRate" : 1650,
+		"attrType" : 2,
+		"costContribution" : 11833,
+		"level" : 33
+	},
+	
+	{
+		"attrRate" : 1650,
+		"attrType" : 3,
+		"costContribution" : 5917,
+		"level" : 33
+	},
+	
+	{
+		"attrRate" : 1650,
+		"attrType" : 4,
+		"costContribution" : 5917,
+		"level" : 33
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 1375,
+		"costContribution" : 5917,
+		"level" : 33,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 1375,
+		"costContribution" : 5917,
+		"level" : 33,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 1375,
+		"costContribution" : 5917,
+		"level" : 33,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 1375,
+		"costContribution" : 5917,
+		"level" : 33,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 1700,
+		"attrType" : 1,
+		"costContribution" : 12167,
+		"level" : 34
+	},
+	
+	{
+		"attrRate" : 1700,
+		"attrType" : 2,
+		"costContribution" : 12167,
+		"level" : 34
+	},
+	
+	{
+		"attrRate" : 1700,
+		"attrType" : 3,
+		"costContribution" : 6083,
+		"level" : 34
+	},
+	
+	{
+		"attrRate" : 1700,
+		"attrType" : 4,
+		"costContribution" : 6083,
+		"level" : 34
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 1417,
+		"costContribution" : 6083,
+		"level" : 34,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 1417,
+		"costContribution" : 6083,
+		"level" : 34,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 1417,
+		"costContribution" : 6083,
+		"level" : 34,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 1417,
+		"costContribution" : 6083,
+		"level" : 34,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 1750,
+		"attrType" : 1,
+		"costContribution" : 12500,
+		"level" : 35
+	},
+	
+	{
+		"attrRate" : 1750,
+		"attrType" : 2,
+		"costContribution" : 12500,
+		"level" : 35
+	},
+	
+	{
+		"attrRate" : 1750,
+		"attrType" : 3,
+		"costContribution" : 6250,
+		"level" : 35
+	},
+	
+	{
+		"attrRate" : 1750,
+		"attrType" : 4,
+		"costContribution" : 6250,
+		"level" : 35
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 1458,
+		"costContribution" : 6250,
+		"level" : 35,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 1458,
+		"costContribution" : 6250,
+		"level" : 35,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 1458,
+		"costContribution" : 6250,
+		"level" : 35,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 1458,
+		"costContribution" : 6250,
+		"level" : 35,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 1800,
+		"attrType" : 1,
+		"costContribution" : 12833,
+		"level" : 36
+	},
+	
+	{
+		"attrRate" : 1800,
+		"attrType" : 2,
+		"costContribution" : 12833,
+		"level" : 36
+	},
+	
+	{
+		"attrRate" : 1800,
+		"attrType" : 3,
+		"costContribution" : 6417,
+		"level" : 36
+	},
+	
+	{
+		"attrRate" : 1800,
+		"attrType" : 4,
+		"costContribution" : 6417,
+		"level" : 36
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 1500,
+		"costContribution" : 6417,
+		"level" : 36,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 1500,
+		"costContribution" : 6417,
+		"level" : 36,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 1500,
+		"costContribution" : 6417,
+		"level" : 36,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 1500,
+		"costContribution" : 6417,
+		"level" : 36,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 1850,
+		"attrType" : 1,
+		"costContribution" : 13167,
+		"level" : 37
+	},
+	
+	{
+		"attrRate" : 1850,
+		"attrType" : 2,
+		"costContribution" : 13167,
+		"level" : 37
+	},
+	
+	{
+		"attrRate" : 1850,
+		"attrType" : 3,
+		"costContribution" : 6583,
+		"level" : 37
+	},
+	
+	{
+		"attrRate" : 1850,
+		"attrType" : 4,
+		"costContribution" : 6583,
+		"level" : 37
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 1542,
+		"costContribution" : 6583,
+		"level" : 37,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 1542,
+		"costContribution" : 6583,
+		"level" : 37,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 1542,
+		"costContribution" : 6583,
+		"level" : 37,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 1542,
+		"costContribution" : 6583,
+		"level" : 37,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 1900,
+		"attrType" : 1,
+		"costContribution" : 13500,
+		"level" : 38
+	},
+	
+	{
+		"attrRate" : 1900,
+		"attrType" : 2,
+		"costContribution" : 13500,
+		"level" : 38
+	},
+	
+	{
+		"attrRate" : 1900,
+		"attrType" : 3,
+		"costContribution" : 6750,
+		"level" : 38
+	},
+	
+	{
+		"attrRate" : 1900,
+		"attrType" : 4,
+		"costContribution" : 6750,
+		"level" : 38
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 1583,
+		"costContribution" : 6750,
+		"level" : 38,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 1583,
+		"costContribution" : 6750,
+		"level" : 38,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 1583,
+		"costContribution" : 6750,
+		"level" : 38,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 1583,
+		"costContribution" : 6750,
+		"level" : 38,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 1950,
+		"attrType" : 1,
+		"costContribution" : 13833,
+		"level" : 39
+	},
+	
+	{
+		"attrRate" : 1950,
+		"attrType" : 2,
+		"costContribution" : 13833,
+		"level" : 39
+	},
+	
+	{
+		"attrRate" : 1950,
+		"attrType" : 3,
+		"costContribution" : 6917,
+		"level" : 39
+	},
+	
+	{
+		"attrRate" : 1950,
+		"attrType" : 4,
+		"costContribution" : 6917,
+		"level" : 39
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 1625,
+		"costContribution" : 6917,
+		"level" : 39,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 1625,
+		"costContribution" : 6917,
+		"level" : 39,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 1625,
+		"costContribution" : 6917,
+		"level" : 39,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 1625,
+		"costContribution" : 6917,
+		"level" : 39,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 2000,
+		"attrType" : 1,
+		"costContribution" : 14167,
+		"level" : 40
+	},
+	
+	{
+		"attrRate" : 2000,
+		"attrType" : 2,
+		"costContribution" : 14167,
+		"level" : 40
+	},
+	
+	{
+		"attrRate" : 2000,
+		"attrType" : 3,
+		"costContribution" : 7083,
+		"level" : 40
+	},
+	
+	{
+		"attrRate" : 2000,
+		"attrType" : 4,
+		"costContribution" : 7083,
+		"level" : 40
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 1667,
+		"costContribution" : 7083,
+		"level" : 40,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 1667,
+		"costContribution" : 7083,
+		"level" : 40,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 1667,
+		"costContribution" : 7083,
+		"level" : 40,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 1667,
+		"costContribution" : 7083,
+		"level" : 40,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 2050,
+		"attrType" : 1,
+		"costContribution" : 14500,
+		"level" : 41
+	},
+	
+	{
+		"attrRate" : 2050,
+		"attrType" : 2,
+		"costContribution" : 14500,
+		"level" : 41
+	},
+	
+	{
+		"attrRate" : 2050,
+		"attrType" : 3,
+		"costContribution" : 7250,
+		"level" : 41
+	},
+	
+	{
+		"attrRate" : 2050,
+		"attrType" : 4,
+		"costContribution" : 7250,
+		"level" : 41
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 1708,
+		"costContribution" : 7250,
+		"level" : 41,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 1708,
+		"costContribution" : 7250,
+		"level" : 41,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 1708,
+		"costContribution" : 7250,
+		"level" : 41,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 1708,
+		"costContribution" : 7250,
+		"level" : 41,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 2100,
+		"attrType" : 1,
+		"costContribution" : 14833,
+		"level" : 42
+	},
+	
+	{
+		"attrRate" : 2100,
+		"attrType" : 2,
+		"costContribution" : 14833,
+		"level" : 42
+	},
+	
+	{
+		"attrRate" : 2100,
+		"attrType" : 3,
+		"costContribution" : 7417,
+		"level" : 42
+	},
+	
+	{
+		"attrRate" : 2100,
+		"attrType" : 4,
+		"costContribution" : 7417,
+		"level" : 42
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 1750,
+		"costContribution" : 7417,
+		"level" : 42,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 1750,
+		"costContribution" : 7417,
+		"level" : 42,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 1750,
+		"costContribution" : 7417,
+		"level" : 42,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 1750,
+		"costContribution" : 7417,
+		"level" : 42,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 2150,
+		"attrType" : 1,
+		"costContribution" : 15167,
+		"level" : 43
+	},
+	
+	{
+		"attrRate" : 2150,
+		"attrType" : 2,
+		"costContribution" : 15167,
+		"level" : 43
+	},
+	
+	{
+		"attrRate" : 2150,
+		"attrType" : 3,
+		"costContribution" : 7583,
+		"level" : 43
+	},
+	
+	{
+		"attrRate" : 2150,
+		"attrType" : 4,
+		"costContribution" : 7583,
+		"level" : 43
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 1792,
+		"costContribution" : 7583,
+		"level" : 43,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 1792,
+		"costContribution" : 7583,
+		"level" : 43,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 1792,
+		"costContribution" : 7583,
+		"level" : 43,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 1792,
+		"costContribution" : 7583,
+		"level" : 43,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 2200,
+		"attrType" : 1,
+		"costContribution" : 15500,
+		"level" : 44
+	},
+	
+	{
+		"attrRate" : 2200,
+		"attrType" : 2,
+		"costContribution" : 15500,
+		"level" : 44
+	},
+	
+	{
+		"attrRate" : 2200,
+		"attrType" : 3,
+		"costContribution" : 7750,
+		"level" : 44
+	},
+	
+	{
+		"attrRate" : 2200,
+		"attrType" : 4,
+		"costContribution" : 7750,
+		"level" : 44
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 1833,
+		"costContribution" : 7750,
+		"level" : 44,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 1833,
+		"costContribution" : 7750,
+		"level" : 44,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 1833,
+		"costContribution" : 7750,
+		"level" : 44,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 1833,
+		"costContribution" : 7750,
+		"level" : 44,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 2250,
+		"attrType" : 1,
+		"costContribution" : 15833,
+		"level" : 45
+	},
+	
+	{
+		"attrRate" : 2250,
+		"attrType" : 2,
+		"costContribution" : 15833,
+		"level" : 45
+	},
+	
+	{
+		"attrRate" : 2250,
+		"attrType" : 3,
+		"costContribution" : 7917,
+		"level" : 45
+	},
+	
+	{
+		"attrRate" : 2250,
+		"attrType" : 4,
+		"costContribution" : 7917,
+		"level" : 45
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 1875,
+		"costContribution" : 7917,
+		"level" : 45,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 1875,
+		"costContribution" : 7917,
+		"level" : 45,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 1875,
+		"costContribution" : 7917,
+		"level" : 45,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 1875,
+		"costContribution" : 7917,
+		"level" : 45,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 2300,
+		"attrType" : 1,
+		"costContribution" : 16167,
+		"level" : 46
+	},
+	
+	{
+		"attrRate" : 2300,
+		"attrType" : 2,
+		"costContribution" : 16167,
+		"level" : 46
+	},
+	
+	{
+		"attrRate" : 2300,
+		"attrType" : 3,
+		"costContribution" : 8083,
+		"level" : 46
+	},
+	
+	{
+		"attrRate" : 2300,
+		"attrType" : 4,
+		"costContribution" : 8083,
+		"level" : 46
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 1917,
+		"costContribution" : 8083,
+		"level" : 46,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 1917,
+		"costContribution" : 8083,
+		"level" : 46,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 1917,
+		"costContribution" : 8083,
+		"level" : 46,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 1917,
+		"costContribution" : 8083,
+		"level" : 46,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 2350,
+		"attrType" : 1,
+		"costContribution" : 16500,
+		"level" : 47
+	},
+	
+	{
+		"attrRate" : 2350,
+		"attrType" : 2,
+		"costContribution" : 16500,
+		"level" : 47
+	},
+	
+	{
+		"attrRate" : 2350,
+		"attrType" : 3,
+		"costContribution" : 8250,
+		"level" : 47
+	},
+	
+	{
+		"attrRate" : 2350,
+		"attrType" : 4,
+		"costContribution" : 8250,
+		"level" : 47
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 1958,
+		"costContribution" : 8250,
+		"level" : 47,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 1958,
+		"costContribution" : 8250,
+		"level" : 47,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 1958,
+		"costContribution" : 8250,
+		"level" : 47,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 1958,
+		"costContribution" : 8250,
+		"level" : 47,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 2400,
+		"attrType" : 1,
+		"costContribution" : 16833,
+		"level" : 48
+	},
+	
+	{
+		"attrRate" : 2400,
+		"attrType" : 2,
+		"costContribution" : 16833,
+		"level" : 48
+	},
+	
+	{
+		"attrRate" : 2400,
+		"attrType" : 3,
+		"costContribution" : 8417,
+		"level" : 48
+	},
+	
+	{
+		"attrRate" : 2400,
+		"attrType" : 4,
+		"costContribution" : 8417,
+		"level" : 48
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 2000,
+		"costContribution" : 8417,
+		"level" : 48,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 2000,
+		"costContribution" : 8417,
+		"level" : 48,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 2000,
+		"costContribution" : 8417,
+		"level" : 48,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 2000,
+		"costContribution" : 8417,
+		"level" : 48,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 2450,
+		"attrType" : 1,
+		"costContribution" : 17167,
+		"level" : 49
+	},
+	
+	{
+		"attrRate" : 2450,
+		"attrType" : 2,
+		"costContribution" : 17167,
+		"level" : 49
+	},
+	
+	{
+		"attrRate" : 2450,
+		"attrType" : 3,
+		"costContribution" : 8583,
+		"level" : 49
+	},
+	
+	{
+		"attrRate" : 2450,
+		"attrType" : 4,
+		"costContribution" : 8583,
+		"level" : 49
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 2042,
+		"costContribution" : 8583,
+		"level" : 49,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 2042,
+		"costContribution" : 8583,
+		"level" : 49,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 2042,
+		"costContribution" : 8583,
+		"level" : 49,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 2042,
+		"costContribution" : 8583,
+		"level" : 49,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 2500,
+		"attrType" : 1,
+		"costContribution" : 17500,
+		"level" : 50
+	},
+	
+	{
+		"attrRate" : 2500,
+		"attrType" : 2,
+		"costContribution" : 17500,
+		"level" : 50
+	},
+	
+	{
+		"attrRate" : 2500,
+		"attrType" : 3,
+		"costContribution" : 8750,
+		"level" : 50
+	},
+	
+	{
+		"attrRate" : 2500,
+		"attrType" : 4,
+		"costContribution" : 8750,
+		"level" : 50
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 2083,
+		"costContribution" : 8750,
+		"level" : 50,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 2083,
+		"costContribution" : 8750,
+		"level" : 50,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 2083,
+		"costContribution" : 8750,
+		"level" : 50,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 2083,
+		"costContribution" : 8750,
+		"level" : 50,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 2550,
+		"attrType" : 1,
+		"costContribution" : 17833,
+		"level" : 51
+	},
+	
+	{
+		"attrRate" : 2550,
+		"attrType" : 2,
+		"costContribution" : 17833,
+		"level" : 51
+	},
+	
+	{
+		"attrRate" : 2550,
+		"attrType" : 3,
+		"costContribution" : 8917,
+		"level" : 51
+	},
+	
+	{
+		"attrRate" : 2550,
+		"attrType" : 4,
+		"costContribution" : 8917,
+		"level" : 51
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 2125,
+		"costContribution" : 8917,
+		"level" : 51,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 2125,
+		"costContribution" : 8917,
+		"level" : 51,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 2125,
+		"costContribution" : 8917,
+		"level" : 51,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 2125,
+		"costContribution" : 8917,
+		"level" : 51,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 2600,
+		"attrType" : 1,
+		"costContribution" : 18167,
+		"level" : 52
+	},
+	
+	{
+		"attrRate" : 2600,
+		"attrType" : 2,
+		"costContribution" : 18167,
+		"level" : 52
+	},
+	
+	{
+		"attrRate" : 2600,
+		"attrType" : 3,
+		"costContribution" : 9083,
+		"level" : 52
+	},
+	
+	{
+		"attrRate" : 2600,
+		"attrType" : 4,
+		"costContribution" : 9083,
+		"level" : 52
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 2167,
+		"costContribution" : 9083,
+		"level" : 52,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 2167,
+		"costContribution" : 9083,
+		"level" : 52,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 2167,
+		"costContribution" : 9083,
+		"level" : 52,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 2167,
+		"costContribution" : 9083,
+		"level" : 52,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 2650,
+		"attrType" : 1,
+		"costContribution" : 18500,
+		"level" : 53
+	},
+	
+	{
+		"attrRate" : 2650,
+		"attrType" : 2,
+		"costContribution" : 18500,
+		"level" : 53
+	},
+	
+	{
+		"attrRate" : 2650,
+		"attrType" : 3,
+		"costContribution" : 9250,
+		"level" : 53
+	},
+	
+	{
+		"attrRate" : 2650,
+		"attrType" : 4,
+		"costContribution" : 9250,
+		"level" : 53
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 2208,
+		"costContribution" : 9250,
+		"level" : 53,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 2208,
+		"costContribution" : 9250,
+		"level" : 53,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 2208,
+		"costContribution" : 9250,
+		"level" : 53,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 2208,
+		"costContribution" : 9250,
+		"level" : 53,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 2700,
+		"attrType" : 1,
+		"costContribution" : 18833,
+		"level" : 54
+	},
+	
+	{
+		"attrRate" : 2700,
+		"attrType" : 2,
+		"costContribution" : 18833,
+		"level" : 54
+	},
+	
+	{
+		"attrRate" : 2700,
+		"attrType" : 3,
+		"costContribution" : 9417,
+		"level" : 54
+	},
+	
+	{
+		"attrRate" : 2700,
+		"attrType" : 4,
+		"costContribution" : 9417,
+		"level" : 54
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 2250,
+		"costContribution" : 9417,
+		"level" : 54,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 2250,
+		"costContribution" : 9417,
+		"level" : 54,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 2250,
+		"costContribution" : 9417,
+		"level" : 54,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 2250,
+		"costContribution" : 9417,
+		"level" : 54,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 2750,
+		"attrType" : 1,
+		"costContribution" : 19167,
+		"level" : 55
+	},
+	
+	{
+		"attrRate" : 2750,
+		"attrType" : 2,
+		"costContribution" : 19167,
+		"level" : 55
+	},
+	
+	{
+		"attrRate" : 2750,
+		"attrType" : 3,
+		"costContribution" : 9583,
+		"level" : 55
+	},
+	
+	{
+		"attrRate" : 2750,
+		"attrType" : 4,
+		"costContribution" : 9583,
+		"level" : 55
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 2292,
+		"costContribution" : 9583,
+		"level" : 55,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 2292,
+		"costContribution" : 9583,
+		"level" : 55,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 2292,
+		"costContribution" : 9583,
+		"level" : 55,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 2292,
+		"costContribution" : 9583,
+		"level" : 55,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 2800,
+		"attrType" : 1,
+		"costContribution" : 19500,
+		"level" : 56
+	},
+	
+	{
+		"attrRate" : 2800,
+		"attrType" : 2,
+		"costContribution" : 19500,
+		"level" : 56
+	},
+	
+	{
+		"attrRate" : 2800,
+		"attrType" : 3,
+		"costContribution" : 9750,
+		"level" : 56
+	},
+	
+	{
+		"attrRate" : 2800,
+		"attrType" : 4,
+		"costContribution" : 9750,
+		"level" : 56
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 2333,
+		"costContribution" : 9750,
+		"level" : 56,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 2333,
+		"costContribution" : 9750,
+		"level" : 56,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 2333,
+		"costContribution" : 9750,
+		"level" : 56,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 2333,
+		"costContribution" : 9750,
+		"level" : 56,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 2850,
+		"attrType" : 1,
+		"costContribution" : 19833,
+		"level" : 57
+	},
+	
+	{
+		"attrRate" : 2850,
+		"attrType" : 2,
+		"costContribution" : 19833,
+		"level" : 57
+	},
+	
+	{
+		"attrRate" : 2850,
+		"attrType" : 3,
+		"costContribution" : 9917,
+		"level" : 57
+	},
+	
+	{
+		"attrRate" : 2850,
+		"attrType" : 4,
+		"costContribution" : 9917,
+		"level" : 57
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 2375,
+		"costContribution" : 9917,
+		"level" : 57,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 2375,
+		"costContribution" : 9917,
+		"level" : 57,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 2375,
+		"costContribution" : 9917,
+		"level" : 57,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 2375,
+		"costContribution" : 9917,
+		"level" : 57,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 2900,
+		"attrType" : 1,
+		"costContribution" : 20167,
+		"level" : 58
+	},
+	
+	{
+		"attrRate" : 2900,
+		"attrType" : 2,
+		"costContribution" : 20167,
+		"level" : 58
+	},
+	
+	{
+		"attrRate" : 2900,
+		"attrType" : 3,
+		"costContribution" : 10083,
+		"level" : 58
+	},
+	
+	{
+		"attrRate" : 2900,
+		"attrType" : 4,
+		"costContribution" : 10083,
+		"level" : 58
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 2417,
+		"costContribution" : 10083,
+		"level" : 58,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 2417,
+		"costContribution" : 10083,
+		"level" : 58,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 2417,
+		"costContribution" : 10083,
+		"level" : 58,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 2417,
+		"costContribution" : 10083,
+		"level" : 58,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 2950,
+		"attrType" : 1,
+		"costContribution" : 20500,
+		"level" : 59
+	},
+	
+	{
+		"attrRate" : 2950,
+		"attrType" : 2,
+		"costContribution" : 20500,
+		"level" : 59
+	},
+	
+	{
+		"attrRate" : 2950,
+		"attrType" : 3,
+		"costContribution" : 10250,
+		"level" : 59
+	},
+	
+	{
+		"attrRate" : 2950,
+		"attrType" : 4,
+		"costContribution" : 10250,
+		"level" : 59
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 2458,
+		"costContribution" : 10250,
+		"level" : 59,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 2458,
+		"costContribution" : 10250,
+		"level" : 59,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 2458,
+		"costContribution" : 10250,
+		"level" : 59,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 2458,
+		"costContribution" : 10250,
+		"level" : 59,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 3000,
+		"attrType" : 1,
+		"costContribution" : 20833,
+		"level" : 60
+	},
+	
+	{
+		"attrRate" : 3000,
+		"attrType" : 2,
+		"costContribution" : 20833,
+		"level" : 60
+	},
+	
+	{
+		"attrRate" : 3000,
+		"attrType" : 3,
+		"costContribution" : 10417,
+		"level" : 60
+	},
+	
+	{
+		"attrRate" : 3000,
+		"attrType" : 4,
+		"costContribution" : 10417,
+		"level" : 60
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 2500,
+		"costContribution" : 10417,
+		"level" : 60,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 2500,
+		"costContribution" : 10417,
+		"level" : 60,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 2500,
+		"costContribution" : 10417,
+		"level" : 60,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 2500,
+		"costContribution" : 10417,
+		"level" : 60,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 3050,
+		"attrType" : 1,
+		"costContribution" : 21167,
+		"level" : 61
+	},
+	
+	{
+		"attrRate" : 3050,
+		"attrType" : 2,
+		"costContribution" : 21167,
+		"level" : 61
+	},
+	
+	{
+		"attrRate" : 3050,
+		"attrType" : 3,
+		"costContribution" : 10583,
+		"level" : 61
+	},
+	
+	{
+		"attrRate" : 3050,
+		"attrType" : 4,
+		"costContribution" : 10583,
+		"level" : 61
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 2542,
+		"costContribution" : 10583,
+		"level" : 61,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 2542,
+		"costContribution" : 10583,
+		"level" : 61,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 2542,
+		"costContribution" : 10583,
+		"level" : 61,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 2542,
+		"costContribution" : 10583,
+		"level" : 61,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 3100,
+		"attrType" : 1,
+		"costContribution" : 21500,
+		"level" : 62
+	},
+	
+	{
+		"attrRate" : 3100,
+		"attrType" : 2,
+		"costContribution" : 21500,
+		"level" : 62
+	},
+	
+	{
+		"attrRate" : 3100,
+		"attrType" : 3,
+		"costContribution" : 10750,
+		"level" : 62
+	},
+	
+	{
+		"attrRate" : 3100,
+		"attrType" : 4,
+		"costContribution" : 10750,
+		"level" : 62
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 2583,
+		"costContribution" : 10750,
+		"level" : 62,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 2583,
+		"costContribution" : 10750,
+		"level" : 62,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 2583,
+		"costContribution" : 10750,
+		"level" : 62,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 2583,
+		"costContribution" : 10750,
+		"level" : 62,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 3150,
+		"attrType" : 1,
+		"costContribution" : 21833,
+		"level" : 63
+	},
+	
+	{
+		"attrRate" : 3150,
+		"attrType" : 2,
+		"costContribution" : 21833,
+		"level" : 63
+	},
+	
+	{
+		"attrRate" : 3150,
+		"attrType" : 3,
+		"costContribution" : 10917,
+		"level" : 63
+	},
+	
+	{
+		"attrRate" : 3150,
+		"attrType" : 4,
+		"costContribution" : 10917,
+		"level" : 63
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 2625,
+		"costContribution" : 10917,
+		"level" : 63,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 2625,
+		"costContribution" : 10917,
+		"level" : 63,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 2625,
+		"costContribution" : 10917,
+		"level" : 63,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 2625,
+		"costContribution" : 10917,
+		"level" : 63,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 3200,
+		"attrType" : 1,
+		"costContribution" : 22167,
+		"level" : 64
+	},
+	
+	{
+		"attrRate" : 3200,
+		"attrType" : 2,
+		"costContribution" : 22167,
+		"level" : 64
+	},
+	
+	{
+		"attrRate" : 3200,
+		"attrType" : 3,
+		"costContribution" : 11083,
+		"level" : 64
+	},
+	
+	{
+		"attrRate" : 3200,
+		"attrType" : 4,
+		"costContribution" : 11083,
+		"level" : 64
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 2667,
+		"costContribution" : 11083,
+		"level" : 64,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 2667,
+		"costContribution" : 11083,
+		"level" : 64,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 2667,
+		"costContribution" : 11083,
+		"level" : 64,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 2667,
+		"costContribution" : 11083,
+		"level" : 64,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 3250,
+		"attrType" : 1,
+		"costContribution" : 22500,
+		"level" : 65
+	},
+	
+	{
+		"attrRate" : 3250,
+		"attrType" : 2,
+		"costContribution" : 22500,
+		"level" : 65
+	},
+	
+	{
+		"attrRate" : 3250,
+		"attrType" : 3,
+		"costContribution" : 11250,
+		"level" : 65
+	},
+	
+	{
+		"attrRate" : 3250,
+		"attrType" : 4,
+		"costContribution" : 11250,
+		"level" : 65
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 2708,
+		"costContribution" : 11250,
+		"level" : 65,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 2708,
+		"costContribution" : 11250,
+		"level" : 65,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 2708,
+		"costContribution" : 11250,
+		"level" : 65,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 2708,
+		"costContribution" : 11250,
+		"level" : 65,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 3300,
+		"attrType" : 1,
+		"costContribution" : 22833,
+		"level" : 66
+	},
+	
+	{
+		"attrRate" : 3300,
+		"attrType" : 2,
+		"costContribution" : 22833,
+		"level" : 66
+	},
+	
+	{
+		"attrRate" : 3300,
+		"attrType" : 3,
+		"costContribution" : 11417,
+		"level" : 66
+	},
+	
+	{
+		"attrRate" : 3300,
+		"attrType" : 4,
+		"costContribution" : 11417,
+		"level" : 66
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 2750,
+		"costContribution" : 11417,
+		"level" : 66,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 2750,
+		"costContribution" : 11417,
+		"level" : 66,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 2750,
+		"costContribution" : 11417,
+		"level" : 66,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 2750,
+		"costContribution" : 11417,
+		"level" : 66,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 3350,
+		"attrType" : 1,
+		"costContribution" : 23167,
+		"level" : 67
+	},
+	
+	{
+		"attrRate" : 3350,
+		"attrType" : 2,
+		"costContribution" : 23167,
+		"level" : 67
+	},
+	
+	{
+		"attrRate" : 3350,
+		"attrType" : 3,
+		"costContribution" : 11583,
+		"level" : 67
+	},
+	
+	{
+		"attrRate" : 3350,
+		"attrType" : 4,
+		"costContribution" : 11583,
+		"level" : 67
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 2792,
+		"costContribution" : 11583,
+		"level" : 67,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 2792,
+		"costContribution" : 11583,
+		"level" : 67,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 2792,
+		"costContribution" : 11583,
+		"level" : 67,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 2792,
+		"costContribution" : 11583,
+		"level" : 67,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 3400,
+		"attrType" : 1,
+		"costContribution" : 23500,
+		"level" : 68
+	},
+	
+	{
+		"attrRate" : 3400,
+		"attrType" : 2,
+		"costContribution" : 23500,
+		"level" : 68
+	},
+	
+	{
+		"attrRate" : 3400,
+		"attrType" : 3,
+		"costContribution" : 11750,
+		"level" : 68
+	},
+	
+	{
+		"attrRate" : 3400,
+		"attrType" : 4,
+		"costContribution" : 11750,
+		"level" : 68
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 2833,
+		"costContribution" : 11750,
+		"level" : 68,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 2833,
+		"costContribution" : 11750,
+		"level" : 68,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 2833,
+		"costContribution" : 11750,
+		"level" : 68,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 2833,
+		"costContribution" : 11750,
+		"level" : 68,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 3450,
+		"attrType" : 1,
+		"costContribution" : 23833,
+		"level" : 69
+	},
+	
+	{
+		"attrRate" : 3450,
+		"attrType" : 2,
+		"costContribution" : 23833,
+		"level" : 69
+	},
+	
+	{
+		"attrRate" : 3450,
+		"attrType" : 3,
+		"costContribution" : 11917,
+		"level" : 69
+	},
+	
+	{
+		"attrRate" : 3450,
+		"attrType" : 4,
+		"costContribution" : 11917,
+		"level" : 69
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 2875,
+		"costContribution" : 11917,
+		"level" : 69,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 2875,
+		"costContribution" : 11917,
+		"level" : 69,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 2875,
+		"costContribution" : 11917,
+		"level" : 69,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 2875,
+		"costContribution" : 11917,
+		"level" : 69,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 3500,
+		"attrType" : 1,
+		"costContribution" : 24167,
+		"level" : 70
+	},
+	
+	{
+		"attrRate" : 3500,
+		"attrType" : 2,
+		"costContribution" : 24167,
+		"level" : 70
+	},
+	
+	{
+		"attrRate" : 3500,
+		"attrType" : 3,
+		"costContribution" : 12083,
+		"level" : 70
+	},
+	
+	{
+		"attrRate" : 3500,
+		"attrType" : 4,
+		"costContribution" : 12083,
+		"level" : 70
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 2917,
+		"costContribution" : 12083,
+		"level" : 70,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 2917,
+		"costContribution" : 12083,
+		"level" : 70,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 2917,
+		"costContribution" : 12083,
+		"level" : 70,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 2917,
+		"costContribution" : 12083,
+		"level" : 70,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 3550,
+		"attrType" : 1,
+		"costContribution" : 24500,
+		"level" : 71
+	},
+	
+	{
+		"attrRate" : 3550,
+		"attrType" : 2,
+		"costContribution" : 24500,
+		"level" : 71
+	},
+	
+	{
+		"attrRate" : 3550,
+		"attrType" : 3,
+		"costContribution" : 12250,
+		"level" : 71
+	},
+	
+	{
+		"attrRate" : 3550,
+		"attrType" : 4,
+		"costContribution" : 12250,
+		"level" : 71
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 2958,
+		"costContribution" : 12250,
+		"level" : 71,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 2958,
+		"costContribution" : 12250,
+		"level" : 71,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 2958,
+		"costContribution" : 12250,
+		"level" : 71,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 2958,
+		"costContribution" : 12250,
+		"level" : 71,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 3600,
+		"attrType" : 1,
+		"costContribution" : 24833,
+		"level" : 72
+	},
+	
+	{
+		"attrRate" : 3600,
+		"attrType" : 2,
+		"costContribution" : 24833,
+		"level" : 72
+	},
+	
+	{
+		"attrRate" : 3600,
+		"attrType" : 3,
+		"costContribution" : 12417,
+		"level" : 72
+	},
+	
+	{
+		"attrRate" : 3600,
+		"attrType" : 4,
+		"costContribution" : 12417,
+		"level" : 72
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 3000,
+		"costContribution" : 12417,
+		"level" : 72,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 3000,
+		"costContribution" : 12417,
+		"level" : 72,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 3000,
+		"costContribution" : 12417,
+		"level" : 72,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 3000,
+		"costContribution" : 12417,
+		"level" : 72,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 3650,
+		"attrType" : 1,
+		"costContribution" : 25167,
+		"level" : 73
+	},
+	
+	{
+		"attrRate" : 3650,
+		"attrType" : 2,
+		"costContribution" : 25167,
+		"level" : 73
+	},
+	
+	{
+		"attrRate" : 3650,
+		"attrType" : 3,
+		"costContribution" : 12583,
+		"level" : 73
+	},
+	
+	{
+		"attrRate" : 3650,
+		"attrType" : 4,
+		"costContribution" : 12583,
+		"level" : 73
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 3042,
+		"costContribution" : 12583,
+		"level" : 73,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 3042,
+		"costContribution" : 12583,
+		"level" : 73,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 3042,
+		"costContribution" : 12583,
+		"level" : 73,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 3042,
+		"costContribution" : 12583,
+		"level" : 73,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 3700,
+		"attrType" : 1,
+		"costContribution" : 25500,
+		"level" : 74
+	},
+	
+	{
+		"attrRate" : 3700,
+		"attrType" : 2,
+		"costContribution" : 25500,
+		"level" : 74
+	},
+	
+	{
+		"attrRate" : 3700,
+		"attrType" : 3,
+		"costContribution" : 12750,
+		"level" : 74
+	},
+	
+	{
+		"attrRate" : 3700,
+		"attrType" : 4,
+		"costContribution" : 12750,
+		"level" : 74
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 3083,
+		"costContribution" : 12750,
+		"level" : 74,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 3083,
+		"costContribution" : 12750,
+		"level" : 74,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 3083,
+		"costContribution" : 12750,
+		"level" : 74,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 3083,
+		"costContribution" : 12750,
+		"level" : 74,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 3750,
+		"attrType" : 1,
+		"costContribution" : 25833,
+		"level" : 75
+	},
+	
+	{
+		"attrRate" : 3750,
+		"attrType" : 2,
+		"costContribution" : 25833,
+		"level" : 75
+	},
+	
+	{
+		"attrRate" : 3750,
+		"attrType" : 3,
+		"costContribution" : 12917,
+		"level" : 75
+	},
+	
+	{
+		"attrRate" : 3750,
+		"attrType" : 4,
+		"costContribution" : 12917,
+		"level" : 75
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 3125,
+		"costContribution" : 12917,
+		"level" : 75,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 3125,
+		"costContribution" : 12917,
+		"level" : 75,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 3125,
+		"costContribution" : 12917,
+		"level" : 75,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 3125,
+		"costContribution" : 12917,
+		"level" : 75,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 3800,
+		"attrType" : 1,
+		"costContribution" : 26167,
+		"level" : 76
+	},
+	
+	{
+		"attrRate" : 3800,
+		"attrType" : 2,
+		"costContribution" : 26167,
+		"level" : 76
+	},
+	
+	{
+		"attrRate" : 3800,
+		"attrType" : 3,
+		"costContribution" : 13083,
+		"level" : 76
+	},
+	
+	{
+		"attrRate" : 3800,
+		"attrType" : 4,
+		"costContribution" : 13083,
+		"level" : 76
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 3167,
+		"costContribution" : 13083,
+		"level" : 76,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 3167,
+		"costContribution" : 13083,
+		"level" : 76,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 3167,
+		"costContribution" : 13083,
+		"level" : 76,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 3167,
+		"costContribution" : 13083,
+		"level" : 76,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 3850,
+		"attrType" : 1,
+		"costContribution" : 26500,
+		"level" : 77
+	},
+	
+	{
+		"attrRate" : 3850,
+		"attrType" : 2,
+		"costContribution" : 26500,
+		"level" : 77
+	},
+	
+	{
+		"attrRate" : 3850,
+		"attrType" : 3,
+		"costContribution" : 13250,
+		"level" : 77
+	},
+	
+	{
+		"attrRate" : 3850,
+		"attrType" : 4,
+		"costContribution" : 13250,
+		"level" : 77
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 3208,
+		"costContribution" : 13250,
+		"level" : 77,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 3208,
+		"costContribution" : 13250,
+		"level" : 77,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 3208,
+		"costContribution" : 13250,
+		"level" : 77,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 3208,
+		"costContribution" : 13250,
+		"level" : 77,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 3900,
+		"attrType" : 1,
+		"costContribution" : 26833,
+		"level" : 78
+	},
+	
+	{
+		"attrRate" : 3900,
+		"attrType" : 2,
+		"costContribution" : 26833,
+		"level" : 78
+	},
+	
+	{
+		"attrRate" : 3900,
+		"attrType" : 3,
+		"costContribution" : 13417,
+		"level" : 78
+	},
+	
+	{
+		"attrRate" : 3900,
+		"attrType" : 4,
+		"costContribution" : 13417,
+		"level" : 78
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 3250,
+		"costContribution" : 13417,
+		"level" : 78,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 3250,
+		"costContribution" : 13417,
+		"level" : 78,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 3250,
+		"costContribution" : 13417,
+		"level" : 78,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 3250,
+		"costContribution" : 13417,
+		"level" : 78,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 3950,
+		"attrType" : 1,
+		"costContribution" : 27167,
+		"level" : 79
+	},
+	
+	{
+		"attrRate" : 3950,
+		"attrType" : 2,
+		"costContribution" : 27167,
+		"level" : 79
+	},
+	
+	{
+		"attrRate" : 3950,
+		"attrType" : 3,
+		"costContribution" : 13583,
+		"level" : 79
+	},
+	
+	{
+		"attrRate" : 3950,
+		"attrType" : 4,
+		"costContribution" : 13583,
+		"level" : 79
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 3292,
+		"costContribution" : 13583,
+		"level" : 79,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 3292,
+		"costContribution" : 13583,
+		"level" : 79,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 3292,
+		"costContribution" : 13583,
+		"level" : 79,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 3292,
+		"costContribution" : 13583,
+		"level" : 79,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 4000,
+		"attrType" : 1,
+		"costContribution" : 27500,
+		"level" : 80
+	},
+	
+	{
+		"attrRate" : 4000,
+		"attrType" : 2,
+		"costContribution" : 27500,
+		"level" : 80
+	},
+	
+	{
+		"attrRate" : 4000,
+		"attrType" : 3,
+		"costContribution" : 13750,
+		"level" : 80
+	},
+	
+	{
+		"attrRate" : 4000,
+		"attrType" : 4,
+		"costContribution" : 13750,
+		"level" : 80
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 3333,
+		"costContribution" : 13750,
+		"level" : 80,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 3333,
+		"costContribution" : 13750,
+		"level" : 80,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 3333,
+		"costContribution" : 13750,
+		"level" : 80,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 3333,
+		"costContribution" : 13750,
+		"level" : 80,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 4050,
+		"attrType" : 1,
+		"costContribution" : 27833,
+		"level" : 81
+	},
+	
+	{
+		"attrRate" : 4050,
+		"attrType" : 2,
+		"costContribution" : 27833,
+		"level" : 81
+	},
+	
+	{
+		"attrRate" : 4050,
+		"attrType" : 3,
+		"costContribution" : 13917,
+		"level" : 81
+	},
+	
+	{
+		"attrRate" : 4050,
+		"attrType" : 4,
+		"costContribution" : 13917,
+		"level" : 81
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 3375,
+		"costContribution" : 13917,
+		"level" : 81,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 3375,
+		"costContribution" : 13917,
+		"level" : 81,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 3375,
+		"costContribution" : 13917,
+		"level" : 81,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 3375,
+		"costContribution" : 13917,
+		"level" : 81,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 4100,
+		"attrType" : 1,
+		"costContribution" : 28167,
+		"level" : 82
+	},
+	
+	{
+		"attrRate" : 4100,
+		"attrType" : 2,
+		"costContribution" : 28167,
+		"level" : 82
+	},
+	
+	{
+		"attrRate" : 4100,
+		"attrType" : 3,
+		"costContribution" : 14083,
+		"level" : 82
+	},
+	
+	{
+		"attrRate" : 4100,
+		"attrType" : 4,
+		"costContribution" : 14083,
+		"level" : 82
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 3417,
+		"costContribution" : 14083,
+		"level" : 82,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 3417,
+		"costContribution" : 14083,
+		"level" : 82,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 3417,
+		"costContribution" : 14083,
+		"level" : 82,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 3417,
+		"costContribution" : 14083,
+		"level" : 82,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 4150,
+		"attrType" : 1,
+		"costContribution" : 28500,
+		"level" : 83
+	},
+	
+	{
+		"attrRate" : 4150,
+		"attrType" : 2,
+		"costContribution" : 28500,
+		"level" : 83
+	},
+	
+	{
+		"attrRate" : 4150,
+		"attrType" : 3,
+		"costContribution" : 14250,
+		"level" : 83
+	},
+	
+	{
+		"attrRate" : 4150,
+		"attrType" : 4,
+		"costContribution" : 14250,
+		"level" : 83
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 3458,
+		"costContribution" : 14250,
+		"level" : 83,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 3458,
+		"costContribution" : 14250,
+		"level" : 83,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 3458,
+		"costContribution" : 14250,
+		"level" : 83,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 3458,
+		"costContribution" : 14250,
+		"level" : 83,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 4200,
+		"attrType" : 1,
+		"costContribution" : 28833,
+		"level" : 84
+	},
+	
+	{
+		"attrRate" : 4200,
+		"attrType" : 2,
+		"costContribution" : 28833,
+		"level" : 84
+	},
+	
+	{
+		"attrRate" : 4200,
+		"attrType" : 3,
+		"costContribution" : 14417,
+		"level" : 84
+	},
+	
+	{
+		"attrRate" : 4200,
+		"attrType" : 4,
+		"costContribution" : 14417,
+		"level" : 84
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 3500,
+		"costContribution" : 14417,
+		"level" : 84,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 3500,
+		"costContribution" : 14417,
+		"level" : 84,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 3500,
+		"costContribution" : 14417,
+		"level" : 84,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 3500,
+		"costContribution" : 14417,
+		"level" : 84,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 4250,
+		"attrType" : 1,
+		"costContribution" : 29167,
+		"level" : 85
+	},
+	
+	{
+		"attrRate" : 4250,
+		"attrType" : 2,
+		"costContribution" : 29167,
+		"level" : 85
+	},
+	
+	{
+		"attrRate" : 4250,
+		"attrType" : 3,
+		"costContribution" : 14583,
+		"level" : 85
+	},
+	
+	{
+		"attrRate" : 4250,
+		"attrType" : 4,
+		"costContribution" : 14583,
+		"level" : 85
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 3542,
+		"costContribution" : 14583,
+		"level" : 85,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 3542,
+		"costContribution" : 14583,
+		"level" : 85,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 3542,
+		"costContribution" : 14583,
+		"level" : 85,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 3542,
+		"costContribution" : 14583,
+		"level" : 85,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 4300,
+		"attrType" : 1,
+		"costContribution" : 29500,
+		"level" : 86
+	},
+	
+	{
+		"attrRate" : 4300,
+		"attrType" : 2,
+		"costContribution" : 29500,
+		"level" : 86
+	},
+	
+	{
+		"attrRate" : 4300,
+		"attrType" : 3,
+		"costContribution" : 14750,
+		"level" : 86
+	},
+	
+	{
+		"attrRate" : 4300,
+		"attrType" : 4,
+		"costContribution" : 14750,
+		"level" : 86
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 3583,
+		"costContribution" : 14750,
+		"level" : 86,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 3583,
+		"costContribution" : 14750,
+		"level" : 86,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 3583,
+		"costContribution" : 14750,
+		"level" : 86,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 3583,
+		"costContribution" : 14750,
+		"level" : 86,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 4350,
+		"attrType" : 1,
+		"costContribution" : 29833,
+		"level" : 87
+	},
+	
+	{
+		"attrRate" : 4350,
+		"attrType" : 2,
+		"costContribution" : 29833,
+		"level" : 87
+	},
+	
+	{
+		"attrRate" : 4350,
+		"attrType" : 3,
+		"costContribution" : 14917,
+		"level" : 87
+	},
+	
+	{
+		"attrRate" : 4350,
+		"attrType" : 4,
+		"costContribution" : 14917,
+		"level" : 87
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 3625,
+		"costContribution" : 14917,
+		"level" : 87,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 3625,
+		"costContribution" : 14917,
+		"level" : 87,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 3625,
+		"costContribution" : 14917,
+		"level" : 87,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 3625,
+		"costContribution" : 14917,
+		"level" : 87,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 4400,
+		"attrType" : 1,
+		"costContribution" : 30167,
+		"level" : 88
+	},
+	
+	{
+		"attrRate" : 4400,
+		"attrType" : 2,
+		"costContribution" : 30167,
+		"level" : 88
+	},
+	
+	{
+		"attrRate" : 4400,
+		"attrType" : 3,
+		"costContribution" : 15083,
+		"level" : 88
+	},
+	
+	{
+		"attrRate" : 4400,
+		"attrType" : 4,
+		"costContribution" : 15083,
+		"level" : 88
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 3667,
+		"costContribution" : 15083,
+		"level" : 88,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 3667,
+		"costContribution" : 15083,
+		"level" : 88,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 3667,
+		"costContribution" : 15083,
+		"level" : 88,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 3667,
+		"costContribution" : 15083,
+		"level" : 88,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 4450,
+		"attrType" : 1,
+		"costContribution" : 30500,
+		"level" : 89
+	},
+	
+	{
+		"attrRate" : 4450,
+		"attrType" : 2,
+		"costContribution" : 30500,
+		"level" : 89
+	},
+	
+	{
+		"attrRate" : 4450,
+		"attrType" : 3,
+		"costContribution" : 15250,
+		"level" : 89
+	},
+	
+	{
+		"attrRate" : 4450,
+		"attrType" : 4,
+		"costContribution" : 15250,
+		"level" : 89
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 3708,
+		"costContribution" : 15250,
+		"level" : 89,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 3708,
+		"costContribution" : 15250,
+		"level" : 89,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 3708,
+		"costContribution" : 15250,
+		"level" : 89,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 3708,
+		"costContribution" : 15250,
+		"level" : 89,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 4500,
+		"attrType" : 1,
+		"costContribution" : 30833,
+		"level" : 90
+	},
+	
+	{
+		"attrRate" : 4500,
+		"attrType" : 2,
+		"costContribution" : 30833,
+		"level" : 90
+	},
+	
+	{
+		"attrRate" : 4500,
+		"attrType" : 3,
+		"costContribution" : 15417,
+		"level" : 90
+	},
+	
+	{
+		"attrRate" : 4500,
+		"attrType" : 4,
+		"costContribution" : 15417,
+		"level" : 90
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 3750,
+		"costContribution" : 15417,
+		"level" : 90,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 3750,
+		"costContribution" : 15417,
+		"level" : 90,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 3750,
+		"costContribution" : 15417,
+		"level" : 90,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 3750,
+		"costContribution" : 15417,
+		"level" : 90,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 4550,
+		"attrType" : 1,
+		"costContribution" : 31167,
+		"level" : 91
+	},
+	
+	{
+		"attrRate" : 4550,
+		"attrType" : 2,
+		"costContribution" : 31167,
+		"level" : 91
+	},
+	
+	{
+		"attrRate" : 4550,
+		"attrType" : 3,
+		"costContribution" : 15583,
+		"level" : 91
+	},
+	
+	{
+		"attrRate" : 4550,
+		"attrType" : 4,
+		"costContribution" : 15583,
+		"level" : 91
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 3792,
+		"costContribution" : 15583,
+		"level" : 91,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 3792,
+		"costContribution" : 15583,
+		"level" : 91,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 3792,
+		"costContribution" : 15583,
+		"level" : 91,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 3792,
+		"costContribution" : 15583,
+		"level" : 91,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 4600,
+		"attrType" : 1,
+		"costContribution" : 31500,
+		"level" : 92
+	},
+	
+	{
+		"attrRate" : 4600,
+		"attrType" : 2,
+		"costContribution" : 31500,
+		"level" : 92
+	},
+	
+	{
+		"attrRate" : 4600,
+		"attrType" : 3,
+		"costContribution" : 15750,
+		"level" : 92
+	},
+	
+	{
+		"attrRate" : 4600,
+		"attrType" : 4,
+		"costContribution" : 15750,
+		"level" : 92
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 3833,
+		"costContribution" : 15750,
+		"level" : 92,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 3833,
+		"costContribution" : 15750,
+		"level" : 92,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 3833,
+		"costContribution" : 15750,
+		"level" : 92,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 3833,
+		"costContribution" : 15750,
+		"level" : 92,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 4650,
+		"attrType" : 1,
+		"costContribution" : 31833,
+		"level" : 93
+	},
+	
+	{
+		"attrRate" : 4650,
+		"attrType" : 2,
+		"costContribution" : 31833,
+		"level" : 93
+	},
+	
+	{
+		"attrRate" : 4650,
+		"attrType" : 3,
+		"costContribution" : 15917,
+		"level" : 93
+	},
+	
+	{
+		"attrRate" : 4650,
+		"attrType" : 4,
+		"costContribution" : 15917,
+		"level" : 93
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 3875,
+		"costContribution" : 15917,
+		"level" : 93,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 3875,
+		"costContribution" : 15917,
+		"level" : 93,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 3875,
+		"costContribution" : 15917,
+		"level" : 93,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 3875,
+		"costContribution" : 15917,
+		"level" : 93,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 4700,
+		"attrType" : 1,
+		"costContribution" : 32167,
+		"level" : 94
+	},
+	
+	{
+		"attrRate" : 4700,
+		"attrType" : 2,
+		"costContribution" : 32167,
+		"level" : 94
+	},
+	
+	{
+		"attrRate" : 4700,
+		"attrType" : 3,
+		"costContribution" : 16083,
+		"level" : 94
+	},
+	
+	{
+		"attrRate" : 4700,
+		"attrType" : 4,
+		"costContribution" : 16083,
+		"level" : 94
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 3917,
+		"costContribution" : 16083,
+		"level" : 94,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 3917,
+		"costContribution" : 16083,
+		"level" : 94,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 3917,
+		"costContribution" : 16083,
+		"level" : 94,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 3917,
+		"costContribution" : 16083,
+		"level" : 94,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 4750,
+		"attrType" : 1,
+		"costContribution" : 32500,
+		"level" : 95
+	},
+	
+	{
+		"attrRate" : 4750,
+		"attrType" : 2,
+		"costContribution" : 32500,
+		"level" : 95
+	},
+	
+	{
+		"attrRate" : 4750,
+		"attrType" : 3,
+		"costContribution" : 16250,
+		"level" : 95
+	},
+	
+	{
+		"attrRate" : 4750,
+		"attrType" : 4,
+		"costContribution" : 16250,
+		"level" : 95
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 3958,
+		"costContribution" : 16250,
+		"level" : 95,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 3958,
+		"costContribution" : 16250,
+		"level" : 95,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 3958,
+		"costContribution" : 16250,
+		"level" : 95,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 3958,
+		"costContribution" : 16250,
+		"level" : 95,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 4800,
+		"attrType" : 1,
+		"costContribution" : 32833,
+		"level" : 96
+	},
+	
+	{
+		"attrRate" : 4800,
+		"attrType" : 2,
+		"costContribution" : 32833,
+		"level" : 96
+	},
+	
+	{
+		"attrRate" : 4800,
+		"attrType" : 3,
+		"costContribution" : 16417,
+		"level" : 96
+	},
+	
+	{
+		"attrRate" : 4800,
+		"attrType" : 4,
+		"costContribution" : 16417,
+		"level" : 96
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 4000,
+		"costContribution" : 16417,
+		"level" : 96,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 4000,
+		"costContribution" : 16417,
+		"level" : 96,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 4000,
+		"costContribution" : 16417,
+		"level" : 96,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 4000,
+		"costContribution" : 16417,
+		"level" : 96,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 4850,
+		"attrType" : 1,
+		"costContribution" : 33167,
+		"level" : 97
+	},
+	
+	{
+		"attrRate" : 4850,
+		"attrType" : 2,
+		"costContribution" : 33167,
+		"level" : 97
+	},
+	
+	{
+		"attrRate" : 4850,
+		"attrType" : 3,
+		"costContribution" : 16583,
+		"level" : 97
+	},
+	
+	{
+		"attrRate" : 4850,
+		"attrType" : 4,
+		"costContribution" : 16583,
+		"level" : 97
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 4042,
+		"costContribution" : 16583,
+		"level" : 97,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 4042,
+		"costContribution" : 16583,
+		"level" : 97,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 4042,
+		"costContribution" : 16583,
+		"level" : 97,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 4042,
+		"costContribution" : 16583,
+		"level" : 97,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 4900,
+		"attrType" : 1,
+		"costContribution" : 33500,
+		"level" : 98
+	},
+	
+	{
+		"attrRate" : 4900,
+		"attrType" : 2,
+		"costContribution" : 33500,
+		"level" : 98
+	},
+	
+	{
+		"attrRate" : 4900,
+		"attrType" : 3,
+		"costContribution" : 16750,
+		"level" : 98
+	},
+	
+	{
+		"attrRate" : 4900,
+		"attrType" : 4,
+		"costContribution" : 16750,
+		"level" : 98
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 4083,
+		"costContribution" : 16750,
+		"level" : 98,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 4083,
+		"costContribution" : 16750,
+		"level" : 98,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 4083,
+		"costContribution" : 16750,
+		"level" : 98,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 4083,
+		"costContribution" : 16750,
+		"level" : 98,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 4950,
+		"attrType" : 1,
+		"costContribution" : 33833,
+		"level" : 99
+	},
+	
+	{
+		"attrRate" : 4950,
+		"attrType" : 2,
+		"costContribution" : 33833,
+		"level" : 99
+	},
+	
+	{
+		"attrRate" : 4950,
+		"attrType" : 3,
+		"costContribution" : 16917,
+		"level" : 99
+	},
+	
+	{
+		"attrRate" : 4950,
+		"attrType" : 4,
+		"costContribution" : 16917,
+		"level" : 99
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 4125,
+		"costContribution" : 16917,
+		"level" : 99,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 4125,
+		"costContribution" : 16917,
+		"level" : 99,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 4125,
+		"costContribution" : 16917,
+		"level" : 99,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 4125,
+		"costContribution" : 16917,
+		"level" : 99,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 5000,
+		"attrType" : 1,
+		"costContribution" : 34167,
+		"level" : 100
+	},
+	
+	{
+		"attrRate" : 5000,
+		"attrType" : 2,
+		"costContribution" : 34167,
+		"level" : 100
+	},
+	
+	{
+		"attrRate" : 5000,
+		"attrType" : 3,
+		"costContribution" : 17083,
+		"level" : 100
+	},
+	
+	{
+		"attrRate" : 5000,
+		"attrType" : 4,
+		"costContribution" : 17083,
+		"level" : 100
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 4167,
+		"costContribution" : 17083,
+		"level" : 100,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 4167,
+		"costContribution" : 17083,
+		"level" : 100,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 4167,
+		"costContribution" : 17083,
+		"level" : 100,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 4167,
+		"costContribution" : 17083,
+		"level" : 100,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 5050,
+		"attrType" : 1,
+		"costContribution" : 34500,
+		"level" : 101
+	},
+	
+	{
+		"attrRate" : 5050,
+		"attrType" : 2,
+		"costContribution" : 34500,
+		"level" : 101
+	},
+	
+	{
+		"attrRate" : 5050,
+		"attrType" : 3,
+		"costContribution" : 17250,
+		"level" : 101
+	},
+	
+	{
+		"attrRate" : 5050,
+		"attrType" : 4,
+		"costContribution" : 17250,
+		"level" : 101
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 4208,
+		"costContribution" : 17250,
+		"level" : 101,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 4208,
+		"costContribution" : 17250,
+		"level" : 101,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 4208,
+		"costContribution" : 17250,
+		"level" : 101,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 4208,
+		"costContribution" : 17250,
+		"level" : 101,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 5100,
+		"attrType" : 1,
+		"costContribution" : 34833,
+		"level" : 102
+	},
+	
+	{
+		"attrRate" : 5100,
+		"attrType" : 2,
+		"costContribution" : 34833,
+		"level" : 102
+	},
+	
+	{
+		"attrRate" : 5100,
+		"attrType" : 3,
+		"costContribution" : 17417,
+		"level" : 102
+	},
+	
+	{
+		"attrRate" : 5100,
+		"attrType" : 4,
+		"costContribution" : 17417,
+		"level" : 102
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 4250,
+		"costContribution" : 17417,
+		"level" : 102,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 4250,
+		"costContribution" : 17417,
+		"level" : 102,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 4250,
+		"costContribution" : 17417,
+		"level" : 102,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 4250,
+		"costContribution" : 17417,
+		"level" : 102,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 5150,
+		"attrType" : 1,
+		"costContribution" : 35167,
+		"level" : 103
+	},
+	
+	{
+		"attrRate" : 5150,
+		"attrType" : 2,
+		"costContribution" : 35167,
+		"level" : 103
+	},
+	
+	{
+		"attrRate" : 5150,
+		"attrType" : 3,
+		"costContribution" : 17583,
+		"level" : 103
+	},
+	
+	{
+		"attrRate" : 5150,
+		"attrType" : 4,
+		"costContribution" : 17583,
+		"level" : 103
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 4292,
+		"costContribution" : 17583,
+		"level" : 103,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 4292,
+		"costContribution" : 17583,
+		"level" : 103,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 4292,
+		"costContribution" : 17583,
+		"level" : 103,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 4292,
+		"costContribution" : 17583,
+		"level" : 103,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 5200,
+		"attrType" : 1,
+		"costContribution" : 35500,
+		"level" : 104
+	},
+	
+	{
+		"attrRate" : 5200,
+		"attrType" : 2,
+		"costContribution" : 35500,
+		"level" : 104
+	},
+	
+	{
+		"attrRate" : 5200,
+		"attrType" : 3,
+		"costContribution" : 17750,
+		"level" : 104
+	},
+	
+	{
+		"attrRate" : 5200,
+		"attrType" : 4,
+		"costContribution" : 17750,
+		"level" : 104
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 4333,
+		"costContribution" : 17750,
+		"level" : 104,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 4333,
+		"costContribution" : 17750,
+		"level" : 104,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 4333,
+		"costContribution" : 17750,
+		"level" : 104,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 4333,
+		"costContribution" : 17750,
+		"level" : 104,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 5250,
+		"attrType" : 1,
+		"costContribution" : 35833,
+		"level" : 105
+	},
+	
+	{
+		"attrRate" : 5250,
+		"attrType" : 2,
+		"costContribution" : 35833,
+		"level" : 105
+	},
+	
+	{
+		"attrRate" : 5250,
+		"attrType" : 3,
+		"costContribution" : 17917,
+		"level" : 105
+	},
+	
+	{
+		"attrRate" : 5250,
+		"attrType" : 4,
+		"costContribution" : 17917,
+		"level" : 105
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 4375,
+		"costContribution" : 17917,
+		"level" : 105,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 4375,
+		"costContribution" : 17917,
+		"level" : 105,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 4375,
+		"costContribution" : 17917,
+		"level" : 105,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 4375,
+		"costContribution" : 17917,
+		"level" : 105,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 5300,
+		"attrType" : 1,
+		"costContribution" : 36167,
+		"level" : 106
+	},
+	
+	{
+		"attrRate" : 5300,
+		"attrType" : 2,
+		"costContribution" : 36167,
+		"level" : 106
+	},
+	
+	{
+		"attrRate" : 5300,
+		"attrType" : 3,
+		"costContribution" : 18083,
+		"level" : 106
+	},
+	
+	{
+		"attrRate" : 5300,
+		"attrType" : 4,
+		"costContribution" : 18083,
+		"level" : 106
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 4417,
+		"costContribution" : 18083,
+		"level" : 106,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 4417,
+		"costContribution" : 18083,
+		"level" : 106,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 4417,
+		"costContribution" : 18083,
+		"level" : 106,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 4417,
+		"costContribution" : 18083,
+		"level" : 106,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 5350,
+		"attrType" : 1,
+		"costContribution" : 36500,
+		"level" : 107
+	},
+	
+	{
+		"attrRate" : 5350,
+		"attrType" : 2,
+		"costContribution" : 36500,
+		"level" : 107
+	},
+	
+	{
+		"attrRate" : 5350,
+		"attrType" : 3,
+		"costContribution" : 18250,
+		"level" : 107
+	},
+	
+	{
+		"attrRate" : 5350,
+		"attrType" : 4,
+		"costContribution" : 18250,
+		"level" : 107
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 4458,
+		"costContribution" : 18250,
+		"level" : 107,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 4458,
+		"costContribution" : 18250,
+		"level" : 107,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 4458,
+		"costContribution" : 18250,
+		"level" : 107,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 4458,
+		"costContribution" : 18250,
+		"level" : 107,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 5400,
+		"attrType" : 1,
+		"costContribution" : 36833,
+		"level" : 108
+	},
+	
+	{
+		"attrRate" : 5400,
+		"attrType" : 2,
+		"costContribution" : 36833,
+		"level" : 108
+	},
+	
+	{
+		"attrRate" : 5400,
+		"attrType" : 3,
+		"costContribution" : 18417,
+		"level" : 108
+	},
+	
+	{
+		"attrRate" : 5400,
+		"attrType" : 4,
+		"costContribution" : 18417,
+		"level" : 108
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 4500,
+		"costContribution" : 18417,
+		"level" : 108,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 4500,
+		"costContribution" : 18417,
+		"level" : 108,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 4500,
+		"costContribution" : 18417,
+		"level" : 108,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 4500,
+		"costContribution" : 18417,
+		"level" : 108,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 5450,
+		"attrType" : 1,
+		"costContribution" : 37167,
+		"level" : 109
+	},
+	
+	{
+		"attrRate" : 5450,
+		"attrType" : 2,
+		"costContribution" : 37167,
+		"level" : 109
+	},
+	
+	{
+		"attrRate" : 5450,
+		"attrType" : 3,
+		"costContribution" : 18583,
+		"level" : 109
+	},
+	
+	{
+		"attrRate" : 5450,
+		"attrType" : 4,
+		"costContribution" : 18583,
+		"level" : 109
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 4542,
+		"costContribution" : 18583,
+		"level" : 109,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 4542,
+		"costContribution" : 18583,
+		"level" : 109,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 4542,
+		"costContribution" : 18583,
+		"level" : 109,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 4542,
+		"costContribution" : 18583,
+		"level" : 109,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 5500,
+		"attrType" : 1,
+		"costContribution" : 37500,
+		"level" : 110
+	},
+	
+	{
+		"attrRate" : 5500,
+		"attrType" : 2,
+		"costContribution" : 37500,
+		"level" : 110
+	},
+	
+	{
+		"attrRate" : 5500,
+		"attrType" : 3,
+		"costContribution" : 18750,
+		"level" : 110
+	},
+	
+	{
+		"attrRate" : 5500,
+		"attrType" : 4,
+		"costContribution" : 18750,
+		"level" : 110
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 4583,
+		"costContribution" : 18750,
+		"level" : 110,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 4583,
+		"costContribution" : 18750,
+		"level" : 110,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 4583,
+		"costContribution" : 18750,
+		"level" : 110,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 4583,
+		"costContribution" : 18750,
+		"level" : 110,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 5550,
+		"attrType" : 1,
+		"costContribution" : 37833,
+		"level" : 111
+	},
+	
+	{
+		"attrRate" : 5550,
+		"attrType" : 2,
+		"costContribution" : 37833,
+		"level" : 111
+	},
+	
+	{
+		"attrRate" : 5550,
+		"attrType" : 3,
+		"costContribution" : 18917,
+		"level" : 111
+	},
+	
+	{
+		"attrRate" : 5550,
+		"attrType" : 4,
+		"costContribution" : 18917,
+		"level" : 111
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 4625,
+		"costContribution" : 18917,
+		"level" : 111,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 4625,
+		"costContribution" : 18917,
+		"level" : 111,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 4625,
+		"costContribution" : 18917,
+		"level" : 111,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 4625,
+		"costContribution" : 18917,
+		"level" : 111,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 5600,
+		"attrType" : 1,
+		"costContribution" : 38167,
+		"level" : 112
+	},
+	
+	{
+		"attrRate" : 5600,
+		"attrType" : 2,
+		"costContribution" : 38167,
+		"level" : 112
+	},
+	
+	{
+		"attrRate" : 5600,
+		"attrType" : 3,
+		"costContribution" : 19083,
+		"level" : 112
+	},
+	
+	{
+		"attrRate" : 5600,
+		"attrType" : 4,
+		"costContribution" : 19083,
+		"level" : 112
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 4667,
+		"costContribution" : 19083,
+		"level" : 112,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 4667,
+		"costContribution" : 19083,
+		"level" : 112,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 4667,
+		"costContribution" : 19083,
+		"level" : 112,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 4667,
+		"costContribution" : 19083,
+		"level" : 112,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 5650,
+		"attrType" : 1,
+		"costContribution" : 38500,
+		"level" : 113
+	},
+	
+	{
+		"attrRate" : 5650,
+		"attrType" : 2,
+		"costContribution" : 38500,
+		"level" : 113
+	},
+	
+	{
+		"attrRate" : 5650,
+		"attrType" : 3,
+		"costContribution" : 19250,
+		"level" : 113
+	},
+	
+	{
+		"attrRate" : 5650,
+		"attrType" : 4,
+		"costContribution" : 19250,
+		"level" : 113
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 4708,
+		"costContribution" : 19250,
+		"level" : 113,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 4708,
+		"costContribution" : 19250,
+		"level" : 113,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 4708,
+		"costContribution" : 19250,
+		"level" : 113,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 4708,
+		"costContribution" : 19250,
+		"level" : 113,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 5700,
+		"attrType" : 1,
+		"costContribution" : 38833,
+		"level" : 114
+	},
+	
+	{
+		"attrRate" : 5700,
+		"attrType" : 2,
+		"costContribution" : 38833,
+		"level" : 114
+	},
+	
+	{
+		"attrRate" : 5700,
+		"attrType" : 3,
+		"costContribution" : 19417,
+		"level" : 114
+	},
+	
+	{
+		"attrRate" : 5700,
+		"attrType" : 4,
+		"costContribution" : 19417,
+		"level" : 114
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 4750,
+		"costContribution" : 19417,
+		"level" : 114,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 4750,
+		"costContribution" : 19417,
+		"level" : 114,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 4750,
+		"costContribution" : 19417,
+		"level" : 114,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 4750,
+		"costContribution" : 19417,
+		"level" : 114,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 5750,
+		"attrType" : 1,
+		"costContribution" : 39167,
+		"level" : 115
+	},
+	
+	{
+		"attrRate" : 5750,
+		"attrType" : 2,
+		"costContribution" : 39167,
+		"level" : 115
+	},
+	
+	{
+		"attrRate" : 5750,
+		"attrType" : 3,
+		"costContribution" : 19583,
+		"level" : 115
+	},
+	
+	{
+		"attrRate" : 5750,
+		"attrType" : 4,
+		"costContribution" : 19583,
+		"level" : 115
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 4792,
+		"costContribution" : 19583,
+		"level" : 115,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 4792,
+		"costContribution" : 19583,
+		"level" : 115,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 4792,
+		"costContribution" : 19583,
+		"level" : 115,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 4792,
+		"costContribution" : 19583,
+		"level" : 115,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 5800,
+		"attrType" : 1,
+		"costContribution" : 39500,
+		"level" : 116
+	},
+	
+	{
+		"attrRate" : 5800,
+		"attrType" : 2,
+		"costContribution" : 39500,
+		"level" : 116
+	},
+	
+	{
+		"attrRate" : 5800,
+		"attrType" : 3,
+		"costContribution" : 19750,
+		"level" : 116
+	},
+	
+	{
+		"attrRate" : 5800,
+		"attrType" : 4,
+		"costContribution" : 19750,
+		"level" : 116
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 4833,
+		"costContribution" : 19750,
+		"level" : 116,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 4833,
+		"costContribution" : 19750,
+		"level" : 116,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 4833,
+		"costContribution" : 19750,
+		"level" : 116,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 4833,
+		"costContribution" : 19750,
+		"level" : 116,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 5850,
+		"attrType" : 1,
+		"costContribution" : 39833,
+		"level" : 117
+	},
+	
+	{
+		"attrRate" : 5850,
+		"attrType" : 2,
+		"costContribution" : 39833,
+		"level" : 117
+	},
+	
+	{
+		"attrRate" : 5850,
+		"attrType" : 3,
+		"costContribution" : 19917,
+		"level" : 117
+	},
+	
+	{
+		"attrRate" : 5850,
+		"attrType" : 4,
+		"costContribution" : 19917,
+		"level" : 117
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 4875,
+		"costContribution" : 19917,
+		"level" : 117,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 4875,
+		"costContribution" : 19917,
+		"level" : 117,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 4875,
+		"costContribution" : 19917,
+		"level" : 117,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 4875,
+		"costContribution" : 19917,
+		"level" : 117,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 5900,
+		"attrType" : 1,
+		"costContribution" : 40167,
+		"level" : 118
+	},
+	
+	{
+		"attrRate" : 5900,
+		"attrType" : 2,
+		"costContribution" : 40167,
+		"level" : 118
+	},
+	
+	{
+		"attrRate" : 5900,
+		"attrType" : 3,
+		"costContribution" : 20083,
+		"level" : 118
+	},
+	
+	{
+		"attrRate" : 5900,
+		"attrType" : 4,
+		"costContribution" : 20083,
+		"level" : 118
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 4917,
+		"costContribution" : 20083,
+		"level" : 118,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 4917,
+		"costContribution" : 20083,
+		"level" : 118,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 4917,
+		"costContribution" : 20083,
+		"level" : 118,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 4917,
+		"costContribution" : 20083,
+		"level" : 118,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 5950,
+		"attrType" : 1,
+		"costContribution" : 40500,
+		"level" : 119
+	},
+	
+	{
+		"attrRate" : 5950,
+		"attrType" : 2,
+		"costContribution" : 40500,
+		"level" : 119
+	},
+	
+	{
+		"attrRate" : 5950,
+		"attrType" : 3,
+		"costContribution" : 20250,
+		"level" : 119
+	},
+	
+	{
+		"attrRate" : 5950,
+		"attrType" : 4,
+		"costContribution" : 20250,
+		"level" : 119
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 4958,
+		"costContribution" : 20250,
+		"level" : 119,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 4958,
+		"costContribution" : 20250,
+		"level" : 119,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 4958,
+		"costContribution" : 20250,
+		"level" : 119,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 4958,
+		"costContribution" : 20250,
+		"level" : 119,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 6000,
+		"attrType" : 1,
+		"costContribution" : 40833,
+		"level" : 120
+	},
+	
+	{
+		"attrRate" : 6000,
+		"attrType" : 2,
+		"costContribution" : 40833,
+		"level" : 120
+	},
+	
+	{
+		"attrRate" : 6000,
+		"attrType" : 3,
+		"costContribution" : 20417,
+		"level" : 120
+	},
+	
+	{
+		"attrRate" : 6000,
+		"attrType" : 4,
+		"costContribution" : 20417,
+		"level" : 120
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 5000,
+		"costContribution" : 20417,
+		"level" : 120,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 5000,
+		"costContribution" : 20417,
+		"level" : 120,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 5000,
+		"costContribution" : 20417,
+		"level" : 120,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 5000,
+		"costContribution" : 20417,
+		"level" : 120,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 6050,
+		"attrType" : 1,
+		"costContribution" : 41167,
+		"level" : 121
+	},
+	
+	{
+		"attrRate" : 6050,
+		"attrType" : 2,
+		"costContribution" : 41167,
+		"level" : 121
+	},
+	
+	{
+		"attrRate" : 6050,
+		"attrType" : 3,
+		"costContribution" : 20583,
+		"level" : 121
+	},
+	
+	{
+		"attrRate" : 6050,
+		"attrType" : 4,
+		"costContribution" : 20583,
+		"level" : 121
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 5042,
+		"costContribution" : 20583,
+		"level" : 121,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 5042,
+		"costContribution" : 20583,
+		"level" : 121,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 5042,
+		"costContribution" : 20583,
+		"level" : 121,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 5042,
+		"costContribution" : 20583,
+		"level" : 121,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 6100,
+		"attrType" : 1,
+		"costContribution" : 41500,
+		"level" : 122
+	},
+	
+	{
+		"attrRate" : 6100,
+		"attrType" : 2,
+		"costContribution" : 41500,
+		"level" : 122
+	},
+	
+	{
+		"attrRate" : 6100,
+		"attrType" : 3,
+		"costContribution" : 20750,
+		"level" : 122
+	},
+	
+	{
+		"attrRate" : 6100,
+		"attrType" : 4,
+		"costContribution" : 20750,
+		"level" : 122
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 5083,
+		"costContribution" : 20750,
+		"level" : 122,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 5083,
+		"costContribution" : 20750,
+		"level" : 122,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 5083,
+		"costContribution" : 20750,
+		"level" : 122,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 5083,
+		"costContribution" : 20750,
+		"level" : 122,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 6150,
+		"attrType" : 1,
+		"costContribution" : 41833,
+		"level" : 123
+	},
+	
+	{
+		"attrRate" : 6150,
+		"attrType" : 2,
+		"costContribution" : 41833,
+		"level" : 123
+	},
+	
+	{
+		"attrRate" : 6150,
+		"attrType" : 3,
+		"costContribution" : 20917,
+		"level" : 123
+	},
+	
+	{
+		"attrRate" : 6150,
+		"attrType" : 4,
+		"costContribution" : 20917,
+		"level" : 123
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 5125,
+		"costContribution" : 20917,
+		"level" : 123,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 5125,
+		"costContribution" : 20917,
+		"level" : 123,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 5125,
+		"costContribution" : 20917,
+		"level" : 123,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 5125,
+		"costContribution" : 20917,
+		"level" : 123,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 6200,
+		"attrType" : 1,
+		"costContribution" : 42167,
+		"level" : 124
+	},
+	
+	{
+		"attrRate" : 6200,
+		"attrType" : 2,
+		"costContribution" : 42167,
+		"level" : 124
+	},
+	
+	{
+		"attrRate" : 6200,
+		"attrType" : 3,
+		"costContribution" : 21083,
+		"level" : 124
+	},
+	
+	{
+		"attrRate" : 6200,
+		"attrType" : 4,
+		"costContribution" : 21083,
+		"level" : 124
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 5167,
+		"costContribution" : 21083,
+		"level" : 124,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 5167,
+		"costContribution" : 21083,
+		"level" : 124,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 5167,
+		"costContribution" : 21083,
+		"level" : 124,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 5167,
+		"costContribution" : 21083,
+		"level" : 124,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 6250,
+		"attrType" : 1,
+		"costContribution" : 42500,
+		"level" : 125
+	},
+	
+	{
+		"attrRate" : 6250,
+		"attrType" : 2,
+		"costContribution" : 42500,
+		"level" : 125
+	},
+	
+	{
+		"attrRate" : 6250,
+		"attrType" : 3,
+		"costContribution" : 21250,
+		"level" : 125
+	},
+	
+	{
+		"attrRate" : 6250,
+		"attrType" : 4,
+		"costContribution" : 21250,
+		"level" : 125
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 5208,
+		"costContribution" : 21250,
+		"level" : 125,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 5208,
+		"costContribution" : 21250,
+		"level" : 125,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 5208,
+		"costContribution" : 21250,
+		"level" : 125,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 5208,
+		"costContribution" : 21250,
+		"level" : 125,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 6300,
+		"attrType" : 1,
+		"costContribution" : 42833,
+		"level" : 126
+	},
+	
+	{
+		"attrRate" : 6300,
+		"attrType" : 2,
+		"costContribution" : 42833,
+		"level" : 126
+	},
+	
+	{
+		"attrRate" : 6300,
+		"attrType" : 3,
+		"costContribution" : 21417,
+		"level" : 126
+	},
+	
+	{
+		"attrRate" : 6300,
+		"attrType" : 4,
+		"costContribution" : 21417,
+		"level" : 126
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 5250,
+		"costContribution" : 21417,
+		"level" : 126,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 5250,
+		"costContribution" : 21417,
+		"level" : 126,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 5250,
+		"costContribution" : 21417,
+		"level" : 126,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 5250,
+		"costContribution" : 21417,
+		"level" : 126,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 6350,
+		"attrType" : 1,
+		"costContribution" : 43167,
+		"level" : 127
+	},
+	
+	{
+		"attrRate" : 6350,
+		"attrType" : 2,
+		"costContribution" : 43167,
+		"level" : 127
+	},
+	
+	{
+		"attrRate" : 6350,
+		"attrType" : 3,
+		"costContribution" : 21583,
+		"level" : 127
+	},
+	
+	{
+		"attrRate" : 6350,
+		"attrType" : 4,
+		"costContribution" : 21583,
+		"level" : 127
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 5292,
+		"costContribution" : 21583,
+		"level" : 127,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 5292,
+		"costContribution" : 21583,
+		"level" : 127,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 5292,
+		"costContribution" : 21583,
+		"level" : 127,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 5292,
+		"costContribution" : 21583,
+		"level" : 127,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 6400,
+		"attrType" : 1,
+		"costContribution" : 43500,
+		"level" : 128
+	},
+	
+	{
+		"attrRate" : 6400,
+		"attrType" : 2,
+		"costContribution" : 43500,
+		"level" : 128
+	},
+	
+	{
+		"attrRate" : 6400,
+		"attrType" : 3,
+		"costContribution" : 21750,
+		"level" : 128
+	},
+	
+	{
+		"attrRate" : 6400,
+		"attrType" : 4,
+		"costContribution" : 21750,
+		"level" : 128
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 5333,
+		"costContribution" : 21750,
+		"level" : 128,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 5333,
+		"costContribution" : 21750,
+		"level" : 128,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 5333,
+		"costContribution" : 21750,
+		"level" : 128,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 5333,
+		"costContribution" : 21750,
+		"level" : 128,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 6450,
+		"attrType" : 1,
+		"costContribution" : 43833,
+		"level" : 129
+	},
+	
+	{
+		"attrRate" : 6450,
+		"attrType" : 2,
+		"costContribution" : 43833,
+		"level" : 129
+	},
+	
+	{
+		"attrRate" : 6450,
+		"attrType" : 3,
+		"costContribution" : 21917,
+		"level" : 129
+	},
+	
+	{
+		"attrRate" : 6450,
+		"attrType" : 4,
+		"costContribution" : 21917,
+		"level" : 129
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 5375,
+		"costContribution" : 21917,
+		"level" : 129,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 5375,
+		"costContribution" : 21917,
+		"level" : 129,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 5375,
+		"costContribution" : 21917,
+		"level" : 129,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 5375,
+		"costContribution" : 21917,
+		"level" : 129,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 6500,
+		"attrType" : 1,
+		"costContribution" : 44167,
+		"level" : 130
+	},
+	
+	{
+		"attrRate" : 6500,
+		"attrType" : 2,
+		"costContribution" : 44167,
+		"level" : 130
+	},
+	
+	{
+		"attrRate" : 6500,
+		"attrType" : 3,
+		"costContribution" : 22083,
+		"level" : 130
+	},
+	
+	{
+		"attrRate" : 6500,
+		"attrType" : 4,
+		"costContribution" : 22083,
+		"level" : 130
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 5417,
+		"costContribution" : 22083,
+		"level" : 130,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 5417,
+		"costContribution" : 22083,
+		"level" : 130,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 5417,
+		"costContribution" : 22083,
+		"level" : 130,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 5417,
+		"costContribution" : 22083,
+		"level" : 130,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 6550,
+		"attrType" : 1,
+		"costContribution" : 44500,
+		"level" : 131
+	},
+	
+	{
+		"attrRate" : 6550,
+		"attrType" : 2,
+		"costContribution" : 44500,
+		"level" : 131
+	},
+	
+	{
+		"attrRate" : 6550,
+		"attrType" : 3,
+		"costContribution" : 22250,
+		"level" : 131
+	},
+	
+	{
+		"attrRate" : 6550,
+		"attrType" : 4,
+		"costContribution" : 22250,
+		"level" : 131
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 5458,
+		"costContribution" : 22250,
+		"level" : 131,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 5458,
+		"costContribution" : 22250,
+		"level" : 131,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 5458,
+		"costContribution" : 22250,
+		"level" : 131,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 5458,
+		"costContribution" : 22250,
+		"level" : 131,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 6600,
+		"attrType" : 1,
+		"costContribution" : 44833,
+		"level" : 132
+	},
+	
+	{
+		"attrRate" : 6600,
+		"attrType" : 2,
+		"costContribution" : 44833,
+		"level" : 132
+	},
+	
+	{
+		"attrRate" : 6600,
+		"attrType" : 3,
+		"costContribution" : 22417,
+		"level" : 132
+	},
+	
+	{
+		"attrRate" : 6600,
+		"attrType" : 4,
+		"costContribution" : 22417,
+		"level" : 132
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 5500,
+		"costContribution" : 22417,
+		"level" : 132,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 5500,
+		"costContribution" : 22417,
+		"level" : 132,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 5500,
+		"costContribution" : 22417,
+		"level" : 132,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 5500,
+		"costContribution" : 22417,
+		"level" : 132,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 6650,
+		"attrType" : 1,
+		"costContribution" : 45167,
+		"level" : 133
+	},
+	
+	{
+		"attrRate" : 6650,
+		"attrType" : 2,
+		"costContribution" : 45167,
+		"level" : 133
+	},
+	
+	{
+		"attrRate" : 6650,
+		"attrType" : 3,
+		"costContribution" : 22583,
+		"level" : 133
+	},
+	
+	{
+		"attrRate" : 6650,
+		"attrType" : 4,
+		"costContribution" : 22583,
+		"level" : 133
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 5542,
+		"costContribution" : 22583,
+		"level" : 133,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 5542,
+		"costContribution" : 22583,
+		"level" : 133,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 5542,
+		"costContribution" : 22583,
+		"level" : 133,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 5542,
+		"costContribution" : 22583,
+		"level" : 133,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 6700,
+		"attrType" : 1,
+		"costContribution" : 45500,
+		"level" : 134
+	},
+	
+	{
+		"attrRate" : 6700,
+		"attrType" : 2,
+		"costContribution" : 45500,
+		"level" : 134
+	},
+	
+	{
+		"attrRate" : 6700,
+		"attrType" : 3,
+		"costContribution" : 22750,
+		"level" : 134
+	},
+	
+	{
+		"attrRate" : 6700,
+		"attrType" : 4,
+		"costContribution" : 22750,
+		"level" : 134
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 5583,
+		"costContribution" : 22750,
+		"level" : 134,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 5583,
+		"costContribution" : 22750,
+		"level" : 134,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 5583,
+		"costContribution" : 22750,
+		"level" : 134,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 5583,
+		"costContribution" : 22750,
+		"level" : 134,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 6750,
+		"attrType" : 1,
+		"costContribution" : 45833,
+		"level" : 135
+	},
+	
+	{
+		"attrRate" : 6750,
+		"attrType" : 2,
+		"costContribution" : 45833,
+		"level" : 135
+	},
+	
+	{
+		"attrRate" : 6750,
+		"attrType" : 3,
+		"costContribution" : 22917,
+		"level" : 135
+	},
+	
+	{
+		"attrRate" : 6750,
+		"attrType" : 4,
+		"costContribution" : 22917,
+		"level" : 135
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 5625,
+		"costContribution" : 22917,
+		"level" : 135,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 5625,
+		"costContribution" : 22917,
+		"level" : 135,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 5625,
+		"costContribution" : 22917,
+		"level" : 135,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 5625,
+		"costContribution" : 22917,
+		"level" : 135,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 6800,
+		"attrType" : 1,
+		"costContribution" : 46167,
+		"level" : 136
+	},
+	
+	{
+		"attrRate" : 6800,
+		"attrType" : 2,
+		"costContribution" : 46167,
+		"level" : 136
+	},
+	
+	{
+		"attrRate" : 6800,
+		"attrType" : 3,
+		"costContribution" : 23083,
+		"level" : 136
+	},
+	
+	{
+		"attrRate" : 6800,
+		"attrType" : 4,
+		"costContribution" : 23083,
+		"level" : 136
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 5667,
+		"costContribution" : 23083,
+		"level" : 136,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 5667,
+		"costContribution" : 23083,
+		"level" : 136,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 5667,
+		"costContribution" : 23083,
+		"level" : 136,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 5667,
+		"costContribution" : 23083,
+		"level" : 136,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 6850,
+		"attrType" : 1,
+		"costContribution" : 46500,
+		"level" : 137
+	},
+	
+	{
+		"attrRate" : 6850,
+		"attrType" : 2,
+		"costContribution" : 46500,
+		"level" : 137
+	},
+	
+	{
+		"attrRate" : 6850,
+		"attrType" : 3,
+		"costContribution" : 23250,
+		"level" : 137
+	},
+	
+	{
+		"attrRate" : 6850,
+		"attrType" : 4,
+		"costContribution" : 23250,
+		"level" : 137
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 5708,
+		"costContribution" : 23250,
+		"level" : 137,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 5708,
+		"costContribution" : 23250,
+		"level" : 137,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 5708,
+		"costContribution" : 23250,
+		"level" : 137,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 5708,
+		"costContribution" : 23250,
+		"level" : 137,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 6900,
+		"attrType" : 1,
+		"costContribution" : 46833,
+		"level" : 138
+	},
+	
+	{
+		"attrRate" : 6900,
+		"attrType" : 2,
+		"costContribution" : 46833,
+		"level" : 138
+	},
+	
+	{
+		"attrRate" : 6900,
+		"attrType" : 3,
+		"costContribution" : 23417,
+		"level" : 138
+	},
+	
+	{
+		"attrRate" : 6900,
+		"attrType" : 4,
+		"costContribution" : 23417,
+		"level" : 138
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 5750,
+		"costContribution" : 23417,
+		"level" : 138,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 5750,
+		"costContribution" : 23417,
+		"level" : 138,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 5750,
+		"costContribution" : 23417,
+		"level" : 138,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 5750,
+		"costContribution" : 23417,
+		"level" : 138,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 6950,
+		"attrType" : 1,
+		"costContribution" : 47167,
+		"level" : 139
+	},
+	
+	{
+		"attrRate" : 6950,
+		"attrType" : 2,
+		"costContribution" : 47167,
+		"level" : 139
+	},
+	
+	{
+		"attrRate" : 6950,
+		"attrType" : 3,
+		"costContribution" : 23583,
+		"level" : 139
+	},
+	
+	{
+		"attrRate" : 6950,
+		"attrType" : 4,
+		"costContribution" : 23583,
+		"level" : 139
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 5792,
+		"costContribution" : 23583,
+		"level" : 139,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 5792,
+		"costContribution" : 23583,
+		"level" : 139,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 5792,
+		"costContribution" : 23583,
+		"level" : 139,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 5792,
+		"costContribution" : 23583,
+		"level" : 139,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 7000,
+		"attrType" : 1,
+		"costContribution" : 47500,
+		"level" : 140
+	},
+	
+	{
+		"attrRate" : 7000,
+		"attrType" : 2,
+		"costContribution" : 47500,
+		"level" : 140
+	},
+	
+	{
+		"attrRate" : 7000,
+		"attrType" : 3,
+		"costContribution" : 23750,
+		"level" : 140
+	},
+	
+	{
+		"attrRate" : 7000,
+		"attrType" : 4,
+		"costContribution" : 23750,
+		"level" : 140
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 5833,
+		"costContribution" : 23750,
+		"level" : 140,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 5833,
+		"costContribution" : 23750,
+		"level" : 140,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 5833,
+		"costContribution" : 23750,
+		"level" : 140,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 5833,
+		"costContribution" : 23750,
+		"level" : 140,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 7050,
+		"attrType" : 1,
+		"costContribution" : 47833,
+		"level" : 141
+	},
+	
+	{
+		"attrRate" : 7050,
+		"attrType" : 2,
+		"costContribution" : 47833,
+		"level" : 141
+	},
+	
+	{
+		"attrRate" : 7050,
+		"attrType" : 3,
+		"costContribution" : 23917,
+		"level" : 141
+	},
+	
+	{
+		"attrRate" : 7050,
+		"attrType" : 4,
+		"costContribution" : 23917,
+		"level" : 141
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 5875,
+		"costContribution" : 23917,
+		"level" : 141,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 5875,
+		"costContribution" : 23917,
+		"level" : 141,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 5875,
+		"costContribution" : 23917,
+		"level" : 141,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 5875,
+		"costContribution" : 23917,
+		"level" : 141,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 7100,
+		"attrType" : 1,
+		"costContribution" : 48167,
+		"level" : 142
+	},
+	
+	{
+		"attrRate" : 7100,
+		"attrType" : 2,
+		"costContribution" : 48167,
+		"level" : 142
+	},
+	
+	{
+		"attrRate" : 7100,
+		"attrType" : 3,
+		"costContribution" : 24083,
+		"level" : 142
+	},
+	
+	{
+		"attrRate" : 7100,
+		"attrType" : 4,
+		"costContribution" : 24083,
+		"level" : 142
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 5917,
+		"costContribution" : 24083,
+		"level" : 142,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 5917,
+		"costContribution" : 24083,
+		"level" : 142,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 5917,
+		"costContribution" : 24083,
+		"level" : 142,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 5917,
+		"costContribution" : 24083,
+		"level" : 142,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 7150,
+		"attrType" : 1,
+		"costContribution" : 48500,
+		"level" : 143
+	},
+	
+	{
+		"attrRate" : 7150,
+		"attrType" : 2,
+		"costContribution" : 48500,
+		"level" : 143
+	},
+	
+	{
+		"attrRate" : 7150,
+		"attrType" : 3,
+		"costContribution" : 24250,
+		"level" : 143
+	},
+	
+	{
+		"attrRate" : 7150,
+		"attrType" : 4,
+		"costContribution" : 24250,
+		"level" : 143
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 5958,
+		"costContribution" : 24250,
+		"level" : 143,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 5958,
+		"costContribution" : 24250,
+		"level" : 143,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 5958,
+		"costContribution" : 24250,
+		"level" : 143,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 5958,
+		"costContribution" : 24250,
+		"level" : 143,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 7200,
+		"attrType" : 1,
+		"costContribution" : 48833,
+		"level" : 144
+	},
+	
+	{
+		"attrRate" : 7200,
+		"attrType" : 2,
+		"costContribution" : 48833,
+		"level" : 144
+	},
+	
+	{
+		"attrRate" : 7200,
+		"attrType" : 3,
+		"costContribution" : 24417,
+		"level" : 144
+	},
+	
+	{
+		"attrRate" : 7200,
+		"attrType" : 4,
+		"costContribution" : 24417,
+		"level" : 144
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 6000,
+		"costContribution" : 24417,
+		"level" : 144,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 6000,
+		"costContribution" : 24417,
+		"level" : 144,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 6000,
+		"costContribution" : 24417,
+		"level" : 144,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 6000,
+		"costContribution" : 24417,
+		"level" : 144,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 7250,
+		"attrType" : 1,
+		"costContribution" : 49167,
+		"level" : 145
+	},
+	
+	{
+		"attrRate" : 7250,
+		"attrType" : 2,
+		"costContribution" : 49167,
+		"level" : 145
+	},
+	
+	{
+		"attrRate" : 7250,
+		"attrType" : 3,
+		"costContribution" : 24583,
+		"level" : 145
+	},
+	
+	{
+		"attrRate" : 7250,
+		"attrType" : 4,
+		"costContribution" : 24583,
+		"level" : 145
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 6042,
+		"costContribution" : 24583,
+		"level" : 145,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 6042,
+		"costContribution" : 24583,
+		"level" : 145,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 6042,
+		"costContribution" : 24583,
+		"level" : 145,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 6042,
+		"costContribution" : 24583,
+		"level" : 145,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 7300,
+		"attrType" : 1,
+		"costContribution" : 49500,
+		"level" : 146
+	},
+	
+	{
+		"attrRate" : 7300,
+		"attrType" : 2,
+		"costContribution" : 49500,
+		"level" : 146
+	},
+	
+	{
+		"attrRate" : 7300,
+		"attrType" : 3,
+		"costContribution" : 24750,
+		"level" : 146
+	},
+	
+	{
+		"attrRate" : 7300,
+		"attrType" : 4,
+		"costContribution" : 24750,
+		"level" : 146
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 6083,
+		"costContribution" : 24750,
+		"level" : 146,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 6083,
+		"costContribution" : 24750,
+		"level" : 146,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 6083,
+		"costContribution" : 24750,
+		"level" : 146,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 6083,
+		"costContribution" : 24750,
+		"level" : 146,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 7350,
+		"attrType" : 1,
+		"costContribution" : 49833,
+		"level" : 147
+	},
+	
+	{
+		"attrRate" : 7350,
+		"attrType" : 2,
+		"costContribution" : 49833,
+		"level" : 147
+	},
+	
+	{
+		"attrRate" : 7350,
+		"attrType" : 3,
+		"costContribution" : 24917,
+		"level" : 147
+	},
+	
+	{
+		"attrRate" : 7350,
+		"attrType" : 4,
+		"costContribution" : 24917,
+		"level" : 147
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 6125,
+		"costContribution" : 24917,
+		"level" : 147,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 6125,
+		"costContribution" : 24917,
+		"level" : 147,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 6125,
+		"costContribution" : 24917,
+		"level" : 147,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 6125,
+		"costContribution" : 24917,
+		"level" : 147,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 7400,
+		"attrType" : 1,
+		"costContribution" : 50167,
+		"level" : 148
+	},
+	
+	{
+		"attrRate" : 7400,
+		"attrType" : 2,
+		"costContribution" : 50167,
+		"level" : 148
+	},
+	
+	{
+		"attrRate" : 7400,
+		"attrType" : 3,
+		"costContribution" : 25083,
+		"level" : 148
+	},
+	
+	{
+		"attrRate" : 7400,
+		"attrType" : 4,
+		"costContribution" : 25083,
+		"level" : 148
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 6167,
+		"costContribution" : 25083,
+		"level" : 148,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 6167,
+		"costContribution" : 25083,
+		"level" : 148,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 6167,
+		"costContribution" : 25083,
+		"level" : 148,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 6167,
+		"costContribution" : 25083,
+		"level" : 148,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 7450,
+		"attrType" : 1,
+		"costContribution" : 50500,
+		"level" : 149
+	},
+	
+	{
+		"attrRate" : 7450,
+		"attrType" : 2,
+		"costContribution" : 50500,
+		"level" : 149
+	},
+	
+	{
+		"attrRate" : 7450,
+		"attrType" : 3,
+		"costContribution" : 25250,
+		"level" : 149
+	},
+	
+	{
+		"attrRate" : 7450,
+		"attrType" : 4,
+		"costContribution" : 25250,
+		"level" : 149
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 6208,
+		"costContribution" : 25250,
+		"level" : 149,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 6208,
+		"costContribution" : 25250,
+		"level" : 149,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 6208,
+		"costContribution" : 25250,
+		"level" : 149,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 6208,
+		"costContribution" : 25250,
+		"level" : 149,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 7500,
+		"attrType" : 1,
+		"costContribution" : 50833,
+		"level" : 150
+	},
+	
+	{
+		"attrRate" : 7500,
+		"attrType" : 2,
+		"costContribution" : 50833,
+		"level" : 150
+	},
+	
+	{
+		"attrRate" : 7500,
+		"attrType" : 3,
+		"costContribution" : 25417,
+		"level" : 150
+	},
+	
+	{
+		"attrRate" : 7500,
+		"attrType" : 4,
+		"costContribution" : 25417,
+		"level" : 150
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 6250,
+		"costContribution" : 25417,
+		"level" : 150,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 6250,
+		"costContribution" : 25417,
+		"level" : 150,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 6250,
+		"costContribution" : 25417,
+		"level" : 150,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 6250,
+		"costContribution" : 25417,
+		"level" : 150,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 7550,
+		"attrType" : 1,
+		"costContribution" : 51167,
+		"level" : 151
+	},
+	
+	{
+		"attrRate" : 7550,
+		"attrType" : 2,
+		"costContribution" : 51167,
+		"level" : 151
+	},
+	
+	{
+		"attrRate" : 7550,
+		"attrType" : 3,
+		"costContribution" : 25583,
+		"level" : 151
+	},
+	
+	{
+		"attrRate" : 7550,
+		"attrType" : 4,
+		"costContribution" : 25583,
+		"level" : 151
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 6292,
+		"costContribution" : 25583,
+		"level" : 151,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 6292,
+		"costContribution" : 25583,
+		"level" : 151,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 6292,
+		"costContribution" : 25583,
+		"level" : 151,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 6292,
+		"costContribution" : 25583,
+		"level" : 151,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 7600,
+		"attrType" : 1,
+		"costContribution" : 51500,
+		"level" : 152
+	},
+	
+	{
+		"attrRate" : 7600,
+		"attrType" : 2,
+		"costContribution" : 51500,
+		"level" : 152
+	},
+	
+	{
+		"attrRate" : 7600,
+		"attrType" : 3,
+		"costContribution" : 25750,
+		"level" : 152
+	},
+	
+	{
+		"attrRate" : 7600,
+		"attrType" : 4,
+		"costContribution" : 25750,
+		"level" : 152
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 6333,
+		"costContribution" : 25750,
+		"level" : 152,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 6333,
+		"costContribution" : 25750,
+		"level" : 152,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 6333,
+		"costContribution" : 25750,
+		"level" : 152,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 6333,
+		"costContribution" : 25750,
+		"level" : 152,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 7650,
+		"attrType" : 1,
+		"costContribution" : 51833,
+		"level" : 153
+	},
+	
+	{
+		"attrRate" : 7650,
+		"attrType" : 2,
+		"costContribution" : 51833,
+		"level" : 153
+	},
+	
+	{
+		"attrRate" : 7650,
+		"attrType" : 3,
+		"costContribution" : 25917,
+		"level" : 153
+	},
+	
+	{
+		"attrRate" : 7650,
+		"attrType" : 4,
+		"costContribution" : 25917,
+		"level" : 153
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 6375,
+		"costContribution" : 25917,
+		"level" : 153,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 6375,
+		"costContribution" : 25917,
+		"level" : 153,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 6375,
+		"costContribution" : 25917,
+		"level" : 153,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 6375,
+		"costContribution" : 25917,
+		"level" : 153,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 7700,
+		"attrType" : 1,
+		"costContribution" : 52167,
+		"level" : 154
+	},
+	
+	{
+		"attrRate" : 7700,
+		"attrType" : 2,
+		"costContribution" : 52167,
+		"level" : 154
+	},
+	
+	{
+		"attrRate" : 7700,
+		"attrType" : 3,
+		"costContribution" : 26083,
+		"level" : 154
+	},
+	
+	{
+		"attrRate" : 7700,
+		"attrType" : 4,
+		"costContribution" : 26083,
+		"level" : 154
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 6417,
+		"costContribution" : 26083,
+		"level" : 154,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 6417,
+		"costContribution" : 26083,
+		"level" : 154,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 6417,
+		"costContribution" : 26083,
+		"level" : 154,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 6417,
+		"costContribution" : 26083,
+		"level" : 154,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 7750,
+		"attrType" : 1,
+		"costContribution" : 52500,
+		"level" : 155
+	},
+	
+	{
+		"attrRate" : 7750,
+		"attrType" : 2,
+		"costContribution" : 52500,
+		"level" : 155
+	},
+	
+	{
+		"attrRate" : 7750,
+		"attrType" : 3,
+		"costContribution" : 26250,
+		"level" : 155
+	},
+	
+	{
+		"attrRate" : 7750,
+		"attrType" : 4,
+		"costContribution" : 26250,
+		"level" : 155
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 6458,
+		"costContribution" : 26250,
+		"level" : 155,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 6458,
+		"costContribution" : 26250,
+		"level" : 155,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 6458,
+		"costContribution" : 26250,
+		"level" : 155,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 6458,
+		"costContribution" : 26250,
+		"level" : 155,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 7800,
+		"attrType" : 1,
+		"costContribution" : 52833,
+		"level" : 156
+	},
+	
+	{
+		"attrRate" : 7800,
+		"attrType" : 2,
+		"costContribution" : 52833,
+		"level" : 156
+	},
+	
+	{
+		"attrRate" : 7800,
+		"attrType" : 3,
+		"costContribution" : 26417,
+		"level" : 156
+	},
+	
+	{
+		"attrRate" : 7800,
+		"attrType" : 4,
+		"costContribution" : 26417,
+		"level" : 156
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 6500,
+		"costContribution" : 26417,
+		"level" : 156,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 6500,
+		"costContribution" : 26417,
+		"level" : 156,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 6500,
+		"costContribution" : 26417,
+		"level" : 156,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 6500,
+		"costContribution" : 26417,
+		"level" : 156,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 7850,
+		"attrType" : 1,
+		"costContribution" : 53167,
+		"level" : 157
+	},
+	
+	{
+		"attrRate" : 7850,
+		"attrType" : 2,
+		"costContribution" : 53167,
+		"level" : 157
+	},
+	
+	{
+		"attrRate" : 7850,
+		"attrType" : 3,
+		"costContribution" : 26583,
+		"level" : 157
+	},
+	
+	{
+		"attrRate" : 7850,
+		"attrType" : 4,
+		"costContribution" : 26583,
+		"level" : 157
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 6542,
+		"costContribution" : 26583,
+		"level" : 157,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 6542,
+		"costContribution" : 26583,
+		"level" : 157,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 6542,
+		"costContribution" : 26583,
+		"level" : 157,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 6542,
+		"costContribution" : 26583,
+		"level" : 157,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 7900,
+		"attrType" : 1,
+		"costContribution" : 53500,
+		"level" : 158
+	},
+	
+	{
+		"attrRate" : 7900,
+		"attrType" : 2,
+		"costContribution" : 53500,
+		"level" : 158
+	},
+	
+	{
+		"attrRate" : 7900,
+		"attrType" : 3,
+		"costContribution" : 26750,
+		"level" : 158
+	},
+	
+	{
+		"attrRate" : 7900,
+		"attrType" : 4,
+		"costContribution" : 26750,
+		"level" : 158
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 6583,
+		"costContribution" : 26750,
+		"level" : 158,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 6583,
+		"costContribution" : 26750,
+		"level" : 158,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 6583,
+		"costContribution" : 26750,
+		"level" : 158,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 6583,
+		"costContribution" : 26750,
+		"level" : 158,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 7950,
+		"attrType" : 1,
+		"costContribution" : 53833,
+		"level" : 159
+	},
+	
+	{
+		"attrRate" : 7950,
+		"attrType" : 2,
+		"costContribution" : 53833,
+		"level" : 159
+	},
+	
+	{
+		"attrRate" : 7950,
+		"attrType" : 3,
+		"costContribution" : 26917,
+		"level" : 159
+	},
+	
+	{
+		"attrRate" : 7950,
+		"attrType" : 4,
+		"costContribution" : 26917,
+		"level" : 159
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 6625,
+		"costContribution" : 26917,
+		"level" : 159,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 6625,
+		"costContribution" : 26917,
+		"level" : 159,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 6625,
+		"costContribution" : 26917,
+		"level" : 159,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 6625,
+		"costContribution" : 26917,
+		"level" : 159,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 8000,
+		"attrType" : 1,
+		"costContribution" : 54167,
+		"level" : 160
+	},
+	
+	{
+		"attrRate" : 8000,
+		"attrType" : 2,
+		"costContribution" : 54167,
+		"level" : 160
+	},
+	
+	{
+		"attrRate" : 8000,
+		"attrType" : 3,
+		"costContribution" : 27083,
+		"level" : 160
+	},
+	
+	{
+		"attrRate" : 8000,
+		"attrType" : 4,
+		"costContribution" : 27083,
+		"level" : 160
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 6667,
+		"costContribution" : 27083,
+		"level" : 160,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 6667,
+		"costContribution" : 27083,
+		"level" : 160,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 6667,
+		"costContribution" : 27083,
+		"level" : 160,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 6667,
+		"costContribution" : 27083,
+		"level" : 160,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 8050,
+		"attrType" : 1,
+		"costContribution" : 54500,
+		"level" : 161
+	},
+	
+	{
+		"attrRate" : 8050,
+		"attrType" : 2,
+		"costContribution" : 54500,
+		"level" : 161
+	},
+	
+	{
+		"attrRate" : 8050,
+		"attrType" : 3,
+		"costContribution" : 27250,
+		"level" : 161
+	},
+	
+	{
+		"attrRate" : 8050,
+		"attrType" : 4,
+		"costContribution" : 27250,
+		"level" : 161
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 6708,
+		"costContribution" : 27250,
+		"level" : 161,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 6708,
+		"costContribution" : 27250,
+		"level" : 161,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 6708,
+		"costContribution" : 27250,
+		"level" : 161,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 6708,
+		"costContribution" : 27250,
+		"level" : 161,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 8100,
+		"attrType" : 1,
+		"costContribution" : 54833,
+		"level" : 162
+	},
+	
+	{
+		"attrRate" : 8100,
+		"attrType" : 2,
+		"costContribution" : 54833,
+		"level" : 162
+	},
+	
+	{
+		"attrRate" : 8100,
+		"attrType" : 3,
+		"costContribution" : 27417,
+		"level" : 162
+	},
+	
+	{
+		"attrRate" : 8100,
+		"attrType" : 4,
+		"costContribution" : 27417,
+		"level" : 162
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 6750,
+		"costContribution" : 27417,
+		"level" : 162,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 6750,
+		"costContribution" : 27417,
+		"level" : 162,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 6750,
+		"costContribution" : 27417,
+		"level" : 162,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 6750,
+		"costContribution" : 27417,
+		"level" : 162,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 8150,
+		"attrType" : 1,
+		"costContribution" : 55167,
+		"level" : 163
+	},
+	
+	{
+		"attrRate" : 8150,
+		"attrType" : 2,
+		"costContribution" : 55167,
+		"level" : 163
+	},
+	
+	{
+		"attrRate" : 8150,
+		"attrType" : 3,
+		"costContribution" : 27583,
+		"level" : 163
+	},
+	
+	{
+		"attrRate" : 8150,
+		"attrType" : 4,
+		"costContribution" : 27583,
+		"level" : 163
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 6792,
+		"costContribution" : 27583,
+		"level" : 163,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 6792,
+		"costContribution" : 27583,
+		"level" : 163,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 6792,
+		"costContribution" : 27583,
+		"level" : 163,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 6792,
+		"costContribution" : 27583,
+		"level" : 163,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 8200,
+		"attrType" : 1,
+		"costContribution" : 55500,
+		"level" : 164
+	},
+	
+	{
+		"attrRate" : 8200,
+		"attrType" : 2,
+		"costContribution" : 55500,
+		"level" : 164
+	},
+	
+	{
+		"attrRate" : 8200,
+		"attrType" : 3,
+		"costContribution" : 27750,
+		"level" : 164
+	},
+	
+	{
+		"attrRate" : 8200,
+		"attrType" : 4,
+		"costContribution" : 27750,
+		"level" : 164
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 6833,
+		"costContribution" : 27750,
+		"level" : 164,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 6833,
+		"costContribution" : 27750,
+		"level" : 164,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 6833,
+		"costContribution" : 27750,
+		"level" : 164,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 6833,
+		"costContribution" : 27750,
+		"level" : 164,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 8250,
+		"attrType" : 1,
+		"costContribution" : 55833,
+		"level" : 165
+	},
+	
+	{
+		"attrRate" : 8250,
+		"attrType" : 2,
+		"costContribution" : 55833,
+		"level" : 165
+	},
+	
+	{
+		"attrRate" : 8250,
+		"attrType" : 3,
+		"costContribution" : 27917,
+		"level" : 165
+	},
+	
+	{
+		"attrRate" : 8250,
+		"attrType" : 4,
+		"costContribution" : 27917,
+		"level" : 165
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 6875,
+		"costContribution" : 27917,
+		"level" : 165,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 6875,
+		"costContribution" : 27917,
+		"level" : 165,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 6875,
+		"costContribution" : 27917,
+		"level" : 165,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 6875,
+		"costContribution" : 27917,
+		"level" : 165,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 8300,
+		"attrType" : 1,
+		"costContribution" : 56167,
+		"level" : 166
+	},
+	
+	{
+		"attrRate" : 8300,
+		"attrType" : 2,
+		"costContribution" : 56167,
+		"level" : 166
+	},
+	
+	{
+		"attrRate" : 8300,
+		"attrType" : 3,
+		"costContribution" : 28083,
+		"level" : 166
+	},
+	
+	{
+		"attrRate" : 8300,
+		"attrType" : 4,
+		"costContribution" : 28083,
+		"level" : 166
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 6917,
+		"costContribution" : 28083,
+		"level" : 166,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 6917,
+		"costContribution" : 28083,
+		"level" : 166,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 6917,
+		"costContribution" : 28083,
+		"level" : 166,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 6917,
+		"costContribution" : 28083,
+		"level" : 166,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 8350,
+		"attrType" : 1,
+		"costContribution" : 56500,
+		"level" : 167
+	},
+	
+	{
+		"attrRate" : 8350,
+		"attrType" : 2,
+		"costContribution" : 56500,
+		"level" : 167
+	},
+	
+	{
+		"attrRate" : 8350,
+		"attrType" : 3,
+		"costContribution" : 28250,
+		"level" : 167
+	},
+	
+	{
+		"attrRate" : 8350,
+		"attrType" : 4,
+		"costContribution" : 28250,
+		"level" : 167
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 6958,
+		"costContribution" : 28250,
+		"level" : 167,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 6958,
+		"costContribution" : 28250,
+		"level" : 167,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 6958,
+		"costContribution" : 28250,
+		"level" : 167,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 6958,
+		"costContribution" : 28250,
+		"level" : 167,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 8400,
+		"attrType" : 1,
+		"costContribution" : 56833,
+		"level" : 168
+	},
+	
+	{
+		"attrRate" : 8400,
+		"attrType" : 2,
+		"costContribution" : 56833,
+		"level" : 168
+	},
+	
+	{
+		"attrRate" : 8400,
+		"attrType" : 3,
+		"costContribution" : 28417,
+		"level" : 168
+	},
+	
+	{
+		"attrRate" : 8400,
+		"attrType" : 4,
+		"costContribution" : 28417,
+		"level" : 168
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 7000,
+		"costContribution" : 28417,
+		"level" : 168,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 7000,
+		"costContribution" : 28417,
+		"level" : 168,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 7000,
+		"costContribution" : 28417,
+		"level" : 168,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 7000,
+		"costContribution" : 28417,
+		"level" : 168,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 8450,
+		"attrType" : 1,
+		"costContribution" : 57167,
+		"level" : 169
+	},
+	
+	{
+		"attrRate" : 8450,
+		"attrType" : 2,
+		"costContribution" : 57167,
+		"level" : 169
+	},
+	
+	{
+		"attrRate" : 8450,
+		"attrType" : 3,
+		"costContribution" : 28583,
+		"level" : 169
+	},
+	
+	{
+		"attrRate" : 8450,
+		"attrType" : 4,
+		"costContribution" : 28583,
+		"level" : 169
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 7042,
+		"costContribution" : 28583,
+		"level" : 169,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 7042,
+		"costContribution" : 28583,
+		"level" : 169,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 7042,
+		"costContribution" : 28583,
+		"level" : 169,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 7042,
+		"costContribution" : 28583,
+		"level" : 169,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 8500,
+		"attrType" : 1,
+		"costContribution" : 57500,
+		"level" : 170
+	},
+	
+	{
+		"attrRate" : 8500,
+		"attrType" : 2,
+		"costContribution" : 57500,
+		"level" : 170
+	},
+	
+	{
+		"attrRate" : 8500,
+		"attrType" : 3,
+		"costContribution" : 28750,
+		"level" : 170
+	},
+	
+	{
+		"attrRate" : 8500,
+		"attrType" : 4,
+		"costContribution" : 28750,
+		"level" : 170
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 7083,
+		"costContribution" : 28750,
+		"level" : 170,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 7083,
+		"costContribution" : 28750,
+		"level" : 170,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 7083,
+		"costContribution" : 28750,
+		"level" : 170,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 7083,
+		"costContribution" : 28750,
+		"level" : 170,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 8550,
+		"attrType" : 1,
+		"costContribution" : 57833,
+		"level" : 171
+	},
+	
+	{
+		"attrRate" : 8550,
+		"attrType" : 2,
+		"costContribution" : 57833,
+		"level" : 171
+	},
+	
+	{
+		"attrRate" : 8550,
+		"attrType" : 3,
+		"costContribution" : 28917,
+		"level" : 171
+	},
+	
+	{
+		"attrRate" : 8550,
+		"attrType" : 4,
+		"costContribution" : 28917,
+		"level" : 171
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 7125,
+		"costContribution" : 28917,
+		"level" : 171,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 7125,
+		"costContribution" : 28917,
+		"level" : 171,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 7125,
+		"costContribution" : 28917,
+		"level" : 171,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 7125,
+		"costContribution" : 28917,
+		"level" : 171,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 8600,
+		"attrType" : 1,
+		"costContribution" : 58167,
+		"level" : 172
+	},
+	
+	{
+		"attrRate" : 8600,
+		"attrType" : 2,
+		"costContribution" : 58167,
+		"level" : 172
+	},
+	
+	{
+		"attrRate" : 8600,
+		"attrType" : 3,
+		"costContribution" : 29083,
+		"level" : 172
+	},
+	
+	{
+		"attrRate" : 8600,
+		"attrType" : 4,
+		"costContribution" : 29083,
+		"level" : 172
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 7167,
+		"costContribution" : 29083,
+		"level" : 172,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 7167,
+		"costContribution" : 29083,
+		"level" : 172,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 7167,
+		"costContribution" : 29083,
+		"level" : 172,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 7167,
+		"costContribution" : 29083,
+		"level" : 172,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 8650,
+		"attrType" : 1,
+		"costContribution" : 58500,
+		"level" : 173
+	},
+	
+	{
+		"attrRate" : 8650,
+		"attrType" : 2,
+		"costContribution" : 58500,
+		"level" : 173
+	},
+	
+	{
+		"attrRate" : 8650,
+		"attrType" : 3,
+		"costContribution" : 29250,
+		"level" : 173
+	},
+	
+	{
+		"attrRate" : 8650,
+		"attrType" : 4,
+		"costContribution" : 29250,
+		"level" : 173
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 7208,
+		"costContribution" : 29250,
+		"level" : 173,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 7208,
+		"costContribution" : 29250,
+		"level" : 173,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 7208,
+		"costContribution" : 29250,
+		"level" : 173,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 7208,
+		"costContribution" : 29250,
+		"level" : 173,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 8700,
+		"attrType" : 1,
+		"costContribution" : 58833,
+		"level" : 174
+	},
+	
+	{
+		"attrRate" : 8700,
+		"attrType" : 2,
+		"costContribution" : 58833,
+		"level" : 174
+	},
+	
+	{
+		"attrRate" : 8700,
+		"attrType" : 3,
+		"costContribution" : 29417,
+		"level" : 174
+	},
+	
+	{
+		"attrRate" : 8700,
+		"attrType" : 4,
+		"costContribution" : 29417,
+		"level" : 174
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 7250,
+		"costContribution" : 29417,
+		"level" : 174,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 7250,
+		"costContribution" : 29417,
+		"level" : 174,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 7250,
+		"costContribution" : 29417,
+		"level" : 174,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 7250,
+		"costContribution" : 29417,
+		"level" : 174,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 8750,
+		"attrType" : 1,
+		"costContribution" : 59167,
+		"level" : 175
+	},
+	
+	{
+		"attrRate" : 8750,
+		"attrType" : 2,
+		"costContribution" : 59167,
+		"level" : 175
+	},
+	
+	{
+		"attrRate" : 8750,
+		"attrType" : 3,
+		"costContribution" : 29583,
+		"level" : 175
+	},
+	
+	{
+		"attrRate" : 8750,
+		"attrType" : 4,
+		"costContribution" : 29583,
+		"level" : 175
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 7292,
+		"costContribution" : 29583,
+		"level" : 175,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 7292,
+		"costContribution" : 29583,
+		"level" : 175,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 7292,
+		"costContribution" : 29583,
+		"level" : 175,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 7292,
+		"costContribution" : 29583,
+		"level" : 175,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 8800,
+		"attrType" : 1,
+		"costContribution" : 59500,
+		"level" : 176
+	},
+	
+	{
+		"attrRate" : 8800,
+		"attrType" : 2,
+		"costContribution" : 59500,
+		"level" : 176
+	},
+	
+	{
+		"attrRate" : 8800,
+		"attrType" : 3,
+		"costContribution" : 29750,
+		"level" : 176
+	},
+	
+	{
+		"attrRate" : 8800,
+		"attrType" : 4,
+		"costContribution" : 29750,
+		"level" : 176
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 7333,
+		"costContribution" : 29750,
+		"level" : 176,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 7333,
+		"costContribution" : 29750,
+		"level" : 176,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 7333,
+		"costContribution" : 29750,
+		"level" : 176,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 7333,
+		"costContribution" : 29750,
+		"level" : 176,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 8850,
+		"attrType" : 1,
+		"costContribution" : 59833,
+		"level" : 177
+	},
+	
+	{
+		"attrRate" : 8850,
+		"attrType" : 2,
+		"costContribution" : 59833,
+		"level" : 177
+	},
+	
+	{
+		"attrRate" : 8850,
+		"attrType" : 3,
+		"costContribution" : 29917,
+		"level" : 177
+	},
+	
+	{
+		"attrRate" : 8850,
+		"attrType" : 4,
+		"costContribution" : 29917,
+		"level" : 177
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 7375,
+		"costContribution" : 29917,
+		"level" : 177,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 7375,
+		"costContribution" : 29917,
+		"level" : 177,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 7375,
+		"costContribution" : 29917,
+		"level" : 177,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 7375,
+		"costContribution" : 29917,
+		"level" : 177,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 8900,
+		"attrType" : 1,
+		"costContribution" : 60167,
+		"level" : 178
+	},
+	
+	{
+		"attrRate" : 8900,
+		"attrType" : 2,
+		"costContribution" : 60167,
+		"level" : 178
+	},
+	
+	{
+		"attrRate" : 8900,
+		"attrType" : 3,
+		"costContribution" : 30083,
+		"level" : 178
+	},
+	
+	{
+		"attrRate" : 8900,
+		"attrType" : 4,
+		"costContribution" : 30083,
+		"level" : 178
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 7417,
+		"costContribution" : 30083,
+		"level" : 178,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 7417,
+		"costContribution" : 30083,
+		"level" : 178,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 7417,
+		"costContribution" : 30083,
+		"level" : 178,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 7417,
+		"costContribution" : 30083,
+		"level" : 178,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 8950,
+		"attrType" : 1,
+		"costContribution" : 60500,
+		"level" : 179
+	},
+	
+	{
+		"attrRate" : 8950,
+		"attrType" : 2,
+		"costContribution" : 60500,
+		"level" : 179
+	},
+	
+	{
+		"attrRate" : 8950,
+		"attrType" : 3,
+		"costContribution" : 30250,
+		"level" : 179
+	},
+	
+	{
+		"attrRate" : 8950,
+		"attrType" : 4,
+		"costContribution" : 30250,
+		"level" : 179
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 7458,
+		"costContribution" : 30250,
+		"level" : 179,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 7458,
+		"costContribution" : 30250,
+		"level" : 179,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 7458,
+		"costContribution" : 30250,
+		"level" : 179,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 7458,
+		"costContribution" : 30250,
+		"level" : 179,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 9000,
+		"attrType" : 1,
+		"costContribution" : 60833,
+		"level" : 180
+	},
+	
+	{
+		"attrRate" : 9000,
+		"attrType" : 2,
+		"costContribution" : 60833,
+		"level" : 180
+	},
+	
+	{
+		"attrRate" : 9000,
+		"attrType" : 3,
+		"costContribution" : 30417,
+		"level" : 180
+	},
+	
+	{
+		"attrRate" : 9000,
+		"attrType" : 4,
+		"costContribution" : 30417,
+		"level" : 180
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 7500,
+		"costContribution" : 30417,
+		"level" : 180,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 7500,
+		"costContribution" : 30417,
+		"level" : 180,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 7500,
+		"costContribution" : 30417,
+		"level" : 180,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 7500,
+		"costContribution" : 30417,
+		"level" : 180,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 9050,
+		"attrType" : 1,
+		"costContribution" : 61167,
+		"level" : 181
+	},
+	
+	{
+		"attrRate" : 9050,
+		"attrType" : 2,
+		"costContribution" : 61167,
+		"level" : 181
+	},
+	
+	{
+		"attrRate" : 9050,
+		"attrType" : 3,
+		"costContribution" : 30583,
+		"level" : 181
+	},
+	
+	{
+		"attrRate" : 9050,
+		"attrType" : 4,
+		"costContribution" : 30583,
+		"level" : 181
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 7542,
+		"costContribution" : 30583,
+		"level" : 181,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 7542,
+		"costContribution" : 30583,
+		"level" : 181,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 7542,
+		"costContribution" : 30583,
+		"level" : 181,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 7542,
+		"costContribution" : 30583,
+		"level" : 181,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 9100,
+		"attrType" : 1,
+		"costContribution" : 61500,
+		"level" : 182
+	},
+	
+	{
+		"attrRate" : 9100,
+		"attrType" : 2,
+		"costContribution" : 61500,
+		"level" : 182
+	},
+	
+	{
+		"attrRate" : 9100,
+		"attrType" : 3,
+		"costContribution" : 30750,
+		"level" : 182
+	},
+	
+	{
+		"attrRate" : 9100,
+		"attrType" : 4,
+		"costContribution" : 30750,
+		"level" : 182
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 7583,
+		"costContribution" : 30750,
+		"level" : 182,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 7583,
+		"costContribution" : 30750,
+		"level" : 182,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 7583,
+		"costContribution" : 30750,
+		"level" : 182,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 7583,
+		"costContribution" : 30750,
+		"level" : 182,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 9150,
+		"attrType" : 1,
+		"costContribution" : 61833,
+		"level" : 183
+	},
+	
+	{
+		"attrRate" : 9150,
+		"attrType" : 2,
+		"costContribution" : 61833,
+		"level" : 183
+	},
+	
+	{
+		"attrRate" : 9150,
+		"attrType" : 3,
+		"costContribution" : 30917,
+		"level" : 183
+	},
+	
+	{
+		"attrRate" : 9150,
+		"attrType" : 4,
+		"costContribution" : 30917,
+		"level" : 183
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 7625,
+		"costContribution" : 30917,
+		"level" : 183,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 7625,
+		"costContribution" : 30917,
+		"level" : 183,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 7625,
+		"costContribution" : 30917,
+		"level" : 183,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 7625,
+		"costContribution" : 30917,
+		"level" : 183,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 9200,
+		"attrType" : 1,
+		"costContribution" : 62167,
+		"level" : 184
+	},
+	
+	{
+		"attrRate" : 9200,
+		"attrType" : 2,
+		"costContribution" : 62167,
+		"level" : 184
+	},
+	
+	{
+		"attrRate" : 9200,
+		"attrType" : 3,
+		"costContribution" : 31083,
+		"level" : 184
+	},
+	
+	{
+		"attrRate" : 9200,
+		"attrType" : 4,
+		"costContribution" : 31083,
+		"level" : 184
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 7667,
+		"costContribution" : 31083,
+		"level" : 184,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 7667,
+		"costContribution" : 31083,
+		"level" : 184,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 7667,
+		"costContribution" : 31083,
+		"level" : 184,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 7667,
+		"costContribution" : 31083,
+		"level" : 184,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 9250,
+		"attrType" : 1,
+		"costContribution" : 62500,
+		"level" : 185
+	},
+	
+	{
+		"attrRate" : 9250,
+		"attrType" : 2,
+		"costContribution" : 62500,
+		"level" : 185
+	},
+	
+	{
+		"attrRate" : 9250,
+		"attrType" : 3,
+		"costContribution" : 31250,
+		"level" : 185
+	},
+	
+	{
+		"attrRate" : 9250,
+		"attrType" : 4,
+		"costContribution" : 31250,
+		"level" : 185
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 7708,
+		"costContribution" : 31250,
+		"level" : 185,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 7708,
+		"costContribution" : 31250,
+		"level" : 185,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 7708,
+		"costContribution" : 31250,
+		"level" : 185,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 7708,
+		"costContribution" : 31250,
+		"level" : 185,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 9300,
+		"attrType" : 1,
+		"costContribution" : 62833,
+		"level" : 186
+	},
+	
+	{
+		"attrRate" : 9300,
+		"attrType" : 2,
+		"costContribution" : 62833,
+		"level" : 186
+	},
+	
+	{
+		"attrRate" : 9300,
+		"attrType" : 3,
+		"costContribution" : 31417,
+		"level" : 186
+	},
+	
+	{
+		"attrRate" : 9300,
+		"attrType" : 4,
+		"costContribution" : 31417,
+		"level" : 186
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 7750,
+		"costContribution" : 31417,
+		"level" : 186,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 7750,
+		"costContribution" : 31417,
+		"level" : 186,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 7750,
+		"costContribution" : 31417,
+		"level" : 186,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 7750,
+		"costContribution" : 31417,
+		"level" : 186,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 9350,
+		"attrType" : 1,
+		"costContribution" : 63167,
+		"level" : 187
+	},
+	
+	{
+		"attrRate" : 9350,
+		"attrType" : 2,
+		"costContribution" : 63167,
+		"level" : 187
+	},
+	
+	{
+		"attrRate" : 9350,
+		"attrType" : 3,
+		"costContribution" : 31583,
+		"level" : 187
+	},
+	
+	{
+		"attrRate" : 9350,
+		"attrType" : 4,
+		"costContribution" : 31583,
+		"level" : 187
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 7792,
+		"costContribution" : 31583,
+		"level" : 187,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 7792,
+		"costContribution" : 31583,
+		"level" : 187,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 7792,
+		"costContribution" : 31583,
+		"level" : 187,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 7792,
+		"costContribution" : 31583,
+		"level" : 187,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 9400,
+		"attrType" : 1,
+		"costContribution" : 63500,
+		"level" : 188
+	},
+	
+	{
+		"attrRate" : 9400,
+		"attrType" : 2,
+		"costContribution" : 63500,
+		"level" : 188
+	},
+	
+	{
+		"attrRate" : 9400,
+		"attrType" : 3,
+		"costContribution" : 31750,
+		"level" : 188
+	},
+	
+	{
+		"attrRate" : 9400,
+		"attrType" : 4,
+		"costContribution" : 31750,
+		"level" : 188
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 7833,
+		"costContribution" : 31750,
+		"level" : 188,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 7833,
+		"costContribution" : 31750,
+		"level" : 188,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 7833,
+		"costContribution" : 31750,
+		"level" : 188,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 7833,
+		"costContribution" : 31750,
+		"level" : 188,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 9450,
+		"attrType" : 1,
+		"costContribution" : 63833,
+		"level" : 189
+	},
+	
+	{
+		"attrRate" : 9450,
+		"attrType" : 2,
+		"costContribution" : 63833,
+		"level" : 189
+	},
+	
+	{
+		"attrRate" : 9450,
+		"attrType" : 3,
+		"costContribution" : 31917,
+		"level" : 189
+	},
+	
+	{
+		"attrRate" : 9450,
+		"attrType" : 4,
+		"costContribution" : 31917,
+		"level" : 189
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 7875,
+		"costContribution" : 31917,
+		"level" : 189,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 7875,
+		"costContribution" : 31917,
+		"level" : 189,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 7875,
+		"costContribution" : 31917,
+		"level" : 189,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 7875,
+		"costContribution" : 31917,
+		"level" : 189,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 9500,
+		"attrType" : 1,
+		"costContribution" : 64167,
+		"level" : 190
+	},
+	
+	{
+		"attrRate" : 9500,
+		"attrType" : 2,
+		"costContribution" : 64167,
+		"level" : 190
+	},
+	
+	{
+		"attrRate" : 9500,
+		"attrType" : 3,
+		"costContribution" : 32083,
+		"level" : 190
+	},
+	
+	{
+		"attrRate" : 9500,
+		"attrType" : 4,
+		"costContribution" : 32083,
+		"level" : 190
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 7917,
+		"costContribution" : 32083,
+		"level" : 190,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 7917,
+		"costContribution" : 32083,
+		"level" : 190,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 7917,
+		"costContribution" : 32083,
+		"level" : 190,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 7917,
+		"costContribution" : 32083,
+		"level" : 190,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 9550,
+		"attrType" : 1,
+		"costContribution" : 64500,
+		"level" : 191
+	},
+	
+	{
+		"attrRate" : 9550,
+		"attrType" : 2,
+		"costContribution" : 64500,
+		"level" : 191
+	},
+	
+	{
+		"attrRate" : 9550,
+		"attrType" : 3,
+		"costContribution" : 32250,
+		"level" : 191
+	},
+	
+	{
+		"attrRate" : 9550,
+		"attrType" : 4,
+		"costContribution" : 32250,
+		"level" : 191
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 7958,
+		"costContribution" : 32250,
+		"level" : 191,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 7958,
+		"costContribution" : 32250,
+		"level" : 191,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 7958,
+		"costContribution" : 32250,
+		"level" : 191,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 7958,
+		"costContribution" : 32250,
+		"level" : 191,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 9600,
+		"attrType" : 1,
+		"costContribution" : 64833,
+		"level" : 192
+	},
+	
+	{
+		"attrRate" : 9600,
+		"attrType" : 2,
+		"costContribution" : 64833,
+		"level" : 192
+	},
+	
+	{
+		"attrRate" : 9600,
+		"attrType" : 3,
+		"costContribution" : 32417,
+		"level" : 192
+	},
+	
+	{
+		"attrRate" : 9600,
+		"attrType" : 4,
+		"costContribution" : 32417,
+		"level" : 192
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 8000,
+		"costContribution" : 32417,
+		"level" : 192,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 8000,
+		"costContribution" : 32417,
+		"level" : 192,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 8000,
+		"costContribution" : 32417,
+		"level" : 192,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 8000,
+		"costContribution" : 32417,
+		"level" : 192,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 9650,
+		"attrType" : 1,
+		"costContribution" : 65167,
+		"level" : 193
+	},
+	
+	{
+		"attrRate" : 9650,
+		"attrType" : 2,
+		"costContribution" : 65167,
+		"level" : 193
+	},
+	
+	{
+		"attrRate" : 9650,
+		"attrType" : 3,
+		"costContribution" : 32583,
+		"level" : 193
+	},
+	
+	{
+		"attrRate" : 9650,
+		"attrType" : 4,
+		"costContribution" : 32583,
+		"level" : 193
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 8042,
+		"costContribution" : 32583,
+		"level" : 193,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 8042,
+		"costContribution" : 32583,
+		"level" : 193,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 8042,
+		"costContribution" : 32583,
+		"level" : 193,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 8042,
+		"costContribution" : 32583,
+		"level" : 193,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 9700,
+		"attrType" : 1,
+		"costContribution" : 65500,
+		"level" : 194
+	},
+	
+	{
+		"attrRate" : 9700,
+		"attrType" : 2,
+		"costContribution" : 65500,
+		"level" : 194
+	},
+	
+	{
+		"attrRate" : 9700,
+		"attrType" : 3,
+		"costContribution" : 32750,
+		"level" : 194
+	},
+	
+	{
+		"attrRate" : 9700,
+		"attrType" : 4,
+		"costContribution" : 32750,
+		"level" : 194
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 8083,
+		"costContribution" : 32750,
+		"level" : 194,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 8083,
+		"costContribution" : 32750,
+		"level" : 194,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 8083,
+		"costContribution" : 32750,
+		"level" : 194,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 8083,
+		"costContribution" : 32750,
+		"level" : 194,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 9750,
+		"attrType" : 1,
+		"costContribution" : 65833,
+		"level" : 195
+	},
+	
+	{
+		"attrRate" : 9750,
+		"attrType" : 2,
+		"costContribution" : 65833,
+		"level" : 195
+	},
+	
+	{
+		"attrRate" : 9750,
+		"attrType" : 3,
+		"costContribution" : 32917,
+		"level" : 195
+	},
+	
+	{
+		"attrRate" : 9750,
+		"attrType" : 4,
+		"costContribution" : 32917,
+		"level" : 195
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 8125,
+		"costContribution" : 32917,
+		"level" : 195,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 8125,
+		"costContribution" : 32917,
+		"level" : 195,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 8125,
+		"costContribution" : 32917,
+		"level" : 195,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 8125,
+		"costContribution" : 32917,
+		"level" : 195,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 9800,
+		"attrType" : 1,
+		"costContribution" : 66167,
+		"level" : 196
+	},
+	
+	{
+		"attrRate" : 9800,
+		"attrType" : 2,
+		"costContribution" : 66167,
+		"level" : 196
+	},
+	
+	{
+		"attrRate" : 9800,
+		"attrType" : 3,
+		"costContribution" : 33083,
+		"level" : 196
+	},
+	
+	{
+		"attrRate" : 9800,
+		"attrType" : 4,
+		"costContribution" : 33083,
+		"level" : 196
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 8167,
+		"costContribution" : 33083,
+		"level" : 196,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 8167,
+		"costContribution" : 33083,
+		"level" : 196,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 8167,
+		"costContribution" : 33083,
+		"level" : 196,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 8167,
+		"costContribution" : 33083,
+		"level" : 196,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 9850,
+		"attrType" : 1,
+		"costContribution" : 66500,
+		"level" : 197
+	},
+	
+	{
+		"attrRate" : 9850,
+		"attrType" : 2,
+		"costContribution" : 66500,
+		"level" : 197
+	},
+	
+	{
+		"attrRate" : 9850,
+		"attrType" : 3,
+		"costContribution" : 33250,
+		"level" : 197
+	},
+	
+	{
+		"attrRate" : 9850,
+		"attrType" : 4,
+		"costContribution" : 33250,
+		"level" : 197
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 8208,
+		"costContribution" : 33250,
+		"level" : 197,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 8208,
+		"costContribution" : 33250,
+		"level" : 197,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 8208,
+		"costContribution" : 33250,
+		"level" : 197,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 8208,
+		"costContribution" : 33250,
+		"level" : 197,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 9900,
+		"attrType" : 1,
+		"costContribution" : 66833,
+		"level" : 198
+	},
+	
+	{
+		"attrRate" : 9900,
+		"attrType" : 2,
+		"costContribution" : 66833,
+		"level" : 198
+	},
+	
+	{
+		"attrRate" : 9900,
+		"attrType" : 3,
+		"costContribution" : 33417,
+		"level" : 198
+	},
+	
+	{
+		"attrRate" : 9900,
+		"attrType" : 4,
+		"costContribution" : 33417,
+		"level" : 198
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 8250,
+		"costContribution" : 33417,
+		"level" : 198,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 8250,
+		"costContribution" : 33417,
+		"level" : 198,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 8250,
+		"costContribution" : 33417,
+		"level" : 198,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 8250,
+		"costContribution" : 33417,
+		"level" : 198,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 9950,
+		"attrType" : 1,
+		"costContribution" : 67167,
+		"level" : 199
+	},
+	
+	{
+		"attrRate" : 9950,
+		"attrType" : 2,
+		"costContribution" : 67167,
+		"level" : 199
+	},
+	
+	{
+		"attrRate" : 9950,
+		"attrType" : 3,
+		"costContribution" : 33583,
+		"level" : 199
+	},
+	
+	{
+		"attrRate" : 9950,
+		"attrType" : 4,
+		"costContribution" : 33583,
+		"level" : 199
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 8292,
+		"costContribution" : 33583,
+		"level" : 199,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 8292,
+		"costContribution" : 33583,
+		"level" : 199,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 8292,
+		"costContribution" : 33583,
+		"level" : 199,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 8292,
+		"costContribution" : 33583,
+		"level" : 199,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrRate" : 10000,
+		"attrType" : 1,
+		"level" : 200
+	},
+	
+	{
+		"attrRate" : 10000,
+		"attrType" : 2,
+		"level" : 200
+	},
+	
+	{
+		"attrRate" : 10000,
+		"attrType" : 3,
+		"level" : 200
+	},
+	
+	{
+		"attrRate" : 10000,
+		"attrType" : 4,
+		"level" : 200
+	},
+	
+	{
+		"attrType" : 5,
+		"attrValue" : 8333,
+		"level" : 200,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 6,
+		"attrValue" : 8333,
+		"level" : 200,
+		"openLevel" : 320
+	},
+	
+	{
+		"attrType" : 11,
+		"attrValue" : 8333,
+		"level" : 200,
+		"openLevel" : 350
+	},
+	
+	{
+		"attrType" : 12,
+		"attrValue" : 8333,
+		"level" : 200,
+		"openLevel" : 350
+	}
+]

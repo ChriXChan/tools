@@ -1,0 +1,65 @@
+
+[
+	
+	{
+		"activateNum" : 1,
+		"activateProp" : 42220001,
+		"category" : 1000,
+		"code" : 2000,
+		"desc" : "仙侣同心锁达到20级 或 角色等级达到280级商城购买",
+		"modelId" : 2500,
+		"name" : "乐乐",
+		"upgradeAdd" : 10,
+		"upgradeProp" : 60100001
+	},
+	
+	{
+		"category" : 1000,
+		"code" : 2001,
+		"desc" : "乐乐提升到10阶",
+		"modelId" : 2501,
+		"name" : "童童",
+		"upgradeAdd" : 10,
+		"upgradeProp" : 60100001
+	},
+	
+	{
+		"category" : 1000,
+		"code" : 2002,
+		"desc" : "童童提升到10阶",
+		"modelId" : 2502,
+		"name" : "天天",
+		"upgradeAdd" : 10,
+		"upgradeProp" : 60100001
+	},
+	
+	{
+		"category" : 1000,
+		"code" : 2003,
+		"desc" : "天天提升到10阶",
+		"modelId" : 2503,
+		"name" : "豆豆",
+		"upgradeAdd" : 10,
+		"upgradeProp" : 60100001
+	},
+	
+	{
+		"category" : 1000,
+		"code" : 2004,
+		"desc" : "豆豆提升到10阶",
+		"modelId" : 2504,
+		"name" : "贝贝",
+		"upgradeAdd" : 10,
+		"upgradeProp" : 60100001
+	},
+	
+	{
+		"category" : 1000,
+		"code" : 2005,
+		"desc" : "贝贝提升到10阶",
+		"modelId" : 2505,
+		"name" : "康康",
+		"upgradeAdd" : 10,
+		"upgradeProp" : 60100001
+	}
+]

@@ -1,0 +1,93 @@
+
+[
+	
+	{
+		"id" : 1,
+		"key" : "Realm",
+		"name" : "境界提升"
+	},
+	
+	{
+		"id" : 2,
+		"key" : "Wing",
+		"name" : "翅膀升级"
+	},
+	
+	{
+		"id" : 3,
+		"key" : "Spirit",
+		"name" : "法宝升级"
+	},
+	
+	{
+		"id" : 4,
+		"key" : "Magic",
+		"name" : "神兵升级"
+	},
+	
+	{
+		"id" : 5,
+		"key" : "ShapeUpgrade",
+		"name" : "外形幻化"
+	},
+	
+	{
+		"id" : 6,
+		"key" : "WeaponStrengthen",
+		"name" : "装备强化"
+	},
+	
+	{
+		"id" : 7,
+		"key" : "JewelEmbel",
+		"name" : "宝石镶嵌"
+	},
+	
+	{
+		"id" : 8,
+		"key" : "Pet",
+		"name" : "宠物进阶"
+	},
+	
+	{
+		"id" : 9,
+		"key" : "Mount",
+		"name" : "坐骑进阶"
+	},
+	
+	{
+		"id" : 10,
+		"key" : "PetSwallow",
+		"name" : "宠物吞噬"
+	},
+	
+	{
+		"id" : 11,
+		"key" : "RuneEmbed",
+		"name" : "符文镶嵌"
+	},
+	
+	{
+		"id" : 12,
+		"key" : "RuneUpgrade",
+		"name" : "符文升级"
+	},
+	
+	{
+		"id" : 13,
+		"key" : "GuildVein",
+		"name" : "仙盟心法"
+	},
+	
+	{
+		"id" : 14,
+		"key" : "WeaponReplace",
+		"name" : "替换装备"
+	},
+	
+	{
+		"id" : 15,
+		"key" : "SoulUpgrade",
+		"name" : "灵魂升级"
+	}
+]

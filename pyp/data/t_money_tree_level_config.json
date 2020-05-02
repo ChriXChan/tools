@@ -1,0 +1,32 @@
+
+[
+	
+	{
+		"level" : 1,
+		"path" : "home_mu_moneytree_plant.png"
+	},
+	
+	{
+		"level" : 2,
+		"path" : "home_mu_moneytree_plant.png",
+		"times" : 20
+	},
+	
+	{
+		"level" : 3,
+		"path" : "home_mu_moneytree_plant.png",
+		"times" : 300
+	},
+	
+	{
+		"level" : 4,
+		"path" : "home_mu_moneytree_plant.png",
+		"times" : 1000
+	},
+	
+	{
+		"level" : 5,
+		"path" : "home_mu_moneytree_plant.png",
+		"times" : 5000
+	}
+]

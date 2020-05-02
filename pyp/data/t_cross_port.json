@@ -1,0 +1,56 @@
+
+[
+	
+	{
+		"channel" : 9104,
+		"id" : 100000001,
+		"portBase" : 12000,
+		"portDesc" : "跨服排行榜",
+		"type" : 14
+	},
+	
+	{
+		"channel" : 323,
+		"code" : 5007,
+		"id" : 100005007,
+		"portBase" : 13000,
+		"portDesc" : "跨服盟战",
+		"type" : 10
+	},
+	
+	{
+		"channel" : 323,
+		"code" : 5012,
+		"id" : 100005012,
+		"portBase" : 13000,
+		"portDesc" : "青云之巅",
+		"type" : 10
+	},
+	
+	{
+		"channel" : 323,
+		"code" : 5013,
+		"id" : 100005013,
+		"portBase" : 13000,
+		"portDesc" : "巅峰竞技",
+		"type" : 10
+	},
+	
+	{
+		"channel" : 323,
+		"code" : 5014,
+		"id" : 100005014,
+		"portBase" : 13000,
+		"portDesc" : "神魔战场",
+		"type" : 10
+	},
+	
+	{
+		"channel" : 321,
+		"code" : 6101,
+		"id" : 100006101,
+		"portBase" : 10000,
+		"portDesc" : "神兽岛",
+		"type" : 10
+	}
+]

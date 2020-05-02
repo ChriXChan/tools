@@ -1,0 +1,39 @@
+
+[
+	
+	{
+		"contribution" : 100,
+		"lifeMax" : 3,
+		"lifeMin" : 1,
+		"prefix" : 1,
+		"score" : 1,
+		"worldLevelRewardId" : 11001
+	},
+	
+	{
+		"contribution" : 200,
+		"lifeMax" : 5,
+		"lifeMin" : 3,
+		"prefix" : 2,
+		"score" : 2,
+		"worldLevelRewardId" : 11002
+	},
+	
+	{
+		"contribution" : 300,
+		"lifeMax" : 7,
+		"lifeMin" : 5,
+		"prefix" : 3,
+		"score" : 3,
+		"worldLevelRewardId" : 11003
+	},
+	
+	{
+		"contribution" : 400,
+		"lifeMax" : 10,
+		"lifeMin" : 5,
+		"prefix" : 4,
+		"score" : 4,
+		"worldLevelRewardId" : 11004
+	}
+]

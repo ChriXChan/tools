@@ -1,0 +1,65 @@
+
+[
+	
+	{
+		"id" : 1,
+		"maxOpenDay" : 10,
+		"minOpenDay" : 1,
+		"minerId" : 1,
+		"rewardStr" : "3,40110221,100#3,40110400,10"
+	},
+	
+	{
+		"id" : 2,
+		"minOpenDay" : 11,
+		"minerId" : 1,
+		"rewardStr" : "3,40110221,100#3,40110400,10"
+	},
+	
+	{
+		"id" : 3,
+		"maxOpenDay" : 10,
+		"minOpenDay" : 1,
+		"minerId" : 2,
+		"rewardStr" : "3,40110221,200#3,40110400,20"
+	},
+	
+	{
+		"id" : 4,
+		"minOpenDay" : 11,
+		"minerId" : 2,
+		"rewardStr" : "3,40110221,200#3,40110400,20"
+	},
+	
+	{
+		"id" : 5,
+		"maxOpenDay" : 10,
+		"minOpenDay" : 1,
+		"minerId" : 3,
+		"rewardStr" : "3,40110221,400#3,40110400,40"
+	},
+	
+	{
+		"id" : 6,
+		"minOpenDay" : 11,
+		"minerId" : 3,
+		"rewardStr" : "3,40110221,400#3,40110400,40"
+	},
+	
+	{
+		"id" : 7,
+		"maxOpenDay" : 10,
+		"minOpenDay" : 1,
+		"minerId" : 4,
+		"rewardStr" : "3,40110221,800#3,40110400,40",
+		"specialRewardStr" : "3,40110223,1#"
+	},
+	
+	{
+		"id" : 8,
+		"minOpenDay" : 11,
+		"minerId" : 4,
+		"rewardStr" : "3,40110221,800#3,40110400,40",
+		"specialRewardStr" : "3,40110223,1#"
+	}
+]

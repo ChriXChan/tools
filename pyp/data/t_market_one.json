@@ -1,0 +1,45 @@
+
+[
+	
+	{
+		"oneId" : 1,
+		"oneIndex" : 1,
+		"oneName" : "剑客装备"
+	},
+	
+	{
+		"oneId" : 2,
+		"oneIndex" : 3,
+		"oneName" : "套装材料"
+	},
+	
+	{
+		"oneId" : 3,
+		"oneIndex" : 5,
+		"oneName" : "其他材料"
+	},
+	
+	{
+		"oneId" : 4,
+		"oneIndex" : 4,
+		"oneName" : "进阶令牌"
+	},
+	
+	{
+		"oneId" : 5,
+		"oneIndex" : 2,
+		"oneName" : "剑姬装备"
+	},
+	
+	{
+		"oneId" : 6,
+		"oneIndex" : 6,
+		"oneName" : "神器升级"
+	},
+	
+	{
+		"oneId" : 7,
+		"oneIndex" : 7,
+		"oneName" : "神器激活"
+	}
+]

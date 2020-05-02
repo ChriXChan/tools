@@ -1,0 +1,45 @@
+
+[
+	
+	{
+		"itemCode" : 40110011,
+		"maxLevel" : 99,
+		"minLevel" : 55,
+		"taskGroup" : 23
+	},
+	
+	{
+		"itemCode" : 40110012,
+		"maxLevel" : 149,
+		"minLevel" : 100,
+		"taskGroup" : 23
+	},
+	
+	{
+		"itemCode" : 40110013,
+		"maxLevel" : 199,
+		"minLevel" : 150,
+		"taskGroup" : 23
+	},
+	
+	{
+		"itemCode" : 40110014,
+		"maxLevel" : 249,
+		"minLevel" : 200,
+		"taskGroup" : 23
+	},
+	
+	{
+		"itemCode" : 40110015,
+		"maxLevel" : 999,
+		"minLevel" : 250,
+		"taskGroup" : 23
+	},
+	
+	{
+		"itemCode" : 40110016,
+		"maxLevel" : 999,
+		"minLevel" : 160,
+		"taskGroup" : 24
+	}
+]

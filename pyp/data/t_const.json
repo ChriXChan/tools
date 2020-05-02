@@ -1,0 +1,6317 @@
+
+[
+	
+	{
+		"constDesc" : "60防守副本刷怪数量",
+		"constName" : "60DefenseCopyBossCount",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "怪物跳跃距离",
+		"constName" : "60DefenseCopyBossFlashDistance",
+		"constValue" : 200
+	},
+	
+	{
+		"constDesc" : "怪物跟随距离",
+		"constName" : "60DefenseCopyBossFlowDistance",
+		"constValue" : 150
+	},
+	
+	{
+		"constDesc" : "战斗状态跟随距离",
+		"constName" : "60DefenseCopyBossFlowDistanceFighting",
+		"constValue" : 300
+	},
+	
+	{
+		"constDesc" : "抓迷藏活动最高收集次数",
+		"constName" : "ActiveHideAndSeekCollectionMax",
+		"constValue" : 9
+	},
+	
+	{
+		"constDesc" : "活跃玩家最小等级",
+		"constName" : "ActivePlayerLevel",
+		"constValue" : 100
+	},
+	
+	{
+		"constDesc" : "扩展背包容量1的费用（元宝）",
+		"constName" : "AddBagCapacityCost",
+		"constValue" : 55
+	},
+	
+	{
+		"constDesc" : "崇拜崇敬花费(ex是uint枚举)",
+		"constName" : "AdoreCrazy",
+		"constValue" : 30,
+		"constValueEx" : 2,
+		"functionName" : "CrossCell"
+	},
+	
+	{
+		"constDesc" : "友好崇敬花费(ex是uint枚举)",
+		"constName" : "AdoreFriendlyCost",
+		"constValue" : 10000,
+		"constValueEx" : 1,
+		"functionName" : "CrossCell"
+	},
+	
+	{
+		"constDesc" : "尊敬崇敬花费(ex是uint枚举)",
+		"constName" : "AdoreRespectfully",
+		"constValue" : 10,
+		"constValueEx" : 2,
+		"functionName" : "CrossCell"
+	},
+	
+	{
+		"constDesc" : "AI间隔时间",
+		"constName" : "AiInterval",
+		"constValue" : 500
+	},
+	
+	{
+		"constDesc" : "仙盟祭坛Boss出生点",
+		"constName" : "AltarCopyBossBorn",
+		"constValue" : 9,
+		"constValueEx" : 10
+	},
+	
+	{
+		"constDesc" : "仙盟祭坛中技能基础",
+		"constName" : "AltarCopyBossBufferBase",
+		"constValue" : 65100000,
+		"constValueEx" : 65000000
+	},
+	
+	{
+		"constDesc" : "仙盟祭坛副本code",
+		"constName" : "AltarCopyCode",
+		"constValue" : 601
+	},
+	
+	{
+		"constDesc" : "妖王副本Code",
+		"constName" : "AngryMonsterCopyCode",
+		"constValue" : 501
+	},
+	
+	{
+		"constDesc" : "万妖王bufferId",
+		"constName" : "AngryMonsterKingBufferId",
+		"constValue" : 55031010
+	},
+	
+	{
+		"constDesc" : "万妖王需要删除buffer cd",
+		"constName" : "AngryMonsterKingRemoveBufferCd",
+		"constValue" : 4
+	},
+	
+	{
+		"constDesc" : "万妖王准备时间",
+		"constName" : "AngryMonsterPrepareTime",
+		"constValue" : 300000
+	},
+	
+	{
+		"constDesc" : "竞技场战斗每方的人数",
+		"constName" : "ArenaBattlePlayerNum",
+		"constValue" : 1
+	},
+	
+	{
+		"constDesc" : "竞技场比赛时间（准备时间、比赛时间）",
+		"constName" : "ArenaBattleTime",
+		"constValue" : 15,
+		"constValueEx" : 300
+	},
+	
+	{
+		"constDesc" : "竞技场关闭准备时间",
+		"constName" : "ArenaClosePrepareTime",
+		"constValue" : 120,
+		"constValueEx" : 30
+	},
+	
+	{
+		"constDesc" : "竞技场副本code",
+		"constName" : "ArenaCopyCode",
+		"constValue" : 128
+	},
+	
+	{
+		"constDesc" : "跨服竞技场战斗每方的人数",
+		"constName" : "ArenaCrossBattlePlayerNum",
+		"constValue" : 1
+	},
+	
+	{
+		"constDesc" : "跨服竞技场比赛时间（准备时间、比赛时间）",
+		"constName" : "ArenaCrossBattleTime",
+		"constValue" : 15,
+		"constValueEx" : 180
+	},
+	
+	{
+		"constDesc" : "跨服竞技场副本code",
+		"constName" : "ArenaCrossCopyCode",
+		"constValue" : 144
+	},
+	
+	{
+		"constDesc" : "跨服竞技场决赛天榜地榜最大排名",
+		"constName" : "ArenaCrossFinalMatchMaxRank",
+		"constValue" : 2,
+		"constValueEx" : 4
+	},
+	
+	{
+		"constDesc" : "跨服竞技场决赛玩家数（天榜地榜分开）",
+		"constName" : "ArenaCrossFinalMatchPlayerNum",
+		"constValue" : 32
+	},
+	
+	{
+		"constDesc" : "跨服竞技场决赛每环最大比赛次数",
+		"constName" : "ArenaCrossFinalMaxBattleNumInRing",
+		"constValue" : 3
+	},
+	
+	{
+		"constDesc" : "跨服竞技场决赛最大环数（每一天、每二天）",
+		"constName" : "ArenaCrossFinalMaxRing",
+		"constValue" : 3,
+		"constValueEx" : 5
+	},
+	
+	{
+		"constDesc" : "跨服竞技场决赛每环时间",
+		"constName" : "ArenaCrossFinalRingTime",
+		"constValue" : 1200,
+		"constValueEx" : 240
+	},
+	
+	{
+		"constDesc" : "关注人数限制（每天最大人数，最大奖励次数）",
+		"constName" : "ArenaCrossFocusMaxNum",
+		"constValue" : 20,
+		"constValueEx" : 10
+	},
+	
+	{
+		"constDesc" : "跨服竞技场关注时获得的物品",
+		"constName" : "ArenaCrossFocusReward",
+		"constValue" : 14012278,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "小组赛人数（组数、每组人数）",
+		"constName" : "ArenaCrossGroupMatchGroupNum",
+		"constValue" : 16,
+		"constValueEx" : 10
+	},
+	
+	{
+		"constDesc" : "跨服竞技场小组赛每环时间（秒）",
+		"constName" : "ArenaCrossGroupRingTime",
+		"constValue" : 240
+	},
+	
+	{
+		"constDesc" : "跨服竞技场观战最大人数",
+		"constName" : "ArenaCrossMaxBattleWatchNum",
+		"constValue" : 500
+	},
+	
+	{
+		"constDesc" : "跨服竞技场每天最大答题次数",
+		"constName" : "ArenaCrossMaxQuestionTimes",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "跨服竞技场最少比赛场次",
+		"constName" : "ArenaCrossMinBattleNum",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "跨服竞技场报名最低等级",
+		"constName" : "ArenaCrossMinSignUpLevel",
+		"constValue" : 60
+	},
+	
+	{
+		"constDesc" : "跨服竞技场报名最低战斗力",
+		"constName" : "ArenaCrossMinSignUpWarfare",
+		"constValue" : 15000
+	},
+	
+	{
+		"constDesc" : "跨服竞技场报名（伪）奖励",
+		"constName" : "ArenaCrossRegistReward",
+		"constValue" : 14011533,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "跨服竞技场送花获得金券",
+		"constName" : "ArenaCrossSendFlowerReward",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "跨服竞技场系统送花时间（秒）",
+		"constName" : "ArenaCrossSysSendFlowerTime",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "竞技场第1名奖励",
+		"constName" : "ArenaFinaReward1",
+		"constValue" : 40111021,
+		"constValueEx" : 400000
+	},
+	
+	{
+		"constDesc" : "竞技场第2名奖励",
+		"constName" : "ArenaFinaReward2",
+		"constValue" : 40111022,
+		"constValueEx" : 400001
+	},
+	
+	{
+		"constDesc" : "竞技场第3、4名奖励",
+		"constName" : "ArenaFinaReward3",
+		"constValue" : 40111023,
+		"constValueEx" : 400002
+	},
+	
+	{
+		"constDesc" : "竞技场第5~10名奖励",
+		"constName" : "ArenaFinaReward4",
+		"constValue" : 40111024
+	},
+	
+	{
+		"constDesc" : "竞技场第11~50名奖励",
+		"constName" : "ArenaFinaReward5",
+		"constValue" : 40111025
+	},
+	
+	{
+		"constDesc" : "竞技场淘汰赛每轮时间（第一轮开始时间、间隔时间）",
+		"constName" : "ArenaFinaRingTime",
+		"constValue" : 300,
+		"constValueEx" : 360
+	},
+	
+	{
+		"constDesc" : "竞技场礼包心愿值上下限",
+		"constName" : "ArenaGiftMaxWishValue",
+		"constValue" : 100,
+		"constValueEx" : 149
+	},
+	
+	{
+		"constDesc" : "竞技场初始活跃度",
+		"constName" : "ArenaInitTimes",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "竞技场最低进入等级",
+		"constName" : "ArenaMinEnterLevel",
+		"constValue" : 40
+	},
+	
+	{
+		"constDesc" : "竞技场礼包移除第五个物品需要金钱（Ex为货币单位）",
+		"constName" : "ArenaRemoveGiftFiveCost",
+		"constValue" : 25,
+		"constValueEx" : 2
+	},
+	
+	{
+		"constDesc" : "竞技场礼包移除5次开出物品的概率",
+		"constName" : "ArenaRemoveGiftFiveRate",
+		"constValue" : 3300,
+		"constValueEx" : 6300
+	},
+	
+	{
+		"constDesc" : "竞技场礼包移除第四个物品需要金钱（Ex为货币单位）",
+		"constName" : "ArenaRemoveGiftFourCost",
+		"constValue" : 20,
+		"constValueEx" : 2
+	},
+	
+	{
+		"constDesc" : "竞技场礼包移除4次开出物品的概率",
+		"constName" : "ArenaRemoveGiftFourRate",
+		"constValue" : 2200,
+		"constValueEx" : 4400
+	},
+	
+	{
+		"constDesc" : "移除五次礼包物品对竞技场礼包开出乌金需要的礼包次数上下限影响",
+		"constName" : "ArenaRemoveGiftInfluenceFive",
+		"constValue" : 1600,
+		"constValueEx" : 1570
+	},
+	
+	{
+		"constDesc" : "移除四次礼包物品对竞技场礼包开出乌金需要的礼包次数上下限影响",
+		"constName" : "ArenaRemoveGiftInfluenceFour",
+		"constValue" : 900,
+		"constValueEx" : 1015
+	},
+	
+	{
+		"constDesc" : "移除一次礼包物品对竞技场礼包开出乌金需要的礼包次数上下限影响",
+		"constName" : "ArenaRemoveGiftInfluenceOne",
+		"constValue" : 70,
+		"constValueEx" : 100
+	},
+	
+	{
+		"constDesc" : "移除六次礼包物品对竞技场礼包开出乌金需要的礼包次数上下限影响",
+		"constName" : "ArenaRemoveGiftInfluenceSix",
+		"constValue" : 2400,
+		"constValueEx" : 2400
+	},
+	
+	{
+		"constDesc" : "移除三次礼包物品对竞技场礼包开出乌金需要的礼包次数上下限影响",
+		"constName" : "ArenaRemoveGiftInfluenceThree",
+		"constValue" : 460,
+		"constValueEx" : 570
+	},
+	
+	{
+		"constDesc" : "移除二次礼包物品对竞技场礼包开出乌金需要的礼包次数上下限影响",
+		"constName" : "ArenaRemoveGiftInfluenceTwo",
+		"constValue" : 180,
+		"constValueEx" : 235
+	},
+	
+	{
+		"constDesc" : "竞技场礼包移除第一个物品需要金钱（Ex为货币单位）",
+		"constName" : "ArenaRemoveGiftOneCost",
+		"constValue" : 5,
+		"constValueEx" : 2
+	},
+	
+	{
+		"constDesc" : "竞技场礼包移除1次开出物品的概率",
+		"constName" : "ArenaRemoveGiftOneRate",
+		"constValue" : 220,
+		"constValueEx" : 320
+	},
+	
+	{
+		"constDesc" : "竞技场礼包移除第六个物品需要金钱（Ex为货币单位）",
+		"constName" : "ArenaRemoveGiftSixCost",
+		"constValue" : 30,
+		"constValueEx" : 2
+	},
+	
+	{
+		"constDesc" : "竞技场礼包移除6次开出物品的概率",
+		"constName" : "ArenaRemoveGiftSixRate",
+		"constValue" : 5000,
+		"constValueEx" : 9800
+	},
+	
+	{
+		"constDesc" : "竞技场礼包移除第三个物品需要金钱（Ex为货币单位）",
+		"constName" : "ArenaRemoveGiftThreeCost",
+		"constValue" : 15,
+		"constValueEx" : 2
+	},
+	
+	{
+		"constDesc" : "竞技场礼包移除3次开出物品的概率",
+		"constName" : "ArenaRemoveGiftThreeRate",
+		"constValue" : 1300,
+		"constValueEx" : 2800
+	},
+	
+	{
+		"constDesc" : "竞技场礼包移除第二个物品需要金钱（Ex为货币单位）",
+		"constName" : "ArenaRemoveGiftTwoCost",
+		"constValue" : 10,
+		"constValueEx" : 2
+	},
+	
+	{
+		"constDesc" : "竞技场礼包移除2次开出物品的概率",
+		"constName" : "ArenaRemoveGiftTwoRate",
+		"constValue" : 660,
+		"constValueEx" : 1460
+	},
+	
+	{
+		"constDesc" : "竞技场礼包移除0次开出物品的概率",
+		"constName" : "ArenaRemoveGiftZeroRate",
+		"constValue" : 100,
+		"constValueEx" : 151
+	},
+	
+	{
+		"constDesc" : "竞技场排名金券场次条件",
+		"constName" : "ArenaRewardCondition",
+		"constValue" : 3,
+		"constValueEx" : 30
+	},
+	
+	{
+		"constDesc" : "竞技场奖励（紫色洗炼石）",
+		"constName" : "ArenaRewardItem1",
+		"constValue" : 14049401,
+		"constValueEx" : 2
+	},
+	
+	{
+		"constDesc" : "竞技场奖励（蓝色洗炼石）",
+		"constName" : "ArenaRewardItem2",
+		"constValue" : 14049301,
+		"constValueEx" : 2
+	},
+	
+	{
+		"constDesc" : "竞技场奖励（1级强化石）",
+		"constName" : "ArenaRewardItem3",
+		"constValue" : 14037100,
+		"constValueEx" : 2
+	},
+	
+	{
+		"constDesc" : "竞技场奖励（2级强化石）",
+		"constName" : "ArenaRewardItem4",
+		"constValue" : 14037101,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "竞技场奖励（初级合成符）",
+		"constName" : "ArenaRewardItem5",
+		"constValue" : 14009201,
+		"constValueEx" : 2
+	},
+	
+	{
+		"constDesc" : "竞技场奖励（中级合成符）",
+		"constName" : "ArenaRewardItem6",
+		"constValue" : 14009301,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "竞技场奖励（预留）",
+		"constName" : "ArenaRewardItem7"
+	},
+	
+	{
+		"constDesc" : "竞技场奖励（预留）",
+		"constName" : "ArenaRewardItem8"
+	},
+	
+	{
+		"constDesc" : "竞技场奖励（预留）",
+		"constName" : "ArenaRewardItem9"
+	},
+	
+	{
+		"constDesc" : "竞技场炫耀战报",
+		"constName" : "ArenaSaveFightRecord",
+		"constValue" : 30,
+		"constValueEx" : 2
+	},
+	
+	{
+		"constDesc" : "竞技场加速buffer",
+		"constName" : "ArenaSpeedUpBuffer",
+		"constValue" : 55031998
+	},
+	
+	{
+		"constDesc" : "a星算法是否使用老算法",
+		"constName" : "AStarFindWay",
+		"constValue" : 1
+	},
+	
+	{
+		"constDesc" : "攻击CD(毫秒)",
+		"constName" : "AttackCd",
+		"constValue" : 1000
+	},
+	
+	{
+		"constDesc" : "攻击距离(像素)",
+		"constName" : "AttackDistance",
+		"constValue" : 120
+	},
+	
+	{
+		"constDesc" : "每天使用属性道具次数",
+		"constName" : "AttributePropUseNumPerDay",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "自动攻击怪物范围（像素）",
+		"constName" : "AutoFightBossDistance",
+		"constValue" : 300
+	},
+	
+	{
+		"constDesc" : "开启背包元宝数",
+		"constName" : "BagCapacityCostGold",
+		"constValue" : 2
+	},
+	
+	{
+		"constDesc" : "战场助攻范围",
+		"constName" : "BattleFieldAssistDistance",
+		"constValue" : 400
+	},
+	
+	{
+		"constDesc" : "战场平衡时间",
+		"constName" : "BattleFieldBalanceTime",
+		"constValue" : 600
+	},
+	
+	{
+		"constDesc" : "战场中每个阵营最多参加人数",
+		"constName" : "BattleFieldCampMaxPlayerNum",
+		"constValue" : 40
+	},
+	
+	{
+		"constDesc" : "可以开启战场的时间段",
+		"constName" : "BattleFieldCanOpenTime",
+		"constValue" : 1200
+	},
+	
+	{
+		"constDesc" : "战场延迟关闭时间",
+		"constName" : "BattleFieldCloseDelay",
+		"constValue" : 120
+	},
+	
+	{
+		"constDesc" : "战场的副本id",
+		"constName" : "BattleFieldCopyCode",
+		"constValue" : 110
+	},
+	
+	{
+		"constDesc" : "死亡获得荣誉",
+		"constName" : "BattleFieldDeadHonour",
+		"constValue" : 3
+	},
+	
+	{
+		"constDesc" : "战场进入间隔",
+		"constName" : "BattleFieldEnterCD",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "第一阵营加成",
+		"constName" : "BattleFieldFirstCampAddition",
+		"constValue" : 100
+	},
+	
+	{
+		"constDesc" : "战场瞬杀时间间隔",
+		"constName" : "BattleFieldInstantKillCD",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "战场参与奖需要荣誉",
+		"constName" : "BattleFieldJoinHonour",
+		"constValue" : 50
+	},
+	
+	{
+		"constDesc" : "战场等级限制",
+		"constName" : "BattleFieldLimitLevel",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "战场的个数",
+		"constName" : "BattleFieldMaxFieldNum",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "已开启战场单阵营需要满足条件的阵营数",
+		"constName" : "BattleFieldNewFieldNeedCampNum",
+		"constValue" : 2
+	},
+	
+	{
+		"constDesc" : "已开启战场单阵营需要人数",
+		"constName" : "BattleFieldNewFieldNeedPlayerNum",
+		"constValue" : 35
+	},
+	
+	{
+		"constDesc" : "第二阵营加成",
+		"constName" : "BattleFieldSecondCampAddition",
+		"constValue" : 140
+	},
+	
+	{
+		"constDesc" : "第三阵营加成",
+		"constName" : "BattleFieldThirdCampAddition",
+		"constValue" : 150
+	},
+	
+	{
+		"constDesc" : "战场结盟优势阵营积分比例",
+		"constName" : "BattleFieldUnionCreditPercent",
+		"constValue" : 48
+	},
+	
+	{
+		"constDesc" : "切磋最低等级",
+		"constName" : "BattleMinLevel",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "增加神兽助战上限道具",
+		"constName" : "BeastAddMaxBeckonNumProp",
+		"constValue" : 42170001,
+		"constValueEx" : 42170002
+	},
+	
+	{
+		"constDesc" : "神兽岛增加基本经验系数",
+		"constName" : "BeastIslandAddBaseExperienceNum",
+		"constValue" : 4
+	},
+	
+	{
+		"constDesc" : "神兽岛增加经验间隔（秒）",
+		"constName" : "BeastIslandAddExperienceInterval",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "神兽岛采集过程中生命扣除百分比",
+		"constName" : "BeastIslandCollectLifePer",
+		"constValue" : 7
+	},
+	
+	{
+		"constDesc" : "神兽岛采集过程扣除生命值次数",
+		"constName" : "BeastIslandCollectLiftCount",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "神兽岛龙灵晶魄刷新间隔（秒）",
+		"constName" : "BeastIslandCrystalRefreshInterval_510702",
+		"constValue" : 2400
+	},
+	
+	{
+		"constDesc" : "神兽岛麒麟水晶刷新间隔（秒）",
+		"constName" : "BeastIslandCrystalRefreshInterval_510703",
+		"constValue" : 2400
+	},
+	
+	{
+		"constDesc" : "神兽岛精英神卫BossCode",
+		"constName" : "BeastIslandEliteBossCode",
+		"constValue" : 506101201
+	},
+	
+	{
+		"constDesc" : "神兽岛精英怪刷新间隔（秒）",
+		"constName" : "BeastIslandEliteRefreshInterval_510702",
+		"constValue" : 1800
+	},
+	
+	{
+		"constDesc" : "神兽岛精英怪刷新间隔[二层]（秒）\t",
+		"constName" : "BeastIslandEliteRefreshInterval_510703",
+		"constValue" : 1800
+	},
+	
+	{
+		"constDesc" : "神兽岛疲劳值上限",
+		"constName" : "BeastIslandTireMax",
+		"constValue" : 3
+	},
+	
+	{
+		"constDesc" : "神兽助战上限（两个道具加1）",
+		"constName" : "BeastMaxBeckonNum",
+		"constValue" : 2
+	},
+	
+	{
+		"constDesc" : "竞猜活动超时统一处理返还百分比",
+		"constName" : "BetCompetitionTimeoutRate",
+		"constValue" : 50
+	},
+	
+	{
+		"constDesc" : "怪兽战场助攻范围",
+		"constName" : "BossFieldAssistDistance",
+		"constValue" : 400
+	},
+	
+	{
+		"constDesc" : "战场怪兽无敌buff",
+		"constName" : "BossFieldBossBuffer",
+		"constValue" : 55997001
+	},
+	
+	{
+		"constDesc" : "怪兽阵营荣誉",
+		"constName" : "BossFieldBossCampHonour",
+		"constValue" : 5000
+	},
+	
+	{
+		"constDesc" : "单个怪兽战场每个势力最多参加人数",
+		"constName" : "BossFieldCampForceMaxPlayerNum",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "可以开启怪兽战场时间段",
+		"constName" : "BossFieldCanOpenTime",
+		"constValue" : 1200
+	},
+	
+	{
+		"constDesc" : "怪兽战场副本code",
+		"constName" : "BossFieldCopyCode",
+		"constValue" : 162
+	},
+	
+	{
+		"constDesc" : "怪兽战场死亡获得荣誉",
+		"constName" : "BossFieldDeadHonour",
+		"constValue" : 3
+	},
+	
+	{
+		"constDesc" : "怪兽战场进入间隔",
+		"constName" : "BossFieldEnterCD",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "怪兽战场第一名阵营荣誉奖励",
+		"constName" : "BossFieldFirstCampHonour",
+		"constValue" : 5000
+	},
+	
+	{
+		"constDesc" : "第一势力加成",
+		"constName" : "BossFieldFirstForceAddition",
+		"constValue" : 100
+	},
+	
+	{
+		"constDesc" : "怪兽战场瞬杀时间间隔",
+		"constName" : "BossFieldInstantKillCD",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "怪兽战场参与奖需要荣誉",
+		"constName" : "BossFieldJoinHonour",
+		"constValue" : 100
+	},
+	
+	{
+		"constDesc" : "怪兽战场等级限制",
+		"constName" : "BossFieldLimitLevel",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "怪兽战场个数上限",
+		"constName" : "BossFieldMaxFieldNum",
+		"constValue" : 9
+	},
+	
+	{
+		"constDesc" : "开启新怪兽战场单阵营需要人数",
+		"constName" : "BossFieldNewFieldNeedPlayerNum",
+		"constValue" : 20,
+		"constValueEx" : 4
+	},
+	
+	{
+		"constDesc" : "怪兽战场第二名阵营荣誉奖励",
+		"constName" : "BossFieldSecondCampHonour",
+		"constValue" : 4500
+	},
+	
+	{
+		"constDesc" : "第二势力加成",
+		"constName" : "BossFieldSecondForceAddition",
+		"constValue" : 110
+	},
+	
+	{
+		"constDesc" : "战场任务被杀次数",
+		"constName" : "BossFieldTaskBeKillNum",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "战场任务奖励荣誉",
+		"constName" : "BossFieldTaskHonourAward",
+		"constValue" : 2000
+	},
+	
+	{
+		"constDesc" : "战场任务杀人数",
+		"constName" : "BossFieldTaskKillNum",
+		"constValue" : 3
+	},
+	
+	{
+		"constDesc" : "怪兽战场第三名阵营荣誉奖励",
+		"constName" : "BossFieldThirdCampHonour",
+		"constValue" : 4200
+	},
+	
+	{
+		"constDesc" : "第三势力加成",
+		"constName" : "BossFieldThirdForceAddition",
+		"constValue" : 120
+	},
+	
+	{
+		"constDesc" : "BOSS地图复活疲劳每加一层的冷却时间（秒）",
+		"constName" : "BossMapRevivalTireAddCD",
+		"constValue" : 300
+	},
+	
+	{
+		"constDesc" : "BOSS地图复活疲劳限制（达到X层之后复活时间变成Y秒）",
+		"constName" : "BossMapRevivalTireLimit",
+		"constValue" : 5,
+		"constValueEx" : 60
+	},
+	
+	{
+		"constDesc" : "答题时距离boss的最大距离",
+		"constName" : "BossQuestionMaxDistance",
+		"constValue" : 200
+	},
+	
+	{
+		"constDesc" : "动态刷怪功能开启状态（1:开启 0:关闭）",
+		"constName" : "BossRefreshDynamicFunc",
+		"constValue" : 1
+	},
+	
+	{
+		"constDesc" : "广播物品商城元宝售价最低值",
+		"constName" : "BroadcastItemGoldPriceMin",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "阵营1主城传送点",
+		"constName" : "CampOneCityPassPoint",
+		"constValue" : 100102,
+		"constValueEx" : 1840187
+	},
+	
+	{
+		"constDesc" : "阵营3主城传送点",
+		"constName" : "CampThreeCityPassPoint",
+		"constValue" : 300102,
+		"constValueEx" : 1770170
+	},
+	
+	{
+		"constDesc" : "阵营2主城传送点",
+		"constName" : "CampTwoCityPassPoint",
+		"constValue" : 200102,
+		"constValueEx" : 1710189
+	},
+	
+	{
+		"constDesc" : "渡劫怪诞生点",
+		"constName" : "CatagropheBossBornPoint",
+		"constValue" : 8,
+		"constValueEx" : 16
+	},
+	
+	{
+		"constDesc" : "庆典礼花气氛值最后阶段和奖励",
+		"constName" : "CelebrateValueStepEnd",
+		"constValue" : 50000,
+		"constValueEx" : 40151109
+	},
+	
+	{
+		"constDesc" : "庆典礼花气氛值第一阶段和奖励",
+		"constName" : "CelebrateValueStepOne",
+		"constValue" : 20000,
+		"constValueEx" : 40151102
+	},
+	
+	{
+		"constDesc" : "新手更换特定区域更换坐骑1",
+		"constName" : "ChanePlayerMountNewPlayer1",
+		"constValue" : 1210003,
+		"constValueEx" : 1210003
+	},
+	
+	{
+		"constDesc" : "新手更换特定区域更换坐骑2",
+		"constName" : "ChanePlayerMountNewPlayer2",
+		"constValue" : 1210001,
+		"constValueEx" : 1210001
+	},
+	
+	{
+		"constDesc" : "变性CD时间（天）",
+		"constName" : "ChangeSexCD",
+		"constValue" : 7
+	},
+	
+	{
+		"constDesc" : "章节副本增加次数间隔秒数",
+		"constName" : "ChapterCopyAddNumIntervalSec",
+		"constValue" : 900
+	},
+	
+	{
+		"constDesc" : "章节副本code",
+		"constName" : "ChapterCopyCode",
+		"constValue" : 1001
+	},
+	
+	{
+		"constDesc" : "剧情副本关卡扫荡需达到星级",
+		"constName" : "ChapterCopyDelegateStarLimit",
+		"constValue" : 3
+	},
+	
+	{
+		"constDesc" : "章节副本初始化次数",
+		"constName" : "ChapterCopyInitNum",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "3星通关限制时间（单位：秒）",
+		"constName" : "ChapterCopyThressStarLimit",
+		"constValue" : 60
+	},
+	
+	{
+		"constDesc" : "每天前X次进入Y倍掉落",
+		"constName" : "ChapterCopyTodayEnterExtraTime",
+		"constValue" : 5,
+		"constValueEx" : 2
+	},
+	
+	{
+		"constDesc" : "2星通关限制时间（单位：秒）",
+		"constName" : "ChapterCopyTwoStarLimit",
+		"constValue" : 120
+	},
+	
+	{
+		"constDesc" : "跨服魅力榜全服奖励",
+		"constName" : "CharmRankReward",
+		"constValue" : 40111234
+	},
+	
+	{
+		"constDesc" : "聊天间隔（单位：秒）",
+		"constName" : "ChatIntervalTime",
+		"constValue" : 5,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "区域聊天玩家等级限制",
+		"constName" : "ChatSpacePlayerLevel",
+		"constValue" : 371
+	},
+	
+	{
+		"constDesc" : "世界频道聊天玩家等级",
+		"constName" : "ChatWorldPlayerLevel",
+		"constValue" : 100
+	},
+	
+	{
+		"constDesc" : "非圣诞期间使用普通卡片给予经验",
+		"constName" : "CheristmasCardExp1",
+		"constValue" : 2000
+	},
+	
+	{
+		"constDesc" : "非圣诞期间使用精良卡片给予经验",
+		"constName" : "CheristmasCardExp2",
+		"constValue" : 5000
+	},
+	
+	{
+		"constDesc" : "非圣诞期间使用高级卡片给予经验",
+		"constName" : "CheristmasCardExp3",
+		"constValue" : 10000
+	},
+	
+	{
+		"constDesc" : "仙娃系统特殊激活code",
+		"constName" : "ChildrenSpecialCode",
+		"constValue" : 2000
+	},
+	
+	{
+		"constDesc" : "激活特殊仙娃需求同心锁等级",
+		"constName" : "ChildrenSpecialHeartLockLevel",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "铜钱副本code",
+		"constName" : "CoinCopyCode",
+		"constValue" : 1004
+	},
+	
+	{
+		"constDesc" : "采集距离(像素)",
+		"constName" : "CollectDistance",
+		"constValue" : 120
+	},
+	
+	{
+		"constDesc" : "快捷商店id",
+		"constName" : "ConvenienceStore",
+		"constValue" : 1721
+	},
+	
+	{
+		"constDesc" : "小飞鞋传送最近距离限制（像素）",
+		"constName" : "ConveyNearDistance",
+		"constValue" : 640
+	},
+	
+	{
+		"constDesc" : "副本助战次数（次数上限，每次助战荣誉）",
+		"constName" : "CopyAssistCount",
+		"constValue" : 20,
+		"constValueEx" : 800
+	},
+	
+	{
+		"constDesc" : "体力值每小时增加值",
+		"constName" : "CopyEnergyAddPerHour",
+		"constValue" : 10,
+		"constValueEx" : 720
+	},
+	
+	{
+		"constDesc" : "距离NPC距离内可以进副本",
+		"constName" : "CopyEnterNpcDistance",
+		"constValue" : 500
+	},
+	
+	{
+		"constDesc" : "皇帝争霸副本CODE",
+		"constName" : "copyFeudalHegemonyCode",
+		"constValue" : 189
+	},
+	
+	{
+		"constDesc" : "副本名字最大长度",
+		"constName" : "CopyGroupNameMaxLength",
+		"constValue" : 7
+	},
+	
+	{
+		"constDesc" : "精英副本作为仙侠进行协助的次数（镜像组队功能开放，屏蔽仙侠）",
+		"constName" : "CopyHeroAssistCount"
+	},
+	
+	{
+		"constDesc" : "副本N环为一波",
+		"constName" : "CopyRingPerWave",
+		"constValue" : 15
+	},
+	
+	{
+		"constDesc" : "房间玩家总数限制",
+		"constName" : "CopyRoomPlayerCount",
+		"constValue" : 5,
+		"functionName" : "CopyRoom"
+	},
+	
+	{
+		"constDesc" : "碧海银滩副本code",
+		"constName" : "CrossBeachCopyCode",
+		"constValue" : 149
+	},
+	
+	{
+		"constDesc" : "跨服碧海银滩最大个数",
+		"constName" : "CrossBeachMaxNum",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "跨服碧海银滩可容纳最大人数",
+		"constName" : "CrossBeachMaxPlayerNum",
+		"constValue" : 100
+	},
+	
+	{
+		"constDesc" : "跨服碧海银滩开启需要人数",
+		"constName" : "CrossBeachOpenNeedPlayerNum",
+		"constValue" : 80,
+		"constValueEx" : 2
+	},
+	
+	{
+		"constDesc" : "跨服boss副本code",
+		"constName" : "CrossBossCopyCode",
+		"constValue" : 153
+	},
+	
+	{
+		"constDesc" : "跨服战场每个势力怪物数",
+		"constName" : "CrossBossFieldBossForceMaxMonsterNum",
+		"constValue" : 3
+	},
+	
+	{
+		"constDesc" : "跨服战场每个势力人数",
+		"constName" : "CrossBossFieldCampForceMaxPlayerNum",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "跨服战场副本code",
+		"constName" : "CrossBossFieldCopyCode",
+		"constValue" : 166
+	},
+	
+	{
+		"constDesc" : "跨服封魔等级限制",
+		"constName" : "CrossBossFieldLimitLevel",
+		"constValue" : 40
+	},
+	
+	{
+		"constDesc" : "跨服战场另开人数",
+		"constName" : "CrossBossFieldNewFieldNeedPlayerNum",
+		"constValue" : 20,
+		"constValueEx" : 4
+	},
+	
+	{
+		"constDesc" : "跨服Boss场景最大人数",
+		"constName" : "CrossBossMaxPlayerNum",
+		"constValue" : 85
+	},
+	
+	{
+		"constDesc" : "跨服boss主力公会需要战斗力",
+		"constName" : "CrossBossNeedCombat",
+		"constValue" : 180000
+	},
+	
+	{
+		"constDesc" : "跨服boss主力公会需要人数",
+		"constName" : "CrossBossNeedPlayerNum",
+		"constValue" : 8
+	},
+	
+	{
+		"constDesc" : "跨服boss数量",
+		"constName" : "crossBossNum",
+		"constValue" : 3,
+		"functionName" : "crossTreasure"
+	},
+	
+	{
+		"constDesc" : "跨服boss休息室地图id",
+		"constName" : "CrossBossWaitingRoomMapId",
+		"constValue" : 900803
+	},
+	
+	{
+		"constDesc" : "跨服Cell的ChannelId",
+		"constName" : "CrossCellChannel",
+		"constValue" : 30000800,
+		"constValueEx" : 3331,
+		"functionName" : "CrossCell"
+	},
+	
+	{
+		"constDesc" : "跨服主城进入等级",
+		"constName" : "CrossCellEnterLevel",
+		"constValue" : 70,
+		"functionName" : "CrossCell"
+	},
+	
+	{
+		"constDesc" : "跨服主城地图id",
+		"constName" : "CrossCellMapId",
+		"constValue" : 110901,
+		"functionName" : "CrossCell"
+	},
+	
+	{
+		"constDesc" : "跨服城战-持续时间",
+		"constName" : "CrossCityActiveContinueTime",
+		"constValue" : 30,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "跨服城战-竞拍重新开始的倒计时",
+		"constName" : "CrossCityBackTime",
+		"constValue" : 30,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "跨服城战-冷却时间(2分钟)",
+		"constName" : "CrosscityColdCD",
+		"constValue" : 120,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "跨服城战-副本code(一级城)",
+		"constName" : "CrossCityCopyCode",
+		"constValue" : 705,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "跨服城战战力1级",
+		"constName" : "CrossCityDefaultCombat1",
+		"constValue" : 50000,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "跨服城战战力2级",
+		"constName" : "CrossCityDefaultCombat2",
+		"constValue" : 40000,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "跨服城战战力2级",
+		"constName" : "CrossCityDefaultCombat3",
+		"constValue" : 40000,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "跨服城战战力3级",
+		"constName" : "CrossCityDefaultCombat4",
+		"constValue" : 30000,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "跨服城战战力3级",
+		"constName" : "CrossCityDefaultCombat5",
+		"constValue" : 30000,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "跨服城战战力3级",
+		"constName" : "CrossCityDefaultCombat6",
+		"constValue" : 30000,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "跨服城战-默认等级",
+		"constName" : "CrossCityDefaultLevel",
+		"constValue" : 50,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "跨服城战-获胜方的福利礼包",
+		"constName" : "CrossCityGiftCode",
+		"constValue" : 40121135,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "跨服城战-助攻有效范围",
+		"constName" : "CrossCityHelpDistance",
+		"constValue" : 20,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "获得国家荣誉规则(击杀获得3点，死亡获得1点)",
+		"constName" : "CrossCityKillAndDeadGetHonor",
+		"constValue" : 3,
+		"constValueEx" : 1,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "跨服城战BOSS被杀死奖励",
+		"constName" : "CrossCityKillBossReward",
+		"constValue" : 40121136,
+		"constValueEx" : 1,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "跨服城战-竞拍持续时间",
+		"constName" : "CrossCityLastTime",
+		"constValue" : 600,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "一级城竞拍持续时间",
+		"constName" : "CrossCityLastTime1",
+		"constValue" : 600,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "二级城竞拍持续时间",
+		"constName" : "CrossCityLastTime2",
+		"constValue" : 300,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "三级城竞拍持续时间",
+		"constName" : "CrossCityLastTime3",
+		"constValue" : 300,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "四级城竞拍持续时间",
+		"constName" : "CrossCityLastTime4",
+		"constValue" : 180,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "五级城竞拍持续时间",
+		"constName" : "CrossCityLastTime5",
+		"constValue" : 180,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "六级城竞拍持续时间",
+		"constName" : "CrossCityLastTime6",
+		"constValue" : 180,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "城战图标显示等级限制",
+		"constName" : "CrossCityLevelLimit",
+		"constValue" : 40,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "跨服城战-最大人数限制",
+		"constName" : "CrossCityMaxPlayer",
+		"constValue" : 50,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "跨服城战-支援人数上限",
+		"constName" : "CrossCitymaxSupportNum",
+		"constValue" : 15,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "跨服城战-提前开始时间",
+		"constName" : "CrossCityPreviousTime",
+		"constValue" : 10,
+		"constValueEx" : 30,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "跨服城战复活获得的buffer",
+		"constName" : "CrossCityRevivalBuffer",
+		"constValue" : 55997000,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "获胜者(参与)奖励银票",
+		"constName" : "CrossCityWinRewardJoin",
+		"constValue" : 40151112,
+		"constValueEx" : 2,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "获胜者(未参与)奖励银票",
+		"constName" : "CrossCityWinRewardNoJoin",
+		"constValue" : 40151112,
+		"constValueEx" : 1,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "跨服城战-世界等级限制",
+		"constName" : "CrossCityWorldLevelLimit",
+		"constValue" : 60,
+		"functionName" : "crossCity"
+	},
+	
+	{
+		"constDesc" : "跨服无边海最大副本数量",
+		"constName" : "CrossFairylandMaxCopyNum",
+		"constValue" : 200
+	},
+	
+	{
+		"constDesc" : "跨服仙盟战副本",
+		"constName" : "CrossGuildBattleCopyCode",
+		"constValue" : 704,
+		"constValueEx" : 131602,
+		"functionName" : "CrossGuildBattle"
+	},
+	
+	{
+		"constDesc" : "跨服仙盟战最小参与等级",
+		"constName" : "CrossGuildBattleLevel",
+		"constValue" : 38,
+		"functionName" : "CrossGuildBattle"
+	},
+	
+	{
+		"constDesc" : "跨服仙盟战单战场参与人数",
+		"constName" : "CrossGuildBattleNumber",
+		"constValue" : 200,
+		"functionName" : "CrossGuildBattle"
+	},
+	
+	{
+		"constDesc" : "跨服仙盟战有资格参加的最小开服天数",
+		"constName" : "CrossGuildBattleServerOpenMinDay",
+		"constValue" : 9999999,
+		"functionName" : "CrossGuildBattle"
+	},
+	
+	{
+		"constDesc" : "跨服InterId",
+		"constName" : "CrossInterId",
+		"constValue" : 160000999
+	},
+	
+	{
+		"constDesc" : "跨服主城占领方折扣",
+		"constName" : "CrossMainCellHostDiscount",
+		"constValue" : 95,
+		"functionName" : "CrossCell"
+	},
+	
+	{
+		"constDesc" : "跨服主城门票价格（绑定铜钱）",
+		"constName" : "CrossMainCellTicket",
+		"constValue" : 100000,
+		"functionName" : "CrossCell"
+	},
+	
+	{
+		"constDesc" : "跨服迷宫结算时间",
+		"constName" : "CrossMazeRewardTime",
+		"constValueEx" : 22
+	},
+	
+	{
+		"constDesc" : "跨服天空之城地图Id",
+		"constName" : "CrossSkyCityMapId",
+		"constValue" : 500104
+	},
+	
+	{
+		"constDesc" : "跨服温泉副本code",
+		"constName" : "CrossSpaCopyCode",
+		"constValue" : 121
+	},
+	
+	{
+		"constDesc" : "跨服温泉最大个数",
+		"constName" : "CrossSpaMaxNum",
+		"constValue" : 100
+	},
+	
+	{
+		"constDesc" : "跨服温泉可容纳最大人数",
+		"constName" : "CrossSpaMaxPlayerNum",
+		"constValue" : 60,
+		"constValueEx" : 4
+	},
+	
+	{
+		"constDesc" : "跨服温泉开启需要人数",
+		"constName" : "CrossSpaOpenNeedPlayerNum",
+		"constValue" : 60,
+		"constValueEx" : 4
+	},
+	
+	{
+		"constDesc" : "助攻范围",
+		"constName" : "CrossStairAssistDistance",
+		"constValue" : 500
+	},
+	
+	{
+		"constDesc" : "顶层玩家每const_value_ex秒可获得const_value积分",
+		"constName" : "CrossStairAutoAddScore",
+		"constValue" : 100,
+		"constValueEx" : 30
+	},
+	
+	{
+		"constDesc" : "青云之巅副本code",
+		"constName" : "CrossStairCopyCode",
+		"constValue" : 5002,
+		"constValueEx" : 5012
+	},
+	
+	{
+		"constDesc" : "死亡分数",
+		"constName" : "CrossStairDeathScore",
+		"constValue" : 1
+	},
+	
+	{
+		"constDesc" : "青云之巅顶层boss",
+		"constName" : "CrossStairFinalBossCode",
+		"constValue" : 30600001
+	},
+	
+	{
+		"constDesc" : "青云之巅首位登顶奖励",
+		"constName" : "CrossStairFirstTopReward",
+		"constValue" : 40111012
+	},
+	
+	{
+		"constDesc" : "青云之巅击杀玩家增加杀人数",
+		"constName" : "CrossStairKillPlayerAddNum",
+		"constValue" : 2
+	},
+	
+	{
+		"constDesc" : "击杀分数（ex：助攻分数）",
+		"constName" : "CrossStairKillScore",
+		"constValue" : 10,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "青云之巅需要玩家和Boss最大数",
+		"constName" : "CrossStairMaxNeedNum",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "青云之巅房间人数",
+		"constName" : "CrossStairMaxRoomPlayerNum",
+		"constValue" : 60
+	},
+	
+	{
+		"constDesc" : "青云之巅死亡掉层次数",
+		"constName" : "CrossStairRevivalCount",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "青云之巅额外技能ID",
+		"constName" : "CrossStairSkillId",
+		"constValue" : 10107061
+	},
+	
+	{
+		"constDesc" : "青云之巅额外技能CD",
+		"constName" : "CrossStairSkillMaxCd",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "秘宝归属奖励",
+		"constName" : "CrossStairTitleOwnerReward",
+		"constValue" : 40111013
+	},
+	
+	{
+		"constDesc" : "跨服夺宝bossCode1",
+		"constName" : "crossTreasureBossCode1",
+		"constValue" : 61100121,
+		"functionName" : "crossTreasure"
+	},
+	
+	{
+		"constDesc" : "跨服夺宝bossCode2",
+		"constName" : "crossTreasureBossCode2",
+		"constValue" : 61100122,
+		"functionName" : "crossTreasure"
+	},
+	
+	{
+		"constDesc" : "跨服夺宝bossCode3",
+		"constName" : "crossTreasureBossCode3",
+		"constValue" : 61100123,
+		"functionName" : "crossTreasure"
+	},
+	
+	{
+		"constDesc" : "跨服夺宝传送",
+		"constName" : "crossTreasureCompass",
+		"constValue" : 2000,
+		"constValueEx" : 1,
+		"functionName" : "crossTreasure"
+	},
+	
+	{
+		"constDesc" : "跨服夺宝map1",
+		"constName" : "crossTreasureMap1",
+		"constValue" : 111001,
+		"functionName" : "crossTreasure"
+	},
+	
+	{
+		"constDesc" : "跨服夺宝map2",
+		"constName" : "crossTreasureMap2",
+		"constValue" : 111001,
+		"functionName" : "crossTreasure"
+	},
+	
+	{
+		"constDesc" : "跨服夺宝map3",
+		"constName" : "crossTreasureMap3",
+		"constValue" : 111001,
+		"functionName" : "crossTreasure"
+	},
+	
+	{
+		"constDesc" : "跨服夺宝map4",
+		"constName" : "crossTreasureMap4",
+		"constValue" : 111001,
+		"functionName" : "crossTreasure"
+	},
+	
+	{
+		"constDesc" : "跨服夺宝使用次数",
+		"constName" : "crossTreasureMapNum",
+		"constValue" : 99,
+		"functionName" : "crossTreasure"
+	},
+	
+	{
+		"constDesc" : "跨服夺宝pos个数",
+		"constName" : "crossTreasurePointNum",
+		"constValue" : 4,
+		"functionName" : "crossTreasure"
+	},
+	
+	{
+		"constDesc" : "跨服夺宝pos1",
+		"constName" : "crossTreasurePos1",
+		"constValue" : 46,
+		"constValueEx" : 40,
+		"functionName" : "crossTreasure"
+	},
+	
+	{
+		"constDesc" : "跨服夺宝pos2",
+		"constName" : "crossTreasurePos2",
+		"constValue" : 23,
+		"constValueEx" : 9,
+		"functionName" : "crossTreasure"
+	},
+	
+	{
+		"constDesc" : "跨服夺宝pos3",
+		"constName" : "crossTreasurePos3",
+		"constValue" : 10,
+		"constValueEx" : 49,
+		"functionName" : "crossTreasure"
+	},
+	
+	{
+		"constDesc" : "跨服夺宝pos4",
+		"constName" : "crossTreasurePos4",
+		"constValue" : 21,
+		"constValueEx" : 81,
+		"functionName" : "crossTreasure"
+	},
+	
+	{
+		"constDesc" : "跨服夺宝搜索",
+		"constName" : "crossTreasureSearch",
+		"constValue" : 1000,
+		"constValueEx" : 1,
+		"functionName" : "crossTreasure"
+	},
+	
+	{
+		"constDesc" : "龙灵晶魄boss code（一层）",
+		"constName" : "CrystalOneBossCode_510702",
+		"constValue" : 506101001
+	},
+	
+	{
+		"constDesc" : "麒麟水晶boss code（二层）",
+		"constName" : "CrystalOneBossCode_510703",
+		"constValue" : 506102001
+	},
+	
+	{
+		"constDesc" : "每天采集大水晶数量上限",
+		"constName" : "CrystalOneNumMax",
+		"constValue" : 2
+	},
+	
+	{
+		"constDesc" : "大水晶与X宝箱共享次数",
+		"constName" : "CrystalOneShareNumItem",
+		"constValue" : 40126004
+	},
+	
+	{
+		"constDesc" : "凤血晶魄boss code",
+		"constName" : "CrystalTwoBossCode_510702",
+		"constValue" : 506101101
+	},
+	
+	{
+		"constDesc" : "凤血水晶boss code（二层）",
+		"constName" : "CrystalTwoBossCode_510703",
+		"constValue" : 506102101
+	},
+	
+	{
+		"constDesc" : "每天采集小水晶数量上限",
+		"constName" : "CrystalTwoNumMax",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "天降横财积分上限",
+		"constName" : "CutMoneyMaxMark",
+		"constValue" : 51000
+	},
+	
+	{
+		"constDesc" : "天降横财收入翻倍数,绑定元宝上限",
+		"constName" : "CutMoneyMultipleTimes",
+		"constValue" : 2,
+		"constValueEx" : 10
+	},
+	
+	{
+		"constDesc" : "天降横财次数",
+		"constName" : "CutMoneyTimesLimit",
+		"constValue" : 1
+	},
+	
+	{
+		"constDesc" : "天降横财界面下推排行topN",
+		"constName" : "CutMoneyToplistNumToPush",
+		"constValue" : 3
+	},
+	
+	{
+		"constDesc" : "日常辅助buff的State的Set",
+		"constName" : "DailyAdditionSet",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "每日登陆奖励",
+		"constName" : "DailyLoginReward",
+		"constValue" : 40151315,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "日常登陆礼包等级限制",
+		"constName" : "DailyRewardLimiteLevel",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "日常分享最低等级",
+		"constName" : "DailyShareRewardLevel",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "防守副本玩家仇恨怪个数",
+		"constName" : "DefenseCopyBossHatredCount",
+		"constValue" : 15,
+		"constValueEx" : 10
+	},
+	
+	{
+		"constDesc" : "守护副本code",
+		"constName" : "DefenseCopyCode",
+		"constValue" : 1006
+	},
+	
+	{
+		"constDesc" : "守护副本守卫数量上限",
+		"constName" : "DefenseCopyDefenderLimit",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "副手副本传送门能量",
+		"constName" : "DefenseCopyScore",
+		"constValue" : 50,
+		"constValueEx" : 50
+	},
+	
+	{
+		"constDesc" : "守卫青云友方BOSS怪(掌门)",
+		"constName" : "DefenseQingyunTargetBoss",
+		"constValue" : 10100101
+	},
+	
+	{
+		"constName" : "DelegateMaxGlodCost",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "多少转开放天命觉醒",
+		"constName" : "DestinyAwakeOpenRoleState",
+		"constValue" : 3
+	},
+	
+	{
+		"constDesc" : "巅峰基础等级（巅峰等级=当前等级-基础等级）",
+		"constName" : "DianFengBaseLevel",
+		"constValue" : 370
+	},
+	
+	{
+		"constDesc" : "强制离婚需要元宝",
+		"constName" : "DivorceForceNeedGold"
+	},
+	
+	{
+		"constDesc" : "万妖令消耗",
+		"constName" : "DoubleDropCost",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "下载副本最高经验",
+		"constName" : "downloadCopyMaxExp",
+		"constValue" : 300000
+	},
+	
+	{
+		"constDesc" : "第一个分包下载奖励铜钱",
+		"constName" : "downloadRewardBindCoin1"
+	},
+	
+	{
+		"constDesc" : "第二个分包下载奖励铜钱",
+		"constName" : "downloadRewardBindCoin2"
+	},
+	
+	{
+		"constDesc" : "更新包下载就奖励铜钱",
+		"constName" : "downloadRewardBindCoin3",
+		"constValue" : 188888
+	},
+	
+	{
+		"constDesc" : "第一个分包下载奖励绑定元宝",
+		"constName" : "downloadRewardBindGold1"
+	},
+	
+	{
+		"constDesc" : "第二个分包下载奖励绑定元宝",
+		"constName" : "downloadRewardBindGold2"
+	},
+	
+	{
+		"constDesc" : "更新包下载奖励绑定元宝",
+		"constName" : "downloadRewardBindGold3",
+		"constValue" : 188
+	},
+	
+	{
+		"constDesc" : "第一个分包下载奖励物品",
+		"constName" : "downloadRewardRewardItem1",
+		"constValue" : 40111007,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "第二个分包下载奖励物品",
+		"constName" : "downloadRewardRewardItem2",
+		"constValue" : 40111007,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "多少转开放龙神觉醒",
+		"constName" : "DragonAwakeOpenRoleState",
+		"constValue" : 4
+	},
+	
+	{
+		"constDesc" : "龙脉系统开启等级",
+		"constName" : "DragonSpiritOpenLevel",
+		"constValue" : 400
+	},
+	
+	{
+		"constDesc" : "剧情副本指引任务编码",
+		"constName" : "DramaGuildTaskCode",
+		"constValue" : 2001007
+	},
+	
+	{
+		"constDesc" : "掉落绑定控制 小于世界等级x级",
+		"constName" : "DropBindControlLessWorldLevel",
+		"constValue" : 50
+	},
+	
+	{
+		"constDesc" : "掉落绑定控制 怪物最高等级",
+		"constName" : "DropBindControlMaxBossLevel",
+		"constValue" : 250
+	},
+	
+	{
+		"constDesc" : "公有掉落清除时间（秒）（小怪、BOSS）",
+		"constName" : "DropItemClearSec",
+		"constValue" : 60,
+		"constValueEx" : 120
+	},
+	
+	{
+		"constDesc" : "公有掉落保护时间（秒）",
+		"constName" : "DropItemProtectSec",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "药包储备血量上限",
+		"constName" : "DrugBagMaxLife",
+		"constValue" : 100000000
+	},
+	
+	{
+		"constDesc" : "登陆活动（领取一次）等级限制",
+		"constName" : "EactiveLoginRewardOnceLimitLev",
+		"constValue" : 1
+	},
+	
+	{
+		"constDesc" : "亲密度萍水相逢Buff",
+		"constName" : "EIntimateLevelChanceBuff",
+		"constValue" : 1340900
+	},
+	
+	{
+		"constDesc" : "亲密度亲密无间Buff",
+		"constName" : "EIntimateLevelCloseBuff",
+		"constValue" : 1350900
+	},
+	
+	{
+		"constDesc" : "亲密度心有灵犀魔法系Buff",
+		"constName" : "EIntimateLevelHeartMagicalBuff",
+		"constValue" : 1300900
+	},
+	
+	{
+		"constDesc" : "亲密度心有灵犀物理系Buff",
+		"constName" : "EIntimateLevelHeartPhysicalBuff",
+		"constValue" : 1290900
+	},
+	
+	{
+		"constDesc" : "亲密度生死之交物理系Buff",
+		"constName" : "EIntimateLevelLifeMagiicalBuff",
+		"constValue" : 1390900
+	},
+	
+	{
+		"constDesc" : "亲密度生死之交物理系Buff",
+		"constName" : "EIntimateLevelLifePhysicalBuff",
+		"constValue" : 1400900
+	},
+	
+	{
+		"constDesc" : "亲密度志同道合Buff",
+		"constName" : "EIntimateLevelPurposeBuff",
+		"constValue" : 1330900
+	},
+	
+	{
+		"constDesc" : "仙帝争霸副本CODE",
+		"constName" : "EndlessBossCopyCode",
+		"constValue" : 701
+	},
+	
+	{
+		"constDesc" : "最大精力值",
+		"constName" : "EnergyMax",
+		"constValue" : 1000
+	},
+	
+	{
+		"constDesc" : "新仙盟战仙盟参与数量及最低个人等级",
+		"constName" : "EnterGuildBattleNumber",
+		"constValue" : 30,
+		"constValueEx" : 38
+	},
+	
+	{
+		"constDesc" : "快速回盟消耗个人贡献",
+		"constName" : "EnterGuildMapContribution"
+	},
+	
+	{
+		"constDesc" : "进入仙盟地图花费",
+		"constName" : "EnterGuildMapCost",
+		"constValue" : 200,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "装备副本BUFF开始时间(晚上)",
+		"constName" : "EquipCopyBuffEndTimeNight",
+		"constValue" : 18,
+		"constValueEx" : 21500
+	},
+	
+	{
+		"constDesc" : "装备副本BUFF开始时间(下午)",
+		"constName" : "EquipCopyBuffEndTimeNoon",
+		"constValue" : 12,
+		"constValueEx" : 21500
+	},
+	
+	{
+		"constDesc" : "装备副本BUFFID",
+		"constName" : "EquipCopyBuffID",
+		"constValue" : 59000010
+	},
+	
+	{
+		"constDesc" : "装备副本扫荡一次需要的时间",
+		"constName" : "EquipCopySweepPerTime",
+		"constValue" : 180
+	},
+	
+	{
+		"constDesc" : "装备副本加速扫荡花费",
+		"constName" : "EquipCopySweepPerTimeCost",
+		"constValue" : 3
+	},
+	
+	{
+		"constDesc" : "装备耐久度消耗时间（单位：秒）",
+		"constName" : "EquipDurableCostTime",
+		"constValue" : 100
+	},
+	
+	{
+		"constDesc" : "护送离开时间(秒)",
+		"constName" : "EscortLeftTimeOut",
+		"constValue" : 600
+	},
+	
+	{
+		"constDesc" : "护送最远距离(像素)",
+		"constName" : "EscortMaxDistance",
+		"constValue" : 400
+	},
+	
+	{
+		"constDesc" : "护送最近距离(像素)",
+		"constName" : "EscortMinDistance"
+	},
+	
+	{
+		"constDesc" : "护送通知时间(秒)",
+		"constName" : "EscortNotifyTime",
+		"constValue" : 60
+	},
+	
+	{
+		"constDesc" : "护送npc",
+		"constName" : "EscortNpc",
+		"constValue" : 101010
+	},
+	
+	{
+		"constDesc" : "护送传送距离(像素)",
+		"constName" : "EscortPassDistance",
+		"constValue" : 400
+	},
+	
+	{
+		"constDesc" : "每天骰子次数",
+		"constName" : "ExpDice",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "免费修改次数",
+		"constName" : "ExpDiceFreeChange",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "骰子经验等级",
+		"constName" : "ExpDicePlayerLevel",
+		"constValue" : 60
+	},
+	
+	{
+		"constDesc" : "渡劫广播等级",
+		"constName" : "ExperienceCatagropheBroadCastLevel",
+		"constValue" : 11
+	},
+	
+	{
+		"constDesc" : "渡劫Code",
+		"constName" : "ExperienceCatagropheCode",
+		"constValue" : 150
+	},
+	
+	{
+		"constDesc" : "渡劫最大怪序号",
+		"constName" : "ExperienceCatastropheMaxBossNum",
+		"constValue" : 130
+	},
+	
+	{
+		"constDesc" : "经验副本倍数领取经验时花费（两倍领取，三倍领取）",
+		"constName" : "ExperienceCopyGoldCost",
+		"constValue" : 500,
+		"constValueEx" : 998
+	},
+	
+	{
+		"constDesc" : "恶魔副本重置冷却时间花费",
+		"constName" : "ExperienceCopyResetCDCost",
+		"constValue" : 100
+	},
+	
+	{
+		"constDesc" : "无边海boss刷新时间（海龙王）",
+		"constName" : "FairylandBossRefreshTime",
+		"constValue" : 1800
+	},
+	
+	{
+		"constDesc" : "无边海副本关闭延迟时间",
+		"constName" : "FairylandClosePrepareTime",
+		"constValue" : 30,
+		"constValueEx" : 10
+	},
+	
+	{
+		"constDesc" : "无边海副本code",
+		"constName" : "FairylandCopyCode",
+		"constValue" : 129
+	},
+	
+	{
+		"constDesc" : "跨服无边海副本code",
+		"constName" : "FairylandCrossCopyCode",
+		"constValue" : 130
+	},
+	
+	{
+		"constDesc" : "无边海最大副本数量",
+		"constName" : "FairylandMaxCopyNum",
+		"constValue" : 18
+	},
+	
+	{
+		"constDesc" : "无边海进入NPC位置（mapId,npcId）",
+		"constName" : "FairylandNpcPosition",
+		"constValue" : 110401,
+		"constValueEx" : 211000
+	},
+	
+	{
+		"constDesc" : "仙宠地图id",
+		"constName" : "FairyPetParadeMapId",
+		"constValue" : 110301
+	},
+	
+	{
+		"constDesc" : "仙宠最大距离",
+		"constName" : "FairyPetParadeMaxDistance",
+		"constValue" : 300
+	},
+	
+	{
+		"constDesc" : "仙宠最小距离",
+		"constName" : "FairyPetParadeMinDistance",
+		"constValue" : 80
+	},
+	
+	{
+		"constDesc" : "加速作物每小时的价格",
+		"constName" : "FarmAcceleratePlantPrice",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "作物每天加速次数",
+		"constName" : "FarmMaxAccelerateDay",
+		"constValue" : 7
+	},
+	
+	{
+		"constDesc" : "每天可以收获好友农场次数",
+		"constName" : "FarmMaxGainDay",
+		"constValue" : 50
+	},
+	
+	{
+		"constDesc" : "仙园除草除虫每日最大经验",
+		"constName" : "FarmMaxOperatorExp",
+		"constValue" : 500,
+		"constValueEx" : 500
+	},
+	
+	{
+		"constDesc" : "每人每天摇钱的上限",
+		"constName" : "FarmMoneyTreeCount",
+		"constValue" : 23
+	},
+	
+	{
+		"constDesc" : "免费摇钱次数",
+		"constName" : "FarmMoneyTreeFreeCount",
+		"constValue" : 3
+	},
+	
+	{
+		"constDesc" : "仙园活动期间收获倍数",
+		"constName" : "FarmMoreGains",
+		"constValue" : 2
+	},
+	
+	{
+		"constDesc" : "元气祈福花费元宝的次数",
+		"constName" : "FarmNimbusTreeCostCount",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "拜仙元气树免费次数",
+		"constName" : "FarmNimbusTreeFreeCount",
+		"constValue" : 3
+	},
+	
+	{
+		"constDesc" : "仙园批量摇钱次数",
+		"constName" : "FarmOperateMoneyTreeTime",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "每人每天领取宠物蛋的上限",
+		"constName" : "FarmPetCanGetCount",
+		"constValue" : 15
+	},
+	
+	{
+		"constDesc" : "宠物刷新的价格",
+		"constName" : "FarmPetRefreshPrice",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "宠物刷新时间",
+		"constName" : "FarmPetRefreshTime",
+		"constValue" : 1200
+	},
+	
+	{
+		"constDesc" : "宠物刷新货币单位",
+		"constName" : "FarmPetRefreshUnit",
+		"constValue" : 3
+	},
+	
+	{
+		"constDesc" : "仙园种植时间和增长速度1",
+		"constName" : "FarmPlantTime1",
+		"constValue" : 3600,
+		"constValueEx" : 100
+	},
+	
+	{
+		"constDesc" : "仙园种植时间和增长速度2",
+		"constName" : "FarmPlantTime2",
+		"constValue" : 14400,
+		"constValueEx" : 90
+	},
+	
+	{
+		"constDesc" : "仙园种植时间和增长速度3",
+		"constName" : "FarmPlantTime3",
+		"constValue" : 43200,
+		"constValueEx" : 80
+	},
+	
+	{
+		"constDesc" : "皇帝争霸助攻(个人,仙盟)",
+		"constName" : "FeudalHegemonyAssistance",
+		"constValue" : 1,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "皇帝争霸助攻范围",
+		"constName" : "FeudalHegemonyAssistRange",
+		"constValue" : 500
+	},
+	
+	{
+		"constDesc" : "皇帝争霸每秒秒增加(个人,仙盟)",
+		"constName" : "FeudalHegemonyAuto",
+		"constValue" : 1,
+		"constValueEx" : 2
+	},
+	
+	{
+		"constDesc" : "皇帝争霸彩旗ID",
+		"constName" : "FeudalHegemonyBossId",
+		"constValue" : 63230001
+	},
+	
+	{
+		"constDesc" : "皇帝争霸占领旗帜BUFF,无敌BUFF",
+		"constName" : "FeudalHegemonyBuffer",
+		"constValue" : 59000015,
+		"constValueEx" : 55020699
+	},
+	
+	{
+		"constDesc" : "皇帝争霸采集彩旗(个人,仙盟)",
+		"constName" : "FeudalHegemonyCollect",
+		"constValue" : 3,
+		"constValueEx" : 5
+	},
+	
+	{
+		"constDesc" : "皇帝争霸采集彩旗其他成员(个人,仙盟)",
+		"constName" : "FeudalHegemonyCollectEx",
+		"constValue" : 2
+	},
+	
+	{
+		"constDesc" : "皇帝争霸冷却时间",
+		"constName" : "FeudalHegemonyCoolDownTime",
+		"constValue" : 120
+	},
+	
+	{
+		"constDesc" : "皇帝争霸杀死彩旗拥有者(个人,仙盟)",
+		"constName" : "FeudalHegemonyKillOwner",
+		"constValue" : 10,
+		"constValueEx" : 10
+	},
+	
+	{
+		"constDesc" : "皇帝争霸杀死玩家(个人,仙盟)",
+		"constName" : "FeudalHegemonyKillPlayer",
+		"constValue" : 3,
+		"constValueEx" : 5
+	},
+	
+	{
+		"constDesc" : "皇帝争霸等级限制(世界等级,个人等级)",
+		"constName" : "FeudalHegemonyLevelLimit",
+		"constValue" : 60,
+		"constValueEx" : 40
+	},
+	
+	{
+		"constDesc" : "皇帝争霸坐标",
+		"constName" : "FeudalHegemonyLocation",
+		"constValue" : 22,
+		"constValueEx" : 27
+	},
+	
+	{
+		"constDesc" : "皇帝争霸持续时间",
+		"constName" : "FeudalHegemonyTime",
+		"constValue" : 1800
+	},
+	
+	{
+		"constDesc" : "皇帝争霸世界等级限制",
+		"constName" : "FeudalHegemonyWorldLevel",
+		"constValue" : 60
+	},
+	
+	{
+		"constDesc" : "战斗消息下发方式1筛选下发，0统一下发",
+		"constName" : "FightMsgBroadCastMode"
+	},
+	
+	{
+		"constDesc" : "添加柴火CD（秒）",
+		"constName" : "FireWoodAddCd",
+		"constValue" : 60,
+		"constValueEx" : 10
+	},
+	
+	{
+		"constDesc" : "烟花buffId",
+		"constName" : "FireworkBuffid",
+		"constValue" : 8005000
+	},
+	
+	{
+		"constDesc" : "放烟花间隔时间限制",
+		"constName" : "FireworkTimeLimit",
+		"constValue" : 3
+	},
+	
+	{
+		"constDesc" : "战场第一名阵营荣誉奖励",
+		"constName" : "FirstCampHonour",
+		"constValue" : 4000
+	},
+	
+	{
+		"constDesc" : "新战场第一名势力荣誉奖励",
+		"constName" : "FirstForceHonour",
+		"constValue" : 3000
+	},
+	
+	{
+		"constDesc" : "首次显示首充礼包图标玩家等级",
+		"constName" : "FirstRechargeShowLevel",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "首冲礼包次数",
+		"constName" : "FirstRechargeTime",
+		"constValue" : 2
+	},
+	
+	{
+		"constDesc" : "五行副本Boss",
+		"constName" : "FiveElementsCopyBoss",
+		"constValue" : 24000301
+	},
+	
+	{
+		"constDesc" : "修石碑地图id",
+		"constName" : "FixStoneMapID",
+		"constValue" : 400101
+	},
+	
+	{
+		"constDesc" : "赠送一朵鲜花奖励经验数",
+		"constName" : "FlowerRewardExp",
+		"constValue" : 2000
+	},
+	
+	{
+		"constDesc" : "赠送鲜花经验奖励数目(朵)上限",
+		"constName" : "FlowerRewardExpLimited",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "刷循环任务书颜色费用",
+		"constName" : "FlushLoopTaskColorCost",
+		"constValue" : 1,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "聊天禁言封号关键字等级",
+		"constName" : "ForbidLockWordLevel",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "三界争霸 加积分的间隔（秒）",
+		"constName" : "ForceWarAddScoreInterval",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "三界争霸 势力1模型",
+		"constName" : "ForceWarForceOneModel",
+		"constValue" : 10071007
+	},
+	
+	{
+		"constDesc" : "三界争霸 势力3模型",
+		"constName" : "ForceWarForceThreeModel",
+		"constValue" : 400001
+	},
+	
+	{
+		"constDesc" : "三界争霸 势力2模型",
+		"constName" : "ForceWarForceTwoModel",
+		"constValue" : 400002
+	},
+	
+	{
+		"constDesc" : "三界争霸 占领神柱时间（秒）",
+		"constName" : "ForceWarPillarOwnTime",
+		"constValue" : 300
+	},
+	
+	{
+		"constDesc" : "三界争霸 额外技能的CD",
+		"constName" : "ForceWarSkillMaxCd",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "三界争霸技能",
+		"constName" : "ForceWarSkills",
+		"constValue" : 10107061,
+		"constValueEx" : 10107062
+	},
+	
+	{
+		"constDesc" : "遗忘宠物技能直接扣元宝",
+		"constName" : "ForgetPetSkillCost",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "仙盟摇奖基本次数",
+		"constName" : "FreeGuildLotteryTimes",
+		"constValue" : 3
+	},
+	
+	{
+		"constDesc" : "主动添加好友等级限制",
+		"constName" : "FriendActiveAddLevelLimit",
+		"constValue" : 150
+	},
+	
+	{
+		"constDesc" : "每天可发送的好友祝贺次数",
+		"constName" : "FriendBlessMaxCount",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "首次充值礼包code",
+		"constName" : "FristRechargeGiftBagCode",
+		"constValue" : 40111008
+	},
+	
+	{
+		"constDesc" : "首次充值礼包code(第一天)",
+		"constName" : "FristRechargeGiftBagCode1",
+		"constValue" : 40111008
+	},
+	
+	{
+		"constDesc" : "首次充值礼包code(第二天)",
+		"constName" : "FristRechargeGiftBagCode2",
+		"constValue" : 40111009
+	},
+	
+	{
+		"constDesc" : "首次充值礼包code(第三天)",
+		"constName" : "FristRechargeGiftBagCode3",
+		"constValue" : 40111010
+	},
+	
+	{
+		"constDesc" : "跨服3v3活动ID",
+		"constName" : "GangFightActiveId",
+		"constValue" : -33
+	},
+	
+	{
+		"constDesc" : "3v3单局战斗人数下限",
+		"constName" : "gangFightBattlesMinPlayerNum",
+		"constValue" : 6
+	},
+	
+	{
+		"constDesc" : "小结时需要的最小比赛次数",
+		"constName" : "GangFightsAwardMinDayNum",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "大结时需要的最小比赛次数",
+		"constName" : "GangFightsAwardMinMonthNum",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "3v3比赛奖励物品",
+		"constName" : "GangFightsBattleItemReward",
+		"constValue" : 14031195
+	},
+	
+	{
+		"constDesc" : "3v3前十场魔石奖励",
+		"constName" : "GangfightsBattleMagicStoneReward",
+		"constValue" : 10,
+		"constValueEx" : 16
+	},
+	
+	{
+		"constDesc" : "3v3人数",
+		"constName" : "GangFightsBattlePlayerNum",
+		"constValue" : 3
+	},
+	
+	{
+		"constDesc" : "3v3比赛时间",
+		"constName" : "GangFightsBattleTime",
+		"constValue" : 15,
+		"constValueEx" : 300
+	},
+	
+	{
+		"constDesc" : "竞技场3v3副本code",
+		"constName" : "GangFightsCopyCode",
+		"constValue" : 151
+	},
+	
+	{
+		"constDesc" : "3v3创建战队花费（数量、单位）",
+		"constName" : "GangFightsCreateTeamCost",
+		"constValue" : 10000,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "3v3初始积分（战队、个人）",
+		"constName" : "GangFightsInitMark",
+		"constValue" : 12000,
+		"constValueEx" : 12000
+	},
+	
+	{
+		"constDesc" : "3v3积分范围（最小值、最大值）",
+		"constName" : "GangFightsMarkRange",
+		"constValue" : 8000,
+		"constValueEx" : 25000
+	},
+	
+	{
+		"constDesc" : "3v3配对间隔（秒）",
+		"constName" : "GangFightsMatchInterval",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "3v3报名最低等级",
+		"constName" : "GangFightsMinSignUpLevel",
+		"constValue" : 65
+	},
+	
+	{
+		"constDesc" : "3v3修改战队花费（数量、单位）",
+		"constName" : "GangFightsModifyTeamCost",
+		"constValue" : 10000,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "3v3月结前10名奖励物品",
+		"constName" : "GangFightsMonthAwardItem10"
+	},
+	
+	{
+		"constDesc" : "3v3月结前100名奖励物品",
+		"constName" : "GangFightsMonthAwardItem100"
+	},
+	
+	{
+		"constDesc" : "3v3月结前1000名奖励物品",
+		"constName" : "GangFightsMonthAwardItem1000"
+	},
+	
+	{
+		"constDesc" : "3v3月结前5000名奖励物品",
+		"constName" : "GangFightsMonthAwardItem5000",
+		"constValue" : 14011689
+	},
+	
+	{
+		"constDesc" : "每个房间的最大人数",
+		"constName" : "GangFightsRoomPlayerNum",
+		"constValue" : 1200
+	},
+	
+	{
+		"constDesc" : "战队名称长度限制",
+		"constName" : "GangFightsTeamNameLimit",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "3v3toplist长度上限",
+		"constName" : "GangFightsToplistMaxNum",
+		"constValue" : 2000
+	},
+	
+	{
+		"constDesc" : "神装碎片物品 code",
+		"constName" : "GodEquipFragmentCode",
+		"constValue" : 40245001
+	},
+	
+	{
+		"constDesc" : "队伍保持时间(秒)",
+		"constName" : "GroupKeepActive",
+		"constValue" : 180
+	},
+	
+	{
+		"constDesc" : "分享距离(像素)",
+		"constName" : "GroupShareDist",
+		"constValue" : 1000
+	},
+	
+	{
+		"constDesc" : "创建仙盟需要金钱",
+		"constName" : "Guild2CreateNeedMoney",
+		"constValue" : 200,
+		"constValueEx" : 2
+	},
+	
+	{
+		"constDesc" : "仙盟灵脉code",
+		"constName" : "GuildAnimaCode",
+		"constValue" : 137,
+		"functionName" : "GuildAnima"
+	},
+	
+	{
+		"constDesc" : "新仙盟副本祭坛定时器时长",
+		"constName" : "GuildBattleAltarTimerLimit",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "仙盟战助攻(仙盟,个人)",
+		"constName" : "GuildBattleAssistant",
+		"constValue" : 2,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "仙盟战无敌BUFF，仙盟战定身BUFF",
+		"constName" : "GuildBattleBuff",
+		"constValue" : 55020699,
+		"constValueEx" : 55060099
+	},
+	
+	{
+		"constDesc" : "新仙盟战关闭准备时间",
+		"constName" : "GuildBattleClosePrepareTime",
+		"constValue" : 120,
+		"constValueEx" : 30
+	},
+	
+	{
+		"constDesc" : "新仙盟战进入冷却时间",
+		"constName" : "GuildBattleCoolDownTime",
+		"constValue" : 120
+	},
+	
+	{
+		"constDesc" : "新仙盟战副本Code",
+		"constName" : "GuildBattleCopyCode",
+		"constValue" : 126,
+		"constValueEx" : 131601
+	},
+	
+	{
+		"constName" : "GuildBattleEndScore",
+		"constValue" : 3000
+	},
+	
+	{
+		"constDesc" : "新仙盟战结束时间（单位：秒）",
+		"constName" : "GuildBattleEndTime",
+		"constValue" : 1800,
+		"constValueEx" : 120
+	},
+	
+	{
+		"constDesc" : "仙盟战击杀其他仙盟成员(仙盟,个人)",
+		"constName" : "GuildBattleKill",
+		"constValue" : 10,
+		"constValueEx" : 5
+	},
+	
+	{
+		"constDesc" : "仙盟战击杀仙盟BOSS(仙盟,个人)",
+		"constName" : "GuildBattleKillBoss",
+		"constValue" : 400,
+		"constValueEx" : 200
+	},
+	
+	{
+		"constDesc" : "仙盟战其他成员击杀仙盟BOSS(仙盟,个人)",
+		"constName" : "GuildBattleKillBossEx",
+		"constValueEx" : 10
+	},
+	
+	{
+		"constDesc" : "仙盟战被击杀(仙盟,个人)",
+		"constName" : "GuildBattleKilled",
+		"constValue" : 2,
+		"constValueEx" : 2
+	},
+	
+	{
+		"constDesc" : "仙盟战击杀祭坛占领者(仙盟,个人)",
+		"constName" : "GuildBattleKillOwner",
+		"constValue" : 20,
+		"constValueEx" : 20
+	},
+	
+	{
+		"constDesc" : "仙盟战击杀排名第一(仙盟,个人)",
+		"constName" : "GuildBattleKillTop",
+		"constValue" : 50,
+		"constValueEx" : 20
+	},
+	
+	{
+		"constDesc" : "仙盟战占领祭坛(仙盟,个人)",
+		"constName" : "GuildBattleOcupied",
+		"constValue" : 20,
+		"constValueEx" : 10
+	},
+	
+	{
+		"constDesc" : "仙盟战占领祭坛后其他成员(仙盟,个人)",
+		"constName" : "GuildBattleOcupiedEx",
+		"constValueEx" : 5
+	},
+	
+	{
+		"constDesc" : "仙盟战占领定时获得(仙盟,个人)",
+		"constName" : "GuildBattleOcupiedTimer",
+		"constValue" : 1,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "新仙盟战福利礼包",
+		"constName" : "GuildBattleReward",
+		"constValue" : 40111030,
+		"constValueEx" : 40111031
+	},
+	
+	{
+		"constDesc" : "神兽食物物品编号",
+		"constName" : "GuildBeastFoodItemCode",
+		"constValue" : 41121000,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "仙盟兽神boss出生点",
+		"constName" : "GuildBeastGodBossBornPoint",
+		"constValue" : 15,
+		"constValueEx" : 24
+	},
+	
+	{
+		"constDesc" : "仙盟兽神boss刷新间隔时间",
+		"constName" : "GuildBeastGodBossRefreshInterval",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "仙盟兽神挑战失败时关闭副本间隔",
+		"constName" : "GuildBeastGodCopyCloseInterval",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "仙盟兽神挑战成功后关闭副本间隔",
+		"constName" : "GuildBeastGodCopySuccessCloseInterval",
+		"constValue" : 60
+	},
+	
+	{
+		"constDesc" : "仙盟兽神兽粮code",
+		"constName" : "GuildBeastGodFoodCode",
+		"constValue" : 42070001
+	},
+	
+	{
+		"constDesc" : "仙盟兽神每周可挑战次数上限",
+		"constName" : "GuildBeastGodOpenCountLimit",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "挑战兽神需要兽粮库存",
+		"constName" : "GuildBeastGodOpenNeedVal",
+		"constValue" : 7000
+	},
+	
+	{
+		"constDesc" : "仙盟兽神可挑战时间段",
+		"constName" : "GuildBeastGodOpenTimeLimitLower",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "仙盟兽神可挑战时间段",
+		"constName" : "GuildBeastGodOpenTimeLimitUpper",
+		"constValue" : 22
+	},
+	
+	{
+		"constDesc" : "仙盟神兽成长值",
+		"constName" : "GuildBeastGrowth",
+		"constValue" : 10000
+	},
+	
+	{
+		"constDesc" : "仙盟神兽炼气期需要成长值，扩展为死亡宝箱id(手游作废)",
+		"constName" : "GuildBeastGrowthOne",
+		"constValue" : 3500
+	},
+	
+	{
+		"constDesc" : "仙盟神兽结丹期需要成长值(手游作废)",
+		"constName" : "GuildBeastGrowthThree",
+		"constValue" : 12000
+	},
+	
+	{
+		"constDesc" : "仙盟神兽筑基期需要成长值(手游作废)",
+		"constName" : "GuildBeastGrowthTwo",
+		"constValue" : 7000
+	},
+	
+	{
+		"constDesc" : "仙盟BOSSbuff增加最大次数",
+		"constName" : "GuildBossAddBuffMax",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "喂养神兽时奖励仙盟贡献",
+		"constName" : "GuildBossFeedReward",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "仙盟BOSS最大等级",
+		"constName" : "GuildBossMaxLevel",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "仙盟BOSS在仙盟领地内的出生点",
+		"constName" : "GuildBossPoint",
+		"constValue" : 5,
+		"constValueEx" : 16
+	},
+	
+	{
+		"constDesc" : "仙盟BOSS(非盟战)召唤次数",
+		"constName" : "GuildBossSummonCount",
+		"constValue" : 3
+	},
+	
+	{
+		"constDesc" : "购买仙盟领地的金钱",
+		"constName" : "GuildBuySpaceNeedMoney",
+		"constValue" : 50000
+	},
+	
+	{
+		"constDesc" : "仙盟领地的副本id",
+		"constName" : "GuildCopyCode",
+		"constValue" : 109
+	},
+	
+	{
+		"constDesc" : "创建仙盟初始资金",
+		"constName" : "GuildCreateInitMoney",
+		"constValue" : 3000
+	},
+	
+	{
+		"constDesc" : "创建仙盟需要金钱",
+		"constName" : "GuildCreateNeedMoney",
+		"constValue" : 10000000,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "使用铜钱和仙盟令牌创建仙盟所需铜钱",
+		"constName" : "GuildCreateOptionMPNeedMoney",
+		"constValue" : 5000000,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "使用铜钱和仙盟令牌创建仙盟所需道具",
+		"constName" : "GuildCreateOptionMPNeedProp",
+		"constValue" : 42230004,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "仙盟每日工资",
+		"constName" : "GuildDailyReward",
+		"constValue" : 41980001,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "仙盟防守副本人数控制刷怪分界点",
+		"constName" : "GuildDefenceBorder",
+		"constValue" : 12,
+		"constValueEx" : 18
+	},
+	
+	{
+		"constDesc" : "仙盟防守副本巡逻怪计划4",
+		"constName" : "GuildDefenceBossPlanFour",
+		"constValue" : 23
+	},
+	
+	{
+		"constDesc" : "仙盟防守副本巡逻怪计划1",
+		"constName" : "GuildDefenceBossPlanOne",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "仙盟防守副本巡逻怪计划3",
+		"constName" : "GuildDefenceBossPlanThree",
+		"constValue" : 22
+	},
+	
+	{
+		"constDesc" : "仙盟防守副本巡逻怪计划2",
+		"constName" : "GuildDefenceBossPlanTwo",
+		"constValue" : 21
+	},
+	
+	{
+		"constDesc" : "个人参与仙盟次数上限(周)",
+		"constName" : "GuildDefencePlayerCount",
+		"constValue" : 2
+	},
+	
+	{
+		"constDesc" : "仙盟防守副本副本code",
+		"constName" : "GuildDefenseCopyCode",
+		"constValue" : 148
+	},
+	
+	{
+		"constDesc" : "仙盟防守副本每周开启次数",
+		"constName" : "GuildDefenseWeekCount",
+		"constValue" : 2
+	},
+	
+	{
+		"constDesc" : "解散仙盟人数限制",
+		"constName" : "GuildDisbandPlayerNumLimit",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "上交仙盟兽粮（兽神）时获得贡献",
+		"constName" : "GuildDonateBeastGodAddContri",
+		"constValue" : 100
+	},
+	
+	{
+		"constDesc" : "仙盟篝火饮酒获得的BuffID(value)及自己获得的经验(value_ex)",
+		"constName" : "GuildFlameDrinkBuffId",
+		"constValue" : 55910099,
+		"constValueEx" : 10000
+	},
+	
+	{
+		"constDesc" : "仙盟篝火每天饮酒最大次数",
+		"constName" : "GuildFlameDrinkMaxCount",
+		"constValue" : 5,
+		"constValueEx" : 120
+	},
+	
+	{
+		"constDesc" : "仙盟圣火NPC的ID",
+		"constName" : "GuildFlameNpcId",
+		"constValue" : 232001
+	},
+	
+	{
+		"constDesc" : "仙盟圣火奖励范围（像素）",
+		"constName" : "GuildFlameRewardDistance",
+		"constValue" : 600
+	},
+	
+	{
+		"constDesc" : "仙盟厢房最高等级",
+		"constName" : "GuildHouseMaxLevel",
+		"constValue" : 6
+	},
+	
+	{
+		"constDesc" : "退出仙盟消耗的贡献百分比",
+		"constName" : "GuildLeaveCostContributionPer",
+		"constValue" : 100
+	},
+	
+	{
+		"constDesc" : "仙盟管理员坐标",
+		"constName" : "GuildManagerPoint",
+		"constValue" : 172,
+		"constValueEx" : 77
+	},
+	
+	{
+		"constDesc" : "仙盟等级上限",
+		"constName" : "GuildMaxLevel",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "仙盟最小资金数",
+		"constName" : "GuildMinMoney",
+		"constValue" : -10000
+	},
+	
+	{
+		"constDesc" : "仙盟名最大长度",
+		"constName" : "GuildNameLimit",
+		"constValue" : 7
+	},
+	
+	{
+		"constDesc" : "仙盟宴会收益定时器间隔",
+		"constName" : "GuildPartyAutoTimerInterval",
+		"constValue" : 15
+	},
+	
+	{
+		"constDesc" : "仙盟宴会预定时间",
+		"constName" : "GuildPartyBookTime",
+		"constValue" : 9,
+		"constValueEx" : 22
+	},
+	
+	{
+		"constDesc" : "仙盟宴会出生点",
+		"constName" : "GuildPartyBornPoint",
+		"constValue" : 20,
+		"constValueEx" : 25
+	},
+	
+	{
+		"constDesc" : "仙盟宴会持续时间",
+		"constName" : "GuildPartyContinueTime",
+		"constValue" : 900
+	},
+	
+	{
+		"constDesc" : "仙盟宴会铜钱消耗",
+		"constName" : "GuildPartyHotConsume",
+		"constValue" : 5000,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "仙盟宴会每人增加气氛值、上限值",
+		"constName" : "GuildPartyHotDegree",
+		"constValue" : 10,
+		"constValueEx" : 1000
+	},
+	
+	{
+		"constDesc" : "（仙盟争霸）赛区个数",
+		"constName" : "GuildPromotionAreaCount",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "（仙盟争霸）水晶（势力1、势力2）",
+		"constName" : "GuildPromotionCrystal",
+		"constValue" : 30090002,
+		"constValueEx" : 30090003
+	},
+	
+	{
+		"constName" : "GuildPromotionCrystalDefault",
+		"constValue" : 30090001
+	},
+	
+	{
+		"constDesc" : "（仙盟争霸）开服第x天首次开启活动",
+		"constName" : "GuildPromotionFirstOpenDay",
+		"constValue" : 4
+	},
+	
+	{
+		"constDesc" : "（仙盟争霸）确定比赛名单的时间",
+		"constName" : "GuildPromotionMakeListTime",
+		"constValue" : 19
+	},
+	
+	{
+		"constDesc" : "（仙盟争霸）第一场比赛开始时间",
+		"constName" : "GuildPromotionMatchOneBeginTime",
+		"constValue" : 21
+	},
+	
+	{
+		"constDesc" : "（仙盟争霸）第一场比赛结束时间",
+		"constName" : "GuildPromotionMatchOneEndTime",
+		"constValue" : 21,
+		"constValueEx" : 20
+	},
+	
+	{
+		"constDesc" : "（仙盟争霸）第二场比赛开始时间",
+		"constName" : "GuildPromotionMatchTwoBeginTime",
+		"constValue" : 21,
+		"constValueEx" : 30
+	},
+	
+	{
+		"constDesc" : "（仙盟争霸）第二场比赛结束时间",
+		"constName" : "GuildPromotionMatchTwoEndTime",
+		"constValue" : 21,
+		"constValueEx" : 50
+	},
+	
+	{
+		"constDesc" : "（仙盟争霸）联赛积分上限",
+		"constName" : "GuildPromotionMaxScore",
+		"constValue" : 2000
+	},
+	
+	{
+		"constDesc" : "（仙盟争霸）合服第x天开启活动",
+		"constName" : "GuildPromotionMergeOpenDay",
+		"constValue" : 2,
+		"constValueEx" : 5
+	},
+	
+	{
+		"constDesc" : "活动开始后需要等待多久开始比赛（秒）",
+		"constName" : "GuildPromotionOpenWaitSec",
+		"constValue" : 60
+	},
+	
+	{
+		"constDesc" : "修改仙盟公告时，仙盟等级限制",
+		"constName" : "GuildPurposeChangeNeedLevel",
+		"constValue" : 3
+	},
+	
+	{
+		"constDesc" : "仙盟宗旨最大长度",
+		"constName" : "GuildPurposeLimit",
+		"constValue" : 120
+	},
+	
+	{
+		"constDesc" : "修改仙盟公告时，扣费通知花费绑元",
+		"constName" : "GuildPurposeNoticeCost",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "修改仙盟公告时，通知需要仙盟等级限制",
+		"constName" : "GuildPurposeNoticeNeedLevel",
+		"constValue" : 3
+	},
+	
+	{
+		"constDesc" : "修改仙盟公告时，每周最大免费通知次数",
+		"constName" : "GuildPurposeNoticeNumPerWeek",
+		"constValue" : 3
+	},
+	
+	{
+		"constDesc" : "仙盟红包广播限制（元宝数）",
+		"constName" : "GuildRedPacketBroadcastLimit",
+		"constValue" : 100
+	},
+	
+	{
+		"constDesc" : "玩家发仙盟红包限制（VIP等级，次数）",
+		"constName" : "GuildRedPacketPlayerLimit",
+		"constValue" : 6,
+		"constValueEx" : 10
+	},
+	
+	{
+		"constDesc" : "最低发放人数",
+		"constName" : "GuildRedPacketSystemLimit",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "注灵奖励（每10点灵气奖励经验、绑定铜钱）",
+		"constName" : "GuildReikiAddReward",
+		"constValue" : 3000,
+		"constValueEx" : 1500
+	},
+	
+	{
+		"constDesc" : "仙盟灵气值范围（最小、最大值）",
+		"constName" : "GuildReikiRange",
+		"constValueEx" : 900
+	},
+	
+	{
+		"constDesc" : "仙盟摇奖免费次数增加",
+		"constName" : "guildRewardAddTimes",
+		"constValue" : 2,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "仙盟商店最大等级",
+		"constName" : "GuildShopMaxLevel",
+		"constValue" : 1
+	},
+	
+	{
+		"constDesc" : "仙盟商店每天刷新时间（const_value:时，const_value_ex:分）",
+		"constName" : "GuildShopRefreshTime"
+	},
+	
+	{
+		"constDesc" : "仙盟领地需要仙盟等级",
+		"constName" : "GuildSpaceNeedLevel",
+		"constValue" : 2
+	},
+	
+	{
+		"constDesc" : "仙盟副本答题回答正确最多玩家奖励（itemCode,num）",
+		"constName" : "GuildStruggleAnswerMaxDrop",
+		"constValue" : 12040102,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "仙盟副本答题正确掉落（itemCode,概率）",
+		"constName" : "GuildStruggleAnswerRightDrop",
+		"constValue" : 14031003,
+		"constValueEx" : 10
+	},
+	
+	{
+		"constDesc" : "仙盟副本关闭准备时间",
+		"constName" : "GuildStruggleClosePrepareTime",
+		"constValue" : 120,
+		"constValueEx" : 30
+	},
+	
+	{
+		"constDesc" : "仙盟副本code",
+		"constName" : "GuildStruggleCopyCode",
+		"constValue" : 142
+	},
+	
+	{
+		"constDesc" : "仙盟副本需要的最小仙盟等级",
+		"constName" : "GuildStruggleMinGuildLevel",
+		"constValue" : 2
+	},
+	
+	{
+		"constDesc" : "仙盟副本开放时间",
+		"constName" : "GuildStruggleOpenDayOfWeek",
+		"constValue" : 3,
+		"constValueEx" : 5
+	},
+	
+	{
+		"constDesc" : "仙盟副本 须弥幻境code",
+		"constName" : "GuildSumeruDreamlandCopyCode",
+		"constValue" : 149
+	},
+	
+	{
+		"constDesc" : "须弥幻境一周开启次数",
+		"constName" : "GuildSumeruDreamlandWeekCount",
+		"constValue" : 2
+	},
+	
+	{
+		"constDesc" : "仙盟神树浇水时间冷却",
+		"constName" : "GuildTreeAddColdTime",
+		"constValue" : 3600
+	},
+	
+	{
+		"constDesc" : "仙盟神树增加经验",
+		"constName" : "GuildTreeAddExperience",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "仙盟神树浇水贡献奖励",
+		"constName" : "GuildTreeAddValueContribution",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "仙盟摇钱树出生点",
+		"constName" : "GuildTreeBornPoint",
+		"constValue" : 20,
+		"constValueEx" : 25
+	},
+	
+	{
+		"constDesc" : "仙盟摇钱树刷怪（虫、金币）",
+		"constName" : "GuildTreeBoss",
+		"constValue" : 2109100,
+		"constValueEx" : 2109006
+	},
+	
+	{
+		"constDesc" : "仙盟摇钱树刷怪最大数量",
+		"constName" : "GuildTreeBossMaxCount",
+		"constValue" : 40,
+		"constValueEx" : 100
+	},
+	
+	{
+		"constDesc" : "仙盟神树召唤次数限制",
+		"constName" : "GuildTreeCallNumPerWeek",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "仙盟神树额外奖励百分比",
+		"constName" : "GuildTreeExtraPercent",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "仙盟神树高级召唤费用和加成",
+		"constName" : "GuildTreeHighPrize",
+		"constValue" : 450,
+		"constValueEx" : 100
+	},
+	
+	{
+		"constDesc" : "仙盟神树初级召唤费用和加成",
+		"constName" : "GuildTreeLowPrize"
+	},
+	
+	{
+		"constDesc" : "仙盟神树最大人数",
+		"constName" : "GuildTreeMaxAddList",
+		"constValue" : 18
+	},
+	
+	{
+		"constDesc" : "仙盟神树每天最大浇水次数",
+		"constName" : "GuildTreeMaxAddNum",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "仙盟神树次数限制",
+		"constName" : "GuildTreeMaxPickNum",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "仙盟神树中级召唤费用和加成",
+		"constName" : "GuildTreeMidPrize",
+		"constValue" : 100,
+		"constValueEx" : 20
+	},
+	
+	{
+		"constDesc" : "仙盟摇钱树npcId",
+		"constName" : "GuildTreeNpcId",
+		"constValue" : 3000037
+	},
+	
+	{
+		"constDesc" : "仙盟神树贡献奖励",
+		"constName" : "GuildTreePickContribution",
+		"constValue" : 2
+	},
+	
+	{
+		"constDesc" : "仙盟摇钱树成熟刷怪批数",
+		"constName" : "GuildTreeRipeRefreshTimes",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "仙盟摇钱树成熟时间",
+		"constName" : "GuildTreeRipeStartTime",
+		"constValue" : 14,
+		"constValueEx" : 30
+	},
+	
+	{
+		"constDesc" : "仙盟摇钱树成熟时间随机值（秒）",
+		"constName" : "GuildTreeRipeStartTimeRand",
+		"constValue" : 3600
+	},
+	
+	{
+		"constDesc" : "仙盟摇钱树摇一摇最低等级",
+		"constName" : "GuildTreeShakeMinLevel",
+		"constValue" : 40
+	},
+	
+	{
+		"constDesc" : "仙盟神树最大灵气值",
+		"constName" : "GuildTreeTotalValue",
+		"constValue" : 120
+	},
+	
+	{
+		"constDesc" : "仙盟摇钱树长虫刷怪批数",
+		"constName" : "GuildTreeWormRefreshTimes",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "仙盟摇钱树长虫时间",
+		"constName" : "GuildTreeWormStartTime",
+		"constValue" : 14,
+		"constValueEx" : 30
+	},
+	
+	{
+		"constDesc" : "仙盟摇钱树长虫时间随机值（秒）",
+		"constName" : "GuildTreeWormStartTimeRand",
+		"constValue" : 3600
+	},
+	
+	{
+		"constDesc" : "仙盟战助攻范围",
+		"constName" : "GuildWarAssistRange",
+		"constValue" : 500
+	},
+	
+	{
+		"constDesc" : "仙盟战被杀完奖励的贡献",
+		"constName" : "GuildWarBeKilledOutReward",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "仙盟战boss",
+		"constName" : "GuildWarBossCode",
+		"constValue" : 63090000
+	},
+	
+	{
+		"constDesc" : "仙盟战关闭准备时间",
+		"constName" : "GuildWarClosePrepareTime",
+		"constValue" : 120,
+		"constValueEx" : 30
+	},
+	
+	{
+		"constDesc" : "仙盟战副本code",
+		"constName" : "GuildWarCopyCode",
+		"constValue" : 119
+	},
+	
+	{
+		"constDesc" : "仙盟仓库申请需要贡献基数",
+		"constName" : "GuildWarehouseApplyContribution",
+		"constValue" : 500
+	},
+	
+	{
+		"constDesc" : "仙盟仓库兑换特殊道具",
+		"constName" : "GuildWarehouseChangeItem",
+		"constValue" : 40030706,
+		"constValueEx" : 20000
+	},
+	
+	{
+		"constDesc" : "仙盟战第一次获得战功奖励",
+		"constName" : "GuildWarFirstMeritsReward",
+		"constValue" : 14112301,
+		"constValueEx" : 4
+	},
+	
+	{
+		"constDesc" : "仙盟战每组人数",
+		"constName" : "GuildWarGuildNum",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "仙盟战助攻击杀玩家(怪物)所得战功",
+		"constName" : "GuildWarKillAssistScore",
+		"constValue" : 4,
+		"constValueEx" : 50
+	},
+	
+	{
+		"constDesc" : "仙盟战击杀玩家(怪物)所得战分",
+		"constName" : "GuildWarKillGuildScore",
+		"constValue" : 20,
+		"constValueEx" : 500
+	},
+	
+	{
+		"constDesc" : "仙盟战击杀玩家(怪物)所得战功",
+		"constName" : "GuildWarKillPlayerScore",
+		"constValue" : 10,
+		"constValueEx" : 120
+	},
+	
+	{
+		"constDesc" : "仙盟战杀人奖励物品(仙盟速成符)",
+		"constName" : "GuildWarKillRewardItem",
+		"constValue" : 14102305
+	},
+	
+	{
+		"constDesc" : "仙盟战每组最多杀怪数",
+		"constName" : "GuildWarMaxKillBossNum",
+		"constValue" : 3
+	},
+	
+	{
+		"constDesc" : "仙盟战每个仙盟最少参与玩家人数",
+		"constName" : "GuildWarMinGuildPlayerNum",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "仙盟战复活后得到的buffer",
+		"constName" : "GuildWarReviveBuffer",
+		"constValue" : 55997000
+	},
+	
+	{
+		"constDesc" : "仙盟战复活次数",
+		"constName" : "GuildWarReviveTimes",
+		"constValue" : 6
+	},
+	
+	{
+		"constDesc" : "仙盟战第1名仙盟奖励礼包",
+		"constName" : "GuildWarRewardItem1",
+		"constValue" : 40111030,
+		"constValueEx" : 2
+	},
+	
+	{
+		"constDesc" : "仙盟战第1名仙盟奖励礼包（60级+）",
+		"constName" : "GuildWarRewardItem1Level60",
+		"constValue" : 40111031,
+		"constValueEx" : 2
+	},
+	
+	{
+		"constDesc" : "仙盟战第2-3名仙盟奖励礼包",
+		"constName" : "GuildWarRewardItem2",
+		"constValue" : 40111030,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "仙盟战第2-3名仙盟奖励礼包（60级+）",
+		"constName" : "GuildWarRewardItem2Level60",
+		"constValue" : 40111031,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "仙盟战第4-5名仙盟奖励礼包",
+		"constName" : "GuildWarRewardItem3",
+		"constValue" : 40111030,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "仙盟战第4-5名仙盟奖励礼包（60级+）",
+		"constName" : "GuildWarRewardItem3Level60",
+		"constValue" : 40111031,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "仙盟战仙盟内前3名奖励礼包",
+		"constName" : "GuildWarRewardItemInGuild",
+		"constValue" : 14011461
+	},
+	
+	{
+		"constDesc" : "仙盟战轮数，每轮时间",
+		"constName" : "GuildWarRingTime",
+		"constValue" : 3,
+		"constValueEx" : 600
+	},
+	
+	{
+		"constDesc" : "仙盟战报名时间（value:报名持续时间 value_ex:报名结束到开始的时间）",
+		"constName" : "GuildWarSignUpTime",
+		"constValue" : 600,
+		"constValueEx" : 300
+	},
+	
+	{
+		"constDesc" : "每日圣诞贺卡增加亲密度上限",
+		"constName" : "HandselCheristmasCardAddIntimateLimit",
+		"constValue" : 199
+	},
+	
+	{
+		"constDesc" : "圣诞贺卡buff_id",
+		"constName" : "HandselCheristmasCardBuffid",
+		"constValue" : 8004000
+	},
+	
+	{
+		"constDesc" : "每日送花增加亲密度上限",
+		"constName" : "HandselFlowerAddIntimateLimit",
+		"constValue" : 1000000,
+		"constValueEx" : 1000000
+	},
+	
+	{
+		"constDesc" : "荣誉天师",
+		"constName" : "HonourExchangeNpc",
+		"constValue" : 110401,
+		"constValueEx" : 230301
+	},
+	
+	{
+		"constDesc" : "挂机精力上限",
+		"constName" : "HooKEnergyMax",
+		"constValue" : 100000
+	},
+	
+	{
+		"constDesc" : "挂机精力每分钟恢复值",
+		"constName" : "HooKEnergyRecoverPerMinute",
+		"constValue" : 5,
+		"constValueEx" : 2
+	},
+	
+	{
+		"constDesc" : "100绑定金元宝编码",
+		"constName" : "HundredBindGoldCode",
+		"constValue" : 40151320
+	},
+	
+	{
+		"constDesc" : "个人竞技购买挑战次数花费（数量、单位）",
+		"constName" : "ImagePkBuyFightNumCost",
+		"constValue" : 10,
+		"constValueEx" : 2
+	},
+	
+	{
+		"constDesc" : "个人竞技每日可购买挑战次数",
+		"constName" : "ImagePkDayBuyFightNum",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "个人竞技每日挑战次数",
+		"constName" : "ImagePkDayFightNum",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "个人竞技战斗奖励荣誉",
+		"constName" : "ImagePkFightRewardHonour",
+		"constValue" : 1000
+	},
+	
+	{
+		"constDesc" : "个人竞技鼓舞费用",
+		"constName" : "ImagePkInspireCost",
+		"constValue" : 20,
+		"constValueEx" : 2
+	},
+	
+	{
+		"constDesc" : "个人竞技鼓舞增加的战斗力百分比",
+		"constName" : "ImagePkInspireEffect",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "个人竞技鼓舞次数上限",
+		"constName" : "ImagePkInspireMaxNum",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "个人竞技排名奖励发放时间（时、分）",
+		"constName" : "ImagePkRankRewardHour",
+		"constValue" : 22
+	},
+	
+	{
+		"constDesc" : "弹劾盟主消耗元宝数",
+		"constName" : "ImpeachGuildLeaderCost",
+		"constValue" : 288
+	},
+	
+	{
+		"constDesc" : "跨服荣誉兑换",
+		"constName" : "InterHonourExchangeNpc",
+		"constValue" : 140101,
+		"constValueEx" : 210415
+	},
+	
+	{
+		"constDesc" : "亲密度（组队击杀BOSS之家BOSS）",
+		"constName" : "IntimateCommingSourceBossHome",
+		"constValue" : 2
+	},
+	
+	{
+		"constDesc" : "亲密度（通过组队副本）",
+		"constName" : "IntimateCommingSourceCopy",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "亲密度（组队在线时长）",
+		"constName" : "IntimateCommingSourceGroup",
+		"constValue" : 3
+	},
+	
+	{
+		"constDesc" : "心有灵犀亲密度上限",
+		"constName" : "IntimateLevelEight",
+		"constValue" : 150000
+	},
+	
+	{
+		"constDesc" : "君子之交亲密度上限",
+		"constName" : "IntimateLevelFive",
+		"constValue" : 26000
+	},
+	
+	{
+		"constDesc" : "亲密无间亲密度上限",
+		"constName" : "IntimateLevelFour",
+		"constValue" : 13000
+	},
+	
+	{
+		"constDesc" : "肝胆相照亲密度上限",
+		"constName" : "IntimateLevelNine",
+		"constValue" : 300000
+	},
+	
+	{
+		"constDesc" : "点头之交亲密度上限",
+		"constName" : "IntimateLevelOne",
+		"constValue" : 1000
+	},
+	
+	{
+		"constDesc" : "金兰之交亲密度上限",
+		"constName" : "IntimateLevelSeven",
+		"constValue" : 90000
+	},
+	
+	{
+		"constDesc" : "莫逆之交亲密度上限",
+		"constName" : "IntimateLevelSix",
+		"constValue" : 50000
+	},
+	
+	{
+		"constDesc" : "志同道合亲密度上限",
+		"constName" : "IntimateLevelThree",
+		"constValue" : 6000
+	},
+	
+	{
+		"constDesc" : "萍水相逢亲密度上限",
+		"constName" : "IntimateLevelTwo",
+		"constValue" : 3000
+	},
+	
+	{
+		"constDesc" : "月卡投资消耗元宝",
+		"constName" : "InvestMensual",
+		"constValue" : 300
+	},
+	
+	{
+		"constDesc" : "投资计划等级限制",
+		"constName" : "InvestPlan",
+		"constValue" : 400
+	},
+	
+	{
+		"constDesc" : "宝石精炼要求装备最低阶数",
+		"constName" : "JewelRefineLevel",
+		"constValue" : 7
+	},
+	
+	{
+		"constDesc" : "组队杀怪获得亲密度",
+		"constName" : "KillBossAddIntimate",
+		"constValue" : 3
+	},
+	
+	{
+		"constDesc" : "击杀盟主/副盟主广播间隔",
+		"constName" : "KillGuildLeaderBroadcastInterval",
+		"constValue" : 300,
+		"constValueEx" : 60
+	},
+	
+	{
+		"constDesc" : "妖皇陨落礼包",
+		"constName" : "KillMonsterBossReward",
+		"constValue" : 40151112
+	},
+	
+	{
+		"constDesc" : "宠物斗兽持续时间（5分钟）",
+		"constName" : "lastTime",
+		"constValue" : 300,
+		"functionName" : "arenaPet"
+	},
+	
+	{
+		"constDesc" : "一马当先礼包",
+		"constName" : "LedTheFightReward",
+		"constValue" : 40121014
+	},
+	
+	{
+		"constDesc" : "关卡副本code",
+		"constName" : "LevelCopyCode",
+		"constValue" : 1002
+	},
+	
+	{
+		"constDesc" : "欢乐修仙骰copyCode",
+		"constName" : "LiarDiceCopyCode",
+		"constValue" : 188
+	},
+	
+	{
+		"constDesc" : "大话骰位置",
+		"constName" : "LiarDiceValidPos",
+		"constValue" : 1,
+		"constValueEx" : 5
+	},
+	
+	{
+		"constDesc" : "循环任务书免费刷星最大保留次数",
+		"constName" : "LoopTaskBookFreeFlushMaxCount",
+		"constValue" : 3
+	},
+	
+	{
+		"constDesc" : "海底仙境副本code",
+		"constName" : "LotteryCopyCode",
+		"constValue" : 123
+	},
+	
+	{
+		"constDesc" : "洪荒仙境次数限制",
+		"constName" : "LotteryFloodCountLimit",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "海底仙境次数限制",
+		"constName" : "LotterySeabedCountLimit",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "爱情宝匣有效天数",
+		"constName" : "LoveBoxExpiredDay",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "爱情宝匣购买价格",
+		"constName" : "LoveBoxPrice",
+		"constValue" : 520
+	},
+	
+	{
+		"constDesc" : "鲜花榜周结算奖励一级绑定三生石",
+		"constName" : "LoveStoneItemCode",
+		"constValue" : 40451210
+	},
+	
+	{
+		"constName" : "LoveZazenDistance",
+		"constValue" : 400
+	},
+	
+	{
+		"constDesc" : "情愿区修炼最大时间（秒）",
+		"constName" : "LoveZazenMaxTime",
+		"constValue" : 14400
+	},
+	
+	{
+		"constDesc" : "情缘修炼NPCID",
+		"constName" : "LoveZazenNPCId",
+		"constValue" : 230305
+	},
+	
+	{
+		"constDesc" : "爬塔副本怪物增加时间",
+		"constName" : "MagicTowerBossAddTime",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "爬塔副本怪物减少时间",
+		"constName" : "MagicTowerBossDelTime",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "爬塔扫荡每层时间(秒)",
+		"constName" : "MagicTowerSweepSecPerFloor",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "新爬塔副本编号",
+		"constName" : "MagicTownCopyCode",
+		"constValue" : 1005
+	},
+	
+	{
+		"constDesc" : "玄天城仙盟使者坐标",
+		"constName" : "MainCityGuildMessengerCoordinate",
+		"constValue" : 42,
+		"constValueEx" : 12
+	},
+	
+	{
+		"constDesc" : "玄天城地图id",
+		"constName" : "MainCityMapId",
+		"constValue" : 110401
+	},
+	
+	{
+		"constDesc" : "制作蛋糕地图id",
+		"constName" : "MakeCakeMapId",
+		"constValue" : 500104
+	},
+	
+	{
+		"constDesc" : "化妆舞会buff范围",
+		"constName" : "MakeUpBufferRange",
+		"constValue" : 2600032,
+		"constValueEx" : 2600032
+	},
+	
+	{
+		"constDesc" : "化妆舞会杀人礼包",
+		"constName" : "MakeUpKillGiftBag",
+		"constValue" : 14012314
+	},
+	
+	{
+		"constDesc" : "蛮荒禁地怒气值满时退出副本间隔",
+		"constName" : "ManHuangCopyLeftInterval",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "蛮荒禁地复活时增加怒气值",
+		"constName" : "ManHuangCopyReviveAddRate",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "蛮荒副本门票价格（绑元）",
+		"constName" : "ManHuangPropPrice",
+		"constValue" : 80
+	},
+	
+	{
+		"constDesc" : "地图屏蔽更新cd（秒）",
+		"constName" : "MapShieldUpdateCD",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "市场每页显示记录数",
+		"constName" : "MarketPerPage",
+		"constValue" : 10,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "寄售物品数量上限",
+		"constName" : "MarketSellAmountLimit",
+		"constValue" : 8,
+		"constValueEx" : 8
+	},
+	
+	{
+		"constDesc" : "男女结婚开始巡游时距离最大范围",
+		"constName" : "MarryManAndWomanDis",
+		"constValue" : 300
+	},
+	
+	{
+		"constDesc" : "结婚需要亲密度",
+		"constName" : "MarryNeedIntimate",
+		"constValue" : 520
+	},
+	
+	{
+		"constDesc" : "材料副本界面展示boss",
+		"constName" : "MaterialBossCode",
+		"constValue" : 20400102
+	},
+	
+	{
+		"constDesc" : "材料副本code",
+		"constName" : "MaterialCopyCode",
+		"constValue" : 1003
+	},
+	
+	{
+		"constDesc" : "最气值上限",
+		"constName" : "MaxAccumulation",
+		"constValue" : 9999999
+	},
+	
+	{
+		"constDesc" : "一天可收取的有附件邮件数（玩家发送）",
+		"constName" : "MaxAttchmentPlayerMailOneDay",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "黑名单人数上限",
+		"constName" : "MaxBlackListAmount",
+		"constValue" : 35
+	},
+	
+	{
+		"constDesc" : "每天提交蛋糕材料最大数",
+		"constName" : "MaxCakeMaterialAmount",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "聊天常用语最大长度",
+		"constName" : "MaxChatPhraseLength",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "仇人人数上限",
+		"constName" : "MaxEnemyAmount",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "好友人数上限",
+		"constName" : "MaxFriendAmount",
+		"constValue" : 50
+	},
+	
+	{
+		"constDesc" : "最大可获取好友赠送体力值",
+		"constName" : "MaxFriendGiveStrength",
+		"constValue" : 50
+	},
+	
+	{
+		"constDesc" : "好友赠送体力开启等级",
+		"constName" : "MaxOfferStrengthLevel",
+		"constValue" : 40
+	},
+	
+	{
+		"constDesc" : "可拥有角色数量上限",
+		"constName" : "MaxPlayerCreateRoleLimit",
+		"constValue" : 4
+	},
+	
+	{
+		"constDesc" : "修石碑每天提交材料最大数",
+		"constName" : "MaxStoneMaterialAmount",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "在跨服3v3中参与一场（失败）比赛的功勋奖励",
+		"constName" : "MeritAddFailGame",
+		"constValue" : 10,
+		"functionName" : "merit"
+	},
+	
+	{
+		"constDesc" : "在跨服3v3中击杀一个玩家获得的功勋奖励",
+		"constName" : "MeritAddKillOnePlayer",
+		"constValue" : 10,
+		"functionName" : "merit"
+	},
+	
+	{
+		"constDesc" : "在跨服3v3中获得一场比赛胜利的功勋奖励",
+		"constName" : "MeritAddWinGame",
+		"constValue" : 20,
+		"functionName" : "merit"
+	},
+	
+	{
+		"constDesc" : "天神战场进入准备时间（秒）",
+		"constName" : "MgBattlePrepareTime",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "神魔战场排名第一称号",
+		"constName" : "MgBattleRankOneTitleCode",
+		"constValue" : 200043
+	},
+	
+	{
+		"constDesc" : "神魔战场排名第三称号",
+		"constName" : "MgBattleRankThreeTitleCode",
+		"constValue" : 200056
+	},
+	
+	{
+		"constDesc" : "神魔战场排名第二称号",
+		"constName" : "MgBattleRankTwoTitleCode",
+		"constValue" : 200055
+	},
+	
+	{
+		"constDesc" : "天神战场奖励礼包",
+		"constName" : "MgBattleRewardItemCode",
+		"constValue" : 40111095,
+		"constValueEx" : 40111096
+	},
+	
+	{
+		"constDesc" : "跨服盟战采集过程扣除生命次数",
+		"constName" : "MgGuildBattleCollectLifeCount",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "跨服盟战采集过程中生命扣除百分比",
+		"constName" : "MgGuildBattleCollectLifePer",
+		"constValue" : 7
+	},
+	
+	{
+		"constDesc" : "跨服盟战采集刷城门血量百分比",
+		"constName" : "MgGuildBattleDoorLifePer",
+		"constValue" : 50
+	},
+	
+	{
+		"constDesc" : "跨服仙盟战开启",
+		"constName" : "MgGuildBattleOpen",
+		"constValue" : 1
+	},
+	
+	{
+		"constDesc" : "跨服盟战单服仙盟数量",
+		"constName" : "MgGuildBattleServerGuildNum",
+		"constValue" : 2,
+		"constValueEx" : 4
+	},
+	
+	{
+		"constDesc" : "全部怪物死亡后，下一波怪间隔",
+		"constName" : "MgGuildDefenseAutoNextRingInterval",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "守卫仙盟入口关闭间隔（秒）",
+		"constName" : "MgGuildDefenseEnterCloseInterval",
+		"constValue" : 900
+	},
+	
+	{
+		"constDesc" : "守卫仙盟一波怪刷新boss环数",
+		"constName" : "MgGuildDefenseReingBossWave",
+		"constValue" : 8
+	},
+	
+	{
+		"constDesc" : "守卫仙盟一波怪对应环数",
+		"constName" : "MgGuildDefenseRingPerWave",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "守卫仙盟突袭怪刷新间隔",
+		"constName" : "MgGuildDefenseSpecialBossInterval",
+		"constValue" : 300
+	},
+	
+	{
+		"constDesc" : "仙盟排名奖励",
+		"constName" : "MgGuildPartyRankReward",
+		"constValue" : 40150001,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "仙盟任务最大次数",
+		"constName" : "MgGuildTaskMax",
+		"constValue" : 70
+	},
+	
+	{
+		"constDesc" : "仙盟任务NPC",
+		"constName" : "MgGuildTaskNpc",
+		"constValue" : 101004
+	},
+	
+	{
+		"constDesc" : "赏金任务最大次数",
+		"constName" : "MgRingTaskMax",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "赏金任务NPC",
+		"constName" : "MgRingTaskNpc",
+		"constValue" : 101005
+	},
+	
+	{
+		"constDesc" : "31-40级，元宝流通最大数量",
+		"constName" : "MoneyTrace31To40",
+		"constValue" : 500
+	},
+	
+	{
+		"constDesc" : "41-50级，元宝流通最大数量",
+		"constName" : "MoneyTrace41To50",
+		"constValue" : 2000
+	},
+	
+	{
+		"constDesc" : "51-60级，元宝流通最大数量",
+		"constName" : "MoneyTrace51To60",
+		"constValue" : 5000
+	},
+	
+	{
+		"constDesc" : "坐骑半年卡VIP才能使用批量培养",
+		"constName" : "MountUpgradeBatch",
+		"constValue" : 4
+	},
+	
+	{
+		"constDesc" : "坐骑一次铜钱提升花费的铜钱数和提升的经验数",
+		"constName" : "MountUpgradeCoin",
+		"constValue" : 20000,
+		"constValueEx" : 100
+	},
+	
+	{
+		"constDesc" : "坐骑一次元宝提升花费的元宝数和提升的经验数",
+		"constName" : "MountUpgradeMoney",
+		"constValue" : 20,
+		"constValueEx" : 200
+	},
+	
+	{
+		"constDesc" : "神秘商店购买次数保存条数",
+		"constName" : "MysteryShopBuyRecordsMaxNum",
+		"constValue" : 50,
+		"constValueEx" : 10,
+		"functionName" : "MysteryShop"
+	},
+	
+	{
+		"constDesc" : "封神榜挑战冷却时间",
+		"constName" : "MythChallengeCd",
+		"constValue" : 600,
+		"constValueEx" : 5
+	},
+	
+	{
+		"constDesc" : "封神榜挑战次数",
+		"constName" : "MythChallengeTimes",
+		"constValue" : 15
+	},
+	
+	{
+		"constDesc" : "天赋点数（基础值+每级增加值*巅峰等级）",
+		"constName" : "NaturalGiftNum",
+		"constValue" : 10,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "登录排队开启",
+		"constName" : "NeedLoginQueue",
+		"constValue" : 1
+	},
+	
+	{
+		"constDesc" : "是否需要帐号激活码",
+		"constName" : "NeedUserActivationCard"
+	},
+	
+	{
+		"constDesc" : "新60级副本总波数",
+		"constName" : "New60CopyTotalWaveNum",
+		"constValue" : 200
+	},
+	
+	{
+		"constDesc" : "天神战场每天可进入的最多次数",
+		"constName" : "NewBattleEnterTime",
+		"constValue" : 2
+	},
+	
+	{
+		"constDesc" : "新战场助攻范围",
+		"constName" : "NewBattleFieldAssistDistance",
+		"constValue" : 400
+	},
+	
+	{
+		"constDesc" : "天神战场可以开启的时间段",
+		"constName" : "NewBattleFieldCanOpenTime",
+		"constValue" : 5400
+	},
+	
+	{
+		"constDesc" : "新战场延迟关闭时间",
+		"constName" : "NewBattleFieldCloseDelay",
+		"constValue" : 120
+	},
+	
+	{
+		"constDesc" : "新战场的副本code",
+		"constName" : "NewBattleFieldCopyCode",
+		"constValue" : 136
+	},
+	
+	{
+		"constDesc" : "新战场死亡获得荣誉",
+		"constName" : "NewBattleFieldDeadHonour",
+		"constValue" : 2
+	},
+	
+	{
+		"constDesc" : "新战场进入间隔",
+		"constName" : "NewBattleFieldEnterCD"
+	},
+	
+	{
+		"constDesc" : "新战场瞬杀时间间隔",
+		"constName" : "NewBattleFieldInstantKillCD",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "新战场持续时间",
+		"constName" : "NewBattleFieldLastTime",
+		"constValue" : 1200
+	},
+	
+	{
+		"constDesc" : "新战场最后一个防御塔破除后水晶减血百分比",
+		"constName" : "NewBattleFieldLastTowerEffect",
+		"constValue" : 58
+	},
+	
+	{
+		"constDesc" : "新战场个数上限",
+		"constName" : "NewBattleFieldMaxFieldNum",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "新战场人数上限",
+		"constName" : "NewBattleFieldMaxPlayerNum",
+		"constValue" : 60
+	},
+	
+	{
+		"constDesc" : "新战场人数上限(VIP)",
+		"constName" : "NewBattleFieldMaxPlayerNumForVIP",
+		"constValue" : 100
+	},
+	
+	{
+		"constDesc" : "新战场最低进入等级",
+		"constName" : "NewBattleFieldMinEnterLevel",
+		"constValue" : 45
+	},
+	
+	{
+		"constDesc" : "新战场新开战场需要已开战场人数",
+		"constName" : "NewBattleFieldNewFieldNeedPlayerNum",
+		"constValue" : 50
+	},
+	
+	{
+		"constDesc" : "新战场防御塔破除后水晶减血百分比",
+		"constName" : "NewBattleFieldTowerEffect",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "新战场破塔荣誉",
+		"constName" : "NewBattleFieldTowerHonour",
+		"constValue" : 600
+	},
+	
+	{
+		"constDesc" : "天神战场不屏蔽人数限制",
+		"constName" : "NewBattleShieldCount",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "新手指引字段移除条件(人物等级)",
+		"constName" : "NewGuidRemove",
+		"constValue" : 50
+	},
+	
+	{
+		"constDesc" : "新年回归礼包编码",
+		"constName" : "NewYearReturnGiftCode",
+		"constValue" : 14011464
+	},
+	
+	{
+		"constDesc" : "新年回归礼包老玩家创号最晚定义时间",
+		"constName" : "NewYearReturnGiftDay",
+		"constValue" : 15368
+	},
+	
+	{
+		"constDesc" : "最大灵气值",
+		"constName" : "NimbusMax",
+		"constValue" : 100000
+	},
+	
+	{
+		"constDesc" : "补签一天需花费20元宝",
+		"constName" : "NonCurrentDayRegistCost",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "普通章节副本最小副本编号",
+		"constName" : "NormalChapterMinCopyCode",
+		"constValue" : 8901
+	},
+	
+	{
+		"constDesc" : "NPC任务距离(像素)",
+		"constName" : "NpcTaskDistance",
+		"constValue" : 400
+	},
+	
+	{
+		"constDesc" : "离线经验最高保存时间（小时）",
+		"constName" : "OfflineExpMaxHour",
+		"constValue" : 12
+	},
+	
+	{
+		"constDesc" : "离线最长保留不断线的时间（秒）",
+		"constName" : "OfflineQuickLinkLastTime",
+		"constValue" : 60,
+		"constValueEx" : 5
+	},
+	
+	{
+		"constDesc" : "离线保留最多离线消息（超过后断线）",
+		"constName" : "OfflineStoreMessageMaxTime",
+		"constValue" : 500
+	},
+	
+	{
+		"constDesc" : "离线挂机创号初始挂机时间（小时）",
+		"constName" : "OfflineWorkCreateRoleInitHour",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "离线挂机最长时间（小时）",
+		"constName" : "OfflineWorkMaxHour",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "离线挂机复活花费（x钻石，优先绑钻）",
+		"constName" : "OfflineWorkRevivalCost",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "离线多久开启离线挂机（秒）（非副本、副本）",
+		"constName" : "OfflineWorkStartOfflineSec",
+		"constValue" : 180,
+		"constValueEx" : 300
+	},
+	
+	{
+		"constDesc" : "全部竞猜0胜奖",
+		"constName" : "OlymAllGuess0RightGift",
+		"constValue" : 14011628
+	},
+	
+	{
+		"constDesc" : "全部竞猜10胜奖",
+		"constName" : "OlymAllGuess10RightGift",
+		"constValue" : 14011631
+	},
+	
+	{
+		"constDesc" : "全部竞猜3胜奖",
+		"constName" : "OlymAllGuess3RightGift",
+		"constValue" : 14011629
+	},
+	
+	{
+		"constDesc" : "全部竞猜7胜奖",
+		"constName" : "OlymAllGuess7RightGift",
+		"constValue" : 14011630
+	},
+	
+	{
+		"constDesc" : "全部竞猜全胜奖",
+		"constName" : "OlymAllGuessAllRightGift",
+		"constValue" : 14011632
+	},
+	
+	{
+		"constDesc" : "每日竞猜奖励(左对右错)",
+		"constName" : "OlymDayGuessRightGift",
+		"constValue" : 14011627,
+		"constValueEx" : 14011626
+	},
+	
+	{
+		"constDesc" : "奖牌数最多国家猜对奖",
+		"constName" : "OlymMostGoldGuessGift",
+		"constValue" : 14011633
+	},
+	
+	{
+		"constDesc" : "新仙盟战单盟参与人数",
+		"constName" : "OneGuildBattleNumber",
+		"constValue" : 40
+	},
+	
+	{
+		"constDesc" : "好友推荐等级",
+		"constName" : "OneKeyMakeFriendsLevel",
+		"constValue" : 16,
+		"constValueEx" : 28
+	},
+	
+	{
+		"constDesc" : "一键征友好友最大等级差",
+		"constName" : "OneKeyMakeFriendsLevelRange",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "对方不能高于自己的等级",
+		"constName" : "OneKeyMakeFriendsLevelUpper",
+		"constValue" : 40
+	},
+	
+	{
+		"constDesc" : "一键征友好友最大数",
+		"constName" : "OneKeyMakeFriendsMaxCount",
+		"constValue" : 50,
+		"constValueEx" : 4
+	},
+	
+	{
+		"constDesc" : "一键征友好友最低等级",
+		"constName" : "OneKeyMakeFriendsMinLevel",
+		"constValue" : 14
+	},
+	
+	{
+		"constDesc" : "好友推荐最小人数",
+		"constName" : "OneKeyMakeFriendsMinSize",
+		"constValue" : 4
+	},
+	
+	{
+		"constDesc" : "对方好友不能超过的数量",
+		"constName" : "OneKeyMakeFriendsNumLimit",
+		"constValue" : 40
+	},
+	
+	{
+		"constDesc" : "一键完成3转费用（元宝）",
+		"constName" : "OneKeyRoleState3Const",
+		"constValue" : 1000
+	},
+	
+	{
+		"constDesc" : "开启仙盟副本须弥幻境需要在线的最少人数",
+		"constName" : "OpenGuildSumeruDreamLandNeedOnlinePlayer",
+		"constValue" : 4
+	},
+	
+	{
+		"constDesc" : "角色职业1",
+		"constName" : "OpenNewRealRoleCareer1",
+		"constValue" : 1
+	},
+	
+	{
+		"constDesc" : "角色职业2",
+		"constName" : "OpenNewRealRoleCareer2",
+		"constValue" : 2
+	},
+	
+	{
+		"constDesc" : "角色职业3",
+		"constName" : "OpenNewRealRoleCareer3",
+		"constValue" : 4
+	},
+	
+	{
+		"constDesc" : "洗练槽开启消耗",
+		"constName" : "OpenRefreshCost",
+		"constValue" : 100
+	},
+	
+	{
+		"constDesc" : "其他装备基础属性浮动值区间（百分比）",
+		"constName" : "OtherEquipAttrAddRandomZone",
+		"constValue" : 1,
+		"constValueEx" : 15
+	},
+	
+	{
+		"constDesc" : "幻月迷宫code",
+		"constName" : "ParaseleneCopyCode",
+		"constValue" : 155
+	},
+	
+	{
+		"constDesc" : "传送范围距离(像素)",
+		"constName" : "PassDistance",
+		"constValue" : 300
+	},
+	
+	{
+		"constDesc" : "传送到最大距离",
+		"constName" : "PassToMaxDistance",
+		"constValue" : 120
+	},
+	
+	{
+		"constDesc" : "传送到最小距离",
+		"constName" : "PassToMinDistance",
+		"constValue" : 40
+	},
+	
+	{
+		"constDesc" : "NPC传送所需费用",
+		"constName" : "PassTypeNpcCost",
+		"constValue" : 100
+	},
+	
+	{
+		"constDesc" : "战场之魂副本Code",
+		"constName" : "PeaceFieldCopyCode",
+		"constValue" : 132
+	},
+	
+	{
+		"constDesc" : "战场之魂不再开启新房间间隔",
+		"constName" : "PeaceFieldCreateNewInterval",
+		"constValue" : 600
+	},
+	
+	{
+		"constDesc" : "战场之魂可采集宝箱数量",
+		"constName" : "PeaceFieldMaxCollectNum",
+		"constValue" : 3
+	},
+	
+	{
+		"constDesc" : "战场之魂人数上限",
+		"constName" : "PeaceFieldMaxPlayerNum",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "战场之魂新场景需要人数",
+		"constName" : "PeaceFieldNewAreaPlayerNum",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "战场之魂开始刷boss需要人数",
+		"constName" : "PeaceFieldRefreshBossPlayerNum",
+		"constValue" : 1
+	},
+	
+	{
+		"constDesc" : "战场之魂开始刷boss倒计时",
+		"constName" : "PeaceFieldRefreshBossTime",
+		"constValue" : 60
+	},
+	
+	{
+		"constDesc" : "第一个宝箱花费元宝值",
+		"constName" : "PeepTimeNo1",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "第二个宝箱花费元宝值",
+		"constName" : "PeepTimeNo2",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "第三个宝箱花费元宝值",
+		"constName" : "PeepTimeNo3",
+		"constValue" : 15
+	},
+	
+	{
+		"constDesc" : "第四个宝箱花费元宝值",
+		"constName" : "PeepTimeNo4",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "第五个宝箱花费元宝值",
+		"constName" : "PeepTimeNo5",
+		"constValue" : 25
+	},
+	
+	{
+		"constDesc" : "第六个宝箱花费元宝值",
+		"constName" : "PeepTimeNo6",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "跨服竞技购买参与次数花费元宝数",
+		"constName" : "PersonalPkBuyJoinNumCost",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "跨服竞技购买参与次数最大数量",
+		"constName" : "PersonalPkMaxBuyJoinNum",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "跨服竞技每日最大参与次数",
+		"constName" : "PersonalPkMaxDayJoinNum",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "跨服竞技奖励物品",
+		"constName" : "PersonalPkRewardItem",
+		"constValue" : 60040033,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "跨服竞技每天比赛前X场才有奖励经验/物品",
+		"constName" : "PersonalPkRewardJoinNum",
+		"constValue" : 10,
+		"constValueEx" : 15
+	},
+	
+	{
+		"constDesc" : "跨服竞技第1赛季开始月份",
+		"constName" : "PersonalPkSeasonBeginMonth",
+		"constValue" : 2017,
+		"constValueEx" : 6
+	},
+	
+	{
+		"constDesc" : "跨服竞技获得每月奖励必需达到的参与次数",
+		"constName" : "PersonalPkSeasonRewardMinJoinNum",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "个人boss副本计费单位（x分钟1元宝）",
+		"constName" : "PersonCopyPerIntervalCost",
+		"constValue" : 4
+	},
+	
+	{
+		"constDesc" : "宠物返回距离(像素)",
+		"constName" : "PetBackDistance",
+		"constValue" : 500
+	},
+	
+	{
+		"constDesc" : "宠物自动闯关花费(数量、单位)",
+		"constName" : "PetExploreAutoExploreCost",
+		"constValue" : 1000,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "宠物闯关失败1次花费",
+		"constName" : "PetExploreCostInFail1",
+		"constValue" : 1000,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "宠物闯关失败2次花费",
+		"constName" : "PetExploreCostInFail2",
+		"constValue" : 2000,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "宠物闯关失败3次花费",
+		"constName" : "PetExploreCostInFail3",
+		"constValue" : 5000,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "宠物岛双倍掉落花费",
+		"constName" : "PetExploreDoubeIncomeCost",
+		"constValue" : 10,
+		"constValueEx" : 2
+	},
+	
+	{
+		"constDesc" : "宠物闯关最多次数",
+		"constName" : "PetExploreMaxTimes",
+		"constValue" : 1
+	},
+	
+	{
+		"constDesc" : "每天闯关次数",
+		"constName" : "PetExploreMaxTimesPerDay",
+		"constValue" : 4
+	},
+	
+	{
+		"constDesc" : "宠物闯关，人物最低等级和宠物最低等级",
+		"constName" : "PetExploreMinLevel",
+		"constValue" : 50,
+		"constValueEx" : 55
+	},
+	
+	{
+		"constDesc" : "宠物跟随距离(像素)",
+		"constName" : "PetFollowDistance",
+		"constValue" : 115
+	},
+	
+	{
+		"constDesc" : "宠物技能槽第一次扩展需要的成长",
+		"constName" : "PetGrowthFirstSkill",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "宠物技能槽第二次扩展需要的成长",
+		"constName" : "PetGrowthSecondSkill",
+		"constValue" : 15
+	},
+	
+	{
+		"constDesc" : "宠物技能槽第三次扩展需要的成长",
+		"constName" : "PetGrowthThreeSkill",
+		"constValue" : 25
+	},
+	
+	{
+		"constDesc" : "宠物技能书刷新道具刷新所需费用（1次、12次）",
+		"constName" : "PetRandSkillCost",
+		"constValue" : 10,
+		"constValueEx" : 100
+	},
+	
+	{
+		"constDesc" : "宠物收放CD",
+		"constName" : "PetRecallCd",
+		"constValue" : 8
+	},
+	
+	{
+		"constDesc" : "宠物技能槽第一次扩展需要的灵性",
+		"constName" : "PetSpiritFirstSkill",
+		"constValue" : 6
+	},
+	
+	{
+		"constDesc" : "宠物技能槽第二次扩展需要的灵性",
+		"constName" : "PetSpiritSecondSkill",
+		"constValue" : 12
+	},
+	
+	{
+		"constDesc" : "宠物技能槽第三次跨站需要的灵性",
+		"constName" : "PetSpiritThreeSkill",
+		"constValue" : 18
+	},
+	
+	{
+		"constDesc" : "宠物成长的基础经验",
+		"constName" : "PetUpgradeGrowthBaseExperience",
+		"constValue" : 100
+	},
+	
+	{
+		"constDesc" : "宠物批量成长的条件",
+		"constName" : "PetUpgradeGrowthBatchCondition",
+		"constValueEx" : 2
+	},
+	
+	{
+		"constDesc" : "升级宠物成长的暴击倍数",
+		"constName" : "PetUpgradeGrowthMulExperience",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "批量升级宠物灵性的条件",
+		"constName" : "PetUpgradeSpiritCondition",
+		"constValueEx" : 2
+	},
+	
+	{
+		"constDesc" : "洗髓一次所需要消耗的元宝数",
+		"constName" : "PetXiSuiCost",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "助手拾取范围（小恶魔）",
+		"constName" : "PickUpDropItemAssistDistance",
+		"constValue" : 500
+	},
+	
+	{
+		"constDesc" : "拾取范围",
+		"constName" : "PickUpDropItemDistance",
+		"constValue" : 150
+	},
+	
+	{
+		"constDesc" : "天澜大陆地图id",
+		"constName" : "PlantLandMapId",
+		"constValue" : 132401
+	},
+	
+	{
+		"constDesc" : "天澜大陆地图原点是否中心点",
+		"constName" : "PlantLandOriginPos",
+		"constValue" : 1
+	},
+	
+	{
+		"constDesc" : "是否记录玩家数据变化（代理需求）",
+		"constName" : "PlayerDataRecordEnable",
+		"constValue" : 1
+	},
+	
+	{
+		"constDesc" : "药包的初始值",
+		"constName" : "PlayerDrugBagInitialValue",
+		"constValue" : 100000
+	},
+	
+	{
+		"constDesc" : "玩家生命自动恢复（间隔X秒恢复Y%）",
+		"constName" : "PlayerLifeRecover",
+		"constValue" : 10,
+		"constValueEx" : 10
+	},
+	
+	{
+		"constDesc" : "帐号锁最大失败次数（val:密码最大次数 valEx:密保回答最大次数）",
+		"constName" : "PlayerLockMaxErrorTimes",
+		"constValue" : 5,
+		"constValueEx" : 5
+	},
+	
+	{
+		"constDesc" : "国运结束时间(晚上)",
+		"constName" : "Pm2CampTransportEnd",
+		"constValue" : 22
+	},
+	
+	{
+		"constDesc" : "国运开始时间(晚上)",
+		"constName" : "Pm2CampTransportStart",
+		"constValue" : 21,
+		"constValueEx" : 30
+	},
+	
+	{
+		"constDesc" : "国运结束时间(下午)",
+		"constName" : "PmCampTransportEnd",
+		"constValue" : 16,
+		"constValueEx" : 30
+	},
+	
+	{
+		"constDesc" : "国运开始时间(下午)",
+		"constName" : "PmCampTransportStart",
+		"constValue" : 16
+	},
+	
+	{
+		"constDesc" : "私聊加亲密度,(一天最多加30次,一次1点)",
+		"constName" : "PrivateTalkAddIntimate",
+		"constValue" : 20,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "激活码可允许错误次数",
+		"constName" : "PromotionCardErrorCount",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "答题互动冷却秒数",
+		"constName" : "QuestionAmuseCoolingSec",
+		"constValue" : 180
+	},
+	
+	{
+		"constDesc" : "外网在水一方答题时间",
+		"constName" : "QuestionAnswerTime",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "答题副本答题错误模型",
+		"constName" : "QuestionCopyAnswerWrongModelId",
+		"constValue" : 999999
+	},
+	
+	{
+		"constDesc" : "答题副本出生点",
+		"constName" : "QuestionCopyBornPoint",
+		"constValue" : 4,
+		"constValueEx" : 14
+	},
+	
+	{
+		"constDesc" : "答题副本第一名称号",
+		"constName" : "QuestionCopyFirstTitle",
+		"constValue" : 980000
+	},
+	
+	{
+		"constDesc" : "答题副本技能",
+		"constName" : "QuestionCopySkills",
+		"constValue" : 30000001,
+		"constValueEx" : 30000002
+	},
+	
+	{
+		"constDesc" : "外网在水一方看题时间",
+		"constName" : "QuestionLookTime",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "外网在水一方公布答案时间",
+		"constName" : "QuestionShowTime",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "外网在水一方答题数",
+		"constName" : "QuestionTotalNum",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "内网在水一方答题数",
+		"constName" : "QuestionTotalNumDebug",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "快速完成任务（状态变成可提交）需要元宝数量",
+		"constName" : "QuickCompleteTaskCost",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "竞速赛副本code",
+		"constName" : "RaceCopyCode",
+		"constValue" : 152
+	},
+	
+	{
+		"constDesc" : "竞速赛最大房间数",
+		"constName" : "RaceCopyMaxRoomNum",
+		"constValue" : 16
+	},
+	
+	{
+		"constDesc" : "竞速赛最大技能数量",
+		"constName" : "RaceCopyMaxSkillNum",
+		"constValue" : 4
+	},
+	
+	{
+		"constDesc" : "竞速赛模型buffer",
+		"constName" : "RaceCopyModelBuffer",
+		"constValue" : 2600032
+	},
+	
+	{
+		"constDesc" : "累计2场前3名奖励",
+		"constName" : "RaceCopyPerfectNum2",
+		"constValue" : 14011884
+	},
+	
+	{
+		"constDesc" : "累计3场前3名奖励",
+		"constName" : "RaceCopyPerfectNum3",
+		"constValue" : 14011883
+	},
+	
+	{
+		"constDesc" : "累计4场前3名奖励",
+		"constName" : "RaceCopyPerfectNum4",
+		"constValue" : 14011882
+	},
+	
+	{
+		"constDesc" : "累计5场前3名奖励",
+		"constName" : "RaceCopyPerfectNum5",
+		"constValue" : 14011881
+	},
+	
+	{
+		"constDesc" : "第1名获得奖励",
+		"constName" : "RaceCopyRankIn1",
+		"constValue" : 14011878
+	},
+	
+	{
+		"constDesc" : "第4-10名获得奖励",
+		"constName" : "RaceCopyRankIn10",
+		"constValue" : 14011880
+	},
+	
+	{
+		"constDesc" : "第2-3名获得奖励",
+		"constName" : "RaceCopyRankIn3",
+		"constValue" : 14011879
+	},
+	
+	{
+		"constDesc" : "竞速赛每场比赛的最长时间（秒）",
+		"constName" : "RaceCopyRoomRaceTime",
+		"constValue" : 480
+	},
+	
+	{
+		"constDesc" : "霸主副本1code",
+		"constName" : "RankingOverLordCopyCode1",
+		"constValue" : 118
+	},
+	
+	{
+		"constDesc" : "霸主副本2code",
+		"constName" : "RankingOverLordCopyCode2",
+		"constValue" : 131
+	},
+	
+	{
+		"constDesc" : "霸主副本数量",
+		"constName" : "RankingOverLordCopyNum",
+		"constValue" : 2
+	},
+	
+	{
+		"constDesc" : "每日累冲（奖励分割天数）",
+		"constName" : "RechargeDayTotal",
+		"constValue" : 7
+	},
+	
+	{
+		"constDesc" : "开服累冲（开服天数）",
+		"constName" : "RechargeTotal",
+		"constValue" : 7
+	},
+	
+	{
+		"constDesc" : "红色装备基础属性浮动值区间（百分比）",
+		"constName" : "RedEquipAttrAddRandomZone",
+		"constValue" : 15,
+		"constValueEx" : 15
+	},
+	
+	{
+		"constDesc" : "红名玩家清除一点罪恶值需在线时间（秒）",
+		"constName" : "RedNameKillValueDecreaseTime",
+		"constValue" : 3600,
+		"constValueEx" : 3600
+	},
+	
+	{
+		"constDesc" : "红名pk值上限",
+		"constName" : "RedNameMaxKillValue",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "红名玩家被杀金币掉落",
+		"constName" : "RedNamePlayerKilledCoinDrop",
+		"constValue" : 100000
+	},
+	
+	{
+		"constDesc" : "红名玩家被杀钻石掉落",
+		"constName" : "RedNamePlayerKilledGoldDrop",
+		"constValue" : 10,
+		"constValueEx" : 10
+	},
+	
+	{
+		"constDesc" : "元宝找回、铜钱找回比例",
+		"constName" : "RegainRewardPercent",
+		"constValue" : 90,
+		"constValueEx" : 50
+	},
+	
+	{
+		"constDesc" : "消耗YB返回奖励活动所需消耗YB数量",
+		"constName" : "ReturnNeedConsumeYBNum",
+		"constValue" : 100
+	},
+	
+	{
+		"constDesc" : "回归玩家BUFF，玩家等级小于世界等级",
+		"constName" : "ReturnPlayerBuffLevel"
+	},
+	
+	{
+		"constDesc" : "回归玩家没登录天数",
+		"constName" : "ReturnPlayerDays",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "免费复活等级",
+		"constName" : "RevivalFreeLevel",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "原地复活消耗非绑定元宝数",
+		"constName" : "RevivalGold",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "打坐机器人范围（像素）",
+		"constName" : "RobotDazenDistance",
+		"constValue" : 300
+	},
+	
+	{
+		"constDesc" : "机器人新手等级（小于等于此等级为新手）",
+		"constName" : "RobotNewPlayerLevel",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "境界提升最高等级",
+		"constName" : "RootMaxLevel",
+		"constValue" : 40
+	},
+	
+	{
+		"constDesc" : "天赋技能激活消耗",
+		"constName" : "RuneActivateCost",
+		"constValue" : 16,
+		"constValueEx" : 1000
+	},
+	
+	{
+		"constDesc" : "开启天赋技能消耗",
+		"constName" : "RuneAddExtraNumCost",
+		"constValue" : 16,
+		"constValueEx" : 2000
+	},
+	
+	{
+		"constDesc" : "免费符文寻宝间隔（小时）",
+		"constName" : "RuneLotteryFreeInterval",
+		"constValue" : 48
+	},
+	
+	{
+		"constDesc" : "天赋技能元宝提升",
+		"constName" : "RuneUpgradeGoldCost",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "天赋技能吸引次数",
+		"constName" : "RuneUpgradeMaxTimesPerDay",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "天赋技能魔石提升",
+		"constName" : "RuneUpgradeStoneCost",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "宗门任务刷新消耗元宝数量",
+		"constName" : "SchoolTaskCostGold",
+		"constValue" : 2,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "跨服下推玩家信息间隔时间",
+		"constName" : "scrossPlayerPushTime",
+		"constValue" : 10,
+		"functionName" : "crossPlayer"
+	},
+	
+	{
+		"constDesc" : "战场第二名阵营荣誉奖励",
+		"constName" : "SecondCampHonour",
+		"constValue" : 3500
+	},
+	
+	{
+		"constDesc" : "新战场第二名势力荣誉奖励",
+		"constName" : "SecondForceHonour",
+		"constValue" : 2000
+	},
+	
+	{
+		"constDesc" : "邮资(优先扣绑定铜钱)",
+		"constName" : "SendMailCost",
+		"constValue" : 100
+	},
+	
+	{
+		"constDesc" : "设置杀戮模式等级",
+		"constName" : "SetFightModeLevel",
+		"constValue" : 60
+	},
+	
+	{
+		"constDesc" : "设置和平模式CD时间未到",
+		"constName" : "SetPeaceModeCd",
+		"constValue" : 1800
+	},
+	
+	{
+		"constDesc" : "上古神迹副本增加基本经验系数",
+		"constName" : "ShenJiAddBaseExperienceNum",
+		"constValue" : 4
+	},
+	
+	{
+		"constDesc" : "上古神迹副本采集过程中生命扣除百分比",
+		"constName" : "ShenJiCollectLifePer",
+		"constValue" : 7
+	},
+	
+	{
+		"constDesc" : "上古神迹副本采集过程扣除生命值次数",
+		"constName" : "ShenJiCollectLiftCount",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "上古神迹副本怒气值满时退出副本间隔",
+		"constName" : "ShenJiCopyLeftInterval",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "上古神迹副本复活时增加怒气值",
+		"constName" : "ShenJiCopyReviveAddRate",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "上古神迹副本门票价格（绑元）",
+		"constName" : "ShenJiPropPrice",
+		"constValue" : 50
+	},
+	
+	{
+		"constDesc" : "秘境商店每天购买次数",
+		"constName" : "ShopTreasureBuyTimes",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "秘境商店每天免费刷新次数",
+		"constName" : "ShopTreasureFreeRefreshNumDay",
+		"constValue" : 3
+	},
+	
+	{
+		"constDesc" : "秘境商店刷新的价格",
+		"constName" : "ShopTreasureRefreshPrice",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "妖王副本造成伤害获得铜钱比例",
+		"constName" : "SilverPerHurt",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "技能公共CD(毫秒)",
+		"constName" : "SkillPublicCd",
+		"constValue" : 200
+	},
+	
+	{
+		"constDesc" : "天空之城副本code",
+		"constName" : "SkyCityCopyCode",
+		"constValue" : 143
+	},
+	
+	{
+		"constDesc" : "天空之城容纳最大人数",
+		"constName" : "SkyCityMaxPlayerNum",
+		"constValue" : 200
+	},
+	
+	{
+		"constDesc" : "天空之城个数",
+		"constName" : "SkyCopyMaxNum",
+		"constValue" : 15
+	},
+	
+	{
+		"constDesc" : "天空之城开启需要人数",
+		"constName" : "SkyCopyOpenNeedPlayerNum",
+		"constValue" : 160,
+		"constValueEx" : 2
+	},
+	
+	{
+		"constDesc" : "温泉副本id",
+		"constName" : "SpaCopyCode",
+		"constValue" : 120
+	},
+	
+	{
+		"constDesc" : "温泉每n秒加经验和灵气",
+		"constName" : "SpaExpAddCoolTime",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "温泉等级限制",
+		"constName" : "SpaLimitLevel",
+		"constValue" : 40
+	},
+	
+	{
+		"constDesc" : "一个温泉的人数上限",
+		"constName" : "SpaPlayerNum",
+		"constValue" : 100
+	},
+	
+	{
+		"constDesc" : "收集兑换活动code",
+		"constName" : "SpecialActiveExchangeCode",
+		"constValue" : 40310018
+	},
+	
+	{
+		"constDesc" : "合成活动code",
+		"constName" : "SpecialActiveSmeltCode",
+		"constValue" : 40310036
+	},
+	
+	{
+		"constDesc" : "梦幻海滩 冷饮冷却秒数",
+		"constName" : "SpringColdDrinkCD",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "梦幻海滩冷饮花费",
+		"constName" : "SpringColdDrinkCost",
+		"constValue" : 1000,
+		"constValueEx" : 1
+	},
+	
+	{
+		"constDesc" : "梦幻海滩 冷饮经验",
+		"constName" : "SpringColdDrinkExp",
+		"constValue" : 3000
+	},
+	
+	{
+		"constDesc" : "梦幻海滩 冷饮次数",
+		"constName" : "SpringColdDrinkLimit",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "梦幻海滩(饮料,飞吻)",
+		"constName" : "SpringIntimate",
+		"constValue" : 3,
+		"constValueEx" : 3
+	},
+	
+	{
+		"constDesc" : "梦幻海滩 飞吻冷却秒数",
+		"constName" : "SpringKissCD",
+		"constValue" : 30
+	},
+	
+	{
+		"constDesc" : "梦幻海滩 飞吻经验",
+		"constName" : "SpringKissExp",
+		"constValue" : 1500
+	},
+	
+	{
+		"constDesc" : "梦幻海滩 飞吻次数",
+		"constName" : "SpringKissLimit",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "召唤仙命条件",
+		"constName" : "StarFortuneCallNPCCondition",
+		"constValue" : 2
+	},
+	
+	{
+		"constDesc" : "套装技能升级每日次数上限",
+		"constName" : "SuitSkillUpgradeMaxTimes",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "海滩穿越的cd时间（秒）",
+		"constName" : "SunBathPassCdTime",
+		"constValue" : 300
+	},
+	
+	{
+		"constDesc" : "海滩穿越的时装范围",
+		"constName" : "SunBathPassSuitCode",
+		"constValue" : 10113075,
+		"constValueEx" : 10113081
+	},
+	
+	{
+		"constDesc" : "海滩穿越的称号范围",
+		"constName" : "SunBathPassTitleCode",
+		"constValue" : 1000035,
+		"constValueEx" : 1000048
+	},
+	
+	{
+		"constDesc" : "跨服收入元宝分红比例",
+		"constName" : "TaxesPecentOfGold",
+		"constValue" : 1,
+		"functionName" : "CrossCell"
+	},
+	
+	{
+		"constDesc" : "跨服收入铜钱分红比例",
+		"constName" : "TaxesPecentOfSilver",
+		"constValue" : 100,
+		"functionName" : "CrossCell"
+	},
+	
+	{
+		"constDesc" : "战场第三名阵营荣誉奖励",
+		"constName" : "ThirdCampHonour",
+		"constValue" : 3200
+	},
+	
+	{
+		"constDesc" : "新战场第三名势力荣誉奖励",
+		"constName" : "ThirdForceHonour",
+		"constValue" : 1000
+	},
+	
+	{
+		"constDesc" : "3v3广播倒计时",
+		"constName" : "ThreeVsThreeBroadcastTmie",
+		"constValue" : 5,
+		"functionName" : "ThreeVsThree"
+	},
+	
+	{
+		"constDesc" : "3v3buffId",
+		"constName" : "ThreeVsThreeBuffId",
+		"constValue" : 59999002,
+		"functionName" : "ThreeVsThree"
+	},
+	
+	{
+		"constDesc" : "3v3副本code",
+		"constName" : "ThreeVsThreeCopyCode",
+		"constValue" : 702,
+		"functionName" : "ThreeVsThree"
+	},
+	
+	{
+		"constDesc" : "3v3副本地图id",
+		"constName" : "ThreeVsThreeCopyMapId",
+		"constValue" : 133102,
+		"functionName" : "ThreeVsThree"
+	},
+	
+	{
+		"constDesc" : "3v3进入最小等级",
+		"constName" : "ThreeVsThreeEnterMinLevel",
+		"constValue" : 65,
+		"functionName" : "ThreeVsThree"
+	},
+	
+	{
+		"constDesc" : "3v3胜利获得的积分和荣誉",
+		"constName" : "ThreeVsThreeFailGetScoreAndHonor",
+		"constValue" : 100,
+		"constValueEx" : 100,
+		"functionName" : "ThreeVsThree"
+	},
+	
+	{
+		"constDesc" : "3v3地图id",
+		"constName" : "ThreeVsThreeMapId",
+		"constValue" : 133101,
+		"functionName" : "ThreeVsThree"
+	},
+	
+	{
+		"constDesc" : "3v3匹配时间1",
+		"constName" : "ThreeVsThreeMatchSec1",
+		"constValue" : 30,
+		"functionName" : "ThreeVsThree"
+	},
+	
+	{
+		"constDesc" : "3v3匹配时间2",
+		"constName" : "ThreeVsThreeMatchSec2",
+		"constValue" : 40,
+		"functionName" : "ThreeVsThree"
+	},
+	
+	{
+		"constDesc" : "3v3匹配时间3",
+		"constName" : "ThreeVsThreeMatchSec3",
+		"constValue" : 50,
+		"functionName" : "ThreeVsThree"
+	},
+	
+	{
+		"constDesc" : "3v3匹配时间4",
+		"constName" : "ThreeVsThreeMatchSec4",
+		"constValue" : 60,
+		"functionName" : "ThreeVsThree"
+	},
+	
+	{
+		"constDesc" : "3v3最多战斗次数",
+		"constName" : "ThreeVsThreeMaxFightTimes",
+		"constValue" : 15,
+		"functionName" : "ThreeVsThree"
+	},
+	
+	{
+		"constDesc" : "3v3休息室传送点",
+		"constName" : "ThreeVsThreePassPoint",
+		"constValue" : 3,
+		"constValueEx" : 21,
+		"functionName" : "ThreeVsThree"
+	},
+	
+	{
+		"constDesc" : "3v3休息室id",
+		"constName" : "ThreeVsThreeRestRoomCopyCode",
+		"constValue" : 703,
+		"functionName" : "ThreeVsThree"
+	},
+	
+	{
+		"constDesc" : "3v3奖励发送最大名次",
+		"constName" : "ThreeVsThreeRewardMaxNum",
+		"constValue" : 10,
+		"functionName" : "ThreeVsThree"
+	},
+	
+	{
+		"constDesc" : "3v3排行榜结算时间(星期天22点)",
+		"constName" : "ThreeVsThreeSendRewardTime",
+		"constValueEx" : 22,
+		"functionName" : "ThreeVsThree"
+	},
+	
+	{
+		"constDesc" : "3v3胜利获得的积分和荣誉",
+		"constName" : "ThreeVsThreeWinGetScoreAndHonor",
+		"constValue" : 200,
+		"constValueEx" : 200,
+		"functionName" : "ThreeVsThree"
+	},
+	
+	{
+		"constDesc" : "背包整理cd时间（单位：秒）",
+		"constName" : "TidyBagCdSec",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "玄天荣耀礼包Code",
+		"constName" : "TienGloryCodeTienHolinessCode",
+		"constValue" : 40111034
+	},
+	
+	{
+		"constDesc" : "玄天神使礼包Code",
+		"constName" : "TienGodCode"
+	},
+	
+	{
+		"constDesc" : "玄天圣尊礼包Code",
+		"constName" : "TienHolinessCode"
+	},
+	
+	{
+		"constDesc" : "玄天虎卫礼包Code",
+		"constName" : "TienHuWeiCode"
+	},
+	
+	{
+		"constDesc" : "玄天仙师礼包Code",
+		"constName" : "TienImmortalCode"
+	},
+	
+	{
+		"constDesc" : "疲劳值衰减CD",
+		"constName" : "TireDescCD",
+		"constValue" : 3600
+	},
+	
+	{
+		"constDesc" : "疲劳值上限",
+		"constName" : "TireMaxValue",
+		"constValue" : 12
+	},
+	
+	{
+		"constDesc" : "好友对酒加亲密度(最大数量,亲密度)",
+		"constName" : "ToastFriendAddIntimate",
+		"constValue" : 5,
+		"constValueEx" : 3
+	},
+	
+	{
+		"constDesc" : "离线N天不上排行榜",
+		"constName" : "ToplistMaxOfflineDay",
+		"constValue" : 15
+	},
+	
+	{
+		"constDesc" : "塔防副本初始斗魂值",
+		"constName" : "TowerDefenseInitMaterial",
+		"constValue" : 20000
+	},
+	
+	{
+		"constDesc" : "塔防副本一波刷怪环数",
+		"constName" : "TowerDefenseRingPerWave",
+		"constValue" : 15
+	},
+	
+	{
+		"constDesc" : "塔防副本黄金boss_code",
+		"constName" : "TowerDefenseSpecialBossCode",
+		"constValue" : 24050300
+	},
+	
+	{
+		"constDesc" : "塔防副本召唤黄金BOSS所需元宝",
+		"constName" : "TowerDefenseSpecialBossCost",
+		"constValue" : 20
+	},
+	
+	{
+		"constDesc" : "塔防副本黄金boss刷新坐标",
+		"constName" : "TowerDefenseSpecialBossPos",
+		"constValue" : 2,
+		"constValueEx" : 10
+	},
+	
+	{
+		"constDesc" : "运镖任务每天最大次数",
+		"constName" : "TransportMaxCount",
+		"constValue" : 3
+	},
+	
+	{
+		"constDesc" : "刺探寻宝任务神秘宝箱ID",
+		"constName" : "TreasureChestCode",
+		"constValue" : 40121006,
+		"constValueEx" : 40121006
+	},
+	
+	{
+		"constDesc" : "刺探寻宝任务60级以前宝箱ID",
+		"constName" : "TreasureChestCodeLower",
+		"constValue" : 40121005
+	},
+	
+	{
+		"constDesc" : "刺探寻宝玩家被杀宝箱掉落概率",
+		"constName" : "TreasureChestDropRate",
+		"constValue" : 30,
+		"constValueEx" : 20
+	},
+	
+	{
+		"constDesc" : "寻宝活动采集满次数奖励（奖励内容未定）",
+		"constName" : "TreasureFullCountReward"
+	},
+	
+	{
+		"constDesc" : "寻宝目标传送花费（铜钱）",
+		"constName" : "TreasureHelpPass",
+		"constValue" : 2000
+	},
+	
+	{
+		"constDesc" : "寻宝任务宝藏范围（像素）",
+		"constName" : "TreasureTaskDistance",
+		"constValue" : 200
+	},
+	
+	{
+		"constDesc" : "更换头像次数",
+		"constName" : "UpdateAvatarCount",
+		"constValue" : 3
+	},
+	
+	{
+		"constDesc" : "更换头像时间间隔(秒)",
+		"constName" : "UpdateAvatarInterval",
+		"constValue" : 100
+	},
+	
+	{
+		"constDesc" : "使用烟花增加亲密度",
+		"constName" : "UseFireworkPropIntimate",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "每日评价人数上限",
+		"constName" : "VotePlayerLimit",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "观看录像副本",
+		"constName" : "WatchRecordCopyCode",
+		"constValue" : 155
+	},
+	
+	{
+		"constDesc" : "结婚花车地图ID",
+		"constName" : "WeddingCarMapId",
+		"constValue" : 110301
+	},
+	
+	{
+		"constDesc" : "庆典过程（自动拜堂、拜堂时间）",
+		"constName" : "WeddingCopyCeremonyTime",
+		"constValue" : 180,
+		"constValueEx" : 60
+	},
+	
+	{
+		"constDesc" : "关闭通知（提前时间、间隔时间）",
+		"constName" : "WeddingCopyClosePrepareTime"
+	},
+	
+	{
+		"constDesc" : "结婚庆典（持续时间）",
+		"constName" : "WeddingCopyLifeTime",
+		"constValue" : 900
+	},
+	
+	{
+		"constDesc" : "开启通知（提前时间）",
+		"constName" : "WeddingCopyStartPrepareTime",
+		"constValue" : 300
+	},
+	
+	{
+		"constDesc" : "结婚庆典时装",
+		"constName" : "WeddingCopySuit",
+		"constValue" : 400022
+	},
+	
+	{
+		"constDesc" : "结婚邀请宾客元宝花费",
+		"constName" : "WeddingCostPerGust",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "结婚彩车刷糖cd",
+		"constName" : "WeddingMarchRefreshBossCD",
+		"constValue" : 15
+	},
+	
+	{
+		"constDesc" : "结婚最大甜蜜度称号",
+		"constName" : "WeddingMaxSweetTitle"
+	},
+	
+	{
+		"constDesc" : "主城月老NPCID",
+		"constName" : "WeddingNpcId",
+		"constValue" : 210310
+	},
+	
+	{
+		"constDesc" : "结婚送铜钱的最大数量",
+		"constName" : "WeddingSendCoinMax",
+		"constValue" : 17000
+	},
+	
+	{
+		"constDesc" : "首次登陆欢迎物品奖励",
+		"constName" : "WelcomeRewardItem",
+		"constValue" : 10011001
+	},
+	
+	{
+		"constDesc" : "首次登陆欢迎金钱奖励（元宝，铜钱）",
+		"constName" : "WelcomeRewardMoney",
+		"constValue" : 200,
+		"constValueEx" : 100000
+	},
+	
+	{
+		"constDesc" : "野外刷怪多倍经验（第1次结束时间）",
+		"constName" : "WildKillBossMoreExpOneEnd",
+		"constValue" : 2
+	},
+	
+	{
+		"constDesc" : "野外刷怪多倍经验（第1次开始时间）",
+		"constName" : "WildKillBossMoreExpOneStart",
+		"constValue" : 1
+	},
+	
+	{
+		"constDesc" : "野外刷怪多倍经验（倍率）",
+		"constName" : "WildKillBossMoreExpRatio",
+		"constValue" : 5
+	},
+	
+	{
+		"constDesc" : "野外刷怪多倍经验（第3次结束时间）",
+		"constName" : "WildKillBossMoreExpThreeEnd",
+		"constValue" : 23,
+		"constValueEx" : 59
+	},
+	
+	{
+		"constDesc" : "野外刷怪多倍经验（第3次开始时间）",
+		"constName" : "WildKillBossMoreExpThreeStart",
+		"constValue" : 22,
+		"constValueEx" : 30
+	},
+	
+	{
+		"constDesc" : "野外刷怪多倍经验（第2次结束时间）",
+		"constName" : "WildKillBossMoreExpTwoEnd",
+		"constValue" : 18,
+		"constValueEx" : 30
+	},
+	
+	{
+		"constDesc" : "野外刷怪多倍经验（第2次开始时间）",
+		"constName" : "WildKillBossMoreExpTwoStart",
+		"constValue" : 18
+	},
+	
+	{
+		"constDesc" : "世界等级经验加成玩家等级限制",
+		"constName" : "WorldLevelExpAddMinPlayerLevel",
+		"constValue" : 110
+	},
+	
+	{
+		"constDesc" : "1v1日结时需要的最小比赛次数",
+		"constName" : "WrestleAwardMinDayNum",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "1v1月结时需要的最小比赛次数",
+		"constName" : "WrestleAwardMinMonthNum",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "1v1周结时需要的最小比赛次数",
+		"constName" : "WrestleAwardMinWeekNum",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "1v1比赛时间",
+		"constName" : "WrestleBattleTime",
+		"constValue" : 15,
+		"constValueEx" : 300
+	},
+	
+	{
+		"constDesc" : "1v1副本code",
+		"constName" : "WrestleCopyCode",
+		"constValue" : 158
+	},
+	
+	{
+		"constDesc" : "1v1初始积分",
+		"constName" : "WrestleInitMark",
+		"constValue" : 12000
+	},
+	
+	{
+		"constDesc" : "1v1积分范围（最小值、最大值）",
+		"constName" : "WrestleMarkRange",
+		"constValue" : 10000,
+		"constValueEx" : 9999999
+	},
+	
+	{
+		"constDesc" : "1v1配对间隔（秒）",
+		"constName" : "WrestleMatchInterval",
+		"constValue" : 10
+	},
+	
+	{
+		"constDesc" : "1v1每个房间的最大人数",
+		"constName" : "WrestleRoomPlayerNum",
+		"constValue" : 1500
+	},
+	
+	{
+		"constDesc" : "五行副本技能冷却时间",
+		"constName" : "WuxingCopyCdTime",
+		"constValue" : 8
+	},
+	
+	{
+		"constDesc" : "xp技能冷却时间",
+		"constName" : "XpSkillCdTime",
+		"constValue" : 300
+	}
+]

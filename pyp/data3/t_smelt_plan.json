@@ -1,0 +1,1538 @@
+
+[
+	
+	{
+		"showItemCode" : 31500101,
+		"smeltCategory" : 1000,
+		"smeltMainProduce" : "31500101,1,100#",
+		"smeltMaterialList" : "31500001,20#",
+		"smeltPlanCode" : 1,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 31500102,
+		"smeltCategory" : 1000,
+		"smeltMainProduce" : "31500102,1,100#",
+		"smeltMaterialList" : "31500101,3#",
+		"smeltPlanCode" : 2,
+		"smeltType" : 1
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31500103,
+		"smeltCategory" : 1000,
+		"smeltMainProduce" : "31500103,1,100#",
+		"smeltMaterialList" : "31500102,3#",
+		"smeltPlanCode" : 3,
+		"smeltType" : 1
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31500104,
+		"smeltCategory" : 1000,
+		"smeltMainProduce" : "31500104,1,100#",
+		"smeltMaterialList" : "31500103,3#",
+		"smeltPlanCode" : 4,
+		"smeltType" : 1
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31500105,
+		"smeltCategory" : 1000,
+		"smeltMainProduce" : "31500105,1,100#",
+		"smeltMaterialList" : "31500104,3#",
+		"smeltPlanCode" : 5,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 31500201,
+		"smeltCategory" : 1000,
+		"smeltMainProduce" : "31500201,1,100#",
+		"smeltMaterialList" : "31500001,20#",
+		"smeltPlanCode" : 6,
+		"smeltType" : 2
+	},
+	
+	{
+		"showItemCode" : 31500202,
+		"smeltCategory" : 1000,
+		"smeltMainProduce" : "31500202,1,100#",
+		"smeltMaterialList" : "31500201,3#",
+		"smeltPlanCode" : 7,
+		"smeltType" : 2
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31500203,
+		"smeltCategory" : 1000,
+		"smeltMainProduce" : "31500203,1,100#",
+		"smeltMaterialList" : "31500202,3#",
+		"smeltPlanCode" : 8,
+		"smeltType" : 2
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31500204,
+		"smeltCategory" : 1000,
+		"smeltMainProduce" : "31500204,1,100#",
+		"smeltMaterialList" : "31500203,3#",
+		"smeltPlanCode" : 9,
+		"smeltType" : 2
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31500205,
+		"smeltCategory" : 1000,
+		"smeltMainProduce" : "31500205,1,100#",
+		"smeltMaterialList" : "31500204,3#",
+		"smeltPlanCode" : 10,
+		"smeltType" : 2
+	},
+	
+	{
+		"showItemCode" : 31500301,
+		"smeltCategory" : 1000,
+		"smeltMainProduce" : "31500301,1,100#",
+		"smeltMaterialList" : "31500001,20#",
+		"smeltPlanCode" : 11,
+		"smeltType" : 3
+	},
+	
+	{
+		"showItemCode" : 31500302,
+		"smeltCategory" : 1000,
+		"smeltMainProduce" : "31500302,1,100#",
+		"smeltMaterialList" : "31500301,3#",
+		"smeltPlanCode" : 12,
+		"smeltType" : 3
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31500303,
+		"smeltCategory" : 1000,
+		"smeltMainProduce" : "31500303,1,100#",
+		"smeltMaterialList" : "31500302,3#",
+		"smeltPlanCode" : 13,
+		"smeltType" : 3
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31500304,
+		"smeltCategory" : 1000,
+		"smeltMainProduce" : "31500304,1,100#",
+		"smeltMaterialList" : "31500303,3#",
+		"smeltPlanCode" : 14,
+		"smeltType" : 3
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31500305,
+		"smeltCategory" : 1000,
+		"smeltMainProduce" : "31500305,1,100#",
+		"smeltMaterialList" : "31500304,3#",
+		"smeltPlanCode" : 15,
+		"smeltType" : 3
+	},
+	
+	{
+		"showItemCode" : 31500401,
+		"smeltCategory" : 1000,
+		"smeltMainProduce" : "31500401,1,100#",
+		"smeltMaterialList" : "31500001,20#",
+		"smeltPlanCode" : 16,
+		"smeltType" : 4
+	},
+	
+	{
+		"showItemCode" : 31500402,
+		"smeltCategory" : 1000,
+		"smeltMainProduce" : "31500402,1,100#",
+		"smeltMaterialList" : "31500401,3#",
+		"smeltPlanCode" : 17,
+		"smeltType" : 4
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31500403,
+		"smeltCategory" : 1000,
+		"smeltMainProduce" : "31500403,1,100#",
+		"smeltMaterialList" : "31500402,3#",
+		"smeltPlanCode" : 18,
+		"smeltType" : 4
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31500404,
+		"smeltCategory" : 1000,
+		"smeltMainProduce" : "31500404,1,100#",
+		"smeltMaterialList" : "31500403,3#",
+		"smeltPlanCode" : 19,
+		"smeltType" : 4
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31500405,
+		"smeltCategory" : 1000,
+		"smeltMainProduce" : "31500405,1,100#",
+		"smeltMaterialList" : "31500404,3#",
+		"smeltPlanCode" : 20,
+		"smeltType" : 4
+	},
+	
+	{
+		"showItemCode" : 40110223,
+		"smeltCategory" : 1,
+		"smeltMainProduce" : "40110223,1,100#",
+		"smeltMaterialList" : "40110400,100#",
+		"smeltPlanCode" : 21,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 31600102,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600102,1,100#",
+		"smeltMaterialList" : "31600101,3#",
+		"smeltPlanCode" : 22,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 31600103,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600103,1,100#",
+		"smeltMaterialList" : "31600102,3#",
+		"smeltPlanCode" : 23,
+		"smeltType" : 2
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31600104,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600104,1,100#",
+		"smeltMaterialList" : "31600103,3#",
+		"smeltPlanCode" : 24,
+		"smeltType" : 3
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31600105,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600105,1,100#",
+		"smeltMaterialList" : "31600104,3#",
+		"smeltPlanCode" : 25,
+		"smeltType" : 4
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31600106,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600106,1,100#",
+		"smeltMaterialList" : "31600105,3#",
+		"smeltPlanCode" : 26,
+		"smeltType" : 5
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31600107,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600107,1,100#",
+		"smeltMaterialList" : "31600106,3#",
+		"smeltPlanCode" : 27,
+		"smeltType" : 6
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31600108,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600108,1,100#",
+		"smeltMaterialList" : "31600107,3#",
+		"smeltPlanCode" : 28,
+		"smeltType" : 7
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31600109,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600109,1,100#",
+		"smeltMaterialList" : "31600108,3#",
+		"smeltPlanCode" : 29,
+		"smeltType" : 8
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31600110,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600110,1,100#",
+		"smeltMaterialList" : "31600109,3#",
+		"smeltPlanCode" : 30,
+		"smeltType" : 9
+	},
+	
+	{
+		"showItemCode" : 31600202,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600202,1,100#",
+		"smeltMaterialList" : "31600201,3#",
+		"smeltPlanCode" : 31,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 31600203,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600203,1,100#",
+		"smeltMaterialList" : "31600202,3#",
+		"smeltPlanCode" : 32,
+		"smeltType" : 2
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31600204,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600204,1,100#",
+		"smeltMaterialList" : "31600203,3#",
+		"smeltPlanCode" : 33,
+		"smeltType" : 3
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31600205,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600205,1,100#",
+		"smeltMaterialList" : "31600204,3#",
+		"smeltPlanCode" : 34,
+		"smeltType" : 4
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31600206,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600206,1,100#",
+		"smeltMaterialList" : "31600205,3#",
+		"smeltPlanCode" : 35,
+		"smeltType" : 5
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31600207,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600207,1,100#",
+		"smeltMaterialList" : "31600206,3#",
+		"smeltPlanCode" : 36,
+		"smeltType" : 6
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31600208,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600208,1,100#",
+		"smeltMaterialList" : "31600207,3#",
+		"smeltPlanCode" : 37,
+		"smeltType" : 7
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31600209,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600209,1,100#",
+		"smeltMaterialList" : "31600208,3#",
+		"smeltPlanCode" : 38,
+		"smeltType" : 8
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31600210,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600210,1,100#",
+		"smeltMaterialList" : "31600209,3#",
+		"smeltPlanCode" : 39,
+		"smeltType" : 9
+	},
+	
+	{
+		"showItemCode" : 31600302,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600302,1,100#",
+		"smeltMaterialList" : "31600301,3#",
+		"smeltPlanCode" : 40,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 31600303,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600303,1,100#",
+		"smeltMaterialList" : "31600302,3#",
+		"smeltPlanCode" : 41,
+		"smeltType" : 2
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31600304,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600304,1,100#",
+		"smeltMaterialList" : "31600303,3#",
+		"smeltPlanCode" : 42,
+		"smeltType" : 3
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31600305,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600305,1,100#",
+		"smeltMaterialList" : "31600304,3#",
+		"smeltPlanCode" : 43,
+		"smeltType" : 4
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31600306,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600306,1,100#",
+		"smeltMaterialList" : "31600305,3#",
+		"smeltPlanCode" : 44,
+		"smeltType" : 5
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31600307,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600307,1,100#",
+		"smeltMaterialList" : "31600306,3#",
+		"smeltPlanCode" : 45,
+		"smeltType" : 6
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31600308,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600308,1,100#",
+		"smeltMaterialList" : "31600307,3#",
+		"smeltPlanCode" : 46,
+		"smeltType" : 7
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31600309,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600309,1,100#",
+		"smeltMaterialList" : "31600308,3#",
+		"smeltPlanCode" : 47,
+		"smeltType" : 8
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31600310,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600310,1,100#",
+		"smeltMaterialList" : "31600309,3#",
+		"smeltPlanCode" : 48,
+		"smeltType" : 9
+	},
+	
+	{
+		"showItemCode" : 31600402,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600402,1,100#",
+		"smeltMaterialList" : "31600401,3#",
+		"smeltPlanCode" : 49,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 31600403,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600403,1,100#",
+		"smeltMaterialList" : "31600402,3#",
+		"smeltPlanCode" : 50,
+		"smeltType" : 2
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31600404,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600404,1,100#",
+		"smeltMaterialList" : "31600403,3#",
+		"smeltPlanCode" : 51,
+		"smeltType" : 3
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31600405,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600405,1,100#",
+		"smeltMaterialList" : "31600404,3#",
+		"smeltPlanCode" : 52,
+		"smeltType" : 4
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31600406,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600406,1,100#",
+		"smeltMaterialList" : "31600405,3#",
+		"smeltPlanCode" : 53,
+		"smeltType" : 5
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31600407,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600407,1,100#",
+		"smeltMaterialList" : "31600406,3#",
+		"smeltPlanCode" : 54,
+		"smeltType" : 6
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31600408,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600408,1,100#",
+		"smeltMaterialList" : "31600407,3#",
+		"smeltPlanCode" : 55,
+		"smeltType" : 7
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31600409,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600409,1,100#",
+		"smeltMaterialList" : "31600408,3#",
+		"smeltPlanCode" : 56,
+		"smeltType" : 8
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 31600410,
+		"smeltCategory" : 1010,
+		"smeltMainProduce" : "31600410,1,100#",
+		"smeltMaterialList" : "31600409,3#",
+		"smeltPlanCode" : 57,
+		"smeltType" : 9
+	},
+	
+	{
+		"showItemCode" : 35040002,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040002,1,100#",
+		"smeltMaterialList" : "35040001,3#",
+		"smeltPlanCode" : 58,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 35040003,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040003,1,100#",
+		"smeltMaterialList" : "35040002,3#",
+		"smeltPlanCode" : 59,
+		"smeltType" : 2
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 35040004,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040004,1,100#",
+		"smeltMaterialList" : "35040003,3#",
+		"smeltPlanCode" : 60,
+		"smeltType" : 3
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 35040005,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040005,1,100#",
+		"smeltMaterialList" : "35040004,3#",
+		"smeltPlanCode" : 61,
+		"smeltType" : 4
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 35040006,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040006,1,100#",
+		"smeltMaterialList" : "35040005,3#",
+		"smeltPlanCode" : 62,
+		"smeltType" : 5
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 35040007,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040007,1,100#",
+		"smeltMaterialList" : "35040006,3#",
+		"smeltPlanCode" : 63,
+		"smeltType" : 6
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 35040008,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040008,1,100#",
+		"smeltMaterialList" : "35040007,3#",
+		"smeltPlanCode" : 64,
+		"smeltType" : 7
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 35040009,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040009,1,100#",
+		"smeltMaterialList" : "35040008,3#",
+		"smeltPlanCode" : 65,
+		"smeltType" : 8
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 35040010,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040010,1,100#",
+		"smeltMaterialList" : "35040009,3#",
+		"smeltPlanCode" : 66,
+		"smeltType" : 9
+	},
+	
+	{
+		"showItemCode" : 35040102,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040102,1,100#",
+		"smeltMaterialList" : "35040101,3#",
+		"smeltPlanCode" : 67,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 35040103,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040103,1,100#",
+		"smeltMaterialList" : "35040102,3#",
+		"smeltPlanCode" : 68,
+		"smeltType" : 2
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 35040104,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040104,1,100#",
+		"smeltMaterialList" : "35040103,3#",
+		"smeltPlanCode" : 69,
+		"smeltType" : 3
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 35040105,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040105,1,100#",
+		"smeltMaterialList" : "35040104,3#",
+		"smeltPlanCode" : 70,
+		"smeltType" : 4
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 35040106,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040106,1,100#",
+		"smeltMaterialList" : "35040105,3#",
+		"smeltPlanCode" : 71,
+		"smeltType" : 5
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 35040107,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040107,1,100#",
+		"smeltMaterialList" : "35040106,3#",
+		"smeltPlanCode" : 72,
+		"smeltType" : 6
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 35040108,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040108,1,100#",
+		"smeltMaterialList" : "35040107,3#",
+		"smeltPlanCode" : 73,
+		"smeltType" : 7
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 35040109,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040109,1,100#",
+		"smeltMaterialList" : "35040108,3#",
+		"smeltPlanCode" : 74,
+		"smeltType" : 8
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 35040110,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040110,1,100#",
+		"smeltMaterialList" : "35040109,3#",
+		"smeltPlanCode" : 75,
+		"smeltType" : 9
+	},
+	
+	{
+		"showItemCode" : 35040202,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040202,1,100#",
+		"smeltMaterialList" : "35040201,3#",
+		"smeltPlanCode" : 76,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 35040203,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040203,1,100#",
+		"smeltMaterialList" : "35040202,3#",
+		"smeltPlanCode" : 77,
+		"smeltType" : 2
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 35040204,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040204,1,100#",
+		"smeltMaterialList" : "35040203,3#",
+		"smeltPlanCode" : 78,
+		"smeltType" : 3
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 35040205,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040205,1,100#",
+		"smeltMaterialList" : "35040204,3#",
+		"smeltPlanCode" : 79,
+		"smeltType" : 4
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 35040206,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040206,1,100#",
+		"smeltMaterialList" : "35040205,3#",
+		"smeltPlanCode" : 80,
+		"smeltType" : 5
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 35040207,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040207,1,100#",
+		"smeltMaterialList" : "35040206,3#",
+		"smeltPlanCode" : 81,
+		"smeltType" : 6
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 35040208,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040208,1,100#",
+		"smeltMaterialList" : "35040207,3#",
+		"smeltPlanCode" : 82,
+		"smeltType" : 7
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 35040209,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040209,1,100#",
+		"smeltMaterialList" : "35040208,3#",
+		"smeltPlanCode" : 83,
+		"smeltType" : 8
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 35040210,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040210,1,100#",
+		"smeltMaterialList" : "35040209,3#",
+		"smeltPlanCode" : 84,
+		"smeltType" : 9
+	},
+	
+	{
+		"showItemCode" : 35040302,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040302,1,100#",
+		"smeltMaterialList" : "35040301,3#",
+		"smeltPlanCode" : 85,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 35040303,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040303,1,100#",
+		"smeltMaterialList" : "35040302,3#",
+		"smeltPlanCode" : 86,
+		"smeltType" : 2
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 35040304,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040304,1,100#",
+		"smeltMaterialList" : "35040303,3#",
+		"smeltPlanCode" : 87,
+		"smeltType" : 3
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 35040305,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040305,1,100#",
+		"smeltMaterialList" : "35040304,3#",
+		"smeltPlanCode" : 88,
+		"smeltType" : 4
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 35040306,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040306,1,100#",
+		"smeltMaterialList" : "35040305,3#",
+		"smeltPlanCode" : 89,
+		"smeltType" : 5
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 35040307,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040307,1,100#",
+		"smeltMaterialList" : "35040306,3#",
+		"smeltPlanCode" : 90,
+		"smeltType" : 6
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 35040308,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040308,1,100#",
+		"smeltMaterialList" : "35040307,3#",
+		"smeltPlanCode" : 91,
+		"smeltType" : 7
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 35040309,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040309,1,100#",
+		"smeltMaterialList" : "35040308,3#",
+		"smeltPlanCode" : 92,
+		"smeltType" : 8
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 35040310,
+		"smeltCategory" : 1030,
+		"smeltMainProduce" : "35040310,1,100#",
+		"smeltMaterialList" : "35040309,3#",
+		"smeltPlanCode" : 93,
+		"smeltType" : 9
+	},
+	
+	{
+		"showItemCode" : 42480102,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480102,1,100#",
+		"smeltMaterialList" : "42480101,3#",
+		"smeltPlanCode" : 94,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 42480103,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480103,1,100#",
+		"smeltMaterialList" : "42480102,3#",
+		"smeltPlanCode" : 95,
+		"smeltType" : 2
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 42480104,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480104,1,100#",
+		"smeltMaterialList" : "42480103,3#",
+		"smeltPlanCode" : 96,
+		"smeltType" : 3
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 42480105,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480105,1,100#",
+		"smeltMaterialList" : "42480104,3#",
+		"smeltPlanCode" : 97,
+		"smeltType" : 4
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 42480106,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480106,1,100#",
+		"smeltMaterialList" : "42480105,3#",
+		"smeltPlanCode" : 98,
+		"smeltType" : 5
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 42480107,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480107,1,100#",
+		"smeltMaterialList" : "42480106,3#",
+		"smeltPlanCode" : 99,
+		"smeltType" : 6
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 42480108,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480108,1,100#",
+		"smeltMaterialList" : "42480107,3#",
+		"smeltPlanCode" : 100,
+		"smeltType" : 7
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 42480109,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480109,1,100#",
+		"smeltMaterialList" : "42480108,3#",
+		"smeltPlanCode" : 101,
+		"smeltType" : 8
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 42480110,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480110,1,100#",
+		"smeltMaterialList" : "42480109,3#",
+		"smeltPlanCode" : 102,
+		"smeltType" : 9
+	},
+	
+	{
+		"showItemCode" : 42480202,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480202,1,100#",
+		"smeltMaterialList" : "42480201,3#",
+		"smeltPlanCode" : 103,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 42480203,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480203,1,100#",
+		"smeltMaterialList" : "42480202,3#",
+		"smeltPlanCode" : 104,
+		"smeltType" : 2
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 42480204,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480204,1,100#",
+		"smeltMaterialList" : "42480203,3#",
+		"smeltPlanCode" : 105,
+		"smeltType" : 3
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 42480205,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480205,1,100#",
+		"smeltMaterialList" : "42480204,3#",
+		"smeltPlanCode" : 106,
+		"smeltType" : 4
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 42480206,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480206,1,100#",
+		"smeltMaterialList" : "42480205,3#",
+		"smeltPlanCode" : 107,
+		"smeltType" : 5
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 42480207,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480207,1,100#",
+		"smeltMaterialList" : "42480206,3#",
+		"smeltPlanCode" : 108,
+		"smeltType" : 6
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 42480208,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480208,1,100#",
+		"smeltMaterialList" : "42480207,3#",
+		"smeltPlanCode" : 109,
+		"smeltType" : 7
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 42480209,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480209,1,100#",
+		"smeltMaterialList" : "42480208,3#",
+		"smeltPlanCode" : 110,
+		"smeltType" : 8
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 42480210,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480210,1,100#",
+		"smeltMaterialList" : "42480209,3#",
+		"smeltPlanCode" : 111,
+		"smeltType" : 9
+	},
+	
+	{
+		"showItemCode" : 42480302,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480302,1,100#",
+		"smeltMaterialList" : "42480301,3#",
+		"smeltPlanCode" : 112,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 42480303,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480303,1,100#",
+		"smeltMaterialList" : "42480302,3#",
+		"smeltPlanCode" : 113,
+		"smeltType" : 2
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 42480304,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480304,1,100#",
+		"smeltMaterialList" : "42480303,3#",
+		"smeltPlanCode" : 114,
+		"smeltType" : 3
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 42480305,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480305,1,100#",
+		"smeltMaterialList" : "42480304,3#",
+		"smeltPlanCode" : 115,
+		"smeltType" : 4
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 42480306,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480306,1,100#",
+		"smeltMaterialList" : "42480305,3#",
+		"smeltPlanCode" : 116,
+		"smeltType" : 5
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 42480307,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480307,1,100#",
+		"smeltMaterialList" : "42480306,3#",
+		"smeltPlanCode" : 117,
+		"smeltType" : 6
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 42480308,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480308,1,100#",
+		"smeltMaterialList" : "42480307,3#",
+		"smeltPlanCode" : 118,
+		"smeltType" : 7
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 42480309,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480309,1,100#",
+		"smeltMaterialList" : "42480308,3#",
+		"smeltPlanCode" : 119,
+		"smeltType" : 8
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 42480310,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480310,1,100#",
+		"smeltMaterialList" : "42480309,3#",
+		"smeltPlanCode" : 120,
+		"smeltType" : 9
+	},
+	
+	{
+		"showItemCode" : 42480402,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480402,1,100#",
+		"smeltMaterialList" : "42480401,3#",
+		"smeltPlanCode" : 121,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 42480403,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480403,1,100#",
+		"smeltMaterialList" : "42480402,3#",
+		"smeltPlanCode" : 122,
+		"smeltType" : 2
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 42480404,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480404,1,100#",
+		"smeltMaterialList" : "42480403,3#",
+		"smeltPlanCode" : 123,
+		"smeltType" : 3
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 42480405,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480405,1,100#",
+		"smeltMaterialList" : "42480404,3#",
+		"smeltPlanCode" : 124,
+		"smeltType" : 4
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 42480406,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480406,1,100#",
+		"smeltMaterialList" : "42480405,3#",
+		"smeltPlanCode" : 125,
+		"smeltType" : 5
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 42480407,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480407,1,100#",
+		"smeltMaterialList" : "42480406,3#",
+		"smeltPlanCode" : 126,
+		"smeltType" : 6
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 42480408,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480408,1,100#",
+		"smeltMaterialList" : "42480407,3#",
+		"smeltPlanCode" : 127,
+		"smeltType" : 7
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 42480409,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480409,1,100#",
+		"smeltMaterialList" : "42480408,3#",
+		"smeltPlanCode" : 128,
+		"smeltType" : 8
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 42480410,
+		"smeltCategory" : 1040,
+		"smeltMainProduce" : "42480410,1,100#",
+		"smeltMaterialList" : "42480409,3#",
+		"smeltPlanCode" : 129,
+		"smeltType" : 9
+	},
+	
+	{
+		"limitNum" : 2,
+		"limitType" : 1,
+		"showItemCode" : 20000058,
+		"smeltCategory" : 2,
+		"smeltMainProduce" : "20000058,1,100#",
+		"smeltMaterialList" : "20000060,1000#",
+		"smeltPlanCode" : 130,
+		"smeltType" : 1
+	},
+	
+	{
+		"limitNum" : 1,
+		"limitType" : 1,
+		"showItemCode" : 20000059,
+		"smeltCategory" : 2,
+		"smeltMainProduce" : "20000059,1,100#",
+		"smeltMaterialList" : "20000060,1000#",
+		"smeltPlanCode" : 131,
+		"smeltType" : 2
+	},
+	
+	{
+		"limitNum" : 5,
+		"limitType" : 3,
+		"showItemCode" : 20000019,
+		"smeltCategory" : 2,
+		"smeltMainProduce" : "20000019,1,100#",
+		"smeltMaterialList" : "20000060,10000#",
+		"smeltPlanCode" : 132,
+		"smeltType" : 3
+	},
+	
+	{
+		"limitNum" : 20,
+		"limitType" : 1,
+		"showItemCode" : 40110221,
+		"smeltCategory" : 2,
+		"smeltMainProduce" : "40110221,100,100#",
+		"smeltMaterialList" : "20000060,75#",
+		"smeltPlanCode" : 133,
+		"smeltType" : 4
+	},
+	
+	{
+		"showItemCode" : 12290035,
+		"smeltCategory" : 2,
+		"smeltMainProduce" : "12290035,1,100#",
+		"smeltMaterialList" : "20000060,70#",
+		"smeltPlanCode" : 134,
+		"smeltType" : 5
+	},
+	
+	{
+		"showItemCode" : 80000004,
+		"smeltCategory" : 2,
+		"smeltMainProduce" : "80000004,1,100#",
+		"smeltMaterialList" : "20000060,75#",
+		"smeltPlanCode" : 135,
+		"smeltType" : 6
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 34001403,
+		"smeltCategory" : 1070,
+		"smeltMainProduce" : "34001403,1,100#",
+		"smeltMaterialList" : "34001303,3#",
+		"smeltPlanCode" : 163,
+		"smeltType" : 1
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 34002403,
+		"smeltCategory" : 1070,
+		"smeltMainProduce" : "34002403,1,100#",
+		"smeltMaterialList" : "34002303,3#",
+		"smeltPlanCode" : 164,
+		"smeltType" : 1
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 34003403,
+		"smeltCategory" : 1070,
+		"smeltMainProduce" : "34003403,1,100#",
+		"smeltMaterialList" : "34003303,3#",
+		"smeltPlanCode" : 165,
+		"smeltType" : 1
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 34004403,
+		"smeltCategory" : 1070,
+		"smeltMainProduce" : "34004403,1,100#",
+		"smeltMaterialList" : "34004303,3#",
+		"smeltPlanCode" : 166,
+		"smeltType" : 1
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 34005403,
+		"smeltCategory" : 1070,
+		"smeltMainProduce" : "34005403,1,100#",
+		"smeltMaterialList" : "34005303,3#",
+		"smeltPlanCode" : 167,
+		"smeltType" : 1
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 34001503,
+		"smeltCategory" : 1070,
+		"smeltMainProduce" : "34001503,1,100#",
+		"smeltMaterialList" : "34001403,3#",
+		"smeltPlanCode" : 168,
+		"smeltType" : 2
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 34002503,
+		"smeltCategory" : 1070,
+		"smeltMainProduce" : "34002503,1,100#",
+		"smeltMaterialList" : "34002403,3#",
+		"smeltPlanCode" : 169,
+		"smeltType" : 2
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 34003503,
+		"smeltCategory" : 1070,
+		"smeltMainProduce" : "34003503,1,100#",
+		"smeltMaterialList" : "34003403,3#",
+		"smeltPlanCode" : 170,
+		"smeltType" : 2
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 34004503,
+		"smeltCategory" : 1070,
+		"smeltMainProduce" : "34004503,1,100#",
+		"smeltMaterialList" : "34004403,3#",
+		"smeltPlanCode" : 171,
+		"smeltType" : 2
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 34005503,
+		"smeltCategory" : 1070,
+		"smeltMainProduce" : "34005503,1,100#",
+		"smeltMaterialList" : "34005403,3#",
+		"smeltPlanCode" : 172,
+		"smeltType" : 2
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 34001603,
+		"smeltCategory" : 1070,
+		"smeltMainProduce" : "34001603,1,100#",
+		"smeltMaterialList" : "34001503,3#34000002,1#",
+		"smeltPlanCode" : 173,
+		"smeltType" : 3
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 34002603,
+		"smeltCategory" : 1070,
+		"smeltMainProduce" : "34002603,1,100#",
+		"smeltMaterialList" : "34002503,3#34000002,1#",
+		"smeltPlanCode" : 174,
+		"smeltType" : 3
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 34003603,
+		"smeltCategory" : 1070,
+		"smeltMainProduce" : "34003603,1,100#",
+		"smeltMaterialList" : "34003503,3#34000002,1#",
+		"smeltPlanCode" : 175,
+		"smeltType" : 3
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 34004603,
+		"smeltCategory" : 1070,
+		"smeltMainProduce" : "34004603,1,100#",
+		"smeltMaterialList" : "34004503,3#34000002,1#",
+		"smeltPlanCode" : 176,
+		"smeltType" : 3
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 34005603,
+		"smeltCategory" : 1070,
+		"smeltMainProduce" : "34005603,1,100#",
+		"smeltMaterialList" : "34005503,3#34000002,1#",
+		"smeltPlanCode" : 177,
+		"smeltType" : 3
+	},
+	
+	{
+		"limitNum" : 2,
+		"limitType" : 4,
+		"limitTypeParam" : 5040,
+		"showItemCode" : 20000058,
+		"smeltCategory" : 3,
+		"smeltMainProduce" : "20000058,1,100#",
+		"smeltMaterialList" : "20000065,1000#",
+		"smeltPlanCode" : 178,
+		"smeltType" : 1
+	},
+	
+	{
+		"limitNum" : 1,
+		"limitType" : 4,
+		"limitTypeParam" : 5040,
+		"showItemCode" : 20000059,
+		"smeltCategory" : 3,
+		"smeltMainProduce" : "20000059,1,100#",
+		"smeltMaterialList" : "20000065,1000#",
+		"smeltPlanCode" : 179,
+		"smeltType" : 2
+	},
+	
+	{
+		"limitNum" : 5,
+		"limitType" : 4,
+		"limitTypeParam" : 5040,
+		"showItemCode" : 20000019,
+		"smeltCategory" : 3,
+		"smeltMainProduce" : "20000019,1,100#",
+		"smeltMaterialList" : "20000065,10000#",
+		"smeltPlanCode" : 180,
+		"smeltType" : 3
+	},
+	
+	{
+		"limitNum" : 20,
+		"limitType" : 4,
+		"limitTypeParam" : 5040,
+		"showItemCode" : 40110221,
+		"smeltCategory" : 3,
+		"smeltMainProduce" : "40110221,100,100#",
+		"smeltMaterialList" : "20000065,75#",
+		"smeltPlanCode" : 181,
+		"smeltType" : 4
+	},
+	
+	{
+		"showItemCode" : 12290035,
+		"smeltCategory" : 3,
+		"smeltMainProduce" : "12290035,1,100#",
+		"smeltMaterialList" : "20000065,70#",
+		"smeltPlanCode" : 182,
+		"smeltType" : 5
+	},
+	
+	{
+		"showItemCode" : 80000004,
+		"smeltCategory" : 3,
+		"smeltMainProduce" : "80000004,1,100#",
+		"smeltMaterialList" : "20000065,75#",
+		"smeltPlanCode" : 183,
+		"smeltType" : 6
+	}
+]

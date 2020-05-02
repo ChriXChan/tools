@@ -1,0 +1,74 @@
+
+[
+	
+	{
+		"condition1" : 500,
+		"rewardId" : 1001,
+		"type" : 1
+	},
+	
+	{
+		"condition1" : 800,
+		"rewardId" : 1002,
+		"type" : 1
+	},
+	
+	{
+		"condition1" : 1200,
+		"rewardId" : 1003,
+		"type" : 1
+	},
+	
+	{
+		"condition1" : 1700,
+		"rewardId" : 1004,
+		"type" : 1
+	},
+	
+	{
+		"condition1" : 2300,
+		"rewardId" : 1005,
+		"type" : 1
+	},
+	
+	{
+		"condition1" : 3000,
+		"rewardId" : 1006,
+		"type" : 1
+	},
+	
+	{
+		"condition1" : 1,
+		"condition2" : 1,
+		"rewardId" : 3001,
+		"type" : 2
+	},
+	
+	{
+		"condition1" : 2,
+		"condition2" : 3,
+		"rewardId" : 3002,
+		"type" : 2
+	},
+	
+	{
+		"condition1" : 4,
+		"condition2" : 10,
+		"rewardId" : 3003,
+		"type" : 2
+	},
+	
+	{
+		"condition1" : 11,
+		"condition2" : 20,
+		"rewardId" : 3004,
+		"type" : 2
+	},
+	
+	{
+		"condition1" : 21,
+		"condition2" : 30,
+		"rewardId" : 3005,
+		"type" : 2
+	}
+]

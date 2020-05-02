@@ -1,0 +1,3115 @@
+
+[
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 90,
+		"playerLevelMax" : 140,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 91,
+		"playerLevelMax" : 141,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 92,
+		"playerLevelMax" : 142,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 93,
+		"playerLevelMax" : 143,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 94,
+		"playerLevelMax" : 144,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 95,
+		"playerLevelMax" : 145,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 96,
+		"playerLevelMax" : 146,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 97,
+		"playerLevelMax" : 147,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 98,
+		"playerLevelMax" : 148,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 99,
+		"playerLevelMax" : 149,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 100,
+		"playerLevelMax" : 150,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 101,
+		"playerLevelMax" : 151,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 102,
+		"playerLevelMax" : 152,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 103,
+		"playerLevelMax" : 153,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 104,
+		"playerLevelMax" : 154,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 105,
+		"playerLevelMax" : 155,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 106,
+		"playerLevelMax" : 156,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 107,
+		"playerLevelMax" : 157,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 108,
+		"playerLevelMax" : 158,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 109,
+		"playerLevelMax" : 159,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 110,
+		"playerLevelMax" : 160,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 111,
+		"playerLevelMax" : 161,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 112,
+		"playerLevelMax" : 162,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 113,
+		"playerLevelMax" : 163,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 114,
+		"playerLevelMax" : 164,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 115,
+		"playerLevelMax" : 165,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 116,
+		"playerLevelMax" : 166,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 117,
+		"playerLevelMax" : 167,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 118,
+		"playerLevelMax" : 168,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 119,
+		"playerLevelMax" : 169,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 120,
+		"playerLevelMax" : 170,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 121,
+		"playerLevelMax" : 171,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 122,
+		"playerLevelMax" : 172,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 123,
+		"playerLevelMax" : 173,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 124,
+		"playerLevelMax" : 174,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 125,
+		"playerLevelMax" : 175,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 126,
+		"playerLevelMax" : 176,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 127,
+		"playerLevelMax" : 177,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 128,
+		"playerLevelMax" : 178,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 129,
+		"playerLevelMax" : 179,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 130,
+		"playerLevelMax" : 180,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 131,
+		"playerLevelMax" : 181,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 132,
+		"playerLevelMax" : 182,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 133,
+		"playerLevelMax" : 183,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 134,
+		"playerLevelMax" : 184,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 135,
+		"playerLevelMax" : 185,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 136,
+		"playerLevelMax" : 186,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 137,
+		"playerLevelMax" : 187,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 138,
+		"playerLevelMax" : 188,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 607,
+		"bossLevel" : 139,
+		"playerLevelMax" : 189,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 721,
+		"bossLevel" : 140,
+		"playerLevelMax" : 190,
+		"playerLevelMin" : 90,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 539,
+		"bossLevel" : 141,
+		"playerLevelMax" : 191,
+		"playerLevelMin" : 91,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 539,
+		"bossLevel" : 142,
+		"playerLevelMax" : 192,
+		"playerLevelMin" : 92,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 539,
+		"bossLevel" : 143,
+		"playerLevelMax" : 193,
+		"playerLevelMin" : 93,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 539,
+		"bossLevel" : 144,
+		"playerLevelMax" : 194,
+		"playerLevelMin" : 94,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 539,
+		"bossLevel" : 145,
+		"playerLevelMax" : 195,
+		"playerLevelMin" : 95,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 539,
+		"bossLevel" : 146,
+		"playerLevelMax" : 196,
+		"playerLevelMin" : 96,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 539,
+		"bossLevel" : 147,
+		"playerLevelMax" : 197,
+		"playerLevelMin" : 97,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 539,
+		"bossLevel" : 148,
+		"playerLevelMax" : 198,
+		"playerLevelMin" : 98,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 539,
+		"bossLevel" : 149,
+		"playerLevelMax" : 199,
+		"playerLevelMin" : 99,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 653,
+		"bossLevel" : 150,
+		"playerLevelMax" : 200,
+		"playerLevelMin" : 100,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 653,
+		"bossLevel" : 151,
+		"playerLevelMax" : 201,
+		"playerLevelMin" : 101,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 653,
+		"bossLevel" : 152,
+		"playerLevelMax" : 202,
+		"playerLevelMin" : 102,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 653,
+		"bossLevel" : 153,
+		"playerLevelMax" : 203,
+		"playerLevelMin" : 103,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 653,
+		"bossLevel" : 154,
+		"playerLevelMax" : 204,
+		"playerLevelMin" : 104,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 767,
+		"bossLevel" : 155,
+		"playerLevelMax" : 205,
+		"playerLevelMin" : 105,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 767,
+		"bossLevel" : 156,
+		"playerLevelMax" : 206,
+		"playerLevelMin" : 106,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 767,
+		"bossLevel" : 157,
+		"playerLevelMax" : 207,
+		"playerLevelMin" : 107,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 767,
+		"bossLevel" : 158,
+		"playerLevelMax" : 208,
+		"playerLevelMin" : 108,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 767,
+		"bossLevel" : 159,
+		"playerLevelMax" : 209,
+		"playerLevelMin" : 109,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 767,
+		"bossLevel" : 160,
+		"playerLevelMax" : 210,
+		"playerLevelMin" : 110,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 767,
+		"bossLevel" : 161,
+		"playerLevelMax" : 211,
+		"playerLevelMin" : 111,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 767,
+		"bossLevel" : 162,
+		"playerLevelMax" : 212,
+		"playerLevelMin" : 112,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 767,
+		"bossLevel" : 163,
+		"playerLevelMax" : 213,
+		"playerLevelMin" : 113,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 767,
+		"bossLevel" : 164,
+		"playerLevelMax" : 214,
+		"playerLevelMin" : 114,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 767,
+		"bossLevel" : 165,
+		"playerLevelMax" : 215,
+		"playerLevelMin" : 115,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 767,
+		"bossLevel" : 166,
+		"playerLevelMax" : 216,
+		"playerLevelMin" : 116,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 767,
+		"bossLevel" : 167,
+		"playerLevelMax" : 217,
+		"playerLevelMin" : 117,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 767,
+		"bossLevel" : 168,
+		"playerLevelMax" : 218,
+		"playerLevelMin" : 118,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 767,
+		"bossLevel" : 169,
+		"playerLevelMax" : 219,
+		"playerLevelMin" : 119,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 767,
+		"bossLevel" : 170,
+		"playerLevelMax" : 220,
+		"playerLevelMin" : 120,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 767,
+		"bossLevel" : 171,
+		"playerLevelMax" : 221,
+		"playerLevelMin" : 121,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 767,
+		"bossLevel" : 172,
+		"playerLevelMax" : 222,
+		"playerLevelMin" : 122,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 767,
+		"bossLevel" : 173,
+		"playerLevelMax" : 223,
+		"playerLevelMin" : 123,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 767,
+		"bossLevel" : 174,
+		"playerLevelMax" : 224,
+		"playerLevelMin" : 124,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 767,
+		"bossLevel" : 175,
+		"playerLevelMax" : 225,
+		"playerLevelMin" : 125,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 767,
+		"bossLevel" : 176,
+		"playerLevelMax" : 226,
+		"playerLevelMin" : 126,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 767,
+		"bossLevel" : 177,
+		"playerLevelMax" : 227,
+		"playerLevelMin" : 127,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 767,
+		"bossLevel" : 178,
+		"playerLevelMax" : 228,
+		"playerLevelMin" : 128,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 767,
+		"bossLevel" : 179,
+		"playerLevelMax" : 229,
+		"playerLevelMin" : 129,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 767,
+		"bossLevel" : 180,
+		"playerLevelMax" : 230,
+		"playerLevelMin" : 130,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 625,
+		"bossLevel" : 181,
+		"playerLevelMax" : 231,
+		"playerLevelMin" : 131,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 625,
+		"bossLevel" : 182,
+		"playerLevelMax" : 232,
+		"playerLevelMin" : 132,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 625,
+		"bossLevel" : 183,
+		"playerLevelMax" : 233,
+		"playerLevelMin" : 133,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 625,
+		"bossLevel" : 184,
+		"playerLevelMax" : 234,
+		"playerLevelMin" : 134,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 625,
+		"bossLevel" : 185,
+		"playerLevelMax" : 235,
+		"playerLevelMin" : 135,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 625,
+		"bossLevel" : 186,
+		"playerLevelMax" : 236,
+		"playerLevelMin" : 136,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 625,
+		"bossLevel" : 187,
+		"playerLevelMax" : 237,
+		"playerLevelMin" : 137,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 625,
+		"bossLevel" : 188,
+		"playerLevelMax" : 238,
+		"playerLevelMin" : 138,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 625,
+		"bossLevel" : 189,
+		"playerLevelMax" : 239,
+		"playerLevelMin" : 139,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 720,
+		"bossLevel" : 190,
+		"playerLevelMax" : 240,
+		"playerLevelMin" : 140,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 578,
+		"bossLevel" : 191,
+		"playerLevelMax" : 241,
+		"playerLevelMin" : 141,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 578,
+		"bossLevel" : 192,
+		"playerLevelMax" : 242,
+		"playerLevelMin" : 142,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 578,
+		"bossLevel" : 193,
+		"playerLevelMax" : 243,
+		"playerLevelMin" : 143,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 578,
+		"bossLevel" : 194,
+		"playerLevelMax" : 244,
+		"playerLevelMin" : 144,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 578,
+		"bossLevel" : 195,
+		"playerLevelMax" : 245,
+		"playerLevelMin" : 145,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 437,
+		"bossLevel" : 196,
+		"playerLevelMax" : 246,
+		"playerLevelMin" : 146,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 437,
+		"bossLevel" : 197,
+		"playerLevelMax" : 247,
+		"playerLevelMin" : 147,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 437,
+		"bossLevel" : 198,
+		"playerLevelMax" : 248,
+		"playerLevelMin" : 148,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 437,
+		"bossLevel" : 199,
+		"playerLevelMax" : 249,
+		"playerLevelMin" : 149,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 437,
+		"bossLevel" : 200,
+		"playerLevelMax" : 250,
+		"playerLevelMin" : 150,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 437,
+		"bossLevel" : 201,
+		"playerLevelMax" : 251,
+		"playerLevelMin" : 151,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 437,
+		"bossLevel" : 202,
+		"playerLevelMax" : 252,
+		"playerLevelMin" : 152,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 437,
+		"bossLevel" : 203,
+		"playerLevelMax" : 253,
+		"playerLevelMin" : 153,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 437,
+		"bossLevel" : 204,
+		"playerLevelMax" : 254,
+		"playerLevelMin" : 154,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 437,
+		"bossLevel" : 205,
+		"playerLevelMax" : 255,
+		"playerLevelMin" : 155,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 437,
+		"bossLevel" : 206,
+		"playerLevelMax" : 256,
+		"playerLevelMin" : 156,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 437,
+		"bossLevel" : 207,
+		"playerLevelMax" : 257,
+		"playerLevelMin" : 157,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 437,
+		"bossLevel" : 208,
+		"playerLevelMax" : 258,
+		"playerLevelMin" : 158,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 437,
+		"bossLevel" : 209,
+		"playerLevelMax" : 259,
+		"playerLevelMin" : 159,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 437,
+		"bossLevel" : 210,
+		"playerLevelMax" : 260,
+		"playerLevelMin" : 160,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 437,
+		"bossLevel" : 211,
+		"playerLevelMax" : 261,
+		"playerLevelMin" : 161,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 437,
+		"bossLevel" : 212,
+		"playerLevelMax" : 262,
+		"playerLevelMin" : 162,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 437,
+		"bossLevel" : 213,
+		"playerLevelMax" : 263,
+		"playerLevelMin" : 163,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 437,
+		"bossLevel" : 214,
+		"playerLevelMax" : 264,
+		"playerLevelMin" : 164,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 437,
+		"bossLevel" : 215,
+		"playerLevelMax" : 265,
+		"playerLevelMin" : 165,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 437,
+		"bossLevel" : 216,
+		"playerLevelMax" : 266,
+		"playerLevelMin" : 166,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 437,
+		"bossLevel" : 217,
+		"playerLevelMax" : 267,
+		"playerLevelMin" : 167,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 437,
+		"bossLevel" : 218,
+		"playerLevelMax" : 268,
+		"playerLevelMin" : 168,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 437,
+		"bossLevel" : 219,
+		"playerLevelMax" : 269,
+		"playerLevelMin" : 169,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 551,
+		"bossLevel" : 220,
+		"playerLevelMax" : 270,
+		"playerLevelMin" : 170,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 608,
+		"bossLevel" : 221,
+		"playerLevelMax" : 271,
+		"playerLevelMin" : 171,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 660,
+		"bossLevel" : 222,
+		"playerLevelMax" : 272,
+		"playerLevelMin" : 172,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 763,
+		"bossLevel" : 223,
+		"playerLevelMax" : 273,
+		"playerLevelMin" : 173,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 810,
+		"bossLevel" : 224,
+		"playerLevelMax" : 274,
+		"playerLevelMin" : 174,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 853,
+		"bossLevel" : 225,
+		"playerLevelMax" : 275,
+		"playerLevelMin" : 175,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 853,
+		"bossLevel" : 226,
+		"playerLevelMax" : 276,
+		"playerLevelMin" : 176,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 853,
+		"bossLevel" : 227,
+		"playerLevelMax" : 277,
+		"playerLevelMin" : 177,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 853,
+		"bossLevel" : 228,
+		"playerLevelMax" : 278,
+		"playerLevelMin" : 178,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 853,
+		"bossLevel" : 229,
+		"playerLevelMax" : 279,
+		"playerLevelMin" : 179,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 853,
+		"bossLevel" : 230,
+		"playerLevelMax" : 280,
+		"playerLevelMin" : 180,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 853,
+		"bossLevel" : 231,
+		"playerLevelMax" : 281,
+		"playerLevelMin" : 181,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 853,
+		"bossLevel" : 232,
+		"playerLevelMax" : 282,
+		"playerLevelMin" : 182,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 853,
+		"bossLevel" : 233,
+		"playerLevelMax" : 283,
+		"playerLevelMin" : 183,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 853,
+		"bossLevel" : 234,
+		"playerLevelMax" : 284,
+		"playerLevelMin" : 184,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 853,
+		"bossLevel" : 235,
+		"playerLevelMax" : 285,
+		"playerLevelMin" : 185,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 853,
+		"bossLevel" : 236,
+		"playerLevelMax" : 286,
+		"playerLevelMin" : 186,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 853,
+		"bossLevel" : 237,
+		"playerLevelMax" : 287,
+		"playerLevelMin" : 187,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 853,
+		"bossLevel" : 238,
+		"playerLevelMax" : 288,
+		"playerLevelMin" : 188,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 853,
+		"bossLevel" : 239,
+		"playerLevelMax" : 289,
+		"playerLevelMin" : 189,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 967,
+		"bossLevel" : 240,
+		"playerLevelMax" : 290,
+		"playerLevelMin" : 190,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 853,
+		"bossLevel" : 241,
+		"playerLevelMax" : 291,
+		"playerLevelMin" : 191,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 853,
+		"bossLevel" : 242,
+		"playerLevelMax" : 292,
+		"playerLevelMin" : 192,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 853,
+		"bossLevel" : 243,
+		"playerLevelMax" : 293,
+		"playerLevelMin" : 193,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 853,
+		"bossLevel" : 244,
+		"playerLevelMax" : 294,
+		"playerLevelMin" : 194,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 853,
+		"bossLevel" : 245,
+		"playerLevelMax" : 295,
+		"playerLevelMin" : 195,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 853,
+		"bossLevel" : 246,
+		"playerLevelMax" : 296,
+		"playerLevelMin" : 196,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 853,
+		"bossLevel" : 247,
+		"playerLevelMax" : 297,
+		"playerLevelMin" : 197,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 853,
+		"bossLevel" : 248,
+		"playerLevelMax" : 298,
+		"playerLevelMin" : 198,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 853,
+		"bossLevel" : 249,
+		"playerLevelMax" : 299,
+		"playerLevelMin" : 199,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 853,
+		"bossLevel" : 250,
+		"playerLevelMax" : 300,
+		"playerLevelMin" : 200,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 739,
+		"bossLevel" : 251,
+		"playerLevelMax" : 301,
+		"playerLevelMin" : 201,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 739,
+		"bossLevel" : 252,
+		"playerLevelMax" : 302,
+		"playerLevelMin" : 202,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 739,
+		"bossLevel" : 253,
+		"playerLevelMax" : 303,
+		"playerLevelMin" : 203,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 739,
+		"bossLevel" : 254,
+		"playerLevelMax" : 304,
+		"playerLevelMin" : 204,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 777,
+		"bossLevel" : 255,
+		"playerLevelMax" : 305,
+		"playerLevelMin" : 205,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 663,
+		"bossLevel" : 256,
+		"playerLevelMax" : 306,
+		"playerLevelMin" : 206,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 663,
+		"bossLevel" : 257,
+		"playerLevelMax" : 307,
+		"playerLevelMin" : 207,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 663,
+		"bossLevel" : 258,
+		"playerLevelMax" : 308,
+		"playerLevelMin" : 208,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 663,
+		"bossLevel" : 259,
+		"playerLevelMax" : 309,
+		"playerLevelMin" : 209,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 260,
+		"playerLevelMax" : 310,
+		"playerLevelMin" : 210,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 261,
+		"playerLevelMax" : 311,
+		"playerLevelMin" : 211,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 262,
+		"playerLevelMax" : 312,
+		"playerLevelMin" : 212,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 263,
+		"playerLevelMax" : 313,
+		"playerLevelMin" : 213,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 264,
+		"playerLevelMax" : 314,
+		"playerLevelMin" : 214,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 265,
+		"playerLevelMax" : 315,
+		"playerLevelMin" : 215,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 266,
+		"playerLevelMax" : 316,
+		"playerLevelMin" : 216,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 267,
+		"playerLevelMax" : 317,
+		"playerLevelMin" : 217,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 268,
+		"playerLevelMax" : 318,
+		"playerLevelMin" : 218,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 269,
+		"playerLevelMax" : 319,
+		"playerLevelMin" : 219,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 270,
+		"playerLevelMax" : 320,
+		"playerLevelMin" : 220,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 271,
+		"playerLevelMax" : 321,
+		"playerLevelMin" : 221,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 272,
+		"playerLevelMax" : 322,
+		"playerLevelMin" : 222,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 273,
+		"playerLevelMax" : 323,
+		"playerLevelMin" : 223,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 274,
+		"playerLevelMax" : 324,
+		"playerLevelMin" : 224,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 275,
+		"playerLevelMax" : 325,
+		"playerLevelMin" : 225,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 276,
+		"playerLevelMax" : 326,
+		"playerLevelMin" : 226,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 277,
+		"playerLevelMax" : 327,
+		"playerLevelMin" : 227,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 278,
+		"playerLevelMax" : 328,
+		"playerLevelMin" : 228,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 279,
+		"playerLevelMax" : 329,
+		"playerLevelMin" : 229,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 280,
+		"playerLevelMax" : 330,
+		"playerLevelMin" : 230,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 281,
+		"playerLevelMax" : 331,
+		"playerLevelMin" : 231,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 282,
+		"playerLevelMax" : 332,
+		"playerLevelMin" : 232,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 283,
+		"playerLevelMax" : 333,
+		"playerLevelMin" : 233,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 284,
+		"playerLevelMax" : 334,
+		"playerLevelMin" : 234,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 285,
+		"playerLevelMax" : 335,
+		"playerLevelMin" : 235,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 286,
+		"playerLevelMax" : 336,
+		"playerLevelMin" : 236,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 287,
+		"playerLevelMax" : 337,
+		"playerLevelMin" : 237,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 288,
+		"playerLevelMax" : 338,
+		"playerLevelMin" : 238,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 289,
+		"playerLevelMax" : 339,
+		"playerLevelMin" : 239,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 701,
+		"bossLevel" : 290,
+		"playerLevelMax" : 340,
+		"playerLevelMin" : 240,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 606,
+		"bossLevel" : 291,
+		"playerLevelMax" : 341,
+		"playerLevelMin" : 241,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 606,
+		"bossLevel" : 292,
+		"playerLevelMax" : 342,
+		"playerLevelMin" : 242,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 606,
+		"bossLevel" : 293,
+		"playerLevelMax" : 343,
+		"playerLevelMin" : 243,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 606,
+		"bossLevel" : 294,
+		"playerLevelMax" : 344,
+		"playerLevelMin" : 244,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 606,
+		"bossLevel" : 295,
+		"playerLevelMax" : 345,
+		"playerLevelMin" : 245,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 492,
+		"bossLevel" : 296,
+		"playerLevelMax" : 346,
+		"playerLevelMin" : 246,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 492,
+		"bossLevel" : 297,
+		"playerLevelMax" : 347,
+		"playerLevelMin" : 247,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 492,
+		"bossLevel" : 298,
+		"playerLevelMax" : 348,
+		"playerLevelMin" : 248,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 492,
+		"bossLevel" : 299,
+		"playerLevelMax" : 349,
+		"playerLevelMin" : 249,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 492,
+		"bossLevel" : 300,
+		"playerLevelMax" : 350,
+		"playerLevelMin" : 250,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 435,
+		"bossLevel" : 301,
+		"playerLevelMax" : 351,
+		"playerLevelMin" : 251,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 435,
+		"bossLevel" : 302,
+		"playerLevelMax" : 352,
+		"playerLevelMin" : 252,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 435,
+		"bossLevel" : 303,
+		"playerLevelMax" : 353,
+		"playerLevelMin" : 253,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 435,
+		"bossLevel" : 304,
+		"playerLevelMax" : 354,
+		"playerLevelMin" : 254,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 460,
+		"bossLevel" : 305,
+		"playerLevelMax" : 355,
+		"playerLevelMin" : 255,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 403,
+		"bossLevel" : 306,
+		"playerLevelMax" : 356,
+		"playerLevelMin" : 256,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 403,
+		"bossLevel" : 307,
+		"playerLevelMax" : 357,
+		"playerLevelMin" : 257,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 403,
+		"bossLevel" : 308,
+		"playerLevelMax" : 358,
+		"playerLevelMin" : 258,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 403,
+		"bossLevel" : 309,
+		"playerLevelMax" : 359,
+		"playerLevelMin" : 259,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 429,
+		"bossLevel" : 310,
+		"playerLevelMax" : 360,
+		"playerLevelMin" : 260,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 372,
+		"bossLevel" : 311,
+		"playerLevelMax" : 361,
+		"playerLevelMin" : 261,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 372,
+		"bossLevel" : 312,
+		"playerLevelMax" : 362,
+		"playerLevelMin" : 262,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 372,
+		"bossLevel" : 313,
+		"playerLevelMax" : 363,
+		"playerLevelMin" : 263,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 372,
+		"bossLevel" : 314,
+		"playerLevelMax" : 364,
+		"playerLevelMin" : 264,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 372,
+		"bossLevel" : 315,
+		"playerLevelMax" : 365,
+		"playerLevelMin" : 265,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 372,
+		"bossLevel" : 316,
+		"playerLevelMax" : 366,
+		"playerLevelMin" : 266,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 372,
+		"bossLevel" : 317,
+		"playerLevelMax" : 367,
+		"playerLevelMin" : 267,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 372,
+		"bossLevel" : 318,
+		"playerLevelMax" : 368,
+		"playerLevelMin" : 268,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 372,
+		"bossLevel" : 319,
+		"playerLevelMax" : 369,
+		"playerLevelMin" : 269,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 372,
+		"bossLevel" : 320,
+		"playerLevelMax" : 370,
+		"playerLevelMin" : 270,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 372,
+		"bossLevel" : 321,
+		"playerLevelMax" : 371,
+		"playerLevelMin" : 271,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 372,
+		"bossLevel" : 322,
+		"playerLevelMax" : 372,
+		"playerLevelMin" : 272,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 372,
+		"bossLevel" : 323,
+		"playerLevelMax" : 373,
+		"playerLevelMin" : 273,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 372,
+		"bossLevel" : 324,
+		"playerLevelMax" : 374,
+		"playerLevelMin" : 274,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 372,
+		"bossLevel" : 325,
+		"playerLevelMax" : 375,
+		"playerLevelMin" : 275,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 372,
+		"bossLevel" : 326,
+		"playerLevelMax" : 376,
+		"playerLevelMin" : 276,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 372,
+		"bossLevel" : 327,
+		"playerLevelMax" : 377,
+		"playerLevelMin" : 277,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 372,
+		"bossLevel" : 328,
+		"playerLevelMax" : 378,
+		"playerLevelMin" : 278,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 372,
+		"bossLevel" : 329,
+		"playerLevelMax" : 379,
+		"playerLevelMin" : 279,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 372,
+		"bossLevel" : 330,
+		"playerLevelMax" : 380,
+		"playerLevelMin" : 280,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 321,
+		"bossLevel" : 331,
+		"playerLevelMax" : 381,
+		"playerLevelMin" : 281,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 321,
+		"bossLevel" : 332,
+		"playerLevelMax" : 382,
+		"playerLevelMin" : 282,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 321,
+		"bossLevel" : 333,
+		"playerLevelMax" : 383,
+		"playerLevelMin" : 283,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 321,
+		"bossLevel" : 334,
+		"playerLevelMax" : 384,
+		"playerLevelMin" : 284,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 321,
+		"bossLevel" : 335,
+		"playerLevelMax" : 385,
+		"playerLevelMin" : 285,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 321,
+		"bossLevel" : 336,
+		"playerLevelMax" : 386,
+		"playerLevelMin" : 286,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 321,
+		"bossLevel" : 337,
+		"playerLevelMax" : 387,
+		"playerLevelMin" : 287,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 321,
+		"bossLevel" : 338,
+		"playerLevelMax" : 388,
+		"playerLevelMin" : 288,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 321,
+		"bossLevel" : 339,
+		"playerLevelMax" : 389,
+		"playerLevelMin" : 289,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 321,
+		"bossLevel" : 340,
+		"playerLevelMax" : 390,
+		"playerLevelMin" : 290,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 321,
+		"bossLevel" : 341,
+		"playerLevelMax" : 391,
+		"playerLevelMin" : 291,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 321,
+		"bossLevel" : 342,
+		"playerLevelMax" : 392,
+		"playerLevelMin" : 292,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 321,
+		"bossLevel" : 343,
+		"playerLevelMax" : 393,
+		"playerLevelMin" : 293,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 321,
+		"bossLevel" : 344,
+		"playerLevelMax" : 394,
+		"playerLevelMin" : 294,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 321,
+		"bossLevel" : 345,
+		"playerLevelMax" : 395,
+		"playerLevelMin" : 295,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 321,
+		"bossLevel" : 346,
+		"playerLevelMax" : 396,
+		"playerLevelMin" : 296,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 321,
+		"bossLevel" : 347,
+		"playerLevelMax" : 397,
+		"playerLevelMin" : 297,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 321,
+		"bossLevel" : 348,
+		"playerLevelMax" : 398,
+		"playerLevelMin" : 298,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 321,
+		"bossLevel" : 349,
+		"playerLevelMax" : 399,
+		"playerLevelMin" : 299,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 321,
+		"bossLevel" : 350,
+		"playerLevelMax" : 400,
+		"playerLevelMin" : 300,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 217,
+		"bossLevel" : 351,
+		"playerLevelMax" : 401,
+		"playerLevelMin" : 301,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 217,
+		"bossLevel" : 352,
+		"playerLevelMax" : 402,
+		"playerLevelMin" : 302,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 217,
+		"bossLevel" : 353,
+		"playerLevelMax" : 403,
+		"playerLevelMin" : 303,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 217,
+		"bossLevel" : 354,
+		"playerLevelMax" : 404,
+		"playerLevelMin" : 304,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 254,
+		"bossLevel" : 355,
+		"playerLevelMax" : 405,
+		"playerLevelMin" : 305,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 216,
+		"bossLevel" : 356,
+		"playerLevelMax" : 406,
+		"playerLevelMin" : 306,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 216,
+		"bossLevel" : 357,
+		"playerLevelMax" : 407,
+		"playerLevelMin" : 307,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 216,
+		"bossLevel" : 358,
+		"playerLevelMax" : 408,
+		"playerLevelMin" : 308,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 216,
+		"bossLevel" : 359,
+		"playerLevelMax" : 409,
+		"playerLevelMin" : 309,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 216,
+		"bossLevel" : 360,
+		"playerLevelMax" : 410,
+		"playerLevelMin" : 310,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 178,
+		"bossLevel" : 361,
+		"playerLevelMax" : 411,
+		"playerLevelMin" : 311,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 178,
+		"bossLevel" : 362,
+		"playerLevelMax" : 412,
+		"playerLevelMin" : 312,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 178,
+		"bossLevel" : 363,
+		"playerLevelMax" : 413,
+		"playerLevelMin" : 313,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 178,
+		"bossLevel" : 364,
+		"playerLevelMax" : 414,
+		"playerLevelMin" : 314,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 178,
+		"bossLevel" : 365,
+		"playerLevelMax" : 415,
+		"playerLevelMin" : 315,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 178,
+		"bossLevel" : 366,
+		"playerLevelMax" : 416,
+		"playerLevelMin" : 316,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 178,
+		"bossLevel" : 367,
+		"playerLevelMax" : 417,
+		"playerLevelMin" : 317,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 178,
+		"bossLevel" : 368,
+		"playerLevelMax" : 418,
+		"playerLevelMin" : 318,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 178,
+		"bossLevel" : 369,
+		"playerLevelMax" : 419,
+		"playerLevelMin" : 319,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 178,
+		"bossLevel" : 370,
+		"playerLevelMax" : 420,
+		"playerLevelMin" : 320,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 178,
+		"bossLevel" : 371,
+		"playerLevelMax" : 421,
+		"playerLevelMin" : 321,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 178,
+		"bossLevel" : 372,
+		"playerLevelMax" : 422,
+		"playerLevelMin" : 322,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 178,
+		"bossLevel" : 373,
+		"playerLevelMax" : 423,
+		"playerLevelMin" : 323,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 178,
+		"bossLevel" : 374,
+		"playerLevelMax" : 424,
+		"playerLevelMin" : 324,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 178,
+		"bossLevel" : 375,
+		"playerLevelMax" : 425,
+		"playerLevelMin" : 325,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 178,
+		"bossLevel" : 376,
+		"playerLevelMax" : 426,
+		"playerLevelMin" : 326,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 178,
+		"bossLevel" : 377,
+		"playerLevelMax" : 427,
+		"playerLevelMin" : 327,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 178,
+		"bossLevel" : 378,
+		"playerLevelMax" : 428,
+		"playerLevelMin" : 328,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 178,
+		"bossLevel" : 379,
+		"playerLevelMax" : 429,
+		"playerLevelMin" : 329,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 191,
+		"bossLevel" : 380,
+		"playerLevelMax" : 430,
+		"playerLevelMin" : 330,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 191,
+		"bossLevel" : 381,
+		"playerLevelMax" : 431,
+		"playerLevelMin" : 331,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 191,
+		"bossLevel" : 382,
+		"playerLevelMax" : 432,
+		"playerLevelMin" : 332,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 191,
+		"bossLevel" : 383,
+		"playerLevelMax" : 433,
+		"playerLevelMin" : 333,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 191,
+		"bossLevel" : 384,
+		"playerLevelMax" : 434,
+		"playerLevelMin" : 334,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 204,
+		"bossLevel" : 385,
+		"playerLevelMax" : 435,
+		"playerLevelMin" : 335,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 204,
+		"bossLevel" : 386,
+		"playerLevelMax" : 436,
+		"playerLevelMin" : 336,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 204,
+		"bossLevel" : 387,
+		"playerLevelMax" : 437,
+		"playerLevelMin" : 337,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 204,
+		"bossLevel" : 388,
+		"playerLevelMax" : 438,
+		"playerLevelMin" : 338,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 204,
+		"bossLevel" : 389,
+		"playerLevelMax" : 439,
+		"playerLevelMin" : 339,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 217,
+		"bossLevel" : 390,
+		"playerLevelMax" : 440,
+		"playerLevelMin" : 340,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 217,
+		"bossLevel" : 391,
+		"playerLevelMax" : 441,
+		"playerLevelMin" : 341,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 217,
+		"bossLevel" : 392,
+		"playerLevelMax" : 442,
+		"playerLevelMin" : 342,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 217,
+		"bossLevel" : 393,
+		"playerLevelMax" : 443,
+		"playerLevelMin" : 343,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 217,
+		"bossLevel" : 394,
+		"playerLevelMax" : 444,
+		"playerLevelMin" : 344,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 228,
+		"bossLevel" : 395,
+		"playerLevelMax" : 445,
+		"playerLevelMin" : 345,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 228,
+		"bossLevel" : 396,
+		"playerLevelMax" : 446,
+		"playerLevelMin" : 346,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 228,
+		"bossLevel" : 397,
+		"playerLevelMax" : 447,
+		"playerLevelMin" : 347,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 228,
+		"bossLevel" : 398,
+		"playerLevelMax" : 448,
+		"playerLevelMin" : 348,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 228,
+		"bossLevel" : 399,
+		"playerLevelMax" : 449,
+		"playerLevelMin" : 349,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 238,
+		"bossLevel" : 400,
+		"playerLevelMax" : 450,
+		"playerLevelMin" : 350,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 191,
+		"bossLevel" : 401,
+		"playerLevelMax" : 451,
+		"playerLevelMin" : 351,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 191,
+		"bossLevel" : 402,
+		"playerLevelMax" : 452,
+		"playerLevelMin" : 352,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 191,
+		"bossLevel" : 403,
+		"playerLevelMax" : 453,
+		"playerLevelMin" : 353,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 191,
+		"bossLevel" : 404,
+		"playerLevelMax" : 454,
+		"playerLevelMin" : 354,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 201,
+		"bossLevel" : 405,
+		"playerLevelMax" : 455,
+		"playerLevelMin" : 355,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 176,
+		"bossLevel" : 406,
+		"playerLevelMax" : 456,
+		"playerLevelMin" : 356,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 176,
+		"bossLevel" : 407,
+		"playerLevelMax" : 457,
+		"playerLevelMin" : 357,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 176,
+		"bossLevel" : 408,
+		"playerLevelMax" : 458,
+		"playerLevelMin" : 358,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 176,
+		"bossLevel" : 409,
+		"playerLevelMax" : 459,
+		"playerLevelMin" : 359,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 176,
+		"bossLevel" : 410,
+		"playerLevelMax" : 460,
+		"playerLevelMin" : 360,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 411,
+		"playerLevelMax" : 461,
+		"playerLevelMin" : 361,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 412,
+		"playerLevelMax" : 462,
+		"playerLevelMin" : 362,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 413,
+		"playerLevelMax" : 463,
+		"playerLevelMin" : 363,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 414,
+		"playerLevelMax" : 464,
+		"playerLevelMin" : 364,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 415,
+		"playerLevelMax" : 465,
+		"playerLevelMin" : 365,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 416,
+		"playerLevelMax" : 466,
+		"playerLevelMin" : 366,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 417,
+		"playerLevelMax" : 467,
+		"playerLevelMin" : 367,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 418,
+		"playerLevelMax" : 468,
+		"playerLevelMin" : 368,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 419,
+		"playerLevelMax" : 469,
+		"playerLevelMin" : 369,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 420,
+		"playerLevelMax" : 470,
+		"playerLevelMin" : 370,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 421,
+		"playerLevelMax" : 471,
+		"playerLevelMin" : 371,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 422,
+		"playerLevelMax" : 472,
+		"playerLevelMin" : 372,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 423,
+		"playerLevelMax" : 473,
+		"playerLevelMin" : 373,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 424,
+		"playerLevelMax" : 474,
+		"playerLevelMin" : 374,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 425,
+		"playerLevelMax" : 475,
+		"playerLevelMin" : 375,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 426,
+		"playerLevelMax" : 476,
+		"playerLevelMin" : 376,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 427,
+		"playerLevelMax" : 477,
+		"playerLevelMin" : 377,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 428,
+		"playerLevelMax" : 478,
+		"playerLevelMin" : 378,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 429,
+		"playerLevelMax" : 479,
+		"playerLevelMin" : 379,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 430,
+		"playerLevelMax" : 480,
+		"playerLevelMin" : 380,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 431,
+		"playerLevelMax" : 481,
+		"playerLevelMin" : 381,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 432,
+		"playerLevelMax" : 482,
+		"playerLevelMin" : 382,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 433,
+		"playerLevelMax" : 483,
+		"playerLevelMin" : 383,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 434,
+		"playerLevelMax" : 484,
+		"playerLevelMin" : 384,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 435,
+		"playerLevelMax" : 485,
+		"playerLevelMin" : 385,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 436,
+		"playerLevelMax" : 486,
+		"playerLevelMin" : 386,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 437,
+		"playerLevelMax" : 487,
+		"playerLevelMin" : 387,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 438,
+		"playerLevelMax" : 488,
+		"playerLevelMin" : 388,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 439,
+		"playerLevelMax" : 489,
+		"playerLevelMin" : 389,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 440,
+		"playerLevelMax" : 490,
+		"playerLevelMin" : 390,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 441,
+		"playerLevelMax" : 491,
+		"playerLevelMin" : 391,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 442,
+		"playerLevelMax" : 492,
+		"playerLevelMin" : 392,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 443,
+		"playerLevelMax" : 493,
+		"playerLevelMin" : 393,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 444,
+		"playerLevelMax" : 494,
+		"playerLevelMin" : 394,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 445,
+		"playerLevelMax" : 495,
+		"playerLevelMin" : 395,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 446,
+		"playerLevelMax" : 496,
+		"playerLevelMin" : 396,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 447,
+		"playerLevelMax" : 497,
+		"playerLevelMin" : 397,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 448,
+		"playerLevelMax" : 498,
+		"playerLevelMin" : 398,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 449,
+		"playerLevelMax" : 499,
+		"playerLevelMin" : 399,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 150,
+		"bossLevel" : 450,
+		"playerLevelMax" : 500,
+		"playerLevelMin" : 400,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 107,
+		"bossLevel" : 451,
+		"playerLevelMax" : 501,
+		"playerLevelMin" : 401,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 107,
+		"bossLevel" : 452,
+		"playerLevelMax" : 502,
+		"playerLevelMin" : 402,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 107,
+		"bossLevel" : 453,
+		"playerLevelMax" : 503,
+		"playerLevelMin" : 403,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 107,
+		"bossLevel" : 454,
+		"playerLevelMax" : 504,
+		"playerLevelMin" : 404,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 107,
+		"bossLevel" : 455,
+		"playerLevelMax" : 505,
+		"playerLevelMin" : 405,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 70,
+		"bossLevel" : 456,
+		"playerLevelMax" : 506,
+		"playerLevelMin" : 406,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 70,
+		"bossLevel" : 457,
+		"playerLevelMax" : 507,
+		"playerLevelMin" : 407,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 70,
+		"bossLevel" : 458,
+		"playerLevelMax" : 508,
+		"playerLevelMin" : 408,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 70,
+		"bossLevel" : 459,
+		"playerLevelMax" : 509,
+		"playerLevelMin" : 409,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 70,
+		"bossLevel" : 460,
+		"playerLevelMax" : 510,
+		"playerLevelMin" : 410,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 70,
+		"bossLevel" : 461,
+		"playerLevelMax" : 511,
+		"playerLevelMin" : 411,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 70,
+		"bossLevel" : 462,
+		"playerLevelMax" : 512,
+		"playerLevelMin" : 412,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 70,
+		"bossLevel" : 463,
+		"playerLevelMax" : 513,
+		"playerLevelMin" : 413,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 70,
+		"bossLevel" : 464,
+		"playerLevelMax" : 514,
+		"playerLevelMin" : 414,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 70,
+		"bossLevel" : 465,
+		"playerLevelMax" : 515,
+		"playerLevelMin" : 415,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 70,
+		"bossLevel" : 466,
+		"playerLevelMax" : 516,
+		"playerLevelMin" : 416,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 70,
+		"bossLevel" : 467,
+		"playerLevelMax" : 517,
+		"playerLevelMin" : 417,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 70,
+		"bossLevel" : 468,
+		"playerLevelMax" : 518,
+		"playerLevelMin" : 418,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 70,
+		"bossLevel" : 469,
+		"playerLevelMax" : 519,
+		"playerLevelMin" : 419,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 70,
+		"bossLevel" : 470,
+		"playerLevelMax" : 520,
+		"playerLevelMin" : 420,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 70,
+		"bossLevel" : 471,
+		"playerLevelMax" : 521,
+		"playerLevelMin" : 421,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 70,
+		"bossLevel" : 472,
+		"playerLevelMax" : 522,
+		"playerLevelMin" : 422,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 70,
+		"bossLevel" : 473,
+		"playerLevelMax" : 523,
+		"playerLevelMin" : 423,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 70,
+		"bossLevel" : 474,
+		"playerLevelMax" : 524,
+		"playerLevelMin" : 424,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 70,
+		"bossLevel" : 475,
+		"playerLevelMax" : 525,
+		"playerLevelMin" : 425,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 70,
+		"bossLevel" : 476,
+		"playerLevelMax" : 526,
+		"playerLevelMin" : 426,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 70,
+		"bossLevel" : 477,
+		"playerLevelMax" : 527,
+		"playerLevelMin" : 427,
+		"type" : 1
+	},
+	
+	{
+		"baseKillNum" : 70,
+		"bossLevel" : 478,
+		"playerLevelMax" : 528,
+		"playerLevelMin" : 428,
+		"type" : 1
+	}
+]

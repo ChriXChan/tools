@@ -1,0 +1,57 @@
+
+[
+	
+	{
+		"attrList" : "1,0#3,0#2,0#4,100",
+		"code" : 1,
+		"compatibleSkillId" : 2200000,
+		"name" : "防御法宝",
+		"openDay" : 1
+	},
+	
+	{
+		"attrList" : "1,400#3,0#2,0#4,0",
+		"code" : 2,
+		"compatibleSkillId" : 2200001,
+		"name" : "攻击法宝",
+		"openDay" : 2,
+		"openVip" : 1
+	},
+	
+	{
+		"attrList" : "1,0#3,0#2,4000#4,100",
+		"code" : 3,
+		"compatibleSkillId" : 2200003,
+		"name" : "回复法宝",
+		"openDay" : 3,
+		"openVip" : 2
+	},
+	
+	{
+		"attrList" : "1,0#3,0#2,20000#4,0",
+		"code" : 4,
+		"compatibleSkillId" : 2200004,
+		"name" : "生命法宝",
+		"openDay" : 5,
+		"openVip" : 3
+	},
+	
+	{
+		"attrList" : "1,200#3,200#2,0#4,0",
+		"code" : 5,
+		"compatibleSkillId" : 2200005,
+		"name" : "神力法宝",
+		"openDay" : 7,
+		"openVip" : 4
+	},
+	
+	{
+		"attrList" : "1,0#3,0#2,0#4,0",
+		"code" : 6,
+		"compatibleSkillId" : 2200002,
+		"desc" : "解锁双生法宝可以融合前五个法宝<br>升级双生法宝可获得<font color ='#0df14b'>巨额属性提升</font><br>融合后双生法宝将<font color ='#0df14b'>跟随玩家出战</font><br>双生法宝拥有独立的<font color ='#0df14b'>强力技能</font>",
+		"name" : "双生法宝",
+		"openDay" : 8,
+		"openVip" : -1
+	}
+]

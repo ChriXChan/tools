@@ -1,0 +1,31 @@
+
+[
+	
+	{
+		"drug1ItemCode" : 60030004,
+		"drug1ItemMax" : 500,
+		"drug1PerAttrList" : "2,4800#",
+		"drug2ItemCode" : 60030018,
+		"drug2ItemMax" : 500,
+		"drug2PerAttrList" : "4,120#",
+		"drug3AttrRate" : 100,
+		"drug3ItemCode" : 60030011,
+		"drug3ItemMax" : 50,
+		"drug3PerAttrList" : "2,24000#4,600#",
+		"type" : 8
+	},
+	
+	{
+		"drug1ItemCode" : 60160010,
+		"drug1ItemMax" : 500,
+		"drug1PerAttrList" : "2,4800#",
+		"drug2ItemCode" : 60160030,
+		"drug2ItemMax" : 500,
+		"drug2PerAttrList" : "4,120#",
+		"drug3AttrRate" : 100,
+		"drug3ItemCode" : 60160020,
+		"drug3ItemMax" : 50,
+		"drug3PerAttrList" : "2,24000#4,600#",
+		"type" : 11
+	}
+]

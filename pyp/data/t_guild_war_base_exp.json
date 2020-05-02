@@ -1,0 +1,353 @@
+
+[
+	
+	{
+		"baseExp" : 2000,
+		"level" : 30
+	},
+	
+	{
+		"baseExp" : 2050,
+		"level" : 31
+	},
+	
+	{
+		"baseExp" : 2100,
+		"level" : 32
+	},
+	
+	{
+		"baseExp" : 2150,
+		"level" : 33
+	},
+	
+	{
+		"baseExp" : 2200,
+		"level" : 34
+	},
+	
+	{
+		"baseExp" : 2250,
+		"level" : 35
+	},
+	
+	{
+		"baseExp" : 2300,
+		"level" : 36
+	},
+	
+	{
+		"baseExp" : 2350,
+		"level" : 37
+	},
+	
+	{
+		"baseExp" : 2400,
+		"level" : 38
+	},
+	
+	{
+		"baseExp" : 2450,
+		"level" : 39
+	},
+	
+	{
+		"baseExp" : 2500,
+		"level" : 40
+	},
+	
+	{
+		"baseExp" : 2700,
+		"level" : 41
+	},
+	
+	{
+		"baseExp" : 2900,
+		"level" : 42
+	},
+	
+	{
+		"baseExp" : 3100,
+		"level" : 43
+	},
+	
+	{
+		"baseExp" : 3300,
+		"level" : 44
+	},
+	
+	{
+		"baseExp" : 3500,
+		"level" : 45
+	},
+	
+	{
+		"baseExp" : 3700,
+		"level" : 46
+	},
+	
+	{
+		"baseExp" : 3900,
+		"level" : 47
+	},
+	
+	{
+		"baseExp" : 4100,
+		"level" : 48
+	},
+	
+	{
+		"baseExp" : 4300,
+		"level" : 49
+	},
+	
+	{
+		"baseExp" : 4500,
+		"level" : 50
+	},
+	
+	{
+		"baseExp" : 4700,
+		"level" : 51
+	},
+	
+	{
+		"baseExp" : 4900,
+		"level" : 52
+	},
+	
+	{
+		"baseExp" : 5100,
+		"level" : 53
+	},
+	
+	{
+		"baseExp" : 5300,
+		"level" : 54
+	},
+	
+	{
+		"baseExp" : 5500,
+		"level" : 55
+	},
+	
+	{
+		"baseExp" : 5700,
+		"level" : 56
+	},
+	
+	{
+		"baseExp" : 5900,
+		"level" : 57
+	},
+	
+	{
+		"baseExp" : 6100,
+		"level" : 58
+	},
+	
+	{
+		"baseExp" : 6300,
+		"level" : 59
+	},
+	
+	{
+		"baseExp" : 7000,
+		"level" : 60
+	},
+	
+	{
+		"baseExp" : 7300,
+		"level" : 61
+	},
+	
+	{
+		"baseExp" : 7600,
+		"level" : 62
+	},
+	
+	{
+		"baseExp" : 7900,
+		"level" : 63
+	},
+	
+	{
+		"baseExp" : 8200,
+		"level" : 64
+	},
+	
+	{
+		"baseExp" : 8500,
+		"level" : 65
+	},
+	
+	{
+		"baseExp" : 8800,
+		"level" : 66
+	},
+	
+	{
+		"baseExp" : 9100,
+		"level" : 67
+	},
+	
+	{
+		"baseExp" : 9400,
+		"level" : 68
+	},
+	
+	{
+		"baseExp" : 9700,
+		"level" : 69
+	},
+	
+	{
+		"baseExp" : 10000,
+		"level" : 70
+	},
+	
+	{
+		"baseExp" : 10300,
+		"level" : 71
+	},
+	
+	{
+		"baseExp" : 10600,
+		"level" : 72
+	},
+	
+	{
+		"baseExp" : 10900,
+		"level" : 73
+	},
+	
+	{
+		"baseExp" : 11200,
+		"level" : 74
+	},
+	
+	{
+		"baseExp" : 11500,
+		"level" : 75
+	},
+	
+	{
+		"baseExp" : 11800,
+		"level" : 76
+	},
+	
+	{
+		"baseExp" : 12100,
+		"level" : 77
+	},
+	
+	{
+		"baseExp" : 12400,
+		"level" : 78
+	},
+	
+	{
+		"baseExp" : 12700,
+		"level" : 79
+	},
+	
+	{
+		"baseExp" : 13000,
+		"level" : 80
+	},
+	
+	{
+		"baseExp" : 13300,
+		"level" : 81
+	},
+	
+	{
+		"baseExp" : 13600,
+		"level" : 82
+	},
+	
+	{
+		"baseExp" : 13900,
+		"level" : 83
+	},
+	
+	{
+		"baseExp" : 14200,
+		"level" : 84
+	},
+	
+	{
+		"baseExp" : 14500,
+		"level" : 85
+	},
+	
+	{
+		"baseExp" : 14800,
+		"level" : 86
+	},
+	
+	{
+		"baseExp" : 15100,
+		"level" : 87
+	},
+	
+	{
+		"baseExp" : 15400,
+		"level" : 88
+	},
+	
+	{
+		"baseExp" : 15700,
+		"level" : 89
+	},
+	
+	{
+		"baseExp" : 16000,
+		"level" : 90
+	},
+	
+	{
+		"baseExp" : 16300,
+		"level" : 91
+	},
+	
+	{
+		"baseExp" : 16600,
+		"level" : 92
+	},
+	
+	{
+		"baseExp" : 16900,
+		"level" : 93
+	},
+	
+	{
+		"baseExp" : 17200,
+		"level" : 94
+	},
+	
+	{
+		"baseExp" : 17500,
+		"level" : 95
+	},
+	
+	{
+		"baseExp" : 17800,
+		"level" : 96
+	},
+	
+	{
+		"baseExp" : 18100,
+		"level" : 97
+	},
+	
+	{
+		"baseExp" : 18400,
+		"level" : 98
+	},
+	
+	{
+		"baseExp" : 18700,
+		"level" : 99
+	}
+]

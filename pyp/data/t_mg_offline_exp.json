@@ -1,0 +1,20 @@
+
+[
+	
+	{
+		"baseExp" : 2,
+		"multiple" : 1
+	},
+	
+	{
+		"baseExp" : 4,
+		"multiple" : 2,
+		"vipLevel" : 2
+	},
+	
+	{
+		"baseExp" : 6,
+		"multiple" : 3,
+		"vipLevel" : 4
+	}
+]

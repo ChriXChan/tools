@@ -1,0 +1,1253 @@
+
+[
+	
+	{
+		"cost" : 266,
+		"equipType" : 1,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 4,
+		"equipType" : 1,
+		"itemLevel" : 1,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 15,
+		"equipType" : 1,
+		"itemLevel" : 2,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 12,
+		"equipType" : 1,
+		"itemLevel" : 3,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 50,
+		"equipType" : 1,
+		"itemLevel" : 4,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 72,
+		"equipType" : 1,
+		"itemLevel" : 5,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 167,
+		"equipType" : 1,
+		"itemLevel" : 6,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 184,
+		"equipType" : 1,
+		"itemLevel" : 7,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 387,
+		"equipType" : 1,
+		"itemLevel" : 8,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 364,
+		"equipType" : 1,
+		"itemLevel" : 9,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 612,
+		"equipType" : 1,
+		"itemLevel" : 10,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 954,
+		"equipType" : 1,
+		"itemLevel" : 11,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 1640,
+		"equipType" : 1,
+		"itemLevel" : 12,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 2850,
+		"equipType" : 1,
+		"itemLevel" : 13,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 4992,
+		"equipType" : 1,
+		"itemLevel" : 14,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 8858,
+		"equipType" : 1,
+		"itemLevel" : 15,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 14548,
+		"equipType" : 1,
+		"itemLevel" : 16,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 22028,
+		"equipType" : 1,
+		"itemLevel" : 17,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 31456,
+		"equipType" : 1,
+		"itemLevel" : 18,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 42556,
+		"equipType" : 1,
+		"itemLevel" : 19,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 55654,
+		"equipType" : 1,
+		"itemLevel" : 20,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 70606,
+		"equipType" : 1,
+		"itemLevel" : 21,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 87502,
+		"equipType" : 1,
+		"itemLevel" : 22,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 2,
+		"equipType" : 3,
+		"itemLevel" : 1,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 6,
+		"equipType" : 3,
+		"itemLevel" : 2,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 6,
+		"equipType" : 3,
+		"itemLevel" : 3,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 20,
+		"equipType" : 3,
+		"itemLevel" : 4,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 36,
+		"equipType" : 3,
+		"itemLevel" : 5,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 67,
+		"equipType" : 3,
+		"itemLevel" : 6,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 92,
+		"equipType" : 3,
+		"itemLevel" : 7,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 155,
+		"equipType" : 3,
+		"itemLevel" : 8,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 182,
+		"equipType" : 3,
+		"itemLevel" : 9,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 306,
+		"equipType" : 3,
+		"itemLevel" : 10,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 477,
+		"equipType" : 3,
+		"itemLevel" : 11,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 820,
+		"equipType" : 3,
+		"itemLevel" : 12,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 1425,
+		"equipType" : 3,
+		"itemLevel" : 13,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 2496,
+		"equipType" : 3,
+		"itemLevel" : 14,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 4429,
+		"equipType" : 3,
+		"itemLevel" : 15,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 7274,
+		"equipType" : 3,
+		"itemLevel" : 16,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 11014,
+		"equipType" : 3,
+		"itemLevel" : 17,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 15728,
+		"equipType" : 3,
+		"itemLevel" : 18,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 21278,
+		"equipType" : 3,
+		"itemLevel" : 19,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 27827,
+		"equipType" : 3,
+		"itemLevel" : 20,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 35303,
+		"equipType" : 3,
+		"itemLevel" : 21,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 43751,
+		"equipType" : 3,
+		"itemLevel" : 22,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 2,
+		"equipType" : 5,
+		"itemLevel" : 1,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 6,
+		"equipType" : 5,
+		"itemLevel" : 2,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 6,
+		"equipType" : 5,
+		"itemLevel" : 3,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 20,
+		"equipType" : 5,
+		"itemLevel" : 4,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 36,
+		"equipType" : 5,
+		"itemLevel" : 5,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 67,
+		"equipType" : 5,
+		"itemLevel" : 6,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 92,
+		"equipType" : 5,
+		"itemLevel" : 7,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 155,
+		"equipType" : 5,
+		"itemLevel" : 8,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 182,
+		"equipType" : 5,
+		"itemLevel" : 9,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 306,
+		"equipType" : 5,
+		"itemLevel" : 10,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 477,
+		"equipType" : 5,
+		"itemLevel" : 11,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 820,
+		"equipType" : 5,
+		"itemLevel" : 12,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 1425,
+		"equipType" : 5,
+		"itemLevel" : 13,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 2496,
+		"equipType" : 5,
+		"itemLevel" : 14,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 4429,
+		"equipType" : 5,
+		"itemLevel" : 15,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 7274,
+		"equipType" : 5,
+		"itemLevel" : 16,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 11014,
+		"equipType" : 5,
+		"itemLevel" : 17,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 15728,
+		"equipType" : 5,
+		"itemLevel" : 18,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 21278,
+		"equipType" : 5,
+		"itemLevel" : 19,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 27827,
+		"equipType" : 5,
+		"itemLevel" : 20,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 35303,
+		"equipType" : 5,
+		"itemLevel" : 21,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 43751,
+		"equipType" : 5,
+		"itemLevel" : 22,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 2,
+		"equipType" : 6,
+		"itemLevel" : 1,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 6,
+		"equipType" : 6,
+		"itemLevel" : 2,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 6,
+		"equipType" : 6,
+		"itemLevel" : 3,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 20,
+		"equipType" : 6,
+		"itemLevel" : 4,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 36,
+		"equipType" : 6,
+		"itemLevel" : 5,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 67,
+		"equipType" : 6,
+		"itemLevel" : 6,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 92,
+		"equipType" : 6,
+		"itemLevel" : 7,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 155,
+		"equipType" : 6,
+		"itemLevel" : 8,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 182,
+		"equipType" : 6,
+		"itemLevel" : 9,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 306,
+		"equipType" : 6,
+		"itemLevel" : 10,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 477,
+		"equipType" : 6,
+		"itemLevel" : 11,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 820,
+		"equipType" : 6,
+		"itemLevel" : 12,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 1425,
+		"equipType" : 6,
+		"itemLevel" : 13,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 2496,
+		"equipType" : 6,
+		"itemLevel" : 14,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 4429,
+		"equipType" : 6,
+		"itemLevel" : 15,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 7274,
+		"equipType" : 6,
+		"itemLevel" : 16,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 11014,
+		"equipType" : 6,
+		"itemLevel" : 17,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 15728,
+		"equipType" : 6,
+		"itemLevel" : 18,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 21278,
+		"equipType" : 6,
+		"itemLevel" : 19,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 27827,
+		"equipType" : 6,
+		"itemLevel" : 20,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 35303,
+		"equipType" : 6,
+		"itemLevel" : 21,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 43751,
+		"equipType" : 6,
+		"itemLevel" : 22,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 192,
+		"equipType" : 7,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 4,
+		"equipType" : 7,
+		"itemLevel" : 1,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 10,
+		"equipType" : 7,
+		"itemLevel" : 2,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 12,
+		"equipType" : 7,
+		"itemLevel" : 3,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 34,
+		"equipType" : 7,
+		"itemLevel" : 4,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 72,
+		"equipType" : 7,
+		"itemLevel" : 5,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 118,
+		"equipType" : 7,
+		"itemLevel" : 6,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 184,
+		"equipType" : 7,
+		"itemLevel" : 7,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 279,
+		"equipType" : 7,
+		"itemLevel" : 8,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 364,
+		"equipType" : 7,
+		"itemLevel" : 9,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 612,
+		"equipType" : 7,
+		"itemLevel" : 10,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 954,
+		"equipType" : 7,
+		"itemLevel" : 11,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 1640,
+		"equipType" : 7,
+		"itemLevel" : 12,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 2850,
+		"equipType" : 7,
+		"itemLevel" : 13,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 4992,
+		"equipType" : 7,
+		"itemLevel" : 14,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 8858,
+		"equipType" : 7,
+		"itemLevel" : 15,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 14548,
+		"equipType" : 7,
+		"itemLevel" : 16,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 22028,
+		"equipType" : 7,
+		"itemLevel" : 17,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 31456,
+		"equipType" : 7,
+		"itemLevel" : 18,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 42556,
+		"equipType" : 7,
+		"itemLevel" : 19,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 55654,
+		"equipType" : 7,
+		"itemLevel" : 20,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 70606,
+		"equipType" : 7,
+		"itemLevel" : 21,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 87502,
+		"equipType" : 7,
+		"itemLevel" : 22,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 2,
+		"equipType" : 8,
+		"itemLevel" : 1,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 6,
+		"equipType" : 8,
+		"itemLevel" : 2,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 6,
+		"equipType" : 8,
+		"itemLevel" : 3,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 20,
+		"equipType" : 8,
+		"itemLevel" : 4,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 36,
+		"equipType" : 8,
+		"itemLevel" : 5,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 67,
+		"equipType" : 8,
+		"itemLevel" : 6,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 92,
+		"equipType" : 8,
+		"itemLevel" : 7,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 155,
+		"equipType" : 8,
+		"itemLevel" : 8,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 182,
+		"equipType" : 8,
+		"itemLevel" : 9,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 306,
+		"equipType" : 8,
+		"itemLevel" : 10,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 477,
+		"equipType" : 8,
+		"itemLevel" : 11,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 820,
+		"equipType" : 8,
+		"itemLevel" : 12,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 1425,
+		"equipType" : 8,
+		"itemLevel" : 13,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 2496,
+		"equipType" : 8,
+		"itemLevel" : 14,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 4429,
+		"equipType" : 8,
+		"itemLevel" : 15,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 7274,
+		"equipType" : 8,
+		"itemLevel" : 16,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 11014,
+		"equipType" : 8,
+		"itemLevel" : 17,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 15728,
+		"equipType" : 8,
+		"itemLevel" : 18,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 21278,
+		"equipType" : 8,
+		"itemLevel" : 19,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 27827,
+		"equipType" : 8,
+		"itemLevel" : 20,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 35303,
+		"equipType" : 8,
+		"itemLevel" : 21,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 43751,
+		"equipType" : 8,
+		"itemLevel" : 22,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 107,
+		"equipType" : 9,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 2,
+		"equipType" : 9,
+		"itemLevel" : 1,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 6,
+		"equipType" : 9,
+		"itemLevel" : 2,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 6,
+		"equipType" : 9,
+		"itemLevel" : 3,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 20,
+		"equipType" : 9,
+		"itemLevel" : 4,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 36,
+		"equipType" : 9,
+		"itemLevel" : 5,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 67,
+		"equipType" : 9,
+		"itemLevel" : 6,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 92,
+		"equipType" : 9,
+		"itemLevel" : 7,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 155,
+		"equipType" : 9,
+		"itemLevel" : 8,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 182,
+		"equipType" : 9,
+		"itemLevel" : 9,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 306,
+		"equipType" : 9,
+		"itemLevel" : 10,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 477,
+		"equipType" : 9,
+		"itemLevel" : 11,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 820,
+		"equipType" : 9,
+		"itemLevel" : 12,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 1425,
+		"equipType" : 9,
+		"itemLevel" : 13,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 2496,
+		"equipType" : 9,
+		"itemLevel" : 14,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 4429,
+		"equipType" : 9,
+		"itemLevel" : 15,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 7274,
+		"equipType" : 9,
+		"itemLevel" : 16,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 11014,
+		"equipType" : 9,
+		"itemLevel" : 17,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 15728,
+		"equipType" : 9,
+		"itemLevel" : 18,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 21278,
+		"equipType" : 9,
+		"itemLevel" : 19,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 27827,
+		"equipType" : 9,
+		"itemLevel" : 20,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 35303,
+		"equipType" : 9,
+		"itemLevel" : 21,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 43751,
+		"equipType" : 9,
+		"itemLevel" : 22,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 2,
+		"equipType" : 10,
+		"itemLevel" : 1,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 6,
+		"equipType" : 10,
+		"itemLevel" : 2,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 6,
+		"equipType" : 10,
+		"itemLevel" : 3,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 20,
+		"equipType" : 10,
+		"itemLevel" : 4,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 36,
+		"equipType" : 10,
+		"itemLevel" : 5,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 67,
+		"equipType" : 10,
+		"itemLevel" : 6,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 92,
+		"equipType" : 10,
+		"itemLevel" : 7,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 155,
+		"equipType" : 10,
+		"itemLevel" : 8,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 182,
+		"equipType" : 10,
+		"itemLevel" : 9,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 306,
+		"equipType" : 10,
+		"itemLevel" : 10,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 477,
+		"equipType" : 10,
+		"itemLevel" : 11,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 820,
+		"equipType" : 10,
+		"itemLevel" : 12,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 1425,
+		"equipType" : 10,
+		"itemLevel" : 13,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 2496,
+		"equipType" : 10,
+		"itemLevel" : 14,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 4429,
+		"equipType" : 10,
+		"itemLevel" : 15,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 7274,
+		"equipType" : 10,
+		"itemLevel" : 16,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 11014,
+		"equipType" : 10,
+		"itemLevel" : 17,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 15728,
+		"equipType" : 10,
+		"itemLevel" : 18,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 21278,
+		"equipType" : 10,
+		"itemLevel" : 19,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 27827,
+		"equipType" : 10,
+		"itemLevel" : 20,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 35303,
+		"equipType" : 10,
+		"itemLevel" : 21,
+		"needBroadcast" : 1
+	},
+	
+	{
+		"cost" : 43751,
+		"equipType" : 10,
+		"itemLevel" : 22,
+		"needBroadcast" : 1
+	}
+]

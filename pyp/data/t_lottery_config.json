@@ -1,0 +1,225 @@
+
+[
+	
+	{
+		"amount" : 1,
+		"cost" : 20,
+		"propCode" : 42061002,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 100
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 190,
+		"propCode" : 42061002,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 100
+	},
+	
+	{
+		"amount" : 50,
+		"cost" : 900,
+		"propCode" : 42061002,
+		"propNum" : 45,
+		"score" : 50,
+		"type" : 100
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 20,
+		"propCode" : 42061002,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 101
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 190,
+		"propCode" : 42061002,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 101
+	},
+	
+	{
+		"amount" : 50,
+		"cost" : 900,
+		"propCode" : 42061002,
+		"propNum" : 45,
+		"score" : 50,
+		"type" : 101
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 40,
+		"propCode" : 42061004,
+		"propNum" : 1,
+		"score" : 2,
+		"type" : 201
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 380,
+		"propCode" : 42061004,
+		"propNum" : 10,
+		"score" : 20,
+		"type" : 201
+	},
+	
+	{
+		"amount" : 50,
+		"cost" : 1800,
+		"propCode" : 42061004,
+		"propNum" : 45,
+		"score" : 100,
+		"type" : 201
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : -1,
+		"type" : 301
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : -1,
+		"type" : 401
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : -1,
+		"type" : 402
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : -1,
+		"type" : 403
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : -1,
+		"type" : 404
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : -1,
+		"type" : 405
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : -1,
+		"type" : 406
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : -1,
+		"type" : 407
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 50,
+		"type" : 501
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 50,
+		"propCode" : 42061006,
+		"propNum" : 1,
+		"score" : 2,
+		"type" : 601
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 500,
+		"propCode" : 42061006,
+		"propNum" : 10,
+		"score" : 25,
+		"type" : 601
+	},
+	
+	{
+		"amount" : 50,
+		"cost" : 2250,
+		"propCode" : 42061006,
+		"propNum" : 45,
+		"score" : 125,
+		"type" : 601
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 52,
+		"type" : 701
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 520,
+		"type" : 701
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 52,
+		"type" : 702
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 520,
+		"type" : 702
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 52,
+		"type" : 703
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 520,
+		"type" : 703
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 52,
+		"type" : 704
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 520,
+		"type" : 704
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 52,
+		"type" : 705
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 520,
+		"type" : 705
+	}
+]

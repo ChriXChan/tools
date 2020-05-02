@@ -1,0 +1,25 @@
+
+[
+	
+	{
+		"assistScore" : 2,
+		"bigBossScore" : 50,
+		"bufferId" : 67100007,
+		"collectHurtTimes" : 30,
+		"dailyRewards" : "3,60200000,500#3,12290027,100#3,12290026,300000",
+		"enterFieldTime" : 2,
+		"enterTemplePoint" : 15,
+		"enterTempleTime" : 5,
+		"joinReward" : "3,40110221,60#3,12290027,500",
+		"killBossScore" : 3,
+		"killPlayerScore" : 4,
+		"mapId1" : 920021,
+		"mapId2" : 920022,
+		"mapId3" : 920023,
+		"templeBossCode" : 5100203,
+		"templeTimerScore" : 3,
+		"templeTimerSec" : 6,
+		"winJoinRewards" : "3,40110206,500#",
+		"winLeaderReward" : "3,40110206,20000#3,40890180,1#3,50010005,1#3,50020003,1"
+	}
+]

@@ -1,0 +1,33 @@
+
+[
+	
+	{
+		"maxRank" : 1,
+		"minRank" : 1,
+		"rewardId" : 40111091
+	},
+	
+	{
+		"maxRank" : 3,
+		"minRank" : 2,
+		"rewardId" : 40111092
+	},
+	
+	{
+		"maxRank" : 5,
+		"minRank" : 4,
+		"rewardId" : 40111093
+	},
+	
+	{
+		"maxRank" : 10,
+		"minRank" : 6,
+		"rewardId" : 40111097
+	},
+	
+	{
+		"maxRank" : 30,
+		"minRank" : 11,
+		"rewardId" : 40111094
+	}
+]

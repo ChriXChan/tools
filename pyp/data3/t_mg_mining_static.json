@@ -1,0 +1,19 @@
+
+[
+	
+	{
+		"descTimeCost" : 30,
+		"floorMaxPos" : 10,
+		"id" : 1,
+		"miningTime" : 30,
+		"miningTimePrivilege" : 20,
+		"miningTimes" : 3,
+		"miningTimesPrivilege" : 4,
+		"refreshCost" : "0,30,50,70,90,100",
+		"refreshItem" : 40110252,
+		"robRewardRate" : 10,
+		"robTimes" : 5,
+		"robbedTimes" : 999,
+		"robbedTimesOne" : 3
+	}
+]

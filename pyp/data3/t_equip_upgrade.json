@@ -1,0 +1,3757 @@
+
+[
+	
+	{
+		"category" : 1,
+		"color" : 6,
+		"costItemcode" : 21000000,
+		"costNum" : 200,
+		"equipType" : 3,
+		"isNeedBroadcast" : 1,
+		"level" : 1,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 1,
+		"color" : 6,
+		"costItemcode" : 21000000,
+		"costNum" : 400,
+		"equipType" : 3,
+		"isNeedBroadcast" : 1,
+		"level" : 2,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 1,
+		"color" : 6,
+		"costItemcode" : 21000000,
+		"costNum" : 700,
+		"equipType" : 3,
+		"isNeedBroadcast" : 1,
+		"level" : 3,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 1,
+		"color" : 6,
+		"costItemcode" : 21000000,
+		"costNum" : 1200,
+		"equipType" : 3,
+		"isNeedBroadcast" : 1,
+		"level" : 4,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 1,
+		"color" : 6,
+		"costItemcode" : 21000000,
+		"costNum" : 1800,
+		"equipType" : 3,
+		"isNeedBroadcast" : 1,
+		"level" : 5,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 1,
+		"color" : 6,
+		"costItemcode" : 21000000,
+		"costNum" : 2600,
+		"equipType" : 3,
+		"isNeedBroadcast" : 1,
+		"level" : 6,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 1,
+		"color" : 6,
+		"costItemcode" : 21000000,
+		"costNum" : 3600,
+		"equipType" : 3,
+		"isNeedBroadcast" : 1,
+		"level" : 7,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 1,
+		"color" : 6,
+		"costItemcode" : 21000000,
+		"costNum" : 150,
+		"equipType" : 3,
+		"isNeedBroadcast" : 1,
+		"level" : 1,
+		"pos" : 7
+	},
+	
+	{
+		"category" : 1,
+		"color" : 6,
+		"costItemcode" : 21000000,
+		"costNum" : 300,
+		"equipType" : 3,
+		"isNeedBroadcast" : 1,
+		"level" : 2,
+		"pos" : 7
+	},
+	
+	{
+		"category" : 1,
+		"color" : 6,
+		"costItemcode" : 21000000,
+		"costNum" : 525,
+		"equipType" : 3,
+		"isNeedBroadcast" : 1,
+		"level" : 3,
+		"pos" : 7
+	},
+	
+	{
+		"category" : 1,
+		"color" : 6,
+		"costItemcode" : 21000000,
+		"costNum" : 900,
+		"equipType" : 3,
+		"isNeedBroadcast" : 1,
+		"level" : 4,
+		"pos" : 7
+	},
+	
+	{
+		"category" : 1,
+		"color" : 6,
+		"costItemcode" : 21000000,
+		"costNum" : 1350,
+		"equipType" : 3,
+		"isNeedBroadcast" : 1,
+		"level" : 5,
+		"pos" : 7
+	},
+	
+	{
+		"category" : 1,
+		"color" : 6,
+		"costItemcode" : 21000000,
+		"costNum" : 1950,
+		"equipType" : 3,
+		"isNeedBroadcast" : 1,
+		"level" : 6,
+		"pos" : 7
+	},
+	
+	{
+		"category" : 1,
+		"color" : 6,
+		"costItemcode" : 21000000,
+		"costNum" : 2700,
+		"equipType" : 3,
+		"isNeedBroadcast" : 1,
+		"level" : 7,
+		"pos" : 7
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32001001,
+		"costNum" : 1,
+		"equipType" : 1,
+		"level" : 1,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32001001,
+		"costNum" : 2,
+		"equipType" : 1,
+		"level" : 2,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32001001,
+		"costNum" : 3,
+		"equipType" : 1,
+		"level" : 3,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32001005,
+		"costNum" : 1,
+		"equipType" : 1,
+		"level" : 1,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32001005,
+		"costNum" : 2,
+		"equipType" : 1,
+		"level" : 2,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32001005,
+		"costNum" : 3,
+		"equipType" : 1,
+		"level" : 3,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32001009,
+		"costNum" : 1,
+		"equipType" : 1,
+		"level" : 1,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32001009,
+		"costNum" : 2,
+		"equipType" : 1,
+		"level" : 2,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32001009,
+		"costNum" : 3,
+		"equipType" : 1,
+		"level" : 3,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32001013,
+		"costNum" : 1,
+		"equipType" : 1,
+		"level" : 1,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32001013,
+		"costNum" : 2,
+		"equipType" : 1,
+		"level" : 2,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32001013,
+		"costNum" : 3,
+		"equipType" : 1,
+		"level" : 3,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32001017,
+		"costNum" : 1,
+		"equipType" : 1,
+		"level" : 1,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32001017,
+		"costNum" : 2,
+		"equipType" : 1,
+		"level" : 2,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32001017,
+		"costNum" : 3,
+		"equipType" : 1,
+		"level" : 3,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32001021,
+		"costNum" : 1,
+		"equipType" : 1,
+		"level" : 1,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32001021,
+		"costNum" : 2,
+		"equipType" : 1,
+		"level" : 2,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32001021,
+		"costNum" : 3,
+		"equipType" : 1,
+		"level" : 3,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32001021,
+		"costNum" : 4,
+		"equipType" : 1,
+		"level" : 4,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32001021,
+		"costNum" : 5,
+		"equipType" : 1,
+		"level" : 5,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32001027,
+		"costNum" : 1,
+		"equipType" : 1,
+		"level" : 1,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32001027,
+		"costNum" : 2,
+		"equipType" : 1,
+		"level" : 2,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32001027,
+		"costNum" : 3,
+		"equipType" : 1,
+		"level" : 3,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32001027,
+		"costNum" : 4,
+		"equipType" : 1,
+		"level" : 4,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32001027,
+		"costNum" : 5,
+		"equipType" : 1,
+		"level" : 5,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32001033,
+		"costNum" : 1,
+		"equipType" : 1,
+		"level" : 1,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32001033,
+		"costNum" : 2,
+		"equipType" : 1,
+		"level" : 2,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32001033,
+		"costNum" : 3,
+		"equipType" : 1,
+		"level" : 3,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32001033,
+		"costNum" : 4,
+		"equipType" : 1,
+		"level" : 4,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32001033,
+		"costNum" : 5,
+		"equipType" : 1,
+		"level" : 5,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32001039,
+		"costNum" : 1,
+		"equipType" : 1,
+		"level" : 1,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32001039,
+		"costNum" : 2,
+		"equipType" : 1,
+		"level" : 2,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32001039,
+		"costNum" : 3,
+		"equipType" : 1,
+		"level" : 3,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32001039,
+		"costNum" : 4,
+		"equipType" : 1,
+		"level" : 4,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32001039,
+		"costNum" : 5,
+		"equipType" : 1,
+		"level" : 5,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32001045,
+		"costNum" : 1,
+		"equipType" : 1,
+		"level" : 1,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32001045,
+		"costNum" : 2,
+		"equipType" : 1,
+		"level" : 2,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32001045,
+		"costNum" : 3,
+		"equipType" : 1,
+		"level" : 3,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32001045,
+		"costNum" : 4,
+		"equipType" : 1,
+		"level" : 4,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32001045,
+		"costNum" : 5,
+		"equipType" : 1,
+		"level" : 5,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32001051,
+		"costNum" : 1,
+		"equipType" : 1,
+		"level" : 1,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32001051,
+		"costNum" : 2,
+		"equipType" : 1,
+		"level" : 2,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32001051,
+		"costNum" : 3,
+		"equipType" : 1,
+		"level" : 3,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32001051,
+		"costNum" : 4,
+		"equipType" : 1,
+		"level" : 4,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32001051,
+		"costNum" : 5,
+		"equipType" : 1,
+		"level" : 5,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32001057,
+		"costNum" : 1,
+		"equipType" : 1,
+		"level" : 1,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32001057,
+		"costNum" : 2,
+		"equipType" : 1,
+		"level" : 2,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32001057,
+		"costNum" : 3,
+		"equipType" : 1,
+		"level" : 3,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32001057,
+		"costNum" : 4,
+		"equipType" : 1,
+		"level" : 4,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32001057,
+		"costNum" : 5,
+		"equipType" : 1,
+		"level" : 5,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32001063,
+		"costNum" : 1,
+		"equipType" : 1,
+		"level" : 1,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32001063,
+		"costNum" : 2,
+		"equipType" : 1,
+		"level" : 2,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32001063,
+		"costNum" : 3,
+		"equipType" : 1,
+		"level" : 3,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32001063,
+		"costNum" : 4,
+		"equipType" : 1,
+		"level" : 4,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32001063,
+		"costNum" : 5,
+		"equipType" : 1,
+		"level" : 5,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32001069,
+		"costNum" : 1,
+		"equipType" : 1,
+		"level" : 1,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32001069,
+		"costNum" : 2,
+		"equipType" : 1,
+		"level" : 2,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32001069,
+		"costNum" : 3,
+		"equipType" : 1,
+		"level" : 3,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32001069,
+		"costNum" : 4,
+		"equipType" : 1,
+		"level" : 4,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32001069,
+		"costNum" : 5,
+		"equipType" : 1,
+		"level" : 5,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32001075,
+		"costNum" : 1,
+		"equipType" : 1,
+		"level" : 1,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32001075,
+		"costNum" : 2,
+		"equipType" : 1,
+		"level" : 2,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32001075,
+		"costNum" : 3,
+		"equipType" : 1,
+		"level" : 3,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32001075,
+		"costNum" : 4,
+		"equipType" : 1,
+		"level" : 4,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32001075,
+		"costNum" : 5,
+		"equipType" : 1,
+		"level" : 5,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32001081,
+		"costNum" : 1,
+		"equipType" : 1,
+		"level" : 1,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32001081,
+		"costNum" : 2,
+		"equipType" : 1,
+		"level" : 2,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32001081,
+		"costNum" : 3,
+		"equipType" : 1,
+		"level" : 3,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32001081,
+		"costNum" : 4,
+		"equipType" : 1,
+		"level" : 4,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32001081,
+		"costNum" : 5,
+		"equipType" : 1,
+		"level" : 5,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32001087,
+		"costNum" : 1,
+		"equipType" : 1,
+		"level" : 1,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32001087,
+		"costNum" : 2,
+		"equipType" : 1,
+		"level" : 2,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32001087,
+		"costNum" : 3,
+		"equipType" : 1,
+		"level" : 3,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32001087,
+		"costNum" : 4,
+		"equipType" : 1,
+		"level" : 4,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32001087,
+		"costNum" : 5,
+		"equipType" : 1,
+		"level" : 5,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32001093,
+		"costNum" : 1,
+		"equipType" : 1,
+		"level" : 1,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32001093,
+		"costNum" : 2,
+		"equipType" : 1,
+		"level" : 2,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32001093,
+		"costNum" : 3,
+		"equipType" : 1,
+		"level" : 3,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32001093,
+		"costNum" : 4,
+		"equipType" : 1,
+		"level" : 4,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32001093,
+		"costNum" : 5,
+		"equipType" : 1,
+		"level" : 5,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32001099,
+		"costNum" : 1,
+		"equipType" : 1,
+		"level" : 1,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32001099,
+		"costNum" : 2,
+		"equipType" : 1,
+		"level" : 2,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32001099,
+		"costNum" : 3,
+		"equipType" : 1,
+		"level" : 3,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32001099,
+		"costNum" : 4,
+		"equipType" : 1,
+		"level" : 4,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32001099,
+		"costNum" : 5,
+		"equipType" : 1,
+		"level" : 5,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32001105,
+		"costNum" : 1,
+		"equipType" : 1,
+		"level" : 1,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32001105,
+		"costNum" : 2,
+		"equipType" : 1,
+		"level" : 2,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32001105,
+		"costNum" : 3,
+		"equipType" : 1,
+		"level" : 3,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32001105,
+		"costNum" : 4,
+		"equipType" : 1,
+		"level" : 4,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32001105,
+		"costNum" : 5,
+		"equipType" : 1,
+		"level" : 5,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32002001,
+		"costNum" : 1,
+		"equipType" : 2,
+		"level" : 1,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32002001,
+		"costNum" : 2,
+		"equipType" : 2,
+		"level" : 2,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32002001,
+		"costNum" : 3,
+		"equipType" : 2,
+		"level" : 3,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32002005,
+		"costNum" : 1,
+		"equipType" : 2,
+		"level" : 1,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32002005,
+		"costNum" : 2,
+		"equipType" : 2,
+		"level" : 2,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32002005,
+		"costNum" : 3,
+		"equipType" : 2,
+		"level" : 3,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32002009,
+		"costNum" : 1,
+		"equipType" : 2,
+		"level" : 1,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32002009,
+		"costNum" : 2,
+		"equipType" : 2,
+		"level" : 2,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32002009,
+		"costNum" : 3,
+		"equipType" : 2,
+		"level" : 3,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32002013,
+		"costNum" : 1,
+		"equipType" : 2,
+		"level" : 1,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32002013,
+		"costNum" : 2,
+		"equipType" : 2,
+		"level" : 2,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32002013,
+		"costNum" : 3,
+		"equipType" : 2,
+		"level" : 3,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32002017,
+		"costNum" : 1,
+		"equipType" : 2,
+		"level" : 1,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32002017,
+		"costNum" : 2,
+		"equipType" : 2,
+		"level" : 2,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32002017,
+		"costNum" : 3,
+		"equipType" : 2,
+		"level" : 3,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32002021,
+		"costNum" : 1,
+		"equipType" : 2,
+		"level" : 1,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32002021,
+		"costNum" : 2,
+		"equipType" : 2,
+		"level" : 2,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32002021,
+		"costNum" : 3,
+		"equipType" : 2,
+		"level" : 3,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32002021,
+		"costNum" : 4,
+		"equipType" : 2,
+		"level" : 4,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32002021,
+		"costNum" : 5,
+		"equipType" : 2,
+		"level" : 5,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32002027,
+		"costNum" : 1,
+		"equipType" : 2,
+		"level" : 1,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32002027,
+		"costNum" : 2,
+		"equipType" : 2,
+		"level" : 2,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32002027,
+		"costNum" : 3,
+		"equipType" : 2,
+		"level" : 3,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32002027,
+		"costNum" : 4,
+		"equipType" : 2,
+		"level" : 4,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32002027,
+		"costNum" : 5,
+		"equipType" : 2,
+		"level" : 5,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32002033,
+		"costNum" : 1,
+		"equipType" : 2,
+		"level" : 1,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32002033,
+		"costNum" : 2,
+		"equipType" : 2,
+		"level" : 2,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32002033,
+		"costNum" : 3,
+		"equipType" : 2,
+		"level" : 3,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32002033,
+		"costNum" : 4,
+		"equipType" : 2,
+		"level" : 4,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32002033,
+		"costNum" : 5,
+		"equipType" : 2,
+		"level" : 5,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32002039,
+		"costNum" : 1,
+		"equipType" : 2,
+		"level" : 1,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32002039,
+		"costNum" : 2,
+		"equipType" : 2,
+		"level" : 2,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32002039,
+		"costNum" : 3,
+		"equipType" : 2,
+		"level" : 3,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32002039,
+		"costNum" : 4,
+		"equipType" : 2,
+		"level" : 4,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32002039,
+		"costNum" : 5,
+		"equipType" : 2,
+		"level" : 5,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32002045,
+		"costNum" : 1,
+		"equipType" : 2,
+		"level" : 1,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32002045,
+		"costNum" : 2,
+		"equipType" : 2,
+		"level" : 2,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32002045,
+		"costNum" : 3,
+		"equipType" : 2,
+		"level" : 3,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32002045,
+		"costNum" : 4,
+		"equipType" : 2,
+		"level" : 4,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32002045,
+		"costNum" : 5,
+		"equipType" : 2,
+		"level" : 5,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32002051,
+		"costNum" : 1,
+		"equipType" : 2,
+		"level" : 1,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32002051,
+		"costNum" : 2,
+		"equipType" : 2,
+		"level" : 2,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32002051,
+		"costNum" : 3,
+		"equipType" : 2,
+		"level" : 3,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32002051,
+		"costNum" : 4,
+		"equipType" : 2,
+		"level" : 4,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32002051,
+		"costNum" : 5,
+		"equipType" : 2,
+		"level" : 5,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32002057,
+		"costNum" : 1,
+		"equipType" : 2,
+		"level" : 1,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32002057,
+		"costNum" : 2,
+		"equipType" : 2,
+		"level" : 2,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32002057,
+		"costNum" : 3,
+		"equipType" : 2,
+		"level" : 3,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32002057,
+		"costNum" : 4,
+		"equipType" : 2,
+		"level" : 4,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32002057,
+		"costNum" : 5,
+		"equipType" : 2,
+		"level" : 5,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32002063,
+		"costNum" : 1,
+		"equipType" : 2,
+		"level" : 1,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32002063,
+		"costNum" : 2,
+		"equipType" : 2,
+		"level" : 2,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32002063,
+		"costNum" : 3,
+		"equipType" : 2,
+		"level" : 3,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32002063,
+		"costNum" : 4,
+		"equipType" : 2,
+		"level" : 4,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32002063,
+		"costNum" : 5,
+		"equipType" : 2,
+		"level" : 5,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32002069,
+		"costNum" : 1,
+		"equipType" : 2,
+		"level" : 1,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32002069,
+		"costNum" : 2,
+		"equipType" : 2,
+		"level" : 2,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32002069,
+		"costNum" : 3,
+		"equipType" : 2,
+		"level" : 3,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32002069,
+		"costNum" : 4,
+		"equipType" : 2,
+		"level" : 4,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32002069,
+		"costNum" : 5,
+		"equipType" : 2,
+		"level" : 5,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32002075,
+		"costNum" : 1,
+		"equipType" : 2,
+		"level" : 1,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32002075,
+		"costNum" : 2,
+		"equipType" : 2,
+		"level" : 2,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32002075,
+		"costNum" : 3,
+		"equipType" : 2,
+		"level" : 3,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32002075,
+		"costNum" : 4,
+		"equipType" : 2,
+		"level" : 4,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32002075,
+		"costNum" : 5,
+		"equipType" : 2,
+		"level" : 5,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32002081,
+		"costNum" : 1,
+		"equipType" : 2,
+		"level" : 1,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32002081,
+		"costNum" : 2,
+		"equipType" : 2,
+		"level" : 2,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32002081,
+		"costNum" : 3,
+		"equipType" : 2,
+		"level" : 3,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32002081,
+		"costNum" : 4,
+		"equipType" : 2,
+		"level" : 4,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32002081,
+		"costNum" : 5,
+		"equipType" : 2,
+		"level" : 5,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32002087,
+		"costNum" : 1,
+		"equipType" : 2,
+		"level" : 1,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32002087,
+		"costNum" : 2,
+		"equipType" : 2,
+		"level" : 2,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32002087,
+		"costNum" : 3,
+		"equipType" : 2,
+		"level" : 3,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32002087,
+		"costNum" : 4,
+		"equipType" : 2,
+		"level" : 4,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32002087,
+		"costNum" : 5,
+		"equipType" : 2,
+		"level" : 5,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32002093,
+		"costNum" : 1,
+		"equipType" : 2,
+		"level" : 1,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32002093,
+		"costNum" : 2,
+		"equipType" : 2,
+		"level" : 2,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32002093,
+		"costNum" : 3,
+		"equipType" : 2,
+		"level" : 3,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32002093,
+		"costNum" : 4,
+		"equipType" : 2,
+		"level" : 4,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32002093,
+		"costNum" : 5,
+		"equipType" : 2,
+		"level" : 5,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32002099,
+		"costNum" : 1,
+		"equipType" : 2,
+		"level" : 1,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32002099,
+		"costNum" : 2,
+		"equipType" : 2,
+		"level" : 2,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32002099,
+		"costNum" : 3,
+		"equipType" : 2,
+		"level" : 3,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32002099,
+		"costNum" : 4,
+		"equipType" : 2,
+		"level" : 4,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32002099,
+		"costNum" : 5,
+		"equipType" : 2,
+		"level" : 5,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32002105,
+		"costNum" : 1,
+		"equipType" : 2,
+		"level" : 1,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32002105,
+		"costNum" : 2,
+		"equipType" : 2,
+		"level" : 2,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32002105,
+		"costNum" : 3,
+		"equipType" : 2,
+		"level" : 3,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32002105,
+		"costNum" : 4,
+		"equipType" : 2,
+		"level" : 4,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32002105,
+		"costNum" : 5,
+		"equipType" : 2,
+		"level" : 5,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32003001,
+		"costNum" : 1,
+		"equipType" : 3,
+		"level" : 1,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32003001,
+		"costNum" : 2,
+		"equipType" : 3,
+		"level" : 2,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32003001,
+		"costNum" : 3,
+		"equipType" : 3,
+		"level" : 3,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32003005,
+		"costNum" : 1,
+		"equipType" : 3,
+		"level" : 1,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32003005,
+		"costNum" : 2,
+		"equipType" : 3,
+		"level" : 2,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32003005,
+		"costNum" : 3,
+		"equipType" : 3,
+		"level" : 3,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32003009,
+		"costNum" : 1,
+		"equipType" : 3,
+		"level" : 1,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32003009,
+		"costNum" : 2,
+		"equipType" : 3,
+		"level" : 2,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32003009,
+		"costNum" : 3,
+		"equipType" : 3,
+		"level" : 3,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32003013,
+		"costNum" : 1,
+		"equipType" : 3,
+		"level" : 1,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32003013,
+		"costNum" : 2,
+		"equipType" : 3,
+		"level" : 2,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32003013,
+		"costNum" : 3,
+		"equipType" : 3,
+		"level" : 3,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32003017,
+		"costNum" : 1,
+		"equipType" : 3,
+		"level" : 1,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32003017,
+		"costNum" : 2,
+		"equipType" : 3,
+		"level" : 2,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32003017,
+		"costNum" : 3,
+		"equipType" : 3,
+		"level" : 3,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32003021,
+		"costNum" : 1,
+		"equipType" : 3,
+		"level" : 1,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32003021,
+		"costNum" : 2,
+		"equipType" : 3,
+		"level" : 2,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32003021,
+		"costNum" : 3,
+		"equipType" : 3,
+		"level" : 3,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32003021,
+		"costNum" : 4,
+		"equipType" : 3,
+		"level" : 4,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32003021,
+		"costNum" : 5,
+		"equipType" : 3,
+		"level" : 5,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32003027,
+		"costNum" : 1,
+		"equipType" : 3,
+		"level" : 1,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32003027,
+		"costNum" : 2,
+		"equipType" : 3,
+		"level" : 2,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32003027,
+		"costNum" : 3,
+		"equipType" : 3,
+		"level" : 3,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32003027,
+		"costNum" : 4,
+		"equipType" : 3,
+		"level" : 4,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32003027,
+		"costNum" : 5,
+		"equipType" : 3,
+		"level" : 5,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32003033,
+		"costNum" : 1,
+		"equipType" : 3,
+		"level" : 1,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32003033,
+		"costNum" : 2,
+		"equipType" : 3,
+		"level" : 2,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32003033,
+		"costNum" : 3,
+		"equipType" : 3,
+		"level" : 3,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32003033,
+		"costNum" : 4,
+		"equipType" : 3,
+		"level" : 4,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32003033,
+		"costNum" : 5,
+		"equipType" : 3,
+		"level" : 5,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32003039,
+		"costNum" : 1,
+		"equipType" : 3,
+		"level" : 1,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32003039,
+		"costNum" : 2,
+		"equipType" : 3,
+		"level" : 2,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32003039,
+		"costNum" : 3,
+		"equipType" : 3,
+		"level" : 3,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32003039,
+		"costNum" : 4,
+		"equipType" : 3,
+		"level" : 4,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32003039,
+		"costNum" : 5,
+		"equipType" : 3,
+		"level" : 5,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32003045,
+		"costNum" : 1,
+		"equipType" : 3,
+		"level" : 1,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32003045,
+		"costNum" : 2,
+		"equipType" : 3,
+		"level" : 2,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32003045,
+		"costNum" : 3,
+		"equipType" : 3,
+		"level" : 3,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32003045,
+		"costNum" : 4,
+		"equipType" : 3,
+		"level" : 4,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32003045,
+		"costNum" : 5,
+		"equipType" : 3,
+		"level" : 5,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32003051,
+		"costNum" : 1,
+		"equipType" : 3,
+		"level" : 1,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32003051,
+		"costNum" : 2,
+		"equipType" : 3,
+		"level" : 2,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32003051,
+		"costNum" : 3,
+		"equipType" : 3,
+		"level" : 3,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32003051,
+		"costNum" : 4,
+		"equipType" : 3,
+		"level" : 4,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32003051,
+		"costNum" : 5,
+		"equipType" : 3,
+		"level" : 5,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32003057,
+		"costNum" : 1,
+		"equipType" : 3,
+		"level" : 1,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32003057,
+		"costNum" : 2,
+		"equipType" : 3,
+		"level" : 2,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32003057,
+		"costNum" : 3,
+		"equipType" : 3,
+		"level" : 3,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32003057,
+		"costNum" : 4,
+		"equipType" : 3,
+		"level" : 4,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32003057,
+		"costNum" : 5,
+		"equipType" : 3,
+		"level" : 5,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32003063,
+		"costNum" : 1,
+		"equipType" : 3,
+		"level" : 1,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32003063,
+		"costNum" : 2,
+		"equipType" : 3,
+		"level" : 2,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32003063,
+		"costNum" : 3,
+		"equipType" : 3,
+		"level" : 3,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32003063,
+		"costNum" : 4,
+		"equipType" : 3,
+		"level" : 4,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32003063,
+		"costNum" : 5,
+		"equipType" : 3,
+		"level" : 5,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32003069,
+		"costNum" : 1,
+		"equipType" : 3,
+		"level" : 1,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32003069,
+		"costNum" : 2,
+		"equipType" : 3,
+		"level" : 2,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32003069,
+		"costNum" : 3,
+		"equipType" : 3,
+		"level" : 3,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32003069,
+		"costNum" : 4,
+		"equipType" : 3,
+		"level" : 4,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32003069,
+		"costNum" : 5,
+		"equipType" : 3,
+		"level" : 5,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32003075,
+		"costNum" : 1,
+		"equipType" : 3,
+		"level" : 1,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32003075,
+		"costNum" : 2,
+		"equipType" : 3,
+		"level" : 2,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32003075,
+		"costNum" : 3,
+		"equipType" : 3,
+		"level" : 3,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32003075,
+		"costNum" : 4,
+		"equipType" : 3,
+		"level" : 4,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32003075,
+		"costNum" : 5,
+		"equipType" : 3,
+		"level" : 5,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32003081,
+		"costNum" : 1,
+		"equipType" : 3,
+		"level" : 1,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32003081,
+		"costNum" : 2,
+		"equipType" : 3,
+		"level" : 2,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32003081,
+		"costNum" : 3,
+		"equipType" : 3,
+		"level" : 3,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32003081,
+		"costNum" : 4,
+		"equipType" : 3,
+		"level" : 4,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32003081,
+		"costNum" : 5,
+		"equipType" : 3,
+		"level" : 5,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32003087,
+		"costNum" : 1,
+		"equipType" : 3,
+		"level" : 1,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32003087,
+		"costNum" : 2,
+		"equipType" : 3,
+		"level" : 2,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32003087,
+		"costNum" : 3,
+		"equipType" : 3,
+		"level" : 3,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32003087,
+		"costNum" : 4,
+		"equipType" : 3,
+		"level" : 4,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32003087,
+		"costNum" : 5,
+		"equipType" : 3,
+		"level" : 5,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32003093,
+		"costNum" : 1,
+		"equipType" : 3,
+		"level" : 1,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32003093,
+		"costNum" : 2,
+		"equipType" : 3,
+		"level" : 2,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32003093,
+		"costNum" : 3,
+		"equipType" : 3,
+		"level" : 3,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32003093,
+		"costNum" : 4,
+		"equipType" : 3,
+		"level" : 4,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32003093,
+		"costNum" : 5,
+		"equipType" : 3,
+		"level" : 5,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32003099,
+		"costNum" : 1,
+		"equipType" : 3,
+		"level" : 1,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32003099,
+		"costNum" : 2,
+		"equipType" : 3,
+		"level" : 2,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32003099,
+		"costNum" : 3,
+		"equipType" : 3,
+		"level" : 3,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32003099,
+		"costNum" : 4,
+		"equipType" : 3,
+		"level" : 4,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32003099,
+		"costNum" : 5,
+		"equipType" : 3,
+		"level" : 5,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32003105,
+		"costNum" : 1,
+		"equipType" : 3,
+		"level" : 1,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32003105,
+		"costNum" : 2,
+		"equipType" : 3,
+		"level" : 2,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32003105,
+		"costNum" : 3,
+		"equipType" : 3,
+		"level" : 3,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32003105,
+		"costNum" : 4,
+		"equipType" : 3,
+		"level" : 4,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32003105,
+		"costNum" : 5,
+		"equipType" : 3,
+		"level" : 5,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32004001,
+		"costNum" : 1,
+		"equipType" : 4,
+		"level" : 1,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32004001,
+		"costNum" : 2,
+		"equipType" : 4,
+		"level" : 2,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32004001,
+		"costNum" : 3,
+		"equipType" : 4,
+		"level" : 3,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32004005,
+		"costNum" : 1,
+		"equipType" : 4,
+		"level" : 1,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32004005,
+		"costNum" : 2,
+		"equipType" : 4,
+		"level" : 2,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32004005,
+		"costNum" : 3,
+		"equipType" : 4,
+		"level" : 3,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32004009,
+		"costNum" : 1,
+		"equipType" : 4,
+		"level" : 1,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32004009,
+		"costNum" : 2,
+		"equipType" : 4,
+		"level" : 2,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32004009,
+		"costNum" : 3,
+		"equipType" : 4,
+		"level" : 3,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32004013,
+		"costNum" : 1,
+		"equipType" : 4,
+		"level" : 1,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32004013,
+		"costNum" : 2,
+		"equipType" : 4,
+		"level" : 2,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32004013,
+		"costNum" : 3,
+		"equipType" : 4,
+		"level" : 3,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32004017,
+		"costNum" : 1,
+		"equipType" : 4,
+		"level" : 1,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32004017,
+		"costNum" : 2,
+		"equipType" : 4,
+		"level" : 2,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 2,
+		"costItemcode" : 32004017,
+		"costNum" : 3,
+		"equipType" : 4,
+		"level" : 3,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32004021,
+		"costNum" : 1,
+		"equipType" : 4,
+		"level" : 1,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32004021,
+		"costNum" : 2,
+		"equipType" : 4,
+		"level" : 2,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32004021,
+		"costNum" : 3,
+		"equipType" : 4,
+		"level" : 3,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32004021,
+		"costNum" : 4,
+		"equipType" : 4,
+		"level" : 4,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32004021,
+		"costNum" : 5,
+		"equipType" : 4,
+		"level" : 5,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32004027,
+		"costNum" : 1,
+		"equipType" : 4,
+		"level" : 1,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32004027,
+		"costNum" : 2,
+		"equipType" : 4,
+		"level" : 2,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32004027,
+		"costNum" : 3,
+		"equipType" : 4,
+		"level" : 3,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32004027,
+		"costNum" : 4,
+		"equipType" : 4,
+		"level" : 4,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32004027,
+		"costNum" : 5,
+		"equipType" : 4,
+		"level" : 5,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32004033,
+		"costNum" : 1,
+		"equipType" : 4,
+		"level" : 1,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32004033,
+		"costNum" : 2,
+		"equipType" : 4,
+		"level" : 2,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32004033,
+		"costNum" : 3,
+		"equipType" : 4,
+		"level" : 3,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32004033,
+		"costNum" : 4,
+		"equipType" : 4,
+		"level" : 4,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32004033,
+		"costNum" : 5,
+		"equipType" : 4,
+		"level" : 5,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32004039,
+		"costNum" : 1,
+		"equipType" : 4,
+		"level" : 1,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32004039,
+		"costNum" : 2,
+		"equipType" : 4,
+		"level" : 2,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32004039,
+		"costNum" : 3,
+		"equipType" : 4,
+		"level" : 3,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32004039,
+		"costNum" : 4,
+		"equipType" : 4,
+		"level" : 4,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32004039,
+		"costNum" : 5,
+		"equipType" : 4,
+		"level" : 5,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32004045,
+		"costNum" : 1,
+		"equipType" : 4,
+		"level" : 1,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32004045,
+		"costNum" : 2,
+		"equipType" : 4,
+		"level" : 2,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32004045,
+		"costNum" : 3,
+		"equipType" : 4,
+		"level" : 3,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32004045,
+		"costNum" : 4,
+		"equipType" : 4,
+		"level" : 4,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 3,
+		"costItemcode" : 32004045,
+		"costNum" : 5,
+		"equipType" : 4,
+		"level" : 5,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32004051,
+		"costNum" : 1,
+		"equipType" : 4,
+		"level" : 1,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32004051,
+		"costNum" : 2,
+		"equipType" : 4,
+		"level" : 2,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32004051,
+		"costNum" : 3,
+		"equipType" : 4,
+		"level" : 3,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32004051,
+		"costNum" : 4,
+		"equipType" : 4,
+		"level" : 4,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32004051,
+		"costNum" : 5,
+		"equipType" : 4,
+		"level" : 5,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32004057,
+		"costNum" : 1,
+		"equipType" : 4,
+		"level" : 1,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32004057,
+		"costNum" : 2,
+		"equipType" : 4,
+		"level" : 2,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32004057,
+		"costNum" : 3,
+		"equipType" : 4,
+		"level" : 3,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32004057,
+		"costNum" : 4,
+		"equipType" : 4,
+		"level" : 4,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32004057,
+		"costNum" : 5,
+		"equipType" : 4,
+		"level" : 5,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32004063,
+		"costNum" : 1,
+		"equipType" : 4,
+		"level" : 1,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32004063,
+		"costNum" : 2,
+		"equipType" : 4,
+		"level" : 2,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32004063,
+		"costNum" : 3,
+		"equipType" : 4,
+		"level" : 3,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32004063,
+		"costNum" : 4,
+		"equipType" : 4,
+		"level" : 4,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32004063,
+		"costNum" : 5,
+		"equipType" : 4,
+		"level" : 5,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32004069,
+		"costNum" : 1,
+		"equipType" : 4,
+		"level" : 1,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32004069,
+		"costNum" : 2,
+		"equipType" : 4,
+		"level" : 2,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32004069,
+		"costNum" : 3,
+		"equipType" : 4,
+		"level" : 3,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32004069,
+		"costNum" : 4,
+		"equipType" : 4,
+		"level" : 4,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32004069,
+		"costNum" : 5,
+		"equipType" : 4,
+		"level" : 5,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32004075,
+		"costNum" : 1,
+		"equipType" : 4,
+		"level" : 1,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32004075,
+		"costNum" : 2,
+		"equipType" : 4,
+		"level" : 2,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32004075,
+		"costNum" : 3,
+		"equipType" : 4,
+		"level" : 3,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32004075,
+		"costNum" : 4,
+		"equipType" : 4,
+		"level" : 4,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 4,
+		"costItemcode" : 32004075,
+		"costNum" : 5,
+		"equipType" : 4,
+		"level" : 5,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32004081,
+		"costNum" : 1,
+		"equipType" : 4,
+		"level" : 1,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32004081,
+		"costNum" : 2,
+		"equipType" : 4,
+		"level" : 2,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32004081,
+		"costNum" : 3,
+		"equipType" : 4,
+		"level" : 3,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32004081,
+		"costNum" : 4,
+		"equipType" : 4,
+		"level" : 4,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32004081,
+		"costNum" : 5,
+		"equipType" : 4,
+		"level" : 5,
+		"pos" : 1
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32004087,
+		"costNum" : 1,
+		"equipType" : 4,
+		"level" : 1,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32004087,
+		"costNum" : 2,
+		"equipType" : 4,
+		"level" : 2,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32004087,
+		"costNum" : 3,
+		"equipType" : 4,
+		"level" : 3,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32004087,
+		"costNum" : 4,
+		"equipType" : 4,
+		"level" : 4,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32004087,
+		"costNum" : 5,
+		"equipType" : 4,
+		"level" : 5,
+		"pos" : 2
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32004093,
+		"costNum" : 1,
+		"equipType" : 4,
+		"level" : 1,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32004093,
+		"costNum" : 2,
+		"equipType" : 4,
+		"level" : 2,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32004093,
+		"costNum" : 3,
+		"equipType" : 4,
+		"level" : 3,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32004093,
+		"costNum" : 4,
+		"equipType" : 4,
+		"level" : 4,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32004093,
+		"costNum" : 5,
+		"equipType" : 4,
+		"level" : 5,
+		"pos" : 3
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32004099,
+		"costNum" : 1,
+		"equipType" : 4,
+		"level" : 1,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32004099,
+		"costNum" : 2,
+		"equipType" : 4,
+		"level" : 2,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32004099,
+		"costNum" : 3,
+		"equipType" : 4,
+		"level" : 3,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32004099,
+		"costNum" : 4,
+		"equipType" : 4,
+		"level" : 4,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32004099,
+		"costNum" : 5,
+		"equipType" : 4,
+		"level" : 5,
+		"pos" : 4
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32004105,
+		"costNum" : 1,
+		"equipType" : 4,
+		"level" : 1,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32004105,
+		"costNum" : 2,
+		"equipType" : 4,
+		"level" : 2,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32004105,
+		"costNum" : 3,
+		"equipType" : 4,
+		"level" : 3,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32004105,
+		"costNum" : 4,
+		"equipType" : 4,
+		"level" : 4,
+		"pos" : 5
+	},
+	
+	{
+		"category" : 20,
+		"color" : 5,
+		"costItemcode" : 32004105,
+		"costNum" : 5,
+		"equipType" : 4,
+		"level" : 5,
+		"pos" : 5
+	}
+]

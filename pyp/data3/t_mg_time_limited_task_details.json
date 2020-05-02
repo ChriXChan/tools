@@ -1,0 +1,219 @@
+
+[
+	
+	{
+		"idx" : 1,
+		"rewards" : "3,200000011,1#",
+		"sortId" : 1,
+		"taskList" : "310001",
+		"title" : "参与2次野外BOSS",
+		"type" : 1
+	},
+	
+	{
+		"idx" : 2,
+		"rewards" : "3,200000012,1#",
+		"sortId" : 2,
+		"taskList" : "310002",
+		"title" : "击杀1次60级个人BOSS",
+		"type" : 1
+	},
+	
+	{
+		"idx" : 3,
+		"rewards" : "3,200000013,1#",
+		"sortId" : 3,
+		"taskList" : "310003",
+		"title" : "寻宝装备3次",
+		"type" : 1
+	},
+	
+	{
+		"idx" : 4,
+		"rewards" : "3,200000014,1#",
+		"sortId" : 4,
+		"taskList" : "310004",
+		"title" : "翅膀达到12级",
+		"type" : 1
+	},
+	
+	{
+		"idx" : 5,
+		"rewards" : "3,200000015,1#",
+		"sortId" : 5,
+		"taskList" : "310005",
+		"title" : "完成4次材料副本",
+		"type" : 1
+	},
+	
+	{
+		"idx" : 6,
+		"rewards" : "3,200000016,1#",
+		"sortId" : 6,
+		"taskList" : "310006",
+		"title" : "赢得5次仙道斗法",
+		"type" : 1
+	},
+	
+	{
+		"idx" : 7,
+		"rewards" : "3,200000017,1#",
+		"sortId" : 7,
+		"taskList" : "310007",
+		"title" : "闯关达到100关",
+		"type" : 1
+	},
+	
+	{
+		"idx" : 8,
+		"rewards" : "3,200000018,1#",
+		"sortId" : 8,
+		"taskList" : "310008#310009",
+		"title" : "首充或次日登录",
+		"type" : 1
+	},
+	
+	{
+		"idx" : 1,
+		"rewards" : "3,200000021,1#",
+		"sortId" : 1,
+		"taskList" : "310010",
+		"title" : "参与6次皇者争霸",
+		"type" : 2
+	},
+	
+	{
+		"idx" : 2,
+		"rewards" : "3,200000022,1#",
+		"sortId" : 2,
+		"taskList" : "310011",
+		"title" : "诛仙塔通关至45层",
+		"type" : 2
+	},
+	
+	{
+		"idx" : 3,
+		"rewards" : "3,200000023,1#",
+		"sortId" : 3,
+		"taskList" : "310012",
+		"title" : "参与1次秘境BOSS击杀",
+		"type" : 2
+	},
+	
+	{
+		"idx" : 4,
+		"rewards" : "3,200000024,1#",
+		"sortId" : 4,
+		"taskList" : "310013",
+		"title" : "雇佣3次超级矿工",
+		"type" : 2
+	},
+	
+	{
+		"idx" : 5,
+		"rewards" : "3,200000025,1#",
+		"sortId" : 5,
+		"taskList" : "310014",
+		"title" : "仙位达到3等散仙",
+		"type" : 2
+	},
+	
+	{
+		"idx" : 6,
+		"rewards" : "3,200000026,1#",
+		"sortId" : 6,
+		"taskList" : "310015",
+		"title" : "击杀1次1转个人BOSS",
+		"type" : 2
+	},
+	
+	{
+		"idx" : 7,
+		"rewards" : "3,200000027,1#",
+		"sortId" : 7,
+		"taskList" : "310016",
+		"title" : "参与8次野外BOSS",
+		"type" : 2
+	},
+	
+	{
+		"idx" : 8,
+		"rewards" : "3,200000028,1#",
+		"sortId" : 8,
+		"taskList" : "310017#310018",
+		"title" : "成为vip2或登录4天",
+		"type" : 2
+	},
+	
+	{
+		"idx" : 1,
+		"rewards" : "3,200000031,1#",
+		"sortId" : 1,
+		"taskList" : "310019",
+		"title" : "皇者争霸胜利15场",
+		"type" : 3
+	},
+	
+	{
+		"idx" : 2,
+		"rewards" : "3,200000032,1#",
+		"sortId" : 2,
+		"taskList" : "310020",
+		"title" : "诛仙塔通关至90层",
+		"type" : 3
+	},
+	
+	{
+		"idx" : 3,
+		"rewards" : "3,200000033,1#",
+		"sortId" : 3,
+		"taskList" : "310021",
+		"title" : "击杀3次3转个人BOSS",
+		"type" : 3
+	},
+	
+	{
+		"idx" : 4,
+		"rewards" : "3,200000034,1#",
+		"sortId" : 4,
+		"taskList" : "310022",
+		"title" : "符文寻宝10次",
+		"type" : 3
+	},
+	
+	{
+		"idx" : 5,
+		"rewards" : "3,200000035,1#",
+		"sortId" : 5,
+		"taskList" : "310023",
+		"title" : "仙位等级达到7等天仙",
+		"type" : 3
+	},
+	
+	{
+		"idx" : 6,
+		"rewards" : "3,200000036,1#",
+		"sortId" : 6,
+		"taskList" : "310024",
+		"title" : "参与神域BOSS5次",
+		"type" : 3
+	},
+	
+	{
+		"idx" : 7,
+		"rewards" : "3,200000037,1#",
+		"sortId" : 7,
+		"taskList" : "310025",
+		"title" : "闯关达到300关",
+		"type" : 3
+	},
+	
+	{
+		"idx" : 8,
+		"rewards" : "3,200000038,1#",
+		"sortId" : 8,
+		"taskList" : "310026#310027",
+		"title" : "成为vip4或登录8天",
+		"type" : 3
+	}
+]

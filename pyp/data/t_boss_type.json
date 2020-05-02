@@ -1,0 +1,771 @@
+
+[
+	
+	{
+		"code" : 201540104,
+		"desc" : "圣灵血阵-幽冥沼泽1",
+		"level" : 100,
+		"name" : "万毒蛛王",
+		"type" : 11
+	},
+	
+	{
+		"code" : 202540104,
+		"desc" : "圣灵血阵-幽冥沼泽2",
+		"level" : 140,
+		"name" : "黑水玄蛇",
+		"type" : 11
+	},
+	
+	{
+		"code" : 203540104,
+		"desc" : "圣灵血阵-东海流波1",
+		"level" : 200,
+		"name" : "东海蛟龙",
+		"type" : 11
+	},
+	
+	{
+		"code" : 204540104,
+		"desc" : "圣灵血阵-东海流波2",
+		"level" : 250,
+		"name" : "碧水妖蟒",
+		"type" : 11
+	},
+	
+	{
+		"code" : 205540104,
+		"desc" : "圣灵血阵-万年寒境1",
+		"level" : 300,
+		"name" : "冰寒战虎",
+		"type" : 11
+	},
+	
+	{
+		"code" : 206540104,
+		"desc" : "圣灵血阵-万年寒境2",
+		"level" : 350,
+		"name" : "不朽烛龙",
+		"type" : 11
+	},
+	
+	{
+		"code" : 207540104,
+		"desc" : "圣灵血阵-焚香火域2",
+		"level" : 400,
+		"name" : "火域刑天",
+		"type" : 11
+	},
+	
+	{
+		"code" : 505201001,
+		"desc" : "世界BOSS1层",
+		"level" : 90,
+		"name" : "血月蝠王",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505201002,
+		"desc" : "世界BOSS1层",
+		"level" : 130,
+		"name" : "炼狱魔蝎",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505201003,
+		"desc" : "世界BOSS1层",
+		"level" : 140,
+		"name" : "森罗阎君",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505201004,
+		"desc" : "世界BOSS1层",
+		"level" : 145,
+		"name" : "紫焱魔蛛",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505201005,
+		"desc" : "世界BOSS1层",
+		"level" : 190,
+		"name" : "玉面罗刹",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505201006,
+		"desc" : "世界BOSS1层",
+		"level" : 200,
+		"name" : "万毒蛛王",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505201007,
+		"desc" : "世界BOSS1层",
+		"level" : 205,
+		"name" : "赤角青魔",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505201008,
+		"desc" : "世界BOSS1层",
+		"level" : 240,
+		"name" : "堕落神将",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505202001,
+		"desc" : "世界BOSS2层",
+		"level" : 245,
+		"name" : "千年树妖",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505202002,
+		"desc" : "世界BOSS2层",
+		"level" : 250,
+		"name" : "堕落战神",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505202003,
+		"desc" : "世界BOSS2层",
+		"level" : 280,
+		"name" : "血月魔狼",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505202004,
+		"desc" : "世界BOSS2层",
+		"level" : 300,
+		"name" : "嗜血魔罴",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505202005,
+		"desc" : "世界BOSS2层",
+		"level" : 350,
+		"name" : "孽血魔刹",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505202006,
+		"desc" : "世界BOSS2层",
+		"level" : 400,
+		"name" : "触炎龙神",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505202007,
+		"desc" : "世界BOSS2层",
+		"level" : 235,
+		"name" : "空桑女神",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505202008,
+		"desc" : "世界BOSS2层",
+		"level" : 290,
+		"name" : "天神英招",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505203001,
+		"desc" : "BOSS之家一层",
+		"level" : 190,
+		"name" : "炼狱魔蝎",
+		"type" : 2
+	},
+	
+	{
+		"code" : 505203002,
+		"desc" : "BOSS之家一层",
+		"level" : 200,
+		"name" : "森罗阎君",
+		"type" : 2
+	},
+	
+	{
+		"code" : 505203003,
+		"desc" : "BOSS之家一层",
+		"level" : 240,
+		"name" : "紫焱魔蛛",
+		"type" : 2
+	},
+	
+	{
+		"code" : 505203004,
+		"desc" : "BOSS之家一层",
+		"level" : 250,
+		"name" : "玉面罗刹",
+		"type" : 2
+	},
+	
+	{
+		"code" : 505203005,
+		"desc" : "BOSS之家一层",
+		"level" : 290,
+		"name" : "万毒蛛王",
+		"type" : 2
+	},
+	
+	{
+		"code" : 505203006,
+		"desc" : "BOSS之家一层",
+		"level" : 300,
+		"name" : "赤角青魔",
+		"type" : 2
+	},
+	
+	{
+		"code" : 505203007,
+		"desc" : "BOSS之家一层",
+		"level" : 350,
+		"name" : "堕落神将",
+		"type" : 2
+	},
+	
+	{
+		"code" : 505204001,
+		"desc" : "BOSS之家二层",
+		"level" : 240,
+		"name" : "紫焱魔蛛",
+		"type" : 2
+	},
+	
+	{
+		"code" : 505204002,
+		"desc" : "BOSS之家二层",
+		"level" : 250,
+		"name" : "玉面罗刹",
+		"type" : 2
+	},
+	
+	{
+		"code" : 505204003,
+		"desc" : "BOSS之家二层",
+		"level" : 300,
+		"name" : "万毒蛛王",
+		"type" : 2
+	},
+	
+	{
+		"code" : 505204004,
+		"desc" : "BOSS之家二层",
+		"level" : 350,
+		"name" : "赤角青魔",
+		"type" : 2
+	},
+	
+	{
+		"code" : 505204005,
+		"desc" : "BOSS之家二层",
+		"level" : 400,
+		"name" : "堕落神将",
+		"type" : 2
+	},
+	
+	{
+		"code" : 505205001,
+		"desc" : "BOSS之家三层",
+		"level" : 300,
+		"name" : "莽荒梼杌",
+		"type" : 2
+	},
+	
+	{
+		"code" : 505205002,
+		"desc" : "BOSS之家三层",
+		"level" : 350,
+		"name" : "暗影麒麟",
+		"type" : 2
+	},
+	
+	{
+		"code" : 505205003,
+		"desc" : "BOSS之家三层",
+		"level" : 400,
+		"name" : "炽焰饕餮",
+		"type" : 2
+	},
+	
+	{
+		"code" : 505205004,
+		"desc" : "BOSS之家三层",
+		"level" : 410,
+		"name" : "金角焱龙",
+		"type" : 2
+	},
+	
+	{
+		"code" : 505205005,
+		"desc" : "BOSS之家三层",
+		"level" : 440,
+		"name" : "青霜角龙",
+		"type" : 2
+	},
+	
+	{
+		"code" : 505206001,
+		"desc" : "世界BOSS3层",
+		"level" : 255,
+		"name" : "炽焰牛魔",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505206002,
+		"desc" : "世界BOSS3层",
+		"level" : 260,
+		"name" : "上古应龙",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505206003,
+		"desc" : "世界BOSS3层",
+		"level" : 305,
+		"name" : "碧水妖蟒",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505206004,
+		"desc" : "世界BOSS3层",
+		"level" : 310,
+		"name" : "吞天巨兽",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505206005,
+		"desc" : "世界BOSS3层",
+		"level" : 355,
+		"name" : "蛇媚妖姬",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505206006,
+		"desc" : "世界BOSS3层",
+		"level" : 360,
+		"name" : "暗影麒麟",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505206007,
+		"desc" : "世界BOSS3层",
+		"level" : 405,
+		"name" : "炽焰饕餮",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505206008,
+		"desc" : "世界BOSS3层",
+		"level" : 410,
+		"name" : "金角焱龙",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505207001,
+		"desc" : "蛮荒禁地1层BOSS",
+		"level" : 260,
+		"name" : "堕落战神",
+		"type" : 3
+	},
+	
+	{
+		"code" : 505207002,
+		"desc" : "蛮荒禁地1层BOSS",
+		"level" : 280,
+		"name" : "蛇媚妖姬",
+		"type" : 3
+	},
+	
+	{
+		"code" : 505207003,
+		"desc" : "蛮荒禁地1层BOSS",
+		"level" : 300,
+		"name" : "森罗阎君",
+		"type" : 3
+	},
+	
+	{
+		"code" : 505207004,
+		"desc" : "蛮荒禁地1层BOSS",
+		"level" : 320,
+		"name" : "玉面罗刹",
+		"type" : 3
+	},
+	
+	{
+		"code" : 505207005,
+		"desc" : "蛮荒禁地1层BOSS",
+		"level" : 340,
+		"name" : "炼狱魔蝎",
+		"type" : 3
+	},
+	
+	{
+		"code" : 505207006,
+		"desc" : "蛮荒禁地1层BOSS",
+		"level" : 360,
+		"name" : "紫焱魔蛛",
+		"type" : 3
+	},
+	
+	{
+		"code" : 505207007,
+		"desc" : "蛮荒禁地1层BOSS",
+		"level" : 380,
+		"name" : "赤角青魔",
+		"type" : 3
+	},
+	
+	{
+		"code" : 505207008,
+		"desc" : "蛮荒禁地1层BOSS",
+		"level" : 400,
+		"name" : "堕落神将",
+		"type" : 3
+	},
+	
+	{
+		"code" : 505208001,
+		"desc" : "世界BOSS4层",
+		"level" : 445,
+		"name" : "青霜角龙",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505208002,
+		"desc" : "世界BOSS4层",
+		"level" : 450,
+		"name" : "巨灵天神",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505208003,
+		"desc" : "世界BOSS4层",
+		"level" : 455,
+		"name" : "魔尊幻影",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505208004,
+		"desc" : "世界BOSS4层",
+		"level" : 495,
+		"name" : "疾风鹰王",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505208005,
+		"desc" : "世界BOSS4层",
+		"level" : 500,
+		"name" : "地狱苍狼",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505208006,
+		"desc" : "世界BOSS4层",
+		"level" : 505,
+		"name" : "北冥霜狼",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505209001,
+		"desc" : "BOSS之家四层",
+		"level" : 410,
+		"name" : "金角焱龙",
+		"type" : 2
+	},
+	
+	{
+		"code" : 505209002,
+		"desc" : "BOSS之家四层",
+		"level" : 440,
+		"name" : "青霜角龙",
+		"type" : 2
+	},
+	
+	{
+		"code" : 505209003,
+		"desc" : "BOSS之家四层",
+		"level" : 450,
+		"name" : "巨灵天神",
+		"type" : 2
+	},
+	
+	{
+		"code" : 505209004,
+		"desc" : "BOSS之家四层",
+		"level" : 490,
+		"name" : "魔尊幻影",
+		"type" : 2
+	},
+	
+	{
+		"code" : 505209005,
+		"desc" : "BOSS之家四层",
+		"level" : 500,
+		"name" : "疾风鹰王",
+		"type" : 2
+	},
+	
+	{
+		"code" : 505210001,
+		"desc" : "BOSS之家五层",
+		"level" : 540,
+		"name" : "魔尊幻影",
+		"type" : 2
+	},
+	
+	{
+		"code" : 505210002,
+		"desc" : "BOSS之家五层",
+		"level" : 550,
+		"name" : "疾风鹰王",
+		"type" : 2
+	},
+	
+	{
+		"code" : 505210003,
+		"desc" : "BOSS之家五层",
+		"level" : 590,
+		"name" : "深渊巨蜥",
+		"type" : 2
+	},
+	
+	{
+		"code" : 505210004,
+		"desc" : "BOSS之家五层",
+		"level" : 600,
+		"name" : "巫山蝎王",
+		"type" : 2
+	},
+	
+	{
+		"code" : 505210005,
+		"desc" : "BOSS之家五层",
+		"level" : 650,
+		"name" : "虚空焱帝",
+		"type" : 2
+	},
+	
+	{
+		"code" : 505211001,
+		"desc" : "世界BOSS5层",
+		"level" : 545,
+		"name" : "巨灵幻影",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505211002,
+		"desc" : "世界BOSS5层",
+		"level" : 550,
+		"name" : "鹰王幻象",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505211003,
+		"desc" : "世界BOSS5层",
+		"level" : 560,
+		"name" : "虚幻苍狼",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505211004,
+		"desc" : "世界BOSS5层",
+		"level" : 600,
+		"name" : "虚无霜狼",
+		"type" : 1
+	},
+	
+	{
+		"code" : 505217001,
+		"desc" : "蛮荒禁地2层BOSS",
+		"level" : 425,
+		"name" : "金角焱龙",
+		"type" : 3
+	},
+	
+	{
+		"code" : 505217002,
+		"desc" : "蛮荒禁地2层BOSS",
+		"level" : 450,
+		"name" : "青霜角龙",
+		"type" : 3
+	},
+	
+	{
+		"code" : 505217003,
+		"desc" : "蛮荒禁地2层BOSS",
+		"level" : 475,
+		"name" : "巨灵天神",
+		"type" : 3
+	},
+	
+	{
+		"code" : 505217004,
+		"desc" : "蛮荒禁地2层BOSS",
+		"level" : 500,
+		"name" : "魔尊幻影",
+		"type" : 3
+	},
+	
+	{
+		"code" : 505217005,
+		"desc" : "蛮荒禁地2层BOSS",
+		"level" : 525,
+		"name" : "疾风鹰王",
+		"type" : 3
+	},
+	
+	{
+		"code" : 505217006,
+		"desc" : "蛮荒禁地2层BOSS",
+		"level" : 550,
+		"name" : "深渊巨蜥",
+		"type" : 3
+	},
+	
+	{
+		"code" : 505217007,
+		"desc" : "蛮荒禁地2层BOSS",
+		"level" : 575,
+		"name" : "巫山蝎王",
+		"type" : 3
+	},
+	
+	{
+		"code" : 505217008,
+		"desc" : "蛮荒禁地2层BOSS",
+		"level" : 600,
+		"name" : "虚空焱帝",
+		"type" : 3
+	},
+	
+	{
+		"code" : 506101301,
+		"desc" : "神兽岛BOSS",
+		"level" : 390,
+		"name" : "东海帝江",
+		"type" : 4
+	},
+	
+	{
+		"code" : 506101302,
+		"desc" : "神兽岛BOSS",
+		"level" : 410,
+		"name" : "炙焱穷奇",
+		"type" : 4
+	},
+	
+	{
+		"code" : 506101303,
+		"desc" : "神兽岛BOSS",
+		"level" : 430,
+		"name" : "水神应龙",
+		"type" : 4
+	},
+	
+	{
+		"code" : 506101304,
+		"desc" : "神兽岛BOSS",
+		"level" : 450,
+		"name" : "癸水麒麟",
+		"type" : 4
+	},
+	
+	{
+		"code" : 506101305,
+		"desc" : "神兽岛BOSS",
+		"level" : 470,
+		"name" : "上古貔貅",
+		"type" : 4
+	},
+	
+	{
+		"code" : 506101306,
+		"desc" : "神兽岛BOSS",
+		"level" : 490,
+		"name" : "燎天烛龙",
+		"type" : 4
+	},
+	
+	{
+		"code" : 506101307,
+		"desc" : "神兽岛BOSS",
+		"level" : 510,
+		"name" : "幻月腾蛇",
+		"type" : 4
+	},
+	
+	{
+		"code" : 506101308,
+		"desc" : "神兽岛BOSS",
+		"level" : 530,
+		"name" : "赤目金蟾",
+		"type" : 4
+	},
+	
+	{
+		"code" : 506101309,
+		"desc" : "神兽岛BOSS",
+		"level" : 550,
+		"name" : "嗜血狼神",
+		"type" : 4
+	},
+	
+	{
+		"code" : 506101310,
+		"desc" : "神兽岛BOSS",
+		"level" : 570,
+		"name" : "天蝎妖主",
+		"type" : 4
+	},
+	
+	{
+		"code" : 506101311,
+		"desc" : "神兽岛BOSS",
+		"level" : 590,
+		"name" : "赤角天马",
+		"type" : 4
+	},
+	
+	{
+		"code" : 506101312,
+		"desc" : "神兽岛BOSS",
+		"level" : 610,
+		"name" : "赤角天马",
+		"type" : 4
+	}
+]

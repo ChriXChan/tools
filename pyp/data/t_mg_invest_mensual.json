@@ -1,0 +1,254 @@
+
+[
+	
+	{
+		"desc" : "投资立返",
+		"descEx" : "已收回本金",
+		"icon" : "41950003",
+		"id" : 1,
+		"rewardStr" : "2,3,300"
+	},
+	
+	{
+		"desc" : "第1天可领",
+		"icon" : "41950003",
+		"id" : 2,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第2天可领",
+		"icon" : "41950003",
+		"id" : 3,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第3天可领",
+		"icon" : "41950003",
+		"id" : 4,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第4天可领",
+		"descEx" : "已领取2倍收益",
+		"icon" : "41950003",
+		"id" : 5,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第5天可领",
+		"icon" : "41950003",
+		"id" : 6,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第6天可领",
+		"icon" : "41950003",
+		"id" : 7,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第7天可领",
+		"icon" : "41950003",
+		"id" : 8,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第8天可领",
+		"icon" : "41950003",
+		"id" : 9,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第9天可领",
+		"icon" : "41950003",
+		"id" : 10,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第10天可领",
+		"icon" : "41950003",
+		"id" : 11,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第11天可领",
+		"icon" : "41950003",
+		"id" : 12,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第12天可领",
+		"icon" : "41950003",
+		"id" : 13,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第13天可领",
+		"icon" : "41950003",
+		"id" : 14,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第14天可领",
+		"icon" : "41950003",
+		"id" : 15,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第15天可领",
+		"icon" : "41950003",
+		"id" : 16,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第16天可领",
+		"icon" : "41950003",
+		"id" : 17,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第17天可领",
+		"descEx" : "已领取5倍收益",
+		"icon" : "41950003",
+		"id" : 18,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第18天可领",
+		"icon" : "41950003",
+		"id" : 19,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第19天可领",
+		"icon" : "41950003",
+		"id" : 20,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第20天可领",
+		"icon" : "41950003",
+		"id" : 21,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第21天可领",
+		"icon" : "41950003",
+		"id" : 22,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第22天可领",
+		"icon" : "41950003",
+		"id" : 23,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第23天可领",
+		"icon" : "41950003",
+		"id" : 24,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第24天可领",
+		"icon" : "41950003",
+		"id" : 25,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第25天可领",
+		"icon" : "41950003",
+		"id" : 26,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第26天可领",
+		"icon" : "41950003",
+		"id" : 27,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第27天可领",
+		"icon" : "41950003",
+		"id" : 28,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第28天可领",
+		"icon" : "41950003",
+		"id" : 29,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第29天可领",
+		"icon" : "41950003",
+		"id" : 30,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	},
+	
+	{
+		"desc" : "第30天可领",
+		"descEx" : "已领取8倍收益",
+		"icon" : "41950003",
+		"id" : 31,
+		"isDayRepay" : 1,
+		"rewardStr" : "2,3,70"
+	}
+]

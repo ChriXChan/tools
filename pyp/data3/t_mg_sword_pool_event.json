@@ -1,0 +1,156 @@
+
+[
+	
+	{
+		"copyEventComplete" : "2#3",
+		"desc" : "击杀小怪，简单高效获得大量经验，还可3倍领取修为！",
+		"event" : 17,
+		"eventValue" : 118,
+		"exp" : 10,
+		"idx" : 1,
+		"name" : "经验副本",
+		"notOpenStr" : "48级开启",
+		"openKey" : "CopyHallDaily",
+		"recommend" : 2,
+		"showReward" : "3,30051068,1#3,41950001,1",
+		"time" : 2,
+		"timeDesc" : "全天"
+	},
+	
+	{
+		"copyEventComplete" : "2",
+		"desc" : "实力闯关，挂机收益大幅增长，还有元宝、神器碎片等你拿！",
+		"event" : 18,
+		"exp" : 5,
+		"idx" : 2,
+		"name" : "通关关卡",
+		"notOpenStr" : "未开启",
+		"recommend" : 2,
+		"showReward" : "3,41950001,1#3,40110206,1",
+		"time" : 5,
+		"timeDesc" : "全天"
+	},
+	
+	{
+		"copyEventComplete" : "1",
+		"desc" : "勇闯诛仙塔，解锁新符文，每10层获得一次抽奖机会！",
+		"event" : 19,
+		"eventValue" : 100,
+		"exp" : 10,
+		"idx" : 3,
+		"name" : "诛仙塔",
+		"notOpenStr" : "56级开启",
+		"openKey" : "CopyHallTower",
+		"recommend" : 1,
+		"showReward" : "3,41950018,1#3,41950016,1#3,41950001,1",
+		"time" : 1,
+		"timeDesc" : "全天"
+	},
+	
+	{
+		"copyEventComplete" : "2#3#5",
+		"desc" : "副本扫荡只要5折，炫酷外观，大量战力，一举多得！",
+		"event" : 20,
+		"eventValue" : 79,
+		"exp" : 5,
+		"idx" : 4,
+		"name" : "材料副本",
+		"notOpenStr" : "未开启",
+		"openKey" : "CopyHallMaterial",
+		"recommend" : 2,
+		"showReward" : "3,40151013,1#3,40151014,1#3,60040002,1",
+		"time" : 12,
+		"timeDesc" : "全天"
+	},
+	
+	{
+		"copyEventComplete" : "2#5",
+		"desc" : "提升转生等级，大量BOSS任你打，神装碎片领不停！",
+		"event" : 21,
+		"eventValue" : 117,
+		"exp" : 2,
+		"idx" : 5,
+		"name" : "个人BOSS",
+		"notOpenStr" : "30级任务开启",
+		"openKey" : "PersonalBoss",
+		"recommend" : 1,
+		"showReward" : "3,12150121,1#3,12250121,1#3,12350121,1",
+		"time" : 5,
+		"timeDesc" : "全天"
+	},
+	
+	{
+		"copyEventComplete" : "1",
+		"desc" : "抢BOSS夺归属，大量红装助你战力飙升！",
+		"event" : 22,
+		"eventValue" : 94,
+		"exp" : 2,
+		"idx" : 6,
+		"name" : "野外BOSS",
+		"notOpenStr" : "52级开启",
+		"openKey" : "WorldBoss",
+		"showReward" : "3,12150121,1#3,12250121,1#3,12350121,1",
+		"time" : 10,
+		"timeDesc" : "全天"
+	},
+	
+	{
+		"copyEventComplete" : "1",
+		"desc" : "每天挑战稀有BOSS，集齐一套卦象，天怒伤害爆炸！",
+		"event" : 23,
+		"eventValue" : 121,
+		"exp" : 2,
+		"idx" : 7,
+		"name" : "秘境BOSS",
+		"notOpenStr" : "1转且第2天开启",
+		"openKey" : "SecretBoss",
+		"showReward" : "3,12150121,1#3,12250121,1#3,12350121,1#3,200000041,1",
+		"time" : 3,
+		"timeDesc" : "全天"
+	},
+	
+	{
+		"copyEventComplete" : "1",
+		"desc" : "1V1段位匹配玩法，段位越高，奖励越丰厚！",
+		"event" : 24,
+		"eventValue" : 119,
+		"exp" : 2,
+		"idx" : 8,
+		"name" : "皇者争霸",
+		"notOpenStr" : "70级开启",
+		"openKey" : "KingBattle",
+		"showReward" : "3,20000004,1#3,60200000,1",
+		"time" : 5,
+		"timeDesc" : "全天"
+	},
+	
+	{
+		"copyEventComplete" : "1",
+		"desc" : "1V1挑战玩法，挑战胜利获得大量经验与强化材料！",
+		"event" : 25,
+		"eventValue" : 125,
+		"exp" : 2,
+		"idx" : 9,
+		"name" : "仙道斗法",
+		"notOpenStr" : "通关14关开启",
+		"openKey" : "Encounter",
+		"showReward" : "3,60200000,1#3,41950001,1",
+		"time" : 20,
+		"timeDesc" : "全天"
+	},
+	
+	{
+		"desc" : "雇佣帮手探索龙脉，一言不合就抢夺，神兵铸成指日可待！",
+		"event" : 26,
+		"eventValue" : 127,
+		"exp" : 10,
+		"idx" : 10,
+		"name" : "龙脉寻宝",
+		"notOpenStr" : "70级开启",
+		"openKey" : "Mining",
+		"recommend" : 1,
+		"showReward" : "3,40110223,1#3,40110400,1#3,40110221,1",
+		"time" : 3,
+		"timeDesc" : "全天"
+	}
+]

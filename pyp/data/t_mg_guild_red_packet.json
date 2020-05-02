@@ -1,0 +1,117 @@
+
+[
+	
+	{
+		"condition" : 1,
+		"desc" : "仙盟答题<br/>第一名",
+		"id" : 1,
+		"money" : 300,
+		"type" : 1
+	},
+	
+	{
+		"condition" : 2,
+		"desc" : "仙盟答题<br/>第二名",
+		"id" : 2,
+		"money" : 200,
+		"type" : 1
+	},
+	
+	{
+		"condition" : 3,
+		"desc" : "仙盟答题<br/>第三名",
+		"id" : 3,
+		"money" : 150,
+		"type" : 1
+	},
+	
+	{
+		"broadcast" : 1,
+		"condition" : 1,
+		"desc" : "投资计划<br/>一本万利",
+		"id" : 4,
+		"money" : 200,
+		"type" : 2
+	},
+	
+	{
+		"broadcast" : 1,
+		"condition" : 4,
+		"desc" : "大手一挥<br/>壕情逸致",
+		"id" : 5,
+		"money" : 100,
+		"type" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"condition" : 5,
+		"desc" : "财大气粗<br/>壕情万丈",
+		"id" : 6,
+		"money" : 200,
+		"type" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"condition" : 6,
+		"desc" : "挥金如土<br/>壕气冲天",
+		"id" : 7,
+		"money" : 300,
+		"type" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"condition" : 7,
+		"desc" : "腰缠万贯<br/>壕放不羁",
+		"id" : 8,
+		"money" : 400,
+		"type" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"condition" : 8,
+		"desc" : "富甲一方<br/>壕迈不群",
+		"id" : 9,
+		"money" : 600,
+		"type" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"condition" : 9,
+		"desc" : "富甲天下<br/>壕奢放逸",
+		"id" : 10,
+		"money" : 800,
+		"type" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"desc" : "月卡投资<br/>生财有道",
+		"id" : 11,
+		"money" : 100,
+		"type" : 4
+	},
+	
+	{
+		"condition" : 60,
+		"conditionEx" : 7,
+		"desc" : "天天首充<br/>精打细算",
+		"id" : 12,
+		"money" : 50,
+		"type" : 6
+	},
+	
+	{
+		"broadcast" : 1,
+		"condition" : 680,
+		"conditionEx" : 7,
+		"desc" : "天天累充<br/>堆金叠玉",
+		"id" : 13,
+		"money" : 100,
+		"type" : 6
+	}
+]

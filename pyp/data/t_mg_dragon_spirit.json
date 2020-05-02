@@ -1,0 +1,4150 @@
+
+[
+	
+	{
+		"baseAttribute" : "1,113#",
+		"bottomPic" : 1001,
+		"level" : 1,
+		"rank" : 1,
+		"rankName" : 1,
+		"upgradeCost" : 706,
+		"upgradePoint" : "351,491"
+	},
+	
+	{
+		"baseAttribute" : "2,2260#",
+		"bottomPic" : 1001,
+		"level" : 2,
+		"rank" : 1,
+		"rankName" : 1,
+		"upgradeCost" : 804,
+		"upgradePoint" : "194,491"
+	},
+	
+	{
+		"baseAttribute" : "3,113#",
+		"bottomPic" : 1001,
+		"level" : 3,
+		"rank" : 1,
+		"rankName" : 1,
+		"upgradeCost" : 902,
+		"upgradePoint" : "179,384"
+	},
+	
+	{
+		"baseAttribute" : "4,113#",
+		"bottomPic" : 1001,
+		"level" : 4,
+		"rank" : 1,
+		"rankName" : 1,
+		"upgradeCost" : 1000,
+		"upgradePoint" : "390,415"
+	},
+	
+	{
+		"baseAttribute" : "5,113#",
+		"bottomPic" : 1001,
+		"level" : 5,
+		"rank" : 1,
+		"rankName" : 1,
+		"upgradeCost" : 1097,
+		"upgradePoint" : "372,329"
+	},
+	
+	{
+		"baseAttribute" : "6,113#",
+		"bottomPic" : 1001,
+		"level" : 6,
+		"rank" : 1,
+		"rankName" : 1,
+		"upgradeCost" : 1194,
+		"upgradePoint" : "315,236"
+	},
+	
+	{
+		"baseAttribute" : "11,113#",
+		"bottomPic" : 1001,
+		"level" : 7,
+		"rank" : 1,
+		"rankName" : 1,
+		"upgradeCost" : 1291,
+		"upgradePoint" : "381,143"
+	},
+	
+	{
+		"baseAttribute" : "12,113#",
+		"bottomPic" : 1001,
+		"level" : 8,
+		"rank" : 1,
+		"rankName" : 1,
+		"upgradeCost" : 1387,
+		"upgradePoint" : "354,55"
+	},
+	
+	{
+		"baseAttribute" : "1,113#",
+		"bottomPic" : 1001,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 2,
+		"rankName" : 1,
+		"targetAttribute" : "2,6982#4,349#",
+		"targetAttributePer" : 400,
+		"upgradeCost" : 1483,
+		"upgradePoint" : "351,491"
+	},
+	
+	{
+		"baseAttribute" : "2,2268#",
+		"bottomPic" : 1001,
+		"level" : 2,
+		"rank" : 2,
+		"rankName" : 1,
+		"upgradeCost" : 1578,
+		"upgradePoint" : "194,491"
+	},
+	
+	{
+		"baseAttribute" : "3,114#",
+		"bottomPic" : 1001,
+		"level" : 3,
+		"rank" : 2,
+		"rankName" : 1,
+		"upgradeCost" : 1673,
+		"upgradePoint" : "179,384"
+	},
+	
+	{
+		"baseAttribute" : "4,114#",
+		"bottomPic" : 1001,
+		"level" : 4,
+		"rank" : 2,
+		"rankName" : 1,
+		"upgradeCost" : 1768,
+		"upgradePoint" : "390,415"
+	},
+	
+	{
+		"baseAttribute" : "5,114#",
+		"bottomPic" : 1001,
+		"level" : 5,
+		"rank" : 2,
+		"rankName" : 1,
+		"upgradeCost" : 1862,
+		"upgradePoint" : "372,329"
+	},
+	
+	{
+		"baseAttribute" : "6,114#",
+		"bottomPic" : 1001,
+		"level" : 6,
+		"rank" : 2,
+		"rankName" : 1,
+		"upgradeCost" : 1956,
+		"upgradePoint" : "315,236"
+	},
+	
+	{
+		"baseAttribute" : "11,114#",
+		"bottomPic" : 1001,
+		"level" : 7,
+		"rank" : 2,
+		"rankName" : 1,
+		"upgradeCost" : 2049,
+		"upgradePoint" : "381,143"
+	},
+	
+	{
+		"baseAttribute" : "12,114#",
+		"bottomPic" : 1001,
+		"level" : 8,
+		"rank" : 2,
+		"rankName" : 1,
+		"upgradeCost" : 2143,
+		"upgradePoint" : "354,55"
+	},
+	
+	{
+		"baseAttribute" : "1,114#",
+		"bottomPic" : 1001,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 3,
+		"rankName" : 1,
+		"targetAttribute" : "2,14069#4,703#",
+		"targetAttributePer" : 600,
+		"upgradeCost" : 2235,
+		"upgradePoint" : "351,491"
+	},
+	
+	{
+		"baseAttribute" : "2,2278#",
+		"bottomPic" : 1001,
+		"level" : 2,
+		"rank" : 3,
+		"rankName" : 1,
+		"upgradeCost" : 2328,
+		"upgradePoint" : "194,491"
+	},
+	
+	{
+		"baseAttribute" : "3,114#",
+		"bottomPic" : 1001,
+		"level" : 3,
+		"rank" : 3,
+		"rankName" : 1,
+		"upgradeCost" : 2420,
+		"upgradePoint" : "179,384"
+	},
+	
+	{
+		"baseAttribute" : "4,114#",
+		"bottomPic" : 1001,
+		"level" : 4,
+		"rank" : 3,
+		"rankName" : 1,
+		"upgradeCost" : 2512,
+		"upgradePoint" : "390,415"
+	},
+	
+	{
+		"baseAttribute" : "5,114#",
+		"bottomPic" : 1001,
+		"level" : 5,
+		"rank" : 3,
+		"rankName" : 1,
+		"upgradeCost" : 2603,
+		"upgradePoint" : "372,329"
+	},
+	
+	{
+		"baseAttribute" : "6,114#",
+		"bottomPic" : 1001,
+		"level" : 6,
+		"rank" : 3,
+		"rankName" : 1,
+		"upgradeCost" : 2694,
+		"upgradePoint" : "315,236"
+	},
+	
+	{
+		"baseAttribute" : "11,114#",
+		"bottomPic" : 1001,
+		"level" : 7,
+		"rank" : 3,
+		"rankName" : 1,
+		"upgradeCost" : 2785,
+		"upgradePoint" : "381,143"
+	},
+	
+	{
+		"baseAttribute" : "12,114#",
+		"bottomPic" : 1001,
+		"level" : 8,
+		"rank" : 3,
+		"rankName" : 1,
+		"upgradeCost" : 2875,
+		"upgradePoint" : "354,55"
+	},
+	
+	{
+		"baseAttribute" : "1,114#",
+		"bottomPic" : 1001,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 4,
+		"rankName" : 1,
+		"targetAttribute" : "2,21262#4,1063#",
+		"targetAttributePer" : 800,
+		"upgradeCost" : 2965,
+		"upgradePoint" : "351,491"
+	},
+	
+	{
+		"baseAttribute" : "2,2286#",
+		"bottomPic" : 1001,
+		"level" : 2,
+		"rank" : 4,
+		"rankName" : 1,
+		"upgradeCost" : 3055,
+		"upgradePoint" : "194,491"
+	},
+	
+	{
+		"baseAttribute" : "3,114#",
+		"bottomPic" : 1001,
+		"level" : 3,
+		"rank" : 4,
+		"rankName" : 1,
+		"upgradeCost" : 3144,
+		"upgradePoint" : "179,384"
+	},
+	
+	{
+		"baseAttribute" : "4,114#",
+		"bottomPic" : 1001,
+		"level" : 4,
+		"rank" : 4,
+		"rankName" : 1,
+		"upgradeCost" : 3233,
+		"upgradePoint" : "390,415"
+	},
+	
+	{
+		"baseAttribute" : "5,114#",
+		"bottomPic" : 1001,
+		"level" : 5,
+		"rank" : 4,
+		"rankName" : 1,
+		"upgradeCost" : 3322,
+		"upgradePoint" : "372,329"
+	},
+	
+	{
+		"baseAttribute" : "6,114#",
+		"bottomPic" : 1001,
+		"level" : 6,
+		"rank" : 4,
+		"rankName" : 1,
+		"upgradeCost" : 3410,
+		"upgradePoint" : "315,236"
+	},
+	
+	{
+		"baseAttribute" : "11,115#",
+		"bottomPic" : 1001,
+		"level" : 7,
+		"rank" : 4,
+		"rankName" : 1,
+		"upgradeCost" : 3498,
+		"upgradePoint" : "381,143"
+	},
+	
+	{
+		"baseAttribute" : "12,115#",
+		"bottomPic" : 1001,
+		"level" : 8,
+		"rank" : 4,
+		"rankName" : 1,
+		"upgradeCost" : 3586,
+		"upgradePoint" : "354,55"
+	},
+	
+	{
+		"baseAttribute" : "1,115#",
+		"bottomPic" : 1001,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 5,
+		"rankName" : 1,
+		"targetAttribute" : "2,28564#4,1428#",
+		"targetAttributePer" : 1000,
+		"upgradeCost" : 3673,
+		"upgradePoint" : "351,491"
+	},
+	
+	{
+		"baseAttribute" : "2,2296#",
+		"bottomPic" : 1001,
+		"level" : 2,
+		"rank" : 5,
+		"rankName" : 1,
+		"upgradeCost" : 3760,
+		"upgradePoint" : "194,491"
+	},
+	
+	{
+		"baseAttribute" : "3,115#",
+		"bottomPic" : 1001,
+		"level" : 3,
+		"rank" : 5,
+		"rankName" : 1,
+		"upgradeCost" : 3847,
+		"upgradePoint" : "179,384"
+	},
+	
+	{
+		"baseAttribute" : "4,115#",
+		"bottomPic" : 1001,
+		"level" : 4,
+		"rank" : 5,
+		"rankName" : 1,
+		"upgradeCost" : 3933,
+		"upgradePoint" : "390,415"
+	},
+	
+	{
+		"baseAttribute" : "5,115#",
+		"bottomPic" : 1001,
+		"level" : 5,
+		"rank" : 5,
+		"rankName" : 1,
+		"upgradeCost" : 4019,
+		"upgradePoint" : "372,329"
+	},
+	
+	{
+		"baseAttribute" : "6,115#",
+		"bottomPic" : 1001,
+		"level" : 6,
+		"rank" : 5,
+		"rankName" : 1,
+		"upgradeCost" : 4105,
+		"upgradePoint" : "315,236"
+	},
+	
+	{
+		"baseAttribute" : "11,115#",
+		"bottomPic" : 1001,
+		"level" : 7,
+		"rank" : 5,
+		"rankName" : 1,
+		"upgradeCost" : 4190,
+		"upgradePoint" : "381,143"
+	},
+	
+	{
+		"baseAttribute" : "12,115#",
+		"bottomPic" : 1001,
+		"level" : 8,
+		"rank" : 5,
+		"rankName" : 1,
+		"upgradeCost" : 4275,
+		"upgradePoint" : "354,55"
+	},
+	
+	{
+		"baseAttribute" : "1,115#",
+		"bottomPic" : 1001,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 6,
+		"rankName" : 1,
+		"targetAttribute" : "2,35975#4,1799#",
+		"targetAttributePer" : 1200,
+		"upgradeCost" : 4360,
+		"upgradePoint" : "351,491"
+	},
+	
+	{
+		"baseAttribute" : "2,2304#",
+		"bottomPic" : 1001,
+		"level" : 2,
+		"rank" : 6,
+		"rankName" : 1,
+		"upgradeCost" : 4444,
+		"upgradePoint" : "194,491"
+	},
+	
+	{
+		"baseAttribute" : "3,115#",
+		"bottomPic" : 1001,
+		"level" : 3,
+		"rank" : 6,
+		"rankName" : 1,
+		"upgradeCost" : 4528,
+		"upgradePoint" : "179,384"
+	},
+	
+	{
+		"baseAttribute" : "4,115#",
+		"bottomPic" : 1001,
+		"level" : 4,
+		"rank" : 6,
+		"rankName" : 1,
+		"upgradeCost" : 4612,
+		"upgradePoint" : "390,415"
+	},
+	
+	{
+		"baseAttribute" : "5,115#",
+		"bottomPic" : 1001,
+		"level" : 5,
+		"rank" : 6,
+		"rankName" : 1,
+		"upgradeCost" : 4696,
+		"upgradePoint" : "372,329"
+	},
+	
+	{
+		"baseAttribute" : "6,116#",
+		"bottomPic" : 1001,
+		"level" : 6,
+		"rank" : 6,
+		"rankName" : 1,
+		"upgradeCost" : 4779,
+		"upgradePoint" : "315,236"
+	},
+	
+	{
+		"baseAttribute" : "11,116#",
+		"bottomPic" : 1001,
+		"level" : 7,
+		"rank" : 6,
+		"rankName" : 1,
+		"upgradeCost" : 4862,
+		"upgradePoint" : "381,143"
+	},
+	
+	{
+		"baseAttribute" : "12,116#",
+		"bottomPic" : 1001,
+		"level" : 8,
+		"rank" : 6,
+		"rankName" : 1,
+		"upgradeCost" : 4944,
+		"upgradePoint" : "354,55"
+	},
+	
+	{
+		"baseAttribute" : "1,116#",
+		"bottomPic" : 1001,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 7,
+		"rankName" : 1,
+		"targetAttribute" : "2,43497#4,2175#",
+		"targetAttributePer" : 1400,
+		"upgradeCost" : 5027,
+		"upgradePoint" : "351,491"
+	},
+	
+	{
+		"baseAttribute" : "2,2314#",
+		"bottomPic" : 1001,
+		"level" : 2,
+		"rank" : 7,
+		"rankName" : 1,
+		"upgradeCost" : 5108,
+		"upgradePoint" : "194,491"
+	},
+	
+	{
+		"baseAttribute" : "3,116#",
+		"bottomPic" : 1001,
+		"level" : 3,
+		"rank" : 7,
+		"rankName" : 1,
+		"upgradeCost" : 5190,
+		"upgradePoint" : "179,384"
+	},
+	
+	{
+		"baseAttribute" : "4,116#",
+		"bottomPic" : 1001,
+		"level" : 4,
+		"rank" : 7,
+		"rankName" : 1,
+		"upgradeCost" : 5272,
+		"upgradePoint" : "390,415"
+	},
+	
+	{
+		"baseAttribute" : "5,116#",
+		"bottomPic" : 1001,
+		"level" : 5,
+		"rank" : 7,
+		"rankName" : 1,
+		"upgradeCost" : 5353,
+		"upgradePoint" : "372,329"
+	},
+	
+	{
+		"baseAttribute" : "6,116#",
+		"bottomPic" : 1001,
+		"level" : 6,
+		"rank" : 7,
+		"rankName" : 1,
+		"upgradeCost" : 5433,
+		"upgradePoint" : "315,236"
+	},
+	
+	{
+		"baseAttribute" : "11,116#",
+		"bottomPic" : 1001,
+		"level" : 7,
+		"rank" : 7,
+		"rankName" : 1,
+		"upgradeCost" : 5514,
+		"upgradePoint" : "381,143"
+	},
+	
+	{
+		"baseAttribute" : "12,116#",
+		"bottomPic" : 1001,
+		"level" : 8,
+		"rank" : 7,
+		"rankName" : 1,
+		"upgradeCost" : 5594,
+		"upgradePoint" : "354,55"
+	},
+	
+	{
+		"baseAttribute" : "1,116#",
+		"bottomPic" : 1001,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 8,
+		"rankName" : 1,
+		"targetAttribute" : "2,51132#4,2557#",
+		"targetAttributePer" : 1600,
+		"upgradeCost" : 5674,
+		"upgradePoint" : "351,491"
+	},
+	
+	{
+		"baseAttribute" : "2,2324#",
+		"bottomPic" : 1001,
+		"level" : 2,
+		"rank" : 8,
+		"rankName" : 1,
+		"upgradeCost" : 5754,
+		"upgradePoint" : "194,491"
+	},
+	
+	{
+		"baseAttribute" : "3,116#",
+		"bottomPic" : 1001,
+		"level" : 3,
+		"rank" : 8,
+		"rankName" : 1,
+		"upgradeCost" : 5833,
+		"upgradePoint" : "179,384"
+	},
+	
+	{
+		"baseAttribute" : "4,116#",
+		"bottomPic" : 1001,
+		"level" : 4,
+		"rank" : 8,
+		"rankName" : 1,
+		"upgradeCost" : 5912,
+		"upgradePoint" : "390,415"
+	},
+	
+	{
+		"baseAttribute" : "5,116#",
+		"bottomPic" : 1001,
+		"level" : 5,
+		"rank" : 8,
+		"rankName" : 1,
+		"upgradeCost" : 5991,
+		"upgradePoint" : "372,329"
+	},
+	
+	{
+		"baseAttribute" : "6,116#",
+		"bottomPic" : 1001,
+		"level" : 6,
+		"rank" : 8,
+		"rankName" : 1,
+		"upgradeCost" : 6069,
+		"upgradePoint" : "315,236"
+	},
+	
+	{
+		"baseAttribute" : "11,116#",
+		"bottomPic" : 1001,
+		"level" : 7,
+		"rank" : 8,
+		"rankName" : 1,
+		"upgradeCost" : 6147,
+		"upgradePoint" : "381,143"
+	},
+	
+	{
+		"baseAttribute" : "12,116#",
+		"bottomPic" : 1001,
+		"level" : 8,
+		"rank" : 8,
+		"rankName" : 1,
+		"upgradeCost" : 6225,
+		"upgradePoint" : "354,55"
+	},
+	
+	{
+		"baseAttribute" : "1,117#",
+		"bottomPic" : 1001,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 9,
+		"rankName" : 1,
+		"targetAttribute" : "2,58881#4,2944#",
+		"targetAttributePer" : 1800,
+		"upgradeCost" : 6303,
+		"upgradePoint" : "351,491"
+	},
+	
+	{
+		"baseAttribute" : "2,2332#",
+		"bottomPic" : 1001,
+		"level" : 2,
+		"rank" : 9,
+		"rankName" : 1,
+		"upgradeCost" : 6380,
+		"upgradePoint" : "194,491"
+	},
+	
+	{
+		"baseAttribute" : "3,117#",
+		"bottomPic" : 1001,
+		"level" : 3,
+		"rank" : 9,
+		"rankName" : 1,
+		"upgradeCost" : 6457,
+		"upgradePoint" : "179,384"
+	},
+	
+	{
+		"baseAttribute" : "4,117#",
+		"bottomPic" : 1001,
+		"level" : 4,
+		"rank" : 9,
+		"rankName" : 1,
+		"upgradeCost" : 6534,
+		"upgradePoint" : "390,415"
+	},
+	
+	{
+		"baseAttribute" : "5,117#",
+		"bottomPic" : 1001,
+		"level" : 5,
+		"rank" : 9,
+		"rankName" : 1,
+		"upgradeCost" : 6611,
+		"upgradePoint" : "372,329"
+	},
+	
+	{
+		"baseAttribute" : "6,117#",
+		"bottomPic" : 1001,
+		"level" : 6,
+		"rank" : 9,
+		"rankName" : 1,
+		"upgradeCost" : 6687,
+		"upgradePoint" : "315,236"
+	},
+	
+	{
+		"baseAttribute" : "11,117#",
+		"bottomPic" : 1001,
+		"level" : 7,
+		"rank" : 9,
+		"rankName" : 1,
+		"upgradeCost" : 6763,
+		"upgradePoint" : "381,143"
+	},
+	
+	{
+		"baseAttribute" : "12,117#",
+		"bottomPic" : 1001,
+		"level" : 8,
+		"rank" : 9,
+		"rankName" : 1,
+		"upgradeCost" : 6839,
+		"upgradePoint" : "354,55"
+	},
+	
+	{
+		"baseAttribute" : "1,117#",
+		"bottomPic" : 1001,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 10,
+		"rankName" : 1,
+		"targetAttribute" : "2,66747#4,3337#",
+		"targetAttributePer" : 2000,
+		"upgradeCost" : 6914,
+		"upgradePoint" : "351,491"
+	},
+	
+	{
+		"baseAttribute" : "2,2342#",
+		"bottomPic" : 1001,
+		"level" : 2,
+		"rank" : 10,
+		"rankName" : 1,
+		"upgradeCost" : 6989,
+		"upgradePoint" : "194,491"
+	},
+	
+	{
+		"baseAttribute" : "3,117#",
+		"bottomPic" : 1001,
+		"level" : 3,
+		"rank" : 10,
+		"rankName" : 1,
+		"upgradeCost" : 7064,
+		"upgradePoint" : "179,384"
+	},
+	
+	{
+		"baseAttribute" : "4,117#",
+		"bottomPic" : 1001,
+		"level" : 4,
+		"rank" : 10,
+		"rankName" : 1,
+		"upgradeCost" : 7139,
+		"upgradePoint" : "390,415"
+	},
+	
+	{
+		"baseAttribute" : "5,117#",
+		"bottomPic" : 1001,
+		"level" : 5,
+		"rank" : 10,
+		"rankName" : 1,
+		"upgradeCost" : 7213,
+		"upgradePoint" : "372,329"
+	},
+	
+	{
+		"baseAttribute" : "6,117#",
+		"bottomPic" : 1001,
+		"level" : 6,
+		"rank" : 10,
+		"rankName" : 1,
+		"upgradeCost" : 7287,
+		"upgradePoint" : "315,236"
+	},
+	
+	{
+		"baseAttribute" : "11,117#",
+		"bottomPic" : 1001,
+		"level" : 7,
+		"rank" : 10,
+		"rankName" : 1,
+		"upgradeCost" : 7361,
+		"upgradePoint" : "381,143"
+	},
+	
+	{
+		"baseAttribute" : "12,117#",
+		"bottomPic" : 1001,
+		"level" : 8,
+		"rank" : 10,
+		"rankName" : 1,
+		"upgradeCost" : 7435,
+		"upgradePoint" : "354,55"
+	},
+	
+	{
+		"baseAttribute" : "1,118#",
+		"bottomPic" : 1002,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 11,
+		"rankName" : 2,
+		"targetAttribute" : "2,74730#4,3736#",
+		"targetAttributePer" : 2200,
+		"upgradeCost" : 7508,
+		"upgradePoint" : "218,466"
+	},
+	
+	{
+		"baseAttribute" : "2,2352#",
+		"bottomPic" : 1002,
+		"level" : 2,
+		"rank" : 11,
+		"rankName" : 2,
+		"upgradeCost" : 7582,
+		"upgradePoint" : "356,484"
+	},
+	
+	{
+		"baseAttribute" : "3,118#",
+		"bottomPic" : 1002,
+		"level" : 3,
+		"rank" : 11,
+		"rankName" : 2,
+		"upgradeCost" : 7654,
+		"upgradePoint" : "391,379"
+	},
+	
+	{
+		"baseAttribute" : "4,118#",
+		"bottomPic" : 1002,
+		"level" : 4,
+		"rank" : 11,
+		"rankName" : 2,
+		"upgradeCost" : 7727,
+		"upgradePoint" : "184,318"
+	},
+	
+	{
+		"baseAttribute" : "5,118#",
+		"bottomPic" : 1002,
+		"level" : 5,
+		"rank" : 11,
+		"rankName" : 2,
+		"upgradeCost" : 7799,
+		"upgradePoint" : "396,252"
+	},
+	
+	{
+		"baseAttribute" : "6,118#",
+		"bottomPic" : 1002,
+		"level" : 6,
+		"rank" : 11,
+		"rankName" : 2,
+		"upgradeCost" : 7871,
+		"upgradePoint" : "225,174"
+	},
+	
+	{
+		"baseAttribute" : "11,118#",
+		"bottomPic" : 1002,
+		"level" : 7,
+		"rank" : 11,
+		"rankName" : 2,
+		"upgradeCost" : 7943,
+		"upgradePoint" : "348,114"
+	},
+	
+	{
+		"baseAttribute" : "12,118#",
+		"bottomPic" : 1002,
+		"level" : 8,
+		"rank" : 11,
+		"rankName" : 2,
+		"upgradeCost" : 8015,
+		"upgradePoint" : "197,43"
+	},
+	
+	{
+		"baseAttribute" : "1,118#",
+		"bottomPic" : 1002,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 12,
+		"rankName" : 2,
+		"targetAttribute" : "2,82833#4,4142#",
+		"targetAttributePer" : 2400,
+		"upgradeCost" : 8086,
+		"upgradePoint" : "218,466"
+	},
+	
+	{
+		"baseAttribute" : "2,2360#",
+		"bottomPic" : 1002,
+		"level" : 2,
+		"rank" : 12,
+		"rankName" : 2,
+		"upgradeCost" : 8157,
+		"upgradePoint" : "356,484"
+	},
+	
+	{
+		"baseAttribute" : "3,118#",
+		"bottomPic" : 1002,
+		"level" : 3,
+		"rank" : 12,
+		"rankName" : 2,
+		"upgradeCost" : 8228,
+		"upgradePoint" : "391,379"
+	},
+	
+	{
+		"baseAttribute" : "4,118#",
+		"bottomPic" : 1002,
+		"level" : 4,
+		"rank" : 12,
+		"rankName" : 2,
+		"upgradeCost" : 8299,
+		"upgradePoint" : "184,318"
+	},
+	
+	{
+		"baseAttribute" : "5,118#",
+		"bottomPic" : 1002,
+		"level" : 5,
+		"rank" : 12,
+		"rankName" : 2,
+		"upgradeCost" : 8369,
+		"upgradePoint" : "396,252"
+	},
+	
+	{
+		"baseAttribute" : "6,118#",
+		"bottomPic" : 1002,
+		"level" : 6,
+		"rank" : 12,
+		"rankName" : 2,
+		"upgradeCost" : 8440,
+		"upgradePoint" : "225,174"
+	},
+	
+	{
+		"baseAttribute" : "11,118#",
+		"bottomPic" : 1002,
+		"level" : 7,
+		"rank" : 12,
+		"rankName" : 2,
+		"upgradeCost" : 8509,
+		"upgradePoint" : "348,114"
+	},
+	
+	{
+		"baseAttribute" : "12,118#",
+		"bottomPic" : 1002,
+		"level" : 8,
+		"rank" : 12,
+		"rankName" : 2,
+		"upgradeCost" : 8579,
+		"upgradePoint" : "197,43"
+	},
+	
+	{
+		"baseAttribute" : "1,118#",
+		"bottomPic" : 1002,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 13,
+		"rankName" : 2,
+		"targetAttribute" : "2,91058#4,4553#",
+		"targetAttributePer" : 2600,
+		"upgradeCost" : 8649,
+		"upgradePoint" : "218,466"
+	},
+	
+	{
+		"baseAttribute" : "2,2370#",
+		"bottomPic" : 1002,
+		"level" : 2,
+		"rank" : 13,
+		"rankName" : 2,
+		"upgradeCost" : 8718,
+		"upgradePoint" : "356,484"
+	},
+	
+	{
+		"baseAttribute" : "3,119#",
+		"bottomPic" : 1002,
+		"level" : 3,
+		"rank" : 13,
+		"rankName" : 2,
+		"upgradeCost" : 8787,
+		"upgradePoint" : "391,379"
+	},
+	
+	{
+		"baseAttribute" : "4,119#",
+		"bottomPic" : 1002,
+		"level" : 4,
+		"rank" : 13,
+		"rankName" : 2,
+		"upgradeCost" : 8856,
+		"upgradePoint" : "184,318"
+	},
+	
+	{
+		"baseAttribute" : "5,119#",
+		"bottomPic" : 1002,
+		"level" : 5,
+		"rank" : 13,
+		"rankName" : 2,
+		"upgradeCost" : 8924,
+		"upgradePoint" : "396,252"
+	},
+	
+	{
+		"baseAttribute" : "6,119#",
+		"bottomPic" : 1002,
+		"level" : 6,
+		"rank" : 13,
+		"rankName" : 2,
+		"upgradeCost" : 8992,
+		"upgradePoint" : "225,174"
+	},
+	
+	{
+		"baseAttribute" : "11,119#",
+		"bottomPic" : 1002,
+		"level" : 7,
+		"rank" : 13,
+		"rankName" : 2,
+		"upgradeCost" : 9060,
+		"upgradePoint" : "348,114"
+	},
+	
+	{
+		"baseAttribute" : "12,119#",
+		"bottomPic" : 1002,
+		"level" : 8,
+		"rank" : 13,
+		"rankName" : 2,
+		"upgradeCost" : 9128,
+		"upgradePoint" : "197,43"
+	},
+	
+	{
+		"baseAttribute" : "1,119#",
+		"bottomPic" : 1002,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 14,
+		"rankName" : 2,
+		"targetAttribute" : "2,99407#4,4970#",
+		"targetAttributePer" : 2800,
+		"upgradeCost" : 9196,
+		"upgradePoint" : "218,466"
+	},
+	
+	{
+		"baseAttribute" : "2,2380#",
+		"bottomPic" : 1002,
+		"level" : 2,
+		"rank" : 14,
+		"rankName" : 2,
+		"upgradeCost" : 9263,
+		"upgradePoint" : "356,484"
+	},
+	
+	{
+		"baseAttribute" : "3,119#",
+		"bottomPic" : 1002,
+		"level" : 3,
+		"rank" : 14,
+		"rankName" : 2,
+		"upgradeCost" : 9330,
+		"upgradePoint" : "391,379"
+	},
+	
+	{
+		"baseAttribute" : "4,119#",
+		"bottomPic" : 1002,
+		"level" : 4,
+		"rank" : 14,
+		"rankName" : 2,
+		"upgradeCost" : 9397,
+		"upgradePoint" : "184,318"
+	},
+	
+	{
+		"baseAttribute" : "5,119#",
+		"bottomPic" : 1002,
+		"level" : 5,
+		"rank" : 14,
+		"rankName" : 2,
+		"upgradeCost" : 9464,
+		"upgradePoint" : "396,252"
+	},
+	
+	{
+		"baseAttribute" : "6,119#",
+		"bottomPic" : 1002,
+		"level" : 6,
+		"rank" : 14,
+		"rankName" : 2,
+		"upgradeCost" : 9530,
+		"upgradePoint" : "225,174"
+	},
+	
+	{
+		"baseAttribute" : "11,119#",
+		"bottomPic" : 1002,
+		"level" : 7,
+		"rank" : 14,
+		"rankName" : 2,
+		"upgradeCost" : 9597,
+		"upgradePoint" : "348,114"
+	},
+	
+	{
+		"baseAttribute" : "12,119#",
+		"bottomPic" : 1002,
+		"level" : 8,
+		"rank" : 14,
+		"rankName" : 2,
+		"upgradeCost" : 9663,
+		"upgradePoint" : "197,43"
+	},
+	
+	{
+		"baseAttribute" : "1,119#",
+		"bottomPic" : 1002,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 15,
+		"rankName" : 2,
+		"targetAttribute" : "2,107880#4,5394#",
+		"targetAttributePer" : 3000,
+		"upgradeCost" : 9729,
+		"upgradePoint" : "218,466"
+	},
+	
+	{
+		"baseAttribute" : "2,2390#",
+		"bottomPic" : 1002,
+		"level" : 2,
+		"rank" : 15,
+		"rankName" : 2,
+		"upgradeCost" : 9794,
+		"upgradePoint" : "356,484"
+	},
+	
+	{
+		"baseAttribute" : "3,120#",
+		"bottomPic" : 1002,
+		"level" : 3,
+		"rank" : 15,
+		"rankName" : 2,
+		"upgradeCost" : 9860,
+		"upgradePoint" : "391,379"
+	},
+	
+	{
+		"baseAttribute" : "4,120#",
+		"bottomPic" : 1002,
+		"level" : 4,
+		"rank" : 15,
+		"rankName" : 2,
+		"upgradeCost" : 9925,
+		"upgradePoint" : "184,318"
+	},
+	
+	{
+		"baseAttribute" : "5,120#",
+		"bottomPic" : 1002,
+		"level" : 5,
+		"rank" : 15,
+		"rankName" : 2,
+		"upgradeCost" : 9990,
+		"upgradePoint" : "396,252"
+	},
+	
+	{
+		"baseAttribute" : "6,120#",
+		"bottomPic" : 1002,
+		"level" : 6,
+		"rank" : 15,
+		"rankName" : 2,
+		"upgradeCost" : 10055,
+		"upgradePoint" : "225,174"
+	},
+	
+	{
+		"baseAttribute" : "11,120#",
+		"bottomPic" : 1002,
+		"level" : 7,
+		"rank" : 15,
+		"rankName" : 2,
+		"upgradeCost" : 10119,
+		"upgradePoint" : "348,114"
+	},
+	
+	{
+		"baseAttribute" : "12,120#",
+		"bottomPic" : 1002,
+		"level" : 8,
+		"rank" : 15,
+		"rankName" : 2,
+		"upgradeCost" : 10183,
+		"upgradePoint" : "197,43"
+	},
+	
+	{
+		"baseAttribute" : "1,120#",
+		"bottomPic" : 1002,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 16,
+		"rankName" : 2,
+		"targetAttribute" : "2,116481#4,5824#",
+		"targetAttributePer" : 3200,
+		"upgradeCost" : 10248,
+		"upgradePoint" : "218,466"
+	},
+	
+	{
+		"baseAttribute" : "2,2398#",
+		"bottomPic" : 1002,
+		"level" : 2,
+		"rank" : 16,
+		"rankName" : 2,
+		"upgradeCost" : 10311,
+		"upgradePoint" : "356,484"
+	},
+	
+	{
+		"baseAttribute" : "3,120#",
+		"bottomPic" : 1002,
+		"level" : 3,
+		"rank" : 16,
+		"rankName" : 2,
+		"upgradeCost" : 10375,
+		"upgradePoint" : "391,379"
+	},
+	
+	{
+		"baseAttribute" : "4,120#",
+		"bottomPic" : 1002,
+		"level" : 4,
+		"rank" : 16,
+		"rankName" : 2,
+		"upgradeCost" : 10439,
+		"upgradePoint" : "184,318"
+	},
+	
+	{
+		"baseAttribute" : "5,120#",
+		"bottomPic" : 1002,
+		"level" : 5,
+		"rank" : 16,
+		"rankName" : 2,
+		"upgradeCost" : 10502,
+		"upgradePoint" : "396,252"
+	},
+	
+	{
+		"baseAttribute" : "6,120#",
+		"bottomPic" : 1002,
+		"level" : 6,
+		"rank" : 16,
+		"rankName" : 2,
+		"upgradeCost" : 10565,
+		"upgradePoint" : "225,174"
+	},
+	
+	{
+		"baseAttribute" : "11,120#",
+		"bottomPic" : 1002,
+		"level" : 7,
+		"rank" : 16,
+		"rankName" : 2,
+		"upgradeCost" : 10628,
+		"upgradePoint" : "348,114"
+	},
+	
+	{
+		"baseAttribute" : "12,120#",
+		"bottomPic" : 1002,
+		"level" : 8,
+		"rank" : 16,
+		"rankName" : 2,
+		"upgradeCost" : 10691,
+		"upgradePoint" : "197,43"
+	},
+	
+	{
+		"baseAttribute" : "1,120#",
+		"bottomPic" : 1002,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 17,
+		"rankName" : 2,
+		"targetAttribute" : "2,125210#4,6260#",
+		"targetAttributePer" : 3400,
+		"upgradeCost" : 10753,
+		"upgradePoint" : "218,466"
+	},
+	
+	{
+		"baseAttribute" : "2,2408#",
+		"bottomPic" : 1002,
+		"level" : 2,
+		"rank" : 17,
+		"rankName" : 2,
+		"upgradeCost" : 10815,
+		"upgradePoint" : "356,484"
+	},
+	
+	{
+		"baseAttribute" : "3,120#",
+		"bottomPic" : 1002,
+		"level" : 3,
+		"rank" : 17,
+		"rankName" : 2,
+		"upgradeCost" : 10878,
+		"upgradePoint" : "391,379"
+	},
+	
+	{
+		"baseAttribute" : "4,120#",
+		"bottomPic" : 1002,
+		"level" : 4,
+		"rank" : 17,
+		"rankName" : 2,
+		"upgradeCost" : 10939,
+		"upgradePoint" : "184,318"
+	},
+	
+	{
+		"baseAttribute" : "5,121#",
+		"bottomPic" : 1002,
+		"level" : 5,
+		"rank" : 17,
+		"rankName" : 2,
+		"upgradeCost" : 11001,
+		"upgradePoint" : "396,252"
+	},
+	
+	{
+		"baseAttribute" : "6,121#",
+		"bottomPic" : 1002,
+		"level" : 6,
+		"rank" : 17,
+		"rankName" : 2,
+		"upgradeCost" : 11063,
+		"upgradePoint" : "225,174"
+	},
+	
+	{
+		"baseAttribute" : "11,121#",
+		"bottomPic" : 1002,
+		"level" : 7,
+		"rank" : 17,
+		"rankName" : 2,
+		"upgradeCost" : 11124,
+		"upgradePoint" : "348,114"
+	},
+	
+	{
+		"baseAttribute" : "12,121#",
+		"bottomPic" : 1002,
+		"level" : 8,
+		"rank" : 17,
+		"rankName" : 2,
+		"upgradeCost" : 11185,
+		"upgradePoint" : "197,43"
+	},
+	
+	{
+		"baseAttribute" : "1,121#",
+		"bottomPic" : 1002,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 18,
+		"rankName" : 2,
+		"targetAttribute" : "2,134071#4,6704#",
+		"targetAttributePer" : 3600,
+		"upgradeCost" : 11246,
+		"upgradePoint" : "218,466"
+	},
+	
+	{
+		"baseAttribute" : "2,2418#",
+		"bottomPic" : 1002,
+		"level" : 2,
+		"rank" : 18,
+		"rankName" : 2,
+		"upgradeCost" : 11307,
+		"upgradePoint" : "356,484"
+	},
+	
+	{
+		"baseAttribute" : "3,121#",
+		"bottomPic" : 1002,
+		"level" : 3,
+		"rank" : 18,
+		"rankName" : 2,
+		"upgradeCost" : 11367,
+		"upgradePoint" : "391,379"
+	},
+	
+	{
+		"baseAttribute" : "4,121#",
+		"bottomPic" : 1002,
+		"level" : 4,
+		"rank" : 18,
+		"rankName" : 2,
+		"upgradeCost" : 11427,
+		"upgradePoint" : "184,318"
+	},
+	
+	{
+		"baseAttribute" : "5,121#",
+		"bottomPic" : 1002,
+		"level" : 5,
+		"rank" : 18,
+		"rankName" : 2,
+		"upgradeCost" : 11488,
+		"upgradePoint" : "396,252"
+	},
+	
+	{
+		"baseAttribute" : "6,121#",
+		"bottomPic" : 1002,
+		"level" : 6,
+		"rank" : 18,
+		"rankName" : 2,
+		"upgradeCost" : 11548,
+		"upgradePoint" : "225,174"
+	},
+	
+	{
+		"baseAttribute" : "11,121#",
+		"bottomPic" : 1002,
+		"level" : 7,
+		"rank" : 18,
+		"rankName" : 2,
+		"upgradeCost" : 11607,
+		"upgradePoint" : "348,114"
+	},
+	
+	{
+		"baseAttribute" : "12,121#",
+		"bottomPic" : 1002,
+		"level" : 8,
+		"rank" : 18,
+		"rankName" : 2,
+		"upgradeCost" : 11667,
+		"upgradePoint" : "197,43"
+	},
+	
+	{
+		"baseAttribute" : "1,121#",
+		"bottomPic" : 1002,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 19,
+		"rankName" : 2,
+		"targetAttribute" : "2,143064#4,7153#",
+		"targetAttributePer" : 3800,
+		"upgradeCost" : 11726,
+		"upgradePoint" : "218,466"
+	},
+	
+	{
+		"baseAttribute" : "2,2428#",
+		"bottomPic" : 1002,
+		"level" : 2,
+		"rank" : 19,
+		"rankName" : 2,
+		"upgradeCost" : 11785,
+		"upgradePoint" : "356,484"
+	},
+	
+	{
+		"baseAttribute" : "3,121#",
+		"bottomPic" : 1002,
+		"level" : 3,
+		"rank" : 19,
+		"rankName" : 2,
+		"upgradeCost" : 11845,
+		"upgradePoint" : "391,379"
+	},
+	
+	{
+		"baseAttribute" : "4,122#",
+		"bottomPic" : 1002,
+		"level" : 4,
+		"rank" : 19,
+		"rankName" : 2,
+		"upgradeCost" : 11903,
+		"upgradePoint" : "184,318"
+	},
+	
+	{
+		"baseAttribute" : "5,122#",
+		"bottomPic" : 1002,
+		"level" : 5,
+		"rank" : 19,
+		"rankName" : 2,
+		"upgradeCost" : 11962,
+		"upgradePoint" : "396,252"
+	},
+	
+	{
+		"baseAttribute" : "6,122#",
+		"bottomPic" : 1002,
+		"level" : 6,
+		"rank" : 19,
+		"rankName" : 2,
+		"upgradeCost" : 12020,
+		"upgradePoint" : "225,174"
+	},
+	
+	{
+		"baseAttribute" : "11,122#",
+		"bottomPic" : 1002,
+		"level" : 7,
+		"rank" : 19,
+		"rankName" : 2,
+		"upgradeCost" : 12079,
+		"upgradePoint" : "348,114"
+	},
+	
+	{
+		"baseAttribute" : "12,122#",
+		"bottomPic" : 1002,
+		"level" : 8,
+		"rank" : 19,
+		"rankName" : 2,
+		"upgradeCost" : 12137,
+		"upgradePoint" : "197,43"
+	},
+	
+	{
+		"baseAttribute" : "1,122#",
+		"bottomPic" : 1002,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 20,
+		"rankName" : 2,
+		"targetAttribute" : "2,152193#4,7610#",
+		"targetAttributePer" : 4000,
+		"upgradeCost" : 12195,
+		"upgradePoint" : "218,466"
+	},
+	
+	{
+		"baseAttribute" : "2,2438#",
+		"bottomPic" : 1002,
+		"level" : 2,
+		"rank" : 20,
+		"rankName" : 2,
+		"upgradeCost" : 12253,
+		"upgradePoint" : "356,484"
+	},
+	
+	{
+		"baseAttribute" : "3,122#",
+		"bottomPic" : 1002,
+		"level" : 3,
+		"rank" : 20,
+		"rankName" : 2,
+		"upgradeCost" : 12310,
+		"upgradePoint" : "391,379"
+	},
+	
+	{
+		"baseAttribute" : "4,122#",
+		"bottomPic" : 1002,
+		"level" : 4,
+		"rank" : 20,
+		"rankName" : 2,
+		"upgradeCost" : 12368,
+		"upgradePoint" : "184,318"
+	},
+	
+	{
+		"baseAttribute" : "5,122#",
+		"bottomPic" : 1002,
+		"level" : 5,
+		"rank" : 20,
+		"rankName" : 2,
+		"upgradeCost" : 12425,
+		"upgradePoint" : "396,252"
+	},
+	
+	{
+		"baseAttribute" : "6,122#",
+		"bottomPic" : 1002,
+		"level" : 6,
+		"rank" : 20,
+		"rankName" : 2,
+		"upgradeCost" : 12482,
+		"upgradePoint" : "225,174"
+	},
+	
+	{
+		"baseAttribute" : "11,122#",
+		"bottomPic" : 1002,
+		"level" : 7,
+		"rank" : 20,
+		"rankName" : 2,
+		"upgradeCost" : 12539,
+		"upgradePoint" : "348,114"
+	},
+	
+	{
+		"baseAttribute" : "12,122#",
+		"bottomPic" : 1002,
+		"level" : 8,
+		"rank" : 20,
+		"rankName" : 2,
+		"upgradeCost" : 12595,
+		"upgradePoint" : "197,43"
+	},
+	
+	{
+		"baseAttribute" : "1,122#",
+		"bottomPic" : 1003,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 21,
+		"rankName" : 3,
+		"targetAttribute" : "2,161458#4,8073#",
+		"targetAttributePer" : 4200,
+		"upgradeCost" : 12652,
+		"upgradePoint" : "164,388"
+	},
+	
+	{
+		"baseAttribute" : "2,2448#",
+		"bottomPic" : 1003,
+		"level" : 2,
+		"rank" : 21,
+		"rankName" : 3,
+		"upgradeCost" : 12708,
+		"upgradePoint" : "290,497"
+	},
+	
+	{
+		"baseAttribute" : "3,122#",
+		"bottomPic" : 1003,
+		"level" : 3,
+		"rank" : 21,
+		"rankName" : 3,
+		"upgradeCost" : 12764,
+		"upgradePoint" : "433,450"
+	},
+	
+	{
+		"baseAttribute" : "4,122#",
+		"bottomPic" : 1003,
+		"level" : 4,
+		"rank" : 21,
+		"rankName" : 3,
+		"upgradeCost" : 12821,
+		"upgradePoint" : "402,310"
+	},
+	
+	{
+		"baseAttribute" : "5,122#",
+		"bottomPic" : 1003,
+		"level" : 5,
+		"rank" : 21,
+		"rankName" : 3,
+		"upgradeCost" : 12876,
+		"upgradePoint" : "253,250"
+	},
+	
+	{
+		"baseAttribute" : "6,123#",
+		"bottomPic" : 1003,
+		"level" : 6,
+		"rank" : 21,
+		"rankName" : 3,
+		"upgradeCost" : 12932,
+		"upgradePoint" : "108,154"
+	},
+	
+	{
+		"baseAttribute" : "11,123#",
+		"bottomPic" : 1003,
+		"level" : 7,
+		"rank" : 21,
+		"rankName" : 3,
+		"upgradeCost" : 12988,
+		"upgradePoint" : "334,133"
+	},
+	
+	{
+		"baseAttribute" : "12,123#",
+		"bottomPic" : 1003,
+		"level" : 8,
+		"rank" : 21,
+		"rankName" : 3,
+		"upgradeCost" : 13043,
+		"upgradePoint" : "310,50"
+	},
+	
+	{
+		"baseAttribute" : "1,123#",
+		"bottomPic" : 1003,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 22,
+		"rankName" : 3,
+		"targetAttribute" : "2,170862#4,8543#",
+		"targetAttributePer" : 4400,
+		"upgradeCost" : 13098,
+		"upgradePoint" : "164,388"
+	},
+	
+	{
+		"baseAttribute" : "2,2458#",
+		"bottomPic" : 1003,
+		"level" : 2,
+		"rank" : 22,
+		"rankName" : 3,
+		"upgradeCost" : 13153,
+		"upgradePoint" : "290,497"
+	},
+	
+	{
+		"baseAttribute" : "3,123#",
+		"bottomPic" : 1003,
+		"level" : 3,
+		"rank" : 22,
+		"rankName" : 3,
+		"upgradeCost" : 13208,
+		"upgradePoint" : "433,450"
+	},
+	
+	{
+		"baseAttribute" : "4,123#",
+		"bottomPic" : 1003,
+		"level" : 4,
+		"rank" : 22,
+		"rankName" : 3,
+		"upgradeCost" : 13263,
+		"upgradePoint" : "402,310"
+	},
+	
+	{
+		"baseAttribute" : "5,123#",
+		"bottomPic" : 1003,
+		"level" : 5,
+		"rank" : 22,
+		"rankName" : 3,
+		"upgradeCost" : 13317,
+		"upgradePoint" : "253,250"
+	},
+	
+	{
+		"baseAttribute" : "6,123#",
+		"bottomPic" : 1003,
+		"level" : 6,
+		"rank" : 22,
+		"rankName" : 3,
+		"upgradeCost" : 13372,
+		"upgradePoint" : "108,154"
+	},
+	
+	{
+		"baseAttribute" : "11,123#",
+		"bottomPic" : 1003,
+		"level" : 7,
+		"rank" : 22,
+		"rankName" : 3,
+		"upgradeCost" : 13426,
+		"upgradePoint" : "334,133"
+	},
+	
+	{
+		"baseAttribute" : "12,123#",
+		"bottomPic" : 1003,
+		"level" : 8,
+		"rank" : 22,
+		"rankName" : 3,
+		"upgradeCost" : 13480,
+		"upgradePoint" : "310,50"
+	},
+	
+	{
+		"baseAttribute" : "1,123#",
+		"bottomPic" : 1003,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 23,
+		"rankName" : 3,
+		"targetAttribute" : "2,180408#4,9020#",
+		"targetAttributePer" : 4600,
+		"upgradeCost" : 13534,
+		"upgradePoint" : "164,388"
+	},
+	
+	{
+		"baseAttribute" : "2,2466#",
+		"bottomPic" : 1003,
+		"level" : 2,
+		"rank" : 23,
+		"rankName" : 3,
+		"upgradeCost" : 13587,
+		"upgradePoint" : "290,497"
+	},
+	
+	{
+		"baseAttribute" : "3,123#",
+		"bottomPic" : 1003,
+		"level" : 3,
+		"rank" : 23,
+		"rankName" : 3,
+		"upgradeCost" : 13641,
+		"upgradePoint" : "433,450"
+	},
+	
+	{
+		"baseAttribute" : "4,124#",
+		"bottomPic" : 1003,
+		"level" : 4,
+		"rank" : 23,
+		"rankName" : 3,
+		"upgradeCost" : 13694,
+		"upgradePoint" : "402,310"
+	},
+	
+	{
+		"baseAttribute" : "5,124#",
+		"bottomPic" : 1003,
+		"level" : 5,
+		"rank" : 23,
+		"rankName" : 3,
+		"upgradeCost" : 13748,
+		"upgradePoint" : "253,250"
+	},
+	
+	{
+		"baseAttribute" : "6,124#",
+		"bottomPic" : 1003,
+		"level" : 6,
+		"rank" : 23,
+		"rankName" : 3,
+		"upgradeCost" : 13801,
+		"upgradePoint" : "108,154"
+	},
+	
+	{
+		"baseAttribute" : "11,124#",
+		"bottomPic" : 1003,
+		"level" : 7,
+		"rank" : 23,
+		"rankName" : 3,
+		"upgradeCost" : 13854,
+		"upgradePoint" : "334,133"
+	},
+	
+	{
+		"baseAttribute" : "12,124#",
+		"bottomPic" : 1003,
+		"level" : 8,
+		"rank" : 23,
+		"rankName" : 3,
+		"upgradeCost" : 13906,
+		"upgradePoint" : "310,50"
+	},
+	
+	{
+		"baseAttribute" : "1,124#",
+		"bottomPic" : 1003,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 24,
+		"rankName" : 3,
+		"targetAttribute" : "2,190096#4,9505#",
+		"targetAttributePer" : 4800,
+		"upgradeCost" : 13959,
+		"upgradePoint" : "164,388"
+	},
+	
+	{
+		"baseAttribute" : "2,2476#",
+		"bottomPic" : 1003,
+		"level" : 2,
+		"rank" : 24,
+		"rankName" : 3,
+		"upgradeCost" : 14011,
+		"upgradePoint" : "290,497"
+	},
+	
+	{
+		"baseAttribute" : "3,124#",
+		"bottomPic" : 1003,
+		"level" : 3,
+		"rank" : 24,
+		"rankName" : 3,
+		"upgradeCost" : 14064,
+		"upgradePoint" : "433,450"
+	},
+	
+	{
+		"baseAttribute" : "4,124#",
+		"bottomPic" : 1003,
+		"level" : 4,
+		"rank" : 24,
+		"rankName" : 3,
+		"upgradeCost" : 14116,
+		"upgradePoint" : "402,310"
+	},
+	
+	{
+		"baseAttribute" : "5,124#",
+		"bottomPic" : 1003,
+		"level" : 5,
+		"rank" : 24,
+		"rankName" : 3,
+		"upgradeCost" : 14168,
+		"upgradePoint" : "253,250"
+	},
+	
+	{
+		"baseAttribute" : "6,124#",
+		"bottomPic" : 1003,
+		"level" : 6,
+		"rank" : 24,
+		"rankName" : 3,
+		"upgradeCost" : 14220,
+		"upgradePoint" : "108,154"
+	},
+	
+	{
+		"baseAttribute" : "11,124#",
+		"bottomPic" : 1003,
+		"level" : 7,
+		"rank" : 24,
+		"rankName" : 3,
+		"upgradeCost" : 14272,
+		"upgradePoint" : "334,133"
+	},
+	
+	{
+		"baseAttribute" : "12,124#",
+		"bottomPic" : 1003,
+		"level" : 8,
+		"rank" : 24,
+		"rankName" : 3,
+		"upgradeCost" : 14323,
+		"upgradePoint" : "310,50"
+	},
+	
+	{
+		"baseAttribute" : "1,124#",
+		"bottomPic" : 1003,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 25,
+		"rankName" : 3,
+		"targetAttribute" : "2,199930#4,9996#",
+		"targetAttributePer" : 5000,
+		"upgradeCost" : 14375,
+		"upgradePoint" : "164,388"
+	},
+	
+	{
+		"baseAttribute" : "2,2486#",
+		"bottomPic" : 1003,
+		"level" : 2,
+		"rank" : 25,
+		"rankName" : 3,
+		"upgradeCost" : 14426,
+		"upgradePoint" : "290,497"
+	},
+	
+	{
+		"baseAttribute" : "3,124#",
+		"bottomPic" : 1003,
+		"level" : 3,
+		"rank" : 25,
+		"rankName" : 3,
+		"upgradeCost" : 14477,
+		"upgradePoint" : "433,450"
+	},
+	
+	{
+		"baseAttribute" : "4,124#",
+		"bottomPic" : 1003,
+		"level" : 4,
+		"rank" : 25,
+		"rankName" : 3,
+		"upgradeCost" : 14528,
+		"upgradePoint" : "402,310"
+	},
+	
+	{
+		"baseAttribute" : "5,124#",
+		"bottomPic" : 1003,
+		"level" : 5,
+		"rank" : 25,
+		"rankName" : 3,
+		"upgradeCost" : 14579,
+		"upgradePoint" : "253,250"
+	},
+	
+	{
+		"baseAttribute" : "6,125#",
+		"bottomPic" : 1003,
+		"level" : 6,
+		"rank" : 25,
+		"rankName" : 3,
+		"upgradeCost" : 14629,
+		"upgradePoint" : "108,154"
+	},
+	
+	{
+		"baseAttribute" : "11,125#",
+		"bottomPic" : 1003,
+		"level" : 7,
+		"rank" : 25,
+		"rankName" : 3,
+		"upgradeCost" : 14680,
+		"upgradePoint" : "334,133"
+	},
+	
+	{
+		"baseAttribute" : "12,125#",
+		"bottomPic" : 1003,
+		"level" : 8,
+		"rank" : 25,
+		"rankName" : 3,
+		"upgradeCost" : 14730,
+		"upgradePoint" : "310,50"
+	},
+	
+	{
+		"baseAttribute" : "1,125#",
+		"bottomPic" : 1003,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 26,
+		"rankName" : 3,
+		"targetAttribute" : "2,209911#4,10496#",
+		"targetAttributePer" : 5200,
+		"upgradeCost" : 14781,
+		"upgradePoint" : "164,388"
+	},
+	
+	{
+		"baseAttribute" : "2,2496#",
+		"bottomPic" : 1003,
+		"level" : 2,
+		"rank" : 26,
+		"rankName" : 3,
+		"upgradeCost" : 14831,
+		"upgradePoint" : "290,497"
+	},
+	
+	{
+		"baseAttribute" : "3,125#",
+		"bottomPic" : 1003,
+		"level" : 3,
+		"rank" : 26,
+		"rankName" : 3,
+		"upgradeCost" : 14881,
+		"upgradePoint" : "433,450"
+	},
+	
+	{
+		"baseAttribute" : "4,125#",
+		"bottomPic" : 1003,
+		"level" : 4,
+		"rank" : 26,
+		"rankName" : 3,
+		"upgradeCost" : 14930,
+		"upgradePoint" : "402,310"
+	},
+	
+	{
+		"baseAttribute" : "5,125#",
+		"bottomPic" : 1003,
+		"level" : 5,
+		"rank" : 26,
+		"rankName" : 3,
+		"upgradeCost" : 14980,
+		"upgradePoint" : "253,250"
+	},
+	
+	{
+		"baseAttribute" : "6,125#",
+		"bottomPic" : 1003,
+		"level" : 6,
+		"rank" : 26,
+		"rankName" : 3,
+		"upgradeCost" : 15030,
+		"upgradePoint" : "108,154"
+	},
+	
+	{
+		"baseAttribute" : "11,125#",
+		"bottomPic" : 1003,
+		"level" : 7,
+		"rank" : 26,
+		"rankName" : 3,
+		"upgradeCost" : 15079,
+		"upgradePoint" : "334,133"
+	},
+	
+	{
+		"baseAttribute" : "12,125#",
+		"bottomPic" : 1003,
+		"level" : 8,
+		"rank" : 26,
+		"rankName" : 3,
+		"upgradeCost" : 15128,
+		"upgradePoint" : "310,50"
+	},
+	
+	{
+		"baseAttribute" : "1,125#",
+		"bottomPic" : 1003,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 27,
+		"rankName" : 3,
+		"targetAttribute" : "2,220042#4,11002#",
+		"targetAttributePer" : 5400,
+		"upgradeCost" : 15178,
+		"upgradePoint" : "164,388"
+	},
+	
+	{
+		"baseAttribute" : "2,2506#",
+		"bottomPic" : 1003,
+		"level" : 2,
+		"rank" : 27,
+		"rankName" : 3,
+		"upgradeCost" : 15227,
+		"upgradePoint" : "290,497"
+	},
+	
+	{
+		"baseAttribute" : "3,125#",
+		"bottomPic" : 1003,
+		"level" : 3,
+		"rank" : 27,
+		"rankName" : 3,
+		"upgradeCost" : 15275,
+		"upgradePoint" : "433,450"
+	},
+	
+	{
+		"baseAttribute" : "4,126#",
+		"bottomPic" : 1003,
+		"level" : 4,
+		"rank" : 27,
+		"rankName" : 3,
+		"upgradeCost" : 15324,
+		"upgradePoint" : "402,310"
+	},
+	
+	{
+		"baseAttribute" : "5,126#",
+		"bottomPic" : 1003,
+		"level" : 5,
+		"rank" : 27,
+		"rankName" : 3,
+		"upgradeCost" : 15373,
+		"upgradePoint" : "253,250"
+	},
+	
+	{
+		"baseAttribute" : "6,126#",
+		"bottomPic" : 1003,
+		"level" : 6,
+		"rank" : 27,
+		"rankName" : 3,
+		"upgradeCost" : 15421,
+		"upgradePoint" : "108,154"
+	},
+	
+	{
+		"baseAttribute" : "11,126#",
+		"bottomPic" : 1003,
+		"level" : 7,
+		"rank" : 27,
+		"rankName" : 3,
+		"upgradeCost" : 15470,
+		"upgradePoint" : "334,133"
+	},
+	
+	{
+		"baseAttribute" : "12,126#",
+		"bottomPic" : 1003,
+		"level" : 8,
+		"rank" : 27,
+		"rankName" : 3,
+		"upgradeCost" : 15518,
+		"upgradePoint" : "310,50"
+	},
+	
+	{
+		"baseAttribute" : "1,126#",
+		"bottomPic" : 1003,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 28,
+		"rankName" : 3,
+		"targetAttribute" : "2,230325#4,11516#",
+		"targetAttributePer" : 5600,
+		"upgradeCost" : 15566,
+		"upgradePoint" : "164,388"
+	},
+	
+	{
+		"baseAttribute" : "2,2516#",
+		"bottomPic" : 1003,
+		"level" : 2,
+		"rank" : 28,
+		"rankName" : 3,
+		"upgradeCost" : 15614,
+		"upgradePoint" : "290,497"
+	},
+	
+	{
+		"baseAttribute" : "3,126#",
+		"bottomPic" : 1003,
+		"level" : 3,
+		"rank" : 28,
+		"rankName" : 3,
+		"upgradeCost" : 15661,
+		"upgradePoint" : "433,450"
+	},
+	
+	{
+		"baseAttribute" : "4,126#",
+		"bottomPic" : 1003,
+		"level" : 4,
+		"rank" : 28,
+		"rankName" : 3,
+		"upgradeCost" : 15709,
+		"upgradePoint" : "402,310"
+	},
+	
+	{
+		"baseAttribute" : "5,126#",
+		"bottomPic" : 1003,
+		"level" : 5,
+		"rank" : 28,
+		"rankName" : 3,
+		"upgradeCost" : 15757,
+		"upgradePoint" : "253,250"
+	},
+	
+	{
+		"baseAttribute" : "6,126#",
+		"bottomPic" : 1003,
+		"level" : 6,
+		"rank" : 28,
+		"rankName" : 3,
+		"upgradeCost" : 15804,
+		"upgradePoint" : "108,154"
+	},
+	
+	{
+		"baseAttribute" : "11,126#",
+		"bottomPic" : 1003,
+		"level" : 7,
+		"rank" : 28,
+		"rankName" : 3,
+		"upgradeCost" : 15851,
+		"upgradePoint" : "334,133"
+	},
+	
+	{
+		"baseAttribute" : "12,126#",
+		"bottomPic" : 1003,
+		"level" : 8,
+		"rank" : 28,
+		"rankName" : 3,
+		"upgradeCost" : 15898,
+		"upgradePoint" : "310,50"
+	},
+	
+	{
+		"baseAttribute" : "1,126#",
+		"bottomPic" : 1003,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 29,
+		"rankName" : 3,
+		"targetAttribute" : "2,240763#4,12038#",
+		"targetAttributePer" : 5800,
+		"upgradeCost" : 15945,
+		"upgradePoint" : "164,388"
+	},
+	
+	{
+		"baseAttribute" : "2,2526#",
+		"bottomPic" : 1003,
+		"level" : 2,
+		"rank" : 29,
+		"rankName" : 3,
+		"upgradeCost" : 15992,
+		"upgradePoint" : "290,497"
+	},
+	
+	{
+		"baseAttribute" : "3,126#",
+		"bottomPic" : 1003,
+		"level" : 3,
+		"rank" : 29,
+		"rankName" : 3,
+		"upgradeCost" : 16039,
+		"upgradePoint" : "433,450"
+	},
+	
+	{
+		"baseAttribute" : "4,126#",
+		"bottomPic" : 1003,
+		"level" : 4,
+		"rank" : 29,
+		"rankName" : 3,
+		"upgradeCost" : 16086,
+		"upgradePoint" : "402,310"
+	},
+	
+	{
+		"baseAttribute" : "5,126#",
+		"bottomPic" : 1003,
+		"level" : 5,
+		"rank" : 29,
+		"rankName" : 3,
+		"upgradeCost" : 16132,
+		"upgradePoint" : "253,250"
+	},
+	
+	{
+		"baseAttribute" : "6,127#",
+		"bottomPic" : 1003,
+		"level" : 6,
+		"rank" : 29,
+		"rankName" : 3,
+		"upgradeCost" : 16179,
+		"upgradePoint" : "108,154"
+	},
+	
+	{
+		"baseAttribute" : "11,127#",
+		"bottomPic" : 1003,
+		"level" : 7,
+		"rank" : 29,
+		"rankName" : 3,
+		"upgradeCost" : 16225,
+		"upgradePoint" : "334,133"
+	},
+	
+	{
+		"baseAttribute" : "12,127#",
+		"bottomPic" : 1003,
+		"level" : 8,
+		"rank" : 29,
+		"rankName" : 3,
+		"upgradeCost" : 16271,
+		"upgradePoint" : "310,50"
+	},
+	
+	{
+		"baseAttribute" : "1,127#",
+		"bottomPic" : 1003,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 30,
+		"rankName" : 3,
+		"targetAttribute" : "2,251357#4,12568#",
+		"targetAttributePer" : 6000,
+		"upgradeCost" : 16317,
+		"upgradePoint" : "164,388"
+	},
+	
+	{
+		"baseAttribute" : "2,2536#",
+		"bottomPic" : 1003,
+		"level" : 2,
+		"rank" : 30,
+		"rankName" : 3,
+		"upgradeCost" : 16363,
+		"upgradePoint" : "290,497"
+	},
+	
+	{
+		"baseAttribute" : "3,127#",
+		"bottomPic" : 1003,
+		"level" : 3,
+		"rank" : 30,
+		"rankName" : 3,
+		"upgradeCost" : 16409,
+		"upgradePoint" : "433,450"
+	},
+	
+	{
+		"baseAttribute" : "4,127#",
+		"bottomPic" : 1003,
+		"level" : 4,
+		"rank" : 30,
+		"rankName" : 3,
+		"upgradeCost" : 16454,
+		"upgradePoint" : "402,310"
+	},
+	
+	{
+		"baseAttribute" : "5,127#",
+		"bottomPic" : 1003,
+		"level" : 5,
+		"rank" : 30,
+		"rankName" : 3,
+		"upgradeCost" : 16500,
+		"upgradePoint" : "253,250"
+	},
+	
+	{
+		"baseAttribute" : "6,127#",
+		"bottomPic" : 1003,
+		"level" : 6,
+		"rank" : 30,
+		"rankName" : 3,
+		"upgradeCost" : 16545,
+		"upgradePoint" : "108,154"
+	},
+	
+	{
+		"baseAttribute" : "11,127#",
+		"bottomPic" : 1003,
+		"level" : 7,
+		"rank" : 30,
+		"rankName" : 3,
+		"upgradeCost" : 16591,
+		"upgradePoint" : "334,133"
+	},
+	
+	{
+		"baseAttribute" : "12,127#",
+		"bottomPic" : 1003,
+		"level" : 8,
+		"rank" : 30,
+		"rankName" : 3,
+		"upgradeCost" : 16636,
+		"upgradePoint" : "310,50"
+	},
+	
+	{
+		"baseAttribute" : "1,127#",
+		"bottomPic" : 1004,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 31,
+		"rankName" : 4,
+		"targetAttribute" : "2,262109#4,13105#",
+		"targetAttributePer" : 6200,
+		"upgradeCost" : 16681,
+		"upgradePoint" : "368,471"
+	},
+	
+	{
+		"baseAttribute" : "2,2548#",
+		"bottomPic" : 1004,
+		"level" : 2,
+		"rank" : 31,
+		"rankName" : 4,
+		"upgradeCost" : 16726,
+		"upgradePoint" : "274,401"
+	},
+	
+	{
+		"baseAttribute" : "3,127#",
+		"bottomPic" : 1004,
+		"level" : 3,
+		"rank" : 31,
+		"rankName" : 4,
+		"upgradeCost" : 16770,
+		"upgradePoint" : "454,341"
+	},
+	
+	{
+		"baseAttribute" : "4,128#",
+		"bottomPic" : 1004,
+		"level" : 4,
+		"rank" : 31,
+		"rankName" : 4,
+		"upgradeCost" : 16815,
+		"upgradePoint" : "363,191"
+	},
+	
+	{
+		"baseAttribute" : "5,128#",
+		"bottomPic" : 1004,
+		"level" : 5,
+		"rank" : 31,
+		"rankName" : 4,
+		"upgradeCost" : 16860,
+		"upgradePoint" : "317,43"
+	},
+	
+	{
+		"baseAttribute" : "6,128#",
+		"bottomPic" : 1004,
+		"level" : 6,
+		"rank" : 31,
+		"rankName" : 4,
+		"upgradeCost" : 16904,
+		"upgradePoint" : "187,143"
+	},
+	
+	{
+		"baseAttribute" : "11,128#",
+		"bottomPic" : 1004,
+		"level" : 7,
+		"rank" : 31,
+		"rankName" : 4,
+		"upgradeCost" : 16949,
+		"upgradePoint" : "89,222"
+	},
+	
+	{
+		"baseAttribute" : "12,128#",
+		"bottomPic" : 1004,
+		"level" : 8,
+		"rank" : 31,
+		"rankName" : 4,
+		"upgradeCost" : 16993,
+		"upgradePoint" : "137,339"
+	},
+	
+	{
+		"baseAttribute" : "1,128#",
+		"bottomPic" : 1004,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 32,
+		"rankName" : 4,
+		"targetAttribute" : "2,273023#4,13651#",
+		"targetAttributePer" : 6400,
+		"upgradeCost" : 17037,
+		"upgradePoint" : "368,471"
+	},
+	
+	{
+		"baseAttribute" : "2,2558#",
+		"bottomPic" : 1004,
+		"level" : 2,
+		"rank" : 32,
+		"rankName" : 4,
+		"upgradeCost" : 17081,
+		"upgradePoint" : "274,401"
+	},
+	
+	{
+		"baseAttribute" : "3,128#",
+		"bottomPic" : 1004,
+		"level" : 3,
+		"rank" : 32,
+		"rankName" : 4,
+		"upgradeCost" : 17125,
+		"upgradePoint" : "454,341"
+	},
+	
+	{
+		"baseAttribute" : "4,128#",
+		"bottomPic" : 1004,
+		"level" : 4,
+		"rank" : 32,
+		"rankName" : 4,
+		"upgradeCost" : 17168,
+		"upgradePoint" : "363,191"
+	},
+	
+	{
+		"baseAttribute" : "5,128#",
+		"bottomPic" : 1004,
+		"level" : 5,
+		"rank" : 32,
+		"rankName" : 4,
+		"upgradeCost" : 17212,
+		"upgradePoint" : "317,43"
+	},
+	
+	{
+		"baseAttribute" : "6,128#",
+		"bottomPic" : 1004,
+		"level" : 6,
+		"rank" : 32,
+		"rankName" : 4,
+		"upgradeCost" : 17256,
+		"upgradePoint" : "187,143"
+	},
+	
+	{
+		"baseAttribute" : "11,128#",
+		"bottomPic" : 1004,
+		"level" : 7,
+		"rank" : 32,
+		"rankName" : 4,
+		"upgradeCost" : 17299,
+		"upgradePoint" : "89,222"
+	},
+	
+	{
+		"baseAttribute" : "12,128#",
+		"bottomPic" : 1004,
+		"level" : 8,
+		"rank" : 32,
+		"rankName" : 4,
+		"upgradeCost" : 17342,
+		"upgradePoint" : "137,339"
+	},
+	
+	{
+		"baseAttribute" : "1,128#",
+		"bottomPic" : 1004,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 33,
+		"rankName" : 4,
+		"targetAttribute" : "2,284101#4,14205#",
+		"targetAttributePer" : 6600,
+		"upgradeCost" : 17386,
+		"upgradePoint" : "368,471"
+	},
+	
+	{
+		"baseAttribute" : "2,2568#",
+		"bottomPic" : 1004,
+		"level" : 2,
+		"rank" : 33,
+		"rankName" : 4,
+		"upgradeCost" : 17429,
+		"upgradePoint" : "274,401"
+	},
+	
+	{
+		"baseAttribute" : "3,128#",
+		"bottomPic" : 1004,
+		"level" : 3,
+		"rank" : 33,
+		"rankName" : 4,
+		"upgradeCost" : 17472,
+		"upgradePoint" : "454,341"
+	},
+	
+	{
+		"baseAttribute" : "4,128#",
+		"bottomPic" : 1004,
+		"level" : 4,
+		"rank" : 33,
+		"rankName" : 4,
+		"upgradeCost" : 17515,
+		"upgradePoint" : "363,191"
+	},
+	
+	{
+		"baseAttribute" : "5,129#",
+		"bottomPic" : 1004,
+		"level" : 5,
+		"rank" : 33,
+		"rankName" : 4,
+		"upgradeCost" : 17557,
+		"upgradePoint" : "317,43"
+	},
+	
+	{
+		"baseAttribute" : "6,129#",
+		"bottomPic" : 1004,
+		"level" : 6,
+		"rank" : 33,
+		"rankName" : 4,
+		"upgradeCost" : 17600,
+		"upgradePoint" : "187,143"
+	},
+	
+	{
+		"baseAttribute" : "11,129#",
+		"bottomPic" : 1004,
+		"level" : 7,
+		"rank" : 33,
+		"rankName" : 4,
+		"upgradeCost" : 17643,
+		"upgradePoint" : "89,222"
+	},
+	
+	{
+		"baseAttribute" : "12,129#",
+		"bottomPic" : 1004,
+		"level" : 8,
+		"rank" : 33,
+		"rankName" : 4,
+		"upgradeCost" : 17685,
+		"upgradePoint" : "137,339"
+	},
+	
+	{
+		"baseAttribute" : "1,129#",
+		"bottomPic" : 1004,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 34,
+		"rankName" : 4,
+		"targetAttribute" : "2,295345#4,14767#",
+		"targetAttributePer" : 6800,
+		"upgradeCost" : 17727,
+		"upgradePoint" : "368,471"
+	},
+	
+	{
+		"baseAttribute" : "2,2578#",
+		"bottomPic" : 1004,
+		"level" : 2,
+		"rank" : 34,
+		"rankName" : 4,
+		"upgradeCost" : 17770,
+		"upgradePoint" : "274,401"
+	},
+	
+	{
+		"baseAttribute" : "3,129#",
+		"bottomPic" : 1004,
+		"level" : 3,
+		"rank" : 34,
+		"rankName" : 4,
+		"upgradeCost" : 17812,
+		"upgradePoint" : "454,341"
+	},
+	
+	{
+		"baseAttribute" : "4,129#",
+		"bottomPic" : 1004,
+		"level" : 4,
+		"rank" : 34,
+		"rankName" : 4,
+		"upgradeCost" : 17854,
+		"upgradePoint" : "363,191"
+	},
+	
+	{
+		"baseAttribute" : "5,129#",
+		"bottomPic" : 1004,
+		"level" : 5,
+		"rank" : 34,
+		"rankName" : 4,
+		"upgradeCost" : 17896,
+		"upgradePoint" : "317,43"
+	},
+	
+	{
+		"baseAttribute" : "6,129#",
+		"bottomPic" : 1004,
+		"level" : 6,
+		"rank" : 34,
+		"rankName" : 4,
+		"upgradeCost" : 17938,
+		"upgradePoint" : "187,143"
+	},
+	
+	{
+		"baseAttribute" : "11,129#",
+		"bottomPic" : 1004,
+		"level" : 7,
+		"rank" : 34,
+		"rankName" : 4,
+		"upgradeCost" : 17979,
+		"upgradePoint" : "89,222"
+	},
+	
+	{
+		"baseAttribute" : "12,129#",
+		"bottomPic" : 1004,
+		"level" : 8,
+		"rank" : 34,
+		"rankName" : 4,
+		"upgradeCost" : 18021,
+		"upgradePoint" : "137,339"
+	},
+	
+	{
+		"baseAttribute" : "1,129#",
+		"bottomPic" : 1004,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 35,
+		"rankName" : 4,
+		"targetAttribute" : "2,306758#4,15338#",
+		"targetAttributePer" : 7000,
+		"upgradeCost" : 18062,
+		"upgradePoint" : "368,471"
+	},
+	
+	{
+		"baseAttribute" : "2,2588#",
+		"bottomPic" : 1004,
+		"level" : 2,
+		"rank" : 35,
+		"rankName" : 4,
+		"upgradeCost" : 18104,
+		"upgradePoint" : "274,401"
+	},
+	
+	{
+		"baseAttribute" : "3,130#",
+		"bottomPic" : 1004,
+		"level" : 3,
+		"rank" : 35,
+		"rankName" : 4,
+		"upgradeCost" : 18145,
+		"upgradePoint" : "454,341"
+	},
+	
+	{
+		"baseAttribute" : "4,130#",
+		"bottomPic" : 1004,
+		"level" : 4,
+		"rank" : 35,
+		"rankName" : 4,
+		"upgradeCost" : 18186,
+		"upgradePoint" : "363,191"
+	},
+	
+	{
+		"baseAttribute" : "5,130#",
+		"bottomPic" : 1004,
+		"level" : 5,
+		"rank" : 35,
+		"rankName" : 4,
+		"upgradeCost" : 18227,
+		"upgradePoint" : "317,43"
+	},
+	
+	{
+		"baseAttribute" : "6,130#",
+		"bottomPic" : 1004,
+		"level" : 6,
+		"rank" : 35,
+		"rankName" : 4,
+		"upgradeCost" : 18268,
+		"upgradePoint" : "187,143"
+	},
+	
+	{
+		"baseAttribute" : "11,130#",
+		"bottomPic" : 1004,
+		"level" : 7,
+		"rank" : 35,
+		"rankName" : 4,
+		"upgradeCost" : 18309,
+		"upgradePoint" : "89,222"
+	},
+	
+	{
+		"baseAttribute" : "12,130#",
+		"bottomPic" : 1004,
+		"level" : 8,
+		"rank" : 35,
+		"rankName" : 4,
+		"upgradeCost" : 18350,
+		"upgradePoint" : "137,339"
+	},
+	
+	{
+		"baseAttribute" : "1,130#",
+		"bottomPic" : 1004,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 36,
+		"rankName" : 4,
+		"targetAttribute" : "2,318341#4,15917#",
+		"targetAttributePer" : 7200,
+		"upgradeCost" : 18391,
+		"upgradePoint" : "368,471"
+	},
+	
+	{
+		"baseAttribute" : "2,2598#",
+		"bottomPic" : 1004,
+		"level" : 2,
+		"rank" : 36,
+		"rankName" : 4,
+		"upgradeCost" : 18431,
+		"upgradePoint" : "274,401"
+	},
+	
+	{
+		"baseAttribute" : "3,130#",
+		"bottomPic" : 1004,
+		"level" : 3,
+		"rank" : 36,
+		"rankName" : 4,
+		"upgradeCost" : 18472,
+		"upgradePoint" : "454,341"
+	},
+	
+	{
+		"baseAttribute" : "4,130#",
+		"bottomPic" : 1004,
+		"level" : 4,
+		"rank" : 36,
+		"rankName" : 4,
+		"upgradeCost" : 18512,
+		"upgradePoint" : "363,191"
+	},
+	
+	{
+		"baseAttribute" : "5,130#",
+		"bottomPic" : 1004,
+		"level" : 5,
+		"rank" : 36,
+		"rankName" : 4,
+		"upgradeCost" : 18552,
+		"upgradePoint" : "317,43"
+	},
+	
+	{
+		"baseAttribute" : "6,130#",
+		"bottomPic" : 1004,
+		"level" : 6,
+		"rank" : 36,
+		"rankName" : 4,
+		"upgradeCost" : 18593,
+		"upgradePoint" : "187,143"
+	},
+	
+	{
+		"baseAttribute" : "11,130#",
+		"bottomPic" : 1004,
+		"level" : 7,
+		"rank" : 36,
+		"rankName" : 4,
+		"upgradeCost" : 18633,
+		"upgradePoint" : "89,222"
+	},
+	
+	{
+		"baseAttribute" : "12,130#",
+		"bottomPic" : 1004,
+		"level" : 8,
+		"rank" : 36,
+		"rankName" : 4,
+		"upgradeCost" : 18673,
+		"upgradePoint" : "137,339"
+	},
+	
+	{
+		"baseAttribute" : "1,130#",
+		"bottomPic" : 1004,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 37,
+		"rankName" : 4,
+		"targetAttribute" : "2,330099#4,16505#",
+		"targetAttributePer" : 7400,
+		"upgradeCost" : 18713,
+		"upgradePoint" : "368,471"
+	},
+	
+	{
+		"baseAttribute" : "2,2610#",
+		"bottomPic" : 1004,
+		"level" : 2,
+		"rank" : 37,
+		"rankName" : 4,
+		"upgradeCost" : 18753,
+		"upgradePoint" : "274,401"
+	},
+	
+	{
+		"baseAttribute" : "3,130#",
+		"bottomPic" : 1004,
+		"level" : 3,
+		"rank" : 37,
+		"rankName" : 4,
+		"upgradeCost" : 18792,
+		"upgradePoint" : "454,341"
+	},
+	
+	{
+		"baseAttribute" : "4,131#",
+		"bottomPic" : 1004,
+		"level" : 4,
+		"rank" : 37,
+		"rankName" : 4,
+		"upgradeCost" : 18832,
+		"upgradePoint" : "363,191"
+	},
+	
+	{
+		"baseAttribute" : "5,131#",
+		"bottomPic" : 1004,
+		"level" : 5,
+		"rank" : 37,
+		"rankName" : 4,
+		"upgradeCost" : 18871,
+		"upgradePoint" : "317,43"
+	},
+	
+	{
+		"baseAttribute" : "6,131#",
+		"bottomPic" : 1004,
+		"level" : 6,
+		"rank" : 37,
+		"rankName" : 4,
+		"upgradeCost" : 18911,
+		"upgradePoint" : "187,143"
+	},
+	
+	{
+		"baseAttribute" : "11,131#",
+		"bottomPic" : 1004,
+		"level" : 7,
+		"rank" : 37,
+		"rankName" : 4,
+		"upgradeCost" : 18950,
+		"upgradePoint" : "89,222"
+	},
+	
+	{
+		"baseAttribute" : "12,131#",
+		"bottomPic" : 1004,
+		"level" : 8,
+		"rank" : 37,
+		"rankName" : 4,
+		"upgradeCost" : 18989,
+		"upgradePoint" : "137,339"
+	},
+	
+	{
+		"baseAttribute" : "1,131#",
+		"bottomPic" : 1004,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 38,
+		"rankName" : 4,
+		"targetAttribute" : "2,342033#4,17102#",
+		"targetAttributePer" : 7600,
+		"upgradeCost" : 19029,
+		"upgradePoint" : "368,471"
+	},
+	
+	{
+		"baseAttribute" : "2,2620#",
+		"bottomPic" : 1004,
+		"level" : 2,
+		"rank" : 38,
+		"rankName" : 4,
+		"upgradeCost" : 19068,
+		"upgradePoint" : "274,401"
+	},
+	
+	{
+		"baseAttribute" : "3,131#",
+		"bottomPic" : 1004,
+		"level" : 3,
+		"rank" : 38,
+		"rankName" : 4,
+		"upgradeCost" : 19107,
+		"upgradePoint" : "454,341"
+	},
+	
+	{
+		"baseAttribute" : "4,131#",
+		"bottomPic" : 1004,
+		"level" : 4,
+		"rank" : 38,
+		"rankName" : 4,
+		"upgradeCost" : 19146,
+		"upgradePoint" : "363,191"
+	},
+	
+	{
+		"baseAttribute" : "5,131#",
+		"bottomPic" : 1004,
+		"level" : 5,
+		"rank" : 38,
+		"rankName" : 4,
+		"upgradeCost" : 19184,
+		"upgradePoint" : "317,43"
+	},
+	
+	{
+		"baseAttribute" : "6,131#",
+		"bottomPic" : 1004,
+		"level" : 6,
+		"rank" : 38,
+		"rankName" : 4,
+		"upgradeCost" : 19223,
+		"upgradePoint" : "187,143"
+	},
+	
+	{
+		"baseAttribute" : "11,131#",
+		"bottomPic" : 1004,
+		"level" : 7,
+		"rank" : 38,
+		"rankName" : 4,
+		"upgradeCost" : 19262,
+		"upgradePoint" : "89,222"
+	},
+	
+	{
+		"baseAttribute" : "12,131#",
+		"bottomPic" : 1004,
+		"level" : 8,
+		"rank" : 38,
+		"rankName" : 4,
+		"upgradeCost" : 19300,
+		"upgradePoint" : "137,339"
+	},
+	
+	{
+		"baseAttribute" : "1,131#",
+		"bottomPic" : 1004,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 39,
+		"rankName" : 4,
+		"targetAttribute" : "2,354146#4,17707#",
+		"targetAttributePer" : 7800,
+		"upgradeCost" : 19339,
+		"upgradePoint" : "368,471"
+	},
+	
+	{
+		"baseAttribute" : "2,2630#",
+		"bottomPic" : 1004,
+		"level" : 2,
+		"rank" : 39,
+		"rankName" : 4,
+		"upgradeCost" : 19377,
+		"upgradePoint" : "274,401"
+	},
+	
+	{
+		"baseAttribute" : "3,132#",
+		"bottomPic" : 1004,
+		"level" : 3,
+		"rank" : 39,
+		"rankName" : 4,
+		"upgradeCost" : 19415,
+		"upgradePoint" : "454,341"
+	},
+	
+	{
+		"baseAttribute" : "4,132#",
+		"bottomPic" : 1004,
+		"level" : 4,
+		"rank" : 39,
+		"rankName" : 4,
+		"upgradeCost" : 19453,
+		"upgradePoint" : "363,191"
+	},
+	
+	{
+		"baseAttribute" : "5,132#",
+		"bottomPic" : 1004,
+		"level" : 5,
+		"rank" : 39,
+		"rankName" : 4,
+		"upgradeCost" : 19492,
+		"upgradePoint" : "317,43"
+	},
+	
+	{
+		"baseAttribute" : "6,132#",
+		"bottomPic" : 1004,
+		"level" : 6,
+		"rank" : 39,
+		"rankName" : 4,
+		"upgradeCost" : 19530,
+		"upgradePoint" : "187,143"
+	},
+	
+	{
+		"baseAttribute" : "11,132#",
+		"bottomPic" : 1004,
+		"level" : 7,
+		"rank" : 39,
+		"rankName" : 4,
+		"upgradeCost" : 19567,
+		"upgradePoint" : "89,222"
+	},
+	
+	{
+		"baseAttribute" : "12,132#",
+		"bottomPic" : 1004,
+		"level" : 8,
+		"rank" : 39,
+		"rankName" : 4,
+		"upgradeCost" : 19605,
+		"upgradePoint" : "137,339"
+	},
+	
+	{
+		"baseAttribute" : "1,132#",
+		"bottomPic" : 1004,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 40,
+		"rankName" : 4,
+		"targetAttribute" : "2,366440#4,18322#",
+		"targetAttributePer" : 8000,
+		"upgradeCost" : 19643,
+		"upgradePoint" : "368,471"
+	},
+	
+	{
+		"baseAttribute" : "2,2640#",
+		"bottomPic" : 1004,
+		"level" : 2,
+		"rank" : 40,
+		"rankName" : 4,
+		"upgradeCost" : 19681,
+		"upgradePoint" : "274,401"
+	},
+	
+	{
+		"baseAttribute" : "3,132#",
+		"bottomPic" : 1004,
+		"level" : 3,
+		"rank" : 40,
+		"rankName" : 4,
+		"upgradeCost" : 19718,
+		"upgradePoint" : "454,341"
+	},
+	
+	{
+		"baseAttribute" : "4,132#",
+		"bottomPic" : 1004,
+		"level" : 4,
+		"rank" : 40,
+		"rankName" : 4,
+		"upgradeCost" : 19756,
+		"upgradePoint" : "363,191"
+	},
+	
+	{
+		"baseAttribute" : "5,132#",
+		"bottomPic" : 1004,
+		"level" : 5,
+		"rank" : 40,
+		"rankName" : 4,
+		"upgradeCost" : 19793,
+		"upgradePoint" : "317,43"
+	},
+	
+	{
+		"baseAttribute" : "6,132#",
+		"bottomPic" : 1004,
+		"level" : 6,
+		"rank" : 40,
+		"rankName" : 4,
+		"upgradeCost" : 19830,
+		"upgradePoint" : "187,143"
+	},
+	
+	{
+		"baseAttribute" : "11,132#",
+		"bottomPic" : 1004,
+		"level" : 7,
+		"rank" : 40,
+		"rankName" : 4,
+		"upgradeCost" : 19868,
+		"upgradePoint" : "89,222"
+	},
+	
+	{
+		"baseAttribute" : "12,132#",
+		"bottomPic" : 1004,
+		"level" : 8,
+		"rank" : 40,
+		"rankName" : 4,
+		"upgradeCost" : 19905,
+		"upgradePoint" : "137,339"
+	},
+	
+	{
+		"baseAttribute" : "1,132#",
+		"bottomPic" : 1005,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 41,
+		"rankName" : 5,
+		"targetAttribute" : "2,378919#4,18946#",
+		"targetAttributePer" : 8200,
+		"upgradeCost" : 19942,
+		"upgradePoint" : "438,435"
+	},
+	
+	{
+		"baseAttribute" : "2,2652#",
+		"bottomPic" : 1005,
+		"level" : 2,
+		"rank" : 41,
+		"rankName" : 5,
+		"upgradeCost" : 19979,
+		"upgradePoint" : "247,469"
+	},
+	
+	{
+		"baseAttribute" : "3,133#",
+		"bottomPic" : 1005,
+		"level" : 3,
+		"rank" : 41,
+		"rankName" : 5,
+		"upgradeCost" : 20016,
+		"upgradePoint" : "265,390"
+	},
+	
+	{
+		"baseAttribute" : "4,133#",
+		"bottomPic" : 1005,
+		"level" : 4,
+		"rank" : 41,
+		"rankName" : 5,
+		"upgradeCost" : 20052,
+		"upgradePoint" : "335,272"
+	},
+	
+	{
+		"baseAttribute" : "5,133#",
+		"bottomPic" : 1005,
+		"level" : 5,
+		"rank" : 41,
+		"rankName" : 5,
+		"upgradeCost" : 20089,
+		"upgradePoint" : "450,179"
+	},
+	
+	{
+		"baseAttribute" : "6,133#",
+		"bottomPic" : 1005,
+		"level" : 6,
+		"rank" : 41,
+		"rankName" : 5,
+		"upgradeCost" : 20126,
+		"upgradePoint" : "284,119"
+	},
+	
+	{
+		"baseAttribute" : "11,133#",
+		"bottomPic" : 1005,
+		"level" : 7,
+		"rank" : 41,
+		"rankName" : 5,
+		"upgradeCost" : 20162,
+		"upgradePoint" : "144,206"
+	},
+	
+	{
+		"baseAttribute" : "12,133#",
+		"bottomPic" : 1005,
+		"level" : 8,
+		"rank" : 41,
+		"rankName" : 5,
+		"upgradeCost" : 20199,
+		"upgradePoint" : "141,80"
+	},
+	
+	{
+		"baseAttribute" : "1,133#",
+		"bottomPic" : 1005,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 42,
+		"rankName" : 5,
+		"targetAttribute" : "2,391585#4,19579#",
+		"targetAttributePer" : 8400,
+		"upgradeCost" : 20235,
+		"upgradePoint" : "438,435"
+	},
+	
+	{
+		"baseAttribute" : "2,2662#",
+		"bottomPic" : 1005,
+		"level" : 2,
+		"rank" : 42,
+		"rankName" : 5,
+		"upgradeCost" : 20272,
+		"upgradePoint" : "247,469"
+	},
+	
+	{
+		"baseAttribute" : "3,133#",
+		"bottomPic" : 1005,
+		"level" : 3,
+		"rank" : 42,
+		"rankName" : 5,
+		"upgradeCost" : 20308,
+		"upgradePoint" : "265,390"
+	},
+	
+	{
+		"baseAttribute" : "4,133#",
+		"bottomPic" : 1005,
+		"level" : 4,
+		"rank" : 42,
+		"rankName" : 5,
+		"upgradeCost" : 20344,
+		"upgradePoint" : "335,272"
+	},
+	
+	{
+		"baseAttribute" : "5,133#",
+		"bottomPic" : 1005,
+		"level" : 5,
+		"rank" : 42,
+		"rankName" : 5,
+		"upgradeCost" : 20380,
+		"upgradePoint" : "450,179"
+	},
+	
+	{
+		"baseAttribute" : "6,133#",
+		"bottomPic" : 1005,
+		"level" : 6,
+		"rank" : 42,
+		"rankName" : 5,
+		"upgradeCost" : 20416,
+		"upgradePoint" : "284,119"
+	},
+	
+	{
+		"baseAttribute" : "11,133#",
+		"bottomPic" : 1005,
+		"level" : 7,
+		"rank" : 42,
+		"rankName" : 5,
+		"upgradeCost" : 20452,
+		"upgradePoint" : "144,206"
+	},
+	
+	{
+		"baseAttribute" : "12,134#",
+		"bottomPic" : 1005,
+		"level" : 8,
+		"rank" : 42,
+		"rankName" : 5,
+		"upgradeCost" : 20488,
+		"upgradePoint" : "141,80"
+	},
+	
+	{
+		"baseAttribute" : "1,134#",
+		"bottomPic" : 1005,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 43,
+		"rankName" : 5,
+		"targetAttribute" : "2,404442#4,20222#",
+		"targetAttributePer" : 8600,
+		"upgradeCost" : 20524,
+		"upgradePoint" : "438,435"
+	},
+	
+	{
+		"baseAttribute" : "2,2672#",
+		"bottomPic" : 1005,
+		"level" : 2,
+		"rank" : 43,
+		"rankName" : 5,
+		"upgradeCost" : 20559,
+		"upgradePoint" : "247,469"
+	},
+	
+	{
+		"baseAttribute" : "3,134#",
+		"bottomPic" : 1005,
+		"level" : 3,
+		"rank" : 43,
+		"rankName" : 5,
+		"upgradeCost" : 20595,
+		"upgradePoint" : "265,390"
+	},
+	
+	{
+		"baseAttribute" : "4,134#",
+		"bottomPic" : 1005,
+		"level" : 4,
+		"rank" : 43,
+		"rankName" : 5,
+		"upgradeCost" : 20631,
+		"upgradePoint" : "335,272"
+	},
+	
+	{
+		"baseAttribute" : "5,134#",
+		"bottomPic" : 1005,
+		"level" : 5,
+		"rank" : 43,
+		"rankName" : 5,
+		"upgradeCost" : 20666,
+		"upgradePoint" : "450,179"
+	},
+	
+	{
+		"baseAttribute" : "6,134#",
+		"bottomPic" : 1005,
+		"level" : 6,
+		"rank" : 43,
+		"rankName" : 5,
+		"upgradeCost" : 20701,
+		"upgradePoint" : "284,119"
+	},
+	
+	{
+		"baseAttribute" : "11,134#",
+		"bottomPic" : 1005,
+		"level" : 7,
+		"rank" : 43,
+		"rankName" : 5,
+		"upgradeCost" : 20737,
+		"upgradePoint" : "144,206"
+	},
+	
+	{
+		"baseAttribute" : "12,134#",
+		"bottomPic" : 1005,
+		"level" : 8,
+		"rank" : 43,
+		"rankName" : 5,
+		"upgradeCost" : 20772,
+		"upgradePoint" : "141,80"
+	},
+	
+	{
+		"baseAttribute" : "1,134#",
+		"bottomPic" : 1005,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 44,
+		"rankName" : 5,
+		"targetAttribute" : "2,417491#4,20875#",
+		"targetAttributePer" : 8800,
+		"upgradeCost" : 20807,
+		"upgradePoint" : "438,435"
+	},
+	
+	{
+		"baseAttribute" : "2,2684#",
+		"bottomPic" : 1005,
+		"level" : 2,
+		"rank" : 44,
+		"rankName" : 5,
+		"upgradeCost" : 20842,
+		"upgradePoint" : "247,469"
+	},
+	
+	{
+		"baseAttribute" : "3,134#",
+		"bottomPic" : 1005,
+		"level" : 3,
+		"rank" : 44,
+		"rankName" : 5,
+		"upgradeCost" : 20877,
+		"upgradePoint" : "265,390"
+	},
+	
+	{
+		"baseAttribute" : "4,134#",
+		"bottomPic" : 1005,
+		"level" : 4,
+		"rank" : 44,
+		"rankName" : 5,
+		"upgradeCost" : 20912,
+		"upgradePoint" : "335,272"
+	},
+	
+	{
+		"baseAttribute" : "5,134#",
+		"bottomPic" : 1005,
+		"level" : 5,
+		"rank" : 44,
+		"rankName" : 5,
+		"upgradeCost" : 20947,
+		"upgradePoint" : "450,179"
+	},
+	
+	{
+		"baseAttribute" : "6,134#",
+		"bottomPic" : 1005,
+		"level" : 6,
+		"rank" : 44,
+		"rankName" : 5,
+		"upgradeCost" : 20982,
+		"upgradePoint" : "284,119"
+	},
+	
+	{
+		"baseAttribute" : "11,134#",
+		"bottomPic" : 1005,
+		"level" : 7,
+		"rank" : 44,
+		"rankName" : 5,
+		"upgradeCost" : 21017,
+		"upgradePoint" : "144,206"
+	},
+	
+	{
+		"baseAttribute" : "12,135#",
+		"bottomPic" : 1005,
+		"level" : 8,
+		"rank" : 44,
+		"rankName" : 5,
+		"upgradeCost" : 21051,
+		"upgradePoint" : "141,80"
+	},
+	
+	{
+		"baseAttribute" : "1,135#",
+		"bottomPic" : 1005,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 45,
+		"rankName" : 5,
+		"targetAttribute" : "2,430735#4,21537#",
+		"targetAttributePer" : 9000,
+		"upgradeCost" : 21086,
+		"upgradePoint" : "438,435"
+	},
+	
+	{
+		"baseAttribute" : "2,2694#",
+		"bottomPic" : 1005,
+		"level" : 2,
+		"rank" : 45,
+		"rankName" : 5,
+		"upgradeCost" : 21120,
+		"upgradePoint" : "247,469"
+	},
+	
+	{
+		"baseAttribute" : "3,135#",
+		"bottomPic" : 1005,
+		"level" : 3,
+		"rank" : 45,
+		"rankName" : 5,
+		"upgradeCost" : 21155,
+		"upgradePoint" : "265,390"
+	},
+	
+	{
+		"baseAttribute" : "4,135#",
+		"bottomPic" : 1005,
+		"level" : 4,
+		"rank" : 45,
+		"rankName" : 5,
+		"upgradeCost" : 21189,
+		"upgradePoint" : "335,272"
+	},
+	
+	{
+		"baseAttribute" : "5,135#",
+		"bottomPic" : 1005,
+		"level" : 5,
+		"rank" : 45,
+		"rankName" : 5,
+		"upgradeCost" : 21224,
+		"upgradePoint" : "450,179"
+	},
+	
+	{
+		"baseAttribute" : "6,135#",
+		"bottomPic" : 1005,
+		"level" : 6,
+		"rank" : 45,
+		"rankName" : 5,
+		"upgradeCost" : 21258,
+		"upgradePoint" : "284,119"
+	},
+	
+	{
+		"baseAttribute" : "11,135#",
+		"bottomPic" : 1005,
+		"level" : 7,
+		"rank" : 45,
+		"rankName" : 5,
+		"upgradeCost" : 21292,
+		"upgradePoint" : "144,206"
+	},
+	
+	{
+		"baseAttribute" : "12,135#",
+		"bottomPic" : 1005,
+		"level" : 8,
+		"rank" : 45,
+		"rankName" : 5,
+		"upgradeCost" : 21326,
+		"upgradePoint" : "141,80"
+	},
+	
+	{
+		"baseAttribute" : "1,135#",
+		"bottomPic" : 1005,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 46,
+		"rankName" : 5,
+		"targetAttribute" : "2,444179#4,22209#",
+		"targetAttributePer" : 9200,
+		"upgradeCost" : 21360,
+		"upgradePoint" : "438,435"
+	},
+	
+	{
+		"baseAttribute" : "2,2704#",
+		"bottomPic" : 1005,
+		"level" : 2,
+		"rank" : 46,
+		"rankName" : 5,
+		"upgradeCost" : 21394,
+		"upgradePoint" : "247,469"
+	},
+	
+	{
+		"baseAttribute" : "3,135#",
+		"bottomPic" : 1005,
+		"level" : 3,
+		"rank" : 46,
+		"rankName" : 5,
+		"upgradeCost" : 21428,
+		"upgradePoint" : "265,390"
+	},
+	
+	{
+		"baseAttribute" : "4,135#",
+		"bottomPic" : 1005,
+		"level" : 4,
+		"rank" : 46,
+		"rankName" : 5,
+		"upgradeCost" : 21462,
+		"upgradePoint" : "335,272"
+	},
+	
+	{
+		"baseAttribute" : "5,135#",
+		"bottomPic" : 1005,
+		"level" : 5,
+		"rank" : 46,
+		"rankName" : 5,
+		"upgradeCost" : 21495,
+		"upgradePoint" : "450,179"
+	},
+	
+	{
+		"baseAttribute" : "6,136#",
+		"bottomPic" : 1005,
+		"level" : 6,
+		"rank" : 46,
+		"rankName" : 5,
+		"upgradeCost" : 21529,
+		"upgradePoint" : "284,119"
+	},
+	
+	{
+		"baseAttribute" : "11,136#",
+		"bottomPic" : 1005,
+		"level" : 7,
+		"rank" : 46,
+		"rankName" : 5,
+		"upgradeCost" : 21563,
+		"upgradePoint" : "144,206"
+	},
+	
+	{
+		"baseAttribute" : "12,136#",
+		"bottomPic" : 1005,
+		"level" : 8,
+		"rank" : 46,
+		"rankName" : 5,
+		"upgradeCost" : 21596,
+		"upgradePoint" : "141,80"
+	},
+	
+	{
+		"baseAttribute" : "1,136#",
+		"bottomPic" : 1005,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 47,
+		"rankName" : 5,
+		"targetAttribute" : "2,457824#4,22891#",
+		"targetAttributePer" : 9400,
+		"upgradeCost" : 21630,
+		"upgradePoint" : "438,435"
+	},
+	
+	{
+		"baseAttribute" : "2,2716#",
+		"bottomPic" : 1005,
+		"level" : 2,
+		"rank" : 47,
+		"rankName" : 5,
+		"upgradeCost" : 21663,
+		"upgradePoint" : "247,469"
+	},
+	
+	{
+		"baseAttribute" : "3,136#",
+		"bottomPic" : 1005,
+		"level" : 3,
+		"rank" : 47,
+		"rankName" : 5,
+		"upgradeCost" : 21696,
+		"upgradePoint" : "265,390"
+	},
+	
+	{
+		"baseAttribute" : "4,136#",
+		"bottomPic" : 1005,
+		"level" : 4,
+		"rank" : 47,
+		"rankName" : 5,
+		"upgradeCost" : 21730,
+		"upgradePoint" : "335,272"
+	},
+	
+	{
+		"baseAttribute" : "5,136#",
+		"bottomPic" : 1005,
+		"level" : 5,
+		"rank" : 47,
+		"rankName" : 5,
+		"upgradeCost" : 21763,
+		"upgradePoint" : "450,179"
+	},
+	
+	{
+		"baseAttribute" : "6,136#",
+		"bottomPic" : 1005,
+		"level" : 6,
+		"rank" : 47,
+		"rankName" : 5,
+		"upgradeCost" : 21796,
+		"upgradePoint" : "284,119"
+	},
+	
+	{
+		"baseAttribute" : "11,136#",
+		"bottomPic" : 1005,
+		"level" : 7,
+		"rank" : 47,
+		"rankName" : 5,
+		"upgradeCost" : 21829,
+		"upgradePoint" : "144,206"
+	},
+	
+	{
+		"baseAttribute" : "12,136#",
+		"bottomPic" : 1005,
+		"level" : 8,
+		"rank" : 47,
+		"rankName" : 5,
+		"upgradeCost" : 21862,
+		"upgradePoint" : "141,80"
+	},
+	
+	{
+		"baseAttribute" : "1,136#",
+		"bottomPic" : 1005,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 48,
+		"rankName" : 5,
+		"targetAttribute" : "2,471674#4,23584#",
+		"targetAttributePer" : 9600,
+		"upgradeCost" : 21895,
+		"upgradePoint" : "438,435"
+	},
+	
+	{
+		"baseAttribute" : "2,2726#",
+		"bottomPic" : 1005,
+		"level" : 2,
+		"rank" : 48,
+		"rankName" : 5,
+		"upgradeCost" : 21928,
+		"upgradePoint" : "247,469"
+	},
+	
+	{
+		"baseAttribute" : "3,136#",
+		"bottomPic" : 1005,
+		"level" : 3,
+		"rank" : 48,
+		"rankName" : 5,
+		"upgradeCost" : 21961,
+		"upgradePoint" : "265,390"
+	},
+	
+	{
+		"baseAttribute" : "4,136#",
+		"bottomPic" : 1005,
+		"level" : 4,
+		"rank" : 48,
+		"rankName" : 5,
+		"upgradeCost" : 21993,
+		"upgradePoint" : "335,272"
+	},
+	
+	{
+		"baseAttribute" : "5,136#",
+		"bottomPic" : 1005,
+		"level" : 5,
+		"rank" : 48,
+		"rankName" : 5,
+		"upgradeCost" : 22026,
+		"upgradePoint" : "450,179"
+	},
+	
+	{
+		"baseAttribute" : "6,137#",
+		"bottomPic" : 1005,
+		"level" : 6,
+		"rank" : 48,
+		"rankName" : 5,
+		"upgradeCost" : 22059,
+		"upgradePoint" : "284,119"
+	},
+	
+	{
+		"baseAttribute" : "11,137#",
+		"bottomPic" : 1005,
+		"level" : 7,
+		"rank" : 48,
+		"rankName" : 5,
+		"upgradeCost" : 22091,
+		"upgradePoint" : "144,206"
+	},
+	
+	{
+		"baseAttribute" : "12,137#",
+		"bottomPic" : 1005,
+		"level" : 8,
+		"rank" : 48,
+		"rankName" : 5,
+		"upgradeCost" : 22124,
+		"upgradePoint" : "141,80"
+	},
+	
+	{
+		"baseAttribute" : "1,137#",
+		"bottomPic" : 1005,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 49,
+		"rankName" : 5,
+		"targetAttribute" : "2,485731#4,24287#",
+		"targetAttributePer" : 9800,
+		"upgradeCost" : 22156,
+		"upgradePoint" : "438,435"
+	},
+	
+	{
+		"baseAttribute" : "2,2738#",
+		"bottomPic" : 1005,
+		"level" : 2,
+		"rank" : 49,
+		"rankName" : 5,
+		"upgradeCost" : 22189,
+		"upgradePoint" : "247,469"
+	},
+	
+	{
+		"baseAttribute" : "3,137#",
+		"bottomPic" : 1005,
+		"level" : 3,
+		"rank" : 49,
+		"rankName" : 5,
+		"upgradeCost" : 22221,
+		"upgradePoint" : "265,390"
+	},
+	
+	{
+		"baseAttribute" : "4,137#",
+		"bottomPic" : 1005,
+		"level" : 4,
+		"rank" : 49,
+		"rankName" : 5,
+		"upgradeCost" : 22253,
+		"upgradePoint" : "335,272"
+	},
+	
+	{
+		"baseAttribute" : "5,137#",
+		"bottomPic" : 1005,
+		"level" : 5,
+		"rank" : 49,
+		"rankName" : 5,
+		"upgradeCost" : 22285,
+		"upgradePoint" : "450,179"
+	},
+	
+	{
+		"baseAttribute" : "6,137#",
+		"bottomPic" : 1005,
+		"level" : 6,
+		"rank" : 49,
+		"rankName" : 5,
+		"upgradeCost" : 22317,
+		"upgradePoint" : "284,119"
+	},
+	
+	{
+		"baseAttribute" : "11,137#",
+		"bottomPic" : 1005,
+		"level" : 7,
+		"rank" : 49,
+		"rankName" : 5,
+		"upgradeCost" : 22350,
+		"upgradePoint" : "144,206"
+	},
+	
+	{
+		"baseAttribute" : "12,137#",
+		"bottomPic" : 1005,
+		"level" : 8,
+		"rank" : 49,
+		"rankName" : 5,
+		"upgradeCost" : 22382,
+		"upgradePoint" : "141,80"
+	},
+	
+	{
+		"baseAttribute" : "1,137#",
+		"bottomPic" : 1005,
+		"broadcast" : 1,
+		"level" : 1,
+		"rank" : 50,
+		"rankName" : 5,
+		"targetAttribute" : "2,500000#4,25000#",
+		"targetAttributePer" : 10000,
+		"upgradeCost" : 22413,
+		"upgradePoint" : "438,435"
+	},
+	
+	{
+		"baseAttribute" : "2,2748#",
+		"bottomPic" : 1005,
+		"level" : 2,
+		"rank" : 50,
+		"rankName" : 5,
+		"upgradeCost" : 22445,
+		"upgradePoint" : "247,469"
+	},
+	
+	{
+		"baseAttribute" : "3,138#",
+		"bottomPic" : 1005,
+		"level" : 3,
+		"rank" : 50,
+		"rankName" : 5,
+		"upgradeCost" : 22477,
+		"upgradePoint" : "265,390"
+	},
+	
+	{
+		"baseAttribute" : "4,138#",
+		"bottomPic" : 1005,
+		"level" : 4,
+		"rank" : 50,
+		"rankName" : 5,
+		"upgradeCost" : 22509,
+		"upgradePoint" : "335,272"
+	},
+	
+	{
+		"baseAttribute" : "5,138#",
+		"bottomPic" : 1005,
+		"level" : 5,
+		"rank" : 50,
+		"rankName" : 5,
+		"upgradeCost" : 22541,
+		"upgradePoint" : "450,179"
+	},
+	
+	{
+		"baseAttribute" : "6,138#",
+		"bottomPic" : 1005,
+		"level" : 6,
+		"rank" : 50,
+		"rankName" : 5,
+		"upgradeCost" : 22572,
+		"upgradePoint" : "284,119"
+	},
+	
+	{
+		"baseAttribute" : "11,138#",
+		"bottomPic" : 1005,
+		"level" : 7,
+		"rank" : 50,
+		"rankName" : 5,
+		"upgradeCost" : 22604,
+		"upgradePoint" : "144,206"
+	},
+	
+	{
+		"baseAttribute" : "12,138#",
+		"bottomPic" : 1005,
+		"level" : 8,
+		"rank" : 50,
+		"rankName" : 5,
+		"upgradeCost" : 22635,
+		"upgradePoint" : "141,80"
+	}
+]

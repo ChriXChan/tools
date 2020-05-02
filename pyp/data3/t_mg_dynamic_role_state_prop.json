@@ -1,0 +1,519 @@
+
+[
+	
+	{
+		"code" : 30051017,
+		"roleExp" : 90000
+	},
+	
+	{
+		"code" : 30051017,
+		"roleExp" : 187050,
+		"roleState" : 1
+	},
+	
+	{
+		"code" : 30051017,
+		"roleExp" : 337393,
+		"roleState" : 2
+	},
+	
+	{
+		"code" : 30051017,
+		"roleExp" : 365724,
+		"roleState" : 3
+	},
+	
+	{
+		"code" : 30051017,
+		"roleExp" : 385440,
+		"roleState" : 4
+	},
+	
+	{
+		"code" : 30051017,
+		"roleExp" : 405724,
+		"roleState" : 5
+	},
+	
+	{
+		"code" : 30051017,
+		"roleExp" : 461770,
+		"roleState" : 6
+	},
+	
+	{
+		"code" : 30051017,
+		"roleExp" : 498747,
+		"roleState" : 7
+	},
+	
+	{
+		"code" : 30051017,
+		"roleExp" : 665650,
+		"roleState" : 8
+	},
+	
+	{
+		"code" : 30051017,
+		"roleExp" : 1075091,
+		"roleState" : 9
+	},
+	
+	{
+		"code" : 30051017,
+		"roleExp" : 1582634,
+		"roleState" : 10
+	},
+	
+	{
+		"code" : 30051017,
+		"roleExp" : 2517546,
+		"roleState" : 11
+	},
+	
+	{
+		"code" : 30051017,
+		"roleExp" : 2535128,
+		"roleState" : 12
+	},
+	
+	{
+		"code" : 30051017,
+		"roleExp" : 3334689,
+		"roleState" : 13
+	},
+	
+	{
+		"code" : 30051017,
+		"roleExp" : 3334689,
+		"roleState" : 14
+	},
+	
+	{
+		"code" : 30051018,
+		"roleExp" : 930
+	},
+	
+	{
+		"code" : 30051018,
+		"roleExp" : 1700,
+		"roleState" : 1
+	},
+	
+	{
+		"code" : 30051018,
+		"roleExp" : 3100,
+		"roleState" : 2
+	},
+	
+	{
+		"code" : 30051018,
+		"roleExp" : 4400,
+		"roleState" : 3
+	},
+	
+	{
+		"code" : 30051018,
+		"roleExp" : 6000,
+		"roleState" : 4
+	},
+	
+	{
+		"code" : 30051018,
+		"roleExp" : 7900,
+		"roleState" : 5
+	},
+	
+	{
+		"code" : 30051018,
+		"roleExp" : 10400,
+		"roleState" : 6
+	},
+	
+	{
+		"code" : 30051018,
+		"roleExp" : 13700,
+		"roleState" : 7
+	},
+	
+	{
+		"code" : 30051018,
+		"roleExp" : 18200,
+		"roleState" : 8
+	},
+	
+	{
+		"code" : 30051018,
+		"roleExp" : 24300,
+		"roleState" : 9
+	},
+	
+	{
+		"code" : 30051018,
+		"roleExp" : 33000,
+		"roleState" : 10
+	},
+	
+	{
+		"code" : 30051018,
+		"roleExp" : 45300,
+		"roleState" : 11
+	},
+	
+	{
+		"code" : 30051018,
+		"roleExp" : 63100,
+		"roleState" : 12
+	},
+	
+	{
+		"code" : 30051018,
+		"roleExp" : 89100,
+		"roleState" : 13
+	},
+	
+	{
+		"code" : 30051036,
+		"roleExp" : 90000
+	},
+	
+	{
+		"code" : 30051036,
+		"roleExp" : 187050,
+		"roleState" : 1
+	},
+	
+	{
+		"code" : 30051036,
+		"roleExp" : 337393,
+		"roleState" : 2
+	},
+	
+	{
+		"code" : 30051036,
+		"roleExp" : 365724,
+		"roleState" : 3
+	},
+	
+	{
+		"code" : 30051036,
+		"roleExp" : 385440,
+		"roleState" : 4
+	},
+	
+	{
+		"code" : 30051036,
+		"roleExp" : 405724,
+		"roleState" : 5
+	},
+	
+	{
+		"code" : 30051036,
+		"roleExp" : 461770,
+		"roleState" : 6
+	},
+	
+	{
+		"code" : 30051036,
+		"roleExp" : 498747,
+		"roleState" : 7
+	},
+	
+	{
+		"code" : 30051036,
+		"roleExp" : 665650,
+		"roleState" : 8
+	},
+	
+	{
+		"code" : 30051036,
+		"roleExp" : 1075091,
+		"roleState" : 9
+	},
+	
+	{
+		"code" : 30051036,
+		"roleExp" : 1582634,
+		"roleState" : 10
+	},
+	
+	{
+		"code" : 30051036,
+		"roleExp" : 2517546,
+		"roleState" : 11
+	},
+	
+	{
+		"code" : 30051036,
+		"roleExp" : 2535128,
+		"roleState" : 12
+	},
+	
+	{
+		"code" : 30051036,
+		"roleExp" : 3334689,
+		"roleState" : 13
+	},
+	
+	{
+		"code" : 30051036,
+		"roleExp" : 3334689,
+		"roleState" : 14
+	},
+	
+	{
+		"code" : 30051037,
+		"roleExp" : 900000
+	},
+	
+	{
+		"code" : 30051037,
+		"roleExp" : 1870500,
+		"roleState" : 1
+	},
+	
+	{
+		"code" : 30051037,
+		"roleExp" : 3373930,
+		"roleState" : 2
+	},
+	
+	{
+		"code" : 30051037,
+		"roleExp" : 3657240,
+		"roleState" : 3
+	},
+	
+	{
+		"code" : 30051037,
+		"roleExp" : 3854400,
+		"roleState" : 4
+	},
+	
+	{
+		"code" : 30051037,
+		"roleExp" : 4057240,
+		"roleState" : 5
+	},
+	
+	{
+		"code" : 30051037,
+		"roleExp" : 4617700,
+		"roleState" : 6
+	},
+	
+	{
+		"code" : 30051037,
+		"roleExp" : 4987470,
+		"roleState" : 7
+	},
+	
+	{
+		"code" : 30051037,
+		"roleExp" : 6656500,
+		"roleState" : 8
+	},
+	
+	{
+		"code" : 30051037,
+		"roleExp" : 10750910,
+		"roleState" : 9
+	},
+	
+	{
+		"code" : 30051037,
+		"roleExp" : 15826340,
+		"roleState" : 10
+	},
+	
+	{
+		"code" : 30051037,
+		"roleExp" : 25175460,
+		"roleState" : 11
+	},
+	
+	{
+		"code" : 30051037,
+		"roleExp" : 25351280,
+		"roleState" : 12
+	},
+	
+	{
+		"code" : 30051037,
+		"roleExp" : 33346890,
+		"roleState" : 13
+	},
+	
+	{
+		"code" : 30051038,
+		"roleExp" : 90000
+	},
+	
+	{
+		"code" : 30051038,
+		"roleExp" : 187050,
+		"roleState" : 1
+	},
+	
+	{
+		"code" : 30051038,
+		"roleExp" : 337393,
+		"roleState" : 2
+	},
+	
+	{
+		"code" : 30051038,
+		"roleExp" : 365724,
+		"roleState" : 3
+	},
+	
+	{
+		"code" : 30051038,
+		"roleExp" : 385440,
+		"roleState" : 4
+	},
+	
+	{
+		"code" : 30051038,
+		"roleExp" : 405724,
+		"roleState" : 5
+	},
+	
+	{
+		"code" : 30051038,
+		"roleExp" : 461770,
+		"roleState" : 6
+	},
+	
+	{
+		"code" : 30051038,
+		"roleExp" : 498747,
+		"roleState" : 7
+	},
+	
+	{
+		"code" : 30051038,
+		"roleExp" : 665650,
+		"roleState" : 8
+	},
+	
+	{
+		"code" : 30051038,
+		"roleExp" : 1075091,
+		"roleState" : 9
+	},
+	
+	{
+		"code" : 30051038,
+		"roleExp" : 1582634,
+		"roleState" : 10
+	},
+	
+	{
+		"code" : 30051038,
+		"roleExp" : 2517546,
+		"roleState" : 11
+	},
+	
+	{
+		"code" : 30051038,
+		"roleExp" : 2535128,
+		"roleState" : 12
+	},
+	
+	{
+		"code" : 30051038,
+		"roleExp" : 3334689,
+		"roleState" : 13
+	},
+	
+	{
+		"code" : 30051038,
+		"roleExp" : 3334689,
+		"roleState" : 14
+	},
+	
+	{
+		"code" : 30051039,
+		"roleExp" : 900000
+	},
+	
+	{
+		"code" : 30051039,
+		"roleExp" : 1870500,
+		"roleState" : 1
+	},
+	
+	{
+		"code" : 30051039,
+		"roleExp" : 3373930,
+		"roleState" : 2
+	},
+	
+	{
+		"code" : 30051039,
+		"roleExp" : 3657240,
+		"roleState" : 3
+	},
+	
+	{
+		"code" : 30051039,
+		"roleExp" : 3854400,
+		"roleState" : 4
+	},
+	
+	{
+		"code" : 30051039,
+		"roleExp" : 4057240,
+		"roleState" : 5
+	},
+	
+	{
+		"code" : 30051039,
+		"roleExp" : 4617700,
+		"roleState" : 6
+	},
+	
+	{
+		"code" : 30051039,
+		"roleExp" : 4987470,
+		"roleState" : 7
+	},
+	
+	{
+		"code" : 30051039,
+		"roleExp" : 6656500,
+		"roleState" : 8
+	},
+	
+	{
+		"code" : 30051039,
+		"roleExp" : 10750910,
+		"roleState" : 9
+	},
+	
+	{
+		"code" : 30051039,
+		"roleExp" : 15826340,
+		"roleState" : 10
+	},
+	
+	{
+		"code" : 30051039,
+		"roleExp" : 25175460,
+		"roleState" : 11
+	},
+	
+	{
+		"code" : 30051039,
+		"roleExp" : 25351280,
+		"roleState" : 12
+	},
+	
+	{
+		"code" : 30051039,
+		"roleExp" : 33346890,
+		"roleState" : 13
+	}
+]

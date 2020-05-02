@@ -1,0 +1,119 @@
+
+[
+	
+	{
+		"guildScore" : 10,
+		"id" : 1001,
+		"playerScore" : 100,
+		"type" : 1
+	},
+	
+	{
+		"guildScore" : 5,
+		"id" : 1002,
+		"playerScore" : 50,
+		"type" : 2
+	},
+	
+	{
+		"guildScore" : 2,
+		"id" : 1003,
+		"playerScore" : 10,
+		"type" : 3
+	},
+	
+	{
+		"guildScore" : 1,
+		"id" : 1004,
+		"playerScore" : 5,
+		"type" : 4
+	},
+	
+	{
+		"guildScore" : 100,
+		"id" : 1005,
+		"type" : 5
+	},
+	
+	{
+		"id" : 1006,
+		"playerScore" : 100,
+		"type" : 9
+	},
+	
+	{
+		"guildScore" : 1000,
+		"id" : 1007,
+		"type" : 6
+	},
+	
+	{
+		"id" : 1008,
+		"playerScore" : 500,
+		"type" : 7
+	},
+	
+	{
+		"guildScore" : 1000,
+		"id" : 1009,
+		"key1" : 1,
+		"key2" : 1,
+		"type" : 8
+	},
+	
+	{
+		"guildScore" : 900,
+		"id" : 1010,
+		"key1" : 2,
+		"key2" : 2,
+		"type" : 8
+	},
+	
+	{
+		"guildScore" : 800,
+		"id" : 1011,
+		"key1" : 3,
+		"key2" : 3,
+		"type" : 8
+	},
+	
+	{
+		"guildScore" : 700,
+		"id" : 1012,
+		"key1" : 4,
+		"key2" : 4,
+		"type" : 8
+	},
+	
+	{
+		"guildScore" : 600,
+		"id" : 1013,
+		"key1" : 5,
+		"key2" : 5,
+		"type" : 8
+	},
+	
+	{
+		"guildScore" : 500,
+		"id" : 1014,
+		"key1" : 6,
+		"key2" : 10,
+		"type" : 8
+	},
+	
+	{
+		"guildScore" : 300,
+		"id" : 1015,
+		"key1" : 11,
+		"key2" : 20,
+		"type" : 8
+	},
+	
+	{
+		"guildScore" : 100,
+		"id" : 1016,
+		"key1" : 21,
+		"key2" : 999,
+		"type" : 8
+	}
+]

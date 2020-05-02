@@ -1,0 +1,1035 @@
+
+[
+	
+	{
+		"openCondDesc" : "激活神器 九霄秘法 后开启",
+		"openCondList" : "4,1",
+		"openId" : 1,
+		"openKey" : "UniqueSkill",
+		"openKeyStr" : "天怒",
+		"showModel" : "skill_0#0#110001",
+		"showStyleUnopen" : 2
+	},
+	
+	{
+		"openCondDesc" : "80级开启转生",
+		"openCondList" : "1,80",
+		"openId" : 2,
+		"openKey" : "RoleState",
+		"openKeyStr" : "转生",
+		"openLevel" : 80,
+		"previewLevel" : 50,
+		"showModel" : "rolestate_0#0#110006",
+		"showStyleUnopen" : 3
+	},
+	
+	{
+		"openCondDesc" : "20级开启神装",
+		"openCondList" : "1,20",
+		"openId" : 3,
+		"openKey" : "GodEquip",
+		"openKeyStr" : "神装",
+		"showStyleUnopen" : 2
+	},
+	
+	{
+		"openCondDesc" : "56级开启符文",
+		"openCondList" : "1,56",
+		"openId" : 4,
+		"openKey" : "Rune",
+		"openKeyStr" : "符文",
+		"showStyleUnopen" : 2
+	},
+	
+	{
+		"openCondDesc" : "请完成新手任务后再开启",
+		"openCondList" : "1,1",
+		"openId" : 5,
+		"openKey" : "DragonSoul",
+		"openKeyStr" : "龙炎甲",
+		"openTask" : 300084,
+		"showModel" : "dragonsoul_0#0#1",
+		"showStyleUnopen" : 2
+	},
+	
+	{
+		"openCondDesc" : "通关第15关开启",
+		"openCondList" : "3,15",
+		"openId" : 6,
+		"openKey" : "Wing",
+		"openKeyStr" : "翅膀",
+		"showModel" : "wing_0#wing_1#4002",
+		"showStyleUnopen" : 2
+	},
+	
+	{
+		"openCondList" : "1,1",
+		"openId" : 7,
+		"openKey" : "Skill",
+		"openKeyStr" : "技能"
+	},
+	
+	{
+		"openCondDesc" : "35级开启经脉",
+		"openCondList" : "1,35",
+		"openId" : 8,
+		"openKey" : "Nerve",
+		"openKeyStr" : "经脉",
+		"showStyleUnopen" : 2
+	},
+	
+	{
+		"openCondList" : "1,1",
+		"openId" : 9,
+		"openKey" : "TrainGodWeapon",
+		"openKeyStr" : "神器"
+	},
+	
+	{
+		"openCondList" : "1,1",
+		"openId" : 10,
+		"openKey" : "Strengthen",
+		"openKeyStr" : "强化"
+	},
+	
+	{
+		"openCondDesc" : "20级开启精炼",
+		"openCondList" : "1,20",
+		"openId" : 11,
+		"openKey" : "Refine",
+		"openKeyStr" : "精炼",
+		"showStyleUnopen" : 2
+	},
+	
+	{
+		"openCondList" : "1,1",
+		"openId" : 12,
+		"openKey" : "Casting",
+		"openKeyStr" : "铸造"
+	},
+	
+	{
+		"openCondDesc" : "通关第14关开启",
+		"openCondList" : "3,14",
+		"openId" : 13,
+		"openKey" : "Arena",
+		"openKeyStr" : "竞技",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "70级开启",
+		"openCondList" : "1,70",
+		"openId" : 14,
+		"openKey" : "KingBattle",
+		"openKeyStr" : "皇者争霸",
+		"showModel" : "king_0#0#110005",
+		"showStyleUnopen" : 2
+	},
+	
+	{
+		"openCondDesc" : "38级开启",
+		"openCondList" : "1,38",
+		"openId" : 15,
+		"openKey" : "CopyHall",
+		"openKeyStr" : "副本",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "38级开启",
+		"openCondList" : "1,38",
+		"openId" : 16,
+		"openKey" : "CopyHallMaterial",
+		"openKeyStr" : "材料副本分页",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "48级开启",
+		"openCondList" : "1,48",
+		"openId" : 17,
+		"openKey" : "CopyHallDaily",
+		"openKeyStr" : "日常副本分页",
+		"showStyleUnopen" : 2
+	},
+	
+	{
+		"openCondDesc" : "56级开启",
+		"openCondList" : "1,56",
+		"openId" : 18,
+		"openKey" : "CopyHallTower",
+		"openKeyStr" : "诛仙塔",
+		"showModel" : "copytower_0#0#110002",
+		"showStyleUnopen" : 2
+	},
+	
+	{
+		"openCondDesc" : "30级任务开启",
+		"openCondList" : "1,1",
+		"openId" : 19,
+		"openKey" : "Boss",
+		"openKeyStr" : "boss",
+		"openTask" : 300063,
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "30级开启",
+		"openCondList" : "1,30",
+		"openId" : 20,
+		"openKey" : "PersonalBoss",
+		"openKeyStr" : "个人boss",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "52级开启",
+		"openCondList" : "1,52",
+		"openId" : 21,
+		"openKey" : "WorldBoss",
+		"openKeyStr" : "野外boss",
+		"showStyleUnopen" : 2
+	},
+	
+	{
+		"openCondDesc" : "开服第2天且达到1转开启",
+		"openCondList" : "5,2#2,1",
+		"openId" : 22,
+		"openKey" : "SecretBoss",
+		"openKeyStr" : "秘境boss",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "请完成新手任务后再开启",
+		"openCondList" : "1,1",
+		"openId" : 23,
+		"openKey" : "InnerPower",
+		"openKeyStr" : "内功",
+		"openTask" : 300035,
+		"showModel" : "innerpower_0#0#1",
+		"showStyleUnopen" : 2
+	},
+	
+	{
+		"openCondDesc" : "激活神器 龙麟玺 后开启",
+		"openCondList" : "4,3",
+		"openId" : 24,
+		"openKey" : "TrainNobility",
+		"openKeyStr" : "仙位",
+		"showStyleUnopen" : 2
+	},
+	
+	{
+		"openCondDesc" : "40级开启寻宝",
+		"openCondList" : "1,40",
+		"openId" : 25,
+		"openKey" : "Lottery",
+		"openKeyStr" : "寻宝",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "40级开启装备寻宝",
+		"openCondList" : "1,40",
+		"openId" : 26,
+		"openKey" : "LotteryEquip",
+		"openKeyStr" : "装备寻宝",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "40级开启符文寻宝",
+		"openCondList" : "1,40",
+		"openId" : 27,
+		"openKey" : "LotteryRune",
+		"openKeyStr" : "符文寻宝",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondList" : "1,30",
+		"openId" : 28,
+		"openKey" : "ActivityOpenServer",
+		"openKeyStr" : "开服活动",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondList" : "1,30",
+		"openId" : 29,
+		"openKey" : "ActivityShop",
+		"openKeyStr" : "特惠活动",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondList" : "1,30",
+		"openId" : 30,
+		"openKey" : "ActivityRecharge",
+		"openKeyStr" : "充值返利活动",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondList" : "1,1",
+		"openId" : 31,
+		"openKey" : "RechargeFirst",
+		"openKeyStr" : "首充",
+		"openTask" : 300015,
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "60级开启仙盟",
+		"openCondList" : "1,60",
+		"openId" : 32,
+		"openKey" : "GuildNew",
+		"openKeyStr" : "仙盟",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "请完成新手任务后再开启",
+		"openCondList" : "1,1",
+		"openId" : 33,
+		"openKey" : "CreateNewRole",
+		"openKeyStr" : "开启角色",
+		"openTask" : 300001,
+		"showStyleUnopen" : 2
+	},
+	
+	{
+		"openCondDesc" : "40级以前不能在世界频道聊天",
+		"openCondList" : "1,40",
+		"openId" : 34,
+		"openKey" : "WorldTalk",
+		"openKeyStr" : "聊天",
+		"showStyleUnopen" : 2
+	},
+	
+	{
+		"openCondDesc" : "30级开启",
+		"openCondList" : "1,30",
+		"openId" : 35,
+		"openKey" : "MonthCard",
+		"openKeyStr" : "月卡",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "30级开启",
+		"openCondList" : "1,30",
+		"openId" : 36,
+		"openKey" : "Welfare",
+		"openKeyStr" : "福利",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondList" : "1,9999",
+		"openId" : 37,
+		"openKey" : "TrainMedal",
+		"openKeyStr" : "勋章",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "通关第14关",
+		"openCondList" : "3,14",
+		"openId" : 38,
+		"openKey" : "Encounter",
+		"openKeyStr" : "仙道斗法",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondList" : "1,60",
+		"openId" : 39,
+		"openKey" : "TimeLimitedTask",
+		"openKeyStr" : "限时任务",
+		"showModel" : "timelimit_0#0#110003",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondList" : "1,60",
+		"openId" : 40,
+		"openKey" : "Rank",
+		"openKeyStr" : "排行榜",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondList" : "1,30",
+		"openId" : 41,
+		"openKey" : "MiniClient",
+		"openKeyStr" : "微端",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondList" : "1,30",
+		"openId" : 42,
+		"openKey" : "Share",
+		"openKeyStr" : "分享",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondList" : "1,30",
+		"openId" : 43,
+		"openKey" : "Focus",
+		"openKeyStr" : "关注",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondList" : "1,30",
+		"openId" : 44,
+		"openKey" : "SaveDesktop",
+		"openKeyStr" : "保存桌面",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "30级开启",
+		"openCondList" : "1,30",
+		"openId" : 45,
+		"openKey" : "Shop",
+		"openKeyStr" : "商城",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "开服3天开启",
+		"openCondList" : "5,3",
+		"openId" : 46,
+		"openKey" : "GodBoss",
+		"openKeyStr" : "神域BOSS",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "55级可参与",
+		"openCondList" : "1,55",
+		"openId" : 47,
+		"openKey" : "TimeLimitBoss",
+		"openKeyStr" : "世界BOSS",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "65级开启",
+		"openCondList" : "1,65",
+		"openId" : 48,
+		"openKey" : "Mining",
+		"openKeyStr" : "矿洞",
+		"showModel" : "mining_0#0#110004",
+		"showStyleUnopen" : 2
+	},
+	
+	{
+		"openCondList" : "1,30",
+		"openId" : 49,
+		"openKey" : "VipGiftPackage",
+		"openKeyStr" : "VIP礼包",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "65级开启",
+		"openCondList" : "1,65",
+		"openId" : 50,
+		"openKey" : "Immortals",
+		"openKeyStr" : "神兵",
+		"showStyleUnopen" : 2
+	},
+	
+	{
+		"openCondDesc" : "激活神器 双生法宝 后开启",
+		"openCondList" : "4,2",
+		"openId" : 51,
+		"openKey" : "MagicWeapon",
+		"openKeyStr" : "法宝",
+		"showStyleUnopen" : 2
+	},
+	
+	{
+		"openCondDesc" : "65级可参与",
+		"openCondList" : "1,65",
+		"openId" : 52,
+		"openKey" : "ExpPositionOccupy",
+		"openKeyStr" : "阵地争夺",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondList" : "1,1",
+		"openId" : 53,
+		"openKey" : "UniqueSkillPreviewEnd",
+		"openKeyStr" : "天怒预告结束"
+	},
+	
+	{
+		"openCondList" : "1,1",
+		"openId" : 54,
+		"openKey" : "SkillRedTipStart",
+		"openKeyStr" : "显示技能红点开始",
+		"openTask" : 300028
+	},
+	
+	{
+		"openCondList" : "1,1",
+		"openId" : 55,
+		"openKey" : "MapMaskEnd",
+		"openKeyStr" : "地图遮罩层结束",
+		"openTask" : 300061
+	},
+	
+	{
+		"openCondList" : "1,1",
+		"openId" : 56,
+		"openKey" : "TaskGuideAutoSubmitEnd",
+		"openKeyStr" : "任务指引自动提交结束",
+		"openTask" : 300031
+	},
+	
+	{
+		"openCondList" : "1,1",
+		"openId" : 57,
+		"openKey" : "CheckPointShow",
+		"openKeyStr" : "显示关卡"
+	},
+	
+	{
+		"openCondDesc" : "3转开启混元装备",
+		"openCondList" : "2,3",
+		"openId" : 58,
+		"openKey" : "AncientEquip",
+		"openKeyStr" : "混元装备",
+		"showStyleUnopen" : 2
+	},
+	
+	{
+		"openCondDesc" : "65级可参与",
+		"openCondList" : "1,65",
+		"openId" : 59,
+		"openKey" : "CampBattle",
+		"openKeyStr" : "激战五洲",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "1转开启",
+		"openCondList" : "2,1",
+		"openId" : 60,
+		"openKey" : "SkillCheats",
+		"openKeyStr" : "灵印",
+		"showStyleUnopen" : 2
+	},
+	
+	{
+		"openCondList" : "1,1",
+		"openId" : 61,
+		"openKey" : "CheckPointAutoFight",
+		"openKeyStr" : "开始关卡挂机",
+		"openTask" : 300001
+	},
+	
+	{
+		"openCondDesc" : "3转开启混元寻宝",
+		"openCondList" : "2,3",
+		"openId" : 62,
+		"openKey" : "LotteryAncient",
+		"openKeyStr" : "混元寻宝",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "40级开启好友功能",
+		"openCondList" : "1,40",
+		"openId" : 63,
+		"openKey" : "Friend",
+		"openKeyStr" : "好友",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondList" : "1,1",
+		"openId" : 64,
+		"openKey" : "RechargeFirstTips",
+		"openKeyStr" : "首充tips弹出",
+		"openTask" : 300047
+	},
+	
+	{
+		"openCondList" : "1,9999",
+		"openId" : 65,
+		"openKey" : "Vip3Reward",
+		"openKeyStr" : "VIP3奖励领取",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "通关第10关开启",
+		"openCondList" : "3,10",
+		"openId" : 66,
+		"openKey" : "Pet",
+		"openKeyStr" : "宠物",
+		"showModel" : "pet_0#pet_1#2001",
+		"showStyleUnopen" : 2
+	},
+	
+	{
+		"openCondDesc" : "5转开启",
+		"openCondList" : "5,15#2,5",
+		"openId" : 67,
+		"openKey" : "Cross",
+		"openKeyStr" : "跨服大厅",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "5转开启",
+		"openCondList" : "5,15#2,5",
+		"openId" : 68,
+		"openKey" : "CrossBoss",
+		"openKeyStr" : "宠物岛",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondList" : "1,30",
+		"openId" : 69,
+		"openKey" : "ActivitySeven",
+		"openKeyStr" : "七日狂欢",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondList" : "1,30",
+		"openId" : 70,
+		"openKey" : "ActivityContinue",
+		"openKeyStr" : "活动大类",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "开服11天并达到4转后开启",
+		"openCondList" : "5,11#2,4",
+		"openId" : 71,
+		"openKey" : "HeartMethod",
+		"openKeyStr" : "秘籍",
+		"showStyleUnopen" : 2
+	},
+	
+	{
+		"openCondDesc" : "开服6天并达到1转后开启",
+		"openCondList" : "1,999#5,6",
+		"openId" : 72,
+		"openKey" : "CopyHallLegend",
+		"openKeyStr" : "五洲探险",
+		"showStyleUnopen" : 2
+	},
+	
+	{
+		"openCondDesc" : "开服11天并达到4转后开启",
+		"openCondList" : "5,11#2,4",
+		"openId" : 73,
+		"openKey" : "CopyDefend",
+		"openKeyStr" : "守护天书",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondList" : "1,30",
+		"openId" : 74,
+		"openKey" : "ActivityBoss",
+		"openKeyStr" : "全民BOSS",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "开服5天并达到3转后开启",
+		"openCondList" : "5,5#2,3",
+		"openId" : 75,
+		"openKey" : "QiongCang",
+		"openKeyStr" : "天赋",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "3转开启",
+		"openCondList" : "5,5#2,3",
+		"openId" : 76,
+		"openKey" : "QiongCangBoss",
+		"openKeyStr" : "穹苍圣殿",
+		"showStyleUnopen" : 2
+	},
+	
+	{
+		"openCondDesc" : "3转开启",
+		"openCondList" : "5,5#2,3",
+		"openId" : 77,
+		"openKey" : "TalentCultivate",
+		"openKeyStr" : "天赋培养",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondList" : "1,30",
+		"openId" : 78,
+		"openKey" : "GuildBattle",
+		"openKeyStr" : "仙盟争霸",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondList" : "1,1",
+		"openId" : 79,
+		"openKey" : "RechargeFirstTipEnd",
+		"openKeyStr" : "首充tips取消弹出",
+		"openTask" : 309056
+	},
+	
+	{
+		"openCondDesc" : "开服5天并达到1转后开启",
+		"openCondList" : "2,1#5,5",
+		"openId" : 80,
+		"openKey" : "Peak",
+		"openKeyStr" : "巅峰赛季",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "开服2天并达到1转后开启",
+		"openCondList" : "5,2#2,1",
+		"openId" : 81,
+		"openKey" : "PackSmelt",
+		"openKeyStr" : "背包-合成",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondList" : "1,1",
+		"openId" : 82,
+		"openKey" : "Certification",
+		"openKeyStr" : "实名认证",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "任务300054后开启",
+		"openCondList" : "1,1",
+		"openId" : 83,
+		"openKey" : "StartCheckAutoCheckpoint",
+		"openKeyStr" : "自动战斗指引开启任务",
+		"openTask" : 300059
+	},
+	
+	{
+		"openCondDesc" : "任务300089后结束",
+		"openCondList" : "1,2",
+		"openId" : 84,
+		"openKey" : "EndCheckAutoCheckpoint",
+		"openKeyStr" : "自动战斗指引结束任务",
+		"openTask" : 300089
+	},
+	
+	{
+		"openCondList" : "1,9999",
+		"openId" : 85,
+		"openKey" : "OnlineRewardFashion",
+		"openKeyStr" : "免费时装",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "开服第2天且达到1转开启",
+		"openCondList" : "5,2#2,1",
+		"openId" : 86,
+		"openKey" : "Team2",
+		"openKeyStr" : "跨服组队",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "60级开启",
+		"openCondList" : "1,60",
+		"openId" : 87,
+		"openKey" : "ColorStone",
+		"openKeyStr" : "五色石",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondList" : "1,30",
+		"openId" : 88,
+		"openKey" : "ActivityInvest",
+		"openKeyStr" : "投资计划",
+		"openLevel" : 30,
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "13转开启",
+		"openCondList" : "1,999#",
+		"openId" : 89,
+		"openKey" : "MagicLaw",
+		"openKeyStr" : "法阵",
+		"showModel" : "law_0#law_1#1001",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "开服第15天且等级达到50级时开启",
+		"openCondList" : "1,50#5,15",
+		"openId" : 90,
+		"openKey" : "ChatCross",
+		"openKeyStr" : "跨服聊天",
+		"openLevel" : 50,
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "请完成新手任务后再开启",
+		"openCondList" : "1,1",
+		"openId" : 91,
+		"openKey" : "ShapeBattle",
+		"openKeyStr" : "战阵",
+		"openTask" : 301098,
+		"showModel" : "battle_0#battle_1#9001",
+		"showStyleUnopen" : 2
+	},
+	
+	{
+		"openCondDesc" : "通关第19关开启",
+		"openCondList" : "3,19#",
+		"openId" : 92,
+		"openKey" : "Mount",
+		"openKeyStr" : "坐骑",
+		"showModel" : "mount_0#mount_1#1001",
+		"showStyleUnopen" : 2
+	},
+	
+	{
+		"openCondDesc" : "60级开启",
+		"openCondList" : "1,999#",
+		"openId" : 93,
+		"openKey" : "GuildTeam",
+		"openKeyStr" : "仙盟BOSS",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "通关25关任务开启",
+		"openCondList" : "1,1",
+		"openId" : 94,
+		"openKey" : "ShapeSwordPool",
+		"openKeyStr" : "剑池",
+		"openTask" : 300069,
+		"showModel" : "swordpool_0#swordpool_1#100010",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "60级开启",
+		"openCondList" : "1,60",
+		"openId" : 95,
+		"openKey" : "BossComing",
+		"openKeyStr" : "BOSS来袭",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "60级开启",
+		"openCondList" : "1,60",
+		"openId" : 96,
+		"openKey" : "Question",
+		"openKeyStr" : "科举比赛",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "65级开启",
+		"openCondList" : "1,65#",
+		"openId" : 97,
+		"openKey" : "MainCity",
+		"openKeyStr" : "主城",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "65级开启",
+		"openCondList" : "1,65#",
+		"openId" : 98,
+		"openKey" : "CrossStair",
+		"openKeyStr" : "青云之巅",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openId" : 99,
+		"openKey" : "ShowRechargeFirst",
+		"openKeyStr" : "首充弹出",
+		"openTask" : 300080,
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondList" : "1,40",
+		"openId" : 100,
+		"openKey" : "MultiRole",
+		"openKeyStr" : "伙伴图标",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondList" : "1,30",
+		"openId" : 101,
+		"openKey" : "Operating",
+		"openKeyStr" : "运营礼包",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "6转开启",
+		"openCondList" : "5,20#2,6#",
+		"openId" : 102,
+		"openKey" : "darkSecret",
+		"openKeyStr" : "暗之秘境BOSS",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondList" : "1,30",
+		"openId" : 103,
+		"openKey" : "ActivityLimitRecharge",
+		"openKeyStr" : "限时充值",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "开服20天并达到6转后开启",
+		"openCondList" : "2,6#5,20#",
+		"openId" : 104,
+		"openKey" : "BeastBattle",
+		"openKeyStr" : "神兽助战",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCheckpoint" : 1,
+		"openCondDesc" : "通关第1关开启",
+		"openCondList" : "3,1#",
+		"openId" : 105,
+		"openKey" : "CheckPointRoleState",
+		"openKeyStr" : "等级开启关卡修为奖励",
+		"showStyleUnopen" : 2
+	},
+	
+	{
+		"openCondDesc" : "功能暂未开放",
+		"openCondList" : "5,15#1,999#",
+		"openId" : 106,
+		"openKey" : "CrossBossGuild",
+		"openKeyStr" : "神兽入侵",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "开服15天并达到5转后开启",
+		"openCondList" : "2,5#5,15#",
+		"openId" : 107,
+		"openKey" : "Contest",
+		"openKeyStr" : "跨服1VN",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "60级加入仙盟后开启",
+		"openCondList" : "1,60#",
+		"openId" : 108,
+		"openKey" : "GuildDefend",
+		"openKeyStr" : "守护仙盟",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "激活神器 龙麟玺 后开启",
+		"openCondList" : "4,3",
+		"openId" : 109,
+		"openKey" : "Daily",
+		"openKeyStr" : "日常",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "功能暂未开放",
+		"openCondList" : "1,999#",
+		"openId" : 110,
+		"openKey" : "Qualifying",
+		"openKeyStr" : "跨服3V3",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openId" : 111,
+		"openKey" : "GuideSelectAutoXp",
+		"openKeyStr" : "自动释放天怒指引",
+		"openTask" : 300052,
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "功能暂未开放",
+		"openCondList" : "5,15#1,999#",
+		"openId" : 112,
+		"openKey" : "GuildWarehouse",
+		"openKeyStr" : "仙盟仓库",
+		"showStyleUnopen" : 2
+	},
+	
+	{
+		"openId" : 113,
+		"openKey" : "WorldBossGuide",
+		"openKeyStr" : "40级野外BOSS引导",
+		"openTask" : 300064
+	},
+	
+	{
+		"openCondList" : "1,30",
+		"openId" : 114,
+		"openKey" : "ActivityHoliday",
+		"openKeyStr" : "萌猪赐福",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondList" : "1,30",
+		"openId" : 115,
+		"openKey" : "ActivityHoliday2",
+		"openKeyStr" : "植树节",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "功能暂未开放",
+		"openCondList" : "1,999#",
+		"openId" : 116,
+		"openKey" : "Shura",
+		"openKeyStr" : "修罗装备",
+		"showStyleUnopen" : 1
+	},
+	
+	{
+		"openCondDesc" : "任务309999后开启",
+		"openId" : 117,
+		"openKey" : "RedTipOpen",
+		"openKeyStr" : "角色红点跳转开启",
+		"openTask" : 309999,
+		"showStyleUnopen" : 1
+	}
+]

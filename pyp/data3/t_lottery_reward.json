@@ -1,0 +1,73 @@
+
+[
+	
+	{
+		"lotteryTimes" : 5,
+		"rewardStr" : "3,22000000,5",
+		"rewardStrMail" : "3,22000000,5",
+		"type" : 4
+	},
+	
+	{
+		"lotteryTimes" : 10,
+		"rewardStr" : "2,35,120",
+		"rewardStrMail" : "3,41950100,1",
+		"type" : 2
+	},
+	
+	{
+		"lotteryTimes" : 15,
+		"rewardStr" : "3,22000000,15",
+		"rewardStrMail" : "3,22000000,15",
+		"type" : 4
+	},
+	
+	{
+		"lotteryTimes" : 20,
+		"rewardStr" : "2,35,280",
+		"rewardStrMail" : "3,41950101,1",
+		"type" : 2
+	},
+	
+	{
+		"lotteryTimes" : 30,
+		"rewardStr" : "2,35,600",
+		"rewardStrMail" : "3,41950102,1",
+		"type" : 2
+	},
+	
+	{
+		"lotteryTimes" : 35,
+		"rewardStr" : "3,22000000,35",
+		"rewardStrMail" : "3,22000000,35",
+		"type" : 4
+	},
+	
+	{
+		"lotteryTimes" : 40,
+		"rewardStr" : "2,35,1000",
+		"rewardStrMail" : "3,41950103,1",
+		"type" : 2
+	},
+	
+	{
+		"lotteryTimes" : 50,
+		"rewardStr" : "2,35,2000",
+		"rewardStrMail" : "3,41950104,1",
+		"type" : 2
+	},
+	
+	{
+		"lotteryTimes" : 65,
+		"rewardStr" : "3,22000000,65",
+		"rewardStrMail" : "3,22000000,65",
+		"type" : 4
+	},
+	
+	{
+		"lotteryTimes" : 125,
+		"rewardStr" : "3,22000000,125",
+		"rewardStrMail" : "3,22000000,125",
+		"type" : 4
+	}
+]

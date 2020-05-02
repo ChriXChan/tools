@@ -1,0 +1,2183 @@
+
+[
+	
+	{
+		"attrList" : "1,72#3,29#",
+		"code" : 1,
+		"itemCode" : 31600101,
+		"level" : 1,
+		"quality" : 4,
+		"shape" : 2,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,178#3,71#",
+		"code" : 2,
+		"itemCode" : 31600102,
+		"level" : 2,
+		"quality" : 4,
+		"shape" : 2,
+		"smeltPlanCode" : 22,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,358#3,143#",
+		"code" : 3,
+		"itemCode" : 31600103,
+		"level" : 3,
+		"quality" : 4,
+		"shape" : 2,
+		"smeltPlanCode" : 23,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,664#3,266#",
+		"code" : 4,
+		"itemCode" : 31600104,
+		"level" : 4,
+		"quality" : 4,
+		"shape" : 2,
+		"smeltPlanCode" : 24,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,1184#3,474#",
+		"code" : 5,
+		"itemCode" : 31600105,
+		"level" : 5,
+		"quality" : 5,
+		"shape" : 2,
+		"smeltPlanCode" : 25,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,2068#3,827#",
+		"code" : 6,
+		"itemCode" : 31600106,
+		"level" : 6,
+		"quality" : 5,
+		"shape" : 2,
+		"smeltPlanCode" : 26,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,3572#3,1429#",
+		"code" : 7,
+		"itemCode" : 31600107,
+		"level" : 7,
+		"quality" : 5,
+		"shape" : 2,
+		"smeltPlanCode" : 27,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,6127#3,2451#",
+		"code" : 8,
+		"itemCode" : 31600108,
+		"level" : 8,
+		"quality" : 5,
+		"shape" : 2,
+		"smeltPlanCode" : 28,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,10472#3,4189#",
+		"code" : 9,
+		"itemCode" : 31600109,
+		"level" : 9,
+		"quality" : 5,
+		"shape" : 2,
+		"smeltPlanCode" : 29,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,17857#3,7143#",
+		"code" : 10,
+		"itemCode" : 31600110,
+		"level" : 10,
+		"quality" : 5,
+		"shape" : 2,
+		"smeltPlanCode" : 30,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,72#3,29#",
+		"code" : 11,
+		"itemCode" : 31600201,
+		"level" : 1,
+		"quality" : 4,
+		"shape" : 2,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,178#3,71#",
+		"code" : 12,
+		"itemCode" : 31600202,
+		"level" : 2,
+		"quality" : 4,
+		"shape" : 2,
+		"smeltPlanCode" : 31,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,358#3,143#",
+		"code" : 13,
+		"itemCode" : 31600203,
+		"level" : 3,
+		"quality" : 4,
+		"shape" : 2,
+		"smeltPlanCode" : 32,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,664#3,266#",
+		"code" : 14,
+		"itemCode" : 31600204,
+		"level" : 4,
+		"quality" : 4,
+		"shape" : 2,
+		"smeltPlanCode" : 33,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,1184#3,474#",
+		"code" : 15,
+		"itemCode" : 31600205,
+		"level" : 5,
+		"quality" : 5,
+		"shape" : 2,
+		"smeltPlanCode" : 34,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,2068#3,827#",
+		"code" : 16,
+		"itemCode" : 31600206,
+		"level" : 6,
+		"quality" : 5,
+		"shape" : 2,
+		"smeltPlanCode" : 35,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,3572#3,1429#",
+		"code" : 17,
+		"itemCode" : 31600207,
+		"level" : 7,
+		"quality" : 5,
+		"shape" : 2,
+		"smeltPlanCode" : 36,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,6127#3,2451#",
+		"code" : 18,
+		"itemCode" : 31600208,
+		"level" : 8,
+		"quality" : 5,
+		"shape" : 2,
+		"smeltPlanCode" : 37,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,10472#3,4189#",
+		"code" : 19,
+		"itemCode" : 31600209,
+		"level" : 9,
+		"quality" : 5,
+		"shape" : 2,
+		"smeltPlanCode" : 38,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,17857#3,7143#",
+		"code" : 20,
+		"itemCode" : 31600210,
+		"level" : 10,
+		"quality" : 5,
+		"shape" : 2,
+		"smeltPlanCode" : 39,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "2,2880#4,29#",
+		"code" : 21,
+		"itemCode" : 31600301,
+		"level" : 1,
+		"quality" : 4,
+		"shape" : 2,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,7117#4,71#",
+		"code" : 22,
+		"itemCode" : 31600302,
+		"level" : 2,
+		"quality" : 4,
+		"shape" : 2,
+		"smeltPlanCode" : 40,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,14314#4,143#",
+		"code" : 23,
+		"itemCode" : 31600303,
+		"level" : 3,
+		"quality" : 4,
+		"shape" : 2,
+		"smeltPlanCode" : 41,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,26554#4,266#",
+		"code" : 24,
+		"itemCode" : 31600304,
+		"level" : 4,
+		"quality" : 4,
+		"shape" : 2,
+		"smeltPlanCode" : 42,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,47360#4,474#",
+		"code" : 25,
+		"itemCode" : 31600305,
+		"level" : 5,
+		"quality" : 5,
+		"shape" : 2,
+		"smeltPlanCode" : 43,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,82731#4,827#",
+		"code" : 26,
+		"itemCode" : 31600306,
+		"level" : 6,
+		"quality" : 5,
+		"shape" : 2,
+		"smeltPlanCode" : 44,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,142863#4,1429#",
+		"code" : 27,
+		"itemCode" : 31600307,
+		"level" : 7,
+		"quality" : 5,
+		"shape" : 2,
+		"smeltPlanCode" : 45,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,245086#4,2451#",
+		"code" : 28,
+		"itemCode" : 31600308,
+		"level" : 8,
+		"quality" : 5,
+		"shape" : 2,
+		"smeltPlanCode" : 46,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,418863#4,4189#",
+		"code" : 29,
+		"itemCode" : 31600309,
+		"level" : 9,
+		"quality" : 5,
+		"shape" : 2,
+		"smeltPlanCode" : 47,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,714286#4,7143#",
+		"code" : 30,
+		"itemCode" : 31600310,
+		"level" : 10,
+		"quality" : 5,
+		"shape" : 2,
+		"smeltPlanCode" : 48,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,2880#4,29#",
+		"code" : 31,
+		"itemCode" : 31600401,
+		"level" : 1,
+		"quality" : 4,
+		"shape" : 2,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,7117#4,71#",
+		"code" : 32,
+		"itemCode" : 31600402,
+		"level" : 2,
+		"quality" : 4,
+		"shape" : 2,
+		"smeltPlanCode" : 49,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,14314#4,143#",
+		"code" : 33,
+		"itemCode" : 31600403,
+		"level" : 3,
+		"quality" : 4,
+		"shape" : 2,
+		"smeltPlanCode" : 50,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,26554#4,266#",
+		"code" : 34,
+		"itemCode" : 31600404,
+		"level" : 4,
+		"quality" : 4,
+		"shape" : 2,
+		"smeltPlanCode" : 51,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,47360#4,474#",
+		"code" : 35,
+		"itemCode" : 31600405,
+		"level" : 5,
+		"quality" : 5,
+		"shape" : 2,
+		"smeltPlanCode" : 52,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,82731#4,827#",
+		"code" : 36,
+		"itemCode" : 31600406,
+		"level" : 6,
+		"quality" : 5,
+		"shape" : 2,
+		"smeltPlanCode" : 53,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,142863#4,1429#",
+		"code" : 37,
+		"itemCode" : 31600407,
+		"level" : 7,
+		"quality" : 5,
+		"shape" : 2,
+		"smeltPlanCode" : 54,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,245086#4,2451#",
+		"code" : 38,
+		"itemCode" : 31600408,
+		"level" : 8,
+		"quality" : 5,
+		"shape" : 2,
+		"smeltPlanCode" : 55,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,418863#4,4189#",
+		"code" : 39,
+		"itemCode" : 31600409,
+		"level" : 9,
+		"quality" : 5,
+		"shape" : 2,
+		"smeltPlanCode" : 56,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,714286#4,7143#",
+		"code" : 40,
+		"itemCode" : 31600410,
+		"level" : 10,
+		"quality" : 5,
+		"shape" : 2,
+		"smeltPlanCode" : 57,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "1,72#3,29#",
+		"code" : 41,
+		"itemCode" : 34040001,
+		"level" : 1,
+		"quality" : 4,
+		"shape" : 5,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,178#3,71#",
+		"code" : 42,
+		"itemCode" : 34040002,
+		"level" : 2,
+		"quality" : 4,
+		"shape" : 5,
+		"smeltPlanCode" : 58,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,358#3,143#",
+		"code" : 43,
+		"itemCode" : 34040003,
+		"level" : 3,
+		"quality" : 4,
+		"shape" : 5,
+		"smeltPlanCode" : 59,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,664#3,266#",
+		"code" : 44,
+		"itemCode" : 34040004,
+		"level" : 4,
+		"quality" : 4,
+		"shape" : 5,
+		"smeltPlanCode" : 60,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,1184#3,474#",
+		"code" : 45,
+		"itemCode" : 34040005,
+		"level" : 5,
+		"quality" : 5,
+		"shape" : 5,
+		"smeltPlanCode" : 61,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,2068#3,827#",
+		"code" : 46,
+		"itemCode" : 34040006,
+		"level" : 6,
+		"quality" : 5,
+		"shape" : 5,
+		"smeltPlanCode" : 62,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,3572#3,1429#",
+		"code" : 47,
+		"itemCode" : 34040007,
+		"level" : 7,
+		"quality" : 5,
+		"shape" : 5,
+		"smeltPlanCode" : 63,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,6127#3,2451#",
+		"code" : 48,
+		"itemCode" : 34040008,
+		"level" : 8,
+		"quality" : 5,
+		"shape" : 5,
+		"smeltPlanCode" : 64,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,10472#3,4189#",
+		"code" : 49,
+		"itemCode" : 34040009,
+		"level" : 9,
+		"quality" : 5,
+		"shape" : 5,
+		"smeltPlanCode" : 65,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,17857#3,7143#",
+		"code" : 50,
+		"itemCode" : 34040010,
+		"level" : 10,
+		"quality" : 5,
+		"shape" : 5,
+		"smeltPlanCode" : 66,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,72#3,29#",
+		"code" : 51,
+		"itemCode" : 34040101,
+		"level" : 1,
+		"quality" : 4,
+		"shape" : 5,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,178#3,71#",
+		"code" : 52,
+		"itemCode" : 34040102,
+		"level" : 2,
+		"quality" : 4,
+		"shape" : 5,
+		"smeltPlanCode" : 67,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,358#3,143#",
+		"code" : 53,
+		"itemCode" : 34040103,
+		"level" : 3,
+		"quality" : 4,
+		"shape" : 5,
+		"smeltPlanCode" : 68,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,664#3,266#",
+		"code" : 54,
+		"itemCode" : 34040104,
+		"level" : 4,
+		"quality" : 4,
+		"shape" : 5,
+		"smeltPlanCode" : 69,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,1184#3,474#",
+		"code" : 55,
+		"itemCode" : 34040105,
+		"level" : 5,
+		"quality" : 5,
+		"shape" : 5,
+		"smeltPlanCode" : 70,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,2068#3,827#",
+		"code" : 56,
+		"itemCode" : 34040106,
+		"level" : 6,
+		"quality" : 5,
+		"shape" : 5,
+		"smeltPlanCode" : 71,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,3572#3,1429#",
+		"code" : 57,
+		"itemCode" : 34040107,
+		"level" : 7,
+		"quality" : 5,
+		"shape" : 5,
+		"smeltPlanCode" : 72,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,6127#3,2451#",
+		"code" : 58,
+		"itemCode" : 34040108,
+		"level" : 8,
+		"quality" : 5,
+		"shape" : 5,
+		"smeltPlanCode" : 73,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,10472#3,4189#",
+		"code" : 59,
+		"itemCode" : 34040109,
+		"level" : 9,
+		"quality" : 5,
+		"shape" : 5,
+		"smeltPlanCode" : 74,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,17857#3,7143#",
+		"code" : 60,
+		"itemCode" : 34040110,
+		"level" : 10,
+		"quality" : 5,
+		"shape" : 5,
+		"smeltPlanCode" : 75,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "2,2880#4,29#",
+		"code" : 61,
+		"itemCode" : 34040201,
+		"level" : 1,
+		"quality" : 4,
+		"shape" : 5,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,7117#4,71#",
+		"code" : 62,
+		"itemCode" : 34040202,
+		"level" : 2,
+		"quality" : 4,
+		"shape" : 5,
+		"smeltPlanCode" : 76,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,14314#4,143#",
+		"code" : 63,
+		"itemCode" : 34040203,
+		"level" : 3,
+		"quality" : 4,
+		"shape" : 5,
+		"smeltPlanCode" : 77,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,26554#4,266#",
+		"code" : 64,
+		"itemCode" : 34040204,
+		"level" : 4,
+		"quality" : 4,
+		"shape" : 5,
+		"smeltPlanCode" : 78,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,47360#4,474#",
+		"code" : 65,
+		"itemCode" : 34040205,
+		"level" : 5,
+		"quality" : 5,
+		"shape" : 5,
+		"smeltPlanCode" : 79,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,82731#4,827#",
+		"code" : 66,
+		"itemCode" : 34040206,
+		"level" : 6,
+		"quality" : 5,
+		"shape" : 5,
+		"smeltPlanCode" : 80,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,142863#4,1429#",
+		"code" : 67,
+		"itemCode" : 34040207,
+		"level" : 7,
+		"quality" : 5,
+		"shape" : 5,
+		"smeltPlanCode" : 81,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,245086#4,2451#",
+		"code" : 68,
+		"itemCode" : 34040208,
+		"level" : 8,
+		"quality" : 5,
+		"shape" : 5,
+		"smeltPlanCode" : 82,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,418863#4,4189#",
+		"code" : 69,
+		"itemCode" : 34040209,
+		"level" : 9,
+		"quality" : 5,
+		"shape" : 5,
+		"smeltPlanCode" : 83,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,714286#4,7143#",
+		"code" : 70,
+		"itemCode" : 34040210,
+		"level" : 10,
+		"quality" : 5,
+		"shape" : 5,
+		"smeltPlanCode" : 84,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,2880#4,29#",
+		"code" : 71,
+		"itemCode" : 34040301,
+		"level" : 1,
+		"quality" : 4,
+		"shape" : 5,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,7117#4,71#",
+		"code" : 72,
+		"itemCode" : 34040302,
+		"level" : 2,
+		"quality" : 4,
+		"shape" : 5,
+		"smeltPlanCode" : 85,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,14314#4,143#",
+		"code" : 73,
+		"itemCode" : 34040303,
+		"level" : 3,
+		"quality" : 4,
+		"shape" : 5,
+		"smeltPlanCode" : 86,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,26554#4,266#",
+		"code" : 74,
+		"itemCode" : 34040304,
+		"level" : 4,
+		"quality" : 4,
+		"shape" : 5,
+		"smeltPlanCode" : 87,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,47360#4,474#",
+		"code" : 75,
+		"itemCode" : 34040305,
+		"level" : 5,
+		"quality" : 5,
+		"shape" : 5,
+		"smeltPlanCode" : 88,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,82731#4,827#",
+		"code" : 76,
+		"itemCode" : 34040306,
+		"level" : 6,
+		"quality" : 5,
+		"shape" : 5,
+		"smeltPlanCode" : 89,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,142863#4,1429#",
+		"code" : 77,
+		"itemCode" : 34040307,
+		"level" : 7,
+		"quality" : 5,
+		"shape" : 5,
+		"smeltPlanCode" : 90,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,245086#4,2451#",
+		"code" : 78,
+		"itemCode" : 34040308,
+		"level" : 8,
+		"quality" : 5,
+		"shape" : 5,
+		"smeltPlanCode" : 91,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,418863#4,4189#",
+		"code" : 79,
+		"itemCode" : 34040309,
+		"level" : 9,
+		"quality" : 5,
+		"shape" : 5,
+		"smeltPlanCode" : 92,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,714286#4,7143#",
+		"code" : 80,
+		"itemCode" : 34040310,
+		"level" : 10,
+		"quality" : 5,
+		"shape" : 5,
+		"smeltPlanCode" : 93,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "1,72#3,29#",
+		"code" : 81,
+		"itemCode" : 35040001,
+		"level" : 1,
+		"quality" : 4,
+		"shape" : 9,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,178#3,71#",
+		"code" : 82,
+		"itemCode" : 35040002,
+		"level" : 2,
+		"quality" : 4,
+		"shape" : 9,
+		"smeltPlanCode" : 94,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,358#3,143#",
+		"code" : 83,
+		"itemCode" : 35040003,
+		"level" : 3,
+		"quality" : 4,
+		"shape" : 9,
+		"smeltPlanCode" : 95,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,664#3,266#",
+		"code" : 84,
+		"itemCode" : 35040004,
+		"level" : 4,
+		"quality" : 4,
+		"shape" : 9,
+		"smeltPlanCode" : 96,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,1184#3,474#",
+		"code" : 85,
+		"itemCode" : 35040005,
+		"level" : 5,
+		"quality" : 5,
+		"shape" : 9,
+		"smeltPlanCode" : 97,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,2068#3,827#",
+		"code" : 86,
+		"itemCode" : 35040006,
+		"level" : 6,
+		"quality" : 5,
+		"shape" : 9,
+		"smeltPlanCode" : 98,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,3572#3,1429#",
+		"code" : 87,
+		"itemCode" : 35040007,
+		"level" : 7,
+		"quality" : 5,
+		"shape" : 9,
+		"smeltPlanCode" : 99,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,6127#3,2451#",
+		"code" : 88,
+		"itemCode" : 35040008,
+		"level" : 8,
+		"quality" : 5,
+		"shape" : 9,
+		"smeltPlanCode" : 100,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,10472#3,4189#",
+		"code" : 89,
+		"itemCode" : 35040009,
+		"level" : 9,
+		"quality" : 5,
+		"shape" : 9,
+		"smeltPlanCode" : 101,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,17857#3,7143#",
+		"code" : 90,
+		"itemCode" : 35040010,
+		"level" : 10,
+		"quality" : 5,
+		"shape" : 9,
+		"smeltPlanCode" : 102,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,72#3,29#",
+		"code" : 91,
+		"itemCode" : 35040101,
+		"level" : 1,
+		"quality" : 4,
+		"shape" : 9,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,178#3,71#",
+		"code" : 92,
+		"itemCode" : 35040102,
+		"level" : 2,
+		"quality" : 4,
+		"shape" : 9,
+		"smeltPlanCode" : 102,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,358#3,143#",
+		"code" : 93,
+		"itemCode" : 35040103,
+		"level" : 3,
+		"quality" : 4,
+		"shape" : 9,
+		"smeltPlanCode" : 103,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,664#3,266#",
+		"code" : 94,
+		"itemCode" : 35040104,
+		"level" : 4,
+		"quality" : 4,
+		"shape" : 9,
+		"smeltPlanCode" : 104,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,1184#3,474#",
+		"code" : 95,
+		"itemCode" : 35040105,
+		"level" : 5,
+		"quality" : 5,
+		"shape" : 9,
+		"smeltPlanCode" : 105,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,2068#3,827#",
+		"code" : 96,
+		"itemCode" : 35040106,
+		"level" : 6,
+		"quality" : 5,
+		"shape" : 9,
+		"smeltPlanCode" : 106,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,3572#3,1429#",
+		"code" : 97,
+		"itemCode" : 35040107,
+		"level" : 7,
+		"quality" : 5,
+		"shape" : 9,
+		"smeltPlanCode" : 107,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,6127#3,2451#",
+		"code" : 98,
+		"itemCode" : 35040108,
+		"level" : 8,
+		"quality" : 5,
+		"shape" : 9,
+		"smeltPlanCode" : 108,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,10472#3,4189#",
+		"code" : 99,
+		"itemCode" : 35040109,
+		"level" : 9,
+		"quality" : 5,
+		"shape" : 9,
+		"smeltPlanCode" : 109,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,17857#3,7143#",
+		"code" : 100,
+		"itemCode" : 35040110,
+		"level" : 10,
+		"quality" : 5,
+		"shape" : 9,
+		"smeltPlanCode" : 110,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "2,2880#4,29#",
+		"code" : 101,
+		"itemCode" : 35040201,
+		"level" : 1,
+		"quality" : 4,
+		"shape" : 9,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,7117#4,71#",
+		"code" : 102,
+		"itemCode" : 35040202,
+		"level" : 2,
+		"quality" : 4,
+		"shape" : 9,
+		"smeltPlanCode" : 110,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,14314#4,143#",
+		"code" : 103,
+		"itemCode" : 35040203,
+		"level" : 3,
+		"quality" : 4,
+		"shape" : 9,
+		"smeltPlanCode" : 111,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,26554#4,266#",
+		"code" : 104,
+		"itemCode" : 35040204,
+		"level" : 4,
+		"quality" : 4,
+		"shape" : 9,
+		"smeltPlanCode" : 112,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,47360#4,474#",
+		"code" : 105,
+		"itemCode" : 35040205,
+		"level" : 5,
+		"quality" : 5,
+		"shape" : 9,
+		"smeltPlanCode" : 113,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,82731#4,827#",
+		"code" : 106,
+		"itemCode" : 35040206,
+		"level" : 6,
+		"quality" : 5,
+		"shape" : 9,
+		"smeltPlanCode" : 114,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,142863#4,1429#",
+		"code" : 107,
+		"itemCode" : 35040207,
+		"level" : 7,
+		"quality" : 5,
+		"shape" : 9,
+		"smeltPlanCode" : 115,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,245086#4,2451#",
+		"code" : 108,
+		"itemCode" : 35040208,
+		"level" : 8,
+		"quality" : 5,
+		"shape" : 9,
+		"smeltPlanCode" : 116,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,418863#4,4189#",
+		"code" : 109,
+		"itemCode" : 35040209,
+		"level" : 9,
+		"quality" : 5,
+		"shape" : 9,
+		"smeltPlanCode" : 117,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,714286#4,7143#",
+		"code" : 110,
+		"itemCode" : 35040210,
+		"level" : 10,
+		"quality" : 5,
+		"shape" : 9,
+		"smeltPlanCode" : 118,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,2880#4,29#",
+		"code" : 111,
+		"itemCode" : 35040301,
+		"level" : 1,
+		"quality" : 4,
+		"shape" : 9,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,7117#4,71#",
+		"code" : 112,
+		"itemCode" : 35040302,
+		"level" : 2,
+		"quality" : 4,
+		"shape" : 9,
+		"smeltPlanCode" : 118,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,14314#4,143#",
+		"code" : 113,
+		"itemCode" : 35040303,
+		"level" : 3,
+		"quality" : 4,
+		"shape" : 9,
+		"smeltPlanCode" : 119,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,26554#4,266#",
+		"code" : 114,
+		"itemCode" : 35040304,
+		"level" : 4,
+		"quality" : 4,
+		"shape" : 9,
+		"smeltPlanCode" : 120,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,47360#4,474#",
+		"code" : 115,
+		"itemCode" : 35040305,
+		"level" : 5,
+		"quality" : 5,
+		"shape" : 9,
+		"smeltPlanCode" : 121,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,82731#4,827#",
+		"code" : 116,
+		"itemCode" : 35040306,
+		"level" : 6,
+		"quality" : 5,
+		"shape" : 9,
+		"smeltPlanCode" : 122,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,142863#4,1429#",
+		"code" : 117,
+		"itemCode" : 35040307,
+		"level" : 7,
+		"quality" : 5,
+		"shape" : 9,
+		"smeltPlanCode" : 123,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,245086#4,2451#",
+		"code" : 118,
+		"itemCode" : 35040308,
+		"level" : 8,
+		"quality" : 5,
+		"shape" : 9,
+		"smeltPlanCode" : 124,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,418863#4,4189#",
+		"code" : 119,
+		"itemCode" : 35040309,
+		"level" : 9,
+		"quality" : 5,
+		"shape" : 9,
+		"smeltPlanCode" : 125,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,714286#4,7143#",
+		"code" : 120,
+		"itemCode" : 35040310,
+		"level" : 10,
+		"quality" : 5,
+		"shape" : 9,
+		"smeltPlanCode" : 126,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "1,79#3,32#",
+		"code" : 121,
+		"itemCode" : 42480101,
+		"level" : 1,
+		"quality" : 4,
+		"shape" : 1,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,196#3,78#",
+		"code" : 122,
+		"itemCode" : 42480102,
+		"level" : 2,
+		"quality" : 4,
+		"shape" : 1,
+		"smeltPlanCode" : 130,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,394#3,157#",
+		"code" : 123,
+		"itemCode" : 42480103,
+		"level" : 3,
+		"quality" : 4,
+		"shape" : 1,
+		"smeltPlanCode" : 131,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,730#3,292#",
+		"code" : 124,
+		"itemCode" : 42480104,
+		"level" : 4,
+		"quality" : 4,
+		"shape" : 1,
+		"smeltPlanCode" : 132,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,1302#3,521#",
+		"code" : 125,
+		"itemCode" : 42480105,
+		"level" : 5,
+		"quality" : 5,
+		"shape" : 1,
+		"smeltPlanCode" : 133,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,2275#3,910#",
+		"code" : 126,
+		"itemCode" : 42480106,
+		"level" : 6,
+		"quality" : 5,
+		"shape" : 1,
+		"smeltPlanCode" : 134,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,3929#3,1571#",
+		"code" : 127,
+		"itemCode" : 42480107,
+		"level" : 7,
+		"quality" : 5,
+		"shape" : 1,
+		"smeltPlanCode" : 135,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,6740#3,2696#",
+		"code" : 128,
+		"itemCode" : 42480108,
+		"level" : 8,
+		"quality" : 5,
+		"shape" : 1,
+		"smeltPlanCode" : 136,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,11519#3,4607#",
+		"code" : 129,
+		"itemCode" : 42480109,
+		"level" : 9,
+		"quality" : 5,
+		"shape" : 1,
+		"smeltPlanCode" : 137,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,19643#3,7857#",
+		"code" : 130,
+		"itemCode" : 42480110,
+		"level" : 10,
+		"quality" : 5,
+		"shape" : 1,
+		"smeltPlanCode" : 138,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,79#3,32#",
+		"code" : 131,
+		"itemCode" : 42480201,
+		"level" : 1,
+		"quality" : 4,
+		"shape" : 1,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,196#3,78#",
+		"code" : 132,
+		"itemCode" : 42480202,
+		"level" : 2,
+		"quality" : 4,
+		"shape" : 1,
+		"smeltPlanCode" : 139,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,394#3,157#",
+		"code" : 133,
+		"itemCode" : 42480203,
+		"level" : 3,
+		"quality" : 4,
+		"shape" : 1,
+		"smeltPlanCode" : 140,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,730#3,292#",
+		"code" : 134,
+		"itemCode" : 42480204,
+		"level" : 4,
+		"quality" : 4,
+		"shape" : 1,
+		"smeltPlanCode" : 141,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,1302#3,521#",
+		"code" : 135,
+		"itemCode" : 42480205,
+		"level" : 5,
+		"quality" : 5,
+		"shape" : 1,
+		"smeltPlanCode" : 142,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,2275#3,910#",
+		"code" : 136,
+		"itemCode" : 42480206,
+		"level" : 6,
+		"quality" : 5,
+		"shape" : 1,
+		"smeltPlanCode" : 143,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,3929#3,1571#",
+		"code" : 137,
+		"itemCode" : 42480207,
+		"level" : 7,
+		"quality" : 5,
+		"shape" : 1,
+		"smeltPlanCode" : 144,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,6740#3,2696#",
+		"code" : 138,
+		"itemCode" : 42480208,
+		"level" : 8,
+		"quality" : 5,
+		"shape" : 1,
+		"smeltPlanCode" : 145,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,11519#3,4607#",
+		"code" : 139,
+		"itemCode" : 42480209,
+		"level" : 9,
+		"quality" : 5,
+		"shape" : 1,
+		"smeltPlanCode" : 146,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,19643#3,7857#",
+		"code" : 140,
+		"itemCode" : 42480210,
+		"level" : 10,
+		"quality" : 5,
+		"shape" : 1,
+		"smeltPlanCode" : 147,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "2,3169#4,32#",
+		"code" : 141,
+		"itemCode" : 42480301,
+		"level" : 1,
+		"quality" : 4,
+		"shape" : 1,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,7829#4,78#",
+		"code" : 142,
+		"itemCode" : 42480302,
+		"level" : 2,
+		"quality" : 4,
+		"shape" : 1,
+		"smeltPlanCode" : 148,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,15749#4,157#",
+		"code" : 143,
+		"itemCode" : 42480303,
+		"level" : 3,
+		"quality" : 4,
+		"shape" : 1,
+		"smeltPlanCode" : 149,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,29211#4,292#",
+		"code" : 144,
+		"itemCode" : 42480304,
+		"level" : 4,
+		"quality" : 4,
+		"shape" : 1,
+		"smeltPlanCode" : 150,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,52097#4,521#",
+		"code" : 145,
+		"itemCode" : 42480305,
+		"level" : 5,
+		"quality" : 5,
+		"shape" : 1,
+		"smeltPlanCode" : 151,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,91006#4,910#",
+		"code" : 146,
+		"itemCode" : 42480306,
+		"level" : 6,
+		"quality" : 5,
+		"shape" : 1,
+		"smeltPlanCode" : 152,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,157149#4,1571#",
+		"code" : 147,
+		"itemCode" : 42480307,
+		"level" : 7,
+		"quality" : 5,
+		"shape" : 1,
+		"smeltPlanCode" : 153,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,269594#4,2696#",
+		"code" : 148,
+		"itemCode" : 42480308,
+		"level" : 8,
+		"quality" : 5,
+		"shape" : 1,
+		"smeltPlanCode" : 154,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,460749#4,4607#",
+		"code" : 149,
+		"itemCode" : 42480309,
+		"level" : 9,
+		"quality" : 5,
+		"shape" : 1,
+		"smeltPlanCode" : 155,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,785714#4,7857#",
+		"code" : 150,
+		"itemCode" : 42480310,
+		"level" : 10,
+		"quality" : 5,
+		"shape" : 1,
+		"smeltPlanCode" : 156,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,3169#4,32#",
+		"code" : 151,
+		"itemCode" : 42480401,
+		"level" : 1,
+		"quality" : 4,
+		"shape" : 1,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,7829#4,78#",
+		"code" : 152,
+		"itemCode" : 42480402,
+		"level" : 2,
+		"quality" : 4,
+		"shape" : 1,
+		"smeltPlanCode" : 157,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,15749#4,157#",
+		"code" : 153,
+		"itemCode" : 42480403,
+		"level" : 3,
+		"quality" : 4,
+		"shape" : 1,
+		"smeltPlanCode" : 158,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,29211#4,292#",
+		"code" : 154,
+		"itemCode" : 42480404,
+		"level" : 4,
+		"quality" : 4,
+		"shape" : 1,
+		"smeltPlanCode" : 159,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,52097#4,521#",
+		"code" : 155,
+		"itemCode" : 42480405,
+		"level" : 5,
+		"quality" : 5,
+		"shape" : 1,
+		"smeltPlanCode" : 160,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,91006#4,910#",
+		"code" : 156,
+		"itemCode" : 42480406,
+		"level" : 6,
+		"quality" : 5,
+		"shape" : 1,
+		"smeltPlanCode" : 161,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,157149#4,1571#",
+		"code" : 157,
+		"itemCode" : 42480407,
+		"level" : 7,
+		"quality" : 5,
+		"shape" : 1,
+		"smeltPlanCode" : 162,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,269594#4,2696#",
+		"code" : 158,
+		"itemCode" : 42480408,
+		"level" : 8,
+		"quality" : 5,
+		"shape" : 1,
+		"smeltPlanCode" : 163,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,460749#4,4607#",
+		"code" : 159,
+		"itemCode" : 42480409,
+		"level" : 9,
+		"quality" : 5,
+		"shape" : 1,
+		"smeltPlanCode" : 164,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,785714#4,7857#",
+		"code" : 160,
+		"itemCode" : 42480410,
+		"level" : 10,
+		"quality" : 5,
+		"shape" : 1,
+		"smeltPlanCode" : 165,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "1,72#3,29#",
+		"code" : 161,
+		"itemCode" : 36040001,
+		"level" : 1,
+		"quality" : 4,
+		"shape" : 10,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,178#3,71#",
+		"code" : 162,
+		"itemCode" : 36040002,
+		"level" : 2,
+		"quality" : 4,
+		"shape" : 10,
+		"smeltPlanCode" : 166,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,358#3,143#",
+		"code" : 163,
+		"itemCode" : 36040003,
+		"level" : 3,
+		"quality" : 4,
+		"shape" : 10,
+		"smeltPlanCode" : 167,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,664#3,266#",
+		"code" : 164,
+		"itemCode" : 36040004,
+		"level" : 4,
+		"quality" : 4,
+		"shape" : 10,
+		"smeltPlanCode" : 168,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,1184#3,474#",
+		"code" : 165,
+		"itemCode" : 36040005,
+		"level" : 5,
+		"quality" : 5,
+		"shape" : 10,
+		"smeltPlanCode" : 169,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,2068#3,827#",
+		"code" : 166,
+		"itemCode" : 36040006,
+		"level" : 6,
+		"quality" : 5,
+		"shape" : 10,
+		"smeltPlanCode" : 170,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,3572#3,1429#",
+		"code" : 167,
+		"itemCode" : 36040007,
+		"level" : 7,
+		"quality" : 5,
+		"shape" : 10,
+		"smeltPlanCode" : 171,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,6127#3,2451#",
+		"code" : 168,
+		"itemCode" : 36040008,
+		"level" : 8,
+		"quality" : 5,
+		"shape" : 10,
+		"smeltPlanCode" : 172,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,10472#3,4189#",
+		"code" : 169,
+		"itemCode" : 36040009,
+		"level" : 9,
+		"quality" : 5,
+		"shape" : 10,
+		"smeltPlanCode" : 173,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,17857#3,7143#",
+		"code" : 170,
+		"itemCode" : 36040010,
+		"level" : 10,
+		"quality" : 5,
+		"shape" : 10,
+		"smeltPlanCode" : 174,
+		"type" : 1
+	},
+	
+	{
+		"attrList" : "1,72#3,29#",
+		"code" : 171,
+		"itemCode" : 36040101,
+		"level" : 1,
+		"quality" : 4,
+		"shape" : 10,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,178#3,71#",
+		"code" : 172,
+		"itemCode" : 36040102,
+		"level" : 2,
+		"quality" : 4,
+		"shape" : 10,
+		"smeltPlanCode" : 175,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,358#3,143#",
+		"code" : 173,
+		"itemCode" : 36040103,
+		"level" : 3,
+		"quality" : 4,
+		"shape" : 10,
+		"smeltPlanCode" : 176,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,664#3,266#",
+		"code" : 174,
+		"itemCode" : 36040104,
+		"level" : 4,
+		"quality" : 4,
+		"shape" : 10,
+		"smeltPlanCode" : 177,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,1184#3,474#",
+		"code" : 175,
+		"itemCode" : 36040105,
+		"level" : 5,
+		"quality" : 5,
+		"shape" : 10,
+		"smeltPlanCode" : 178,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,2068#3,827#",
+		"code" : 176,
+		"itemCode" : 36040106,
+		"level" : 6,
+		"quality" : 5,
+		"shape" : 10,
+		"smeltPlanCode" : 179,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,3572#3,1429#",
+		"code" : 177,
+		"itemCode" : 36040107,
+		"level" : 7,
+		"quality" : 5,
+		"shape" : 10,
+		"smeltPlanCode" : 180,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,6127#3,2451#",
+		"code" : 178,
+		"itemCode" : 36040108,
+		"level" : 8,
+		"quality" : 5,
+		"shape" : 10,
+		"smeltPlanCode" : 181,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,10472#3,4189#",
+		"code" : 179,
+		"itemCode" : 36040109,
+		"level" : 9,
+		"quality" : 5,
+		"shape" : 10,
+		"smeltPlanCode" : 182,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "1,17857#3,7143#",
+		"code" : 180,
+		"itemCode" : 36040110,
+		"level" : 10,
+		"quality" : 5,
+		"shape" : 10,
+		"smeltPlanCode" : 183,
+		"type" : 3
+	},
+	
+	{
+		"attrList" : "2,2880#4,29#",
+		"code" : 181,
+		"itemCode" : 36040201,
+		"level" : 1,
+		"quality" : 4,
+		"shape" : 10,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,7117#4,71#",
+		"code" : 182,
+		"itemCode" : 36040202,
+		"level" : 2,
+		"quality" : 4,
+		"shape" : 10,
+		"smeltPlanCode" : 184,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,14314#4,143#",
+		"code" : 183,
+		"itemCode" : 36040203,
+		"level" : 3,
+		"quality" : 4,
+		"shape" : 10,
+		"smeltPlanCode" : 185,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,26554#4,266#",
+		"code" : 184,
+		"itemCode" : 36040204,
+		"level" : 4,
+		"quality" : 4,
+		"shape" : 10,
+		"smeltPlanCode" : 186,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,47360#4,474#",
+		"code" : 185,
+		"itemCode" : 36040205,
+		"level" : 5,
+		"quality" : 5,
+		"shape" : 10,
+		"smeltPlanCode" : 187,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,82731#4,827#",
+		"code" : 186,
+		"itemCode" : 36040206,
+		"level" : 6,
+		"quality" : 5,
+		"shape" : 10,
+		"smeltPlanCode" : 188,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,142863#4,1429#",
+		"code" : 187,
+		"itemCode" : 36040207,
+		"level" : 7,
+		"quality" : 5,
+		"shape" : 10,
+		"smeltPlanCode" : 189,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,245086#4,2451#",
+		"code" : 188,
+		"itemCode" : 36040208,
+		"level" : 8,
+		"quality" : 5,
+		"shape" : 10,
+		"smeltPlanCode" : 190,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,418863#4,4189#",
+		"code" : 189,
+		"itemCode" : 36040209,
+		"level" : 9,
+		"quality" : 5,
+		"shape" : 10,
+		"smeltPlanCode" : 191,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,714286#4,7143#",
+		"code" : 190,
+		"itemCode" : 36040210,
+		"level" : 10,
+		"quality" : 5,
+		"shape" : 10,
+		"smeltPlanCode" : 192,
+		"type" : 2
+	},
+	
+	{
+		"attrList" : "2,2880#4,29#",
+		"code" : 191,
+		"itemCode" : 36040301,
+		"level" : 1,
+		"quality" : 4,
+		"shape" : 10,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,7117#4,71#",
+		"code" : 192,
+		"itemCode" : 36040302,
+		"level" : 2,
+		"quality" : 4,
+		"shape" : 10,
+		"smeltPlanCode" : 193,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,14314#4,143#",
+		"code" : 193,
+		"itemCode" : 36040303,
+		"level" : 3,
+		"quality" : 4,
+		"shape" : 10,
+		"smeltPlanCode" : 194,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,26554#4,266#",
+		"code" : 194,
+		"itemCode" : 36040304,
+		"level" : 4,
+		"quality" : 4,
+		"shape" : 10,
+		"smeltPlanCode" : 195,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,47360#4,474#",
+		"code" : 195,
+		"itemCode" : 36040305,
+		"level" : 5,
+		"quality" : 5,
+		"shape" : 10,
+		"smeltPlanCode" : 196,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,82731#4,827#",
+		"code" : 196,
+		"itemCode" : 36040306,
+		"level" : 6,
+		"quality" : 5,
+		"shape" : 10,
+		"smeltPlanCode" : 197,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,142863#4,1429#",
+		"code" : 197,
+		"itemCode" : 36040307,
+		"level" : 7,
+		"quality" : 5,
+		"shape" : 10,
+		"smeltPlanCode" : 198,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,245086#4,2451#",
+		"code" : 198,
+		"itemCode" : 36040308,
+		"level" : 8,
+		"quality" : 5,
+		"shape" : 10,
+		"smeltPlanCode" : 199,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,418863#4,4189#",
+		"code" : 199,
+		"itemCode" : 36040309,
+		"level" : 9,
+		"quality" : 5,
+		"shape" : 10,
+		"smeltPlanCode" : 200,
+		"type" : 4
+	},
+	
+	{
+		"attrList" : "2,714286#4,7143#",
+		"code" : 200,
+		"itemCode" : 36040310,
+		"level" : 10,
+		"quality" : 5,
+		"shape" : 10,
+		"smeltPlanCode" : 201,
+		"type" : 4
+	}
+]

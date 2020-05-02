@@ -1,0 +1,616 @@
+
+[
+	
+	{
+		"careerList" : "0#1",
+		"category" : 1,
+		"oneId" : 1,
+		"twoIcon" : "10020001",
+		"twoId" : 1,
+		"twoIndex" : 1,
+		"twoName" : "全部"
+	},
+	
+	{
+		"careerList" : "1",
+		"category" : 1,
+		"oneId" : 1,
+		"twoIcon" : "10010101",
+		"twoId" : 2,
+		"twoIndex" : 2,
+		"twoName" : "武器",
+		"typeList" : "1"
+	},
+	
+	{
+		"category" : 1,
+		"oneId" : 1,
+		"twoIcon" : "10020001",
+		"twoId" : 3,
+		"twoIndex" : 3,
+		"twoName" : "项链",
+		"typeList" : "2"
+	},
+	
+	{
+		"category" : 1,
+		"oneId" : 1,
+		"twoIcon" : "10030001",
+		"twoId" : 4,
+		"twoIndex" : 4,
+		"twoName" : "手镯",
+		"typeList" : "3"
+	},
+	
+	{
+		"category" : 1,
+		"oneId" : 1,
+		"twoIcon" : "10040001",
+		"twoId" : 5,
+		"twoIndex" : 5,
+		"twoName" : "戒指",
+		"typeList" : "4"
+	},
+	
+	{
+		"category" : 1,
+		"oneId" : 1,
+		"twoIcon" : "10050101",
+		"twoId" : 6,
+		"twoIndex" : 6,
+		"twoName" : "护符",
+		"typeList" : "5"
+	},
+	
+	{
+		"careerList" : "1",
+		"category" : 1,
+		"oneId" : 1,
+		"twoIcon" : "10060101",
+		"twoId" : 7,
+		"twoIndex" : 7,
+		"twoName" : "护手",
+		"typeList" : "6"
+	},
+	
+	{
+		"careerList" : "1",
+		"category" : 1,
+		"oneId" : 1,
+		"twoIcon" : "10070101",
+		"twoId" : 8,
+		"twoIndex" : 8,
+		"twoName" : "衣服",
+		"typeList" : "7"
+	},
+	
+	{
+		"careerList" : "1",
+		"category" : 1,
+		"oneId" : 1,
+		"twoIcon" : "10080101",
+		"twoId" : 9,
+		"twoIndex" : 9,
+		"twoName" : "护腿",
+		"typeList" : "8"
+	},
+	
+	{
+		"careerList" : "1",
+		"category" : 1,
+		"oneId" : 1,
+		"twoIcon" : "10090101",
+		"twoId" : 10,
+		"twoIndex" : 10,
+		"twoName" : "头盔",
+		"typeList" : "9"
+	},
+	
+	{
+		"careerList" : "1",
+		"category" : 1,
+		"oneId" : 1,
+		"twoIcon" : "10100101",
+		"twoId" : 11,
+		"twoIndex" : 11,
+		"twoName" : "鞋子",
+		"typeList" : "10"
+	},
+	
+	{
+		"category" : 4,
+		"codeRemove" : "41992001#41992000#41993001#41993000#42030001#42030002#42030003#42030004#41994100#41994200#",
+		"oneId" : 2,
+		"twoIcon" : "40244001",
+		"twoId" : 12,
+		"twoIndex" : 1,
+		"twoName" : "套装石碎片",
+		"typeList" : "203"
+	},
+	
+	{
+		"careerList" : "1",
+		"category" : 4,
+		"oneId" : 2,
+		"twoIcon" : "40241101",
+		"twoId" : 13,
+		"twoIndex" : 2,
+		"twoName" : "男套装石",
+		"typeList" : "24"
+	},
+	
+	{
+		"careerList" : "2",
+		"category" : 4,
+		"oneId" : 2,
+		"twoIcon" : "40241201",
+		"twoId" : 14,
+		"twoIndex" : 3,
+		"twoName" : "女套装石",
+		"typeList" : "24"
+	},
+	
+	{
+		"careerList" : "0",
+		"category" : 4,
+		"codeRemove" : "40241002#40241003#40241004#40241005#40242002#40242003#40242004#40242005#40243001",
+		"oneId" : 2,
+		"twoIcon" : "40242001",
+		"twoId" : 15,
+		"twoIndex" : 4,
+		"twoName" : "诛神套装石",
+		"typeList" : "24"
+	},
+	
+	{
+		"careerList" : "0",
+		"category" : 4,
+		"codeRemove" : "40242001#40242006#40242007#40242008#40242009#40242010#40243001",
+		"oneId" : 2,
+		"twoIcon" : "40241002",
+		"twoId" : 16,
+		"twoIndex" : 5,
+		"twoName" : "仙器套装石",
+		"typeList" : "24"
+	},
+	
+	{
+		"careerList" : "0",
+		"category" : 4,
+		"codeRemove" : "40241002#40241003#40241004#40241005#40242002#40242003#40242004#40242005#40242001#40242006#40242007#40242008#40242009#40242010",
+		"oneId" : 2,
+		"twoIcon" : "40243001",
+		"twoId" : 17,
+		"twoIndex" : 6,
+		"twoName" : "完美套装石",
+		"typeList" : "24"
+	},
+	
+	{
+		"category" : 6,
+		"oneId" : 3,
+		"twoIcon" : "60074001",
+		"twoId" : 18,
+		"twoIndex" : 1,
+		"twoName" : "外形材料",
+		"typeList" : "3#7"
+	},
+	
+	{
+		"category" : 4,
+		"codeRemove" : "40244001#",
+		"oneId" : 3,
+		"twoIcon" : "41990001",
+		"twoId" : 19,
+		"twoIndex" : 2,
+		"twoName" : "副本门票",
+		"typeList" : "199#203"
+	},
+	
+	{
+		"category" : 4,
+		"codeRemove" : "40244001#",
+		"oneId" : 3,
+		"twoIcon" : "41995001",
+		"twoId" : 20,
+		"twoIndex" : 3,
+		"twoName" : "上古通行证",
+		"typeList" : "199#203"
+	},
+	
+	{
+		"category" : 4,
+		"oneId" : 3,
+		"twoIcon" : "42020001",
+		"twoId" : 21,
+		"twoIndex" : 4,
+		"twoName" : "杂物",
+		"typeList" : "198#200#202#211#212#210#196#204#12#214#217#215#216#11#15#49#27#220#224"
+	},
+	
+	{
+		"category" : 6,
+		"oneId" : 3,
+		"twoIcon" : "800001",
+		"twoId" : 22,
+		"twoIndex" : 5,
+		"twoName" : "骑宠进阶丹",
+		"typeList" : "4"
+	},
+	
+	{
+		"careerList" : "0",
+		"category" : 4,
+		"oneId" : 3,
+		"twoIcon" : "72000001",
+		"twoId" : 23,
+		"twoIndex" : 6,
+		"twoName" : "转职材料",
+		"typeList" : "102#209#226"
+	},
+	
+	{
+		"category" : 3,
+		"oneId" : 3,
+		"twoIcon" : "40030001",
+		"twoId" : 24,
+		"twoIndex" : 7,
+		"twoName" : "经验药水",
+		"typeList" : "4"
+	},
+	
+	{
+		"category" : 4,
+		"oneId" : 3,
+		"twoIcon" : "72000036",
+		"twoId" : 25,
+		"twoIndex" : 8,
+		"twoName" : "活动道具",
+		"typeList" : "31"
+	},
+	
+	{
+		"category" : 5,
+		"oneId" : 3,
+		"twoIcon" : "51110009",
+		"twoId" : 26,
+		"twoIndex" : 9,
+		"twoName" : "宝石",
+		"typeList" : "111#112"
+	},
+	
+	{
+		"category" : 4,
+		"codeRemove" : "42010003",
+		"oneId" : 4,
+		"twoIcon" : "42010001",
+		"twoId" : 27,
+		"twoIndex" : 1,
+		"twoName" : "飞升令",
+		"typeList" : "201"
+	},
+	
+	{
+		"category" : 4,
+		"codeRemove" : "42010001",
+		"oneId" : 4,
+		"twoIcon" : "42010003",
+		"twoId" : 28,
+		"twoIndex" : 2,
+		"twoName" : "升仙令",
+		"typeList" : "201"
+	},
+	
+	{
+		"careerList" : "0#2",
+		"category" : 1,
+		"oneId" : 5,
+		"twoIcon" : "10020001",
+		"twoId" : 29,
+		"twoIndex" : 1,
+		"twoName" : "全部"
+	},
+	
+	{
+		"careerList" : "2",
+		"category" : 1,
+		"oneId" : 5,
+		"twoIcon" : "10010101",
+		"twoId" : 30,
+		"twoIndex" : 2,
+		"twoName" : "武器",
+		"typeList" : "1"
+	},
+	
+	{
+		"category" : 1,
+		"oneId" : 5,
+		"twoIcon" : "10020001",
+		"twoId" : 31,
+		"twoIndex" : 3,
+		"twoName" : "项链",
+		"typeList" : "2"
+	},
+	
+	{
+		"category" : 1,
+		"oneId" : 5,
+		"twoIcon" : "10030001",
+		"twoId" : 32,
+		"twoIndex" : 4,
+		"twoName" : "手镯",
+		"typeList" : "3"
+	},
+	
+	{
+		"category" : 1,
+		"oneId" : 5,
+		"twoIcon" : "10040001",
+		"twoId" : 33,
+		"twoIndex" : 5,
+		"twoName" : "戒指",
+		"typeList" : "4"
+	},
+	
+	{
+		"category" : 1,
+		"oneId" : 5,
+		"twoIcon" : "10050101",
+		"twoId" : 34,
+		"twoIndex" : 6,
+		"twoName" : "护符",
+		"typeList" : "5"
+	},
+	
+	{
+		"careerList" : "2",
+		"category" : 1,
+		"oneId" : 5,
+		"twoIcon" : "10060101",
+		"twoId" : 35,
+		"twoIndex" : 7,
+		"twoName" : "护手",
+		"typeList" : "6"
+	},
+	
+	{
+		"careerList" : "2",
+		"category" : 1,
+		"oneId" : 5,
+		"twoIcon" : "10070101",
+		"twoId" : 36,
+		"twoIndex" : 8,
+		"twoName" : "衣服",
+		"typeList" : "7"
+	},
+	
+	{
+		"careerList" : "2",
+		"category" : 1,
+		"oneId" : 5,
+		"twoIcon" : "10080101",
+		"twoId" : 37,
+		"twoIndex" : 9,
+		"twoName" : "护腿",
+		"typeList" : "8"
+	},
+	
+	{
+		"careerList" : "2",
+		"category" : 1,
+		"oneId" : 5,
+		"twoIcon" : "10090101",
+		"twoId" : 38,
+		"twoIndex" : 10,
+		"twoName" : "头盔",
+		"typeList" : "9"
+	},
+	
+	{
+		"careerList" : "2",
+		"category" : 1,
+		"oneId" : 5,
+		"twoIcon" : "10100101",
+		"twoId" : 39,
+		"twoIndex" : 11,
+		"twoName" : "鞋子",
+		"typeList" : "10"
+	},
+	
+	{
+		"category" : 4,
+		"oneId" : 3,
+		"twoIcon" : "41218001",
+		"twoId" : 40,
+		"twoIndex" : 9,
+		"twoName" : "玄晶",
+		"typeList" : "218"
+	},
+	
+	{
+		"category" : 6,
+		"codeRemove" : "60110002#60110003#60110004",
+		"oneId" : 6,
+		"twoIcon" : "60110001",
+		"twoId" : 41,
+		"twoIndex" : 1,
+		"twoName" : "诛仙附灵石",
+		"typeList" : "11"
+	},
+	
+	{
+		"category" : 6,
+		"codeRemove" : "60110001#60110003#60110004",
+		"oneId" : 6,
+		"twoIcon" : "60110002",
+		"twoId" : 42,
+		"twoIndex" : 2,
+		"twoName" : "封神附灵石",
+		"typeList" : "11"
+	},
+	
+	{
+		"category" : 6,
+		"codeRemove" : "60110002#60110001#60110004",
+		"oneId" : 6,
+		"twoIcon" : "60110003",
+		"twoId" : 43,
+		"twoIndex" : 3,
+		"twoName" : "洪荒附灵石",
+		"typeList" : "11"
+	},
+	
+	{
+		"category" : 6,
+		"codeRemove" : "60110002#60110003#60110001",
+		"oneId" : 6,
+		"twoIcon" : "60110004",
+		"twoId" : 44,
+		"twoIndex" : 4,
+		"twoName" : "混沌附灵石",
+		"typeList" : "11"
+	},
+	
+	{
+		"category" : 6,
+		"codeRemove" : "60120002#60120003#60120004",
+		"oneId" : 6,
+		"twoIcon" : "60120001",
+		"twoId" : 45,
+		"twoIndex" : 5,
+		"twoName" : "诛仙铸造石",
+		"typeList" : "12"
+	},
+	
+	{
+		"category" : 6,
+		"codeRemove" : "60120001#60120003#60120004",
+		"oneId" : 6,
+		"twoIcon" : "60120002",
+		"twoId" : 46,
+		"twoIndex" : 6,
+		"twoName" : "封神铸造石",
+		"typeList" : "12"
+	},
+	
+	{
+		"category" : 6,
+		"codeRemove" : "60120002#60120001#60120004",
+		"oneId" : 6,
+		"twoIcon" : "60120003",
+		"twoId" : 47,
+		"twoIndex" : 7,
+		"twoName" : "洪荒铸造石",
+		"typeList" : "12"
+	},
+	
+	{
+		"category" : 6,
+		"codeRemove" : "60120002#60120003#60120001",
+		"oneId" : 6,
+		"twoIcon" : "60120004",
+		"twoId" : 48,
+		"twoIndex" : 8,
+		"twoName" : "混沌铸造石",
+		"typeList" : "12"
+	},
+	
+	{
+		"category" : 6,
+		"codeRemove" : "60132002#60132003#60133001#60133002#60133003#60134001#60134002#60134003",
+		"oneId" : 7,
+		"twoIcon" : "60132001",
+		"twoId" : 49,
+		"twoIndex" : 1,
+		"twoName" : "玲珑塔碎片",
+		"typeList" : "13"
+	},
+	
+	{
+		"category" : 6,
+		"codeRemove" : "60132001#60132003#60133001#60133002#60133003#60134001#60134002#60134003",
+		"oneId" : 7,
+		"twoIcon" : "60132002",
+		"twoId" : 50,
+		"twoIndex" : 2,
+		"twoName" : "金箍棒碎片",
+		"typeList" : "13"
+	},
+	
+	{
+		"category" : 6,
+		"codeRemove" : "60132002#60132001#60133001#60133002#60133003#60134001#60134002#60134003",
+		"oneId" : 7,
+		"twoIcon" : "60132003",
+		"twoId" : 51,
+		"twoIndex" : 3,
+		"twoName" : "封神榜碎片",
+		"typeList" : "13"
+	},
+	
+	{
+		"category" : 6,
+		"codeRemove" : "60132001#60132002#60132003#60133002#60133003#60134001#60134002#60134003",
+		"oneId" : 7,
+		"twoIcon" : "60133001",
+		"twoId" : 52,
+		"twoIndex" : 4,
+		"twoName" : "昆仑镜碎片",
+		"typeList" : "13"
+	},
+	
+	{
+		"category" : 6,
+		"codeRemove" : "60132001#60132002#60132003#60133001#60133003#60134001#60134002#60134003",
+		"oneId" : 7,
+		"twoIcon" : "60133002",
+		"twoId" : 53,
+		"twoIndex" : 5,
+		"twoName" : "东皇钟碎片",
+		"typeList" : "13"
+	},
+	
+	{
+		"category" : 6,
+		"codeRemove" : "60132001#60132002#60132003#60133002#60133001#60134001#60134002#60134003",
+		"oneId" : 7,
+		"twoIcon" : "60133003",
+		"twoId" : 54,
+		"twoIndex" : 6,
+		"twoName" : "轩辕剑碎片",
+		"typeList" : "13"
+	},
+	
+	{
+		"category" : 6,
+		"codeRemove" : "60132001#60132002#60132003#60133001#60133002#60133003#60134002#60134003",
+		"oneId" : 7,
+		"twoIcon" : "60134001",
+		"twoId" : 55,
+		"twoIndex" : 7,
+		"twoName" : "女娲石碎片",
+		"typeList" : "13"
+	},
+	
+	{
+		"category" : 6,
+		"codeRemove" : "60132001#60132002#60132003#60133001#60133002#60133003#60134001#60134003",
+		"oneId" : 7,
+		"twoIcon" : "60134002",
+		"twoId" : 56,
+		"twoIndex" : 8,
+		"twoName" : "伏羲琴碎片",
+		"typeList" : "13"
+	},
+	
+	{
+		"category" : 6,
+		"codeRemove" : "60132001#60132002#60132003#60133001#60133002#60133003#60134002#60134001",
+		"oneId" : 7,
+		"twoIcon" : "60134003",
+		"twoId" : 57,
+		"twoIndex" : 9,
+		"twoName" : "盘古斧碎片",
+		"typeList" : "13"
+	}
+]

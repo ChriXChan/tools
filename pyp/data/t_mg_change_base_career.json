@@ -1,0 +1,183 @@
+
+[
+	
+	{
+		"careerArcher" : 40241201,
+		"careerWarrior" : 40241101,
+		"type" : 3
+	},
+	
+	{
+		"careerArcher" : 40241206,
+		"careerWarrior" : 40241106,
+		"type" : 3
+	},
+	
+	{
+		"careerArcher" : 40241207,
+		"careerWarrior" : 40241107,
+		"type" : 3
+	},
+	
+	{
+		"careerArcher" : 40241208,
+		"careerWarrior" : 40241108,
+		"type" : 3
+	},
+	
+	{
+		"careerArcher" : 40241209,
+		"careerWarrior" : 40241109,
+		"type" : 3
+	},
+	
+	{
+		"careerArcher" : 40241210,
+		"careerWarrior" : 40241110,
+		"type" : 3
+	},
+	
+	{
+		"careerArcher" : 41241201,
+		"careerWarrior" : 41241101,
+		"type" : 3
+	},
+	
+	{
+		"careerArcher" : 41241206,
+		"careerWarrior" : 41241106,
+		"type" : 3
+	},
+	
+	{
+		"careerArcher" : 41241207,
+		"careerWarrior" : 41241107,
+		"type" : 3
+	},
+	
+	{
+		"careerArcher" : 41241208,
+		"careerWarrior" : 41241108,
+		"type" : 3
+	},
+	
+	{
+		"careerArcher" : 41241209,
+		"careerWarrior" : 41241109,
+		"type" : 3
+	},
+	
+	{
+		"careerArcher" : 41241210,
+		"careerWarrior" : 41241110,
+		"type" : 3
+	},
+	
+	{
+		"careerArcher" : 200034,
+		"careerWarrior" : 200033,
+		"type" : 2
+	},
+	
+	{
+		"careerArcher" : 200036,
+		"careerWarrior" : 200035,
+		"type" : 2
+	},
+	
+	{
+		"careerArcher" : 200038,
+		"careerWarrior" : 200037,
+		"type" : 2
+	},
+	
+	{
+		"careerArcher" : 200062,
+		"careerWarrior" : 200059,
+		"type" : 2
+	},
+	
+	{
+		"careerArcher" : 200063,
+		"careerWarrior" : 200060,
+		"type" : 2
+	},
+	
+	{
+		"careerArcher" : 200064,
+		"careerWarrior" : 200061,
+		"type" : 2
+	},
+	
+	{
+		"careerArcher" : 40000101,
+		"careerWarrior" : 40000001,
+		"type" : 1
+	},
+	
+	{
+		"careerArcher" : 40000102,
+		"careerWarrior" : 40000002,
+		"type" : 1
+	},
+	
+	{
+		"careerArcher" : 40000103,
+		"careerWarrior" : 40000003,
+		"type" : 1
+	},
+	
+	{
+		"careerArcher" : 10201001,
+		"careerWarrior" : 10101001,
+		"type" : 1
+	},
+	
+	{
+		"careerArcher" : 10203001,
+		"careerWarrior" : 10103001,
+		"type" : 1
+	},
+	
+	{
+		"careerArcher" : 10205001,
+		"careerWarrior" : 10105001,
+		"type" : 1
+	},
+	
+	{
+		"careerArcher" : 10204001,
+		"careerWarrior" : 10104001,
+		"type" : 1
+	},
+	
+	{
+		"careerArcher" : 10204002,
+		"careerWarrior" : 10104002,
+		"type" : 1
+	},
+	
+	{
+		"careerArcher" : 10206001,
+		"careerWarrior" : 10106001,
+		"type" : 1
+	},
+	
+	{
+		"careerArcher" : 10207001,
+		"careerWarrior" : 10107001,
+		"type" : 1
+	},
+	
+	{
+		"careerArcher" : 10209001,
+		"careerWarrior" : 10102001,
+		"type" : 1
+	},
+	
+	{
+		"careerArcher" : 10271001,
+		"careerWarrior" : 10171001,
+		"type" : 1
+	}
+]

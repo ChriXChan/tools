@@ -1,0 +1,1801 @@
+
+[
+	
+	{
+		"attr" : "1,7#3,3#2,280#4,3#",
+		"code" : 1,
+		"effectStr" : "1",
+		"name" : "九霄秘法",
+		"piece" : 1,
+		"pieceName" : "九霄碎片①",
+		"taskCode" : 300007,
+		"weaponDesc" : "伤害爆炸，天怒助力秒BOSS",
+		"weaponEffect" : 4
+	},
+	
+	{
+		"attr" : "1,7#3,3#2,280#4,3#",
+		"code" : 1,
+		"effectStr" : "1",
+		"name" : "九霄秘法",
+		"piece" : 2,
+		"pieceName" : "九霄碎片②",
+		"taskCode" : 300010,
+		"weaponDesc" : "伤害爆炸，天怒助力秒BOSS",
+		"weaponEffect" : 4
+	},
+	
+	{
+		"attr" : "1,9#3,4#2,320#4,4#",
+		"checkPoint" : 7,
+		"code" : 2,
+		"guideDesc" : "御龙在天，法宝现世",
+		"isGuide" : 1,
+		"name" : "双生法宝",
+		"piece" : 1,
+		"pieceName" : "双生碎片①",
+		"weaponDesc" : "法宝现世，战力大涨五洲任逍遥",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,9#3,4#2,320#4,4#",
+		"checkPoint" : 12,
+		"code" : 2,
+		"guideDesc" : "御龙在天，法宝现世",
+		"isGuide" : 1,
+		"name" : "双生法宝",
+		"piece" : 2,
+		"pieceName" : "双生碎片②",
+		"weaponDesc" : "法宝现世，战力大涨五洲任逍遥",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,9#3,4#2,320#4,4#",
+		"checkPoint" : 17,
+		"code" : 2,
+		"guideDesc" : "御龙在天，法宝现世",
+		"isGuide" : 1,
+		"name" : "双生法宝",
+		"piece" : 3,
+		"pieceName" : "双生碎片③",
+		"weaponDesc" : "法宝现世，战力大涨五洲任逍遥",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,9#3,4#2,320#4,4#",
+		"checkPoint" : 22,
+		"code" : 2,
+		"guideDesc" : "御龙在天，法宝现世",
+		"isGuide" : 1,
+		"name" : "双生法宝",
+		"piece" : 4,
+		"pieceName" : "双生碎片④",
+		"weaponDesc" : "法宝现世，战力大涨五洲任逍遥",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,11#3,4#2,440#4,4#",
+		"checkPoint" : 26,
+		"code" : 3,
+		"guideDesc" : "狂战疆场，怒夺仙位",
+		"isGuide" : 1,
+		"name" : "龙麟玺",
+		"piece" : 1,
+		"pieceName" : "龙麟碎片①",
+		"weaponDesc" : "百炼成仙，直线飞升",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,11#3,4#2,440#4,4#",
+		"checkPoint" : 30,
+		"code" : 3,
+		"guideDesc" : "狂战疆场，怒夺仙位",
+		"isGuide" : 1,
+		"name" : "龙麟玺",
+		"piece" : 2,
+		"pieceName" : "龙麟碎片②",
+		"weaponDesc" : "百炼成仙，直线飞升",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,11#3,4#2,440#4,4#",
+		"checkPoint" : 35,
+		"code" : 3,
+		"guideDesc" : "狂战疆场，怒夺仙位",
+		"isGuide" : 1,
+		"name" : "龙麟玺",
+		"piece" : 3,
+		"pieceName" : "龙麟碎片③",
+		"weaponDesc" : "百炼成仙，直线飞升",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,11#3,4#2,440#4,4#",
+		"checkPoint" : 40,
+		"code" : 3,
+		"guideDesc" : "狂战疆场，怒夺仙位",
+		"isGuide" : 1,
+		"name" : "龙麟玺",
+		"piece" : 4,
+		"pieceName" : "龙麟碎片④",
+		"weaponDesc" : "百炼成仙，直线飞升",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,14#3,6#2,560#4,6#",
+		"checkPoint" : 45,
+		"code" : 4,
+		"effectStr" : "78,500#",
+		"guideDesc" : "狂暴觉醒，永升暴率",
+		"isGuide" : 1,
+		"name" : "五洲灵章",
+		"piece" : 1,
+		"pieceName" : "五洲碎片①",
+		"weaponDesc" : "力量觉醒，暴率提升5%",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,14#3,6#2,560#4,6#",
+		"checkPoint" : 50,
+		"code" : 4,
+		"effectStr" : "78,500#",
+		"guideDesc" : "狂暴觉醒，永升暴率",
+		"isGuide" : 1,
+		"name" : "五洲灵章",
+		"piece" : 2,
+		"pieceName" : "五洲碎片②",
+		"weaponDesc" : "力量觉醒，暴率提升5%",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,14#3,6#2,560#4,6#",
+		"checkPoint" : 55,
+		"code" : 4,
+		"effectStr" : "78,500#",
+		"guideDesc" : "狂暴觉醒，永升暴率",
+		"isGuide" : 1,
+		"name" : "五洲灵章",
+		"piece" : 3,
+		"pieceName" : "五洲碎片③",
+		"weaponDesc" : "力量觉醒，暴率提升5%",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,14#3,6#2,560#4,6#",
+		"checkPoint" : 60,
+		"code" : 4,
+		"effectStr" : "78,500#",
+		"guideDesc" : "狂暴觉醒，永升暴率",
+		"isGuide" : 1,
+		"name" : "五洲灵章",
+		"piece" : 4,
+		"pieceName" : "五洲碎片④",
+		"weaponDesc" : "力量觉醒，暴率提升5%",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,18#3,7#2,720#4,7#",
+		"checkPoint" : 70,
+		"code" : 5,
+		"effectStr" : "10001,1#10002,1#10003,1",
+		"guideDesc" : "聚气仙元，悟道飞升",
+		"isGuide" : 1,
+		"name" : "百仙鼎",
+		"piece" : 1,
+		"pieceName" : "百仙碎片①",
+		"weaponDesc" : "天元剑法 凝寒飞星 落花飞鸿伤害系数提升20%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,18#3,7#2,720#4,7#",
+		"checkPoint" : 80,
+		"code" : 5,
+		"effectStr" : "10001,1#10002,1#10003,1",
+		"guideDesc" : "聚气仙元，悟道飞升",
+		"isGuide" : 1,
+		"name" : "百仙鼎",
+		"piece" : 2,
+		"pieceName" : "百仙碎片②",
+		"weaponDesc" : "天元剑法 凝寒飞星 落花飞鸿伤害系数提升20%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,18#3,7#2,720#4,7#",
+		"checkPoint" : 90,
+		"code" : 5,
+		"effectStr" : "10001,1#10002,1#10003,1",
+		"guideDesc" : "聚气仙元，悟道飞升",
+		"isGuide" : 1,
+		"name" : "百仙鼎",
+		"piece" : 3,
+		"pieceName" : "百仙碎片③",
+		"weaponDesc" : "天元剑法 凝寒飞星 落花飞鸿伤害系数提升20%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,18#3,7#2,720#4,7#",
+		"checkPoint" : 100,
+		"code" : 5,
+		"effectStr" : "10001,1#10002,1#10003,1",
+		"guideDesc" : "聚气仙元，悟道飞升",
+		"isGuide" : 1,
+		"name" : "百仙鼎",
+		"piece" : 4,
+		"pieceName" : "百仙碎片④",
+		"weaponDesc" : "天元剑法 凝寒飞星 落花飞鸿伤害系数提升20%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,21#3,9#2,840#4,9#",
+		"checkPoint" : 110,
+		"code" : 6,
+		"effectStr" : "1,500#",
+		"guideDesc" : "聚拢乾坤，功力大涨",
+		"isGuide" : 1,
+		"name" : "聚坤铃",
+		"piece" : 1,
+		"pieceName" : "聚坤碎片①",
+		"weaponDesc" : "聚拢乾坤，攻击增加500",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,21#3,9#2,840#4,9#",
+		"checkPoint" : 120,
+		"code" : 6,
+		"effectStr" : "1,500#",
+		"guideDesc" : "聚拢乾坤，功力大涨",
+		"isGuide" : 1,
+		"name" : "聚坤铃",
+		"piece" : 2,
+		"pieceName" : "聚坤碎片②",
+		"weaponDesc" : "聚拢乾坤，攻击增加500",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,21#3,9#2,840#4,9#",
+		"checkPoint" : 130,
+		"code" : 6,
+		"effectStr" : "1,500#",
+		"guideDesc" : "聚拢乾坤，功力大涨",
+		"isGuide" : 1,
+		"name" : "聚坤铃",
+		"piece" : 3,
+		"pieceName" : "聚坤碎片③",
+		"weaponDesc" : "聚拢乾坤，攻击增加500",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,21#3,9#2,840#4,9#",
+		"checkPoint" : 140,
+		"code" : 6,
+		"effectStr" : "1,500#",
+		"guideDesc" : "聚拢乾坤，功力大涨",
+		"isGuide" : 1,
+		"name" : "聚坤铃",
+		"piece" : 4,
+		"pieceName" : "聚坤碎片④",
+		"weaponDesc" : "聚拢乾坤，攻击增加500",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,21#3,9#2,840#4,9#",
+		"checkPoint" : 150,
+		"code" : 6,
+		"effectStr" : "1,500#",
+		"guideDesc" : "聚拢乾坤，功力大涨",
+		"isGuide" : 1,
+		"name" : "聚坤铃",
+		"piece" : 5,
+		"pieceName" : "聚坤碎片⑤",
+		"weaponDesc" : "聚拢乾坤，攻击增加500",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,23#3,9#2,960#4,9#",
+		"checkPoint" : 160,
+		"code" : 7,
+		"effectStr" : "10004,1#10005,1#10006,1",
+		"name" : "轩辕剑",
+		"piece" : 1,
+		"pieceName" : "轩辕碎片①",
+		"weaponDesc" : "剑舞苍穹 蚀骨冰寒 风过无痕伤害增加1000",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,23#3,9#2,960#4,9#",
+		"checkPoint" : 170,
+		"code" : 7,
+		"effectStr" : "10004,1#10005,1#10006,1",
+		"name" : "轩辕剑",
+		"piece" : 2,
+		"pieceName" : "轩辕碎片②",
+		"weaponDesc" : "剑舞苍穹 蚀骨冰寒 风过无痕伤害增加1000",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,23#3,9#2,960#4,9#",
+		"checkPoint" : 180,
+		"code" : 7,
+		"effectStr" : "10004,1#10005,1#10006,1",
+		"name" : "轩辕剑",
+		"piece" : 3,
+		"pieceName" : "轩辕碎片③",
+		"weaponDesc" : "剑舞苍穹 蚀骨冰寒 风过无痕伤害增加1000",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,23#3,9#2,960#4,9#",
+		"checkPoint" : 190,
+		"code" : 7,
+		"effectStr" : "10004,1#10005,1#10006,1",
+		"name" : "轩辕剑",
+		"piece" : 4,
+		"pieceName" : "轩辕碎片④",
+		"weaponDesc" : "剑舞苍穹 蚀骨冰寒 风过无痕伤害增加1000",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,23#3,9#2,960#4,9#",
+		"checkPoint" : 200,
+		"code" : 7,
+		"effectStr" : "10004,1#10005,1#10006,1",
+		"name" : "轩辕剑",
+		"piece" : 5,
+		"pieceName" : "轩辕碎片⑤",
+		"weaponDesc" : "剑舞苍穹 蚀骨冰寒 风过无痕伤害增加1000",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,23#3,9#2,960#4,9#",
+		"checkPoint" : 210,
+		"code" : 7,
+		"effectStr" : "10004,1#10005,1#10006,1",
+		"name" : "轩辕剑",
+		"piece" : 6,
+		"pieceName" : "轩辕碎片⑥",
+		"weaponDesc" : "剑舞苍穹 蚀骨冰寒 风过无痕伤害增加1000",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,25#3,10#2,1000#4,10#",
+		"checkPoint" : 220,
+		"code" : 8,
+		"effectStr" : "2,10000#",
+		"name" : "天机镜",
+		"piece" : 1,
+		"pieceName" : "天机碎片①",
+		"weaponDesc" : "窥破天机，血量增加10000",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,25#3,10#2,1000#4,10#",
+		"checkPoint" : 230,
+		"code" : 8,
+		"effectStr" : "2,10000#",
+		"name" : "天机镜",
+		"piece" : 2,
+		"pieceName" : "天机碎片②",
+		"weaponDesc" : "窥破天机，血量增加10000",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,25#3,10#2,1000#4,10#",
+		"checkPoint" : 240,
+		"code" : 8,
+		"effectStr" : "2,10000#",
+		"name" : "天机镜",
+		"piece" : 3,
+		"pieceName" : "天机碎片③",
+		"weaponDesc" : "窥破天机，血量增加10000",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,25#3,10#2,1000#4,10#",
+		"checkPoint" : 250,
+		"code" : 8,
+		"effectStr" : "2,10000#",
+		"name" : "天机镜",
+		"piece" : 4,
+		"pieceName" : "天机碎片④",
+		"weaponDesc" : "窥破天机，血量增加10000",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,25#3,10#2,1000#4,10#",
+		"checkPoint" : 260,
+		"code" : 8,
+		"effectStr" : "2,10000#",
+		"name" : "天机镜",
+		"piece" : 5,
+		"pieceName" : "天机碎片⑤",
+		"weaponDesc" : "窥破天机，血量增加10000",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,25#3,10#2,1000#4,10#",
+		"checkPoint" : 270,
+		"code" : 8,
+		"effectStr" : "2,10000#",
+		"name" : "天机镜",
+		"piece" : 6,
+		"pieceName" : "天机碎片⑥",
+		"weaponDesc" : "窥破天机，血量增加10000",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,27#3,11#2,1040#4,11#",
+		"checkPoint" : 280,
+		"code" : 9,
+		"effectStr" : "10007,1#10008,1#10009,1",
+		"name" : "定海神针",
+		"piece" : 1,
+		"pieceName" : "定海碎片①",
+		"weaponDesc" : "鸿蒙剑诀 凛冽极光 蝶舞惊鸿伤害提升5%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,27#3,11#2,1040#4,11#",
+		"checkPoint" : 290,
+		"code" : 9,
+		"effectStr" : "10007,1#10008,1#10009,1",
+		"name" : "定海神针",
+		"piece" : 2,
+		"pieceName" : "定海碎片②",
+		"weaponDesc" : "鸿蒙剑诀 凛冽极光 蝶舞惊鸿伤害提升5%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,27#3,11#2,1040#4,11#",
+		"checkPoint" : 300,
+		"code" : 9,
+		"effectStr" : "10007,1#10008,1#10009,1",
+		"name" : "定海神针",
+		"piece" : 3,
+		"pieceName" : "定海碎片③",
+		"weaponDesc" : "鸿蒙剑诀 凛冽极光 蝶舞惊鸿伤害提升5%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,27#3,11#2,1040#4,11#",
+		"checkPoint" : 310,
+		"code" : 9,
+		"effectStr" : "10007,1#10008,1#10009,1",
+		"name" : "定海神针",
+		"piece" : 4,
+		"pieceName" : "定海碎片④",
+		"weaponDesc" : "鸿蒙剑诀 凛冽极光 蝶舞惊鸿伤害提升5%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,27#3,11#2,1040#4,11#",
+		"checkPoint" : 320,
+		"code" : 9,
+		"effectStr" : "10007,1#10008,1#10009,1",
+		"name" : "定海神针",
+		"piece" : 5,
+		"pieceName" : "定海碎片⑤",
+		"weaponDesc" : "鸿蒙剑诀 凛冽极光 蝶舞惊鸿伤害提升5%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,27#3,11#2,1040#4,11#",
+		"checkPoint" : 330,
+		"code" : 9,
+		"effectStr" : "10007,1#10008,1#10009,1",
+		"name" : "定海神针",
+		"piece" : 6,
+		"pieceName" : "定海碎片⑥",
+		"weaponDesc" : "鸿蒙剑诀 凛冽极光 蝶舞惊鸿伤害提升5%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,29#3,11#2,1160#4,11#",
+		"checkPoint" : 340,
+		"code" : 10,
+		"effectStr" : "4,250#",
+		"name" : "穹苍圣莲",
+		"piece" : 1,
+		"pieceName" : "穹苍碎片①",
+		"weaponDesc" : "穹苍圣莲护体，增防250",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,29#3,11#2,1160#4,11#",
+		"checkPoint" : 350,
+		"code" : 10,
+		"effectStr" : "4,250#",
+		"name" : "穹苍圣莲",
+		"piece" : 2,
+		"pieceName" : "穹苍碎片②",
+		"weaponDesc" : "穹苍圣莲护体，增防250",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,29#3,11#2,1160#4,11#",
+		"checkPoint" : 360,
+		"code" : 10,
+		"effectStr" : "4,250#",
+		"name" : "穹苍圣莲",
+		"piece" : 3,
+		"pieceName" : "穹苍碎片③",
+		"weaponDesc" : "穹苍圣莲护体，增防250",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,29#3,11#2,1160#4,11#",
+		"checkPoint" : 370,
+		"code" : 10,
+		"effectStr" : "4,250#",
+		"name" : "穹苍圣莲",
+		"piece" : 4,
+		"pieceName" : "穹苍碎片④",
+		"weaponDesc" : "穹苍圣莲护体，增防250",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,29#3,11#2,1160#4,11#",
+		"checkPoint" : 385,
+		"code" : 10,
+		"effectStr" : "4,250#",
+		"name" : "穹苍圣莲",
+		"piece" : 5,
+		"pieceName" : "穹苍碎片⑤",
+		"weaponDesc" : "穹苍圣莲护体，增防250",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,29#3,11#2,1160#4,11#",
+		"checkPoint" : 400,
+		"code" : 10,
+		"effectStr" : "4,250#",
+		"name" : "穹苍圣莲",
+		"piece" : 6,
+		"pieceName" : "穹苍碎片⑥",
+		"weaponDesc" : "穹苍圣莲护体，增防250",
+		"weaponEffect" : 1
+	},
+	
+	{
+		"attr" : "1,30#3,12#2,1240#4,12#",
+		"checkPoint" : 420,
+		"code" : 11,
+		"effectStr" : "0,5",
+		"name" : "天枢塔",
+		"piece" : 1,
+		"pieceName" : "天枢碎片①",
+		"weaponDesc" : "宝塔招财，挂机金币增加5%",
+		"weaponEffect" : 3
+	},
+	
+	{
+		"attr" : "1,30#3,12#2,1240#4,12#",
+		"checkPoint" : 440,
+		"code" : 11,
+		"effectStr" : "0,5",
+		"name" : "天枢塔",
+		"piece" : 2,
+		"pieceName" : "天枢碎片②",
+		"weaponDesc" : "宝塔招财，挂机金币增加5%",
+		"weaponEffect" : 3
+	},
+	
+	{
+		"attr" : "1,30#3,12#2,1240#4,12#",
+		"checkPoint" : 460,
+		"code" : 11,
+		"effectStr" : "0,5",
+		"name" : "天枢塔",
+		"piece" : 3,
+		"pieceName" : "天枢碎片③",
+		"weaponDesc" : "宝塔招财，挂机金币增加5%",
+		"weaponEffect" : 3
+	},
+	
+	{
+		"attr" : "1,30#3,12#2,1240#4,12#",
+		"checkPoint" : 480,
+		"code" : 11,
+		"effectStr" : "0,5",
+		"name" : "天枢塔",
+		"piece" : 4,
+		"pieceName" : "天枢碎片④",
+		"weaponDesc" : "宝塔招财，挂机金币增加5%",
+		"weaponEffect" : 3
+	},
+	
+	{
+		"attr" : "1,30#3,12#2,1240#4,12#",
+		"checkPoint" : 500,
+		"code" : 11,
+		"effectStr" : "0,5",
+		"name" : "天枢塔",
+		"piece" : 5,
+		"pieceName" : "天枢碎片⑤",
+		"weaponDesc" : "宝塔招财，挂机金币增加5%",
+		"weaponEffect" : 3
+	},
+	
+	{
+		"attr" : "1,30#3,12#2,1240#4,12#",
+		"checkPoint" : 520,
+		"code" : 11,
+		"effectStr" : "0,5",
+		"name" : "天枢塔",
+		"piece" : 6,
+		"pieceName" : "天枢碎片⑥",
+		"weaponDesc" : "宝塔招财，挂机金币增加5%",
+		"weaponEffect" : 3
+	},
+	
+	{
+		"attr" : "1,32#3,13#2,1280#4,13#",
+		"checkPoint" : 540,
+		"code" : 12,
+		"effectStr" : "5,0",
+		"name" : "天权扇",
+		"piece" : 1,
+		"pieceName" : "天权碎片①",
+		"weaponDesc" : "天人归一，挂机经验增加5%",
+		"weaponEffect" : 3
+	},
+	
+	{
+		"attr" : "1,32#3,13#2,1280#4,13#",
+		"checkPoint" : 560,
+		"code" : 12,
+		"effectStr" : "5,0",
+		"name" : "天权扇",
+		"piece" : 2,
+		"pieceName" : "天权碎片②",
+		"weaponDesc" : "天人归一，挂机经验增加5%",
+		"weaponEffect" : 3
+	},
+	
+	{
+		"attr" : "1,32#3,13#2,1280#4,13#",
+		"checkPoint" : 580,
+		"code" : 12,
+		"effectStr" : "5,0",
+		"name" : "天权扇",
+		"piece" : 3,
+		"pieceName" : "天权碎片③",
+		"weaponDesc" : "天人归一，挂机经验增加5%",
+		"weaponEffect" : 3
+	},
+	
+	{
+		"attr" : "1,32#3,13#2,1280#4,13#",
+		"checkPoint" : 600,
+		"code" : 12,
+		"effectStr" : "5,0",
+		"name" : "天权扇",
+		"piece" : 4,
+		"pieceName" : "天权碎片④",
+		"weaponDesc" : "天人归一，挂机经验增加5%",
+		"weaponEffect" : 3
+	},
+	
+	{
+		"attr" : "1,32#3,13#2,1280#4,13#",
+		"checkPoint" : 620,
+		"code" : 12,
+		"effectStr" : "5,0",
+		"name" : "天权扇",
+		"piece" : 5,
+		"pieceName" : "天权碎片⑤",
+		"weaponDesc" : "天人归一，挂机经验增加5%",
+		"weaponEffect" : 3
+	},
+	
+	{
+		"attr" : "1,32#3,13#2,1280#4,13#",
+		"checkPoint" : 640,
+		"code" : 12,
+		"effectStr" : "5,0",
+		"name" : "天权扇",
+		"piece" : 6,
+		"pieceName" : "天权碎片⑥",
+		"weaponDesc" : "天人归一，挂机经验增加5%",
+		"weaponEffect" : 3
+	},
+	
+	{
+		"attr" : "1,36#3,14#2,1440#4,14#",
+		"checkPoint" : 660,
+		"code" : 13,
+		"effectStr" : "10010,1",
+		"name" : "玉衡珠",
+		"piece" : 1,
+		"pieceName" : "玉衡碎片①",
+		"weaponDesc" : "归墟化元，减免伤害5%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,36#3,14#2,1440#4,14#",
+		"checkPoint" : 680,
+		"code" : 13,
+		"effectStr" : "10010,1",
+		"name" : "玉衡珠",
+		"piece" : 2,
+		"pieceName" : "玉衡碎片②",
+		"weaponDesc" : "归墟化元，减免伤害5%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,36#3,14#2,1440#4,14#",
+		"checkPoint" : 700,
+		"code" : 13,
+		"effectStr" : "10010,1",
+		"name" : "玉衡珠",
+		"piece" : 3,
+		"pieceName" : "玉衡碎片③",
+		"weaponDesc" : "归墟化元，减免伤害5%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,36#3,14#2,1440#4,14#",
+		"checkPoint" : 720,
+		"code" : 13,
+		"effectStr" : "10010,1",
+		"name" : "玉衡珠",
+		"piece" : 4,
+		"pieceName" : "玉衡碎片④",
+		"weaponDesc" : "归墟化元，减免伤害5%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,36#3,14#2,1440#4,14#",
+		"checkPoint" : 740,
+		"code" : 13,
+		"effectStr" : "10010,1",
+		"name" : "玉衡珠",
+		"piece" : 5,
+		"pieceName" : "玉衡碎片⑤",
+		"weaponDesc" : "归墟化元，减免伤害5%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,36#3,14#2,1440#4,14#",
+		"checkPoint" : 760,
+		"code" : 13,
+		"effectStr" : "10010,1",
+		"name" : "玉衡珠",
+		"piece" : 6,
+		"pieceName" : "玉衡碎片⑥",
+		"weaponDesc" : "归墟化元，减免伤害5%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,36#3,14#2,1440#4,14#",
+		"checkPoint" : 780,
+		"code" : 13,
+		"effectStr" : "10010,1",
+		"name" : "玉衡珠",
+		"piece" : 7,
+		"pieceName" : "玉衡碎片⑦",
+		"weaponDesc" : "归墟化元，减免伤害5%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,36#3,14#2,1440#4,14#",
+		"checkPoint" : 800,
+		"code" : 13,
+		"effectStr" : "10010,1",
+		"name" : "玉衡珠",
+		"piece" : 8,
+		"pieceName" : "玉衡碎片⑧",
+		"weaponDesc" : "归墟化元，减免伤害5%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,39#3,16#2,1560#4,16#",
+		"checkPoint" : 820,
+		"code" : 14,
+		"effectStr" : "10011,1#10012,1",
+		"name" : "开阳神弓",
+		"piece" : 1,
+		"pieceName" : "开阳碎片①",
+		"weaponDesc" : "天元剑法伤害增加5000 对怪物伤害提升20%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,39#3,16#2,1560#4,16#",
+		"checkPoint" : 840,
+		"code" : 14,
+		"effectStr" : "10011,1#10012,1",
+		"name" : "开阳神弓",
+		"piece" : 2,
+		"pieceName" : "开阳碎片②",
+		"weaponDesc" : "天元剑法伤害增加5000 对怪物伤害提升20%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,39#3,16#2,1560#4,16#",
+		"checkPoint" : 860,
+		"code" : 14,
+		"effectStr" : "10011,1#10012,1",
+		"name" : "开阳神弓",
+		"piece" : 3,
+		"pieceName" : "开阳碎片③",
+		"weaponDesc" : "天元剑法伤害增加5000 对怪物伤害提升20%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,39#3,16#2,1560#4,16#",
+		"checkPoint" : 880,
+		"code" : 14,
+		"effectStr" : "10011,1#10012,1",
+		"name" : "开阳神弓",
+		"piece" : 4,
+		"pieceName" : "开阳碎片④",
+		"weaponDesc" : "天元剑法伤害增加5000 对怪物伤害提升20%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,39#3,16#2,1560#4,16#",
+		"checkPoint" : 900,
+		"code" : 14,
+		"effectStr" : "10011,1#10012,1",
+		"name" : "开阳神弓",
+		"piece" : 5,
+		"pieceName" : "开阳碎片⑤",
+		"weaponDesc" : "天元剑法伤害增加5000 对怪物伤害提升20%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,39#3,16#2,1560#4,16#",
+		"checkPoint" : 920,
+		"code" : 14,
+		"effectStr" : "10011,1#10012,1",
+		"name" : "开阳神弓",
+		"piece" : 6,
+		"pieceName" : "开阳碎片⑥",
+		"weaponDesc" : "天元剑法伤害增加5000 对怪物伤害提升20%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,39#3,16#2,1560#4,16#",
+		"checkPoint" : 940,
+		"code" : 14,
+		"effectStr" : "10011,1#10012,1",
+		"name" : "开阳神弓",
+		"piece" : 7,
+		"pieceName" : "开阳碎片⑦",
+		"weaponDesc" : "天元剑法伤害增加5000 对怪物伤害提升20%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,39#3,16#2,1560#4,16#",
+		"checkPoint" : 960,
+		"code" : 14,
+		"effectStr" : "10011,1#10012,1",
+		"name" : "开阳神弓",
+		"piece" : 8,
+		"pieceName" : "开阳碎片⑧",
+		"weaponDesc" : "天元剑法伤害增加5000 对怪物伤害提升20%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,43#3,17#2,1720#4,17#",
+		"checkPoint" : 980,
+		"code" : 15,
+		"effectStr" : "10013,1#10014,1",
+		"name" : "御龙台",
+		"piece" : 1,
+		"pieceName" : "御龙碎片①",
+		"weaponDesc" : "凝寒飞星伤害增加5000 对怪物伤害提升20%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,43#3,17#2,1720#4,17#",
+		"checkPoint" : 1000,
+		"code" : 15,
+		"effectStr" : "10013,1#10014,1",
+		"name" : "御龙台",
+		"piece" : 2,
+		"pieceName" : "御龙碎片②",
+		"weaponDesc" : "凝寒飞星伤害增加5000 对怪物伤害提升20%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,43#3,17#2,1720#4,17#",
+		"checkPoint" : 1020,
+		"code" : 15,
+		"effectStr" : "10013,1#10014,1",
+		"name" : "御龙台",
+		"piece" : 3,
+		"pieceName" : "御龙碎片③",
+		"weaponDesc" : "凝寒飞星伤害增加5000 对怪物伤害提升20%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,43#3,17#2,1720#4,17#",
+		"checkPoint" : 1040,
+		"code" : 15,
+		"effectStr" : "10013,1#10014,1",
+		"name" : "御龙台",
+		"piece" : 4,
+		"pieceName" : "御龙碎片④",
+		"weaponDesc" : "凝寒飞星伤害增加5000 对怪物伤害提升20%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,43#3,17#2,1720#4,17#",
+		"checkPoint" : 1060,
+		"code" : 15,
+		"effectStr" : "10013,1#10014,1",
+		"name" : "御龙台",
+		"piece" : 5,
+		"pieceName" : "御龙碎片⑤",
+		"weaponDesc" : "凝寒飞星伤害增加5000 对怪物伤害提升20%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,43#3,17#2,1720#4,17#",
+		"checkPoint" : 1080,
+		"code" : 15,
+		"effectStr" : "10013,1#10014,1",
+		"name" : "御龙台",
+		"piece" : 6,
+		"pieceName" : "御龙碎片⑥",
+		"weaponDesc" : "凝寒飞星伤害增加5000 对怪物伤害提升20%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,43#3,17#2,1720#4,17#",
+		"checkPoint" : 1100,
+		"code" : 15,
+		"effectStr" : "10013,1#10014,1",
+		"name" : "御龙台",
+		"piece" : 7,
+		"pieceName" : "御龙碎片⑦",
+		"weaponDesc" : "凝寒飞星伤害增加5000 对怪物伤害提升20%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,43#3,17#2,1720#4,17#",
+		"checkPoint" : 1120,
+		"code" : 15,
+		"effectStr" : "10013,1#10014,1",
+		"name" : "御龙台",
+		"piece" : 8,
+		"pieceName" : "御龙碎片⑧",
+		"weaponDesc" : "凝寒飞星伤害增加5000 对怪物伤害提升20%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,46#3,19#2,1840#4,19#",
+		"checkPoint" : 1140,
+		"code" : 16,
+		"effectStr" : "10015,1#10016,1",
+		"name" : "斛麒剑",
+		"piece" : 1,
+		"pieceName" : "斛麒碎片①",
+		"weaponDesc" : "落花飞鸿伤害增加5000 对怪物伤害提升20%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,46#3,19#2,1840#4,19#",
+		"checkPoint" : 1160,
+		"code" : 16,
+		"effectStr" : "10015,1#10016,1",
+		"name" : "斛麒剑",
+		"piece" : 2,
+		"pieceName" : "斛麒碎片②",
+		"weaponDesc" : "落花飞鸿伤害增加5000 对怪物伤害提升20%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,46#3,19#2,1840#4,19#",
+		"checkPoint" : 1180,
+		"code" : 16,
+		"effectStr" : "10015,1#10016,1",
+		"name" : "斛麒剑",
+		"piece" : 3,
+		"pieceName" : "斛麒碎片③",
+		"weaponDesc" : "落花飞鸿伤害增加5000 对怪物伤害提升20%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,46#3,19#2,1840#4,19#",
+		"checkPoint" : 1200,
+		"code" : 16,
+		"effectStr" : "10015,1#10016,1",
+		"name" : "斛麒剑",
+		"piece" : 4,
+		"pieceName" : "斛麒碎片④",
+		"weaponDesc" : "落花飞鸿伤害增加5000 对怪物伤害提升20%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,46#3,19#2,1840#4,19#",
+		"checkPoint" : 1220,
+		"code" : 16,
+		"effectStr" : "10015,1#10016,1",
+		"name" : "斛麒剑",
+		"piece" : 5,
+		"pieceName" : "斛麒碎片⑤",
+		"weaponDesc" : "落花飞鸿伤害增加5000 对怪物伤害提升20%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,46#3,19#2,1840#4,19#",
+		"checkPoint" : 1240,
+		"code" : 16,
+		"effectStr" : "10015,1#10016,1",
+		"name" : "斛麒剑",
+		"piece" : 6,
+		"pieceName" : "斛麒碎片⑥",
+		"weaponDesc" : "落花飞鸿伤害增加5000 对怪物伤害提升20%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,46#3,19#2,1840#4,19#",
+		"checkPoint" : 1260,
+		"code" : 16,
+		"effectStr" : "10015,1#10016,1",
+		"name" : "斛麒剑",
+		"piece" : 7,
+		"pieceName" : "斛麒碎片⑦",
+		"weaponDesc" : "落花飞鸿伤害增加5000 对怪物伤害提升20%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,46#3,19#2,1840#4,19#",
+		"checkPoint" : 1280,
+		"code" : 16,
+		"effectStr" : "10015,1#10016,1",
+		"name" : "斛麒剑",
+		"piece" : 8,
+		"pieceName" : "斛麒碎片⑧",
+		"weaponDesc" : "落花飞鸿伤害增加5000 对怪物伤害提升20%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,50#3,20#2,2000#4,20#",
+		"checkPoint" : 1300,
+		"code" : 17,
+		"effectStr" : "10017,1",
+		"name" : "邪炎剑",
+		"piece" : 1,
+		"pieceName" : "邪炎碎片①",
+		"weaponDesc" : "剑舞苍穹伤害系数永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,50#3,20#2,2000#4,20#",
+		"checkPoint" : 1320,
+		"code" : 17,
+		"effectStr" : "10017,1",
+		"name" : "邪炎剑",
+		"piece" : 2,
+		"pieceName" : "邪炎碎片②",
+		"weaponDesc" : "剑舞苍穹伤害系数永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,50#3,20#2,2000#4,20#",
+		"checkPoint" : 1340,
+		"code" : 17,
+		"effectStr" : "10017,1",
+		"name" : "邪炎剑",
+		"piece" : 3,
+		"pieceName" : "邪炎碎片③",
+		"weaponDesc" : "剑舞苍穹伤害系数永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,50#3,20#2,2000#4,20#",
+		"checkPoint" : 1360,
+		"code" : 17,
+		"effectStr" : "10017,1",
+		"name" : "邪炎剑",
+		"piece" : 4,
+		"pieceName" : "邪炎碎片④",
+		"weaponDesc" : "剑舞苍穹伤害系数永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,50#3,20#2,2000#4,20#",
+		"checkPoint" : 1380,
+		"code" : 17,
+		"effectStr" : "10017,1",
+		"name" : "邪炎剑",
+		"piece" : 5,
+		"pieceName" : "邪炎碎片⑤",
+		"weaponDesc" : "剑舞苍穹伤害系数永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,50#3,20#2,2000#4,20#",
+		"checkPoint" : 1400,
+		"code" : 17,
+		"effectStr" : "10017,1",
+		"name" : "邪炎剑",
+		"piece" : 6,
+		"pieceName" : "邪炎碎片⑥",
+		"weaponDesc" : "剑舞苍穹伤害系数永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,50#3,20#2,2000#4,20#",
+		"checkPoint" : 1420,
+		"code" : 17,
+		"effectStr" : "10017,1",
+		"name" : "邪炎剑",
+		"piece" : 7,
+		"pieceName" : "邪炎碎片⑦",
+		"weaponDesc" : "剑舞苍穹伤害系数永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,50#3,20#2,2000#4,20#",
+		"checkPoint" : 1440,
+		"code" : 17,
+		"effectStr" : "10018,1",
+		"name" : "邪炎剑",
+		"piece" : 8,
+		"pieceName" : "邪炎碎片⑧",
+		"weaponDesc" : "剑舞苍穹伤害系数永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,54#3,21#2,2160#4,21#",
+		"checkPoint" : 1460,
+		"code" : 18,
+		"effectStr" : "10018,1",
+		"name" : "瑶池玉珠",
+		"piece" : 1,
+		"pieceName" : "瑶池碎片①",
+		"weaponDesc" : "蚀骨冰寒伤害系数永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,54#3,21#2,2160#4,21#",
+		"checkPoint" : 1480,
+		"code" : 18,
+		"effectStr" : "10018,1",
+		"name" : "瑶池玉珠",
+		"piece" : 2,
+		"pieceName" : "瑶池碎片②",
+		"weaponDesc" : "蚀骨冰寒伤害系数永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,54#3,21#2,2160#4,21#",
+		"checkPoint" : 1500,
+		"code" : 18,
+		"effectStr" : "10018,1",
+		"name" : "瑶池玉珠",
+		"piece" : 3,
+		"pieceName" : "瑶池碎片③",
+		"weaponDesc" : "蚀骨冰寒伤害系数永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,54#3,21#2,2160#4,21#",
+		"checkPoint" : 1520,
+		"code" : 18,
+		"effectStr" : "10018,1",
+		"name" : "瑶池玉珠",
+		"piece" : 4,
+		"pieceName" : "瑶池碎片④",
+		"weaponDesc" : "蚀骨冰寒伤害系数永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,54#3,21#2,2160#4,21#",
+		"checkPoint" : 1540,
+		"code" : 18,
+		"effectStr" : "10018,1",
+		"name" : "瑶池玉珠",
+		"piece" : 5,
+		"pieceName" : "瑶池碎片⑤",
+		"weaponDesc" : "蚀骨冰寒伤害系数永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,54#3,21#2,2160#4,21#",
+		"checkPoint" : 1560,
+		"code" : 18,
+		"effectStr" : "10018,1",
+		"name" : "瑶池玉珠",
+		"piece" : 6,
+		"pieceName" : "瑶池碎片⑥",
+		"weaponDesc" : "蚀骨冰寒伤害系数永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,54#3,21#2,2160#4,21#",
+		"checkPoint" : 1580,
+		"code" : 18,
+		"effectStr" : "10018,1",
+		"name" : "瑶池玉珠",
+		"piece" : 7,
+		"pieceName" : "瑶池碎片⑦",
+		"weaponDesc" : "蚀骨冰寒伤害系数永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,54#3,21#2,2160#4,21#",
+		"checkPoint" : 1600,
+		"code" : 18,
+		"effectStr" : "10018,1",
+		"name" : "瑶池玉珠",
+		"piece" : 8,
+		"pieceName" : "瑶池碎片⑧",
+		"weaponDesc" : "蚀骨冰寒伤害系数永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,57#3,23#2,2280#4,23#",
+		"checkPoint" : 1620,
+		"code" : 19,
+		"effectStr" : "10019,1",
+		"name" : "乾坤壶",
+		"piece" : 1,
+		"pieceName" : "乾坤碎片①",
+		"weaponDesc" : "风过无痕伤害系数永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,57#3,23#2,2280#4,23#",
+		"checkPoint" : 1640,
+		"code" : 19,
+		"effectStr" : "10019,1",
+		"name" : "乾坤壶",
+		"piece" : 2,
+		"pieceName" : "乾坤碎片②",
+		"weaponDesc" : "风过无痕伤害系数永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,57#3,23#2,2280#4,23#",
+		"checkPoint" : 1660,
+		"code" : 19,
+		"effectStr" : "10019,1",
+		"name" : "乾坤壶",
+		"piece" : 3,
+		"pieceName" : "乾坤碎片③",
+		"weaponDesc" : "风过无痕伤害系数永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,57#3,23#2,2280#4,23#",
+		"checkPoint" : 1680,
+		"code" : 19,
+		"effectStr" : "10019,1",
+		"name" : "乾坤壶",
+		"piece" : 4,
+		"pieceName" : "乾坤碎片④",
+		"weaponDesc" : "风过无痕伤害系数永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,57#3,23#2,2280#4,23#",
+		"checkPoint" : 1700,
+		"code" : 19,
+		"effectStr" : "10019,1",
+		"name" : "乾坤壶",
+		"piece" : 5,
+		"pieceName" : "乾坤碎片⑤",
+		"weaponDesc" : "风过无痕伤害系数永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,57#3,23#2,2280#4,23#",
+		"checkPoint" : 1720,
+		"code" : 19,
+		"effectStr" : "10019,1",
+		"name" : "乾坤壶",
+		"piece" : 6,
+		"pieceName" : "乾坤碎片⑥",
+		"weaponDesc" : "风过无痕伤害系数永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,57#3,23#2,2280#4,23#",
+		"checkPoint" : 1740,
+		"code" : 19,
+		"effectStr" : "10019,1",
+		"name" : "乾坤壶",
+		"piece" : 7,
+		"pieceName" : "乾坤碎片⑦",
+		"weaponDesc" : "风过无痕伤害系数永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,57#3,23#2,2280#4,23#",
+		"checkPoint" : 1760,
+		"code" : 19,
+		"effectStr" : "10019,1",
+		"name" : "乾坤壶",
+		"piece" : 8,
+		"pieceName" : "乾坤碎片⑧",
+		"weaponDesc" : "风过无痕伤害系数永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,61#3,24#2,2440#4,24#",
+		"checkPoint" : 1780,
+		"code" : 20,
+		"effectStr" : "10020,1#10024,1",
+		"name" : "伏羲琴",
+		"piece" : 1,
+		"pieceName" : "伏羲碎片①",
+		"weaponDesc" : "护佑苍生每秒恢复增加2000 持续时间增加1秒",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,61#3,24#2,2440#4,24#",
+		"checkPoint" : 1800,
+		"code" : 20,
+		"effectStr" : "10020,1#10024,1",
+		"name" : "伏羲琴",
+		"piece" : 2,
+		"pieceName" : "伏羲碎片②",
+		"weaponDesc" : "护佑苍生每秒恢复增加2000 持续时间增加1秒",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,61#3,24#2,2440#4,24#",
+		"checkPoint" : 1820,
+		"code" : 20,
+		"effectStr" : "10020,1#10024,1",
+		"name" : "伏羲琴",
+		"piece" : 3,
+		"pieceName" : "伏羲碎片③",
+		"weaponDesc" : "护佑苍生每秒恢复增加2000 持续时间增加1秒",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,61#3,24#2,2440#4,24#",
+		"checkPoint" : 1840,
+		"code" : 20,
+		"effectStr" : "10020,1#10024,1",
+		"name" : "伏羲琴",
+		"piece" : 4,
+		"pieceName" : "伏羲碎片④",
+		"weaponDesc" : "护佑苍生每秒恢复增加2000 持续时间增加1秒",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,61#3,24#2,2440#4,24#",
+		"checkPoint" : 1860,
+		"code" : 20,
+		"effectStr" : "10020,1#10024,1",
+		"name" : "伏羲琴",
+		"piece" : 5,
+		"pieceName" : "伏羲碎片⑤",
+		"weaponDesc" : "护佑苍生每秒恢复增加2000 持续时间增加1秒",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,61#3,24#2,2440#4,24#",
+		"checkPoint" : 1880,
+		"code" : 20,
+		"effectStr" : "10020,1#10024,1",
+		"name" : "伏羲琴",
+		"piece" : 6,
+		"pieceName" : "伏羲碎片⑥",
+		"weaponDesc" : "护佑苍生每秒恢复增加2000 持续时间增加1秒",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,61#3,24#2,2440#4,24#",
+		"checkPoint" : 1900,
+		"code" : 20,
+		"effectStr" : "10020,1#10024,1",
+		"name" : "伏羲琴",
+		"piece" : 7,
+		"pieceName" : "伏羲碎片⑦",
+		"weaponDesc" : "护佑苍生每秒恢复增加2000 持续时间增加1秒",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,61#3,24#2,2440#4,24#",
+		"checkPoint" : 1920,
+		"code" : 20,
+		"effectStr" : "10020,1#10024,1",
+		"name" : "伏羲琴",
+		"piece" : 8,
+		"pieceName" : "伏羲碎片⑧",
+		"weaponDesc" : "护佑苍生每秒恢复增加2000 持续时间增加1秒",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,64#3,26#2,2560#4,26#",
+		"checkPoint" : 1940,
+		"code" : 21,
+		"effectStr" : "10021,1",
+		"name" : "九天玄剑",
+		"piece" : 1,
+		"pieceName" : "九天碎片①",
+		"weaponDesc" : "鸿蒙剑诀伤害永久增加10000",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,64#3,26#2,2560#4,26#",
+		"checkPoint" : 1960,
+		"code" : 21,
+		"effectStr" : "10021,1",
+		"name" : "九天玄剑",
+		"piece" : 2,
+		"pieceName" : "九天碎片②",
+		"weaponDesc" : "鸿蒙剑诀伤害永久增加10000",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,64#3,26#2,2560#4,26#",
+		"checkPoint" : 1980,
+		"code" : 21,
+		"effectStr" : "10021,1",
+		"name" : "九天玄剑",
+		"piece" : 3,
+		"pieceName" : "九天碎片③",
+		"weaponDesc" : "鸿蒙剑诀伤害永久增加10000",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,64#3,26#2,2560#4,26#",
+		"checkPoint" : 2000,
+		"code" : 21,
+		"effectStr" : "10021,1",
+		"name" : "九天玄剑",
+		"piece" : 4,
+		"pieceName" : "九天碎片④",
+		"weaponDesc" : "鸿蒙剑诀伤害永久增加10000",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,64#3,26#2,2560#4,26#",
+		"checkPoint" : 2020,
+		"code" : 21,
+		"effectStr" : "10021,1",
+		"name" : "九天玄剑",
+		"piece" : 5,
+		"pieceName" : "九天碎片⑤",
+		"weaponDesc" : "鸿蒙剑诀伤害永久增加10000",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,64#3,26#2,2560#4,26#",
+		"checkPoint" : 2040,
+		"code" : 21,
+		"effectStr" : "10021,1",
+		"name" : "九天玄剑",
+		"piece" : 6,
+		"pieceName" : "九天碎片⑥",
+		"weaponDesc" : "鸿蒙剑诀伤害永久增加10000",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,64#3,26#2,2560#4,26#",
+		"checkPoint" : 2060,
+		"code" : 21,
+		"effectStr" : "10021,1",
+		"name" : "九天玄剑",
+		"piece" : 7,
+		"pieceName" : "九天碎片⑦",
+		"weaponDesc" : "鸿蒙剑诀伤害永久增加10000",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,64#3,26#2,2560#4,26#",
+		"checkPoint" : 2080,
+		"code" : 21,
+		"effectStr" : "10021,1",
+		"name" : "九天玄剑",
+		"piece" : 8,
+		"pieceName" : "九天碎片⑧",
+		"weaponDesc" : "鸿蒙剑诀伤害永久增加10000",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,68#3,27#2,2720#4,27#",
+		"checkPoint" : 2100,
+		"code" : 22,
+		"effectStr" : "10022,1#10025,1",
+		"name" : "浮屠钟",
+		"piece" : 1,
+		"pieceName" : "浮屠碎片①",
+		"weaponDesc" : "凛冽极光伤害永久增加10000 冷却缩短1秒",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,68#3,27#2,2720#4,27#",
+		"checkPoint" : 2120,
+		"code" : 22,
+		"effectStr" : "10022,1#10025,1",
+		"name" : "浮屠钟",
+		"piece" : 2,
+		"pieceName" : "浮屠碎片②",
+		"weaponDesc" : "凛冽极光伤害永久增加10000 冷却缩短1秒",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,68#3,27#2,2720#4,27#",
+		"checkPoint" : 2140,
+		"code" : 22,
+		"effectStr" : "10022,1#10025,1",
+		"name" : "浮屠钟",
+		"piece" : 3,
+		"pieceName" : "浮屠碎片③",
+		"weaponDesc" : "凛冽极光伤害永久增加10000 冷却缩短1秒",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,68#3,27#2,2720#4,27#",
+		"checkPoint" : 2160,
+		"code" : 22,
+		"effectStr" : "10022,1#10025,1",
+		"name" : "浮屠钟",
+		"piece" : 4,
+		"pieceName" : "浮屠碎片④",
+		"weaponDesc" : "凛冽极光伤害永久增加10000 冷却缩短1秒",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,68#3,27#2,2720#4,27#",
+		"checkPoint" : 2180,
+		"code" : 22,
+		"effectStr" : "10022,1#10025,1",
+		"name" : "浮屠钟",
+		"piece" : 5,
+		"pieceName" : "浮屠碎片⑤",
+		"weaponDesc" : "凛冽极光伤害永久增加10000 冷却缩短1秒",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,68#3,27#2,2720#4,27#",
+		"checkPoint" : 2200,
+		"code" : 22,
+		"effectStr" : "10022,1#10025,1",
+		"name" : "浮屠钟",
+		"piece" : 6,
+		"pieceName" : "浮屠碎片⑥",
+		"weaponDesc" : "凛冽极光伤害永久增加10000 冷却缩短1秒",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,68#3,27#2,2720#4,27#",
+		"checkPoint" : 2220,
+		"code" : 22,
+		"effectStr" : "10022,1#10025,1",
+		"name" : "浮屠钟",
+		"piece" : 7,
+		"pieceName" : "浮屠碎片⑦",
+		"weaponDesc" : "凛冽极光伤害永久增加10000 冷却缩短1秒",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,68#3,27#2,2720#4,27#",
+		"checkPoint" : 2240,
+		"code" : 22,
+		"effectStr" : "10022,1#10025,1",
+		"name" : "浮屠钟",
+		"piece" : 8,
+		"pieceName" : "浮屠碎片⑧",
+		"weaponDesc" : "凛冽极光伤害永久增加10000 冷却缩短1秒",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,71#3,29#2,2840#4,29#",
+		"checkPoint" : 2260,
+		"code" : 23,
+		"effectStr" : "10023,1",
+		"name" : "鸿蒙伞",
+		"piece" : 1,
+		"pieceName" : "鸿蒙碎片①",
+		"weaponDesc" : "千里追魂伤害永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,71#3,29#2,2840#4,29#",
+		"checkPoint" : 2280,
+		"code" : 23,
+		"effectStr" : "10023,1",
+		"name" : "鸿蒙伞",
+		"piece" : 2,
+		"pieceName" : "鸿蒙碎片②",
+		"weaponDesc" : "千里追魂伤害永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,71#3,29#2,2840#4,29#",
+		"checkPoint" : 2300,
+		"code" : 23,
+		"effectStr" : "10023,1",
+		"name" : "鸿蒙伞",
+		"piece" : 3,
+		"pieceName" : "鸿蒙碎片③",
+		"weaponDesc" : "千里追魂伤害永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,71#3,29#2,2840#4,29#",
+		"checkPoint" : 2320,
+		"code" : 23,
+		"effectStr" : "10023,1",
+		"name" : "鸿蒙伞",
+		"piece" : 4,
+		"pieceName" : "鸿蒙碎片④",
+		"weaponDesc" : "千里追魂伤害永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,71#3,29#2,2840#4,29#",
+		"checkPoint" : 2340,
+		"code" : 23,
+		"effectStr" : "10023,1",
+		"name" : "鸿蒙伞",
+		"piece" : 5,
+		"pieceName" : "鸿蒙碎片⑤",
+		"weaponDesc" : "千里追魂伤害永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,71#3,29#2,2840#4,29#",
+		"checkPoint" : 2360,
+		"code" : 23,
+		"effectStr" : "10023,1",
+		"name" : "鸿蒙伞",
+		"piece" : 6,
+		"pieceName" : "鸿蒙碎片⑥",
+		"weaponDesc" : "千里追魂伤害永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,71#3,29#2,2840#4,29#",
+		"checkPoint" : 2380,
+		"code" : 23,
+		"effectStr" : "10023,1",
+		"name" : "鸿蒙伞",
+		"piece" : 7,
+		"pieceName" : "鸿蒙碎片⑦",
+		"weaponDesc" : "千里追魂伤害永久增加10%",
+		"weaponEffect" : 2
+	},
+	
+	{
+		"attr" : "1,71#3,29#2,2840#4,29#",
+		"checkPoint" : 2400,
+		"code" : 23,
+		"effectStr" : "10023,1",
+		"name" : "鸿蒙伞",
+		"piece" : 8,
+		"pieceName" : "鸿蒙碎片⑧",
+		"weaponDesc" : "千里追魂伤害永久增加10%",
+		"weaponEffect" : 2
+	}
+]

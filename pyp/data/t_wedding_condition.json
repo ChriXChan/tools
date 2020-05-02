@@ -1,0 +1,20 @@
+
+[
+	
+	{
+		"id" : 1,
+		"intimate" : 999,
+		"loveTaskNum" : 18
+	},
+	
+	{
+		"id" : 2,
+		"intimate" : 2999,
+		"loveTaskNum" : 9
+	},
+	
+	{
+		"id" : 3,
+		"intimate" : 6999
+	}
+]

@@ -1,0 +1,223 @@
+
+[
+	
+	{
+		"day" : 1,
+		"foundationCode" : 41470601,
+		"gold" : 188,
+		"returnRate" : 20,
+		"silver" : 188888
+	},
+	
+	{
+		"day" : 2,
+		"foundationCode" : 41470601,
+		"gold" : 188,
+		"returnRate" : 30,
+		"silver" : 288888
+	},
+	
+	{
+		"day" : 3,
+		"foundationCode" : 41470601,
+		"gold" : 288,
+		"returnRate" : 40,
+		"silver" : 388888
+	},
+	
+	{
+		"day" : 4,
+		"foundationCode" : 41470601,
+		"gold" : 288,
+		"returnRate" : 50,
+		"silver" : 488888
+	},
+	
+	{
+		"day" : 5,
+		"foundationCode" : 41470601,
+		"gold" : 388,
+		"returnRate" : 70,
+		"silver" : 488888
+	},
+	
+	{
+		"bindGold" : 28,
+		"day" : 6,
+		"foundationCode" : 41470601,
+		"silver" : 88888
+	},
+	
+	{
+		"bindGold" : 28,
+		"day" : 7,
+		"foundationCode" : 41470601,
+		"silver" : 88888
+	},
+	
+	{
+		"bindGold" : 28,
+		"day" : 8,
+		"foundationCode" : 41470601,
+		"silver" : 88888
+	},
+	
+	{
+		"bindGold" : 28,
+		"day" : 9,
+		"foundationCode" : 41470601,
+		"silver" : 88888
+	},
+	
+	{
+		"bindGold" : 28,
+		"day" : 10,
+		"foundationCode" : 41470601,
+		"silver" : 88888
+	},
+	
+	{
+		"bindGold" : 28,
+		"day" : 11,
+		"foundationCode" : 41470601,
+		"silver" : 88888
+	},
+	
+	{
+		"bindGold" : 28,
+		"day" : 12,
+		"foundationCode" : 41470601,
+		"silver" : 88888
+	},
+	
+	{
+		"bindGold" : 28,
+		"day" : 13,
+		"foundationCode" : 41470601,
+		"silver" : 88888
+	},
+	
+	{
+		"bindGold" : 28,
+		"day" : 14,
+		"foundationCode" : 41470601,
+		"silver" : 88888
+	},
+	
+	{
+		"bindGold" : 28,
+		"day" : 15,
+		"foundationCode" : 41470601,
+		"silver" : 88888
+	},
+	
+	{
+		"day" : 1,
+		"foundationCode" : 41471601,
+		"gold" : 188,
+		"returnRate" : 20,
+		"silver" : 188888
+	},
+	
+	{
+		"day" : 2,
+		"foundationCode" : 41471601,
+		"gold" : 188,
+		"returnRate" : 30,
+		"silver" : 288888
+	},
+	
+	{
+		"day" : 3,
+		"foundationCode" : 41471601,
+		"gold" : 288,
+		"returnRate" : 40,
+		"silver" : 388888
+	},
+	
+	{
+		"day" : 4,
+		"foundationCode" : 41471601,
+		"gold" : 288,
+		"returnRate" : 50,
+		"silver" : 488888
+	},
+	
+	{
+		"day" : 5,
+		"foundationCode" : 41471601,
+		"gold" : 388,
+		"returnRate" : 70,
+		"silver" : 488888
+	},
+	
+	{
+		"bindGold" : 28,
+		"day" : 6,
+		"foundationCode" : 41471601,
+		"silver" : 88888
+	},
+	
+	{
+		"bindGold" : 28,
+		"day" : 7,
+		"foundationCode" : 41471601,
+		"silver" : 88888
+	},
+	
+	{
+		"bindGold" : 28,
+		"day" : 8,
+		"foundationCode" : 41471601,
+		"silver" : 88888
+	},
+	
+	{
+		"bindGold" : 28,
+		"day" : 9,
+		"foundationCode" : 41471601,
+		"silver" : 88888
+	},
+	
+	{
+		"bindGold" : 28,
+		"day" : 10,
+		"foundationCode" : 41471601,
+		"silver" : 88888
+	},
+	
+	{
+		"bindGold" : 28,
+		"day" : 11,
+		"foundationCode" : 41471601,
+		"silver" : 88888
+	},
+	
+	{
+		"bindGold" : 28,
+		"day" : 12,
+		"foundationCode" : 41471601,
+		"silver" : 88888
+	},
+	
+	{
+		"bindGold" : 28,
+		"day" : 13,
+		"foundationCode" : 41471601,
+		"silver" : 88888
+	},
+	
+	{
+		"bindGold" : 28,
+		"day" : 14,
+		"foundationCode" : 41471601,
+		"silver" : 88888
+	},
+	
+	{
+		"bindGold" : 28,
+		"day" : 15,
+		"foundationCode" : 41471601,
+		"silver" : 88888
+	}
+]

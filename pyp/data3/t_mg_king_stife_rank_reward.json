@@ -1,0 +1,33 @@
+
+[
+	
+	{
+		"minLevel" : 76,
+		"rank" : 1,
+		"rewards" : "3,20000005,1#"
+	},
+	
+	{
+		"minLevel" : 76,
+		"rank" : 2,
+		"rewards" : "3,20000006,1#"
+	},
+	
+	{
+		"minLevel" : 76,
+		"rank" : 3,
+		"rewards" : "3,20000007,1#"
+	},
+	
+	{
+		"minLevel" : 76,
+		"rank" : 4,
+		"rewards" : "3,20000008,1#"
+	},
+	
+	{
+		"minLevel" : 76,
+		"rank" : 5,
+		"rewards" : "3,20000009,1#"
+	}
+]

@@ -1,0 +1,69 @@
+
+[
+	
+	{
+		"category" : 4,
+		"id" : 1,
+		"type" : 11
+	},
+	
+	{
+		"category" : 4,
+		"id" : 2,
+		"type" : 12
+	},
+	
+	{
+		"category" : 4,
+		"id" : 3,
+		"type" : 166
+	},
+	
+	{
+		"category" : 4,
+		"id" : 4,
+		"type" : 167
+	},
+	
+	{
+		"category" : 4,
+		"id" : 5,
+		"type" : 62
+	},
+	
+	{
+		"category" : 4,
+		"id" : 6,
+		"type" : 15
+	},
+	
+	{
+		"category" : 3,
+		"id" : 7,
+		"type" : 13
+	},
+	
+	{
+		"category" : 3,
+		"id" : 8,
+		"type" : 14
+	},
+	
+	{
+		"category" : 3,
+		"id" : 9,
+		"type" : 15
+	},
+	
+	{
+		"category" : 4,
+		"id" : 10,
+		"type" : 106
+	},
+	
+	{
+		"category" : 4,
+		"id" : 11,
+		"type" : 190
+	}
+]

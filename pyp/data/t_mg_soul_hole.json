@@ -1,0 +1,39 @@
+
+[
+	
+	{
+		"id" : 1,
+		"openLevel" : 320
+	},
+	
+	{
+		"id" : 2,
+		"openLevel" : 320
+	},
+	
+	{
+		"id" : 3,
+		"openLevel" : 325
+	},
+	
+	{
+		"id" : 4,
+		"openLevel" : 330
+	},
+	
+	{
+		"id" : 5,
+		"openLevel" : 335
+	},
+	
+	{
+		"id" : 6,
+		"openLevel" : 340
+	},
+	
+	{
+		"id" : 7,
+		"isCore" : 1,
+		"openLevel" : 350
+	}
+]

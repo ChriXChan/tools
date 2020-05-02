@@ -1,0 +1,1953 @@
+
+[
+	
+	{
+		"attackAdd" : 10,
+		"critAdd" : 20,
+		"desc" : "炼气一重",
+		"hitAdd" : 20,
+		"id" : 1.0,
+		"lifeAdd" : 50,
+		"needExp" : 1200,
+		"passAdd" : 20,
+		"starLevel" : 1,
+		"toughnessAdd" : 20
+	},
+	
+	{
+		"attackAdd" : 21,
+		"critAdd" : 42,
+		"desc" : "炼气二重",
+		"hitAdd" : 42,
+		"id" : 2.0,
+		"lifeAdd" : 105,
+		"needExp" : 1440,
+		"passAdd" : 42,
+		"starLevel" : 2,
+		"toughnessAdd" : 42
+	},
+	
+	{
+		"attackAdd" : 33,
+		"critAdd" : 66,
+		"desc" : "炼气三重",
+		"hitAdd" : 66,
+		"id" : 3.0,
+		"lifeAdd" : 165,
+		"needExp" : 2040,
+		"passAdd" : 66,
+		"starLevel" : 3,
+		"toughnessAdd" : 66
+	},
+	
+	{
+		"attackAdd" : 46,
+		"critAdd" : 92,
+		"desc" : "炼气四重",
+		"hitAdd" : 92,
+		"id" : 4.0,
+		"lifeAdd" : 230,
+		"needExp" : 3000,
+		"passAdd" : 92,
+		"starLevel" : 4,
+		"toughnessAdd" : 92
+	},
+	
+	{
+		"attackAdd" : 60,
+		"critAdd" : 120,
+		"desc" : "炼气五重",
+		"hitAdd" : 120,
+		"id" : 5.0,
+		"lifeAdd" : 300,
+		"needExp" : 4320,
+		"passAdd" : 120,
+		"starLevel" : 5,
+		"toughnessAdd" : 120
+	},
+	
+	{
+		"attackAdd" : 75,
+		"critAdd" : 150,
+		"desc" : "炼气六重",
+		"hitAdd" : 150,
+		"id" : 6.0,
+		"lifeAdd" : 375,
+		"needExp" : 6000,
+		"passAdd" : 150,
+		"starLevel" : 6,
+		"toughnessAdd" : 150
+	},
+	
+	{
+		"attackAdd" : 91,
+		"critAdd" : 182,
+		"desc" : "炼气七重",
+		"hitAdd" : 182,
+		"id" : 7.0,
+		"lifeAdd" : 455,
+		"needExp" : 8040,
+		"passAdd" : 182,
+		"starLevel" : 7,
+		"toughnessAdd" : 182
+	},
+	
+	{
+		"attackAdd" : 108,
+		"critAdd" : 216,
+		"desc" : "炼气八重",
+		"hitAdd" : 216,
+		"id" : 8.0,
+		"lifeAdd" : 540,
+		"needExp" : 10440,
+		"passAdd" : 216,
+		"starLevel" : 8,
+		"toughnessAdd" : 216
+	},
+	
+	{
+		"attackAdd" : 126,
+		"critAdd" : 252,
+		"desc" : "炼气九重",
+		"hitAdd" : 252,
+		"id" : 9.0,
+		"lifeAdd" : 630,
+		"needExp" : 13200,
+		"passAdd" : 252,
+		"starLevel" : 9,
+		"toughnessAdd" : 252
+	},
+	
+	{
+		"attackAdd" : 145,
+		"critAdd" : 290,
+		"desc" : "炼气十重",
+		"hitAdd" : 290,
+		"id" : 10.0,
+		"lifeAdd" : 725,
+		"needExp" : 16320,
+		"passAdd" : 290,
+		"starLevel" : 10,
+		"toughnessAdd" : 290
+	},
+	
+	{
+		"attackAdd" : 165,
+		"critAdd" : 330,
+		"desc" : "筑基一重",
+		"hitAdd" : 330,
+		"id" : 11.0,
+		"lifeAdd" : 825,
+		"needExp" : 19800,
+		"passAdd" : 330,
+		"stageLevel" : 1,
+		"starLevel" : 1,
+		"toughnessAdd" : 330
+	},
+	
+	{
+		"attackAdd" : 186,
+		"critAdd" : 372,
+		"desc" : "筑基二重",
+		"hitAdd" : 372,
+		"id" : 12.0,
+		"lifeAdd" : 930,
+		"needExp" : 23640,
+		"passAdd" : 372,
+		"stageLevel" : 1,
+		"starLevel" : 2,
+		"toughnessAdd" : 372
+	},
+	
+	{
+		"attackAdd" : 208,
+		"critAdd" : 416,
+		"desc" : "筑基三重",
+		"hitAdd" : 416,
+		"id" : 13.0,
+		"lifeAdd" : 1040,
+		"needExp" : 27840,
+		"passAdd" : 416,
+		"stageLevel" : 1,
+		"starLevel" : 3,
+		"toughnessAdd" : 416
+	},
+	
+	{
+		"attackAdd" : 231,
+		"critAdd" : 462,
+		"desc" : "筑基四重",
+		"hitAdd" : 462,
+		"id" : 14.0,
+		"lifeAdd" : 1155,
+		"needExp" : 32400,
+		"passAdd" : 462,
+		"stageLevel" : 1,
+		"starLevel" : 4,
+		"toughnessAdd" : 462
+	},
+	
+	{
+		"attackAdd" : 255,
+		"critAdd" : 510,
+		"desc" : "筑基五重",
+		"hitAdd" : 510,
+		"id" : 15.0,
+		"lifeAdd" : 1275,
+		"needExp" : 37320,
+		"passAdd" : 510,
+		"stageLevel" : 1,
+		"starLevel" : 5,
+		"toughnessAdd" : 510
+	},
+	
+	{
+		"attackAdd" : 280,
+		"critAdd" : 560,
+		"desc" : "筑基六重",
+		"hitAdd" : 560,
+		"id" : 16.0,
+		"lifeAdd" : 1400,
+		"needExp" : 42600,
+		"passAdd" : 560,
+		"stageLevel" : 1,
+		"starLevel" : 6,
+		"toughnessAdd" : 560
+	},
+	
+	{
+		"attackAdd" : 306,
+		"critAdd" : 612,
+		"desc" : "筑基七重",
+		"hitAdd" : 612,
+		"id" : 17.0,
+		"lifeAdd" : 1530,
+		"needExp" : 48240,
+		"passAdd" : 612,
+		"stageLevel" : 1,
+		"starLevel" : 7,
+		"toughnessAdd" : 612
+	},
+	
+	{
+		"attackAdd" : 333,
+		"critAdd" : 666,
+		"desc" : "筑基八重",
+		"hitAdd" : 666,
+		"id" : 18.0,
+		"lifeAdd" : 1665,
+		"needExp" : 54240,
+		"passAdd" : 666,
+		"stageLevel" : 1,
+		"starLevel" : 8,
+		"toughnessAdd" : 666
+	},
+	
+	{
+		"attackAdd" : 361,
+		"critAdd" : 722,
+		"desc" : "筑基九重",
+		"hitAdd" : 722,
+		"id" : 19.0,
+		"lifeAdd" : 1805,
+		"needExp" : 60600,
+		"passAdd" : 722,
+		"stageLevel" : 1,
+		"starLevel" : 9,
+		"toughnessAdd" : 722
+	},
+	
+	{
+		"attackAdd" : 390,
+		"critAdd" : 780,
+		"desc" : "筑基十重",
+		"hitAdd" : 780,
+		"id" : 20.0,
+		"lifeAdd" : 1950,
+		"needExp" : 67320,
+		"passAdd" : 780,
+		"stageLevel" : 1,
+		"starLevel" : 10,
+		"toughnessAdd" : 780
+	},
+	
+	{
+		"attackAdd" : 420,
+		"critAdd" : 840,
+		"desc" : "旋照一重",
+		"hitAdd" : 840,
+		"id" : 21.0,
+		"lifeAdd" : 2100,
+		"needExp" : 74400,
+		"passAdd" : 840,
+		"stageLevel" : 2,
+		"starLevel" : 1,
+		"toughnessAdd" : 840
+	},
+	
+	{
+		"attackAdd" : 451,
+		"critAdd" : 902,
+		"desc" : "旋照二重",
+		"hitAdd" : 902,
+		"id" : 22.0,
+		"lifeAdd" : 2255,
+		"needExp" : 81840,
+		"passAdd" : 902,
+		"stageLevel" : 2,
+		"starLevel" : 2,
+		"toughnessAdd" : 902
+	},
+	
+	{
+		"attackAdd" : 483,
+		"critAdd" : 966,
+		"desc" : "旋照三重",
+		"hitAdd" : 966,
+		"id" : 23.0,
+		"lifeAdd" : 2415,
+		"needExp" : 89640,
+		"passAdd" : 966,
+		"stageLevel" : 2,
+		"starLevel" : 3,
+		"toughnessAdd" : 966
+	},
+	
+	{
+		"attackAdd" : 516,
+		"critAdd" : 1032,
+		"desc" : "旋照四重",
+		"hitAdd" : 1032,
+		"id" : 24.0,
+		"lifeAdd" : 2580,
+		"needExp" : 97800,
+		"passAdd" : 1032,
+		"stageLevel" : 2,
+		"starLevel" : 4,
+		"toughnessAdd" : 1032
+	},
+	
+	{
+		"attackAdd" : 550,
+		"critAdd" : 1100,
+		"desc" : "旋照五重",
+		"hitAdd" : 1100,
+		"id" : 25.0,
+		"lifeAdd" : 2750,
+		"needExp" : 106320,
+		"passAdd" : 1100,
+		"stageLevel" : 2,
+		"starLevel" : 5,
+		"toughnessAdd" : 1100
+	},
+	
+	{
+		"attackAdd" : 585,
+		"critAdd" : 1170,
+		"desc" : "旋照六重",
+		"hitAdd" : 1170,
+		"id" : 26.0,
+		"lifeAdd" : 2925,
+		"needExp" : 115200,
+		"passAdd" : 1170,
+		"stageLevel" : 2,
+		"starLevel" : 6,
+		"toughnessAdd" : 1170
+	},
+	
+	{
+		"attackAdd" : 621,
+		"critAdd" : 1242,
+		"desc" : "旋照七重",
+		"hitAdd" : 1242,
+		"id" : 27.0,
+		"lifeAdd" : 3105,
+		"needExp" : 124440,
+		"passAdd" : 1242,
+		"stageLevel" : 2,
+		"starLevel" : 7,
+		"toughnessAdd" : 1242
+	},
+	
+	{
+		"attackAdd" : 658,
+		"critAdd" : 1316,
+		"desc" : "旋照八重",
+		"hitAdd" : 1316,
+		"id" : 28.0,
+		"lifeAdd" : 3290,
+		"needExp" : 134040,
+		"passAdd" : 1316,
+		"stageLevel" : 2,
+		"starLevel" : 8,
+		"toughnessAdd" : 1316
+	},
+	
+	{
+		"attackAdd" : 696,
+		"critAdd" : 1392,
+		"desc" : "旋照九重",
+		"hitAdd" : 1392,
+		"id" : 29.0,
+		"lifeAdd" : 3480,
+		"needExp" : 144000,
+		"passAdd" : 1392,
+		"stageLevel" : 2,
+		"starLevel" : 9,
+		"toughnessAdd" : 1392
+	},
+	
+	{
+		"attackAdd" : 735,
+		"critAdd" : 1470,
+		"desc" : "旋照十重",
+		"hitAdd" : 1470,
+		"id" : 30.0,
+		"lifeAdd" : 3675,
+		"needExp" : 154320,
+		"passAdd" : 1470,
+		"stageLevel" : 2,
+		"starLevel" : 10,
+		"toughnessAdd" : 1470
+	},
+	
+	{
+		"attackAdd" : 775,
+		"critAdd" : 1550,
+		"desc" : "开光一重",
+		"hitAdd" : 1550,
+		"id" : 31.0,
+		"lifeAdd" : 3875,
+		"needExp" : 165000,
+		"passAdd" : 1550,
+		"stageLevel" : 3,
+		"starLevel" : 1,
+		"toughnessAdd" : 1550
+	},
+	
+	{
+		"attackAdd" : 816,
+		"critAdd" : 1632,
+		"desc" : "开光二重",
+		"hitAdd" : 1632,
+		"id" : 32.0,
+		"lifeAdd" : 4080,
+		"needExp" : 176040,
+		"passAdd" : 1632,
+		"stageLevel" : 3,
+		"starLevel" : 2,
+		"toughnessAdd" : 1632
+	},
+	
+	{
+		"attackAdd" : 858,
+		"critAdd" : 1716,
+		"desc" : "开光三重",
+		"hitAdd" : 1716,
+		"id" : 33.0,
+		"lifeAdd" : 4290,
+		"needExp" : 187440,
+		"passAdd" : 1716,
+		"stageLevel" : 3,
+		"starLevel" : 3,
+		"toughnessAdd" : 1716
+	},
+	
+	{
+		"attackAdd" : 901,
+		"critAdd" : 1802,
+		"desc" : "开光四重",
+		"hitAdd" : 1802,
+		"id" : 34.0,
+		"lifeAdd" : 4505,
+		"needExp" : 199200,
+		"passAdd" : 1802,
+		"stageLevel" : 3,
+		"starLevel" : 4,
+		"toughnessAdd" : 1802
+	},
+	
+	{
+		"attackAdd" : 945,
+		"critAdd" : 1890,
+		"desc" : "开光五重",
+		"hitAdd" : 1890,
+		"id" : 35.0,
+		"lifeAdd" : 4725,
+		"needExp" : 211320,
+		"passAdd" : 1890,
+		"stageLevel" : 3,
+		"starLevel" : 5,
+		"toughnessAdd" : 1890
+	},
+	
+	{
+		"attackAdd" : 990,
+		"critAdd" : 1980,
+		"desc" : "开光六重",
+		"hitAdd" : 1980,
+		"id" : 36.0,
+		"lifeAdd" : 4950,
+		"needExp" : 223800,
+		"passAdd" : 1980,
+		"stageLevel" : 3,
+		"starLevel" : 6,
+		"toughnessAdd" : 1980
+	},
+	
+	{
+		"attackAdd" : 1036,
+		"critAdd" : 2072,
+		"desc" : "开光七重",
+		"hitAdd" : 2072,
+		"id" : 37.0,
+		"lifeAdd" : 5180,
+		"needExp" : 236640,
+		"passAdd" : 2072,
+		"stageLevel" : 3,
+		"starLevel" : 7,
+		"toughnessAdd" : 2072
+	},
+	
+	{
+		"attackAdd" : 1083,
+		"critAdd" : 2166,
+		"desc" : "开光八重",
+		"hitAdd" : 2166,
+		"id" : 38.0,
+		"lifeAdd" : 5415,
+		"needExp" : 249840,
+		"passAdd" : 2166,
+		"stageLevel" : 3,
+		"starLevel" : 8,
+		"toughnessAdd" : 2166
+	},
+	
+	{
+		"attackAdd" : 1131,
+		"critAdd" : 2262,
+		"desc" : "开光九重",
+		"hitAdd" : 2262,
+		"id" : 39.0,
+		"lifeAdd" : 5655,
+		"needExp" : 263400,
+		"passAdd" : 2262,
+		"stageLevel" : 3,
+		"starLevel" : 9,
+		"toughnessAdd" : 2262
+	},
+	
+	{
+		"attackAdd" : 1180,
+		"critAdd" : 2360,
+		"desc" : "开光十重",
+		"hitAdd" : 2360,
+		"id" : 40.0,
+		"lifeAdd" : 5900,
+		"needExp" : 277320,
+		"passAdd" : 2360,
+		"stageLevel" : 3,
+		"starLevel" : 10,
+		"toughnessAdd" : 2360
+	},
+	
+	{
+		"attackAdd" : 1230,
+		"critAdd" : 2460,
+		"desc" : "融合一重",
+		"hitAdd" : 2460,
+		"id" : 41.0,
+		"lifeAdd" : 6150,
+		"needExp" : 291600,
+		"passAdd" : 2460,
+		"stageLevel" : 4,
+		"starLevel" : 1,
+		"toughnessAdd" : 2460
+	},
+	
+	{
+		"attackAdd" : 1281,
+		"critAdd" : 2562,
+		"desc" : "融合二重",
+		"hitAdd" : 2562,
+		"id" : 42.0,
+		"lifeAdd" : 6405,
+		"needExp" : 306240,
+		"passAdd" : 2562,
+		"stageLevel" : 4,
+		"starLevel" : 2,
+		"toughnessAdd" : 2562
+	},
+	
+	{
+		"attackAdd" : 1333,
+		"critAdd" : 2666,
+		"desc" : "融合三重",
+		"hitAdd" : 2666,
+		"id" : 43.0,
+		"lifeAdd" : 6665,
+		"needExp" : 321240,
+		"passAdd" : 2666,
+		"stageLevel" : 4,
+		"starLevel" : 3,
+		"toughnessAdd" : 2666
+	},
+	
+	{
+		"attackAdd" : 1386,
+		"critAdd" : 2772,
+		"desc" : "融合四重",
+		"hitAdd" : 2772,
+		"id" : 44.0,
+		"lifeAdd" : 6930,
+		"needExp" : 336600,
+		"passAdd" : 2772,
+		"stageLevel" : 4,
+		"starLevel" : 4,
+		"toughnessAdd" : 2772
+	},
+	
+	{
+		"attackAdd" : 1440,
+		"critAdd" : 2880,
+		"desc" : "融合五重",
+		"hitAdd" : 2880,
+		"id" : 45.0,
+		"lifeAdd" : 7200,
+		"needExp" : 352320,
+		"passAdd" : 2880,
+		"stageLevel" : 4,
+		"starLevel" : 5,
+		"toughnessAdd" : 2880
+	},
+	
+	{
+		"attackAdd" : 1495,
+		"critAdd" : 2990,
+		"desc" : "融合六重",
+		"hitAdd" : 2990,
+		"id" : 46.0,
+		"lifeAdd" : 7475,
+		"needExp" : 368400,
+		"passAdd" : 2990,
+		"stageLevel" : 4,
+		"starLevel" : 6,
+		"toughnessAdd" : 2990
+	},
+	
+	{
+		"attackAdd" : 1551,
+		"critAdd" : 3102,
+		"desc" : "融合七重",
+		"hitAdd" : 3102,
+		"id" : 47.0,
+		"lifeAdd" : 7755,
+		"needExp" : 384840,
+		"passAdd" : 3102,
+		"stageLevel" : 4,
+		"starLevel" : 7,
+		"toughnessAdd" : 3102
+	},
+	
+	{
+		"attackAdd" : 1608,
+		"critAdd" : 3216,
+		"desc" : "融合八重",
+		"hitAdd" : 3216,
+		"id" : 48.0,
+		"lifeAdd" : 8040,
+		"needExp" : 401640,
+		"passAdd" : 3216,
+		"stageLevel" : 4,
+		"starLevel" : 8,
+		"toughnessAdd" : 3216
+	},
+	
+	{
+		"attackAdd" : 1666,
+		"critAdd" : 3332,
+		"desc" : "融合九重",
+		"hitAdd" : 3332,
+		"id" : 49.0,
+		"lifeAdd" : 8330,
+		"needExp" : 418800,
+		"passAdd" : 3332,
+		"stageLevel" : 4,
+		"starLevel" : 9,
+		"toughnessAdd" : 3332
+	},
+	
+	{
+		"attackAdd" : 1725,
+		"critAdd" : 3450,
+		"desc" : "融合十重",
+		"hitAdd" : 3450,
+		"id" : 50.0,
+		"lifeAdd" : 8625,
+		"needExp" : 436320,
+		"passAdd" : 3450,
+		"stageLevel" : 4,
+		"starLevel" : 10,
+		"toughnessAdd" : 3450
+	},
+	
+	{
+		"attackAdd" : 1785,
+		"critAdd" : 3570,
+		"desc" : "心动一重",
+		"hitAdd" : 3570,
+		"id" : 51.0,
+		"lifeAdd" : 8925,
+		"needExp" : 454200,
+		"passAdd" : 3570,
+		"stageLevel" : 5,
+		"starLevel" : 1,
+		"toughnessAdd" : 3570
+	},
+	
+	{
+		"attackAdd" : 1846,
+		"critAdd" : 3692,
+		"desc" : "心动二重",
+		"hitAdd" : 3692,
+		"id" : 52.0,
+		"lifeAdd" : 9230,
+		"needExp" : 472440,
+		"passAdd" : 3692,
+		"stageLevel" : 5,
+		"starLevel" : 2,
+		"toughnessAdd" : 3692
+	},
+	
+	{
+		"attackAdd" : 1908,
+		"critAdd" : 3816,
+		"desc" : "心动三重",
+		"hitAdd" : 3816,
+		"id" : 53.0,
+		"lifeAdd" : 9540,
+		"needExp" : 491040,
+		"passAdd" : 3816,
+		"stageLevel" : 5,
+		"starLevel" : 3,
+		"toughnessAdd" : 3816
+	},
+	
+	{
+		"attackAdd" : 1971,
+		"critAdd" : 3942,
+		"desc" : "心动四重",
+		"hitAdd" : 3942,
+		"id" : 54.0,
+		"lifeAdd" : 9855,
+		"needExp" : 510000,
+		"passAdd" : 3942,
+		"stageLevel" : 5,
+		"starLevel" : 4,
+		"toughnessAdd" : 3942
+	},
+	
+	{
+		"attackAdd" : 2035,
+		"critAdd" : 4070,
+		"desc" : "心动五重",
+		"hitAdd" : 4070,
+		"id" : 55.0,
+		"lifeAdd" : 10175,
+		"needExp" : 529320,
+		"passAdd" : 4070,
+		"stageLevel" : 5,
+		"starLevel" : 5,
+		"toughnessAdd" : 4070
+	},
+	
+	{
+		"attackAdd" : 2100,
+		"critAdd" : 4200,
+		"desc" : "心动六重",
+		"hitAdd" : 4200,
+		"id" : 56.0,
+		"lifeAdd" : 10500,
+		"needExp" : 549000,
+		"passAdd" : 4200,
+		"stageLevel" : 5,
+		"starLevel" : 6,
+		"toughnessAdd" : 4200
+	},
+	
+	{
+		"attackAdd" : 2166,
+		"critAdd" : 4332,
+		"desc" : "心动七重",
+		"hitAdd" : 4332,
+		"id" : 57.0,
+		"lifeAdd" : 10830,
+		"needExp" : 569040,
+		"passAdd" : 4332,
+		"stageLevel" : 5,
+		"starLevel" : 7,
+		"toughnessAdd" : 4332
+	},
+	
+	{
+		"attackAdd" : 2233,
+		"critAdd" : 4466,
+		"desc" : "心动八重",
+		"hitAdd" : 4466,
+		"id" : 58.0,
+		"lifeAdd" : 11165,
+		"needExp" : 589440,
+		"passAdd" : 4466,
+		"stageLevel" : 5,
+		"starLevel" : 8,
+		"toughnessAdd" : 4466
+	},
+	
+	{
+		"attackAdd" : 2301,
+		"critAdd" : 4602,
+		"desc" : "心动九重",
+		"hitAdd" : 4602,
+		"id" : 59.0,
+		"lifeAdd" : 11505,
+		"needExp" : 610200,
+		"passAdd" : 4602,
+		"stageLevel" : 5,
+		"starLevel" : 9,
+		"toughnessAdd" : 4602
+	},
+	
+	{
+		"attackAdd" : 2370,
+		"critAdd" : 4740,
+		"desc" : "心动十重",
+		"hitAdd" : 4740,
+		"id" : 60.0,
+		"lifeAdd" : 11850,
+		"needExp" : 631320,
+		"passAdd" : 4740,
+		"stageLevel" : 5,
+		"starLevel" : 10,
+		"toughnessAdd" : 4740
+	},
+	
+	{
+		"attackAdd" : 2440,
+		"critAdd" : 4880,
+		"desc" : "灵寂一重",
+		"hitAdd" : 4880,
+		"id" : 61.0,
+		"lifeAdd" : 12200,
+		"needExp" : 652800,
+		"passAdd" : 4880,
+		"stageLevel" : 6,
+		"starLevel" : 1,
+		"toughnessAdd" : 4880
+	},
+	
+	{
+		"attackAdd" : 2511,
+		"critAdd" : 5022,
+		"desc" : "灵寂二重",
+		"hitAdd" : 5022,
+		"id" : 62.0,
+		"lifeAdd" : 12555,
+		"needExp" : 674640,
+		"passAdd" : 5022,
+		"stageLevel" : 6,
+		"starLevel" : 2,
+		"toughnessAdd" : 5022
+	},
+	
+	{
+		"attackAdd" : 2583,
+		"critAdd" : 5166,
+		"desc" : "灵寂三重",
+		"hitAdd" : 5166,
+		"id" : 63.0,
+		"lifeAdd" : 12915,
+		"needExp" : 696840,
+		"passAdd" : 5166,
+		"stageLevel" : 6,
+		"starLevel" : 3,
+		"toughnessAdd" : 5166
+	},
+	
+	{
+		"attackAdd" : 2656,
+		"critAdd" : 5312,
+		"desc" : "灵寂四重",
+		"hitAdd" : 5312,
+		"id" : 64.0,
+		"lifeAdd" : 13280,
+		"needExp" : 719400,
+		"passAdd" : 5312,
+		"stageLevel" : 6,
+		"starLevel" : 4,
+		"toughnessAdd" : 5312
+	},
+	
+	{
+		"attackAdd" : 2730,
+		"critAdd" : 5460,
+		"desc" : "灵寂五重",
+		"hitAdd" : 5460,
+		"id" : 65.0,
+		"lifeAdd" : 13650,
+		"needExp" : 742320,
+		"passAdd" : 5460,
+		"stageLevel" : 6,
+		"starLevel" : 5,
+		"toughnessAdd" : 5460
+	},
+	
+	{
+		"attackAdd" : 2805,
+		"critAdd" : 5610,
+		"desc" : "灵寂六重",
+		"hitAdd" : 5610,
+		"id" : 66.0,
+		"lifeAdd" : 14025,
+		"needExp" : 765600,
+		"passAdd" : 5610,
+		"stageLevel" : 6,
+		"starLevel" : 6,
+		"toughnessAdd" : 5610
+	},
+	
+	{
+		"attackAdd" : 2881,
+		"critAdd" : 5762,
+		"desc" : "灵寂七重",
+		"hitAdd" : 5762,
+		"id" : 67.0,
+		"lifeAdd" : 14405,
+		"needExp" : 789240,
+		"passAdd" : 5762,
+		"stageLevel" : 6,
+		"starLevel" : 7,
+		"toughnessAdd" : 5762
+	},
+	
+	{
+		"attackAdd" : 2958,
+		"critAdd" : 5916,
+		"desc" : "灵寂八重",
+		"hitAdd" : 5916,
+		"id" : 68.0,
+		"lifeAdd" : 14790,
+		"needExp" : 813240,
+		"passAdd" : 5916,
+		"stageLevel" : 6,
+		"starLevel" : 8,
+		"toughnessAdd" : 5916
+	},
+	
+	{
+		"attackAdd" : 3036,
+		"critAdd" : 6072,
+		"desc" : "灵寂九重",
+		"hitAdd" : 6072,
+		"id" : 69.0,
+		"lifeAdd" : 15180,
+		"needExp" : 837600,
+		"passAdd" : 6072,
+		"stageLevel" : 6,
+		"starLevel" : 9,
+		"toughnessAdd" : 6072
+	},
+	
+	{
+		"attackAdd" : 3115,
+		"critAdd" : 6230,
+		"desc" : "灵寂十重",
+		"hitAdd" : 6230,
+		"id" : 70.0,
+		"lifeAdd" : 15575,
+		"needExp" : 862320,
+		"passAdd" : 6230,
+		"stageLevel" : 6,
+		"starLevel" : 10,
+		"toughnessAdd" : 6230
+	},
+	
+	{
+		"attackAdd" : 3195,
+		"critAdd" : 6390,
+		"desc" : "元婴一重",
+		"hitAdd" : 6390,
+		"id" : 71.0,
+		"lifeAdd" : 15975,
+		"needExp" : 887400,
+		"passAdd" : 6390,
+		"stageLevel" : 7,
+		"starLevel" : 1,
+		"toughnessAdd" : 6390
+	},
+	
+	{
+		"attackAdd" : 3276,
+		"critAdd" : 6552,
+		"desc" : "元婴二重",
+		"hitAdd" : 6552,
+		"id" : 72.0,
+		"lifeAdd" : 16380,
+		"needExp" : 912840,
+		"passAdd" : 6552,
+		"stageLevel" : 7,
+		"starLevel" : 2,
+		"toughnessAdd" : 6552
+	},
+	
+	{
+		"attackAdd" : 3358,
+		"critAdd" : 6716,
+		"desc" : "元婴三重",
+		"hitAdd" : 6716,
+		"id" : 73.0,
+		"lifeAdd" : 16790,
+		"needExp" : 938640,
+		"passAdd" : 6716,
+		"stageLevel" : 7,
+		"starLevel" : 3,
+		"toughnessAdd" : 6716
+	},
+	
+	{
+		"attackAdd" : 3441,
+		"critAdd" : 6882,
+		"desc" : "元婴四重",
+		"hitAdd" : 6882,
+		"id" : 74.0,
+		"lifeAdd" : 17205,
+		"needExp" : 964800,
+		"passAdd" : 6882,
+		"stageLevel" : 7,
+		"starLevel" : 4,
+		"toughnessAdd" : 6882
+	},
+	
+	{
+		"attackAdd" : 3525,
+		"critAdd" : 7050,
+		"desc" : "元婴五重",
+		"hitAdd" : 7050,
+		"id" : 75.0,
+		"lifeAdd" : 17625,
+		"needExp" : 991320,
+		"passAdd" : 7050,
+		"stageLevel" : 7,
+		"starLevel" : 5,
+		"toughnessAdd" : 7050
+	},
+	
+	{
+		"attackAdd" : 3610,
+		"critAdd" : 7220,
+		"desc" : "元婴六重",
+		"hitAdd" : 7220,
+		"id" : 76.0,
+		"lifeAdd" : 18050,
+		"needExp" : 1018200,
+		"passAdd" : 7220,
+		"stageLevel" : 7,
+		"starLevel" : 6,
+		"toughnessAdd" : 7220
+	},
+	
+	{
+		"attackAdd" : 3696,
+		"critAdd" : 7392,
+		"desc" : "元婴七重",
+		"hitAdd" : 7392,
+		"id" : 77.0,
+		"lifeAdd" : 18480,
+		"needExp" : 1045440,
+		"passAdd" : 7392,
+		"stageLevel" : 7,
+		"starLevel" : 7,
+		"toughnessAdd" : 7392
+	},
+	
+	{
+		"attackAdd" : 3783,
+		"critAdd" : 7566,
+		"desc" : "元婴八重",
+		"hitAdd" : 7566,
+		"id" : 78.0,
+		"lifeAdd" : 18915,
+		"needExp" : 1073040,
+		"passAdd" : 7566,
+		"stageLevel" : 7,
+		"starLevel" : 8,
+		"toughnessAdd" : 7566
+	},
+	
+	{
+		"attackAdd" : 3871,
+		"critAdd" : 7742,
+		"desc" : "元婴九重",
+		"hitAdd" : 7742,
+		"id" : 79.0,
+		"lifeAdd" : 19355,
+		"needExp" : 1101000,
+		"passAdd" : 7742,
+		"stageLevel" : 7,
+		"starLevel" : 9,
+		"toughnessAdd" : 7742
+	},
+	
+	{
+		"attackAdd" : 3960,
+		"critAdd" : 7920,
+		"desc" : "元婴十重",
+		"hitAdd" : 7920,
+		"id" : 80.0,
+		"lifeAdd" : 19800,
+		"needExp" : 1129320,
+		"passAdd" : 7920,
+		"stageLevel" : 7,
+		"starLevel" : 10,
+		"toughnessAdd" : 7920
+	},
+	
+	{
+		"attackAdd" : 4050,
+		"critAdd" : 8100,
+		"desc" : "出窍一重",
+		"hitAdd" : 8100,
+		"id" : 81.0,
+		"lifeAdd" : 20250,
+		"needExp" : 1158000,
+		"passAdd" : 8100,
+		"stageLevel" : 8,
+		"starLevel" : 1,
+		"toughnessAdd" : 8100
+	},
+	
+	{
+		"attackAdd" : 4141,
+		"critAdd" : 8282,
+		"desc" : "出窍二重",
+		"hitAdd" : 8282,
+		"id" : 82.0,
+		"lifeAdd" : 20705,
+		"needExp" : 1187040,
+		"passAdd" : 8282,
+		"stageLevel" : 8,
+		"starLevel" : 2,
+		"toughnessAdd" : 8282
+	},
+	
+	{
+		"attackAdd" : 4233,
+		"critAdd" : 8466,
+		"desc" : "出窍三重",
+		"hitAdd" : 8466,
+		"id" : 83.0,
+		"lifeAdd" : 21165,
+		"needExp" : 1216440,
+		"passAdd" : 8466,
+		"stageLevel" : 8,
+		"starLevel" : 3,
+		"toughnessAdd" : 8466
+	},
+	
+	{
+		"attackAdd" : 4326,
+		"critAdd" : 8652,
+		"desc" : "出窍四重",
+		"hitAdd" : 8652,
+		"id" : 84.0,
+		"lifeAdd" : 21630,
+		"needExp" : 1246200,
+		"passAdd" : 8652,
+		"stageLevel" : 8,
+		"starLevel" : 4,
+		"toughnessAdd" : 8652
+	},
+	
+	{
+		"attackAdd" : 4420,
+		"critAdd" : 8840,
+		"desc" : "出窍五重",
+		"hitAdd" : 8840,
+		"id" : 85.0,
+		"lifeAdd" : 22100,
+		"needExp" : 1276320,
+		"passAdd" : 8840,
+		"stageLevel" : 8,
+		"starLevel" : 5,
+		"toughnessAdd" : 8840
+	},
+	
+	{
+		"attackAdd" : 4515,
+		"critAdd" : 9030,
+		"desc" : "出窍六重",
+		"hitAdd" : 9030,
+		"id" : 86.0,
+		"lifeAdd" : 22575,
+		"needExp" : 1306800,
+		"passAdd" : 9030,
+		"stageLevel" : 8,
+		"starLevel" : 6,
+		"toughnessAdd" : 9030
+	},
+	
+	{
+		"attackAdd" : 4611,
+		"critAdd" : 9222,
+		"desc" : "出窍七重",
+		"hitAdd" : 9222,
+		"id" : 87.0,
+		"lifeAdd" : 23055,
+		"needExp" : 1337640,
+		"passAdd" : 9222,
+		"stageLevel" : 8,
+		"starLevel" : 7,
+		"toughnessAdd" : 9222
+	},
+	
+	{
+		"attackAdd" : 4708,
+		"critAdd" : 9416,
+		"desc" : "出窍八重",
+		"hitAdd" : 9416,
+		"id" : 88.0,
+		"lifeAdd" : 23540,
+		"needExp" : 1368840,
+		"passAdd" : 9416,
+		"stageLevel" : 8,
+		"starLevel" : 8,
+		"toughnessAdd" : 9416
+	},
+	
+	{
+		"attackAdd" : 4806,
+		"critAdd" : 9612,
+		"desc" : "出窍九重",
+		"hitAdd" : 9612,
+		"id" : 89.0,
+		"lifeAdd" : 24030,
+		"needExp" : 1400400,
+		"passAdd" : 9612,
+		"stageLevel" : 8,
+		"starLevel" : 9,
+		"toughnessAdd" : 9612
+	},
+	
+	{
+		"attackAdd" : 4905,
+		"critAdd" : 9810,
+		"desc" : "出窍十重",
+		"hitAdd" : 9810,
+		"id" : 90.0,
+		"lifeAdd" : 24525,
+		"needExp" : 1432320,
+		"passAdd" : 9810,
+		"stageLevel" : 8,
+		"starLevel" : 10,
+		"toughnessAdd" : 9810
+	},
+	
+	{
+		"attackAdd" : 5005,
+		"critAdd" : 10010,
+		"desc" : "分神一重",
+		"hitAdd" : 10010,
+		"id" : 91.0,
+		"lifeAdd" : 25025,
+		"needExp" : 1464600,
+		"passAdd" : 10010,
+		"stageLevel" : 9,
+		"starLevel" : 1,
+		"toughnessAdd" : 10010
+	},
+	
+	{
+		"attackAdd" : 5106,
+		"critAdd" : 10212,
+		"desc" : "分神二重",
+		"hitAdd" : 10212,
+		"id" : 92.0,
+		"lifeAdd" : 25530,
+		"needExp" : 1497240,
+		"passAdd" : 10212,
+		"stageLevel" : 9,
+		"starLevel" : 2,
+		"toughnessAdd" : 10212
+	},
+	
+	{
+		"attackAdd" : 5208,
+		"critAdd" : 10416,
+		"desc" : "分神三重",
+		"hitAdd" : 10416,
+		"id" : 93.0,
+		"lifeAdd" : 26040,
+		"needExp" : 1530240,
+		"passAdd" : 10416,
+		"stageLevel" : 9,
+		"starLevel" : 3,
+		"toughnessAdd" : 10416
+	},
+	
+	{
+		"attackAdd" : 5311,
+		"critAdd" : 10622,
+		"desc" : "分神四重",
+		"hitAdd" : 10622,
+		"id" : 94.0,
+		"lifeAdd" : 26555,
+		"needExp" : 1563600,
+		"passAdd" : 10622,
+		"stageLevel" : 9,
+		"starLevel" : 4,
+		"toughnessAdd" : 10622
+	},
+	
+	{
+		"attackAdd" : 5415,
+		"critAdd" : 10830,
+		"desc" : "分神五重",
+		"hitAdd" : 10830,
+		"id" : 95.0,
+		"lifeAdd" : 27075,
+		"needExp" : 1597320,
+		"passAdd" : 10830,
+		"stageLevel" : 9,
+		"starLevel" : 5,
+		"toughnessAdd" : 10830
+	},
+	
+	{
+		"attackAdd" : 5520,
+		"critAdd" : 11040,
+		"desc" : "分神六重",
+		"hitAdd" : 11040,
+		"id" : 96.0,
+		"lifeAdd" : 27600,
+		"needExp" : 1631400,
+		"passAdd" : 11040,
+		"stageLevel" : 9,
+		"starLevel" : 6,
+		"toughnessAdd" : 11040
+	},
+	
+	{
+		"attackAdd" : 5626,
+		"critAdd" : 11252,
+		"desc" : "分神七重",
+		"hitAdd" : 11252,
+		"id" : 97.0,
+		"lifeAdd" : 28130,
+		"needExp" : 1665840,
+		"passAdd" : 11252,
+		"stageLevel" : 9,
+		"starLevel" : 7,
+		"toughnessAdd" : 11252
+	},
+	
+	{
+		"attackAdd" : 5733,
+		"critAdd" : 11466,
+		"desc" : "分神八重",
+		"hitAdd" : 11466,
+		"id" : 98.0,
+		"lifeAdd" : 28665,
+		"needExp" : 1700640,
+		"passAdd" : 11466,
+		"stageLevel" : 9,
+		"starLevel" : 8,
+		"toughnessAdd" : 11466
+	},
+	
+	{
+		"attackAdd" : 5841,
+		"critAdd" : 11682,
+		"desc" : "分神九重",
+		"hitAdd" : 11682,
+		"id" : 99.0,
+		"lifeAdd" : 29205,
+		"needExp" : 1735800,
+		"passAdd" : 11682,
+		"stageLevel" : 9,
+		"starLevel" : 9,
+		"toughnessAdd" : 11682
+	},
+	
+	{
+		"attackAdd" : 5950,
+		"critAdd" : 11900,
+		"desc" : "分神十重",
+		"hitAdd" : 11900,
+		"id" : 100.0,
+		"lifeAdd" : 29750,
+		"needExp" : 1771320,
+		"passAdd" : 11900,
+		"stageLevel" : 9,
+		"starLevel" : 10,
+		"toughnessAdd" : 11900
+	},
+	
+	{
+		"attackAdd" : 6060,
+		"critAdd" : 12120,
+		"desc" : "合体一重",
+		"hitAdd" : 12120,
+		"id" : 101.0,
+		"lifeAdd" : 30300,
+		"needExp" : 1807200,
+		"passAdd" : 12120,
+		"stageLevel" : 10,
+		"starLevel" : 1,
+		"toughnessAdd" : 12120
+	},
+	
+	{
+		"attackAdd" : 6171,
+		"critAdd" : 12342,
+		"desc" : "合体二重",
+		"hitAdd" : 12342,
+		"id" : 102.0,
+		"lifeAdd" : 30855,
+		"needExp" : 1843440,
+		"passAdd" : 12342,
+		"stageLevel" : 10,
+		"starLevel" : 2,
+		"toughnessAdd" : 12342
+	},
+	
+	{
+		"attackAdd" : 6283,
+		"critAdd" : 12566,
+		"desc" : "合体三重",
+		"hitAdd" : 12566,
+		"id" : 103.0,
+		"lifeAdd" : 31415,
+		"needExp" : 1880040,
+		"passAdd" : 12566,
+		"stageLevel" : 10,
+		"starLevel" : 3,
+		"toughnessAdd" : 12566
+	},
+	
+	{
+		"attackAdd" : 6396,
+		"critAdd" : 12792,
+		"desc" : "合体四重",
+		"hitAdd" : 12792,
+		"id" : 104.0,
+		"lifeAdd" : 31980,
+		"needExp" : 1917000,
+		"passAdd" : 12792,
+		"stageLevel" : 10,
+		"starLevel" : 4,
+		"toughnessAdd" : 12792
+	},
+	
+	{
+		"attackAdd" : 6510,
+		"critAdd" : 13020,
+		"desc" : "合体五重",
+		"hitAdd" : 13020,
+		"id" : 105.0,
+		"lifeAdd" : 32550,
+		"needExp" : 1954320,
+		"passAdd" : 13020,
+		"stageLevel" : 10,
+		"starLevel" : 5,
+		"toughnessAdd" : 13020
+	},
+	
+	{
+		"attackAdd" : 6625,
+		"critAdd" : 13250,
+		"desc" : "合体六重",
+		"hitAdd" : 13250,
+		"id" : 106.0,
+		"lifeAdd" : 33125,
+		"needExp" : 1992000,
+		"passAdd" : 13250,
+		"stageLevel" : 10,
+		"starLevel" : 6,
+		"toughnessAdd" : 13250
+	},
+	
+	{
+		"attackAdd" : 6741,
+		"critAdd" : 13482,
+		"desc" : "合体七重",
+		"hitAdd" : 13482,
+		"id" : 107.0,
+		"lifeAdd" : 33705,
+		"needExp" : 2030040,
+		"passAdd" : 13482,
+		"stageLevel" : 10,
+		"starLevel" : 7,
+		"toughnessAdd" : 13482
+	},
+	
+	{
+		"attackAdd" : 6858,
+		"critAdd" : 13716,
+		"desc" : "合体八重",
+		"hitAdd" : 13716,
+		"id" : 108.0,
+		"lifeAdd" : 34290,
+		"needExp" : 2068440,
+		"passAdd" : 13716,
+		"stageLevel" : 10,
+		"starLevel" : 8,
+		"toughnessAdd" : 13716
+	},
+	
+	{
+		"attackAdd" : 6976,
+		"critAdd" : 13952,
+		"desc" : "合体九重",
+		"hitAdd" : 13952,
+		"id" : 109.0,
+		"lifeAdd" : 34880,
+		"needExp" : 2107200,
+		"passAdd" : 13952,
+		"stageLevel" : 10,
+		"starLevel" : 9,
+		"toughnessAdd" : 13952
+	},
+	
+	{
+		"attackAdd" : 7095,
+		"critAdd" : 14190,
+		"desc" : "合体十重",
+		"hitAdd" : 14190,
+		"id" : 110.0,
+		"lifeAdd" : 35475,
+		"needExp" : 2146320,
+		"passAdd" : 14190,
+		"stageLevel" : 10,
+		"starLevel" : 10,
+		"toughnessAdd" : 14190
+	},
+	
+	{
+		"attackAdd" : 7215,
+		"critAdd" : 14430,
+		"desc" : "渡劫一重",
+		"hitAdd" : 14430,
+		"id" : 111.0,
+		"lifeAdd" : 36075,
+		"needExp" : 2185800,
+		"passAdd" : 14430,
+		"stageLevel" : 11,
+		"starLevel" : 1,
+		"toughnessAdd" : 14430
+	},
+	
+	{
+		"attackAdd" : 7336,
+		"critAdd" : 14672,
+		"desc" : "渡劫二重",
+		"hitAdd" : 14672,
+		"id" : 112.0,
+		"lifeAdd" : 36680,
+		"needExp" : 2225640,
+		"passAdd" : 14672,
+		"stageLevel" : 11,
+		"starLevel" : 2,
+		"toughnessAdd" : 14672
+	},
+	
+	{
+		"attackAdd" : 7458,
+		"critAdd" : 14916,
+		"desc" : "渡劫三重",
+		"hitAdd" : 14916,
+		"id" : 113.0,
+		"lifeAdd" : 37290,
+		"needExp" : 2265840,
+		"passAdd" : 14916,
+		"stageLevel" : 11,
+		"starLevel" : 3,
+		"toughnessAdd" : 14916
+	},
+	
+	{
+		"attackAdd" : 7581,
+		"critAdd" : 15162,
+		"desc" : "渡劫四重",
+		"hitAdd" : 15162,
+		"id" : 114.0,
+		"lifeAdd" : 37905,
+		"needExp" : 2306400,
+		"passAdd" : 15162,
+		"stageLevel" : 11,
+		"starLevel" : 4,
+		"toughnessAdd" : 15162
+	},
+	
+	{
+		"attackAdd" : 7705,
+		"critAdd" : 15410,
+		"desc" : "渡劫五重",
+		"hitAdd" : 15410,
+		"id" : 115.0,
+		"lifeAdd" : 38525,
+		"needExp" : 2347320,
+		"passAdd" : 15410,
+		"stageLevel" : 11,
+		"starLevel" : 5,
+		"toughnessAdd" : 15410
+	},
+	
+	{
+		"attackAdd" : 7830,
+		"critAdd" : 15660,
+		"desc" : "渡劫六重",
+		"hitAdd" : 15660,
+		"id" : 116.0,
+		"lifeAdd" : 39150,
+		"needExp" : 2388600,
+		"passAdd" : 15660,
+		"stageLevel" : 11,
+		"starLevel" : 6,
+		"toughnessAdd" : 15660
+	},
+	
+	{
+		"attackAdd" : 7956,
+		"critAdd" : 15912,
+		"desc" : "渡劫七重",
+		"hitAdd" : 15912,
+		"id" : 117.0,
+		"lifeAdd" : 39780,
+		"needExp" : 2430240,
+		"passAdd" : 15912,
+		"stageLevel" : 11,
+		"starLevel" : 7,
+		"toughnessAdd" : 15912
+	},
+	
+	{
+		"attackAdd" : 8083,
+		"critAdd" : 16166,
+		"desc" : "渡劫八重",
+		"hitAdd" : 16166,
+		"id" : 118.0,
+		"lifeAdd" : 40415,
+		"needExp" : 2472240,
+		"passAdd" : 16166,
+		"stageLevel" : 11,
+		"starLevel" : 8,
+		"toughnessAdd" : 16166
+	},
+	
+	{
+		"attackAdd" : 8211,
+		"critAdd" : 16422,
+		"desc" : "渡劫九重",
+		"hitAdd" : 16422,
+		"id" : 119.0,
+		"lifeAdd" : 41055,
+		"needExp" : 2514600,
+		"passAdd" : 16422,
+		"stageLevel" : 11,
+		"starLevel" : 9,
+		"toughnessAdd" : 16422
+	},
+	
+	{
+		"attackAdd" : 8340,
+		"critAdd" : 16680,
+		"desc" : "渡劫十重",
+		"hitAdd" : 16680,
+		"id" : 120.0,
+		"lifeAdd" : 41700,
+		"needExp" : 2557320,
+		"passAdd" : 16680,
+		"stageLevel" : 11,
+		"starLevel" : 10,
+		"toughnessAdd" : 16680
+	},
+	
+	{
+		"attackAdd" : 8470,
+		"critAdd" : 16940,
+		"desc" : "大乘一重",
+		"hitAdd" : 16940,
+		"id" : 121.0,
+		"lifeAdd" : 42350,
+		"needExp" : 2600400,
+		"passAdd" : 16940,
+		"stageLevel" : 12,
+		"starLevel" : 1,
+		"toughnessAdd" : 16940
+	},
+	
+	{
+		"attackAdd" : 8601,
+		"critAdd" : 17202,
+		"desc" : "大乘二重",
+		"hitAdd" : 17202,
+		"id" : 122.0,
+		"lifeAdd" : 43005,
+		"needExp" : 2643840,
+		"passAdd" : 17202,
+		"stageLevel" : 12,
+		"starLevel" : 2,
+		"toughnessAdd" : 17202
+	},
+	
+	{
+		"attackAdd" : 8733,
+		"critAdd" : 17466,
+		"desc" : "大乘三重",
+		"hitAdd" : 17466,
+		"id" : 123.0,
+		"lifeAdd" : 43665,
+		"needExp" : 2687640,
+		"passAdd" : 17466,
+		"stageLevel" : 12,
+		"starLevel" : 3,
+		"toughnessAdd" : 17466
+	},
+	
+	{
+		"attackAdd" : 8866,
+		"critAdd" : 17732,
+		"desc" : "大乘四重",
+		"hitAdd" : 17732,
+		"id" : 124.0,
+		"lifeAdd" : 44330,
+		"needExp" : 2731800,
+		"passAdd" : 17732,
+		"stageLevel" : 12,
+		"starLevel" : 4,
+		"toughnessAdd" : 17732
+	},
+	
+	{
+		"attackAdd" : 9000,
+		"critAdd" : 18000,
+		"desc" : "大乘五重",
+		"hitAdd" : 18000,
+		"id" : 125.0,
+		"lifeAdd" : 45000,
+		"needExp" : 2776320,
+		"passAdd" : 18000,
+		"stageLevel" : 12,
+		"starLevel" : 5,
+		"toughnessAdd" : 18000
+	},
+	
+	{
+		"attackAdd" : 9135,
+		"critAdd" : 18270,
+		"desc" : "大乘六重",
+		"hitAdd" : 18270,
+		"id" : 126.0,
+		"lifeAdd" : 45675,
+		"needExp" : 2821200,
+		"passAdd" : 18270,
+		"stageLevel" : 12,
+		"starLevel" : 6,
+		"toughnessAdd" : 18270
+	},
+	
+	{
+		"attackAdd" : 9271,
+		"critAdd" : 18542,
+		"desc" : "大乘七重",
+		"hitAdd" : 18542,
+		"id" : 127.0,
+		"lifeAdd" : 46355,
+		"needExp" : 2866440,
+		"passAdd" : 18542,
+		"stageLevel" : 12,
+		"starLevel" : 7,
+		"toughnessAdd" : 18542
+	},
+	
+	{
+		"attackAdd" : 9408,
+		"critAdd" : 18816,
+		"desc" : "大乘八重",
+		"hitAdd" : 18816,
+		"id" : 128.0,
+		"lifeAdd" : 47040,
+		"needExp" : 2912040,
+		"passAdd" : 18816,
+		"stageLevel" : 12,
+		"starLevel" : 8,
+		"toughnessAdd" : 18816
+	},
+	
+	{
+		"attackAdd" : 9546,
+		"critAdd" : 19092,
+		"desc" : "大乘九重",
+		"hitAdd" : 19092,
+		"id" : 129.0,
+		"lifeAdd" : 47730,
+		"needExp" : 2958000,
+		"passAdd" : 19092,
+		"stageLevel" : 12,
+		"starLevel" : 9,
+		"toughnessAdd" : 19092
+	},
+	
+	{
+		"attackAdd" : 9685,
+		"critAdd" : 19370,
+		"desc" : "大乘十重",
+		"hitAdd" : 19370,
+		"id" : 130.0,
+		"lifeAdd" : 48425,
+		"needExp" : 3004320,
+		"passAdd" : 19370,
+		"stageLevel" : 12,
+		"starLevel" : 10,
+		"toughnessAdd" : 19370
+	},
+	
+	{
+		"attackAdd" : 9825,
+		"critAdd" : 19650,
+		"desc" : "飞升一重",
+		"hitAdd" : 19650,
+		"id" : 131.0,
+		"lifeAdd" : 49125,
+		"needExp" : 3051000,
+		"passAdd" : 19650,
+		"stageLevel" : 13,
+		"starLevel" : 1,
+		"toughnessAdd" : 19650
+	},
+	
+	{
+		"attackAdd" : 9966,
+		"critAdd" : 19932,
+		"desc" : "飞升二重",
+		"hitAdd" : 19932,
+		"id" : 132.0,
+		"lifeAdd" : 49830,
+		"needExp" : 3098040,
+		"passAdd" : 19932,
+		"stageLevel" : 13,
+		"starLevel" : 2,
+		"toughnessAdd" : 19932
+	},
+	
+	{
+		"attackAdd" : 10108,
+		"critAdd" : 20216,
+		"desc" : "飞升三重",
+		"hitAdd" : 20216,
+		"id" : 133.0,
+		"lifeAdd" : 50540,
+		"needExp" : 3145440,
+		"passAdd" : 20216,
+		"stageLevel" : 13,
+		"starLevel" : 3,
+		"toughnessAdd" : 20216
+	},
+	
+	{
+		"attackAdd" : 10251,
+		"critAdd" : 20502,
+		"desc" : "飞升四重",
+		"hitAdd" : 20502,
+		"id" : 134.0,
+		"lifeAdd" : 51255,
+		"needExp" : 3193200,
+		"passAdd" : 20502,
+		"stageLevel" : 13,
+		"starLevel" : 4,
+		"toughnessAdd" : 20502
+	},
+	
+	{
+		"attackAdd" : 10395,
+		"critAdd" : 20790,
+		"desc" : "飞升五重",
+		"hitAdd" : 20790,
+		"id" : 135.0,
+		"lifeAdd" : 51975,
+		"needExp" : 3241320,
+		"passAdd" : 20790,
+		"stageLevel" : 13,
+		"starLevel" : 5,
+		"toughnessAdd" : 20790
+	},
+	
+	{
+		"attackAdd" : 10540,
+		"critAdd" : 21080,
+		"desc" : "飞升六重",
+		"hitAdd" : 21080,
+		"id" : 136.0,
+		"lifeAdd" : 52700,
+		"needExp" : 3289800,
+		"passAdd" : 21080,
+		"stageLevel" : 13,
+		"starLevel" : 6,
+		"toughnessAdd" : 21080
+	},
+	
+	{
+		"attackAdd" : 10686,
+		"critAdd" : 21372,
+		"desc" : "飞升七重",
+		"hitAdd" : 21372,
+		"id" : 137.0,
+		"lifeAdd" : 53430,
+		"needExp" : 3338640,
+		"passAdd" : 21372,
+		"stageLevel" : 13,
+		"starLevel" : 7,
+		"toughnessAdd" : 21372
+	},
+	
+	{
+		"attackAdd" : 10833,
+		"critAdd" : 21666,
+		"desc" : "飞升八重",
+		"hitAdd" : 21666,
+		"id" : 138.0,
+		"lifeAdd" : 54165,
+		"needExp" : 3387840,
+		"passAdd" : 21666,
+		"stageLevel" : 13,
+		"starLevel" : 8,
+		"toughnessAdd" : 21666
+	},
+	
+	{
+		"attackAdd" : 10981,
+		"critAdd" : 21962,
+		"desc" : "飞升九重",
+		"hitAdd" : 21962,
+		"id" : 139.0,
+		"lifeAdd" : 54905,
+		"needExp" : 3437400,
+		"passAdd" : 21962,
+		"stageLevel" : 13,
+		"starLevel" : 9,
+		"toughnessAdd" : 21962
+	},
+	
+	{
+		"attackAdd" : 11130,
+		"critAdd" : 22260,
+		"desc" : "飞升十重",
+		"hitAdd" : 22260,
+		"id" : 140.0,
+		"lifeAdd" : 55650,
+		"needExp" : 3487320,
+		"passAdd" : 22260,
+		"stageLevel" : 13,
+		"starLevel" : 10,
+		"toughnessAdd" : 22260
+	}
+]

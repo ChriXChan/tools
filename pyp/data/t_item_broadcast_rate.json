@@ -1,0 +1,508 @@
+
+[
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 10032006
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 10042006
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 40151002
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 40152031
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 40152051
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 40241002
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 40241003
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 40241004
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 40241005
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 40242001
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 40242002
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 40242003
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 40242004
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 40242005
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 40242007
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 40243001
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 40310015
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 40430003
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 42170001
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 42200001
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 42200002
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 42200003
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60030001
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60030002
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60030004
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60030006
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60030008
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60030009
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60030015
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60030016
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60030018
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60030020
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60040038
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60040039
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60040045
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60040046
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60040052
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60040053
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60074001
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60074002
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60074003
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60074004
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60074005
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60074101
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60074102
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60074103
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60076001
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60076002
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60076003
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60076004
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60076005
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60076101
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60076102
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60076103
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60110002
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60110003
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60110004
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60120003
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60120004
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60132001
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60132002
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60132003
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60133001
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60133002
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60133003
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60134001
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60134002
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 60134003
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 90000014
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 90000015
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 90000024
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 90000025
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 90000034
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 90000035
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 90000044
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 90000045
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 90000054
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 90000055
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 90000064
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 90000065
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 90000074
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 90000075
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 90000084
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 90000085
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 90000094
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 90000095
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 90000104
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 90000105
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 90000114
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 90000115
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 90000124
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 90000125
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 90000134
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 90000135
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 90000144
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 90000145
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 110015001
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 110025001
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 110035001
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 110045001
+	},
+	
+	{
+		"broadcastRate" : 100,
+		"itemCode" : 110055001
+	}
+]

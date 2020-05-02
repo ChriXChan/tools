@@ -1,0 +1,33 @@
+
+[
+	
+	{
+		"guildLevel" : 11,
+		"itemCode" : 40111001
+	},
+	
+	{
+		"guildLevel" : 20,
+		"itemCode" : 40111002
+	},
+	
+	{
+		"guildLevel" : 30,
+		"itemCode" : 40111003
+	},
+	
+	{
+		"guildLevel" : 40,
+		"itemCode" : 40111004
+	},
+	
+	{
+		"guildLevel" : 50,
+		"itemCode" : 40111005
+	},
+	
+	{
+		"guildLevel" : 60,
+		"itemCode" : 40111006
+	}
+]

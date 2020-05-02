@@ -1,0 +1,153 @@
+
+[
+	
+	{
+		"guildLevel" : 1,
+		"id" : 1,
+		"reward" : "3,401500301,1",
+		"worldLevelMax" : 349
+	},
+	
+	{
+		"guildLevel" : 2,
+		"id" : 2,
+		"reward" : "3,401500301,2",
+		"worldLevelMax" : 349
+	},
+	
+	{
+		"guildLevel" : 3,
+		"id" : 3,
+		"reward" : "3,401500301,3",
+		"worldLevelMax" : 349
+	},
+	
+	{
+		"guildLevel" : 4,
+		"id" : 4,
+		"reward" : "3,401500301,4",
+		"worldLevelMax" : 349
+	},
+	
+	{
+		"guildLevel" : 5,
+		"id" : 5,
+		"reward" : "3,401500301,5",
+		"worldLevelMax" : 349
+	},
+	
+	{
+		"guildLevel" : 6,
+		"id" : 6,
+		"reward" : "3,401500301,6",
+		"worldLevelMax" : 349
+	},
+	
+	{
+		"guildLevel" : 7,
+		"id" : 7,
+		"reward" : "3,401500301,7",
+		"worldLevelMax" : 349
+	},
+	
+	{
+		"guildLevel" : 8,
+		"id" : 8,
+		"reward" : "3,401500301,8",
+		"worldLevelMax" : 349
+	},
+	
+	{
+		"guildLevel" : 9,
+		"id" : 9,
+		"reward" : "3,401500301,9",
+		"worldLevelMax" : 349
+	},
+	
+	{
+		"guildLevel" : 10,
+		"id" : 10,
+		"reward" : "3,401500301,10",
+		"worldLevelMax" : 349
+	},
+	
+	{
+		"guildLevel" : 1,
+		"id" : 11,
+		"reward" : "3,401500501,1",
+		"worldLevelMax" : 999,
+		"worldLevelMin" : 350
+	},
+	
+	{
+		"guildLevel" : 2,
+		"id" : 12,
+		"reward" : "3,401500501,2",
+		"worldLevelMax" : 999,
+		"worldLevelMin" : 350
+	},
+	
+	{
+		"guildLevel" : 3,
+		"id" : 13,
+		"reward" : "3,401500501,3",
+		"worldLevelMax" : 999,
+		"worldLevelMin" : 350
+	},
+	
+	{
+		"guildLevel" : 4,
+		"id" : 14,
+		"reward" : "3,401500501,4",
+		"worldLevelMax" : 999,
+		"worldLevelMin" : 350
+	},
+	
+	{
+		"guildLevel" : 5,
+		"id" : 15,
+		"reward" : "3,401500501,5",
+		"worldLevelMax" : 999,
+		"worldLevelMin" : 350
+	},
+	
+	{
+		"guildLevel" : 6,
+		"id" : 16,
+		"reward" : "3,401500501,6",
+		"worldLevelMax" : 999,
+		"worldLevelMin" : 350
+	},
+	
+	{
+		"guildLevel" : 7,
+		"id" : 17,
+		"reward" : "3,401500501,7",
+		"worldLevelMax" : 999,
+		"worldLevelMin" : 350
+	},
+	
+	{
+		"guildLevel" : 8,
+		"id" : 18,
+		"reward" : "3,401500501,8",
+		"worldLevelMax" : 999,
+		"worldLevelMin" : 350
+	},
+	
+	{
+		"guildLevel" : 9,
+		"id" : 19,
+		"reward" : "3,401500501,9",
+		"worldLevelMax" : 999,
+		"worldLevelMin" : 350
+	},
+	
+	{
+		"guildLevel" : 10,
+		"id" : 20,
+		"reward" : "3,401500501,10",
+		"worldLevelMax" : 999,
+		"worldLevelMin" : 350
+	}
+]

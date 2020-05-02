@@ -1,0 +1,1753 @@
+
+[
+	
+	{
+		"attrList" : "1,10#2,455#",
+		"equipType" : 1,
+		"needExp" : 814,
+		"strengthenLevel" : 1
+	},
+	
+	{
+		"attrList" : "1,20#2,918#",
+		"equipType" : 1,
+		"needExp" : 934,
+		"strengthenLevel" : 2
+	},
+	
+	{
+		"attrList" : "1,30#2,1387#",
+		"equipType" : 1,
+		"needExp" : 1066,
+		"strengthenLevel" : 3
+	},
+	
+	{
+		"attrList" : "1,40#2,1865#",
+		"equipType" : 1,
+		"needExp" : 1211,
+		"strengthenLevel" : 4
+	},
+	
+	{
+		"attrList" : "1,50#2,2349#",
+		"equipType" : 1,
+		"needExp" : 1371,
+		"strengthenLevel" : 5
+	},
+	
+	{
+		"attrList" : "1,61#2,2841#",
+		"equipType" : 1,
+		"needExp" : 1546,
+		"strengthenLevel" : 6
+	},
+	
+	{
+		"attrList" : "1,72#2,3339#",
+		"equipType" : 1,
+		"needExp" : 1740,
+		"strengthenLevel" : 7
+	},
+	
+	{
+		"attrList" : "1,82#2,3844#",
+		"equipType" : 1,
+		"needExp" : 1952,
+		"strengthenLevel" : 8
+	},
+	
+	{
+		"attrList" : "1,93#2,4358#",
+		"equipType" : 1,
+		"needExp" : 2186,
+		"strengthenLevel" : 9
+	},
+	
+	{
+		"attrList" : "1,105#2,4880#",
+		"equipType" : 1,
+		"needExp" : 2443,
+		"strengthenLevel" : 10
+	},
+	
+	{
+		"attrList" : "1,116#2,5410#",
+		"equipType" : 1,
+		"needExp" : 2725,
+		"strengthenLevel" : 11
+	},
+	
+	{
+		"attrList" : "1,127#2,5946#",
+		"equipType" : 1,
+		"needExp" : 3035,
+		"strengthenLevel" : 12
+	},
+	
+	{
+		"attrList" : "1,139#2,6492#",
+		"equipType" : 1,
+		"needExp" : 3375,
+		"strengthenLevel" : 13
+	},
+	
+	{
+		"attrList" : "1,151#2,7045#",
+		"equipType" : 1,
+		"needExp" : 3750,
+		"strengthenLevel" : 14
+	},
+	
+	{
+		"attrList" : "1,163#2,7606#",
+		"equipType" : 1,
+		"needExp" : 4160,
+		"strengthenLevel" : 15
+	},
+	
+	{
+		"attrList" : "1,175#2,8176#",
+		"equipType" : 1,
+		"needExp" : 4612,
+		"strengthenLevel" : 16
+	},
+	
+	{
+		"attrList" : "1,188#2,8756#",
+		"equipType" : 1,
+		"needExp" : 5107,
+		"strengthenLevel" : 17
+	},
+	
+	{
+		"attrList" : "1,200#2,9342#",
+		"equipType" : 1,
+		"needExp" : 5651,
+		"strengthenLevel" : 18
+	},
+	
+	{
+		"attrList" : "1,213#2,9939#",
+		"equipType" : 1,
+		"needExp" : 6247,
+		"strengthenLevel" : 19
+	},
+	
+	{
+		"attrList" : "1,226#2,10543#",
+		"equipType" : 1,
+		"needExp" : 6902,
+		"strengthenLevel" : 20
+	},
+	
+	{
+		"attrList" : "1,239#2,11158#",
+		"equipType" : 1,
+		"needExp" : 7621,
+		"strengthenLevel" : 21
+	},
+	
+	{
+		"attrList" : "1,252#2,11781#",
+		"equipType" : 1,
+		"needExp" : 8410,
+		"strengthenLevel" : 22
+	},
+	
+	{
+		"attrList" : "1,266#2,12414#",
+		"equipType" : 1,
+		"needExp" : 9276,
+		"strengthenLevel" : 23
+	},
+	
+	{
+		"attrList" : "1,280#2,13056#",
+		"equipType" : 1,
+		"needExp" : 10225,
+		"strengthenLevel" : 24
+	},
+	
+	{
+		"attrList" : "1,294#2,13709#",
+		"equipType" : 1,
+		"needExp" : 11267,
+		"strengthenLevel" : 25
+	},
+	
+	{
+		"attrList" : "1,308#2,14370#",
+		"equipType" : 1,
+		"needExp" : 12410,
+		"strengthenLevel" : 26
+	},
+	
+	{
+		"attrList" : "1,322#2,15042#",
+		"equipType" : 1,
+		"needExp" : 13664,
+		"strengthenLevel" : 27
+	},
+	
+	{
+		"attrList" : "1,337#2,15723#",
+		"equipType" : 1,
+		"needExp" : 15039,
+		"strengthenLevel" : 28
+	},
+	
+	{
+		"attrList" : "1,352#2,16415#",
+		"equipType" : 1,
+		"needExp" : 16548,
+		"strengthenLevel" : 29
+	},
+	
+	{
+		"attrList" : "1,367#2,17118#",
+		"equipType" : 1,
+		"needExp" : 18203,
+		"strengthenLevel" : 30
+	},
+	
+	{
+		"attrList" : "1,382#2,17830#",
+		"equipType" : 1,
+		"needExp" : 20017,
+		"strengthenLevel" : 31
+	},
+	
+	{
+		"attrList" : "1,398#2,18554#",
+		"equipType" : 1,
+		"needExp" : 22008,
+		"strengthenLevel" : 32
+	},
+	
+	{
+		"attrList" : "1,413#2,19288#",
+		"equipType" : 1,
+		"needExp" : 24190,
+		"strengthenLevel" : 33
+	},
+	
+	{
+		"attrList" : "1,429#2,20033#",
+		"equipType" : 1,
+		"needExp" : 26584,
+		"strengthenLevel" : 34
+	},
+	
+	{
+		"attrList" : "1,446#2,20790#",
+		"equipType" : 1,
+		"needExp" : 29209,
+		"strengthenLevel" : 35
+	},
+	
+	{
+		"attrList" : "1,462#2,21557#",
+		"equipType" : 1,
+		"needExp" : 32087,
+		"strengthenLevel" : 36
+	},
+	
+	{
+		"attrList" : "1,479#2,22337#",
+		"equipType" : 1,
+		"needExp" : 35244,
+		"strengthenLevel" : 37
+	},
+	
+	{
+		"attrList" : "1,496#2,23128#",
+		"equipType" : 1,
+		"needExp" : 38705,
+		"strengthenLevel" : 38
+	},
+	
+	{
+		"attrList" : "1,513#2,23932#",
+		"equipType" : 1,
+		"needExp" : 42500,
+		"strengthenLevel" : 39
+	},
+	
+	{
+		"attrList" : "1,530#2,24746#",
+		"equipType" : 1,
+		"needExp" : 46661,
+		"strengthenLevel" : 40
+	},
+	
+	{
+		"attrList" : "1,548#2,25574#",
+		"equipType" : 1,
+		"needExp" : 51224,
+		"strengthenLevel" : 41
+	},
+	
+	{
+		"attrList" : "1,566#2,26412#",
+		"equipType" : 1,
+		"needExp" : 56227,
+		"strengthenLevel" : 42
+	},
+	
+	{
+		"attrList" : "1,584#2,27265#",
+		"equipType" : 1,
+		"needExp" : 61712,
+		"strengthenLevel" : 43
+	},
+	
+	{
+		"attrList" : "1,603#2,28130#",
+		"equipType" : 1,
+		"needExp" : 67726,
+		"strengthenLevel" : 44
+	},
+	
+	{
+		"attrList" : "1,622#2,29008#",
+		"equipType" : 1,
+		"needExp" : 74319,
+		"strengthenLevel" : 45
+	},
+	
+	{
+		"attrList" : "1,641#2,29898#",
+		"equipType" : 1,
+		"needExp" : 81548,
+		"strengthenLevel" : 46
+	},
+	
+	{
+		"attrList" : "1,660#2,30804#",
+		"equipType" : 1,
+		"needExp" : 89474,
+		"strengthenLevel" : 47
+	},
+	
+	{
+		"attrList" : "1,680#2,31721#",
+		"equipType" : 1,
+		"needExp" : 98163,
+		"strengthenLevel" : 48
+	},
+	
+	{
+		"attrList" : "1,700#2,32654#",
+		"equipType" : 1,
+		"needExp" : 107690,
+		"strengthenLevel" : 49
+	},
+	
+	{
+		"attrList" : "1,720#2,33600#",
+		"equipType" : 1,
+		"needExp" : 118134,
+		"strengthenLevel" : 50
+	},
+	
+	{
+		"attrList" : "1,23#3,9#",
+		"equipType" : 2,
+		"needExp" : 814,
+		"strengthenLevel" : 1
+	},
+	
+	{
+		"attrList" : "1,47#3,19#",
+		"equipType" : 2,
+		"needExp" : 934,
+		"strengthenLevel" : 2
+	},
+	
+	{
+		"attrList" : "1,71#3,28#",
+		"equipType" : 2,
+		"needExp" : 1066,
+		"strengthenLevel" : 3
+	},
+	
+	{
+		"attrList" : "1,95#3,38#",
+		"equipType" : 2,
+		"needExp" : 1211,
+		"strengthenLevel" : 4
+	},
+	
+	{
+		"attrList" : "1,120#3,48#",
+		"equipType" : 2,
+		"needExp" : 1371,
+		"strengthenLevel" : 5
+	},
+	
+	{
+		"attrList" : "1,145#3,58#",
+		"equipType" : 2,
+		"needExp" : 1546,
+		"strengthenLevel" : 6
+	},
+	
+	{
+		"attrList" : "1,170#3,68#",
+		"equipType" : 2,
+		"needExp" : 1740,
+		"strengthenLevel" : 7
+	},
+	
+	{
+		"attrList" : "1,196#3,78#",
+		"equipType" : 2,
+		"needExp" : 1952,
+		"strengthenLevel" : 8
+	},
+	
+	{
+		"attrList" : "1,222#3,89#",
+		"equipType" : 2,
+		"needExp" : 2186,
+		"strengthenLevel" : 9
+	},
+	
+	{
+		"attrList" : "1,249#3,100#",
+		"equipType" : 2,
+		"needExp" : 2443,
+		"strengthenLevel" : 10
+	},
+	
+	{
+		"attrList" : "1,276#3,110#",
+		"equipType" : 2,
+		"needExp" : 2725,
+		"strengthenLevel" : 11
+	},
+	
+	{
+		"attrList" : "1,303#3,121#",
+		"equipType" : 2,
+		"needExp" : 3035,
+		"strengthenLevel" : 12
+	},
+	
+	{
+		"attrList" : "1,331#3,132#",
+		"equipType" : 2,
+		"needExp" : 3375,
+		"strengthenLevel" : 13
+	},
+	
+	{
+		"attrList" : "1,359#3,144#",
+		"equipType" : 2,
+		"needExp" : 3750,
+		"strengthenLevel" : 14
+	},
+	
+	{
+		"attrList" : "1,388#3,155#",
+		"equipType" : 2,
+		"needExp" : 4160,
+		"strengthenLevel" : 15
+	},
+	
+	{
+		"attrList" : "1,417#3,167#",
+		"equipType" : 2,
+		"needExp" : 4612,
+		"strengthenLevel" : 16
+	},
+	
+	{
+		"attrList" : "1,447#3,179#",
+		"equipType" : 2,
+		"needExp" : 5107,
+		"strengthenLevel" : 17
+	},
+	
+	{
+		"attrList" : "1,477#3,191#",
+		"equipType" : 2,
+		"needExp" : 5651,
+		"strengthenLevel" : 18
+	},
+	
+	{
+		"attrList" : "1,507#3,203#",
+		"equipType" : 2,
+		"needExp" : 6247,
+		"strengthenLevel" : 19
+	},
+	
+	{
+		"attrList" : "1,538#3,215#",
+		"equipType" : 2,
+		"needExp" : 6902,
+		"strengthenLevel" : 20
+	},
+	
+	{
+		"attrList" : "1,569#3,228#",
+		"equipType" : 2,
+		"needExp" : 7621,
+		"strengthenLevel" : 21
+	},
+	
+	{
+		"attrList" : "1,601#3,240#",
+		"equipType" : 2,
+		"needExp" : 8410,
+		"strengthenLevel" : 22
+	},
+	
+	{
+		"attrList" : "1,633#3,253#",
+		"equipType" : 2,
+		"needExp" : 9276,
+		"strengthenLevel" : 23
+	},
+	
+	{
+		"attrList" : "1,666#3,266#",
+		"equipType" : 2,
+		"needExp" : 10225,
+		"strengthenLevel" : 24
+	},
+	
+	{
+		"attrList" : "1,699#3,280#",
+		"equipType" : 2,
+		"needExp" : 11267,
+		"strengthenLevel" : 25
+	},
+	
+	{
+		"attrList" : "1,733#3,293#",
+		"equipType" : 2,
+		"needExp" : 12410,
+		"strengthenLevel" : 26
+	},
+	
+	{
+		"attrList" : "1,767#3,307#",
+		"equipType" : 2,
+		"needExp" : 13664,
+		"strengthenLevel" : 27
+	},
+	
+	{
+		"attrList" : "1,802#3,321#",
+		"equipType" : 2,
+		"needExp" : 15039,
+		"strengthenLevel" : 28
+	},
+	
+	{
+		"attrList" : "1,838#3,335#",
+		"equipType" : 2,
+		"needExp" : 16548,
+		"strengthenLevel" : 29
+	},
+	
+	{
+		"attrList" : "1,873#3,349#",
+		"equipType" : 2,
+		"needExp" : 18203,
+		"strengthenLevel" : 30
+	},
+	
+	{
+		"attrList" : "1,910#3,364#",
+		"equipType" : 2,
+		"needExp" : 20017,
+		"strengthenLevel" : 31
+	},
+	
+	{
+		"attrList" : "1,947#3,379#",
+		"equipType" : 2,
+		"needExp" : 22008,
+		"strengthenLevel" : 32
+	},
+	
+	{
+		"attrList" : "1,984#3,394#",
+		"equipType" : 2,
+		"needExp" : 24190,
+		"strengthenLevel" : 33
+	},
+	
+	{
+		"attrList" : "1,1022#3,409#",
+		"equipType" : 2,
+		"needExp" : 26584,
+		"strengthenLevel" : 34
+	},
+	
+	{
+		"attrList" : "1,1061#3,424#",
+		"equipType" : 2,
+		"needExp" : 29209,
+		"strengthenLevel" : 35
+	},
+	
+	{
+		"attrList" : "1,1100#3,440#",
+		"equipType" : 2,
+		"needExp" : 32087,
+		"strengthenLevel" : 36
+	},
+	
+	{
+		"attrList" : "1,1140#3,456#",
+		"equipType" : 2,
+		"needExp" : 35244,
+		"strengthenLevel" : 37
+	},
+	
+	{
+		"attrList" : "1,1180#3,472#",
+		"equipType" : 2,
+		"needExp" : 38705,
+		"strengthenLevel" : 38
+	},
+	
+	{
+		"attrList" : "1,1221#3,488#",
+		"equipType" : 2,
+		"needExp" : 42500,
+		"strengthenLevel" : 39
+	},
+	
+	{
+		"attrList" : "1,1263#3,505#",
+		"equipType" : 2,
+		"needExp" : 46661,
+		"strengthenLevel" : 40
+	},
+	
+	{
+		"attrList" : "1,1305#3,522#",
+		"equipType" : 2,
+		"needExp" : 51224,
+		"strengthenLevel" : 41
+	},
+	
+	{
+		"attrList" : "1,1348#3,539#",
+		"equipType" : 2,
+		"needExp" : 56227,
+		"strengthenLevel" : 42
+	},
+	
+	{
+		"attrList" : "1,1391#3,556#",
+		"equipType" : 2,
+		"needExp" : 61712,
+		"strengthenLevel" : 43
+	},
+	
+	{
+		"attrList" : "1,1435#3,574#",
+		"equipType" : 2,
+		"needExp" : 67726,
+		"strengthenLevel" : 44
+	},
+	
+	{
+		"attrList" : "1,1480#3,592#",
+		"equipType" : 2,
+		"needExp" : 74319,
+		"strengthenLevel" : 45
+	},
+	
+	{
+		"attrList" : "1,1525#3,610#",
+		"equipType" : 2,
+		"needExp" : 81548,
+		"strengthenLevel" : 46
+	},
+	
+	{
+		"attrList" : "1,1572#3,629#",
+		"equipType" : 2,
+		"needExp" : 89474,
+		"strengthenLevel" : 47
+	},
+	
+	{
+		"attrList" : "1,1618#3,647#",
+		"equipType" : 2,
+		"needExp" : 98163,
+		"strengthenLevel" : 48
+	},
+	
+	{
+		"attrList" : "1,1666#3,666#",
+		"equipType" : 2,
+		"needExp" : 107690,
+		"strengthenLevel" : 49
+	},
+	
+	{
+		"attrList" : "1,1714#3,686#",
+		"equipType" : 2,
+		"needExp" : 118134,
+		"strengthenLevel" : 50
+	},
+	
+	{
+		"attrList" : "2,443#4,10#",
+		"equipType" : 3,
+		"needExp" : 814,
+		"strengthenLevel" : 1
+	},
+	
+	{
+		"attrList" : "2,895#4,21#",
+		"equipType" : 3,
+		"needExp" : 934,
+		"strengthenLevel" : 2
+	},
+	
+	{
+		"attrList" : "2,1351#4,32#",
+		"equipType" : 3,
+		"needExp" : 1066,
+		"strengthenLevel" : 3
+	},
+	
+	{
+		"attrList" : "2,1816#4,42#",
+		"equipType" : 3,
+		"needExp" : 1211,
+		"strengthenLevel" : 4
+	},
+	
+	{
+		"attrList" : "2,2288#4,53#",
+		"equipType" : 3,
+		"needExp" : 1371,
+		"strengthenLevel" : 5
+	},
+	
+	{
+		"attrList" : "2,2767#4,65#",
+		"equipType" : 3,
+		"needExp" : 1546,
+		"strengthenLevel" : 6
+	},
+	
+	{
+		"attrList" : "2,3252#4,76#",
+		"equipType" : 3,
+		"needExp" : 1740,
+		"strengthenLevel" : 7
+	},
+	
+	{
+		"attrList" : "2,3745#4,87#",
+		"equipType" : 3,
+		"needExp" : 1952,
+		"strengthenLevel" : 8
+	},
+	
+	{
+		"attrList" : "2,4245#4,99#",
+		"equipType" : 3,
+		"needExp" : 2186,
+		"strengthenLevel" : 9
+	},
+	
+	{
+		"attrList" : "2,4754#4,111#",
+		"equipType" : 3,
+		"needExp" : 2443,
+		"strengthenLevel" : 10
+	},
+	
+	{
+		"attrList" : "2,5269#4,123#",
+		"equipType" : 3,
+		"needExp" : 2725,
+		"strengthenLevel" : 11
+	},
+	
+	{
+		"attrList" : "2,5791#4,135#",
+		"equipType" : 3,
+		"needExp" : 3035,
+		"strengthenLevel" : 12
+	},
+	
+	{
+		"attrList" : "2,6323#4,148#",
+		"equipType" : 3,
+		"needExp" : 3375,
+		"strengthenLevel" : 13
+	},
+	
+	{
+		"attrList" : "2,6862#4,160#",
+		"equipType" : 3,
+		"needExp" : 3750,
+		"strengthenLevel" : 14
+	},
+	
+	{
+		"attrList" : "2,7409#4,173#",
+		"equipType" : 3,
+		"needExp" : 4160,
+		"strengthenLevel" : 15
+	},
+	
+	{
+		"attrList" : "2,7964#4,186#",
+		"equipType" : 3,
+		"needExp" : 4612,
+		"strengthenLevel" : 16
+	},
+	
+	{
+		"attrList" : "2,8528#4,199#",
+		"equipType" : 3,
+		"needExp" : 5107,
+		"strengthenLevel" : 17
+	},
+	
+	{
+		"attrList" : "2,9100#4,212#",
+		"equipType" : 3,
+		"needExp" : 5651,
+		"strengthenLevel" : 18
+	},
+	
+	{
+		"attrList" : "2,9680#4,226#",
+		"equipType" : 3,
+		"needExp" : 6247,
+		"strengthenLevel" : 19
+	},
+	
+	{
+		"attrList" : "2,10270#4,240#",
+		"equipType" : 3,
+		"needExp" : 6902,
+		"strengthenLevel" : 20
+	},
+	
+	{
+		"attrList" : "2,10868#4,254#",
+		"equipType" : 3,
+		"needExp" : 7621,
+		"strengthenLevel" : 21
+	},
+	
+	{
+		"attrList" : "2,11475#4,268#",
+		"equipType" : 3,
+		"needExp" : 8410,
+		"strengthenLevel" : 22
+	},
+	
+	{
+		"attrList" : "2,12091#4,282#",
+		"equipType" : 3,
+		"needExp" : 9276,
+		"strengthenLevel" : 23
+	},
+	
+	{
+		"attrList" : "2,12717#4,297#",
+		"equipType" : 3,
+		"needExp" : 10225,
+		"strengthenLevel" : 24
+	},
+	
+	{
+		"attrList" : "2,13353#4,312#",
+		"equipType" : 3,
+		"needExp" : 11267,
+		"strengthenLevel" : 25
+	},
+	
+	{
+		"attrList" : "2,13996#4,327#",
+		"equipType" : 3,
+		"needExp" : 12410,
+		"strengthenLevel" : 26
+	},
+	
+	{
+		"attrList" : "2,14651#4,342#",
+		"equipType" : 3,
+		"needExp" : 13664,
+		"strengthenLevel" : 27
+	},
+	
+	{
+		"attrList" : "2,15315#4,357#",
+		"equipType" : 3,
+		"needExp" : 15039,
+		"strengthenLevel" : 28
+	},
+	
+	{
+		"attrList" : "2,15989#4,373#",
+		"equipType" : 3,
+		"needExp" : 16548,
+		"strengthenLevel" : 29
+	},
+	
+	{
+		"attrList" : "2,16673#4,389#",
+		"equipType" : 3,
+		"needExp" : 18203,
+		"strengthenLevel" : 30
+	},
+	
+	{
+		"attrList" : "2,17367#4,405#",
+		"equipType" : 3,
+		"needExp" : 20017,
+		"strengthenLevel" : 31
+	},
+	
+	{
+		"attrList" : "2,18072#4,422#",
+		"equipType" : 3,
+		"needExp" : 22008,
+		"strengthenLevel" : 32
+	},
+	
+	{
+		"attrList" : "2,18787#4,438#",
+		"equipType" : 3,
+		"needExp" : 24190,
+		"strengthenLevel" : 33
+	},
+	
+	{
+		"attrList" : "2,19512#4,455#",
+		"equipType" : 3,
+		"needExp" : 26584,
+		"strengthenLevel" : 34
+	},
+	
+	{
+		"attrList" : "2,20250#4,472#",
+		"equipType" : 3,
+		"needExp" : 29209,
+		"strengthenLevel" : 35
+	},
+	
+	{
+		"attrList" : "2,20997#4,490#",
+		"equipType" : 3,
+		"needExp" : 32087,
+		"strengthenLevel" : 36
+	},
+	
+	{
+		"attrList" : "2,21757#4,508#",
+		"equipType" : 3,
+		"needExp" : 35244,
+		"strengthenLevel" : 37
+	},
+	
+	{
+		"attrList" : "2,22527#4,526#",
+		"equipType" : 3,
+		"needExp" : 38705,
+		"strengthenLevel" : 38
+	},
+	
+	{
+		"attrList" : "2,23310#4,544#",
+		"equipType" : 3,
+		"needExp" : 42500,
+		"strengthenLevel" : 39
+	},
+	
+	{
+		"attrList" : "2,24104#4,562#",
+		"equipType" : 3,
+		"needExp" : 46661,
+		"strengthenLevel" : 40
+	},
+	
+	{
+		"attrList" : "2,24910#4,581#",
+		"equipType" : 3,
+		"needExp" : 51224,
+		"strengthenLevel" : 41
+	},
+	
+	{
+		"attrList" : "2,25726#4,600#",
+		"equipType" : 3,
+		"needExp" : 56227,
+		"strengthenLevel" : 42
+	},
+	
+	{
+		"attrList" : "2,26557#4,620#",
+		"equipType" : 3,
+		"needExp" : 61712,
+		"strengthenLevel" : 43
+	},
+	
+	{
+		"attrList" : "2,27400#4,639#",
+		"equipType" : 3,
+		"needExp" : 67726,
+		"strengthenLevel" : 44
+	},
+	
+	{
+		"attrList" : "2,28255#4,659#",
+		"equipType" : 3,
+		"needExp" : 74319,
+		"strengthenLevel" : 45
+	},
+	
+	{
+		"attrList" : "2,29122#4,680#",
+		"equipType" : 3,
+		"needExp" : 81548,
+		"strengthenLevel" : 46
+	},
+	
+	{
+		"attrList" : "2,30004#4,700#",
+		"equipType" : 3,
+		"needExp" : 89474,
+		"strengthenLevel" : 47
+	},
+	
+	{
+		"attrList" : "2,30897#4,721#",
+		"equipType" : 3,
+		"needExp" : 98163,
+		"strengthenLevel" : 48
+	},
+	
+	{
+		"attrList" : "2,31805#4,742#",
+		"equipType" : 3,
+		"needExp" : 107690,
+		"strengthenLevel" : 49
+	},
+	
+	{
+		"attrList" : "2,32727#4,764#",
+		"equipType" : 3,
+		"needExp" : 118134,
+		"strengthenLevel" : 50
+	},
+	
+	{
+		"attrList" : "1,23#3,10#",
+		"equipType" : 4,
+		"needExp" : 814,
+		"strengthenLevel" : 1
+	},
+	
+	{
+		"attrList" : "1,46#3,20#",
+		"equipType" : 4,
+		"needExp" : 934,
+		"strengthenLevel" : 2
+	},
+	
+	{
+		"attrList" : "1,69#3,30#",
+		"equipType" : 4,
+		"needExp" : 1066,
+		"strengthenLevel" : 3
+	},
+	
+	{
+		"attrList" : "1,93#3,41#",
+		"equipType" : 4,
+		"needExp" : 1211,
+		"strengthenLevel" : 4
+	},
+	
+	{
+		"attrList" : "1,117#3,51#",
+		"equipType" : 4,
+		"needExp" : 1371,
+		"strengthenLevel" : 5
+	},
+	
+	{
+		"attrList" : "1,141#3,62#",
+		"equipType" : 4,
+		"needExp" : 1546,
+		"strengthenLevel" : 6
+	},
+	
+	{
+		"attrList" : "1,166#3,73#",
+		"equipType" : 4,
+		"needExp" : 1740,
+		"strengthenLevel" : 7
+	},
+	
+	{
+		"attrList" : "1,191#3,84#",
+		"equipType" : 4,
+		"needExp" : 1952,
+		"strengthenLevel" : 8
+	},
+	
+	{
+		"attrList" : "1,217#3,95#",
+		"equipType" : 4,
+		"needExp" : 2186,
+		"strengthenLevel" : 9
+	},
+	
+	{
+		"attrList" : "1,243#3,106#",
+		"equipType" : 4,
+		"needExp" : 2443,
+		"strengthenLevel" : 10
+	},
+	
+	{
+		"attrList" : "1,269#3,118#",
+		"equipType" : 4,
+		"needExp" : 2725,
+		"strengthenLevel" : 11
+	},
+	
+	{
+		"attrList" : "1,295#3,129#",
+		"equipType" : 4,
+		"needExp" : 3035,
+		"strengthenLevel" : 12
+	},
+	
+	{
+		"attrList" : "1,323#3,141#",
+		"equipType" : 4,
+		"needExp" : 3375,
+		"strengthenLevel" : 13
+	},
+	
+	{
+		"attrList" : "1,350#3,153#",
+		"equipType" : 4,
+		"needExp" : 3750,
+		"strengthenLevel" : 14
+	},
+	
+	{
+		"attrList" : "1,378#3,165#",
+		"equipType" : 4,
+		"needExp" : 4160,
+		"strengthenLevel" : 15
+	},
+	
+	{
+		"attrList" : "1,406#3,178#",
+		"equipType" : 4,
+		"needExp" : 4612,
+		"strengthenLevel" : 16
+	},
+	
+	{
+		"attrList" : "1,435#3,190#",
+		"equipType" : 4,
+		"needExp" : 5107,
+		"strengthenLevel" : 17
+	},
+	
+	{
+		"attrList" : "1,464#3,203#",
+		"equipType" : 4,
+		"needExp" : 5651,
+		"strengthenLevel" : 18
+	},
+	
+	{
+		"attrList" : "1,494#3,216#",
+		"equipType" : 4,
+		"needExp" : 6247,
+		"strengthenLevel" : 19
+	},
+	
+	{
+		"attrList" : "1,524#3,229#",
+		"equipType" : 4,
+		"needExp" : 6902,
+		"strengthenLevel" : 20
+	},
+	
+	{
+		"attrList" : "1,554#3,243#",
+		"equipType" : 4,
+		"needExp" : 7621,
+		"strengthenLevel" : 21
+	},
+	
+	{
+		"attrList" : "1,585#3,256#",
+		"equipType" : 4,
+		"needExp" : 8410,
+		"strengthenLevel" : 22
+	},
+	
+	{
+		"attrList" : "1,617#3,270#",
+		"equipType" : 4,
+		"needExp" : 9276,
+		"strengthenLevel" : 23
+	},
+	
+	{
+		"attrList" : "1,649#3,284#",
+		"equipType" : 4,
+		"needExp" : 10225,
+		"strengthenLevel" : 24
+	},
+	
+	{
+		"attrList" : "1,681#3,298#",
+		"equipType" : 4,
+		"needExp" : 11267,
+		"strengthenLevel" : 25
+	},
+	
+	{
+		"attrList" : "1,714#3,312#",
+		"equipType" : 4,
+		"needExp" : 12410,
+		"strengthenLevel" : 26
+	},
+	
+	{
+		"attrList" : "1,747#3,327#",
+		"equipType" : 4,
+		"needExp" : 13664,
+		"strengthenLevel" : 27
+	},
+	
+	{
+		"attrList" : "1,781#3,342#",
+		"equipType" : 4,
+		"needExp" : 15039,
+		"strengthenLevel" : 28
+	},
+	
+	{
+		"attrList" : "1,816#3,357#",
+		"equipType" : 4,
+		"needExp" : 16548,
+		"strengthenLevel" : 29
+	},
+	
+	{
+		"attrList" : "1,851#3,372#",
+		"equipType" : 4,
+		"needExp" : 18203,
+		"strengthenLevel" : 30
+	},
+	
+	{
+		"attrList" : "1,886#3,388#",
+		"equipType" : 4,
+		"needExp" : 20017,
+		"strengthenLevel" : 31
+	},
+	
+	{
+		"attrList" : "1,922#3,403#",
+		"equipType" : 4,
+		"needExp" : 22008,
+		"strengthenLevel" : 32
+	},
+	
+	{
+		"attrList" : "1,958#3,419#",
+		"equipType" : 4,
+		"needExp" : 24190,
+		"strengthenLevel" : 33
+	},
+	
+	{
+		"attrList" : "1,995#3,435#",
+		"equipType" : 4,
+		"needExp" : 26584,
+		"strengthenLevel" : 34
+	},
+	
+	{
+		"attrList" : "1,1033#3,452#",
+		"equipType" : 4,
+		"needExp" : 29209,
+		"strengthenLevel" : 35
+	},
+	
+	{
+		"attrList" : "1,1071#3,469#",
+		"equipType" : 4,
+		"needExp" : 32087,
+		"strengthenLevel" : 36
+	},
+	
+	{
+		"attrList" : "1,1110#3,486#",
+		"equipType" : 4,
+		"needExp" : 35244,
+		"strengthenLevel" : 37
+	},
+	
+	{
+		"attrList" : "1,1149#3,503#",
+		"equipType" : 4,
+		"needExp" : 38705,
+		"strengthenLevel" : 38
+	},
+	
+	{
+		"attrList" : "1,1189#3,520#",
+		"equipType" : 4,
+		"needExp" : 42500,
+		"strengthenLevel" : 39
+	},
+	
+	{
+		"attrList" : "1,1230#3,538#",
+		"equipType" : 4,
+		"needExp" : 46661,
+		"strengthenLevel" : 40
+	},
+	
+	{
+		"attrList" : "1,1271#3,556#",
+		"equipType" : 4,
+		"needExp" : 51224,
+		"strengthenLevel" : 41
+	},
+	
+	{
+		"attrList" : "1,1312#3,574#",
+		"equipType" : 4,
+		"needExp" : 56227,
+		"strengthenLevel" : 42
+	},
+	
+	{
+		"attrList" : "1,1355#3,593#",
+		"equipType" : 4,
+		"needExp" : 61712,
+		"strengthenLevel" : 43
+	},
+	
+	{
+		"attrList" : "1,1398#3,612#",
+		"equipType" : 4,
+		"needExp" : 67726,
+		"strengthenLevel" : 44
+	},
+	
+	{
+		"attrList" : "1,1441#3,631#",
+		"equipType" : 4,
+		"needExp" : 74319,
+		"strengthenLevel" : 45
+	},
+	
+	{
+		"attrList" : "1,1486#3,650#",
+		"equipType" : 4,
+		"needExp" : 81548,
+		"strengthenLevel" : 46
+	},
+	
+	{
+		"attrList" : "1,1531#3,670#",
+		"equipType" : 4,
+		"needExp" : 89474,
+		"strengthenLevel" : 47
+	},
+	
+	{
+		"attrList" : "1,1576#3,690#",
+		"equipType" : 4,
+		"needExp" : 98163,
+		"strengthenLevel" : 48
+	},
+	
+	{
+		"attrList" : "1,1623#3,710#",
+		"equipType" : 4,
+		"needExp" : 107690,
+		"strengthenLevel" : 49
+	},
+	
+	{
+		"attrList" : "1,1670#3,730#",
+		"equipType" : 4,
+		"needExp" : 118134,
+		"strengthenLevel" : 50
+	},
+	
+	{
+		"attrList" : "2,433#4,11#",
+		"equipType" : 5,
+		"needExp" : 814,
+		"strengthenLevel" : 1
+	},
+	
+	{
+		"attrList" : "2,875#4,22#",
+		"equipType" : 5,
+		"needExp" : 934,
+		"strengthenLevel" : 2
+	},
+	
+	{
+		"attrList" : "2,1321#4,33#",
+		"equipType" : 5,
+		"needExp" : 1066,
+		"strengthenLevel" : 3
+	},
+	
+	{
+		"attrList" : "2,1776#4,44#",
+		"equipType" : 5,
+		"needExp" : 1211,
+		"strengthenLevel" : 4
+	},
+	
+	{
+		"attrList" : "2,2237#4,56#",
+		"equipType" : 5,
+		"needExp" : 1371,
+		"strengthenLevel" : 5
+	},
+	
+	{
+		"attrList" : "2,2705#4,68#",
+		"equipType" : 5,
+		"needExp" : 1546,
+		"strengthenLevel" : 6
+	},
+	
+	{
+		"attrList" : "2,3180#4,80#",
+		"equipType" : 5,
+		"needExp" : 1740,
+		"strengthenLevel" : 7
+	},
+	
+	{
+		"attrList" : "2,3661#4,92#",
+		"equipType" : 5,
+		"needExp" : 1952,
+		"strengthenLevel" : 8
+	},
+	
+	{
+		"attrList" : "2,4151#4,104#",
+		"equipType" : 5,
+		"needExp" : 2186,
+		"strengthenLevel" : 9
+	},
+	
+	{
+		"attrList" : "2,4648#4,116#",
+		"equipType" : 5,
+		"needExp" : 2443,
+		"strengthenLevel" : 10
+	},
+	
+	{
+		"attrList" : "2,5152#4,129#",
+		"equipType" : 5,
+		"needExp" : 2725,
+		"strengthenLevel" : 11
+	},
+	
+	{
+		"attrList" : "2,5663#4,142#",
+		"equipType" : 5,
+		"needExp" : 3035,
+		"strengthenLevel" : 12
+	},
+	
+	{
+		"attrList" : "2,6183#4,155#",
+		"equipType" : 5,
+		"needExp" : 3375,
+		"strengthenLevel" : 13
+	},
+	
+	{
+		"attrList" : "2,6709#4,168#",
+		"equipType" : 5,
+		"needExp" : 3750,
+		"strengthenLevel" : 14
+	},
+	
+	{
+		"attrList" : "2,7244#4,181#",
+		"equipType" : 5,
+		"needExp" : 4160,
+		"strengthenLevel" : 15
+	},
+	
+	{
+		"attrList" : "2,7787#4,195#",
+		"equipType" : 5,
+		"needExp" : 4612,
+		"strengthenLevel" : 16
+	},
+	
+	{
+		"attrList" : "2,8339#4,208#",
+		"equipType" : 5,
+		"needExp" : 5107,
+		"strengthenLevel" : 17
+	},
+	
+	{
+		"attrList" : "2,8897#4,222#",
+		"equipType" : 5,
+		"needExp" : 5651,
+		"strengthenLevel" : 18
+	},
+	
+	{
+		"attrList" : "2,9465#4,237#",
+		"equipType" : 5,
+		"needExp" : 6247,
+		"strengthenLevel" : 19
+	},
+	
+	{
+		"attrList" : "2,10041#4,251#",
+		"equipType" : 5,
+		"needExp" : 6902,
+		"strengthenLevel" : 20
+	},
+	
+	{
+		"attrList" : "2,10627#4,266#",
+		"equipType" : 5,
+		"needExp" : 7621,
+		"strengthenLevel" : 21
+	},
+	
+	{
+		"attrList" : "2,11220#4,280#",
+		"equipType" : 5,
+		"needExp" : 8410,
+		"strengthenLevel" : 22
+	},
+	
+	{
+		"attrList" : "2,11823#4,296#",
+		"equipType" : 5,
+		"needExp" : 9276,
+		"strengthenLevel" : 23
+	},
+	
+	{
+		"attrList" : "2,12435#4,311#",
+		"equipType" : 5,
+		"needExp" : 10225,
+		"strengthenLevel" : 24
+	},
+	
+	{
+		"attrList" : "2,13056#4,326#",
+		"equipType" : 5,
+		"needExp" : 11267,
+		"strengthenLevel" : 25
+	},
+	
+	{
+		"attrList" : "2,13685#4,342#",
+		"equipType" : 5,
+		"needExp" : 12410,
+		"strengthenLevel" : 26
+	},
+	
+	{
+		"attrList" : "2,14325#4,358#",
+		"equipType" : 5,
+		"needExp" : 13664,
+		"strengthenLevel" : 27
+	},
+	
+	{
+		"attrList" : "2,14975#4,374#",
+		"equipType" : 5,
+		"needExp" : 15039,
+		"strengthenLevel" : 28
+	},
+	
+	{
+		"attrList" : "2,15633#4,391#",
+		"equipType" : 5,
+		"needExp" : 16548,
+		"strengthenLevel" : 29
+	},
+	
+	{
+		"attrList" : "2,16303#4,408#",
+		"equipType" : 5,
+		"needExp" : 18203,
+		"strengthenLevel" : 30
+	},
+	
+	{
+		"attrList" : "2,16981#4,425#",
+		"equipType" : 5,
+		"needExp" : 20017,
+		"strengthenLevel" : 31
+	},
+	
+	{
+		"attrList" : "2,17671#4,442#",
+		"equipType" : 5,
+		"needExp" : 22008,
+		"strengthenLevel" : 32
+	},
+	
+	{
+		"attrList" : "2,18369#4,459#",
+		"equipType" : 5,
+		"needExp" : 24190,
+		"strengthenLevel" : 33
+	},
+	
+	{
+		"attrList" : "2,19079#4,477#",
+		"equipType" : 5,
+		"needExp" : 26584,
+		"strengthenLevel" : 34
+	},
+	
+	{
+		"attrList" : "2,19800#4,495#",
+		"equipType" : 5,
+		"needExp" : 29209,
+		"strengthenLevel" : 35
+	},
+	
+	{
+		"attrList" : "2,20531#4,513#",
+		"equipType" : 5,
+		"needExp" : 32087,
+		"strengthenLevel" : 36
+	},
+	
+	{
+		"attrList" : "2,21273#4,532#",
+		"equipType" : 5,
+		"needExp" : 35244,
+		"strengthenLevel" : 37
+	},
+	
+	{
+		"attrList" : "2,22027#4,551#",
+		"equipType" : 5,
+		"needExp" : 38705,
+		"strengthenLevel" : 38
+	},
+	
+	{
+		"attrList" : "2,22792#4,570#",
+		"equipType" : 5,
+		"needExp" : 42500,
+		"strengthenLevel" : 39
+	},
+	
+	{
+		"attrList" : "2,23568#4,589#",
+		"equipType" : 5,
+		"needExp" : 46661,
+		"strengthenLevel" : 40
+	},
+	
+	{
+		"attrList" : "2,24356#4,609#",
+		"equipType" : 5,
+		"needExp" : 51224,
+		"strengthenLevel" : 41
+	},
+	
+	{
+		"attrList" : "2,25155#4,629#",
+		"equipType" : 5,
+		"needExp" : 56227,
+		"strengthenLevel" : 42
+	},
+	
+	{
+		"attrList" : "2,25967#4,649#",
+		"equipType" : 5,
+		"needExp" : 61712,
+		"strengthenLevel" : 43
+	},
+	
+	{
+		"attrList" : "2,26791#4,670#",
+		"equipType" : 5,
+		"needExp" : 67726,
+		"strengthenLevel" : 44
+	},
+	
+	{
+		"attrList" : "2,27627#4,691#",
+		"equipType" : 5,
+		"needExp" : 74319,
+		"strengthenLevel" : 45
+	},
+	
+	{
+		"attrList" : "2,28475#4,712#",
+		"equipType" : 5,
+		"needExp" : 81548,
+		"strengthenLevel" : 46
+	},
+	
+	{
+		"attrList" : "2,29337#4,733#",
+		"equipType" : 5,
+		"needExp" : 89474,
+		"strengthenLevel" : 47
+	},
+	
+	{
+		"attrList" : "2,30211#4,755#",
+		"equipType" : 5,
+		"needExp" : 98163,
+		"strengthenLevel" : 48
+	},
+	
+	{
+		"attrList" : "2,31099#4,777#",
+		"equipType" : 5,
+		"needExp" : 107690,
+		"strengthenLevel" : 49
+	},
+	
+	{
+		"attrList" : "2,32000#4,800#",
+		"equipType" : 5,
+		"needExp" : 118134,
+		"strengthenLevel" : 50
+	}
+]

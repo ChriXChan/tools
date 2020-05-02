@@ -1,0 +1,627 @@
+
+[
+	
+	{
+		"attrType" : 1,
+		"color" : 1,
+		"id" : 1,
+		"lower" : 100,
+		"rateItem" : 1200,
+		"upper" : 200
+	},
+	
+	{
+		"attrType" : 1,
+		"color" : 2,
+		"id" : 2,
+		"lower" : 201,
+		"rateItem" : 1000,
+		"upper" : 400
+	},
+	
+	{
+		"attrType" : 1,
+		"color" : 3,
+		"id" : 3,
+		"lower" : 401,
+		"rateGold" : 600,
+		"rateItem" : 100,
+		"upper" : 600
+	},
+	
+	{
+		"attrType" : 1,
+		"color" : 4,
+		"id" : 4,
+		"lower" : 601,
+		"rateGold" : 120,
+		"rateItem" : 20,
+		"upper" : 800
+	},
+	
+	{
+		"attrType" : 1,
+		"color" : 5,
+		"id" : 5,
+		"lower" : 801,
+		"rateGold" : 30,
+		"rateItem" : 5,
+		"upper" : 1000
+	},
+	
+	{
+		"attrType" : 3,
+		"color" : 1,
+		"id" : 6,
+		"lower" : 100,
+		"rateItem" : 1200,
+		"upper" : 200
+	},
+	
+	{
+		"attrType" : 3,
+		"color" : 2,
+		"id" : 7,
+		"lower" : 201,
+		"rateItem" : 1000,
+		"upper" : 400
+	},
+	
+	{
+		"attrType" : 3,
+		"color" : 3,
+		"id" : 8,
+		"lower" : 401,
+		"rateGold" : 600,
+		"rateItem" : 100,
+		"upper" : 600
+	},
+	
+	{
+		"attrType" : 3,
+		"color" : 4,
+		"id" : 9,
+		"lower" : 601,
+		"rateGold" : 120,
+		"rateItem" : 20,
+		"upper" : 800
+	},
+	
+	{
+		"attrType" : 3,
+		"color" : 5,
+		"id" : 10,
+		"lower" : 801,
+		"rateGold" : 30,
+		"rateItem" : 5,
+		"upper" : 1000
+	},
+	
+	{
+		"attrType" : 6,
+		"color" : 1,
+		"id" : 11,
+		"lower" : 100,
+		"rateItem" : 1200,
+		"upper" : 200
+	},
+	
+	{
+		"attrType" : 6,
+		"color" : 2,
+		"id" : 12,
+		"lower" : 201,
+		"rateItem" : 1000,
+		"upper" : 400
+	},
+	
+	{
+		"attrType" : 6,
+		"color" : 3,
+		"id" : 13,
+		"lower" : 401,
+		"rateGold" : 600,
+		"rateItem" : 100,
+		"upper" : 600
+	},
+	
+	{
+		"attrType" : 6,
+		"color" : 4,
+		"id" : 14,
+		"lower" : 601,
+		"rateGold" : 120,
+		"rateItem" : 20,
+		"upper" : 800
+	},
+	
+	{
+		"attrType" : 6,
+		"color" : 5,
+		"id" : 15,
+		"lower" : 801,
+		"rateGold" : 30,
+		"rateItem" : 5,
+		"upper" : 1000
+	},
+	
+	{
+		"attrType" : 51,
+		"color" : 1,
+		"id" : 16,
+		"lower" : 10,
+		"rateItem" : 1200,
+		"upper" : 20
+	},
+	
+	{
+		"attrType" : 51,
+		"color" : 2,
+		"id" : 17,
+		"lower" : 21,
+		"rateItem" : 1000,
+		"upper" : 40
+	},
+	
+	{
+		"attrType" : 51,
+		"color" : 3,
+		"id" : 18,
+		"lower" : 41,
+		"rateGold" : 600,
+		"rateItem" : 100,
+		"upper" : 60
+	},
+	
+	{
+		"attrType" : 51,
+		"color" : 4,
+		"id" : 19,
+		"lower" : 61,
+		"rateGold" : 120,
+		"rateItem" : 20,
+		"upper" : 80
+	},
+	
+	{
+		"attrType" : 51,
+		"color" : 5,
+		"id" : 20,
+		"lower" : 81,
+		"rateGold" : 30,
+		"rateItem" : 5,
+		"upper" : 100
+	},
+	
+	{
+		"attrType" : 53,
+		"color" : 1,
+		"id" : 21,
+		"lower" : 20,
+		"rateItem" : 1200,
+		"upper" : 40
+	},
+	
+	{
+		"attrType" : 53,
+		"color" : 2,
+		"id" : 22,
+		"lower" : 41,
+		"rateItem" : 1000,
+		"upper" : 80
+	},
+	
+	{
+		"attrType" : 53,
+		"color" : 3,
+		"id" : 23,
+		"lower" : 81,
+		"rateGold" : 600,
+		"rateItem" : 100,
+		"upper" : 120
+	},
+	
+	{
+		"attrType" : 53,
+		"color" : 4,
+		"id" : 24,
+		"lower" : 121,
+		"rateGold" : 120,
+		"rateItem" : 20,
+		"upper" : 160
+	},
+	
+	{
+		"attrType" : 53,
+		"color" : 5,
+		"id" : 25,
+		"lower" : 161,
+		"rateGold" : 30,
+		"rateItem" : 5,
+		"upper" : 200
+	},
+	
+	{
+		"attrType" : 56,
+		"color" : 1,
+		"id" : 26,
+		"lower" : 40,
+		"rateItem" : 1200,
+		"upper" : 80
+	},
+	
+	{
+		"attrType" : 56,
+		"color" : 2,
+		"id" : 27,
+		"lower" : 81,
+		"rateItem" : 1000,
+		"upper" : 160
+	},
+	
+	{
+		"attrType" : 56,
+		"color" : 3,
+		"id" : 28,
+		"lower" : 161,
+		"rateGold" : 600,
+		"rateItem" : 100,
+		"upper" : 240
+	},
+	
+	{
+		"attrType" : 56,
+		"color" : 4,
+		"id" : 29,
+		"lower" : 241,
+		"rateGold" : 120,
+		"rateItem" : 20,
+		"upper" : 320
+	},
+	
+	{
+		"attrType" : 56,
+		"color" : 5,
+		"id" : 30,
+		"lower" : 321,
+		"rateGold" : 30,
+		"rateItem" : 5,
+		"upper" : 400
+	},
+	
+	{
+		"attrType" : 2,
+		"color" : 1,
+		"id" : 31,
+		"lower" : 2000,
+		"rateItem" : 1200,
+		"upper" : 4000
+	},
+	
+	{
+		"attrType" : 2,
+		"color" : 2,
+		"id" : 32,
+		"lower" : 4010,
+		"rateItem" : 1000,
+		"upper" : 8000
+	},
+	
+	{
+		"attrType" : 2,
+		"color" : 3,
+		"id" : 33,
+		"lower" : 8010,
+		"rateGold" : 600,
+		"rateItem" : 100,
+		"upper" : 12000
+	},
+	
+	{
+		"attrType" : 2,
+		"color" : 4,
+		"id" : 34,
+		"lower" : 12010,
+		"rateGold" : 120,
+		"rateItem" : 20,
+		"upper" : 16000
+	},
+	
+	{
+		"attrType" : 2,
+		"color" : 5,
+		"id" : 35,
+		"lower" : 16010,
+		"rateGold" : 30,
+		"rateItem" : 5,
+		"upper" : 20000
+	},
+	
+	{
+		"attrType" : 4,
+		"color" : 1,
+		"id" : 36,
+		"lower" : 100,
+		"rateItem" : 1200,
+		"upper" : 200
+	},
+	
+	{
+		"attrType" : 4,
+		"color" : 2,
+		"id" : 37,
+		"lower" : 201,
+		"rateItem" : 1000,
+		"upper" : 400
+	},
+	
+	{
+		"attrType" : 4,
+		"color" : 3,
+		"id" : 38,
+		"lower" : 401,
+		"rateGold" : 600,
+		"rateItem" : 100,
+		"upper" : 600
+	},
+	
+	{
+		"attrType" : 4,
+		"color" : 4,
+		"id" : 39,
+		"lower" : 601,
+		"rateGold" : 120,
+		"rateItem" : 20,
+		"upper" : 800
+	},
+	
+	{
+		"attrType" : 4,
+		"color" : 5,
+		"id" : 40,
+		"lower" : 801,
+		"rateGold" : 30,
+		"rateItem" : 5,
+		"upper" : 1000
+	},
+	
+	{
+		"attrType" : 5,
+		"color" : 1,
+		"id" : 41,
+		"lower" : 100,
+		"rateItem" : 1200,
+		"upper" : 200
+	},
+	
+	{
+		"attrType" : 5,
+		"color" : 2,
+		"id" : 42,
+		"lower" : 201,
+		"rateItem" : 1000,
+		"upper" : 400
+	},
+	
+	{
+		"attrType" : 5,
+		"color" : 3,
+		"id" : 43,
+		"lower" : 401,
+		"rateGold" : 600,
+		"rateItem" : 100,
+		"upper" : 600
+	},
+	
+	{
+		"attrType" : 5,
+		"color" : 4,
+		"id" : 44,
+		"lower" : 601,
+		"rateGold" : 120,
+		"rateItem" : 20,
+		"upper" : 800
+	},
+	
+	{
+		"attrType" : 5,
+		"color" : 5,
+		"id" : 45,
+		"lower" : 801,
+		"rateGold" : 30,
+		"rateItem" : 5,
+		"upper" : 1000
+	},
+	
+	{
+		"attrType" : 8,
+		"color" : 1,
+		"id" : 46,
+		"lower" : 100,
+		"rateItem" : 1200,
+		"upper" : 200
+	},
+	
+	{
+		"attrType" : 8,
+		"color" : 2,
+		"id" : 47,
+		"lower" : 201,
+		"rateItem" : 1000,
+		"upper" : 400
+	},
+	
+	{
+		"attrType" : 8,
+		"color" : 3,
+		"id" : 48,
+		"lower" : 401,
+		"rateGold" : 600,
+		"rateItem" : 100,
+		"upper" : 600
+	},
+	
+	{
+		"attrType" : 8,
+		"color" : 4,
+		"id" : 49,
+		"lower" : 601,
+		"rateGold" : 120,
+		"rateItem" : 20,
+		"upper" : 800
+	},
+	
+	{
+		"attrType" : 8,
+		"color" : 5,
+		"id" : 50,
+		"lower" : 801,
+		"rateGold" : 30,
+		"rateItem" : 5,
+		"upper" : 1000
+	},
+	
+	{
+		"attrType" : 52,
+		"color" : 1,
+		"id" : 51,
+		"lower" : 10,
+		"rateItem" : 1200,
+		"upper" : 20
+	},
+	
+	{
+		"attrType" : 52,
+		"color" : 2,
+		"id" : 52,
+		"lower" : 21,
+		"rateItem" : 1000,
+		"upper" : 40
+	},
+	
+	{
+		"attrType" : 52,
+		"color" : 3,
+		"id" : 53,
+		"lower" : 41,
+		"rateGold" : 600,
+		"rateItem" : 100,
+		"upper" : 60
+	},
+	
+	{
+		"attrType" : 52,
+		"color" : 4,
+		"id" : 54,
+		"lower" : 61,
+		"rateGold" : 120,
+		"rateItem" : 20,
+		"upper" : 80
+	},
+	
+	{
+		"attrType" : 52,
+		"color" : 5,
+		"id" : 55,
+		"lower" : 81,
+		"rateGold" : 30,
+		"rateItem" : 5,
+		"upper" : 100
+	},
+	
+	{
+		"attrType" : 54,
+		"color" : 1,
+		"id" : 56,
+		"lower" : 20,
+		"rateItem" : 1200,
+		"upper" : 40
+	},
+	
+	{
+		"attrType" : 54,
+		"color" : 2,
+		"id" : 57,
+		"lower" : 41,
+		"rateItem" : 1000,
+		"upper" : 80
+	},
+	
+	{
+		"attrType" : 54,
+		"color" : 3,
+		"id" : 58,
+		"lower" : 81,
+		"rateGold" : 600,
+		"rateItem" : 100,
+		"upper" : 120
+	},
+	
+	{
+		"attrType" : 54,
+		"color" : 4,
+		"id" : 59,
+		"lower" : 121,
+		"rateGold" : 120,
+		"rateItem" : 20,
+		"upper" : 160
+	},
+	
+	{
+		"attrType" : 54,
+		"color" : 5,
+		"id" : 60,
+		"lower" : 161,
+		"rateGold" : 30,
+		"rateItem" : 5,
+		"upper" : 200
+	},
+	
+	{
+		"attrType" : 55,
+		"color" : 1,
+		"id" : 61,
+		"lower" : 40,
+		"rateItem" : 1200,
+		"upper" : 80
+	},
+	
+	{
+		"attrType" : 55,
+		"color" : 2,
+		"id" : 62,
+		"lower" : 81,
+		"rateItem" : 1000,
+		"upper" : 160
+	},
+	
+	{
+		"attrType" : 55,
+		"color" : 3,
+		"id" : 63,
+		"lower" : 161,
+		"rateGold" : 600,
+		"rateItem" : 100,
+		"upper" : 240
+	},
+	
+	{
+		"attrType" : 55,
+		"color" : 4,
+		"id" : 64,
+		"lower" : 241,
+		"rateGold" : 120,
+		"rateItem" : 20,
+		"upper" : 320
+	},
+	
+	{
+		"attrType" : 55,
+		"color" : 5,
+		"id" : 65,
+		"lower" : 321,
+		"rateGold" : 30,
+		"rateItem" : 5,
+		"upper" : 400
+	}
+]

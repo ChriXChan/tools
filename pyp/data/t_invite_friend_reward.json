@@ -1,0 +1,127 @@
+
+[
+	
+	{
+		"id" : 1,
+		"playerLevel" : 30,
+		"rewardLevel" : 1,
+		"targetReward" : "40111417,1#"
+	},
+	
+	{
+		"id" : 2,
+		"playerLevel" : 40,
+		"rewardLevel" : 2,
+		"targetReward" : "40111418,1#"
+	},
+	
+	{
+		"id" : 3,
+		"playerLevel" : 50,
+		"rewardLevel" : 3,
+		"targetReward" : "40111419,1#"
+	},
+	
+	{
+		"id" : 4,
+		"playerLevel" : 60,
+		"rewardLevel" : 4,
+		"targetReward" : "40111420,1#"
+	},
+	
+	{
+		"id" : 5,
+		"inviteNum" : 1,
+		"playerLevel" : 40,
+		"rewardLevel" : 1,
+		"targetReward" : "40111421,1#"
+	},
+	
+	{
+		"id" : 6,
+		"inviteNum" : 3,
+		"playerLevel" : 40,
+		"rewardLevel" : 2,
+		"targetReward" : "40111422,1#"
+	},
+	
+	{
+		"id" : 7,
+		"inviteNum" : 5,
+		"playerLevel" : 40,
+		"rewardLevel" : 3,
+		"targetReward" : "40111423,1#"
+	},
+	
+	{
+		"id" : 8,
+		"inviteNum" : 7,
+		"playerLevel" : 40,
+		"rewardLevel" : 4,
+		"targetReward" : "40111424,1#"
+	},
+	
+	{
+		"id" : 9,
+		"inviteNum" : 1,
+		"playerLevel" : 50,
+		"rewardLevel" : 5,
+		"targetReward" : "40111425,1#"
+	},
+	
+	{
+		"id" : 10,
+		"inviteNum" : 3,
+		"playerLevel" : 50,
+		"rewardLevel" : 6,
+		"targetReward" : "40111426,1#"
+	},
+	
+	{
+		"id" : 11,
+		"inviteNum" : 5,
+		"playerLevel" : 50,
+		"rewardLevel" : 7,
+		"targetReward" : "40111427,1#"
+	},
+	
+	{
+		"id" : 12,
+		"inviteNum" : 7,
+		"playerLevel" : 50,
+		"rewardLevel" : 8,
+		"targetReward" : "40111428,1#"
+	},
+	
+	{
+		"id" : 13,
+		"inviteNum" : 1,
+		"playerLevel" : 60,
+		"rewardLevel" : 9,
+		"targetReward" : "40111429,1#"
+	},
+	
+	{
+		"id" : 14,
+		"inviteNum" : 3,
+		"playerLevel" : 60,
+		"rewardLevel" : 10,
+		"targetReward" : "40111430,1#"
+	},
+	
+	{
+		"id" : 15,
+		"inviteNum" : 5,
+		"playerLevel" : 60,
+		"rewardLevel" : 11,
+		"targetReward" : "40111431,1#"
+	},
+	
+	{
+		"id" : 16,
+		"inviteNum" : 7,
+		"playerLevel" : 60,
+		"rewardLevel" : 12,
+		"targetReward" : "40111432,1#"
+	}
+]

@@ -1,0 +1,38 @@
+
+[
+	
+	{
+		"addPer" : 2000,
+		"cost" : 50,
+		"level" : 1,
+		"unit" : 2
+	},
+	
+	{
+		"addPer" : 4000,
+		"cost" : 60,
+		"level" : 2,
+		"unit" : 2
+	},
+	
+	{
+		"addPer" : 6000,
+		"cost" : 70,
+		"level" : 3,
+		"unit" : 2
+	},
+	
+	{
+		"addPer" : 8000,
+		"cost" : 80,
+		"level" : 4,
+		"unit" : 2
+	},
+	
+	{
+		"addPer" : 10000,
+		"cost" : 90,
+		"level" : 5,
+		"unit" : 2
+	}
+]

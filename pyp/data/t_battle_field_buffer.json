@@ -1,0 +1,156 @@
+
+[
+	
+	{
+		"buffId" : 55997000
+	},
+	
+	{
+		"buffId" : 55997040,
+		"killTime" : 3,
+		"roleLevel" : 40,
+		"type" : 1
+	},
+	
+	{
+		"buffId" : 55997050,
+		"killTime" : 3,
+		"roleLevel" : 50,
+		"type" : 1
+	},
+	
+	{
+		"buffId" : 55997060,
+		"killTime" : 3,
+		"roleLevel" : 60,
+		"type" : 1
+	},
+	
+	{
+		"buffId" : 55997070,
+		"killTime" : 3,
+		"roleLevel" : 70,
+		"type" : 1
+	},
+	
+	{
+		"buffId" : 55997043,
+		"killTime" : 4,
+		"roleLevel" : 40,
+		"type" : 1
+	},
+	
+	{
+		"buffId" : 55997053,
+		"killTime" : 4,
+		"roleLevel" : 50,
+		"type" : 1
+	},
+	
+	{
+		"buffId" : 55997063,
+		"killTime" : 4,
+		"roleLevel" : 60,
+		"type" : 1
+	},
+	
+	{
+		"buffId" : 55997073,
+		"killTime" : 4,
+		"roleLevel" : 70,
+		"type" : 1
+	},
+	
+	{
+		"buffId" : 55997046,
+		"killTime" : 5,
+		"roleLevel" : 40,
+		"type" : 1
+	},
+	
+	{
+		"buffId" : 55997056,
+		"killTime" : 5,
+		"roleLevel" : 50,
+		"type" : 1
+	},
+	
+	{
+		"buffId" : 55997066,
+		"killTime" : 5,
+		"roleLevel" : 60,
+		"type" : 1
+	},
+	
+	{
+		"buffId" : 55997076,
+		"killTime" : 5,
+		"roleLevel" : 70,
+		"type" : 1
+	},
+	
+	{
+		"buffId" : 55997520,
+		"killTime" : 1,
+		"type" : 2
+	},
+	
+	{
+		"buffId" : 55997521,
+		"killTime" : 4,
+		"type" : 2
+	},
+	
+	{
+		"buffId" : 55997522,
+		"killTime" : 10,
+		"type" : 2
+	},
+	
+	{
+		"buffId" : 55997523,
+		"killTime" : 25,
+		"type" : 2
+	},
+	
+	{
+		"buffId" : 55997524,
+		"killTime" : 60,
+		"type" : 2
+	},
+	
+	{
+		"buffId" : 55997500,
+		"type" : 3
+	},
+	
+	{
+		"buffId" : 55997511,
+		"killTime" : 2,
+		"type" : 3
+	},
+	
+	{
+		"buffId" : 55997512,
+		"killTime" : 8,
+		"type" : 3
+	},
+	
+	{
+		"buffId" : 55997513,
+		"killTime" : 25,
+		"type" : 3
+	},
+	
+	{
+		"buffId" : 55997514,
+		"killTime" : 75,
+		"type" : 3
+	},
+	
+	{
+		"buffId" : 55997515,
+		"killTime" : 180,
+		"type" : 3
+	}
+]

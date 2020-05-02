@@ -1,0 +1,4320 @@
+
+[
+	
+	{
+		"msgId" : 2,
+		"msgKey" : "symbol_pause",
+		"msgValue" : "、"
+	},
+	
+	{
+		"msgId" : 40,
+		"msgKey" : "color_red",
+		"msgValue" : "<MsgObj>COLOR,6,{$1}</MsgObj>"
+	},
+	
+	{
+		"msgId" : 41,
+		"msgKey" : "color_glod",
+		"msgValue" : "<MsgObj>COLOR,12,{$1}</MsgObj>"
+	},
+	
+	{
+		"msgId" : 42,
+		"msgKey" : "color_blue",
+		"msgValue" : "<MsgObj>COLOR,3,{$1}</MsgObj>"
+	},
+	
+	{
+		"msgId" : 51,
+		"msgKey" : "unit_yi",
+		"msgValue" : "亿"
+	},
+	
+	{
+		"msgId" : 52,
+		"msgKey" : "unit_wan",
+		"msgValue" : "万"
+	},
+	
+	{
+		"msgId" : 54,
+		"msgKey" : "unit_hour",
+		"msgValue" : "小时"
+	},
+	
+	{
+		"msgId" : 55,
+		"msgKey" : "unit_minute",
+		"msgValue" : "分钟"
+	},
+	
+	{
+		"msgId" : 60,
+		"msgKey" : "ji",
+		"msgValue" : "级"
+	},
+	
+	{
+		"msgId" : 61,
+		"msgKey" : "dengji",
+		"msgValue" : "等级"
+	},
+	
+	{
+		"msgId" : 62,
+		"msgKey" : "dianfeng",
+		"msgValue" : "巅峰"
+	},
+	
+	{
+		"msgId" : 65,
+		"msgKey" : "week_0",
+		"msgValue" : "周日"
+	},
+	
+	{
+		"msgId" : 66,
+		"msgKey" : "week_1",
+		"msgValue" : "周一"
+	},
+	
+	{
+		"msgId" : 67,
+		"msgKey" : "week_2",
+		"msgValue" : "周二"
+	},
+	
+	{
+		"msgId" : 68,
+		"msgKey" : "week_3",
+		"msgValue" : "周三"
+	},
+	
+	{
+		"msgId" : 69,
+		"msgKey" : "week_4",
+		"msgValue" : "周四"
+	},
+	
+	{
+		"msgId" : 70,
+		"msgKey" : "week_5",
+		"msgValue" : "周五"
+	},
+	
+	{
+		"msgId" : 71,
+		"msgKey" : "week_6",
+		"msgValue" : "周六"
+	},
+	
+	{
+		"msgId" : 90,
+		"msgKey" : "num_0",
+		"msgValue" : "零"
+	},
+	
+	{
+		"msgId" : 91,
+		"msgKey" : "num_1",
+		"msgValue" : "一"
+	},
+	
+	{
+		"msgId" : 92,
+		"msgKey" : "num_2",
+		"msgValue" : "二"
+	},
+	
+	{
+		"msgId" : 93,
+		"msgKey" : "num_3",
+		"msgValue" : "三"
+	},
+	
+	{
+		"msgId" : 94,
+		"msgKey" : "num_4",
+		"msgValue" : "四"
+	},
+	
+	{
+		"msgId" : 95,
+		"msgKey" : "num_5",
+		"msgValue" : "五"
+	},
+	
+	{
+		"msgId" : 96,
+		"msgKey" : "num_6",
+		"msgValue" : "六"
+	},
+	
+	{
+		"msgId" : 97,
+		"msgKey" : "num_7",
+		"msgValue" : "七"
+	},
+	
+	{
+		"msgId" : 98,
+		"msgKey" : "num_8",
+		"msgValue" : "八"
+	},
+	
+	{
+		"msgId" : 99,
+		"msgKey" : "num_9",
+		"msgValue" : "九"
+	},
+	
+	{
+		"msgId" : 151,
+		"msgKey" : "a1",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>激活<MsgObj>COLOR,7,体验VIP</MsgObj>，获得经验<MsgObj>COLOR,2,30%</MsgObj>加成，<MsgObj>COLOR,2,免费传送</MsgObj>想去哪里点哪里"
+	},
+	
+	{
+		"msgId" : 152,
+		"msgKey" : "a2",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>获得<MsgObj>ITEM,{$1}</MsgObj>认可，杀怪经验<MsgObj>COLOR,2,+50%</MsgObj>，附带自动拾取，练级效率赞赞赞！"
+	},
+	
+	{
+		"msgId" : 153,
+		"msgKey" : "a3",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>通关{$1}<MsgObj>COLOR,7,{$2}</MsgObj>，掌握了神技<MsgObj>COLOR,4,{$3}</MsgObj>，{$4}"
+	},
+	
+	{
+		"broadcastLevel" : 4,
+		"msgId" : 154,
+		"msgKey" : "a4",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>领取了价值<MsgObj>COLOR,6,18888元宝</MsgObj>的<MsgObj>COLOR,4,首充大礼包</MsgObj>！<MsgObj>FAKERECHARGE,领取礼包</MsgObj>"
+	},
+	
+	{
+		"msgId" : 155,
+		"msgKey" : "a5",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>成为<MsgObj>COLOR,7,VIP{$1}</MsgObj>，尊享尊贵特权，迈向人生巅峰！"
+	},
+	
+	{
+		"msgId" : 156,
+		"msgKey" : "a6",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>在{$1}与<MsgObj>COLOR,6,{$2}</MsgObj>大战三百回合，爆出极品<MsgObj>ITEM,{$3}</MsgObj>！"
+	},
+	
+	{
+		"msgId" : 205,
+		"msgKey" : "difficulty_type1",
+		"msgValue" : "简单难度"
+	},
+	
+	{
+		"msgId" : 206,
+		"msgKey" : "difficulty_type2",
+		"msgValue" : "普通难度"
+	},
+	
+	{
+		"msgId" : 207,
+		"msgKey" : "difficulty_type3",
+		"msgValue" : "困难难度"
+	},
+	
+	{
+		"msgId" : 208,
+		"msgKey" : "difficulty_type4",
+		"msgValue" : "地狱难度"
+	},
+	
+	{
+		"msgId" : 213,
+		"msgKey" : "d_a_n_b_info",
+		"msgValue" : "周六日{$1}:{$2}-{$3}:{$4}"
+	},
+	
+	{
+		"msgId" : 239,
+		"msgKey" : "explore",
+		"msgValue" : "<MsgObj>PLAYER,{$1}</MsgObj>人品大爆发，在<MsgObj>TREASURE,{$2},{$3}</MsgObj>探险获得“<MsgObj>ITEM,{$4}</MsgObj>”！"
+	},
+	
+	{
+		"msgId" : 255,
+		"msgKey" : "firework_bright_full",
+		"msgValue" : "喜讯喜讯,璀璨度全满了,福星要给大家发礼品囖,所有30级以上在线玩家都将获得元宵祝福状态30分钟、<MsgObj>ITEM,{$1}</MsgObj>一个；燃放烟火活动2月5日-2月7日每天晚上18:00准时开启！！！"
+	},
+	
+	{
+		"msgId" : 256,
+		"msgKey" : "firework_bright_one",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>放响烟花使璀璨度达到{$1}，获得<MsgObj>ITEM,{$2}</MsgObj>，请大家再接再厉。"
+	},
+	
+	{
+		"msgId" : 257,
+		"msgKey" : "firework_bright_thr",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>放响烟花使璀璨度达到{$1}，获得<MsgObj>ITEM,{$2}</MsgObj>，福星马上来啦，大家加把劲呀！"
+	},
+	
+	{
+		"msgId" : 258,
+		"msgKey" : "firework_bright_two",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>放响烟花使璀璨度达到{$1}，获得<MsgObj>ITEM,{$2}</MsgObj>，请大家继续加油。"
+	},
+	
+	{
+		"msgId" : 259,
+		"msgKey" : "firework_close_msg",
+		"msgValue" : "烟花齐燃放活动已经结束。"
+	},
+	
+	{
+		"msgId" : 264,
+		"msgKey" : "firework_open_msg",
+		"msgValue" : "元宵烟花齐放，共享祝福活动开始啦,大家赶紧到天元城放烟花吧！"
+	},
+	
+	{
+		"msgId" : 265,
+		"msgKey" : "f_o_remain_time",
+		"msgValue" : "烟花齐燃放活动放将在{$1}分钟后开始。"
+	},
+	
+	{
+		"msgId" : 266,
+		"msgKey" : "first_blood",
+		"msgValue" : "{$1}<MsgObj>PLAYER,0</MsgObj>击败了{$2}<MsgObj>PLAYER,1</MsgObj>，获得第一滴血！"
+	},
+	
+	{
+		"msgId" : 268,
+		"msgKey" : "force_blue",
+		"msgValue" : "<MsgObj>COLOR,3,[蓝]</MsgObj>"
+	},
+	
+	{
+		"msgId" : 269,
+		"msgKey" : "force_red",
+		"msgValue" : "<MsgObj>COLOR,2,[北斗]</MsgObj>"
+	},
+	
+	{
+		"msgId" : 270,
+		"msgKey" : "force_yellow",
+		"msgValue" : "<MsgObj>COLOR,7,[南斗]</MsgObj>"
+	},
+	
+	{
+		"msgId" : 293,
+		"msgKey" : "gang_fights_battle_w",
+		"msgValue" : "本服战队<MsgObj>COLOR,3,{$1}</MsgObj>在远古3v3竞技场战胜了<MsgObj>PROXYSEVER,{$2},{$3}</MsgObj><MsgObj>COLOR,2,{$4}</MsgObj>，为本服争光。"
+	},
+	
+	{
+		"msgId" : 294,
+		"msgKey" : "gang_fights_had_clo",
+		"msgValue" : "远古3v3竞技场已关闭"
+	},
+	
+	{
+		"msgId" : 295,
+		"msgKey" : "gang_fights_had_open",
+		"msgValue" : "远古3v3竞技场已开启"
+	},
+	
+	{
+		"msgId" : 304,
+		"msgKey" : "get_arena_p_gift",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>打开了<MsgObj>ITEM,{$1}</MsgObj>，幸运地获得了<MsgObj>ITEM,{$2}</MsgObj>！！！"
+	},
+	
+	{
+		"msgId" : 318,
+		"msgKey" : "guild_battle_boss_bo",
+		"msgValue" : "盟战BOSS【{$1}】已经出现在仙盟战场，击败后可获得大量积分！"
+	},
+	
+	{
+		"msgId" : 319,
+		"msgKey" : "g_b_b_killed",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>成功击败{$1}，{$2}积分+300，{$3}个人积分+100，全体成员积分+10！"
+	},
+	
+	{
+		"msgId" : 320,
+		"msgKey" : "guild_battle_end",
+		"msgValue" : "仙盟战将在{$1}分钟后结束，把握最后的时间获取更多的积分吧！"
+	},
+	
+	{
+		"msgId" : 321,
+		"msgKey" : "guild_battle_kill",
+		"msgValue" : "{$1}的<MsgObj>PLAYER,0</MsgObj>连斩数已达{$2}，如入无人之境，无可抵挡！！"
+	},
+	
+	{
+		"msgId" : 322,
+		"msgKey" : "guild_battle_occupi",
+		"msgValue" : "【<MsgObj>COLOR,{$1},{$2}</MsgObj>】的<MsgObj>PLAYER,0</MsgObj>占领了【{$3}】，个人积分+15，全体成员积分+5，仙盟积分持续性增加！"
+	},
+	
+	{
+		"msgId" : 323,
+		"msgKey" : "guild_battle_start",
+		"msgValue" : "仙盟战将在20:00-20:30举行，参战的玩家可获得丰厚奖励！"
+	},
+	
+	{
+		"msgId" : 324,
+		"msgKey" : "guild_battle_success",
+		"msgValue" : "恭喜{$1}仙盟提前获得本次仙盟战的胜利！"
+	},
+	
+	{
+		"msgId" : 325,
+		"msgKey" : "guild_be_kicked_out",
+		"msgValue" : "你被踢出了<MsgObj>COLOR,3,{$1}</MsgObj>仙盟。"
+	},
+	
+	{
+		"msgId" : 328,
+		"msgKey" : "guild_boss_hurt",
+		"msgValue" : "众志成城，仙盟神兽生命还剩下{$1}%，各位仙友速前往仙盟领地神兽场！"
+	},
+	
+	{
+		"msgId" : 329,
+		"msgKey" : "guild_boss_killed",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>英勇击败{$1}，boss实力大幅下降！"
+	},
+	
+	{
+		"msgId" : 330,
+		"msgKey" : "guild_boss_reward",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>英勇过人，赢得神兽的认可，奖励其<MsgObj>ITEM,{$1}</MsgObj>。"
+	},
+	
+	{
+		"msgId" : 331,
+		"msgKey" : "guild_boss_summon",
+		"msgValue" : "仙盟已成功召唤<MsgObj>COLOR,2,{$1}</MsgObj>，请各位仙友速前往仙盟领地神兽场。<MsgObj>MAPPOINT,{$2},{$3},{$4},立即前往</MsgObj>"
+	},
+	
+	{
+		"msgId" : 332,
+		"msgKey" : "guild_boss_s_world",
+		"msgValue" : "<MsgObj>GUILD,{$1}</MsgObj> 仙盟齐心协力召唤出了<MsgObj>COLOR,2,{$2}</MsgObj>神兽。"
+	},
+	
+	{
+		"msgId" : 342,
+		"msgKey" : "guild_deputy_leader",
+		"msgValue" : "副盟主"
+	},
+	
+	{
+		"msgId" : 343,
+		"msgKey" : "guild_donate_coin",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>为仙盟捐献了<MsgObj>COLOR,3,{$1}</MsgObj>铜钱，仙盟资金增加了<MsgObj>COLOR,3,{$2}</MsgObj>。"
+	},
+	
+	{
+		"msgId" : 344,
+		"msgKey" : "guild_donate_gold",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>为仙盟捐献了<MsgObj>COLOR,3,{$1}</MsgObj>元宝，仙盟资金增加了<MsgObj>COLOR,3,{$2}</MsgObj>。"
+	},
+	
+	{
+		"msgId" : 347,
+		"msgKey" : "guild_join",
+		"msgValue" : "你已被<MsgObj>COLOR,3,{$1}</MsgObj>仙盟接收为成员。"
+	},
+	
+	{
+		"msgId" : 348,
+		"msgKey" : "guild_leader",
+		"msgValue" : "盟主"
+	},
+	
+	{
+		"msgId" : 349,
+		"msgKey" : "guild_member",
+		"msgValue" : "普通成员"
+	},
+	
+	{
+		"msgId" : 350,
+		"msgKey" : "guild_party_book",
+		"msgValue" : "[{$1}]将在{$2}点于仙盟领地中举办{$3}，请大家按时前来参与，经验多多奖励多多！"
+	},
+	
+	{
+		"msgId" : 351,
+		"msgKey" : "g_p_e_d_item",
+		"msgValue" : "“<MsgObj>GUILD,{$1}</MsgObj>”仙盟的<MsgObj>PLAYER,0</MsgObj>在宴会中发现神秘的果树，在其上找到了<MsgObj>ITEM,{$2}</MsgObj>。"
+	},
+	
+	{
+		"msgId" : 352,
+		"msgKey" : "guild_party_hot_add",
+		"msgValue" : "宴会气氛值达到{$1}，全场经验加成{$2}%。"
+	},
+	
+	{
+		"msgId" : 353,
+		"msgKey" : "guild_party_open",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>[{$1}]举办的<MsgObj>COLOR,2,{$2}</MsgObj>已经轰轰烈烈地开始了~兄弟姐妹们赶紧来啊~。"
+	},
+	
+	{
+		"msgId" : 354,
+		"msgKey" : "guild_party_open_wor",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>在“<MsgObj>COLOR,2,{$1}</MsgObj>”仙盟轰轰烈烈地举办起<MsgObj>COLOR,2,{$2}</MsgObj>！"
+	},
+	
+	{
+		"msgId" : 355,
+		"msgKey" : "guild_party_refresh",
+		"msgValue" : "珍品果树神秘降临~~更多的食物被摆上了餐桌！"
+	},
+	
+	{
+		"msgId" : 357,
+		"msgKey" : "guild_player_join",
+		"msgValue" : "欢迎<MsgObj>PLAYER,0</MsgObj>加入<MsgObj>COLOR,3,{$1}</MsgObj>，请大家鼓掌欢迎~"
+	},
+	
+	{
+		"msgId" : 358,
+		"msgKey" : "guild_player_join2",
+		"msgValue" : "{$1}加入了仙盟，请大家鼓掌欢迎~ #7"
+	},
+	
+	{
+		"msgId" : 359,
+		"msgKey" : "guild_player_leave",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>与本仙盟道不同志不合，离开了仙盟。"
+	},
+	
+	{
+		"msgId" : 360,
+		"msgKey" : "guild_position_modi",
+		"msgValue" : "<MsgObj>PLAYER,{$1}</MsgObj>的职位从<MsgObj>COLOR,3,{$2}</MsgObj>变更为<MsgObj>COLOR,3,{$3}</MsgObj>。"
+	},
+	
+	{
+		"msgId" : 361,
+		"msgKey" : "guild_presbyter",
+		"msgValue" : "长老"
+	},
+	
+	{
+		"msgId" : 362,
+		"msgKey" : "guild_reward",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>通过仙盟摇奖，人品爆发，获得<MsgObj>ITEM,{$1}</MsgObj>。"
+	},
+	
+	{
+		"msgId" : 382,
+		"msgKey" : "g_w_n_l_revive",
+		"msgValue" : "您的复活资格已使用完！请离开盟战！"
+	},
+	
+	{
+		"msgId" : 383,
+		"msgKey" : "guild_war_ring_start",
+		"msgValue" : "第{$1}轮盟战已开始！冲锋战斗！胜者为王！"
+	},
+	
+	{
+		"msgId" : 384,
+		"msgKey" : "guild_war_ring_win",
+		"msgValue" : "本场比赛已结束，恭喜“<MsgObj>COLOR,2,{$1}</MsgObj>”仙盟成功晋级！"
+	},
+	
+	{
+		"msgId" : 385,
+		"msgKey" : "guild_war_win_first",
+		"msgValue" : "“<MsgObj>COLOR,2,{$1}</MsgObj>”仙盟在<MsgObj>PLAYER,0</MsgObj>的英勇带领下获得了本次盟战第一名！"
+	},
+	
+	{
+		"msgId" : 397,
+		"msgKey" : "g_b_c_success",
+		"msgValue" : "挑战神兽成功！"
+	},
+	
+	{
+		"msgId" : 402,
+		"msgKey" : "g_f_b_w_start",
+		"msgValue" : "比赛将于{$1}秒后开启。"
+	},
+	
+	{
+		"msgId" : 404,
+		"msgKey" : "g_p_b_k_out",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>被请离了仙盟。"
+	},
+	
+	{
+		"msgId" : 407,
+		"msgKey" : "g_p_r_cont",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>为仙盟宴会集资捐献了{$1}点贡献。"
+	},
+	
+	{
+		"msgId" : 408,
+		"msgKey" : "g_s_c_i_over",
+		"msgValue" : "已经收集足够的{$1}"
+	},
+	
+	{
+		"msgId" : 409,
+		"msgKey" : "g_s_k_b_over",
+		"msgValue" : "已经击败足够的{$1}"
+	},
+	
+	{
+		"msgId" : 411,
+		"msgKey" : "g_s_open",
+		"msgValue" : "[仙盟副本]<MsgObj>COLOR,4,{$1}</MsgObj>（<MsgObj>COLOR,3,{$2}</MsgObj>）已开启，请立即前往参与！<MsgObj>GOTOGUILDSTRUGGLE,<<立即前往</MsgObj>"
+	},
+	
+	{
+		"msgId" : 412,
+		"msgKey" : "g_s_time_add",
+		"msgValue" : "{$1}已被摧毁，剩余时间延长了{$2}秒"
+	},
+	
+	{
+		"msgId" : 413,
+		"msgKey" : "g_s_time_del",
+		"msgValue" : "{$1}已被摧毁，剩余时间缩短了{$2}秒"
+	},
+	
+	{
+		"msgId" : 424,
+		"msgKey" : "g_s_upgrade",
+		"msgValue" : "经过大家的努力，终于将仙盟{$1}升级至{$2}级！"
+	},
+	
+	{
+		"msgId" : 426,
+		"msgKey" : "g_s_will_close",
+		"msgValue" : "[仙盟副本]<MsgObj>COLOR,4,{$1}</MsgObj>将在<MsgObj>COLOR,3,{$2}</MsgObj>秒后关闭。"
+	},
+	
+	{
+		"msgId" : 429,
+		"msgKey" : "g_w_c_r_time",
+		"msgValue" : "仙盟战将在{$1}秒后关闭。"
+	},
+	
+	{
+		"msgId" : 432,
+		"msgKey" : "g_w_o_r_time",
+		"msgValue" : "仙盟战将在{$1}分钟后开启。"
+	},
+	
+	{
+		"msgId" : 443,
+		"msgKey" : "h_c_m_reward",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>在上交<MsgObj>ITEM,{$1}</MsgObj>时，获得<MsgObj>ITEM,{$2}</MsgObj>奖励，人品实在太好了！"
+	},
+	
+	{
+		"msgId" : 444,
+		"msgKey" : "hide_name",
+		"msgValue" : "匿名"
+	},
+	
+	{
+		"msgId" : 447,
+		"msgKey" : "h_s_m_reward",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>为天下第一斗法争霸赛的石碑献上了材料，获得了神仙奖赏的<MsgObj>ITEM,{$1}</MsgObj>。"
+	},
+	
+	{
+		"msgId" : 449,
+		"msgKey" : "item",
+		"msgValue" : "<MsgObj>ITEM,{$1}</MsgObj>"
+	},
+	
+	{
+		"msgId" : 454,
+		"msgKey" : "kill_boss",
+		"msgValue" : "<MsgObj>PLAYER,{$1}</MsgObj>势如破竹，在<MsgObj>COLOR,2,{$2}</MsgObj>一举击败<MsgObj>BOSS,{$3}</MsgObj>，获得{$4}！"
+	},
+	
+	{
+		"msgId" : 455,
+		"msgKey" : "kill_treasure_hunter",
+		"msgValue" : "我派<MsgObj>PLAYER,{$1}</MsgObj>大发神威，怒斩盗宝者<MsgObj>CAMP,{$2}</MsgObj>派<MsgObj>PLAYER,{$3}</MsgObj>。"
+	},
+	
+	{
+		"msgId" : 457,
+		"msgKey" : "kiss_opposite_sex",
+		"msgValue" : "面对【{$1}】送来的飞吻，【{$2}】羞涩地低下了头。"
+	},
+	
+	{
+		"msgId" : 473,
+		"msgKey" : "magic_tower_add_time",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>打烂了水晶，本层剩余时间增加{$1}秒。"
+	},
+	
+	{
+		"msgId" : 475,
+		"msgKey" : "magic_tower_del_time",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>采集了宝箱，本层剩余时间减少{$1}秒。"
+	},
+	
+	{
+		"msgId" : 485,
+		"msgKey" : "marry_type_advance",
+		"msgValue" : "高级"
+	},
+	
+	{
+		"msgId" : 486,
+		"msgKey" : "marry_type_luxury",
+		"msgValue" : "豪华"
+	},
+	
+	{
+		"msgId" : 487,
+		"msgKey" : "marry_type_nomal",
+		"msgValue" : "普通"
+	},
+	
+	{
+		"msgId" : 488,
+		"msgKey" : "marry_type_simple",
+		"msgValue" : "简单"
+	},
+	
+	{
+		"msgId" : 489,
+		"msgKey" : "marry_weding_car_na",
+		"msgValue" : "{$1}#{$2}"
+	},
+	
+	{
+		"msgId" : 491,
+		"msgKey" : "message_auto_reply",
+		"msgValue" : "处于挂机状态"
+	},
+	
+	{
+		"msgId" : 499,
+		"msgKey" : "msg_key",
+		"msgValue" : "msg_value"
+	},
+	
+	{
+		"msgId" : 516,
+		"msgKey" : "nbf_close",
+		"msgValue" : "天神战场已结束，根据获得积分值分配相应奖励。"
+	},
+	
+	{
+		"msgId" : 517,
+		"msgKey" : "nbf_close_remain_ti",
+		"msgValue" : "天神战场已结束，将在{$1}秒后关闭。"
+	},
+	
+	{
+		"msgId" : 518,
+		"msgKey" : "nbf_kill_tower",
+		"msgValue" : "{$1}<MsgObj>PLAYER,0</MsgObj>摧毁了{$2}{$3}，所有{$1}方仙友获得{$5}积分，{$2}水晶损失了{$4}%生命。"
+	},
+	
+	{
+		"msgId" : 519,
+		"msgKey" : "nbf_kill_tower_by_bo",
+		"msgValue" : "{$1}{$6}摧毁了{$2}{$3}，所有{$1}方仙友获得{$5}积分，{$2}水晶损失了{$4}%生命。"
+	},
+	
+	{
+		"msgId" : 520,
+		"msgKey" : "nbf_open_remain_time",
+		"msgValue" : "天神战场将在{$1}分钟后开启。"
+	},
+	
+	{
+		"msgId" : 521,
+		"msgKey" : "nbf_personal_inspire",
+		"msgValue" : "{$1}<MsgObj>PLAYER,0</MsgObj>通过祭祀获得橙色神恩，{$2}"
+	},
+	
+	{
+		"msgId" : 522,
+		"msgKey" : "nbf_win",
+		"msgValue" : "{$1}<MsgObj>PLAYER,0</MsgObj>攻陷了{$2}的{$3}，所有{$1}仙友获得{$4}积分。"
+	},
+	
+	{
+		"msgId" : 523,
+		"msgKey" : "nbf_win_by_boss",
+		"msgValue" : "{$1}仙界<MsgObj>PLAYER,0</MsgObj>攻陷了{$2}的{$3}，所有{$1}仙友获得{$4}积分。"
+	},
+	
+	{
+		"msgId" : 532,
+		"msgKey" : "open_copy_box",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>仙友，机缘之下开启<MsgObj>COLOR,2,{$1}</MsgObj>，获得<MsgObj>ITEM,{$2}</MsgObj>。"
+	},
+	
+	{
+		"msgId" : 533,
+		"msgKey" : "open_nbf_msg",
+		"msgValue" : "天神战场已开启，请各位仙友速速前往天神战场参与战斗。"
+	},
+	
+	{
+		"msgId" : 534,
+		"msgKey" : "open_n_b_sign_up",
+		"msgValue" : "天神战场已开启，请未报名的仙友速速前往报名！"
+	},
+	
+	{
+		"msgId" : 535,
+		"msgKey" : "open_new_b_f_msg",
+		"msgValue" : "剑仙战场战况激烈，兽界增派援军，请未参战的仙友前往新战场战斗！"
+	},
+	
+	{
+		"msgId" : 536,
+		"msgKey" : "open_new_field_msg",
+		"msgValue" : "剑仙战场战况激烈，魔界增派援军，请未参战的仙友前往新战场战斗！"
+	},
+	
+	{
+		"msgId" : 537,
+		"msgKey" : "open_new_nbf_msg",
+		"msgValue" : "天神战场已开启，请报了名且未参战的仙友前往战场战斗！"
+	},
+	
+	{
+		"msgId" : 541,
+		"msgKey" : "o_d_r_g_bc",
+		"msgValue" : "吉星高照！<MsgObj>PLAYER,0</MsgObj>获得了{$1}元宝。"
+	},
+	
+	{
+		"msgId" : 542,
+		"msgKey" : "o_d_r_i_bc",
+		"msgValue" : "吉星高照！<MsgObj>PLAYER,0</MsgObj>获得了<MsgObj>ITEM,{$1}</MsgObj>。"
+	},
+	
+	{
+		"msgId" : 544,
+		"msgKey" : "o_n_n_b_s_up",
+		"msgValue" : "天神战场战况激烈，新开辟了其他战场，请未报名的仙友速速前往报名！"
+	},
+	
+	{
+		"msgId" : 545,
+		"msgKey" : "o_r_g_b_special",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>福缘深厚，居然从<MsgObj>ITEM,{$1}</MsgObj>中获得了<MsgObj>ITEM,{$2}</MsgObj>！"
+	},
+	
+	{
+		"msgId" : 546,
+		"msgKey" : "peace_field_close",
+		"msgValue" : "战场之魂活动已经结束，将在5分钟后关闭。"
+	},
+	
+	{
+		"msgId" : 547,
+		"msgKey" : "p_f_r_first",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>快如闪电，在战场之魂中获得第一滴血奖励<MsgObj>ITEM,{$1}</MsgObj>。"
+	},
+	
+	{
+		"msgId" : 548,
+		"msgKey" : "peace_f_r_last",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>大展神威，在战场之魂中将BOSS斩于剑下获得击杀BOSS奖励<MsgObj>ITEM,{$1}</MsgObj>。"
+	},
+	
+	{
+		"msgId" : 549,
+		"msgKey" : "p_f_r_middle",
+		"msgValue" : "福星高照，玩家<MsgObj>PLAYER,0</MsgObj>在战场之魂里从BOSS身上摸到<MsgObj>ITEM,{$1}</MsgObj>惊喜大奖！"
+	},
+	
+	{
+		"msgId" : 550,
+		"msgKey" : "peace_field_r_rank",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>在战场之魂活动中大展身手，伤害排名第{$1},获得<MsgObj>ITEM,{$2}</MsgObj>{$3}的奖励！"
+	},
+	
+	{
+		"msgId" : 556,
+		"msgKey" : "pet_growth_48",
+		"msgValue" : "<MsgObj>PLAYER,{$1}</MsgObj>的灵宠<MsgObj>PET,{$2}</MsgObj>经过不懈努力，成长终于突破<MsgObj>COLOR,4,{$3}</MsgObj>，实力大为增加！！"
+	},
+	
+	{
+		"msgId" : 557,
+		"msgKey" : "pet_growth_64",
+		"msgValue" : "<MsgObj>PLAYER,{$1}</MsgObj>的灵宠<MsgObj>PET,{$2}</MsgObj>历经无数风雨，成长终于突破<MsgObj>COLOR,4,{$3}</MsgObj>，神宠降世，唯我独尊！！"
+	},
+	
+	{
+		"msgId" : 568,
+		"msgKey" : "pet_spirit_5",
+		"msgValue" : "<MsgObj>PLAYER,{$1}</MsgObj>的灵宠<MsgObj>PET,{$2}</MsgObj>突然开窍，灵性增加到了<MsgObj>COLOR,4,{$3}</MsgObj>，灵宠降世，舍我其谁！！"
+	},
+	
+	{
+		"msgId" : 575,
+		"msgKey" : "player_level_first",
+		"msgValue" : "战斗力排行榜<MsgObj>COLOR,6,第一名</MsgObj>的<MsgObj>PLAYER,0</MsgObj>踏五彩祥云驾临玄幻的修真世界。众生相迎，万仙来朝!!"
+	},
+	
+	{
+		"msgId" : 576,
+		"msgKey" : "player_level_second",
+		"msgValue" : "战斗力排行榜<MsgObj>COLOR,6,第二名</MsgObj>的<MsgObj>PLAYER,0</MsgObj>驭清风来到美妙的修真世界。众生相迎，万仙来朝!!"
+	},
+	
+	{
+		"msgId" : 577,
+		"msgKey" : "player_level_third",
+		"msgValue" : "战斗力排行榜<MsgObj>COLOR,6,第三名</MsgObj>的<MsgObj>PLAYER,0</MsgObj>驾青牛来到神秘的修真世界。众生相迎，万仙来朝!!"
+	},
+	
+	{
+		"msgId" : 592,
+		"msgKey" : "race_count_down",
+		"msgValue" : "竞速赛将在{$1}分钟后开始"
+	},
+	
+	{
+		"msgId" : 593,
+		"msgKey" : "race_end",
+		"msgValue" : "竞速赛已经结束"
+	},
+	
+	{
+		"msgId" : 594,
+		"msgKey" : "race_finish",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>完成比赛，获得第{$1}名！"
+	},
+	
+	{
+		"msgId" : 595,
+		"msgKey" : "race_not_finish",
+		"msgValue" : "比赛已结束，很遗憾您没有获得名次，请继续加油！"
+	},
+	
+	{
+		"msgId" : 596,
+		"msgKey" : "race_reach_final_poi",
+		"msgValue" : "恭喜您！完成比赛，获得第{$1}名！"
+	},
+	
+	{
+		"msgId" : 597,
+		"msgKey" : "race_reach_point",
+		"msgValue" : "恭喜您！已完成{$1}//{$2}圈"
+	},
+	
+	{
+		"msgId" : 598,
+		"msgKey" : "race_r_prepare_start",
+		"msgValue" : "竞速赛将在不久后开启，请做好准备！"
+	},
+	
+	{
+		"msgId" : 599,
+		"msgKey" : "race_room_start",
+		"msgValue" : "比赛正式开始！go go go……！！"
+	},
+	
+	{
+		"msgId" : 600,
+		"msgKey" : "race_room_will_close",
+		"msgValue" : "赛场将在{$1}秒后关闭！！请准备！"
+	},
+	
+	{
+		"msgId" : 601,
+		"msgKey" : "race_room_will_start",
+		"msgValue" : "比赛将在{$1}秒后开始！"
+	},
+	
+	{
+		"msgId" : 602,
+		"msgKey" : "race_start",
+		"msgValue" : "竞速赛已经开始"
+	},
+	
+	{
+		"msgId" : 604,
+		"msgKey" : "r_t_chest",
+		"msgValue" : "我派<MsgObj>PLAYER,{$1}</MsgObj>大发神威，怒斩盗宝者<MsgObj>CAMP,{$2}</MsgObj>派<MsgObj>PLAYER,{$3}</MsgObj>,夺回<MsgObj>COLOR,4,神秘宝箱</MsgObj>。"
+	},
+	
+	{
+		"msgId" : 605,
+		"msgKey" : "refuse_copy_gather",
+		"msgValue" : "{$1}拒绝了队伍集合号令。"
+	},
+	
+	{
+		"msgId" : 606,
+		"msgKey" : "romanic_end",
+		"msgValue" : "今天的七夕节，兑换羽毛构筑鹊桥活动即将结束。"
+	},
+	
+	{
+		"msgId" : 607,
+		"msgKey" : "romanic_node_bc_1",
+		"msgValue" : "喜讯！喜讯！鹊桥已经到达{$1}，在线35级以上的玩家均可获得额外奖励；下次奖励将在鹊桥到达{$2}时，大家继续加油哦！"
+	},
+	
+	{
+		"msgId" : 608,
+		"msgKey" : "romanic_node_bc_2",
+		"msgValue" : "喜讯！喜讯！鹊桥已经到达{$1}，在线35级以上的玩家均可获得额外奖励！"
+	},
+	
+	{
+		"msgId" : 609,
+		"msgKey" : "romanic_not_max_end",
+		"msgValue" : "今天的七夕节，兑换羽毛构筑鹊桥即将结束，需要兑换羽毛的玩家要抓紧时间了。"
+	},
+	
+	{
+		"msgId" : 610,
+		"msgKey" : "romanic_start",
+		"msgValue" : "七夕节，兑换羽毛构筑鹊桥，大家赶紧去找NPC兑换吧！"
+	},
+	
+	{
+		"msgId" : 611,
+		"msgKey" : "romanic_touch_node",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>在兑换羽毛时鹊桥到达{$1}，获得<MsgObj>ITEM,{$2},</MsgObj>*1奖励。"
+	},
+	
+	{
+		"msgId" : 651,
+		"msgKey" : "s_c_o_r_time",
+		"msgValue" : "广寒宫将在{$1}分钟后开启。"
+	},
+	
+	{
+		"msgId" : 652,
+		"msgKey" : "smelt",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>一掷千金，合成了<MsgObj>ITEM,{$1}</MsgObj>，真是财大气粗"
+	},
+	
+	{
+		"msgId" : 656,
+		"msgKey" : "spring_open",
+		"msgValue" : "梦幻海滩已经开放，请各位仙友前往参与，享受阳光与沙滩"
+	},
+	
+	{
+		"msgId" : 657,
+		"msgKey" : "spring_o_r_time",
+		"msgValue" : "梦幻海滩将在{$1}分钟后开启。"
+	},
+	
+	{
+		"msgId" : 684,
+		"msgKey" : "impeach",
+		"msgValue" : "由于<MsgObj>PLAYER,0</MsgObj>盟主长期不打理仙盟，<MsgObj>PLAYER,1</MsgObj>成功取代了其盟主职位，成为新一任盟主！"
+	},
+	
+	{
+		"msgId" : 694,
+		"msgKey" : "three_vs_three_open",
+		"msgValue" : "异界战场已开启，快快来体验跨服3v3的激爽战斗吧"
+	},
+	
+	{
+		"msgId" : 695,
+		"msgKey" : "three_vs_three_ready",
+		"msgValue" : "异界斗法—跨服3v3活动将在5分钟后开始，请做好准备"
+	},
+	
+	{
+		"msgId" : 709,
+		"msgKey" : "toplist_first_chang",
+		"msgValue" : "<MsgObj>PLAYER,{$1}</MsgObj>超越了<MsgObj>PLAYER,{$2}</MsgObj>成为全服等级<MsgObj>COLOR,6,第一人</MsgObj>，霸气外露！"
+	},
+	
+	{
+		"msgId" : 716,
+		"msgKey" : "tvtt_10000",
+		"msgValue" : "积分排行榜"
+	},
+	
+	{
+		"msgId" : 717,
+		"msgKey" : "tvtt_10001",
+		"msgValue" : "击败排行榜"
+	},
+	
+	{
+		"msgId" : 718,
+		"msgKey" : "tvtt_10002",
+		"msgValue" : "胜利排行榜"
+	},
+	
+	{
+		"msgId" : 719,
+		"msgKey" : "tvtt_10003",
+		"msgValue" : "连胜排行榜"
+	},
+	
+	{
+		"msgId" : 745,
+		"msgKey" : "upgrade_guild_house",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj><MsgObj>GUILDPOS,{$1}</MsgObj>大手一挥，花费{$2}元宝将仙盟人数上限增加5人，额外获得了{$3}点贡献。"
+	},
+	
+	{
+		"msgId" : 753,
+		"msgKey" : "strengthen_target",
+		"msgValue" : "<MsgObj>PLAYERNAME,{$1}</MsgObj>全身强化等级已达<MsgObj>COLOR,3,{$2}级</MsgObj>，气势凌人，强悍登场！"
+	},
+	
+	{
+		"msgId" : 754,
+		"msgKey" : "w_b_w_close",
+		"msgValue" : "比赛已结束，赛场将于{$1}秒后关闭。"
+	},
+	
+	{
+		"msgId" : 755,
+		"msgKey" : "w_b_w_start",
+		"msgValue" : "比赛将于{$1}秒后开启。"
+	},
+	
+	{
+		"msgId" : 756,
+		"msgKey" : "wrestle_battle_win",
+		"msgValue" : "本服玩家<MsgObj>PLAYER,0</MsgObj>(<MsgObj>CAREER,{$1}</MsgObj>)战胜了<MsgObj>SEVER,{$2}</MsgObj><MsgObj>COLOR,2,{$3}</MsgObj>(<MsgObj>CAREER,{$4}</MsgObj>)，为本服争光。"
+	},
+	
+	{
+		"msgId" : 757,
+		"msgKey" : "wrestle_had_close",
+		"msgValue" : "竞技场已关闭"
+	},
+	
+	{
+		"msgId" : 758,
+		"msgKey" : "wrestle_had_open",
+		"msgValue" : "竞技场已开启"
+	},
+	
+	{
+		"msgId" : 775,
+		"msgKey" : "w_c_c_r_time",
+		"msgValue" : "婚礼庆典将在{$1}秒后结束。"
+	},
+	
+	{
+		"msgId" : 801,
+		"msgKey" : "999",
+		"msgValue" : "哇~！【神秘玩家】给<MsgObj>PLAYER,0</MsgObj>赠送了玫瑰花篮，<MsgObj>PLAYER,0</MsgObj>好幸福哇！"
+	},
+	
+	{
+		"msgId" : 803,
+		"msgKey" : "actBossRefStart",
+		"msgValue" : "{$1}"
+	},
+	
+	{
+		"msgId" : 804,
+		"msgKey" : "actBossRefStart1",
+		"msgValue" : "天元城摆摊区出现了一批天下第一斗法争霸赛的仙女，回答仙女问题后能获得丰富奖品。"
+	},
+	
+	{
+		"msgId" : 805,
+		"msgKey" : "actBossRefStart10",
+		"msgValue" : "嫦娥仙子在{$1}洒下满地月饼，答对月饼给出的谜语可获得丰厚奖励，期间还有携带重宝的猪妖捣乱，各位仙友赶紧前往吧！"
+	},
+	
+	{
+		"msgId" : 806,
+		"msgKey" : "actBossRefStart11",
+		"msgValue" : "天元城内无数金银财宝从天而降，各位仙友速速前往吧，先到先得！"
+	},
+	
+	{
+		"msgId" : 807,
+		"msgKey" : "actBossRefStart12",
+		"msgValue" : "火鸡怪携带四象等重宝降临龙雪域，击败火鸡怪即可获得丰厚的奖励。"
+	},
+	
+	{
+		"msgId" : 808,
+		"msgKey" : "actBossRefStart2",
+		"msgValue" : "天下第一斗法争霸赛答题活动结束，仙女们散落了一地铜钱和元宝，普天同庆！！"
+	},
+	
+	{
+		"msgId" : 809,
+		"msgKey" : "actBossRefStart3",
+		"msgValue" : "蛋糕制作材料已在广寒宫刷新，道具数量、采集时间有限，各位仙友赶紧去抢吧！"
+	},
+	
+	{
+		"msgId" : 810,
+		"msgKey" : "actBossRefStart4",
+		"msgValue" : "盗宝金火鸡携带重宝降临{$1}，各位玩家赶紧去抢宝藏了！！！"
+	},
+	
+	{
+		"msgId" : 811,
+		"msgKey" : "actBossRefStart5",
+		"msgValue" : "潜藏水中的青鱼怪大肆入侵{$1}；为非作歹，祸害四方！"
+	},
+	
+	{
+		"msgId" : 812,
+		"msgKey" : "actBossRefStart6",
+		"msgValue" : "天降神石活动现已开启。即刻前往：阴风洞<MsgObj>MAPPOINT,400102,361,116</MsgObj>、黑风洞<MsgObj>MAPPOINT,400102,24,309</MsgObj>、幽冥洞<MsgObj>MAPPOINT,400102,219,118</MsgObj>、血魔洞<MsgObj>MAPPOINT,500102,44,398</MsgObj>抢夺。"
+	},
+	
+	{
+		"msgId" : 813,
+		"msgKey" : "actBossRefStart7",
+		"msgValue" : "{$1}，饕鬄携带上古神兵重宝来袭。"
+	},
+	
+	{
+		"msgId" : 814,
+		"msgKey" : "actBossRefStart8",
+		"msgValue" : "{$1}，花心贼企图拆散天下有情人，为了捍卫爱情，众仙友务必速速将其击败。"
+	},
+	
+	{
+		"msgId" : 815,
+		"msgKey" : "actBossRefStart9",
+		"msgValue" : "凶兽饕餮携带四象等重宝降临龙雪域，击败凶兽饕餮即可获得丰厚的奖励，还有几率获得其诞下的灵兽蛋。"
+	},
+	
+	{
+		"msgId" : 816,
+		"msgKey" : "act_boss_ref_end",
+		"msgValue" : "妖魔擂鼓渐息，妖物尽数殆尽，我们已成功抵御了妖魔的袭击，捍卫了修仙正道。"
+	},
+	
+	{
+		"msgId" : 817,
+		"msgKey" : "camp_transport",
+		"msgValue" : "<MsgObj>COLOR,7,护送美女</MsgObj>双倍奖励时间到了，<MsgObj>COLOR,2,{$1}级</MsgObj>以上的玩家赶紧护送属于你的女神吧！"
+	},
+	
+	{
+		"msgId" : 838,
+		"msgKey" : "ac_battle_win",
+		"msgValue" : "本服玩家<MsgObj>PLAYER,{$1}</MsgObj>在天下第一斗法争霸赛中战胜了对手<MsgObj>PLAYER,{$2}</MsgObj>为本服争光。"
+	},
+	
+	{
+		"msgId" : 839,
+		"msgKey" : "ac_close_remain_time",
+		"msgValue" : "天下第一斗法争霸赛将在{$1}分钟后关闭。"
+	},
+	
+	{
+		"msgId" : 841,
+		"msgKey" : "ac_had_been_close",
+		"msgValue" : "天下第一斗法争霸赛已经关闭"
+	},
+	
+	{
+		"msgId" : 842,
+		"msgKey" : "ac_had_open",
+		"msgValue" : "天下第一斗法争霸赛已经开启，仙友可通过雕像区争霸赛管理员进入比赛休息室。"
+	},
+	
+	{
+		"msgId" : 843,
+		"msgKey" : "ac_open_remain_time",
+		"msgValue" : "天下第一斗法争霸赛将在{$1}分钟后开启，仙友可通过雕像区争霸赛管理员进入比赛休息室，普通竞技场今日不开启。"
+	},
+	
+	{
+		"msgId" : 844,
+		"msgKey" : "ac_process0",
+		"msgValue" : "报名"
+	},
+	
+	{
+		"msgId" : 845,
+		"msgKey" : "ac_process1",
+		"msgValue" : "海选赛"
+	},
+	
+	{
+		"msgId" : 846,
+		"msgKey" : "ac_process11",
+		"msgValue" : "小组赛"
+	},
+	
+	{
+		"msgId" : 847,
+		"msgKey" : "ac_process12",
+		"msgValue" : "小组赛"
+	},
+	
+	{
+		"msgId" : 848,
+		"msgKey" : "ac_process2",
+		"msgValue" : "海选赛"
+	},
+	
+	{
+		"msgId" : 849,
+		"msgKey" : "ac_process21",
+		"msgValue" : "决赛"
+	},
+	
+	{
+		"msgId" : 850,
+		"msgKey" : "ac_process22",
+		"msgValue" : "决赛"
+	},
+	
+	{
+		"msgId" : 851,
+		"msgKey" : "ac_process3",
+		"msgValue" : "海选赛"
+	},
+	
+	{
+		"msgId" : 852,
+		"msgKey" : "ac_process4",
+		"msgValue" : "海选赛"
+	},
+	
+	{
+		"msgId" : 853,
+		"msgKey" : "ac_question_reward",
+		"msgValue" : "<MsgObj>PLAYER,{$1}</MsgObj>在天下第一斗法争霸赛答题活动中表现突出，仙女赏赐了一个<MsgObj>ITEM,{$2}</MsgObj>。"
+	},
+	
+	{
+		"msgId" : 854,
+		"msgKey" : "ac_regist_success",
+		"msgValue" : "<MsgObj>PLAYER,{$1}</MsgObj>参加了天下第一斗法争霸赛，大家为之呐喊鼓舞。天下第一斗法争霸赛将在{$2}月{$3}号{$4}:{$5}开启。"
+	},
+	
+	{
+		"msgId" : 856,
+		"msgKey" : "ac_send_flower1",
+		"msgValue" : "<MsgObj>COLOR,2,{$1}</MsgObj>说：<MsgObj>COLOR,3,{$2}</MsgObj>，为荣誉，为兄弟，为仙盟！战个痛快！加油！"
+	},
+	
+	{
+		"msgId" : 857,
+		"msgKey" : "ac_send_flower2",
+		"msgValue" : "<MsgObj>COLOR,2,{$1}</MsgObj>说：<MsgObj>COLOR,3,{$2}</MsgObj>，你是最棒的额，大家都很看好你！加油！"
+	},
+	
+	{
+		"msgId" : 858,
+		"msgKey" : "ac_send_flower3",
+		"msgValue" : "<MsgObj>COLOR,2,{$1}</MsgObj>说：<MsgObj>COLOR,3,{$2}</MsgObj>，无论输赢，你都是我们心中的英雄！雄起！"
+	},
+	
+	{
+		"msgId" : 859,
+		"msgKey" : "ac_send_flower4",
+		"msgValue" : "<MsgObj>COLOR,2,{$1}</MsgObj>说：<MsgObj>COLOR,3,{$2}</MsgObj>，狭路相逢勇者胜！朋友，我等着你的凯旋！"
+	},
+	
+	{
+		"msgId" : 861,
+		"msgKey" : "ac_tops_out_line",
+		"msgValue" : "{$1}在天下第一斗法争霸赛中，技高一筹，成功晋级。"
+	},
+	
+	{
+		"msgId" : 867,
+		"msgKey" : "angMsKfirst_fight",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>给以魔君第一次攻击，获得了一马当先礼包！"
+	},
+	
+	{
+		"msgId" : 868,
+		"msgKey" : "angMsKhurt_reward",
+		"msgValue" : "您在魔君攻城中斩妖除魔，捍卫了天元城的尊严，以天元城主之名，代表全城致以感觉并送上奖励：造成伤害：${1}、伤害排名：${2}名、铜钱奖励：${3}\r\n造成伤害：XXXXX\r\n伤害排名：XX名\r\n铜钱奖励：XXXXX"
+	},
+	
+	{
+		"msgId" : 869,
+		"msgKey" : "angMsKlast_beat",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>给魔君以致命一击，获得了五十万两银票！"
+	},
+	
+	{
+		"msgId" : 879,
+		"msgKey" : "arena_b_w_close",
+		"msgValue" : "比赛已结束，赛场将于{$1}秒后关闭。"
+	},
+	
+	{
+		"msgId" : 880,
+		"msgKey" : "arena_b_w_start",
+		"msgValue" : "比赛将于{$1}秒后开启。"
+	},
+	
+	{
+		"msgId" : 881,
+		"msgKey" : "arena_c_re_time",
+		"msgValue" : "竞技场将在{$1}秒后关闭。"
+	},
+	
+	{
+		"msgId" : 882,
+		"msgKey" : "arena_continue_win",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>，连胜{$1}场，无人能挡！"
+	},
+	
+	{
+		"msgId" : 883,
+		"msgKey" : "arena_fina_ring_sta",
+		"msgValue" : "竞技场<MsgObj>COLOR,6,{$1}</MsgObj>强争夺赛已经开始。"
+	},
+	
+	{
+		"msgId" : 887,
+		"msgKey" : "arena_had_been_close",
+		"msgValue" : "竞技场已关闭"
+	},
+	
+	{
+		"msgId" : 888,
+		"msgKey" : "arena_open_remain_ti",
+		"msgValue" : "竞技场将在{$1}分钟后开启。"
+	},
+	
+	{
+		"msgId" : 893,
+		"msgKey" : "arena_s_f_record",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>战斗力{$1}，战胜了<MsgObj>PLAYER,1</MsgObj>战斗力{$2}，真是神一般的操作。<MsgObj>FITHGRECORD,{$3}</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1090,
+		"msgKey" : "strengthen",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>将<MsgObj>ITEM,{$1}</MsgObj>强化等级提升至<MsgObj>COLOR,2,{$2}级</MsgObj>，实力大增！"
+	},
+	
+	{
+		"msgId" : 1091,
+		"msgKey" : "equip_upgrade",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>进阶成功,获得<MsgObj>COLOR,2,{$1}阶</MsgObj><MsgObj>ITEM,{$2}</MsgObj>，实力大增！"
+	},
+	
+	{
+		"msgId" : 1092,
+		"msgKey" : "jewel_target",
+		"msgValue" : "<MsgObj>PLAYERNAME,{$1}</MsgObj>全身宝石等级已达<MsgObj>COLOR,3,{$2}级</MsgObj>，宝气四射，灵气逼人！"
+	},
+	
+	{
+		"msgId" : 1093,
+		"msgKey" : "jewel_compose",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>一掷千金，合成<MsgObj>ITEM,{$1}</MsgObj>,真是财大气粗！"
+	},
+	
+	{
+		"msgId" : 1094,
+		"msgKey" : "image_pk_first_rank",
+		"msgValue" : "至尊易主，{$1}玩家以万夫不当之勇，登顶至尊宝座，简直是天神下凡呀"
+	},
+	
+	{
+		"msgId" : 1095,
+		"msgKey" : "image_pk_robot_name",
+		"msgValue" : "守关者"
+	},
+	
+	{
+		"msgId" : 1096,
+		"msgKey" : "force_war_notice",
+		"msgValue" : "<MsgObj>COLOR,7,三界战场</MsgObj>活动将在<MsgObj>COLOR,2,{$1}分钟</MsgObj>后开始，<MsgObj>COLOR,2,{$2}级</MsgObj>以上的玩家可以参与活动，三界大战即将揭晓！"
+	},
+	
+	{
+		"msgId" : 1097,
+		"msgKey" : "force_war_open",
+		"msgValue" : "击响<MsgObj>COLOR,7,三界战场</MsgObj>的战鼓声，各路大仙赶紧加入三界大战吧！"
+	},
+	
+	{
+		"msgId" : 1098,
+		"msgKey" : "force_war_close",
+		"msgValue" : "<MsgObj>COLOR,7,三界战场</MsgObj>活动已经结束，请各路大仙下次提前做好准备！"
+	},
+	
+	{
+		"msgId" : 1100,
+		"msgKey" : "force_war_pillar_0",
+		"msgValue" : "神龙柱【未占领】"
+	},
+	
+	{
+		"msgId" : 1101,
+		"msgKey" : "force_war_pillar_1",
+		"msgValue" : "神龙柱【佛】"
+	},
+	
+	{
+		"msgId" : 1102,
+		"msgKey" : "force_war_pillar_2",
+		"msgValue" : "神龙柱【魔】"
+	},
+	
+	{
+		"msgId" : 1103,
+		"msgKey" : "force_war_pillar_3",
+		"msgValue" : "神龙柱【仙】"
+	},
+	
+	{
+		"msgId" : 1104,
+		"msgKey" : "force_war_first_rank",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>获得三界争霸战场第一名"
+	},
+	
+	{
+		"msgId" : 1105,
+		"msgKey" : "force_war_ct_kill",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>逆天屠神，傲视苍生，在三界争霸活动中完成了<MsgObj>COLOR,4,{$1}</MsgObj>连杀"
+	},
+	
+	{
+		"msgId" : 1106,
+		"msgKey" : "force_war_ect_kill",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>横空出世，终结了<MsgObj>PLAYER,1</MsgObj>连杀之势，实乃大快人心"
+	},
+	
+	{
+		"msgId" : 1120,
+		"msgKey" : "cross_stair_end_kill",
+		"msgValue" : "<MsgObj>PLAYER,0,33</MsgObj>路见不平一声吼呀，把<MsgObj>PLAYER,1</MsgObj>的连斩终结，替天行道"
+	},
+	
+	{
+		"msgId" : 1125,
+		"msgKey" : "cross_stair_c_kill",
+		"msgValue" : "<MsgObj>PLAYER,0,33</MsgObj>已逆天伐道，杀人如麻{$1}连斩"
+	},
+	
+	{
+		"msgId" : 1126,
+		"msgKey" : "cross_stair_c_kill20",
+		"msgValue" : "<MsgObj>PLAYER,0,33</MsgObj>技惊四座，如入无人之境，已经完成了20连杀"
+	},
+	
+	{
+		"msgId" : 1127,
+		"msgKey" : "cross_stair_c_kill50",
+		"msgValue" : "<MsgObj>PLAYER,0,33</MsgObj>已完成了50连杀，开启疯魔模式，六亲不认，都躲远点吧"
+	},
+	
+	{
+		"msgId" : 1129,
+		"msgKey" : "cross_stair_open",
+		"msgValue" : "<MsgObj>COLOR,7,青云之巅</MsgObj>已经开始，各路大仙速登青云之巅，<MsgObj>COLOR,2,{$1}级</MsgObj>以上的玩家可以参与活动。<MsgObj>GAMEPLAY,点击前往,5007</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1130,
+		"msgKey" : "cross_stair_top",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0,33</MsgObj>奋力突围，终于登上青云之巅，夺取秘宝，极致巅峰！"
+	},
+	
+	{
+		"msgId" : 1136,
+		"msgKey" : "wild_kill_boss_open",
+		"msgValue" : "五倍经验活动已开启，在野外打怪可以获得5倍经验"
+	},
+	
+	{
+		"msgId" : 1137,
+		"msgKey" : "wild_kill_boss_close",
+		"msgValue" : "五倍经验活动已结束，请期待下次活动吧"
+	},
+	
+	{
+		"msgId" : 1150,
+		"msgKey" : "question_copy_notice",
+		"msgValue" : "<MsgObj>COLOR,7,修仙论道</MsgObj>活动将在<MsgObj>COLOR,2,{$1}分钟</MsgObj>后开始，<MsgObj>COLOR,2,{$2}级</MsgObj>以上的玩家可以参与活动，海量经验等你来拿！"
+	},
+	
+	{
+		"msgId" : 1151,
+		"msgKey" : "question_copy_open",
+		"msgValue" : "<MsgObj>COLOR,7,修仙论道</MsgObj>已经开始，<MsgObj>COLOR,2,{$1}级</MsgObj>以上的玩家可以参与活动，海量经验等你来拿！"
+	},
+	
+	{
+		"msgId" : 1152,
+		"msgKey" : "question_copy_close",
+		"msgValue" : "今日<MsgObj>COLOR,7,修仙论道</MsgObj>活动到此告一段落，感谢大家的参与！"
+	},
+	
+	{
+		"msgId" : 1160,
+		"msgKey" : "defense_qy_open",
+		"msgValue" : "守卫青云活动已开启，丰厚奖励等你来抢"
+	},
+	
+	{
+		"msgId" : 1161,
+		"msgKey" : "defense_qy_closs",
+		"msgValue" : "守卫青云活动已结束，感谢大家的参与"
+	},
+	
+	{
+		"msgId" : 1162,
+		"msgKey" : "treasure_open",
+		"msgValue" : "<MsgObj>COLOR,7,青云夺宝</MsgObj>活动已经开始，青云秘宝，凌霄已现，大仙速往争夺！"
+	},
+	
+	{
+		"msgId" : 1163,
+		"msgKey" : "treasure_close",
+		"msgValue" : "<MsgObj>COLOR,7,青云夺宝</MsgObj>活动已经结束，期待下次齐聚凌霄城！"
+	},
+	
+	{
+		"msgId" : 1164,
+		"msgKey" : "personal_pk_notice",
+		"msgValue" : "<MsgObj>COLOR,7,巅峰竞技</MsgObj>活动将在<MsgObj>COLOR,2,{$1}分钟</MsgObj>后开始，英雄豪杰各显神通，<MsgObj>COLOR,2,{$2}级</MsgObj>以上的玩家可以参与活动"
+	},
+	
+	{
+		"msgId" : 1165,
+		"msgKey" : "personal_pk_open",
+		"msgValue" : "<MsgObj>COLOR,7,巅峰竞技</MsgObj>已经开始，各路大仙速速加入，至尊之鼎，谁与争锋！"
+	},
+	
+	{
+		"msgId" : 1166,
+		"msgKey" : "personal_pk_close",
+		"msgValue" : "<MsgObj>COLOR,7,巅峰竞技</MsgObj>活动已经结束，下次活动，敬请期待！"
+	},
+	
+	{
+		"broadcastLevel" : 5,
+		"msgId" : 1170,
+		"msgKey" : "mg_guildwar_open",
+		"msgValue" : "仙盟争霸已开启！"
+	},
+	
+	{
+		"broadcastLevel" : 5,
+		"msgId" : 1171,
+		"msgKey" : "mg_guildwar_close",
+		"msgValue" : "仙盟争霸已结束！"
+	},
+	
+	{
+		"msgId" : 1175,
+		"msgKey" : "group_world_show",
+		"msgValue" : "<MsgObj>COLOR,3,{$1}</MsgObj>开启了<MsgObj>COLOR,7,{$2}</MsgObj>副本，赶快加入一起挑战吧！<MsgObj>APPLYGUOUP,{$3},{$4},{$5},{$6},{$7},快速加入</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1180,
+		"msgKey" : "realm_upgrade",
+		"msgValue" : "晴空霹雳，<MsgObj>PLAYER,0</MsgObj>突破桎梏渡劫成功，进入<MsgObj>COLOR_LABEL,{$1},{$2}</MsgObj>境界！"
+	},
+	
+	{
+		"msgId" : 1181,
+		"msgKey" : "boss_born_game_boss",
+		"msgValue" : "BOSS<MsgObj>COLOR,6,{$1}</MsgObj>携带大量珍稀道具出现在<MsgObj>COLOR,3,{$2}</MsgObj> ！"
+	},
+	
+	{
+		"msgId" : 1185,
+		"msgKey" : "guild_wh_donate",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>捐献了{$1}件<MsgObj>ITEM,{$2}</MsgObj>获得{$3}点仓库积分"
+	},
+	
+	{
+		"msgId" : 1186,
+		"msgKey" : "guild_wh_change",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>兑换了{$1}件<MsgObj>ITEM,{$2}</MsgObj>消耗{$3}点仓库积分"
+	},
+	
+	{
+		"msgId" : 1187,
+		"msgKey" : "fashion_activate",
+		"msgValue" : "天空雷鸣一闪，<MsgObj>PLAYER,0</MsgObj>身穿<MsgObj>COLOR,4,{$1}</MsgObj>时装闪亮登场，万众瞩目！"
+	},
+	
+	{
+		"msgId" : 1188,
+		"msgKey" : "shape_change_active",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>成功激活<MsgObj>COLOR,2,{$1}</MsgObj>化形，魅力四射，战力成吨提升！"
+	},
+	
+	{
+		"msgId" : 1189,
+		"msgKey" : "fashion_upgrade",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>将<MsgObj>COLOR,4,{$1}</MsgObj>升至<MsgObj>COLOR,7,{$2}星</MsgObj>，酷帅了！"
+	},
+	
+	{
+		"msgId" : 1191,
+		"msgKey" : "shape_change_upgrade",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>将<MsgObj>COLOR,2,{$1}</MsgObj>化形升至<MsgObj>COLOR,2,{$2}星</MsgObj>，光环万丈，如日中天！"
+	},
+	
+	{
+		"msgId" : 1192,
+		"msgKey" : "shape_upgrade_1",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>成功激活<MsgObj>COLOR,6,{$2}阶</MsgObj><MsgObj>COLOR,6,{$3}</MsgObj>，宠物蜕变，战力暴涨！<MsgObj>Shape,Pet,前往提升</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1193,
+		"msgKey" : "shape_upgrade_2",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>将{$1}提升至<MsgObj>COLOR,2,{$2}级</MsgObj>，输出能力大增！"
+	},
+	
+	{
+		"msgId" : 1194,
+		"msgKey" : "camp_transport_end",
+		"msgValue" : "今日<MsgObj>COLOR,7,护送美女</MsgObj>双倍奖励时间已经结束，请各位下次提前准备！"
+	},
+	
+	{
+		"msgId" : 1196,
+		"msgKey" : "vip_upgrade1",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>成为普通的<MsgObj>COLOR,7,VIP{$1}</MsgObj>，享受VIP特权，成吨福利乐翻天！"
+	},
+	
+	{
+		"msgId" : 1197,
+		"msgKey" : "vip_upgrade2",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>成为高贵的<MsgObj>COLOR,7,VIP{$1}</MsgObj>，享受豪华特权，跻身加入成功人士行列！"
+	},
+	
+	{
+		"msgId" : 1198,
+		"msgKey" : "vip_upgrade3",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>成为尊贵的<MsgObj>COLOR,7,VIP{$1}</MsgObj>，尊享豪华特权，迈向人生巅峰！"
+	},
+	
+	{
+		"msgId" : 1199,
+		"msgKey" : "boss_drop_normal",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>在{$1}将<MsgObj>COLOR,6,{$2}</MsgObj>击杀，爆出极品<MsgObj>ITEM,{$3}</MsgObj>！"
+	},
+	
+	{
+		"msgId" : 1200,
+		"msgKey" : "boss_drop_collect",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>在{$1}拾取<MsgObj>COLOR,6,{$2}</MsgObj>时人品爆发获得极品<MsgObj>ITEM,{$3}</MsgObj>！"
+	},
+	
+	{
+		"msgId" : 1201,
+		"msgKey" : "spirit_get_1",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>获得了<MsgObj>ITEM,{$1}</MsgObj>，防御增加<MsgObj>COLOR,2,{$2}</MsgObj>，抵御<MsgObj>COLOR,2,{$3}%</MsgObj>伤害，PK、打BOSS必备！"
+	},
+	
+	{
+		"msgId" : 1202,
+		"msgKey" : "spirit_get_2",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>获得了<MsgObj>ITEM,{$1}</MsgObj>，杀怪经验增加<MsgObj>COLOR,2,{$2}%</MsgObj>，附带自动拾取，练级效率赞赞赞！"
+	},
+	
+	{
+		"msgId" : 1203,
+		"msgKey" : "shape_pet_swallow",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>将宠物提升至<MsgObj>COLOR,2,{$1}级</MsgObj>，输出能力大增！"
+	},
+	
+	{
+		"msgId" : 1204,
+		"msgKey" : "achievement",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>经过不懈的努力，达成<MsgObj>COLOR,4,【{$1}】</MsgObj>成就"
+	},
+	
+	{
+		"msgId" : 1205,
+		"msgKey" : "kill_r_n_player",
+		"msgValue" : "代表月亮的<MsgObj>PLAYER,0</MsgObj>横空出现，在{$1}将作恶多端的<MsgObj>COLOR,6,{$2}</MsgObj>击败，不带走一片云彩！"
+	},
+	
+	{
+		"msgId" : 1206,
+		"msgKey" : "kill_leader_1",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>小试身手，在{$1}斩杀了{$2}的【{$3}】<MsgObj>PLAYER,1</MsgObj>！"
+	},
+	
+	{
+		"msgId" : 1207,
+		"msgKey" : "kill_leader_2",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>小试身手，在{$1}再次斩杀了{$2}的【{$3}】<MsgObj>PLAYER,1</MsgObj>，胜利不是意外！"
+	},
+	
+	{
+		"msgId" : 1208,
+		"msgKey" : "kill_leader_3",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>大杀特杀，在{$1}连续斩杀了{$2}的【{$3}】<MsgObj>PLAYER,1</MsgObj>，表示毫无压力！"
+	},
+	
+	{
+		"msgId" : 1209,
+		"msgKey" : "copy_star_item",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>通关<MsgObj>COLOR,2,{$1}</MsgObj>，获得<MsgObj>ITEM,{$2}</MsgObj>！"
+	},
+	
+	{
+		"msgId" : 1210,
+		"msgKey" : "treasure_notice_10",
+		"msgValue" : "<MsgObj>COLOR,7,青云夺宝</MsgObj>活动将在<MsgObj>COLOR,2,{$1}分钟</MsgObj>后开始，凌霄城天降秘宝，各路大仙蓄势待发！"
+	},
+	
+	{
+		"msgId" : 1211,
+		"msgKey" : "treasure_notice_5",
+		"msgValue" : "<MsgObj>COLOR,7,青云夺宝</MsgObj>活动将在<MsgObj>COLOR,2,{$1}分钟</MsgObj>后开始，凌霄城天降秘宝，各路大仙准备前往！"
+	},
+	
+	{
+		"msgId" : 1212,
+		"msgKey" : "collect_item",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>在{$1}活动中兑换了<MsgObj>COLOR,3,{$2}</MsgObj>，真是羡煞旁人！"
+	},
+	
+	{
+		"msgId" : 1214,
+		"msgKey" : "push_offline_work_t",
+		"msgValue" : "离线挂机"
+	},
+	
+	{
+		"msgId" : 1215,
+		"msgKey" : "push_offline_work_c",
+		"msgValue" : "【{$1}】离线挂开始托管，当前效率：{$2}经验/分，剩余挂机时间：{$3}"
+	},
+	
+	{
+		"msgId" : 1217,
+		"msgKey" : "guild_vein_upgrade",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>将仙盟心法<MsgObj>COLOR,6,{$1}</MsgObj>提升至<MsgObj>COLOR,6,{$2}级</MsgObj>，战力暴涨!"
+	},
+	
+	{
+		"msgId" : 1223,
+		"msgKey" : "deity_page_1",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>完成了天书寻主任务，获得了<MsgObj>COLOR,4,{$1}</MsgObj>奖励，经验加成<MsgObj>COLOR,2,30%</MsgObj>！"
+	},
+	
+	{
+		"msgId" : 1224,
+		"msgKey" : "deity_page_2",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>完成了天书寻主任务，获得了<MsgObj>COLOR,4,{$1}</MsgObj>奖励，杀怪效率提升<MsgObj>COLOR,2,20%</MsgObj>！"
+	},
+	
+	{
+		"msgId" : 1225,
+		"msgKey" : "deity_page_3",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>完成了天书寻主任务，获得了<MsgObj>COLOR,4,{$1}</MsgObj>奖励，对boss伤害提高<MsgObj>COLOR,2,10%</MsgObj>！"
+	},
+	
+	{
+		"broadcastLevel" : 3,
+		"msgId" : 1226,
+		"msgKey" : "lottery",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>在{$1}中获得了<MsgObj>ITEM,{$2}</MsgObj>*{$3}，天降洪福，羡煞旁人。<MsgObj>LOTTERY,我要寻宝,{$4}</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1227,
+		"msgKey" : "update_career",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>历经千锤百炼，完成<MsgObj>COLOR,2,{$1}转</MsgObj>任务，进阶成为<MsgObj>COLOR,5,{$2}</MsgObj>！"
+	},
+	
+	{
+		"msgId" : 1231,
+		"msgKey" : "transport",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>在护送美女中得到<MsgObj>COLOR,7,{$1}</MsgObj>的青睐，获得海量<MsgObj>COLOR,2,铜钱经验</MsgObj>奖励！<MsgObj>TRANSPORT,我要护送</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1233,
+		"msgKey" : "mount_name",
+		"msgValue" : "坐骑"
+	},
+	
+	{
+		"msgId" : 1234,
+		"msgKey" : "pet_name",
+		"msgValue" : "宠物"
+	},
+	
+	{
+		"msgId" : 1235,
+		"msgKey" : "magic_name",
+		"msgValue" : "神兵"
+	},
+	
+	{
+		"msgId" : 1236,
+		"msgKey" : "wing_name",
+		"msgValue" : "翅膀"
+	},
+	
+	{
+		"msgId" : 1237,
+		"msgKey" : "spirit_name",
+		"msgValue" : "法宝"
+	},
+	
+	{
+		"msgId" : 1240,
+		"msgKey" : "shape_upgrade_max_1",
+		"msgValue" : "厉害了我的哥！<MsgObj>PLAYER,0</MsgObj>悉心培养，将{$1}提升至满阶获得<MsgObj>COLOR,2,{$2}</MsgObj>，真是羡煞旁人！<MsgObj>Shape,Pet,前往提升</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1241,
+		"msgKey" : "shape_change_up_max",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>将<MsgObj>COLOR,2,{$1}</MsgObj>提升至满星，获得完美属性,战力飞升所向披靡！"
+	},
+	
+	{
+		"msgId" : 1242,
+		"msgKey" : "shape_upgrade_max_2",
+		"msgValue" : "厉害了我的哥！<MsgObj>PLAYER,0</MsgObj>悉心培养，将<MsgObj>COLOR,2,{$1}</MsgObj>提升至满级，真是羡煞旁人！"
+	},
+	
+	{
+		"msgId" : 1243,
+		"msgKey" : "add_title",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>获得<MsgObj>COLOR,6,{$1}</MsgObj>称号，{$2}！"
+	},
+	
+	{
+		"msgId" : 1244,
+		"msgKey" : "level_reward",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>等级达到了<MsgObj>COLOR,6,{$1}</MsgObj>级，领取了<MsgObj>COLOR,2,升级狂欢奖励</MsgObj>，羡煞众人！<MsgObj>Activity,ESpecialConditionTypeLevelReward,我要领取</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1245,
+		"msgKey" : "shape_pet_sw_max",
+		"msgValue" : "厉害了我的哥！<MsgObj>PLAYER,0</MsgObj>悉心培养，将<MsgObj>COLOR,2,{$1}</MsgObj>提升至满级，真是羡煞旁人！"
+	},
+	
+	{
+		"broadcastLevel" : 4,
+		"msgId" : 1247,
+		"msgKey" : "recharge_total",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>领取了累计充值<MsgObj>COLOR,2,{$1}</MsgObj>元宝的奖励，获得了{$2}"
+	},
+	
+	{
+		"msgId" : 1248,
+		"msgKey" : "rune_lottery",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>人品爆发，刚刚在符文寻宝中获得了<MsgObj>ITEM,{$1}</MsgObj>，<MsgObj>RUNELOTTERY,我要寻宝</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1249,
+		"msgKey" : "invest_plan",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>在投资计划中存入<MsgObj>COLOR,2,{$1}</MsgObj>元宝，总共可领取十倍返利！"
+	},
+	
+	{
+		"msgId" : 1250,
+		"msgKey" : "rune_box",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>人品爆发，刚刚在符文宝箱中开出了{$1}。"
+	},
+	
+	{
+		"msgId" : 1251,
+		"msgKey" : "rune_copy_reward",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>在{$1}打败了第<MsgObj>COLOR,2,{$2}</MsgObj>层的BOSS，爆出{$3}。"
+	},
+	
+	{
+		"msgId" : 1252,
+		"msgKey" : "invest_mensual",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>在月卡投资中存入<MsgObj>COLOR,2,{$1}</MsgObj>元宝，总共可领取<MsgObj>COLOR,2,{$2}</MsgObj>绑元"
+	},
+	
+	{
+		"msgId" : 1253,
+		"msgKey" : "suit",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>成功将<MsgObj>COLOR,2,{$1}</MsgObj>激活了<MsgObj>COLOR,2,{$2}</MsgObj>件套，获得成吨的战斗力"
+	},
+	
+	{
+		"msgId" : 1254,
+		"msgKey" : "boss_drop_home_rec",
+		"msgValue" : "<MsgObj>PLAYER,0,11</MsgObj>在{$1}与<MsgObj>COLOR,6,{$2}</MsgObj>大战三百回合，爆出极品<MsgObj>ITEM,{$3}</MsgObj>！"
+	},
+	
+	{
+		"msgId" : 1255,
+		"msgKey" : "guild_party_notice",
+		"msgValue" : "盟主喊你回家吃饭啦！丰富美味的<MsgObj>COLOR,7,仙盟晚宴</MsgObj>将在<MsgObj>COLOR,2,{$1}分钟</MsgObj>后开启，<MsgObj>COLOR,2,{$2}级</MsgObj>以上的仙友们请做好准备哦！"
+	},
+	
+	{
+		"msgId" : 1256,
+		"msgKey" : "guild_party_mg_open",
+		"msgValue" : "丰富美味的<MsgObj>COLOR,7,仙盟晚宴</MsgObj>已经开吃咯，<MsgObj>COLOR,2,{$1}级</MsgObj>以上的仙友们快来吃大餐吧！"
+	},
+	
+	{
+		"msgId" : 1257,
+		"msgKey" : "guild_party_close_n",
+		"msgValue" : "本次仙盟晚宴将在{$1}秒后结束,期待大家的再次相遇哟"
+	},
+	
+	{
+		"msgId" : 1258,
+		"msgKey" : "smelt_equip",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>成功合成了<MsgObj>COLOR,4,{$1}</MsgObj>星装备<MsgObj>ITEM,{$2}</MsgObj>，实力大增！"
+	},
+	
+	{
+		"msgId" : 1259,
+		"msgKey" : "guild_party_q_n",
+		"msgValue" : "{$1}秒后开启仙盟答题，在<MsgObj>COLOR,2,晚宴场景</MsgObj>中答题可获得大量贡献，请各位盟友做好准备哦！"
+	},
+	
+	{
+		"msgId" : 1260,
+		"msgKey" : "quild_party_q_c",
+		"msgValue" : "答题已结束"
+	},
+	
+	{
+		"msgId" : 1261,
+		"msgKey" : "guild_party_q_a_n",
+		"msgValue" : "本次答题已结束，今日方知我盟人才济济，各个知识渊博，共答对<MsgObj>COLOR,2,{$1}</MsgObj>道题目！大家下次再一起相聚吧！"
+	},
+	
+	{
+		"msgId" : 1262,
+		"msgKey" : "guild_party_empty_g",
+		"msgValue" : "空缺"
+	},
+	
+	{
+		"msgId" : 1263,
+		"msgKey" : "guild_party_rank",
+		"msgValue" : "本次答题前三名的仙盟已出现，大家快来围观这些才华突破天际的仙盟吧！第一名：{$1}；第二名：{$2}；第三名：{$3}。"
+	},
+	
+	{
+		"msgId" : 1264,
+		"msgKey" : "guild_party_pick_n",
+		"msgValue" : "在饭桌上拿一份美味佳肴享受晚宴吧，可获得大量贡献哦"
+	},
+	
+	{
+		"msgId" : 1265,
+		"msgKey" : "guild_party_q_all",
+		"msgValue" : "全部题目已回答完毕！"
+	},
+	
+	{
+		"msgId" : 1266,
+		"msgKey" : "guild_party_q_s",
+		"msgValue" : "<MsgObj>COLOR,7,仙盟答题</MsgObj>已经开始咯,<MsgObj>COLOR,2,{$1}级</MsgObj>以上的仙友在仙盟晚宴中参与仙盟频道的答题,可赢取大量贡献与绑定元宝哦！"
+	},
+	
+	{
+		"msgId" : 1270,
+		"msgKey" : "guild_b_g_f",
+		"msgValue" : "很遗憾，仙盟兽神挑战失败，返还兽粮{$1}"
+	},
+	
+	{
+		"msgId" : 1271,
+		"msgKey" : "guild_b_g_k",
+		"msgValue" : "兽神已被击杀，大家快点来抢装备啦！"
+	},
+	
+	{
+		"msgId" : 1272,
+		"msgKey" : "refresh",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>将<MsgObj>ITEM,{$1}</MsgObj>洗炼出<MsgObj>COLOR,2,4</MsgObj>条<MsgObj>COLOR,4,紫色</MsgObj>品质以上属性！"
+	},
+	
+	{
+		"msgId" : 1273,
+		"msgKey" : "refresh_red",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>将<MsgObj>ITEM,{$1}</MsgObj>洗炼出<MsgObj>COLOR,2,{$2}</MsgObj>条<MsgObj>COLOR,6,红色</MsgObj>极品属性!"
+	},
+	
+	{
+		"msgId" : 1274,
+		"msgKey" : "five_ele_invalid",
+		"msgValue" : "真可惜，什么都没有发生！！！"
+	},
+	
+	{
+		"broadcastLevel" : 5,
+		"msgId" : 1275,
+		"msgKey" : "guild_prmt_notice",
+		"msgValue" : "{$1}分钟之后即将开启仙盟争霸活动，请符合资格的仙盟做好参赛准备"
+	},
+	
+	{
+		"broadcastLevel" : 5,
+		"msgId" : 1276,
+		"msgKey" : "guild_prmt_open",
+		"msgValue" : "仙盟争霸活动正式开启，谁能名震三界，大家拭目以待"
+	},
+	
+	{
+		"broadcastLevel" : 5,
+		"msgId" : 1277,
+		"msgKey" : "guild_prmt_close",
+		"msgValue" : "仙盟争霸活动已结束"
+	},
+	
+	{
+		"msgId" : 1278,
+		"msgKey" : "guild_prmt_occupy",
+		"msgValue" : "{$1}仙盟已成功夺取{$2}个水晶！"
+	},
+	
+	{
+		"msgId" : 1279,
+		"msgKey" : "guild_prmt_alc_win",
+		"msgValue" : "盟主将连胜奖励发放给<MsgObj>PLAYER,0</MsgObj>！"
+	},
+	
+	{
+		"msgId" : 1280,
+		"msgKey" : "guild_prmt_alc_ewin",
+		"msgValue" : "盟主将终结奖励发放给<MsgObj>PLAYER,0</MsgObj>！"
+	},
+	
+	{
+		"msgId" : 1281,
+		"msgKey" : "guild_prmt_win1",
+		"msgValue" : "在<MsgObj>PLAYER,0</MsgObj>的带领下，{$1}仙盟获得神级赛区冠军，名震三界"
+	},
+	
+	{
+		"msgId" : 1282,
+		"msgKey" : "guild_prmt_win2",
+		"msgValue" : "在<MsgObj>PLAYER,0</MsgObj>的带领下，{$1}仙盟蝉联{$2}届神级赛区冠军，名震三界"
+	},
+	
+	{
+		"msgId" : 1283,
+		"msgKey" : "guild_prmt_kill3",
+		"msgValue" : "代表{$1}的<MsgObj>PLAYER,0</MsgObj>获得3连杀，威名初现"
+	},
+	
+	{
+		"msgId" : 1284,
+		"msgKey" : "guild_prmt_kill5",
+		"msgValue" : "代表{$1}的<MsgObj>PLAYER,0</MsgObj>获得5连杀，威名远扬"
+	},
+	
+	{
+		"msgId" : 1285,
+		"msgKey" : "guild_prmt_kill10",
+		"msgValue" : "代表{$1}的<MsgObj>PLAYER,0</MsgObj>获得10连杀，无人能挡"
+	},
+	
+	{
+		"msgId" : 1286,
+		"msgKey" : "guild_prmt_kill15",
+		"msgValue" : "代表{$1}的<MsgObj>PLAYER,0</MsgObj>获得15连杀，谁与争锋"
+	},
+	
+	{
+		"msgId" : 1287,
+		"msgKey" : "guild_prmt_kill20",
+		"msgValue" : "代表{$1}的<MsgObj>PLAYER,0</MsgObj>获得20连杀，神一般的存在"
+	},
+	
+	{
+		"msgId" : 1289,
+		"msgKey" : "guild_prmt_end_kill",
+		"msgValue" : "代表{$1}的<MsgObj>PLAYER,0</MsgObj>终结了<MsgObj>PLAYER,1</MsgObj>的连杀记录"
+	},
+	
+	{
+		"msgId" : 1290,
+		"msgKey" : "guild_prmt_g_a_r",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>成为神殿掌控者，领取了盟主奖励，真是羡煞旁人。"
+	},
+	
+	{
+		"msgId" : 1300,
+		"msgKey" : "guild_red_pac_system",
+		"msgValue" : "{$1}仙盟的<MsgObj>PLAYER,0</MsgObj>大手一挥给盟友们发放了<MsgObj>COLOR,2,{$2}绑定元宝</MsgObj>的红包，真是壕气冲天！"
+	},
+	
+	{
+		"msgId" : 1301,
+		"msgKey" : "guild_red_pac_player",
+		"msgValue" : "{$1}仙盟的<MsgObj>PLAYER,0</MsgObj>大手一挥给盟友们发放了<MsgObj>COLOR,2,{$2}{$3}</MsgObj>的红包，真是壕气冲天！"
+	},
+	
+	{
+		"msgId" : 1302,
+		"msgKey" : "active_more_exp_open",
+		"msgValue" : "双倍经验活动已开启，怪物基础经验提高<MsgObj>COLOR,2,100%</MsgObj>，众位仙友抓紧时间升级吧"
+	},
+	
+	{
+		"msgId" : 1303,
+		"msgKey" : "active_more_exp_end",
+		"msgValue" : "双倍经验活动已结束，请期待下次活动吧"
+	},
+	
+	{
+		"msgId" : 1304,
+		"msgKey" : "guild_party_reward",
+		"msgValue" : "恭喜<MsgObj>COLOR,3,{$1}</MsgObj>在仙盟答题中位列第{$2}，获得<MsgObj>COLOR,2,{$3}绑定元宝</MsgObj>红包奖励！"
+	},
+	
+	{
+		"msgId" : 1305,
+		"msgKey" : "peace_field_notice",
+		"msgValue" : "<MsgObj>COLOR,7,战场之魂</MsgObj>即将在<MsgObj>COLOR,2,{$1}分钟</MsgObj>后开启，请各位仙友做好准备！"
+	},
+	
+	{
+		"msgId" : 1306,
+		"msgKey" : "peace_field_open",
+		"msgValue" : "<MsgObj>COLOR,7,战场之魂</MsgObj>活动已开启，请各位仙友前往参与！"
+	},
+	
+	{
+		"msgId" : 1308,
+		"msgKey" : "cloud_buy_reward",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>在限时云购中获得了云购大奖<MsgObj>ITEM,{$1}</MsgObj>，真是运气爆棚！"
+	},
+	
+	{
+		"msgId" : 1309,
+		"msgKey" : "t_d_s_b_r",
+		"msgValue" : "{$1}已经刷出，击杀获得大量灵魂和仙魂石！"
+	},
+	
+	{
+		"msgId" : 1323,
+		"msgKey" : "battle_field_kill_bo",
+		"msgValue" : "<MsgObj>CAMP,{$1}</MsgObj>阵营的<MsgObj>PLAYER,0</MsgObj>击败了<MsgObj>BOSS,{$2}</MsgObj>，为阵营增加{$3}积分。"
+	},
+	
+	{
+		"msgId" : 1324,
+		"msgKey" : "battle_result_draw",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>在切磋中和<MsgObj>PLAYER,1</MsgObj>战成平手。"
+	},
+	
+	{
+		"msgId" : 1325,
+		"msgKey" : "battle_result_win",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>在切磋中战胜了<MsgObj>PLAYER,1</MsgObj>。"
+	},
+	
+	{
+		"msgId" : 1326,
+		"msgKey" : "boss_born",
+		"msgValue" : "各路修真者，穷凶恶煞的“<MsgObj>BOSS,{$1}</MsgObj>”在<MsgObj>COLOR,2,{$2}</MsgObj>中横空出现，请<MsgObj>MAPPOINT,{$3},{$4},{$5},火速前往</MsgObj>击败。"
+	},
+	
+	{
+		"msgId" : 1327,
+		"msgKey" : "boss_drop_guild_pri",
+		"msgValue" : "<MsgObj>GUILD,{$1}</MsgObj>仙盟击败了<MsgObj>BOSS,{$2}</MsgObj>，<MsgObj>PLAYER,{$3}</MsgObj>人品爆发获得{$4}！"
+	},
+	
+	{
+		"msgId" : 1329,
+		"msgKey" : "boss_field_kill_boss",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>击败了{$1}级怪物<MsgObj>PLAYER,1</MsgObj>，获得荣誉{$2}，<MsgObj>CAMP,{$3}</MsgObj>阵营获得积分{$4}。"
+	},
+	
+	{
+		"msgId" : 1331,
+		"msgKey" : "b_d_g_s_prize",
+		"msgValue" : "<MsgObj>PLAYER,{$1}</MsgObj>，击败<MsgObj>BOSS,{$2}</MsgObj>，获得{$3}！"
+	},
+	
+	{
+		"msgId" : 1332,
+		"msgKey" : "b_f_c_re_time",
+		"msgValue" : "剑仙战场已结束，将在{$1}秒后关闭。"
+	},
+	
+	{
+		"msgId" : 1333,
+		"msgKey" : "b_f_c_r_time",
+		"msgValue" : "剑仙战场已结束，将在{$1}秒后关闭。"
+	},
+	
+	{
+		"msgId" : 1334,
+		"msgKey" : "b_f_max_c_kill",
+		"msgValue" : "<MsgObj>CAMP,{$1}</MsgObj>阵营的<MsgObj>PLAYER,0</MsgObj>，在剑仙战场中奋勇战斗，连斩达到{$2}人，额外获得{$3}荣誉奖励。"
+	},
+	
+	{
+		"msgId" : 1335,
+		"msgKey" : "b_f_m_c_kill",
+		"msgValue" : "<MsgObj>CAMP,{$1}</MsgObj>阵营的<MsgObj>PLAYER,0</MsgObj>，在剑仙战场中奋勇战斗，连斩达到{$2}人，额外获得{$3}荣誉奖励。"
+	},
+	
+	{
+		"msgId" : 1336,
+		"msgKey" : "b_f_o_re_time",
+		"msgValue" : "剑仙战场将在{$1}分钟后开启。"
+	},
+	
+	{
+		"msgId" : 1337,
+		"msgKey" : "b_f_o_r_time",
+		"msgValue" : "剑仙战场将在{$1}分钟后开启。"
+	},
+	
+	{
+		"msgId" : 1338,
+		"msgKey" : "b_f_p_inspire",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>通过献祭，感动仙人下凡指点，学得{$1}"
+	},
+	
+	{
+		"msgId" : 1339,
+		"msgKey" : "camp_union",
+		"msgValue" : "<MsgObj>CAMP,{$1}</MsgObj>PK过于凶残，<MsgObj>CAMP,{$2}</MsgObj>与<MsgObj>CAMP,{$3}</MsgObj>结成同盟！"
+	},
+	
+	{
+		"msgId" : 1340,
+		"msgKey" : "camp_win",
+		"msgValue" : "<MsgObj>CAMP,{$1}</MsgObj>阵营在<MsgObj>PLAYER,0</MsgObj>的带领下，英勇战斗，获得总积分第一，参加剑仙战场的<MsgObj>CAMP,{$2}</MsgObj>阵营玩家最多获得{$3}荣誉奖励。"
+	},
+	
+	{
+		"msgId" : 1343,
+		"msgKey" : "c_h_f_reward_1",
+		"msgValue" : "喜讯喜讯,喜庆度全满了,系统要给大家发礼品囖,所有在广寒宫的玩家都将获得<MsgObj>ITEM,{$1}</MsgObj>以及1小时的BUFF状态。"
+	},
+	
+	{
+		"msgId" : 1344,
+		"msgKey" : "c_h_f_reward_2",
+		"msgValue" : "喜讯喜讯,喜庆度全满了,系统要给大家发礼品囖,所有在广寒宫的玩家都将获得<MsgObj>ITEM,{$1}</MsgObj>以及1小时的BUFF状态。下轮烟花活动将于明天12:00继续开启。"
+	},
+	
+	{
+		"msgId" : 1345,
+		"msgKey" : "cell_h_t_reward",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>燃放庆典烟花使喜庆度达到{$1},获得<MsgObj>ITEM,{$2}</MsgObj>,请大家再接再厉！"
+	},
+	
+	{
+		"msgId" : 1353,
+		"msgKey" : "colddrink_opposite_s",
+		"msgValue" : "【{$1}】拿着冰饮，殷勤地递向【{$2}】，讨好地说：美女/帅哥，来一杯！"
+	},
+	
+	{
+		"msgId" : 1354,
+		"msgKey" : "colddrink_same_sex",
+		"msgValue" : "【{$2}】拿着冰爽的饮料，心情欢快地说，谢谢你的冰杯，干杯！"
+	},
+	
+	{
+		"msgId" : 1355,
+		"msgKey" : "copy_invite",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>:<MsgObj>COLOR,7,{$1}</MsgObj>副本开组，<MsgObj>COLOR,7,{$2}级</MsgObj>以上玩家欢迎<MsgObj>APPLYTOTEAM,0</MsgObj><MsgObj>LEVELLIMIT,{$2}</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1358,
+		"msgKey" : "cornucopia",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>的聚宝盆空空如也~好友们赶紧来相互祝福吧~<MsgObj>CornucopiaBless,{$1},{$2}</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1362,
+		"msgKey" : "create_guild",
+		"msgValue" : "江湖风云起，<MsgObj>PLAYER,{$1}</MsgObj>创建仙盟<MsgObj>GUILD,{$2}</MsgObj>，即将名扬四海！<MsgObj>FASTAPPLYTOGUILD,{$3},立即加入</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1371,
+		"msgKey" : "c_boss_s_notice",
+		"msgValue" : "野外<MsgObj>BOSS,赤炎金猊</MsgObj>将携带大量宝物（包括<MsgObj>ITEM,{$1}</MsgObj>）于21:30分降临<MsgObj>COLOR,3,云中界-虚灵洞天</MsgObj>并关闭入口，请70级以上玩家提前进入<MsgObj>MAPPOINT,500103,92,164</MsgObj>。"
+	},
+	
+	{
+		"msgId" : 1377,
+		"msgKey" : "cross_maze_get_first",
+		"msgValue" : "恭喜<MsgObj>PLAYER,{$1}</MsgObj>成为幻月迷宫第一人，登顶时间仅为{$2}分{$3}秒！"
+	},
+	
+	{
+		"msgId" : 1378,
+		"msgKey" : "cross_maze_get_top",
+		"msgValue" : "<MsgObj>PLAYER,{$1}</MsgObj>历经艰难，终于在{$2}分{$3}秒成功登顶幻月迷宫！"
+	},
+	
+	{
+		"msgId" : 1379,
+		"msgKey" : "cross_stair_close",
+		"msgValue" : "<MsgObj>COLOR,7,青云之巅</MsgObj>活动已经结束，赶紧提升你的战力吧，做好准备为下次巅峰相遇！"
+	},
+	
+	{
+		"msgId" : 1380,
+		"msgKey" : "c_s_c_notice",
+		"msgValue" : "修罗乱武将在10秒钟后关闭。"
+	},
+	
+	{
+		"msgId" : 1383,
+		"msgKey" : "c_stair_op_notice",
+		"msgValue" : "<MsgObj>COLOR,7,青云之巅</MsgObj>活动将在<MsgObj>COLOR,2,{$1}分钟</MsgObj>后开始，<MsgObj>COLOR,2,{$2}级</MsgObj>以上的玩家可以参与活动，巅峰之战等你来战！"
+	},
+	
+	{
+		"msgId" : 1385,
+		"msgKey" : "cross_trumpet_site",
+		"msgValue" : "您的跨服传音信息排在第{$1}位置，请耐心等待。"
+	},
+	
+	{
+		"msgId" : 1386,
+		"msgKey" : "cutmoney_open",
+		"msgValue" : "天降横财活动已开启，请各位仙友尽情享受切金币的快感"
+	},
+	
+	{
+		"msgId" : 1387,
+		"msgKey" : "cutmoney_prepare",
+		"msgValue" : "天降横财活动将在5分钟后开启，即将迎来手指和金币的亲密接触"
+	},
+	
+	{
+		"msgId" : 1388,
+		"msgKey" : "c_b_o_re_time",
+		"msgValue" : "碧海银滩将在{$1}分钟后开启。"
+	},
+	
+	{
+		"msgId" : 1405,
+		"msgKey" : "c_s_o_r_time",
+		"msgValue" : "全民海滩将在{$1}分钟后开启。"
+	},
+	
+	{
+		"msgId" : 1406,
+		"msgKey" : "c_t_b_bc",
+		"msgValue" : "S{$1}服的【<MsgObj>PLAYER,{$2}</MsgObj>】在挖宝中惊醒了宝箱守护者，谁能对其造成最多次数的伤害，大宝箱就归谁啦！！<MsgObj>CONVEYPOINT, {$3} , {$4} ,  {$5} ,我要抢宝</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1409,
+		"msgKey" : "soul_smelt_s_m",
+		"msgValue" : "原有灵魂的等级已转移到新的灵魂中！"
+	},
+	
+	{
+		"msgId" : 1410,
+		"msgKey" : "soul_smelt_s",
+		"msgValue" : "操作成功！新的灵魂已放入背包"
+	},
+	
+	{
+		"msgId" : 1411,
+		"msgKey" : "active_rank_105",
+		"msgValue" : "{$1}已结束，<MsgObj>COLOR,3,{$2}</MsgObj>分别夺得了<MsgObj>COLOR,2,{$3}</MsgObj>名！"
+	},
+	
+	{
+		"msgId" : 1412,
+		"msgKey" : "active_rank0",
+		"msgValue" : "{$1}已结束，本期活动没有玩家上榜，希望各位仙友继续努力。"
+	},
+	
+	{
+		"msgId" : 1414,
+		"msgKey" : "active_rank1_105",
+		"msgValue" : "{$1}已结束，<MsgObj>COLOR,3,{$2}</MsgObj>夺得了第<MsgObj>COLOR,2,{$3}</MsgObj>名！"
+	},
+	
+	{
+		"msgId" : 1415,
+		"msgKey" : "modify_role_name",
+		"msgValue" : "玩家<MsgObj>COLOR,3,{$1}</MsgObj>逆天改命，正式改名为<MsgObj>PLAYER,0</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1416,
+		"msgKey" : "open_ac_rand_gift",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>在<MsgObj>COLOR,3,端午活动</MsgObj>中使用<MsgObj>ITEM,{$1}</MsgObj>获得了极品<MsgObj>ITEM,{$2}</MsgObj>。<MsgObj>CARNIVALACT,我要参加</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1417,
+		"msgKey" : "activity",
+		"msgValue" : "玩家<MsgObj>PLAYER,0</MsgObj>领取了活动<MsgObj>COLOR,2,{$1}</MsgObj>的<MsgObj>COLOR,2,{$2}</MsgObj>嗨点奖励，其它仙友也要继续努力哟！<MsgObj>PEOPLEHEY,我也要领</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1418,
+		"msgKey" : "update_guild_name",
+		"msgValue" : "仙盟<MsgObj>COLOR,3,[{$1}]</MsgObj>正式更名为<MsgObj>COLOR,3,[{$2}]</MsgObj>，愿大家齐心协力，共创辉煌！"
+	},
+	
+	{
+		"msgId" : 1420,
+		"msgKey" : "guild_vein_type_1",
+		"msgValue" : "剑意"
+	},
+	
+	{
+		"msgId" : 1421,
+		"msgKey" : "guild_vein_type_2",
+		"msgValue" : "固本"
+	},
+	
+	{
+		"msgId" : 1422,
+		"msgKey" : "guild_vein_type_3",
+		"msgValue" : "铁壁"
+	},
+	
+	{
+		"msgId" : 1423,
+		"msgKey" : "guild_vein_type_4",
+		"msgValue" : "基础防御"
+	},
+	
+	{
+		"msgId" : 1424,
+		"msgKey" : "guild_vein_type_5",
+		"msgValue" : "基础闪避"
+	},
+	
+	{
+		"msgId" : 1425,
+		"msgKey" : "guild_vein_type_6",
+		"msgValue" : "基础命中"
+	},
+	
+	{
+		"msgId" : 1426,
+		"msgKey" : "guild_vein_type_11",
+		"msgValue" : "五行攻击"
+	},
+	
+	{
+		"msgId" : 1427,
+		"msgKey" : "guild_vein_type_12",
+		"msgValue" : "五行防御"
+	},
+	
+	{
+		"msgId" : 1428,
+		"msgKey" : "beastIsland_c_r",
+		"msgValue" : "<MsgObj>COLOR,3,{$1}</MsgObj>的<MsgObj>COLOR,6,{$2}</MsgObj>已经刷新，仙友们速去采集！<MsgObj>BOSS_SYSTEM,{$3},{$4},{$5},立即前往</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1429,
+		"msgKey" : "beastIsland_e_r",
+		"msgValue" : "<MsgObj>COLOR,3,{$1}</MsgObj>的<MsgObj>COLOR,6,{$2}</MsgObj>已经刷新，仙友们速去击杀！<MsgObj>BOSS_SYSTEM,{$3},{$4},{$5},立即前往</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1430,
+		"msgKey" : "beastIsland_c_a_c",
+		"msgValue" : "宠物岛的{$1}已被采尽，请留意下一次刷新！"
+	},
+	
+	{
+		"msgId" : 1431,
+		"msgKey" : "JewelRefine",
+		"msgValue" : "玩家<MsgObj>PLAYER,0</MsgObj>将<MsgObj>ITEM,{$1}</MsgObj>宝石精炼到<MsgObj>COLOR,2,{$2}</MsgObj>级，实力大增！"
+	},
+	
+	{
+		"broadcastLevel" : 4,
+		"msgId" : 1462,
+		"msgKey" : "MgRecharge",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>领取了累计充值<MsgObj>COLOR,2,{$1}</MsgObj>元宝的奖励，获得{$2}"
+	},
+	
+	{
+		"msgId" : 1464,
+		"msgKey" : "MgConsume",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>领取了累计消费<MsgObj>COLOR,2,{$1}</MsgObj>元宝的奖励，获得{$2}"
+	},
+	
+	{
+		"msgId" : 1465,
+		"msgKey" : "CloudBuyReward",
+		"msgValue" : "玩家<MsgObj>PLAYER,0</MsgObj>在限时云购中获得了{$1}，真是可喜可贺。<MsgObj>CLOUDBUY,我要云购</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1466,
+		"msgKey" : "CloudBuyOpen",
+		"msgValue" : "新的一轮云购活动已经开启了，奖励丰富，众仙友速速参与吧。<MsgObj>CLOUDBUY,我要云购</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1467,
+		"msgKey" : "ShopSeckillBuy",
+		"msgValue" : "玩家<MsgObj>PLAYER,0</MsgObj>以惊人手速在特惠秒杀中以<MsgObj>COLOR,2,{$1}</MsgObj>元宝抢购到极品{$2}，当前还剩余<MsgObj>COLOR,2,{$3}</MsgObj>份！<MsgObj>SECONDKILL,{$4},我要秒杀</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1468,
+		"msgKey" : "ShopSeckillOpen",
+		"msgValue" : "直击底价，后惠无期的<MsgObj>COLOR,2,特惠秒杀</MsgObj>开始啦！大量极品装备道具狂减至<MsgObj>COLOR,2,3折</MsgObj>，抢购一触即发！<MsgObj>SECONDKILL,{$1},我要秒杀</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1469,
+		"msgKey" : "MgGDNotice",
+		"msgValue" : "<MsgObj>COLOR,7,守护仙盟</MsgObj>活动将于<MsgObj>COLOR,2,{$1}分钟</MsgObj>后开启，请各仙盟做好准备！"
+	},
+	
+	{
+		"msgId" : 1470,
+		"msgKey" : "MgGDOpen",
+		"msgValue" : "<MsgObj>COLOR,7,守护仙盟</MsgObj>活动已经开启，各仙盟{$1}级以上仙友可前往击退敌军。<MsgObj>GAMEPLAY,点击前往,5015</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1471,
+		"msgKey" : "MgGDECNotice",
+		"msgValue" : "<MsgObj>COLOR,7,守护仙盟</MsgObj>活动入口将于<MsgObj>COLOR,2,{$1}分钟</MsgObj>后关闭，请各盟仙友们抓紧进入副本。"
+	},
+	
+	{
+		"msgId" : 1472,
+		"msgKey" : "rune_smelt_s_m",
+		"msgValue" : "原有符文的等级已转移到新的符文中！"
+	},
+	
+	{
+		"msgId" : 1473,
+		"msgKey" : "rune_smelt_s",
+		"msgValue" : "操作成功！新的符文已放入背包。"
+	},
+	
+	{
+		"msgId" : 1474,
+		"msgKey" : "flower_kiss_back",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>收到你的鲜花，十分开心的嘟起小嘴儿，狠狠地啵了你一个。"
+	},
+	
+	{
+		"msgId" : 1476,
+		"msgKey" : "invest_active",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>参与了活动<MsgObj>COLOR,2,{$1}</MsgObj>，接下来<MsgObj>COLOR,2,{$2}</MsgObj>天内每天都可领取大量奖励！<MsgObj>MERGEINVEST,{$3},我也要投资</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1477,
+		"msgKey" : "active_boss_pre_open",
+		"msgValue" : "{$1}即将在<MsgObj>COLOR,2,{$2}</MsgObj>分钟后开启，请各位仙友做好准备！"
+	},
+	
+	{
+		"msgId" : 1478,
+		"msgKey" : "active_boss_open",
+		"msgValue" : "{$1}携带大量宝物躲藏在世界地图1线各个角落，各位仙友赶紧找出BOSS抢夺宝箱吧！"
+	},
+	
+	{
+		"msgId" : 1479,
+		"msgKey" : "active_boss_pre_c",
+		"msgValue" : "{$1}活动还有<MsgObj>COLOR,2,{$2}</MsgObj>分钟即将结束，当前还有<MsgObj>COLOR,2,{$3}</MsgObj>个BOSS请仙友们抓紧时间击杀。"
+	},
+	
+	{
+		"msgId" : 1480,
+		"msgKey" : "active_boss_close",
+		"msgValue" : "本轮{$1}已结束，下次刷新时间为<MsgObj>COLOR,2,{$2}</MsgObj>，各位仙友再接再厉哦。"
+	},
+	
+	{
+		"msgId" : 1481,
+		"msgKey" : "active_boss_close2",
+		"msgValue" : "{$1}活动已结束，期待下次活动再见。"
+	},
+	
+	{
+		"msgId" : 1482,
+		"msgKey" : "MgGDCopy",
+		"msgValue" : "<MsgObj>COLOR,7,守护仙盟</MsgObj>副本已经开启，仙友们赶紧进入副本参与防守！"
+	},
+	
+	{
+		"msgId" : 1483,
+		"msgKey" : "MgGDSR",
+		"msgValue" : "<MsgObj>COLOR,6,{$1}</MsgObj>突袭神女，请火速救援！"
+	},
+	
+	{
+		"msgId" : 1484,
+		"msgKey" : "MgGdCopyE",
+		"msgValue" : "本次守护仙盟活动已结束，请各仙友下次再接再厉。"
+	},
+	
+	{
+		"msgId" : 1485,
+		"msgKey" : "activity_merge",
+		"msgValue" : "玩家<MsgObj>PLAYER,0</MsgObj>领取了活动<MsgObj>COLOR,2,{$1}</MsgObj>的<MsgObj>COLOR,2,{$2}</MsgObj>嗨点奖励，其它仙友也要继续努力哟！<MsgObj>MERGEPEOPLEHEY,我也要领</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1486,
+		"msgKey" : "active_boss_die",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>在<MsgObj>COLOR,7,{$1}</MsgObj>将<MsgObj>COLOR,6,{$2}</MsgObj>KO在地，散落一地宝箱！当前还剩<MsgObj>COLOR,2,{$3}</MsgObj>个BOSS，仙友们继续加油哦！"
+	},
+	
+	{
+		"msgId" : 1487,
+		"msgKey" : "invest_plan_2",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>在巅峰投资中存入<MsgObj>COLOR,2,{$1}</MsgObj>元宝，总共可领取十倍返利！"
+	},
+	
+	{
+		"msgId" : 1488,
+		"msgKey" : "deity_page_4",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>完成了天书寻主任务，获得了<MsgObj>COLOR,4,{$1}</MsgObj>奖励，PVP战斗中减少伤害<MsgObj>COLOR,2,10%</MsgObj>！"
+	},
+	
+	{
+		"msgId" : 1499,
+		"msgKey" : "active_boss_subline",
+		"msgValue" : "该分线已爆满，系统自动帮您切换至其他分线。请选择其他BOSS击杀或稍后再试。"
+	},
+	
+	{
+		"msgId" : 1500,
+		"msgKey" : "flower_99",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>收到<MsgObj>PLAYER,1</MsgObj>赠送的<MsgObj>COLOR,4,{$1}</MsgObj>，魅力上涨<MsgObj>COLOR,2,{$2}</MsgObj>，太幸福啦！"
+	},
+	
+	{
+		"msgId" : 1501,
+		"msgKey" : "flower_999",
+		"msgValue" : "哇！魅力天下无双的<MsgObj>PLAYER,0</MsgObj>收到<MsgObj>PLAYER,1</MsgObj>赠送的<MsgObj>COLOR,4,{$1}</MsgObj>，魅力暴增<MsgObj>COLOR,2,{$2}</MsgObj>，真是羡煞旁人！"
+	},
+	
+	{
+		"msgId" : 1502,
+		"msgKey" : "flower_an_99",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>收到某人赠送的<MsgObj>COLOR,4,{$1}</MsgObj>，魅力上涨<MsgObj>COLOR,2,{$2}</MsgObj>，太幸福啦！"
+	},
+	
+	{
+		"msgId" : 1503,
+		"msgKey" : "flower_an_999",
+		"msgValue" : "哇！魅力天下无双的<MsgObj>PLAYER,0</MsgObj>收到某人赠送的<MsgObj>COLOR,4,{$1}</MsgObj>，魅力暴增<MsgObj>COLOR,2,{$2}</MsgObj>，真是羡煞旁人！"
+	},
+	
+	{
+		"msgId" : 1504,
+		"msgKey" : "lottery_box",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>人品大爆发，燃放{$1}时天降好礼获得<MsgObj>ITEM,{$2}</MsgObj>。<MsgObj>CARNIVALACT,我要燃放</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1505,
+		"msgKey" : "active_boss_die_2",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>在<MsgObj>COLOR,7,{$1}</MsgObj>将<MsgObj>COLOR,6,{$2}</MsgObj>KO在地，散落一地宝箱！当前boss已被击杀完毕，本轮活动已经结束。"
+	},
+	
+	{
+		"msgId" : 1506,
+		"msgKey" : "shapeChgPetEx",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>成功激活<MsgObj>COLOR,2,{$1}</MsgObj>，颜值飙升！各种稀有皮肤等你来拿！"
+	},
+	
+	{
+		"msgId" : 1508,
+		"msgKey" : "smelt_equip_pink",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>成功合成神装<MsgObj>ITEM,{$1}</MsgObj>，战斗力扶摇直上九万里!"
+	},
+	
+	{
+		"msgId" : 1509,
+		"msgKey" : "lottery_tresure",
+		"msgValue" : "天降洪福，<MsgObj>PLAYER,0</MsgObj>在{$1}中获得了<MsgObj>ITEM,{$2}</MsgObj>*{$3}。<MsgObj>LUCKYTREASURE,我要鉴宝,{$4}</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1510,
+		"msgKey" : "marry_apply_acc",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>和<MsgObj>PLAYER,1</MsgObj>喜结良缘，结成仙侣，让我们共同见证他们的爱情！"
+	},
+	
+	{
+		"msgId" : 1511,
+		"msgKey" : "active_rank_113",
+		"msgValue" : "{$1}活动已经结束，恭喜帅气逼人的<MsgObj>COLOR,3,{$2}</MsgObj>分别夺得<MsgObj>COLOR,2,{$3}</MsgObj>名！"
+	},
+	
+	{
+		"msgId" : 1513,
+		"msgKey" : "active_rank1_113",
+		"msgValue" : "{$1}活动已经结束，恭喜帅气逼人的<MsgObj>COLOR,3,{$2}</MsgObj>夺得第<MsgObj>COLOR,2,{$3}</MsgObj>名！"
+	},
+	
+	{
+		"msgId" : 1514,
+		"msgKey" : "active_rank_114",
+		"msgValue" : "{$1}活动已经结束，恭喜艳压群芳的<MsgObj>COLOR,3,{$2}</MsgObj>分别夺得<MsgObj>COLOR,2,{$3}</MsgObj>名！"
+	},
+	
+	{
+		"msgId" : 1516,
+		"msgKey" : "active_rank1_114",
+		"msgValue" : "{$1}活动已经结束，恭喜艳压群芳的<MsgObj>COLOR,3,{$2}</MsgObj>夺得第<MsgObj>COLOR,2,{$3}</MsgObj>名！"
+	},
+	
+	{
+		"msgId" : 1517,
+		"msgKey" : "marry_divorce",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>和<MsgObj>PLAYER,1</MsgObj>缘分已尽，解除仙侣关系，恢复自由身。"
+	},
+	
+	{
+		"msgId" : 1519,
+		"msgKey" : "wedding_notic",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>与<MsgObj>PLAYER,1</MsgObj>举办的{$1}还有5分钟就开始啦,让我们一起祝福这对新人幸福到永久吧!"
+	},
+	
+	{
+		"msgId" : 1520,
+		"msgKey" : "wedding_start",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>与<MsgObj>PLAYER,1</MsgObj>举办的{$1}正式开始啦,让我们一起祝福这对新人幸福到永久吧!"
+	},
+	
+	{
+		"msgId" : 1525,
+		"msgKey" : "mg_battle_prepare",
+		"msgValue" : "<MsgObj>COLOR,2,{$1}分钟</MsgObj>之后将开启<MsgObj>COLOR,7,神魔战场</MsgObj>跨服活动，请符合要求的仙友做好参赛准备！"
+	},
+	
+	{
+		"msgId" : 1526,
+		"msgKey" : "mg_battle_open",
+		"msgValue" : "<MsgObj>COLOR,7,神魔战场</MsgObj>跨服活动，正式开启，谁能称霸各域，吾等拭目以待！"
+	},
+	
+	{
+		"msgId" : 1527,
+		"msgKey" : "mg_battle_close",
+		"msgValue" : "<MsgObj>COLOR,7,神魔战场</MsgObj>跨服活动已全部结束，期待你们下一次战场的表现！"
+	},
+	
+	{
+		"msgId" : 1528,
+		"msgKey" : "battle_first_blood",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>勇冠三军，击杀敌方<MsgObj>PLAYER,1</MsgObj>，率先获得一血！"
+	},
+	
+	{
+		"msgId" : 1529,
+		"msgKey" : "battle_first_tower",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>一骑当先，率先攻破敌方一塔，为己方赢得大量积分！"
+	},
+	
+	{
+		"msgId" : 1530,
+		"msgKey" : "battle_push_tower",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>代表<MsgObj>COLOR,5,{$1}</MsgObj>，摧毁敌方一座防御塔，士气大振！"
+	},
+	
+	{
+		"msgId" : 1531,
+		"msgKey" : "battle_kill_10",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>一夫当关，已为<MsgObj>COLOR,5,{$1}</MsgObj>连斩敌方10人，威名远播！"
+	},
+	
+	{
+		"msgId" : 1532,
+		"msgKey" : "battle_kiil_20",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>勇冠三军，已<MsgObj>COLOR,5,{$1}</MsgObj>连斩敌方20人，简直不可一世！"
+	},
+	
+	{
+		"msgId" : 1533,
+		"msgKey" : "battle_kill_30",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>一骑当千，已为<MsgObj>COLOR,5,{$1}</MsgObj>连斩敌方30人，谁能挡他！"
+	},
+	
+	{
+		"msgId" : 1534,
+		"msgKey" : "battle_kill_40",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>俾睨天下，已为<MsgObj>COLOR,5,{$1}</MsgObj>连斩敌方40人，杀敌犹如砍瓜切菜！"
+	},
+	
+	{
+		"msgId" : 1535,
+		"msgKey" : "battle_kill_50",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>开挂了，已为<MsgObj>COLOR,5,{$1}</MsgObj>连斩敌方50人，已无词形容，快终结他吧！"
+	},
+	
+	{
+		"msgId" : 1536,
+		"msgKey" : "battle_kill_end",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>一骑当先，将杀神<MsgObj>PLAYER,1</MsgObj>斩于马下，己方士气大涨！"
+	},
+	
+	{
+		"msgId" : 1537,
+		"msgKey" : "battle_pick_buffer",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>鸿运当头，拾取了<MsgObj>COLOR,5,{$1}</MsgObj>，{$2}！"
+	},
+	
+	{
+		"msgId" : 1538,
+		"msgKey" : "battle_tower_hurt",
+		"msgValue" : "我方防御塔遭到攻击，大家速速回防！"
+	},
+	
+	{
+		"msgId" : 1539,
+		"msgKey" : "battle_crystal_hurt",
+		"msgValue" : "我方水晶遭到攻击，大家速速回防！"
+	},
+	
+	{
+		"msgId" : 1540,
+		"msgKey" : "battle_force_red",
+		"msgValue" : "神域"
+	},
+	
+	{
+		"msgId" : 1541,
+		"msgKey" : "battle_force_yellow",
+		"msgValue" : "魔域"
+	},
+	
+	{
+		"msgId" : 1542,
+		"msgKey" : "battle_rank_one",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>在神魔战场中积分排名第一，获得<MsgObj>COLOR,6,天神下凡</MsgObj>称号，天神之姿，无人可及！"
+	},
+	
+	{
+		"msgId" : 1543,
+		"msgKey" : "beast_beckon_add",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>使用<MsgObj>COLOR,2,神兽扩展卡</MsgObj>额外增加<MsgObj>COLOR,2,1个</MsgObj>神兽助战位置，战斗实力再次飙升！"
+	},
+	
+	{
+		"msgId" : 1544,
+		"msgKey" : "heart_lock_upgrade",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>通过不懈努力将同心锁升级至<MsgObj>COLOR,2,{$1}阶</MsgObj>，获得<MsgObj>ITEM,{$2}</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1545,
+		"msgKey" : "dragon_upgrade",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>将龙脉提升至<MsgObj>COLOR,2,{$1}阶</MsgObj>，战力暴增所向披靡！"
+	},
+	
+	{
+		"msgId" : 1546,
+		"msgKey" : "children_activate",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>喜得麟子<MsgObj>COLOR,2,{$1}</MsgObj>，父子齐上阵，气势无人挡！<MsgObj>CHILDREN,我要仙娃</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1547,
+		"msgKey" : "shapeChgMountEx",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>成功激活<MsgObj>COLOR,2,{$1}</MsgObj>，酷炫外形抓人眼球，各种稀有外形等你来拿！"
+	},
+	
+	{
+		"msgId" : 1548,
+		"msgKey" : "panic_buy",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>花费<MsgObj>COLOR,2,{$1}</MsgObj>元宝抢购到了<MsgObj>COLOR,2,{$2}</MsgObj>，获得{$3}!"
+	},
+	
+	{
+		"msgId" : 1549,
+		"msgKey" : "change_base_career",
+		"msgValue" : "玩家<MsgObj>PLAYER,0</MsgObj>使用了转职卡重塑肉身，谁说人生不可以重来。"
+	},
+	
+	{
+		"msgId" : 1550,
+		"msgKey" : "battle_rank_two",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>在神魔战场中积分排名第{$1}，获得<MsgObj>COLOR,5,斗战狂魔</MsgObj>称号，群魔恸殇，气冲斗牛！"
+	},
+	
+	{
+		"msgId" : 1551,
+		"msgKey" : "battle_rank_three",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>在神魔战场中积分排名第{$1}，获得<MsgObj>COLOR,4,神魔猎人</MsgObj>称号，傲视群雄，不可一世！"
+	},
+	
+	{
+		"msgId" : 1552,
+		"msgKey" : "lucky_stick",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>在{$1}中人品爆发摇出<MsgObj>COLOR,2,{$2}</MsgObj>，获得极品道具<MsgObj>ITEM,{$3}</MsgObj>!"
+	},
+	
+	{
+		"msgId" : 1553,
+		"msgKey" : "lucky_stick_1",
+		"msgValue" : "上上签"
+	},
+	
+	{
+		"msgId" : 1554,
+		"msgKey" : "lucky_stick_2",
+		"msgValue" : "上吉签"
+	},
+	
+	{
+		"msgId" : 1555,
+		"msgKey" : "hallow_activate",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>如有神助，成功激活神器<MsgObj>ARTIFACTS,{$1}</MsgObj>，已逐渐显示出天下无敌之姿！"
+	},
+	
+	{
+		"msgId" : 1556,
+		"msgKey" : "hallow_upgrade",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>成功将<MsgObj>ARTIFACTS,{$1}</MsgObj>提升到{$2}级，巅峰战力再次暴涨！"
+	},
+	
+	{
+		"msgId" : 1557,
+		"msgKey" : "hallow_attached",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>洪福齐天，神器<MsgObj>ARTIFACTS,{$1}</MsgObj>所有附灵属性全部激活，登顶仙道巅峰指日可待！"
+	},
+	
+	{
+		"msgId" : 1558,
+		"msgKey" : "smelt_beast_equip",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>成功合成了<MsgObj>COLOR,4,{$1}</MsgObj>星神兽{$2}<MsgObj>ITEM,{$3}</MsgObj>，实力大增！"
+	},
+	
+	{
+		"msgId" : 1559,
+		"msgKey" : "magpie_donate",
+		"msgValue" : "哇！<MsgObj>PLAYER,0</MsgObj>搭建鹊桥时感动织女，获得极品道具{$1}奖励！"
+	},
+	
+	{
+		"msgId" : 1560,
+		"msgKey" : "magpie_reward",
+		"msgValue" : "鹊桥搭建完成度达到<MsgObj>COLOR,2,{$1}</MsgObj>啦，牛郎织女答谢大家，赠送<MsgObj>COLOR,2,{$2}</MsgObj>小时<MsgObj>COLOR,3,{$3}</MsgObj>豪礼，希望大家再接再厉！"
+	},
+	
+	{
+		"msgId" : 1561,
+		"msgKey" : "use_firework_prop",
+		"msgValue" : "天上鹊桥见，人间今宵圆！七七浓情烟花盛典现在开始啦，在凌霄城燃放烟花将有机会获得珍贵道具！"
+	},
+	
+	{
+		"msgDesc" : "默认仙盟公告",
+		"msgId" : 1562,
+		"msgKey" : "guild_purpose",
+		"msgValue" : "1.捐献可以获得大量贡献 \\n2.贡献可用于升级仙盟心法，增加人物属性 \\n3.仙盟等级越高，可容纳人数越多\r\n"
+	},
+	
+	{
+		"msgId" : 1563,
+		"msgKey" : "shen_ji_refresh",
+		"msgValue" : "携带大量宝物的<MsgObj>COLOR,2,上古神使</MsgObj>和<MsgObj>COLOR,2,黄金精英怪</MsgObj>出现在<MsgObj>COLOR,3,{$1}</MsgObj>，<MsgObj>BOSS_SYSTEM,{$2},{$3},{$4},立即前往</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1564,
+		"msgKey" : "shen_ji_refresh_hide",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>在<MsgObj>COLOR,3,{$1}</MsgObj>击杀<MsgObj>COLOR,6,{$2}</MsgObj>，触动机关，隐藏的<MsgObj>COLOR,6,{$3}</MsgObj>出现在地图，<MsgObj>BOSS_SYSTEM,{$4},{$5},{$6},立即前往</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1565,
+		"msgKey" : "shen_ji_refresh_coll",
+		"msgValue" : "上古遗失的秘宝在<MsgObj>COLOR,3,{$1}</MsgObj>中出现，<MsgObj>BOSS_SYSTEM,{$2},{$3},{$4},立即前往</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1566,
+		"msgKey" : "charm_cross_rank",
+		"msgValue" : "恭喜<MsgObj>COLOR,7,{$1}</MsgObj>的<MsgObj>PLAYER,0</MsgObj>在<MsgObj>COLOR,2,{$2}</MsgObj>中夺得第<MsgObj>COLOR,2,{$3}</MsgObj>名，获得{$4}奖励。"
+	},
+	
+	{
+		"msgId" : 1567,
+		"msgKey" : "charm_cross_rank_all",
+		"msgValue" : "恭喜<MsgObj>COLOR,7,{$1}</MsgObj>的<MsgObj>PLAYER,0</MsgObj>为服争光，在<MsgObj>COLOR,2,{$2}</MsgObj>中夺得第一！与其所在同一服的玩家都可获得全服奖励！"
+	},
+	
+	{
+		"msgId" : 1568,
+		"msgKey" : "mg_guild_ba_notice",
+		"msgValue" : "<MsgObj>COLOR,2,{$1}分钟</MsgObj>之后即将开启跨服盟战，请符合资格的仙盟做好参赛准备。"
+	},
+	
+	{
+		"msgId" : 1569,
+		"msgKey" : "mg_guild_ba_start",
+		"msgValue" : "跨服盟战第{$1}轮开启，谁能名震世界服，大家拭目以待。"
+	},
+	
+	{
+		"msgId" : 1570,
+		"msgKey" : "mg_guild_ba_end_1",
+		"msgValue" : "跨服盟战第1轮已结束，5分钟后将进行第2轮。"
+	},
+	
+	{
+		"msgId" : 1571,
+		"msgKey" : "mg_guild_ba_month",
+		"msgValue" : "经过1个月的奋战，<MsgObj>COLOR,12,{$1}</MsgObj>仙盟获得跨服盟战第1名，傲视群雄！"
+	},
+	
+	{
+		"msgId" : 1572,
+		"msgKey" : "mg_guild_ba_ck3",
+		"msgValue" : "代表{$1}的<MsgObj>PLAYER,0</MsgObj>获得3连杀，威名初现。"
+	},
+	
+	{
+		"msgId" : 1573,
+		"msgKey" : "mg_guild_ba_ck5",
+		"msgValue" : "代表{$1}的<MsgObj>PLAYER,0</MsgObj>获得5连杀，威名远扬。"
+	},
+	
+	{
+		"msgId" : 1574,
+		"msgKey" : "mg_guild_ba_ck10",
+		"msgValue" : "代表{$1}的<MsgObj>PLAYER,0</MsgObj>获得10连杀，无人能挡。"
+	},
+	
+	{
+		"msgId" : 1575,
+		"msgKey" : "mg_guild_ba_ck15",
+		"msgValue" : "代表{$1}的<MsgObj>PLAYER,0</MsgObj>获得15连杀，谁与争锋。"
+	},
+	
+	{
+		"msgId" : 1576,
+		"msgKey" : "mg_guild_ba_ck20",
+		"msgValue" : "代表{$1}的<MsgObj>PLAYER,0</MsgObj>获得20连杀，神一般的存在。"
+	},
+	
+	{
+		"msgId" : 1577,
+		"msgKey" : "mg_guild_ba_end_ck",
+		"msgValue" : "代表{$1}的<MsgObj>PLAYER,0</MsgObj>终结了<MsgObj>PLAYER,1</MsgObj>的连杀记录。"
+	},
+	
+	{
+		"msgId" : 1578,
+		"msgKey" : "use_firework_reward",
+		"msgValue" : "哇！恭喜<MsgObj>PLAYER,0</MsgObj>在凌霄城燃放<MsgObj>ITEM,{$1}</MsgObj>时，感动牛郎织女，获得极品<MsgObj>ITEM,{$2}</MsgObj>!"
+	},
+	
+	{
+		"msgId" : 1579,
+		"msgKey" : "equip",
+		"msgValue" : "装备"
+	},
+	
+	{
+		"msgId" : 1580,
+		"msgKey" : "pink_equip",
+		"msgValue" : "神装"
+	},
+	
+	{
+		"msgId" : 1581,
+		"msgKey" : "ask_flower",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>在<MsgObj>COLOR,2,{$1}</MsgObj>中请求帮助，希望大家可以赠TA一支玫瑰！<MsgObj>CROSSRANKCHARM,我要赠送</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1582,
+		"msgKey" : "magpie_reward_2",
+		"msgValue" : "鹊桥搭建完成度达到<MsgObj>COLOR,2,{$1}</MsgObj>啦，牛郎织女答谢大家，赠送{$2}，可在活动面板领取，希望大家再接再厉！"
+	},
+	
+	{
+		"msgId" : 1583,
+		"msgKey" : "mg_guild_ba_progress",
+		"msgValue" : "城门已被攻破，攻方士气大增，进入第二阶段！"
+	},
+	
+	{
+		"msgId" : 1584,
+		"msgKey" : "magpie_reward_5",
+		"msgValue" : "鹊桥搭建完成度达到<MsgObj>COLOR,2,{$1}</MsgObj>啦，牛郎织女答谢大家，重置BOSS的刷新时间，希望大家再接再厉！"
+	},
+	
+	{
+		"msgId" : 1585,
+		"msgKey" : "mg_guild_ba_door",
+		"msgValue" : "城门已被{$1}修复，守方士气大增！"
+	},
+	
+	{
+		"msgId" : 1586,
+		"msgKey" : "mg_guild_ba_end_2",
+		"msgValue" : "跨服盟战已结束，可到世界服查看具体盟战排名。"
+	},
+	
+	{
+		"broadcastLevel" : 1,
+		"msgId" : 1587,
+		"msgKey" : "generate_god_equip",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj> 成功合成 <MsgObj>ITEM,{$1}</MsgObj>，走上人生巅峰！"
+	},
+	
+	{
+		"msgId" : 1588,
+		"msgKey" : "upgrade_god_equip",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj> 成功将神装提升至 <MsgObj>ITEM,{$1}</MsgObj>，战力暴涨威压群雄！"
+	},
+	
+	{
+		"broadcastLevel" : 4,
+		"msgId" : 1589,
+		"msgKey" : "recharge_day_total",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>领取了价值<MsgObj>COLOR,6,{$1}元宝</MsgObj>的<MsgObj>COLOR,4,每日充值礼包</MsgObj>！<MsgObj>RechargeFirst,领取礼包</MsgObj>"
+	},
+	
+	{
+		"msgDesc" : "加入仙盟日志",
+		"msgId" : 1590,
+		"msgKey" : "guild_join_log",
+		"msgValue" : "[{$1}]加入了仙盟"
+	},
+	
+	{
+		"msgDesc" : "退出仙盟日志",
+		"msgId" : 1591,
+		"msgKey" : "guild_left_log",
+		"msgValue" : "[{$1}]与仙盟道不同志不合，离开了仙盟"
+	},
+	
+	{
+		"msgDesc" : "捐献铜钱日志",
+		"msgId" : 1592,
+		"msgKey" : "guild_donate_c_log",
+		"msgValue" : "[{$1}]捐献了 {$2} 铜钱"
+	},
+	
+	{
+		"msgDesc" : "捐献元宝日志",
+		"msgId" : 1593,
+		"msgKey" : "guild_donate_g_log",
+		"msgValue" : "[{$1}]捐献了 {$2} 元宝"
+	},
+	
+	{
+		"msgDesc" : "被踢出仙盟日志",
+		"msgId" : 1594,
+		"msgKey" : "guild_kickout_log",
+		"msgValue" : "[{$1}]被请离了仙盟"
+	},
+	
+	{
+		"msgDesc" : "职位变动日志",
+		"msgId" : 1595,
+		"msgKey" : "guild_cp_log",
+		"msgValue" : "[{$1}]的职位从 {$2} 变更为 {$3}"
+	},
+	
+	{
+		"msgId" : 1596,
+		"msgKey" : "boss_home_refresh",
+		"msgValue" : "<MsgObj>COLOR,7,BOSS之家所有BOSS刷新了，这里的BOSS携带大量珍稀道具，简直就是打宝天堂</MsgObj>。"
+	},
+	
+	{
+		"msgId" : 1597,
+		"msgKey" : "world_boss_notice",
+		"msgValue" : "<MsgObj>COLOR,7,世界BOSS</MsgObj>即将在<MsgObj>COLOR,2,{$1}分钟</MsgObj>后开启，请各位仙友做好准备！"
+	},
+	
+	{
+		"msgId" : 1598,
+		"msgKey" : "world_boss_open",
+		"msgValue" : "世界BOSS<MsgObj>COLOR,6,混沌帝江</MsgObj>霸据一方，危害人间太平，请各路仙友勠力同心，一同将凶兽驱赶他方。"
+	},
+	
+	{
+		"broadcastLevel" : 4,
+		"msgId" : 1599,
+		"msgKey" : "secret_boss_gift",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>在击破<MsgObj>COLOR,4,{$1}</MsgObj>的护盾时意外获得了<MsgObj>ITEM,{$2}</MsgObj>!"
+	},
+	
+	{
+		"broadcastLevel" : 5,
+		"msgId" : 1600,
+		"msgKey" : "position_notice",
+		"msgValue" : "阵地争夺活动将于<MsgObj>COLOR,2,{$1}分钟</MsgObj>后开启，四方仙友各显神通，争夺领地获得大量经验！"
+	},
+	
+	{
+		"broadcastLevel" : 5,
+		"msgId" : 1601,
+		"msgKey" : "position_open",
+		"msgValue" : "阵地争夺活动已开启，轻松获得大量经验，快来参与吧。<MsgObj>GAMEPLAY,点击前往,5031</MsgObj>"
+	},
+	
+	{
+		"broadcastLevel" : 5,
+		"msgId" : 1602,
+		"msgKey" : "position_close",
+		"msgValue" : "阵地争夺活动已结束，感谢各位仙友踊跃参与！"
+	},
+	
+	{
+		"msgId" : 1603,
+		"msgKey" : "mining_fail",
+		"msgValue" : "我失败了"
+	},
+	
+	{
+		"msgId" : 1604,
+		"msgKey" : "mining_super",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>雇佣了<MsgObj>COLOR,6,{$1}</MsgObj>，丰厚回报马上获得！<MsgObj>Arena,Mining,我要雇佣</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1605,
+		"msgKey" : "revenge_success",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>复仇成功，击败<MsgObj>PLAYER,1</MsgObj>并双倍拿回被抢夺的奖励。"
+	},
+	
+	{
+		"broadcastLevel" : 5,
+		"msgId" : 1606,
+		"msgKey" : "battle_bich_notice",
+		"msgValue" : "<MsgObj>COLOR,7,激战五洲</MsgObj>活动将于<MsgObj>COLOR,2,{$1}分钟</MsgObj>后开启，四方仙友各显神通，阵营对战获得剑池材料！"
+	},
+	
+	{
+		"broadcastLevel" : 5,
+		"msgId" : 1607,
+		"msgKey" : "battle_bich_open",
+		"msgValue" : "<MsgObj>COLOR,7,激战五洲</MsgObj>活动已开启，阵营对战获得剑池材料，请各位仙友快来参与吧。<MsgObj>GAMEPLAY,点击前往,5032</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1608,
+		"msgKey" : "battle_bich_close",
+		"msgValue" : "<MsgObj>COLOR,7,激战五洲</MsgObj>活动已结束，感谢各位仙友踊跃参与！"
+	},
+	
+	{
+		"msgId" : 1609,
+		"msgKey" : "generate_equip",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj> 成功合成 <MsgObj>ITEM,{$1}</MsgObj>，准备称霸全服了！"
+	},
+	
+	{
+		"msgId" : 1610,
+		"msgKey" : "battle_bich_kill_3",
+		"msgValue" : "<MsgObj>PLAYER,0,130</MsgObj><MsgObj>COLOR,2,正在大杀特杀！</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1611,
+		"msgKey" : "battle_bich_kill_4",
+		"msgValue" : "<MsgObj>PLAYER,0,130</MsgObj><MsgObj>COLOR,4,已经主宰比赛！</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1612,
+		"msgKey" : "battle_bich_kill_5",
+		"msgValue" : "<MsgObj>PLAYER,0,130</MsgObj><MsgObj>COLOR,4,已经杀伐滔天！</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1613,
+		"msgKey" : "battle_bich_kill_6",
+		"msgValue" : "<MsgObj>PLAYER,0,130</MsgObj><MsgObj>COLOR,5,已经无人能挡！</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1614,
+		"msgKey" : "battle_bich_kill_7",
+		"msgValue" : "<MsgObj>PLAYER,0,130</MsgObj><MsgObj>COLOR,5,已经变态杀戮！</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1615,
+		"msgKey" : "battle_bich_kill_8",
+		"msgValue" : "<MsgObj>PLAYER,0,130</MsgObj><MsgObj>COLOR,6,已经妖孽般的杀戮！</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1616,
+		"msgKey" : "battle_bich_kill_9",
+		"msgValue" : "<MsgObj>PLAYER,0,130</MsgObj><MsgObj>COLOR,6,已经如同神一般存在！</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1617,
+		"msgKey" : "battle_bich_kill_10",
+		"msgValue" : "<MsgObj>PLAYER,0,130</MsgObj><MsgObj>COLOR,7,已经超越神杀戮！！拜托谁去击败他吧！</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1618,
+		"msgKey" : "reach_goal1",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>转生数到达了<MsgObj>COLOR,6,{$1}转</MsgObj>，领取了<MsgObj>COLOR,2,转生达标奖励</MsgObj>，羡煞众人！<MsgObj>Activity,ESpecialConditonTypeReachGoal,我要领取</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1619,
+		"msgKey" : "reach_goal2",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>铸造总等级到达了<MsgObj>COLOR,6,{$1}级</MsgObj>，领取了<MsgObj>COLOR,2,铸造达标奖励</MsgObj>，羡煞众人！<MsgObj>Activity,ESpecialConditonTypeReachGoal,我要领取</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1620,
+		"msgKey" : "reach_goal3",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>龙炎甲总星数到达了<MsgObj>COLOR,6,{$1}星</MsgObj>，领取了<MsgObj>COLOR,2,龙炎甲达标奖励</MsgObj>，羡煞众人！<MsgObj>Activity,ESpecialConditonTypeReachGoal,我要领取</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1621,
+		"msgKey" : "reach_goal4",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>翅膀总等阶到达了<MsgObj>COLOR,6,{$1}级</MsgObj>，领取了<MsgObj>COLOR,2,翅膀达标奖励</MsgObj>，羡煞众人！<MsgObj>Activity,ESpecialConditonTypeReachGoal,我要领取</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1622,
+		"msgKey" : "reach_goal5",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>装备总评分到达了<MsgObj>COLOR,6,{$1}</MsgObj>，领取了<MsgObj>COLOR,2,装备评分达标奖励</MsgObj>，羡煞众人！<MsgObj>Activity,ESpecialConditonTypeReachGoal,我要领取</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1625,
+		"msgKey" : "reach_goal6",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>经脉总等级到达了<MsgObj>COLOR,6,{$1}</MsgObj>，领取了<MsgObj>COLOR,2,经脉达标奖励</MsgObj>，羡煞众人！<MsgObj>Activity,ESpecialConditonTypeReachGoal,我要领取</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1626,
+		"msgKey" : "reach_goal7",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>图鉴战力到达了<MsgObj>COLOR,6,{$1}</MsgObj>，领取了<MsgObj>COLOR,2,图鉴达标奖励</MsgObj>，羡煞众人！<MsgObj>Activity,ESpecialConditonTypeReachGoal,我要领取</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1628,
+		"msgKey" : "level_reward1",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>转生达到了<MsgObj>COLOR,6,{$1}转</MsgObj>，领取了<MsgObj>COLOR,2,升级狂欢奖励</MsgObj>，羡煞众人！<MsgObj>Activity,ESpecialConditionTypeLevelReward,我要领取</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1629,
+		"msgKey" : "guild_war_hurt",
+		"msgValue" : "恭喜你击杀仙盟圣兽，伤害排名第{$1}，请在附件中查收奖励。"
+	},
+	
+	{
+		"msgId" : 1630,
+		"msgKey" : "guild_war_hurt_title",
+		"msgValue" : "杀仙盟圣兽奖励"
+	},
+	
+	{
+		"msgId" : 1631,
+		"msgKey" : "guild_war_boss_gift",
+		"msgValue" : "恭喜你在击败仙盟圣兽中获得惊喜奖励，请在附件中查收。"
+	},
+	
+	{
+		"msgId" : 1632,
+		"msgKey" : "guild_war_boss_title",
+		"msgValue" : "仙盟圣兽抽奖"
+	},
+	
+	{
+		"msgId" : 1633,
+		"msgKey" : "guild_war_join",
+		"msgValue" : "恭喜你在击败仙盟圣兽中获得参与奖励，请在附件中查收。"
+	},
+	
+	{
+		"msgId" : 1634,
+		"msgKey" : "end_guild_war_kill",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>霸气地终结了<MsgObj>PLAYER,1</MsgObj>的{$1}连杀！"
+	},
+	
+	{
+		"broadcastLevel" : 2,
+		"msgId" : 1635,
+		"msgKey" : "guild_war_kill3",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>在仙盟争霸中完成{$1}连杀，开始大杀特杀！"
+	},
+	
+	{
+		"broadcastLevel" : 2,
+		"msgId" : 1636,
+		"msgKey" : "guild_war_kill5",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>在仙盟争霸中完成{$1}连杀，无人能挡！"
+	},
+	
+	{
+		"broadcastLevel" : 2,
+		"msgId" : 1637,
+		"msgKey" : "guild_war_kill8",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>在仙盟争霸中完成{$1}连杀，已经主宰战场！"
+	},
+	
+	{
+		"broadcastLevel" : 2,
+		"msgId" : 1638,
+		"msgKey" : "guild_war_kill10",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>在仙盟争霸中完成{$1}连杀，如同战神降临！"
+	},
+	
+	{
+		"broadcastLevel" : 2,
+		"msgId" : 1639,
+		"msgKey" : "guild_war_kill15",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>在仙盟争霸中完成{$1}连杀，简直超神了！"
+	},
+	
+	{
+		"msgId" : 1640,
+		"msgKey" : "guild_war_leader_t",
+		"msgValue" : "仙盟争霸盟主奖励"
+	},
+	
+	{
+		"msgId" : 1641,
+		"msgKey" : "guild_war_leader",
+		"msgValue" : "恭喜您带领仙盟成员夺得仙盟圣殿的归属权，获得专属衣服、武器时装与限时称号。"
+	},
+	
+	{
+		"msgId" : 1642,
+		"msgKey" : "guild_war_p_rank_t",
+		"msgValue" : "个人积分排名奖励"
+	},
+	
+	{
+		"msgId" : 1643,
+		"msgKey" : "guild_war_p_rank",
+		"msgValue" : "你在本次仙盟争霸中获得了{$1}积分，个人积分排名第{$2}，请在附件中查收奖励。"
+	},
+	
+	{
+		"msgId" : 1644,
+		"msgKey" : "allocate_item",
+		"msgValue" : "<MsgObj>COLOR,3,{$1}</MsgObj>{$2}份"
+	},
+	
+	{
+		"msgId" : 1645,
+		"msgKey" : "guild_allocate_item",
+		"msgValue" : "盟主分配了<MsgObj>ITEM,{$1}</MsgObj>：{$2}"
+	},
+	
+	{
+		"msgId" : 1646,
+		"msgKey" : "enter_new_cross_boss",
+		"msgValue" : "<MsgObj>PLAYER,0,132</MsgObj>自信地进入了<MsgObj>CROSSBOSSFIELD,{$1},{$2},{$3},{$4},{$5}</MsgObj>，祝他好运吧！"
+	},
+	
+	{
+		"msgId" : 1647,
+		"msgKey" : "new_cross_boss_drop",
+		"msgValue" : "<MsgObj>PLAYER,0,132</MsgObj>在<MsgObj>CROSSBOSSFIELD,{$1},{$2},{$3},{$4},{$5}</MsgObj>击败了<MsgObj>COLOR,6,{$6}</MsgObj>，获得极品<MsgObj>ITEM,{$7}</MsgObj>！"
+	},
+	
+	{
+		"msgId" : 1648,
+		"msgKey" : "spirit_sports",
+		"msgValue" : "玩家<MsgObj>PLAYER,0</MsgObj>{$1}法宝提升到{$2}阶{$3}星，领取极品{$4}奖励。"
+	},
+	
+	{
+		"msgId" : 1649,
+		"msgKey" : "group_guild_invite",
+		"msgValue" : "<MsgObj>COLOR,3,{$1}</MsgObj>开启了<MsgObj>COLOR,7,{$2}</MsgObj>副本，赶快加入一起挑战吧！<MsgObj>APPLYGUOUP,{$3},{$4},{$5},{$6},{$7},快速加入</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1650,
+		"msgKey" : "group_friend_invite",
+		"msgValue" : "我开启了<MsgObj>COLOR,7,{$1}</MsgObj>副本，赶紧加入一起挑战吧！<MsgObj>APPLYGUOUP,{$2},{$3},{$4},{$5},{$6},快速加入</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1651,
+		"msgKey" : "enter_copy_comm_msg",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>自信地进入了{$1}，祝他好运吧！"
+	},
+	
+	{
+		"msgId" : 1652,
+		"msgKey" : "copy_drop_comm_msg",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>在{$1}击败了<MsgObj>COLOR,6,{$2}</MsgObj>，获得极品<MsgObj>ITEM,{$3}</MsgObj>！"
+	},
+	
+	{
+		"msgId" : 1657,
+		"msgKey" : "new_cross_boss_born",
+		"msgValue" : "BOSS<MsgObj>COLOR,6,{$1}</MsgObj>携带大量珍稀道具出现在<MsgObj>CROSSBOSSFIELD,{$2},{$3},{$4},{$5},{$6}</MsgObj> ！"
+	},
+	
+	{
+		"msgId" : 1658,
+		"msgKey" : "invest",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>慧眼识金，参与投资计划获得10倍返利！！！羡煞旁人。"
+	},
+	
+	{
+		"msgId" : 1659,
+		"msgKey" : "cross_team_create",
+		"msgValue" : "<MsgObj>PLAYER,0,140</MsgObj>创建了<MsgObj>COLOR,7,{$1}</MsgObj>！<MsgObj>CROSSTEAM,{$2},{$3},{$4},{$5},{$6},马上加入</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1660,
+		"msgKey" : "shapeChgSpEx",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>激活法宝幻形<MsgObj>COLOR,2,{$1}</MsgObj>，纵横天下，谁可匹敌！"
+	},
+	
+	{
+		"msgId" : 1661,
+		"msgKey" : "shapeChgLawEx",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>激活法阵幻形<MsgObj>COLOR,2,{$1}</MsgObj>，阵灵护主，天下再难寻敌手！"
+	},
+	
+	{
+		"msgId" : 1662,
+		"msgKey" : "guild_team_notice",
+		"msgValue" : "<MsgObj>COLOR,7,仙盟BOSS</MsgObj>即将在<MsgObj>COLOR,2,{$1}分钟</MsgObj>后开启，请各位仙友做好准备！"
+	},
+	
+	{
+		"msgId" : 1663,
+		"msgKey" : "guild_team_open",
+		"msgValue" : "<MsgObj>COLOR,6,魔族BOSS</MsgObj>入侵，意图毁我仙盟，请仙友组队前往抗击。<MsgObj>GuildCopy,GuildTeam,点击前往</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1664,
+		"msgKey" : "shapeChgBattleEx",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>激活了<MsgObj>COLOR,2,{$1}</MsgObj>，战力飙升，万众瞩目！"
+	},
+	
+	{
+		"msgId" : 1665,
+		"msgKey" : "guild_team_close",
+		"msgValue" : "<MsgObj>COLOR,7,仙盟BOSS</MsgObj>活动已结束，请各位仙友注意领取排名奖励。"
+	},
+	
+	{
+		"msgId" : 1666,
+		"msgKey" : "boss_intruder_drop",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>击败了<MsgObj>COLOR,6,{$1}</MsgObj>爆出<MsgObj>ITEM,{$2}</MsgObj>！"
+	},
+	
+	{
+		"broadcastLevel" : 5,
+		"msgId" : 1667,
+		"msgKey" : "question_prepare_start",
+		"msgValue" : "<MsgObj>COLOR,7,科举比赛</MsgObj>即将在<MsgObj>COLOR,2,{$1}分钟</MsgObj>后开启，请各位仙友做好准备！"
+	},
+	
+	{
+		"broadcastLevel" : 5,
+		"msgId" : 1668,
+		"msgKey" : "question_start",
+		"msgValue" : "<MsgObj>COLOR,7,科举比赛</MsgObj>已经开启，请诸位仙友立即前往。<MsgObj>Train,GamePlay,点击前往</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1669,
+		"msgKey" : "shapeChgSwpEx",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>激活了<MsgObj>COLOR,2,{$1}</MsgObj>，战力飙升，万众瞩目！"
+	},
+	
+	{
+		"broadcastLevel" : 5,
+		"msgId" : 1672,
+		"msgKey" : "question_champion",
+		"msgValue" : "恭喜<MsgObj>COLOR,3,{$1}</MsgObj>在科举比赛脱颖而出，高中<MsgObj>COLOR,6,状元</MsgObj>。"
+	},
+	
+	{
+		"msgId" : 1673,
+		"msgKey" : "shapeChgWingEx",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>激活了翅膀幻形<MsgObj>COLOR,2,{$1}</MsgObj>，战力飙升，万众瞩目！"
+	},
+	
+	{
+		"msgId" : 1674,
+		"msgKey" : "peak_arena_champion1",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>以万夫不当之勇，最终登顶<MsgObj>COLOR,6,巅峰赛季</MsgObj>冠军宝座，引起各路仙友争相远瞻。"
+	},
+	
+	{
+		"msgId" : 1675,
+		"msgKey" : "peak_arena_champion2",
+		"msgValue" : "仙君临世！<MsgObj>PLAYER,0</MsgObj>驾仙风，驭奇术，一击溃众，夺得<MsgObj>COLOR,6,巅峰赛季</MsgObj><MsgObj>COLOR,7,跨服冠军</MsgObj>，获得专属时装与稀有称号，受万众膜拜。"
+	},
+	
+	{
+		"msgId" : 1676,
+		"msgKey" : "peak_arena_secend",
+		"msgValue" : "英才现世！<MsgObj>PLAYER,0</MsgObj>凭借仙赋异禀，击败了各路仙友，夺得<MsgObj>COLOR,6,巅峰赛季</MsgObj><MsgObj>COLOR,7,跨服亚军</MsgObj>，获得专属时装与稀有称号。"
+	},
+	
+	{
+		"broadcastLevel" : 5,
+		"msgId" : 1677,
+		"msgKey" : "peak_arena_open1",
+		"msgValue" : "<MsgObj>COLOR,6,巅峰赛季</MsgObj>单服赛已经开启，请各路仙友踊跃报名，争夺荣誉之巅。"
+	},
+	
+	{
+		"msgId" : 1678,
+		"msgKey" : "peak_arena_open2",
+		"msgValue" : "<MsgObj>COLOR,6,巅峰赛季</MsgObj>跨服赛已经开启，请各路仙友踊跃报名，争夺荣誉之巅。"
+	},
+	
+	{
+		"msgId" : 1679,
+		"msgKey" : "test_broadcast_level0",
+		"msgValue" : "测试广播跑马灯缓存优先级0"
+	},
+	
+	{
+		"broadcastLevel" : 1,
+		"msgId" : 1681,
+		"msgKey" : "test_broadcast_level1",
+		"msgValue" : "测试广播跑马灯缓存优先级1"
+	},
+	
+	{
+		"broadcastLevel" : 2,
+		"msgId" : 1682,
+		"msgKey" : "test_broadcast_level2",
+		"msgValue" : "测试广播跑马灯缓存优先级2"
+	},
+	
+	{
+		"broadcastLevel" : 3,
+		"msgId" : 1683,
+		"msgKey" : "test_broadcast_level3",
+		"msgValue" : "测试广播跑马灯缓存优先级3"
+	},
+	
+	{
+		"broadcastLevel" : 4,
+		"msgId" : 1684,
+		"msgKey" : "test_broadcast_level4",
+		"msgValue" : "测试广播跑马灯缓存优先级4"
+	},
+	
+	{
+		"broadcastLevel" : 5,
+		"msgId" : 1685,
+		"msgKey" : "test_broadcast_level5",
+		"msgValue" : "测试广播跑马灯缓存优先级5"
+	},
+	
+	{
+		"msgId" : 1694,
+		"msgKey" : "refresh_hide_boss",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj><MsgObj>COLOR,7,在击败</MsgObj><MsgObj>COLOR,4,{$1}</MsgObj><MsgObj>COLOR,7,时，幸运的触发了隐藏BOSS</MsgObj><MsgObj>COLOR,4,{$2}</MsgObj><MsgObj>COLOR,7,!</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1695,
+		"msgKey" : "settle_tower_copy",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>通关诛仙塔第{$1}层，获得幸运转盘奖励，羡煞旁人！<MsgObj>CopyHall,CopyHallTower,点击前往</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1696,
+		"msgKey" : "gbic_refresh",
+		"msgValue" : "<MsgObj>COLOR,7,兽神入侵所有BOSS已刷新，BOSS携带了大量珍稀的道具和仙盟奖励，请各位仙友前往挑战！</MsgObj><MsgObj>Cross,CrossBossGuild,点击前往</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1697,
+		"msgKey" : "gbic_drop_log",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>在{$1}中击败{$2}，获得了<MsgObj>ITEM,{$3}</MsgObj>。"
+	},
+	
+	{
+		"msgId" : 1698,
+		"msgKey" : "contest_sign_up",
+		"msgValue" : "<MsgObj>COLOR,7,跨服1VN</MsgObj>现可报名，报名成功请耐心等待资格赛开启。"
+	},
+	
+	{
+		"msgId" : 1699,
+		"msgKey" : "contest_qua_notice",
+		"msgValue" : "<MsgObj>COLOR,7,跨服1VN</MsgObj>资格赛还有<MsgObj>COLOR,2,10分钟</MsgObj>开始，请做好准备。"
+	},
+	
+	{
+		"msgId" : 1700,
+		"msgKey" : "contest_qua_start",
+		"msgValue" : "<MsgObj>COLOR,7,跨服1VN</MsgObj>资格赛正式开始，进击吧各位仙侠。"
+	},
+	
+	{
+		"msgId" : 1701,
+		"msgKey" : "contest_qua_end",
+		"msgValue" : "<MsgObj>COLOR,7,跨服1VN</MsgObj>资格赛结束，成为守擂者玩家做好守擂赛准备。"
+	},
+	
+	{
+		"msgId" : 1702,
+		"msgKey" : "contest_qua_5",
+		"msgValue" : "<MsgObj>PLAYER,0,146</MsgObj>疯狂输出，已有<MsgObj>COLOR,4,5</MsgObj>人跪地求饶。"
+	},
+	
+	{
+		"msgId" : 1703,
+		"msgKey" : "contest_qua_10",
+		"msgValue" : "<MsgObj>PLAYER,0,146</MsgObj>战神附体，已完成<MsgObj>COLOR,5,10</MsgObj>战大胜。"
+	},
+	
+	{
+		"msgId" : 1704,
+		"msgKey" : "contest_qua_15",
+		"msgValue" : "<MsgObj>PLAYER,0,146</MsgObj>超越战神，已完成<MsgObj>COLOR,6,15</MsgObj>战大满贯。"
+	},
+	
+	{
+		"msgId" : 1705,
+		"msgKey" : "contest_con_start",
+		"msgValue" : "<MsgObj>COLOR,7,跨服1VN</MsgObj>守擂赛正式开始，守擂者请迎接挑战者的挑战。"
+	},
+	
+	{
+		"msgId" : 1706,
+		"msgKey" : "contest_con_round",
+		"msgValue" : "<MsgObj>COLOR,7,跨服1VN</MsgObj>守擂赛进入<MsgObj>COLOR,3,1V{$1}阶段</MsgObj>。"
+	},
+	
+	{
+		"msgId" : 1707,
+		"msgKey" : "contest_con_3",
+		"msgValue" : "<MsgObj>PLAYER,0,146</MsgObj>完成<MsgObj>COLOR,5,3</MsgObj>连击破。"
+	},
+	
+	{
+		"msgId" : 1708,
+		"msgKey" : "contest_con_4",
+		"msgValue" : "<MsgObj>PLAYER,0,146</MsgObj>完成<MsgObj>COLOR,5,4</MsgObj>连决胜。"
+	},
+	
+	{
+		"msgId" : 1709,
+		"msgKey" : "contest_con_5",
+		"msgValue" : "<MsgObj>PLAYER,0,146</MsgObj>完成<MsgObj>COLOR,5,5</MsgObj>连决胜。"
+	},
+	
+	{
+		"msgId" : 1710,
+		"msgKey" : "contest_con_6",
+		"msgValue" : "<MsgObj>PLAYER,0,146</MsgObj>完成<MsgObj>COLOR,5,6</MsgObj>连超凡。"
+	},
+	
+	{
+		"msgId" : 1711,
+		"msgKey" : "contest_con_7",
+		"msgValue" : "<MsgObj>PLAYER,0,146</MsgObj>完成<MsgObj>COLOR,5,7</MsgObj>连超凡。"
+	},
+	
+	{
+		"msgId" : 1712,
+		"msgKey" : "contest_con_8",
+		"msgValue" : "<MsgObj>PLAYER,0,146</MsgObj>完成<MsgObj>COLOR,5,8</MsgObj>连绝世。"
+	},
+	
+	{
+		"msgId" : 1713,
+		"msgKey" : "contest_rank_1",
+		"msgValue" : "<MsgObj>COLOR,7,跨服1VN</MsgObj>告一段落，<MsgObj>PLAYER,0,146</MsgObj>表现神勇，斩获第<MsgObj>COLOR,5,1</MsgObj>名，获得<MsgObj>COLOR,7,“一个能打的都没有”</MsgObj>称号。"
+	},
+	
+	{
+		"msgId" : 1714,
+		"msgKey" : "contest_rank_2",
+		"msgValue" : "<MsgObj>COLOR,7,跨服1VN</MsgObj>告一段落，<MsgObj>PLAYER,0,146</MsgObj>表现神勇，斩获第<MsgObj>COLOR,5,2</MsgObj>名，获得<MsgObj>COLOR,7,“我就问还有谁”</MsgObj>称号。"
+	},
+	
+	{
+		"msgId" : 1715,
+		"msgKey" : "contest_rank_3",
+		"msgValue" : "<MsgObj>COLOR,7,跨服1VN</MsgObj>告一段落，<MsgObj>PLAYER,0,146</MsgObj>表现神勇，斩获第<MsgObj>COLOR,5,3</MsgObj>名，获得<MsgObj>COLOR,7,“不服来战”</MsgObj>称号。"
+	},
+	
+	{
+		"duration" : 15000,
+		"msgId" : 1716,
+		"msgKey" : "MgGDSSB",
+		"msgValue" : "copy_600302"
+	},
+	
+	{
+		"msgId" : 1717,
+		"msgKey" : "reach_goal8",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>战力到达了<MsgObj>COLOR,6,{$1}</MsgObj>，领取了<MsgObj>COLOR,2,战力达标奖励</MsgObj>，羡煞众人！<MsgObj>Activity,ESpecialConditonTypeReachGoal,我要领取</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1718,
+		"msgKey" : "reach_goal9",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>充值到达了<MsgObj>COLOR,6,{$1}</MsgObj>，领取了<MsgObj>COLOR,2,充值达标奖励</MsgObj>，羡煞众人！<MsgObj>Activity,ESpecialConditonTypeReachGoal,我要领取</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1719,
+		"msgKey" : "reach_goal10",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>宠物等级到达了<MsgObj>COLOR,6,{$1}</MsgObj>，领取了<MsgObj>COLOR,2,宠物等级达标奖励</MsgObj>，羡煞众人！<MsgObj>Activity,ESpecialConditonTypeReachGoal,我要领取</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1721,
+		"msgKey" : "copy_drop_normal",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>在<MsgObj>COLOR,6,{$1}</MsgObj>中运气爆棚，居然获得了<MsgObj>ITEM,{$2}</MsgObj>，实在令人眼红！"
+	},
+	
+	{
+		"msgId" : 1722,
+		"msgKey" : "cross_team_world_invite",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>创建了<MsgObj>COLOR,7,跨服竞技场队伍</MsgObj>，急需强力队友一起开黑！<MsgObj>CROSSTEAM,{$2},{$3},{$4},{$5},{$6},快速加入</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1723,
+		"msgKey" : "cross_team_guild_invite",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>创建了<MsgObj>COLOR,7,跨服竞技场队伍</MsgObj>，急需强力队友一起开黑！<MsgObj>CROSSTEAM,{$2},{$3},{$4},{$5},{$6},快速加入</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1724,
+		"msgKey" : "cross_team_friend_invite",
+		"msgValue" : "我创建了<MsgObj>COLOR,7,跨服竞技场队伍</MsgObj>，急需强力队友一起开黑！<MsgObj>CROSSTEAM,{$1},{$2},{$3},{$4},{$5},快速加入</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1725,
+		"msgKey" : "qualifying_first_kill",
+		"msgValue" : "<MsgObj>PLAYER,0,147</MsgObj>手起刀落，击败了<MsgObj>PLAYER,1,147</MsgObj>，夺得第一滴血！"
+	},
+	
+	{
+		"msgId" : 1726,
+		"msgKey" : "qualifying_first_collect",
+		"msgValue" : "<MsgObj>PLAYER,0,147</MsgObj>一马当先，率先夺下第一面战旗！"
+	},
+	
+	{
+		"msgId" : 1727,
+		"msgKey" : "cross_team_common_friend_invite",
+		"msgValue" : "我创建了<MsgObj>COLOR,7,{$1},副本</MsgObj>，赶快加入一起挑战吧！<MsgObj>CROSSTEAM,{$2},{$3},{$4},{$5},{$6},快速加入</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1728,
+		"msgKey" : "cross_team_common_invite",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>创建了<MsgObj>COLOR,7,{$2},副本</MsgObj>，赶快加入一起挑战吧！<MsgObj>CROSSTEAM,{$3},{$4},{$5},{$6},{$7},快速加入</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1729,
+		"msgKey" : "qualifying_notice",
+		"msgValue" : "<MsgObj>COLOR,7,跨服竞技赛</MsgObj>还有<MsgObj>COLOR,2,10分钟</MsgObj>开始，请做好准备。"
+	},
+	
+	{
+		"msgId" : 1730,
+		"msgKey" : "qualifying_start",
+		"msgValue" : "<MsgObj>COLOR,7,跨服竞技赛</MsgObj>正式开始，进击吧各位仙侠。"
+	},
+	
+	{
+		"msgId" : 1731,
+		"msgKey" : "qualifying_end",
+		"msgValue" : "<MsgObj>COLOR,7,跨服竞技赛</MsgObj>已经结束，敬请期待下次活动开启。"
+	},
+	
+	{
+		"msgId" : 1732,
+		"msgKey" : "gold_card",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>购买了<MsgObj>COLOR,6,元宝月卡</MsgObj>，总共可领取<MsgObj>COLOR,2,32800</MsgObj>元宝。<MsgObj>GOLDCARD,前往购买</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1733,
+		"msgKey" : "privilege_card",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>购买了<MsgObj>COLOR,6,特权月卡</MsgObj>，获得<MsgObj>COLOR,7,特权达人</MsgObj>称号，战力暴涨<MsgObj>COLOR,6,10800</MsgObj>，所有BOSS<MsgObj>COLOR,6,自动打</MsgObj>！<MsgObj>PRIVILEGECARD,前往购买</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1734,
+		"msgKey" : "strengthen_ex_upgrade",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>将<MsgObj>COLOR,6,{$1}</MsgObj>提升至<MsgObj>COLOR,6,{$2}阶</MsgObj>，战力暴涨!<MsgObj>{$3},{$4},前往提升</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1735,
+		"msgKey" : "strengthen_ex_upgrade_name",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>经过不懈努力，成功提升到<MsgObj>COLOR,6,{$1}</MsgObj>!<MsgObj>{$2},{$3},前往提升</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1736,
+		"msgKey" : "shape_upgrade",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>将<MsgObj>COLOR,6,{$1}</MsgObj>提升至<MsgObj>COLOR,6,{$2}阶</MsgObj>，战力暴涨!<MsgObj>Shape,{$3},前往提升</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1737,
+		"msgKey" : "law_name",
+		"msgValue" : "法阵"
+	},
+	
+	{
+		"msgId" : 1738,
+		"msgKey" : "soul_name",
+		"msgValue" : "龙魂"
+	},
+	
+	{
+		"msgId" : 1739,
+		"msgKey" : "mantle_name",
+		"msgValue" : "披风"
+	},
+	
+	{
+		"msgId" : 1740,
+		"msgKey" : "battle_name",
+		"msgValue" : "战阵"
+	},
+	
+	{
+		"msgId" : 1741,
+		"msgKey" : "swordpool_name",
+		"msgValue" : "剑池"
+	},
+	
+	{
+		"msgId" : 1742,
+		"msgKey" : "role_state_upgrade",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>突破重重困难，成功提升到<MsgObj>COLOR,6,{$1}转</MsgObj>！"
+	},
+	
+	{
+		"msgId" : 1743,
+		"msgKey" : "king_stife_stage",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>在皇者争霸中进阶到<MsgObj>COLOR,6,{$1}段位</MsgObj>，傲视群侠！"
+	},
+	
+	{
+		"msgId" : 1744,
+		"msgKey" : "boss_intruder_refresh",
+		"msgValue" : "<MsgObj>COLOR,6,{$1}</MsgObj>已成功召唤，快快前往抢夺神装！<MsgObj>BossComing,点击前往</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1745,
+		"msgKey" : "mystery_shop",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>运气逆天，在神秘商店中刷出<MsgObj>COLOR,6,{$1}折</MsgObj>的<MsgObj>ITEM,{$2}</MsgObj>！<MsgObj>Shop,ShopMystery,前往刷新</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1746,
+		"msgKey" : "se_strengthen_name",
+		"msgValue" : "强化"
+	},
+	
+	{
+		"msgId" : 1747,
+		"msgKey" : "se_cast_name",
+		"msgValue" : "铸造"
+	},
+	
+	{
+		"msgId" : 1748,
+		"msgKey" : "se_lord_name",
+		"msgValue" : "仙位"
+	},
+	
+	{
+		"msgId" : 1749,
+		"msgKey" : "se_dragonsoul_name",
+		"msgValue" : "龙炎甲"
+	},
+	
+	{
+		"msgId" : 1750,
+		"msgKey" : "se_nerve_name",
+		"msgValue" : "经脉"
+	},
+	
+	{
+		"msgId" : 1751,
+		"msgKey" : "se_internalforce_name",
+		"msgValue" : "内功"
+	},
+	
+	{
+		"msgId" : 1752,
+		"msgKey" : "se_specialring_name",
+		"msgValue" : "特戒"
+	},
+	
+	{
+		"msgId" : 1753,
+		"msgKey" : "se_wing_name",
+		"msgValue" : "翅膀"
+	},
+	
+	{
+		"msgId" : 1754,
+		"msgKey" : "se_refine_name",
+		"msgValue" : "精炼"
+	},
+	
+	{
+		"msgId" : 1755,
+		"msgKey" : "se_medal_name",
+		"msgValue" : "勋章"
+	},
+	
+	{
+		"msgId" : 1756,
+		"msgKey" : "se_colorstone_name",
+		"msgValue" : "五色石"
+	},
+	
+	{
+		"msgId" : 1757,
+		"msgKey" : "lord_unit",
+		"msgValue" : "等"
+	},
+	
+	{
+		"msgId" : 1758,
+		"msgKey" : "qiong_cang_dream_land",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>通关穹苍幻境<MsgObj>COLOR,6,第{$1}层</MsgObj>，获得更多奖励，羡煞旁人！<MsgObj>QiongCang,QiongCangCopy,前往挑战</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1759,
+		"msgKey" : "active_copy_first",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>脱颖而出，勇夺<MsgObj>COLOR,7,{$1}</MsgObj><MsgObj>COLOR,6,第一名</MsgObj>，获得大量奖励！"
+	},
+	
+	{
+		"msgId" : 1760,
+		"msgKey" : "new_guild_war_first",
+		"msgValue" : "恭喜<MsgObj>COLOR,2,{$1}</MsgObj>脱颖而出，勇夺<MsgObj>COLOR,7,仙盟争霸</MsgObj><MsgObj>COLOR,6,第一名</MsgObj>，获得大量奖励！"
+	},
+	
+	{
+		"msgId" : 1761,
+		"msgKey" : "get_deity_book_active_reward",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>完成了{$1}任务，获得<MsgObj>ITEM,{$2}</MsgObj>等奖励！"
+	},
+	
+	{
+		"msgId" : 1762,
+		"msgKey" : "buy_preferential_gift",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>财大气粗，购买了<MsgObj>COLOR,6,{$1}</MsgObj>，战力飙升！<MsgObj>Activity,ESpecialConditionTypePreferentialGift,前往购买</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1763,
+		"msgKey" : "preferential_gift_0",
+		"msgValue" : "材料礼包"
+	},
+	
+	{
+		"msgId" : 1764,
+		"msgKey" : "preferential_gift_1",
+		"msgValue" : "装备礼包"
+	},
+	
+	{
+		"msgId" : 1765,
+		"msgKey" : "preferential_gift_2",
+		"msgValue" : "图鉴礼包"
+	},
+	
+	{
+		"msgId" : 1766,
+		"msgKey" : "mg_recharge_new",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>领取了价值<MsgObj>COLOR,6,{$1}元宝</MsgObj>的<MsgObj>COLOR,4,{$2}礼包</MsgObj>！<MsgObj>Activity,ESpecialConditonTypeMgRecharge,前往领取</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1767,
+		"msgKey" : "compose_recharge",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>领取了{$1}<MsgObj>COLOR,6,{$2}元宝</MsgObj>的奖励，战力飙升<MsgObj>COLOR,4,{$3}</MsgObj>！<MsgObj>Activity,ESpecialConditonTypeComposeRecharge,前往领取</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1768,
+		"msgKey" : "spirit_active",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>法宝等级到达了<MsgObj>COLOR,6,{$1}阶{$2}星</MsgObj>，领取了法宝竞技奖励，羡煞众人！<MsgObj>Activity,ESpecialConditionTypeSpiritSports,前往领取</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1769,
+		"msgKey" : "create_role_2",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>开启第二角色，战斗力翻倍！<MsgObj>OpenRole,前往开启</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1770,
+		"msgKey" : "create_role_3",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>开启第三角色，战斗力暴涨！<MsgObj>OpenRole,前往开启</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1771,
+		"msgKey" : "cultivate_suit_1",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>激活了全套的<MsgObj>COLOR,6,{$1}</MsgObj>，战力飙升!"
+	},
+	
+	{
+		"msgId" : 1772,
+		"msgKey" : "cultivate_suit_3",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>激活图鉴的<MsgObj>COLOR,6,{$1}</MsgObj>，战力暴涨！"
+	},
+	
+	{
+		"msgId" : 1773,
+		"msgKey" : "cultivate_active_3",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>激活了<MsgObj>ITEM,{$1}</MsgObj>，战力飙升！"
+	},
+	
+	{
+		"msgId" : 1774,
+		"msgKey" : "cultivate_talent_upgrade",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>将天赋提升至<MsgObj>COLOR,6,{$1}级</MsgObj>，战力暴涨!"
+	},
+	
+	{
+		"msgId" : 1775,
+		"msgKey" : "cultivate_suit_immortals",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>解锁了全套<MsgObj>COLOR,6,{$1}</MsgObj>，战力飙升!"
+	},
+	
+	{
+		"msgId" : 1776,
+		"msgKey" : "talent_smelt",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>合成红色圣物<MsgObj>ITEM,{$1}</MsgObj>，羡煞旁人！"
+	},
+	
+	{
+		"msgId" : 1777,
+		"msgKey" : "smelt_common",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>合成<MsgObj>ITEM,{$1}</MsgObj>，战力飙升！"
+	},
+	
+	{
+		"msgId" : 1778,
+		"msgKey" : "new_guild_war_notice",
+		"msgValue" : "<MsgObj>COLOR,7,仙盟争霸</MsgObj>即将在<MsgObj>COLOR,2,{$1}分钟</MsgObj>后开启，请各位仙友做好准备！"
+	},
+	
+	{
+		"msgId" : 1779,
+		"msgKey" : "new_guild_war_open",
+		"msgValue" : "<MsgObj>COLOR,7,仙盟争霸</MsgObj>已经开始，仙盟对战获得珍稀道具，各仙盟成员快来争夺仙盟霸主。<MsgObj>GuildBattle,点击前往</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1780,
+		"msgKey" : "cross_boss_assist_req",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>我正在<MsgObj>COLOR,7,{$1}</MsgObj>挑战BOSS，请求各位仙友鼎力相助！<MsgObj>COPYASSIST,{$2},{$3},{$4},前往协助</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1781,
+		"msgKey" : "qiong_cang_acttic_assist_req",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>我正在<MsgObj>COLOR,7,{$1}</MsgObj>挑战BOSS，请求各位仙友鼎力相助！<MsgObj>COPYASSIST,{$2},{$3},{$4},前往协助</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1782,
+		"msgKey" : "reach_goal11",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>{$1}角色{$2}达到<MsgObj>COLOR,6,{$3}阶</MsgObj>，领取了<MsgObj>COLOR,2,{$2}达标奖励</MsgObj>，羡煞众人！<MsgObj>Activity,ESpecialConditonTypeReachGoal,我要领取</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1783,
+		"msgKey" : "reach_goal12",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>{$1}角色{$2}达到<MsgObj>COLOR,6,{$3}阶</MsgObj>，领取了<MsgObj>COLOR,2,{$2}达标奖励</MsgObj>，羡煞众人！<MsgObj>Activity,ESpecialConditonTypeReachGoal,我要领取</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1784,
+		"msgKey" : "single",
+		"msgValue" : "单"
+	},
+	
+	{
+		"msgId" : 1785,
+		"msgKey" : "double",
+		"msgValue" : "双"
+	},
+	
+	{
+		"msgId" : 1786,
+		"msgKey" : "flash_recharge",
+		"msgValue" : "<MsgObj>PLAYER,0</MsgObj>领取了<MsgObj>COLOR,2,限时充值奖励</MsgObj>，获得珍稀道具<MsgObj>COLOR,6,{$1}</MsgObj>!<MsgObj>ActivityLimitRecharge,首充后领取</MsgObj>"
+	},
+	
+	{
+		"msgId" : 1787,
+		"msgKey" : "shape_upgrade2",
+		"msgValue" : "恭喜<MsgObj>PLAYER,0</MsgObj>将<MsgObj>COLOR,6,{$1}</MsgObj>提升至<MsgObj>COLOR,6,{$2}阶</MsgObj>，战力暴涨!<MsgObj>{$3},前往提升</MsgObj>"
+	}
+]

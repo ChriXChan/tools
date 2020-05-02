@@ -1,0 +1,57 @@
+
+[
+	
+	{
+		"id" : 1,
+		"name" : "材料礼包",
+		"resourceId" : "1"
+	},
+	
+	{
+		"id" : 2,
+		"name" : "装备礼包",
+		"resourceId" : "2"
+	},
+	
+	{
+		"id" : 3,
+		"name" : "图鉴礼包",
+		"resourceId" : "3"
+	},
+	
+	{
+		"id" : 11,
+		"name" : "坐骑礼包",
+		"resourceId" : "101"
+	},
+	
+	{
+		"id" : 12,
+		"name" : "心法礼包",
+		"resourceId" : "102"
+	},
+	
+	{
+		"id" : 13,
+		"name" : "符文礼包",
+		"resourceId" : "103"
+	},
+	
+	{
+		"id" : 21,
+		"name" : "材料礼包",
+		"resourceId" : "1"
+	},
+	
+	{
+		"id" : 22,
+		"name" : "装备礼包",
+		"resourceId" : "2"
+	},
+	
+	{
+		"id" : 23,
+		"name" : "图鉴礼包",
+		"resourceId" : "3"
+	}
+]

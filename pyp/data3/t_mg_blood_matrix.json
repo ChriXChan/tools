@@ -1,0 +1,234 @@
+
+[
+	
+	{
+		"bossNum" : 18,
+		"bossShowType" : 1,
+		"copyCode" : 5401,
+		"ring" : 1,
+		"tips" : "<font color='#00ff00'>星数越高，奖励越丰厚</font><br>集中击杀所有小怪"
+	},
+	
+	{
+		"bossNum" : 15,
+		"bossShowType" : 1,
+		"copyCode" : 5401,
+		"ring" : 2,
+		"tips" : "<font color='#00ff00'>星数越高，奖励越丰厚</font><br>集中击杀所有小怪"
+	},
+	
+	{
+		"bossNum" : 9,
+		"bossShowType" : 1,
+		"copyCode" : 5401,
+		"ring" : 3,
+		"tips" : "<font color='#00ff00'>星数越高，奖励越丰厚</font><br>集中击杀所有小怪"
+	},
+	
+	{
+		"bossName" : "万毒蛛王",
+		"bossNum" : 1,
+		"bossShowType" : 4,
+		"copyCode" : 5401,
+		"ring" : 4,
+		"tips" : "<font color='#00ff00'>星数越高，奖励越丰厚</font><br>召唤的小蜘蛛会祭献自己给BOSS加血，请优先击杀"
+	},
+	
+	{
+		"bossNum" : 18,
+		"bossShowType" : 1,
+		"copyCode" : 25401,
+		"ring" : 1,
+		"tips" : "<font color='#00ff00'>星数越高，奖励越丰厚</font><br>集中击杀所有小怪"
+	},
+	
+	{
+		"bossNum" : 15,
+		"bossShowType" : 1,
+		"copyCode" : 25401,
+		"ring" : 2,
+		"tips" : "<font color='#00ff00'>星数越高，奖励越丰厚</font><br>集中击杀所有小怪"
+	},
+	
+	{
+		"bossNum" : 9,
+		"bossShowType" : 1,
+		"copyCode" : 25401,
+		"ring" : 3,
+		"tips" : "<font color='#00ff00'>星数越高，奖励越丰厚</font><br>集中击杀所有小怪"
+	},
+	
+	{
+		"bossName" : "万毒蛛王",
+		"bossNum" : 1,
+		"bossShowType" : 4,
+		"copyCode" : 25401,
+		"ring" : 4,
+		"tips" : "<font color='#00ff00'>星数越高，奖励越丰厚</font><br>【分身】先被击杀，BOSS会进入狂暴；可把BOSS拉开击杀"
+	},
+	
+	{
+		"bossNum" : 9,
+		"bossShowType" : 1,
+		"copyCode" : 35401,
+		"ring" : 1,
+		"tips" : "<font color='#00ff00'>星数越高，奖励越丰厚</font><br>集中击杀所有小怪"
+	},
+	
+	{
+		"bossNum" : 15,
+		"bossShowType" : 1,
+		"copyCode" : 35401,
+		"ring" : 2,
+		"tips" : "<font color='#00ff00'>星数越高，奖励越丰厚</font><br>集中击杀所有小怪"
+	},
+	
+	{
+		"bossNum" : 18,
+		"bossShowType" : 1,
+		"copyCode" : 35401,
+		"ring" : 3,
+		"tips" : "<font color='#00ff00'>星数越高，奖励越丰厚</font><br>集中击杀所有小怪"
+	},
+	
+	{
+		"bossName" : "神魅夔牛",
+		"bossNum" : 1,
+		"bossShowType" : 4,
+		"copyCode" : 35401,
+		"ring" : 4,
+		"tips" : "<font color='#00ff00'>星数越高，奖励越丰厚</font><br>击杀BOSS身边的所有小怪【焚香鱼精】，BOSS血量会被大幅度削弱"
+	},
+	
+	{
+		"bossNum" : 9,
+		"bossShowType" : 1,
+		"copyCode" : 45401,
+		"ring" : 1,
+		"tips" : "<font color='#00ff00'>星数越高，奖励越丰厚</font><br>集中击杀所有小怪"
+	},
+	
+	{
+		"bossNum" : 15,
+		"bossShowType" : 1,
+		"copyCode" : 45401,
+		"ring" : 2,
+		"tips" : "<font color='#00ff00'>星数越高，奖励越丰厚</font><br>集中击杀所有小怪"
+	},
+	
+	{
+		"bossNum" : 18,
+		"bossShowType" : 1,
+		"copyCode" : 45401,
+		"ring" : 3,
+		"tips" : "<font color='#00ff00'>星数越高，奖励越丰厚</font><br>集中击杀所有小怪"
+	},
+	
+	{
+		"bossName" : "神魅夔牛",
+		"bossNum" : 1,
+		"bossShowType" : 4,
+		"copyCode" : 45401,
+		"ring" : 4,
+		"tips" : "<font color='#00ff00'>星数越高，奖励越丰厚</font><br>为了避免小怪给BOSS回血，建议优先击杀小怪"
+	},
+	
+	{
+		"bossNum" : 9,
+		"bossShowType" : 1,
+		"copyCode" : 55401,
+		"ring" : 1,
+		"tips" : "<font color='#00ff00'>星数越高，奖励越丰厚</font><br>集中击杀所有小怪"
+	},
+	
+	{
+		"bossNum" : 15,
+		"bossShowType" : 1,
+		"copyCode" : 55401,
+		"ring" : 2,
+		"tips" : "<font color='#00ff00'>星数越高，奖励越丰厚</font><br>集中击杀所有小怪"
+	},
+	
+	{
+		"bossNum" : 18,
+		"bossShowType" : 1,
+		"copyCode" : 55401,
+		"ring" : 3,
+		"tips" : "<font color='#00ff00'>星数越高，奖励越丰厚</font><br>集中击杀所有小怪"
+	},
+	
+	{
+		"bossName" : "万年烛龙",
+		"bossNum" : 1,
+		"bossShowType" : 4,
+		"copyCode" : 55401,
+		"ring" : 4,
+		"tips" : "<font color='#00ff00'>星数越高，奖励越丰厚</font><br>BOSS身边的小怪会给BOSS释加【免疫状态】，请及时清理小怪，否则BOSS不会受到任何伤害"
+	},
+	
+	{
+		"bossNum" : 9,
+		"bossShowType" : 1,
+		"copyCode" : 65401,
+		"ring" : 1,
+		"tips" : "<font color='#00ff00'>星数越高，奖励越丰厚</font><br>集中击杀所有小怪"
+	},
+	
+	{
+		"bossNum" : 15,
+		"bossShowType" : 1,
+		"copyCode" : 65401,
+		"ring" : 2,
+		"tips" : "<font color='#00ff00'>星数越高，奖励越丰厚</font><br>集中击杀所有小怪"
+	},
+	
+	{
+		"bossNum" : 18,
+		"bossShowType" : 1,
+		"copyCode" : 65401,
+		"ring" : 3,
+		"tips" : "<font color='#00ff00'>星数越高，奖励越丰厚</font><br>集中击杀所有小怪"
+	},
+	
+	{
+		"bossName" : "万年烛龙",
+		"bossNum" : 1,
+		"bossShowType" : 4,
+		"copyCode" : 65401,
+		"ring" : 4,
+		"tips" : "<font color='#00ff00'>星数越高，奖励越丰厚</font><br>击杀BOSS身边的所有小怪，会增加对BOSS的伤害，打BOSS更加轻松"
+	},
+	
+	{
+		"bossNum" : 9,
+		"bossShowType" : 1,
+		"copyCode" : 75401,
+		"ring" : 1,
+		"tips" : "<font color='#00ff00'>星数越高，奖励越丰厚</font><br>集中击杀所有小怪"
+	},
+	
+	{
+		"bossNum" : 15,
+		"bossShowType" : 1,
+		"copyCode" : 75401,
+		"ring" : 2,
+		"tips" : "<font color='#00ff00'>星数越高，奖励越丰厚</font><br>集中击杀所有小怪"
+	},
+	
+	{
+		"bossNum" : 18,
+		"bossShowType" : 1,
+		"copyCode" : 75401,
+		"ring" : 3,
+		"tips" : "<font color='#00ff00'>星数越高，奖励越丰厚</font><br>集中击杀所有小怪"
+	},
+	
+	{
+		"bossName" : "上古饕餮",
+		"bossNum" : 1,
+		"bossShowType" : 4,
+		"copyCode" : 75401,
+		"ring" : 4,
+		"tips" : "<font color='#00ff00'>星数越高，奖励越丰厚</font><br>BOSS每隔一段时间召唤的小怪带有【眩晕】效果，请及时击杀"
+	}
+]

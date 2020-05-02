@@ -1,0 +1,4013 @@
+
+[
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 5,
+		"attrValue" : 35,
+		"desc" : "闪避 +35",
+		"equipColor" : 1,
+		"equipType" : 1,
+		"id" : 101005,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 6,
+		"attrValue" : 35,
+		"desc" : "命中 +35",
+		"equipColor" : 1,
+		"equipType" : 1,
+		"id" : 101006,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 7,
+		"attrValue" : 35,
+		"desc" : "暴击 +35",
+		"equipColor" : 1,
+		"equipType" : 1,
+		"id" : 101007,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 8,
+		"attrValue" : 35,
+		"desc" : "坚韧 +35",
+		"equipColor" : 1,
+		"equipType" : 1,
+		"id" : 101008,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 11,
+		"attrValue" : 35,
+		"desc" : "五行攻击 +35",
+		"equipColor" : 1,
+		"equipType" : 1,
+		"id" : 101011,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 12,
+		"attrValue" : 35,
+		"desc" : "五行防御 +35",
+		"equipColor" : 1,
+		"equipType" : 1,
+		"id" : 101012,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 50,
+		"desc" : "铜钱掉落 +0.5%",
+		"equipColor" : 1,
+		"equipType" : 1,
+		"id" : 101080,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 5,
+		"attrValue" : 60,
+		"desc" : "闪避 +60",
+		"equipColor" : 2,
+		"equipType" : 1,
+		"id" : 102005,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 6,
+		"attrValue" : 60,
+		"desc" : "命中 +60",
+		"equipColor" : 2,
+		"equipType" : 1,
+		"id" : 102006,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 7,
+		"attrValue" : 60,
+		"desc" : "暴击 +60",
+		"equipColor" : 2,
+		"equipType" : 1,
+		"id" : 102007,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 8,
+		"attrValue" : 60,
+		"desc" : "坚韧 +60",
+		"equipColor" : 2,
+		"equipType" : 1,
+		"id" : 102008,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 11,
+		"attrValue" : 60,
+		"desc" : "五行攻击 +60",
+		"equipColor" : 2,
+		"equipType" : 1,
+		"id" : 102011,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 12,
+		"attrValue" : 60,
+		"desc" : "五行防御 +60",
+		"equipColor" : 2,
+		"equipType" : 1,
+		"id" : 102012,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 55,
+		"attrValue" : 115,
+		"desc" : "闪避 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 1,
+		"id" : 102055,
+		"rate" : 10000,
+		"score" : 1265
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 56,
+		"attrValue" : 115,
+		"desc" : "命中 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 1,
+		"id" : 102056,
+		"rate" : 10000,
+		"score" : 1150
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 57,
+		"attrValue" : 115,
+		"desc" : "暴击 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 1,
+		"id" : 102057,
+		"rate" : 10000,
+		"score" : 1265
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 58,
+		"attrValue" : 115,
+		"desc" : "坚韧 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 1,
+		"id" : 102058,
+		"rate" : 10000,
+		"score" : 1150
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 61,
+		"attrValue" : 115,
+		"desc" : "五行攻击 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 1,
+		"id" : 102061,
+		"rate" : 10000,
+		"recommend" : 1,
+		"score" : 1265
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 62,
+		"attrValue" : 115,
+		"desc" : "五行防御 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 1,
+		"id" : 102062,
+		"rate" : 10000,
+		"recommend" : 1,
+		"score" : 1150
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 85,
+		"desc" : "铜钱掉落 +0.85%",
+		"equipColor" : 2,
+		"equipType" : 1,
+		"id" : 102080,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 88,
+		"attrValue" : 10,
+		"desc" : "暴击抵抗 +0.1%",
+		"equipColor" : 2,
+		"equipType" : 1,
+		"id" : 102088,
+		"rate" : 10000,
+		"recommend" : 1,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 5,
+		"attrValue" : 100,
+		"desc" : "闪避 +100",
+		"equipColor" : 3,
+		"equipType" : 1,
+		"id" : 103005,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 6,
+		"attrValue" : 100,
+		"desc" : "命中 +100",
+		"equipColor" : 3,
+		"equipType" : 1,
+		"id" : 103006,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 7,
+		"attrValue" : 100,
+		"desc" : "暴击 +100",
+		"equipColor" : 3,
+		"equipType" : 1,
+		"id" : 103007,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 8,
+		"attrValue" : 100,
+		"desc" : "坚韧 +100",
+		"equipColor" : 3,
+		"equipType" : 1,
+		"id" : 103008,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 11,
+		"attrValue" : 100,
+		"desc" : "五行攻击 +100",
+		"equipColor" : 3,
+		"equipType" : 1,
+		"id" : 103011,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 12,
+		"attrValue" : 100,
+		"desc" : "五行防御 +100",
+		"equipColor" : 3,
+		"equipType" : 1,
+		"id" : 103012,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 55,
+		"attrValue" : 195,
+		"desc" : "闪避 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 1,
+		"id" : 103055,
+		"rate" : 8000,
+		"score" : 2145
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 56,
+		"attrValue" : 195,
+		"desc" : "命中 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 1,
+		"id" : 103056,
+		"rate" : 8000,
+		"score" : 1950
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 57,
+		"attrValue" : 195,
+		"desc" : "暴击 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 1,
+		"id" : 103057,
+		"rate" : 8000,
+		"score" : 2145
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 58,
+		"attrValue" : 195,
+		"desc" : "坚韧 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 1,
+		"id" : 103058,
+		"rate" : 8000,
+		"score" : 1950
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 61,
+		"attrValue" : 195,
+		"desc" : "五行攻击 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 1,
+		"id" : 103061,
+		"rate" : 8000,
+		"recommend" : 1,
+		"score" : 2145
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 62,
+		"attrValue" : 195,
+		"desc" : "五行防御 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 1,
+		"id" : 103062,
+		"rate" : 8000,
+		"recommend" : 1,
+		"score" : 1950
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 145,
+		"desc" : "铜钱掉落 +1.45%",
+		"equipColor" : 3,
+		"equipType" : 1,
+		"id" : 103080,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 88,
+		"attrValue" : 15,
+		"desc" : "暴击抵抗 +0.15%",
+		"equipColor" : 3,
+		"equipType" : 1,
+		"id" : 103088,
+		"rate" : 8000,
+		"recommend" : 1,
+		"score" : 3000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 5,
+		"attrValue" : 140,
+		"desc" : "闪避 +140",
+		"equipColor" : 4,
+		"equipType" : 1,
+		"id" : 104005,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 6,
+		"attrValue" : 140,
+		"desc" : "命中 +140",
+		"equipColor" : 4,
+		"equipType" : 1,
+		"id" : 104006,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 7,
+		"attrValue" : 140,
+		"desc" : "暴击 +140",
+		"equipColor" : 4,
+		"equipType" : 1,
+		"id" : 104007,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 8,
+		"attrValue" : 140,
+		"desc" : "坚韧 +140",
+		"equipColor" : 4,
+		"equipType" : 1,
+		"id" : 104008,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 11,
+		"attrValue" : 140,
+		"desc" : "五行攻击 +140",
+		"equipColor" : 4,
+		"equipType" : 1,
+		"id" : 104011,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 12,
+		"attrValue" : 140,
+		"desc" : "五行防御 +140",
+		"equipColor" : 4,
+		"equipType" : 1,
+		"id" : 104012,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 55,
+		"attrValue" : 280,
+		"desc" : "闪避 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 1,
+		"id" : 104055,
+		"rate" : 500,
+		"score" : 3080
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 56,
+		"attrValue" : 280,
+		"desc" : "命中 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 1,
+		"id" : 104056,
+		"rate" : 500,
+		"score" : 2800
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 57,
+		"attrValue" : 280,
+		"desc" : "暴击 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 1,
+		"id" : 104057,
+		"rate" : 500,
+		"score" : 3080
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 58,
+		"attrValue" : 280,
+		"desc" : "坚韧 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 1,
+		"id" : 104058,
+		"rate" : 500,
+		"score" : 2800
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 61,
+		"attrValue" : 280,
+		"desc" : "五行攻击 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 1,
+		"id" : 104061,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 3080
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 62,
+		"attrValue" : 280,
+		"desc" : "五行防御 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 1,
+		"id" : 104062,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 2800
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 210,
+		"desc" : "铜钱掉落 +2.1%",
+		"equipColor" : 4,
+		"equipType" : 1,
+		"id" : 104080,
+		"rate" : 2500
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 88,
+		"attrValue" : 20,
+		"desc" : "暴击抵抗 +0.2%",
+		"equipColor" : 4,
+		"equipType" : 1,
+		"id" : 104088,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 4000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 5,
+		"attrValue" : 200,
+		"desc" : "闪避 +200",
+		"equipColor" : 5,
+		"equipType" : 1,
+		"id" : 105005,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 6,
+		"attrValue" : 200,
+		"desc" : "命中 +200",
+		"equipColor" : 5,
+		"equipType" : 1,
+		"id" : 105006,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 7,
+		"attrValue" : 200,
+		"desc" : "暴击 +200",
+		"equipColor" : 5,
+		"equipType" : 1,
+		"id" : 105007,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 8,
+		"attrValue" : 200,
+		"desc" : "坚韧 +200",
+		"equipColor" : 5,
+		"equipType" : 1,
+		"id" : 105008,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 11,
+		"attrValue" : 200,
+		"desc" : "五行攻击 +200",
+		"equipColor" : 5,
+		"equipType" : 1,
+		"id" : 105011,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 12,
+		"attrValue" : 200,
+		"desc" : "五行防御 +200",
+		"equipColor" : 5,
+		"equipType" : 1,
+		"id" : 105012,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 55,
+		"attrValue" : 400,
+		"desc" : "闪避 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 1,
+		"id" : 105055,
+		"rate" : 500,
+		"score" : 4400
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 56,
+		"attrValue" : 400,
+		"desc" : "命中 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 1,
+		"id" : 105056,
+		"rate" : 500,
+		"score" : 4000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 57,
+		"attrValue" : 400,
+		"desc" : "暴击 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 1,
+		"id" : 105057,
+		"rate" : 500,
+		"score" : 4400
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 58,
+		"attrValue" : 400,
+		"desc" : "坚韧 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 1,
+		"id" : 105058,
+		"rate" : 500,
+		"score" : 4000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 61,
+		"attrValue" : 400,
+		"desc" : "五行攻击 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 1,
+		"id" : 105061,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 4400
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 62,
+		"attrValue" : 400,
+		"desc" : "五行防御 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 1,
+		"id" : 105062,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 4000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 300,
+		"desc" : "铜钱掉落 +3.0%",
+		"equipColor" : 5,
+		"equipType" : 1,
+		"id" : 105080,
+		"rate" : 5000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 88,
+		"attrValue" : 30,
+		"desc" : "暴击抵抗 +0.3%",
+		"equipColor" : 5,
+		"equipType" : 1,
+		"id" : 105088,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 6000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 58,
+		"attrValue" : 500,
+		"desc" : "坚韧+5.0%",
+		"equipColor" : 6,
+		"equipType" : 1,
+		"id" : 106058,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 5000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 61,
+		"attrValue" : 500,
+		"desc" : "五行攻击+5.0%",
+		"equipColor" : 6,
+		"equipType" : 1,
+		"id" : 106061,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 5500
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 62,
+		"attrValue" : 500,
+		"desc" : "五行防御+5.0%",
+		"equipColor" : 6,
+		"equipType" : 1,
+		"id" : 106062,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 5000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 5,
+		"attrValue" : 35,
+		"desc" : "闪避 +35",
+		"equipColor" : 1,
+		"equipType" : 2,
+		"id" : 201005,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 6,
+		"attrValue" : 35,
+		"desc" : "命中 +35",
+		"equipColor" : 1,
+		"equipType" : 2,
+		"id" : 201006,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 7,
+		"attrValue" : 35,
+		"desc" : "暴击 +35",
+		"equipColor" : 1,
+		"equipType" : 2,
+		"id" : 201007,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 8,
+		"attrValue" : 35,
+		"desc" : "坚韧 +35",
+		"equipColor" : 1,
+		"equipType" : 2,
+		"id" : 201008,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 11,
+		"attrValue" : 35,
+		"desc" : "五行攻击 +35",
+		"equipColor" : 1,
+		"equipType" : 2,
+		"id" : 201011,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 12,
+		"attrValue" : 35,
+		"desc" : "五行防御 +35",
+		"equipColor" : 1,
+		"equipType" : 2,
+		"id" : 201012,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 50,
+		"desc" : "铜钱掉落 +0.5%",
+		"equipColor" : 1,
+		"equipType" : 2,
+		"id" : 201080,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 5,
+		"attrValue" : 60,
+		"desc" : "闪避 +60",
+		"equipColor" : 2,
+		"equipType" : 2,
+		"id" : 202005,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 6,
+		"attrValue" : 60,
+		"desc" : "命中 +60",
+		"equipColor" : 2,
+		"equipType" : 2,
+		"id" : 202006,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 7,
+		"attrValue" : 60,
+		"desc" : "暴击 +60",
+		"equipColor" : 2,
+		"equipType" : 2,
+		"id" : 202007,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 8,
+		"attrValue" : 60,
+		"desc" : "坚韧 +60",
+		"equipColor" : 2,
+		"equipType" : 2,
+		"id" : 202008,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 11,
+		"attrValue" : 60,
+		"desc" : "五行攻击 +60",
+		"equipColor" : 2,
+		"equipType" : 2,
+		"id" : 202011,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 12,
+		"attrValue" : 60,
+		"desc" : "五行防御 +60",
+		"equipColor" : 2,
+		"equipType" : 2,
+		"id" : 202012,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 55,
+		"attrValue" : 115,
+		"desc" : "闪避 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 2,
+		"id" : 202055,
+		"rate" : 10000,
+		"score" : 1265
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 56,
+		"attrValue" : 115,
+		"desc" : "命中 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 2,
+		"id" : 202056,
+		"rate" : 10000,
+		"score" : 1150
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 57,
+		"attrValue" : 115,
+		"desc" : "暴击 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 2,
+		"id" : 202057,
+		"rate" : 10000,
+		"score" : 1265
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 58,
+		"attrValue" : 115,
+		"desc" : "坚韧 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 2,
+		"id" : 202058,
+		"rate" : 10000,
+		"score" : 1150
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 61,
+		"attrValue" : 115,
+		"desc" : "五行攻击 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 2,
+		"id" : 202061,
+		"rate" : 10000,
+		"recommend" : 1,
+		"score" : 1265
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 62,
+		"attrValue" : 115,
+		"desc" : "五行防御 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 2,
+		"id" : 202062,
+		"rate" : 10000,
+		"recommend" : 1,
+		"score" : 1150
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 85,
+		"desc" : "铜钱掉落 +0.85%",
+		"equipColor" : 2,
+		"equipType" : 2,
+		"id" : 202080,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 88,
+		"attrValue" : 10,
+		"desc" : "暴击抵抗 +0.1%",
+		"equipColor" : 2,
+		"equipType" : 2,
+		"id" : 202088,
+		"rate" : 10000,
+		"recommend" : 1,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 5,
+		"attrValue" : 100,
+		"desc" : "闪避 +100",
+		"equipColor" : 3,
+		"equipType" : 2,
+		"id" : 203005,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 6,
+		"attrValue" : 100,
+		"desc" : "命中 +100",
+		"equipColor" : 3,
+		"equipType" : 2,
+		"id" : 203006,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 7,
+		"attrValue" : 100,
+		"desc" : "暴击 +100",
+		"equipColor" : 3,
+		"equipType" : 2,
+		"id" : 203007,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 8,
+		"attrValue" : 100,
+		"desc" : "坚韧 +100",
+		"equipColor" : 3,
+		"equipType" : 2,
+		"id" : 203008,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 11,
+		"attrValue" : 100,
+		"desc" : "五行攻击 +100",
+		"equipColor" : 3,
+		"equipType" : 2,
+		"id" : 203011,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 12,
+		"attrValue" : 100,
+		"desc" : "五行防御 +100",
+		"equipColor" : 3,
+		"equipType" : 2,
+		"id" : 203012,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 55,
+		"attrValue" : 195,
+		"desc" : "闪避 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 2,
+		"id" : 203055,
+		"rate" : 8000,
+		"score" : 2145
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 56,
+		"attrValue" : 195,
+		"desc" : "命中 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 2,
+		"id" : 203056,
+		"rate" : 8000,
+		"score" : 1950
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 57,
+		"attrValue" : 195,
+		"desc" : "暴击 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 2,
+		"id" : 203057,
+		"rate" : 8000,
+		"score" : 2145
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 58,
+		"attrValue" : 195,
+		"desc" : "坚韧 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 2,
+		"id" : 203058,
+		"rate" : 8000,
+		"score" : 1950
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 61,
+		"attrValue" : 195,
+		"desc" : "五行攻击 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 2,
+		"id" : 203061,
+		"rate" : 8000,
+		"recommend" : 1,
+		"score" : 2145
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 62,
+		"attrValue" : 195,
+		"desc" : "五行防御 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 2,
+		"id" : 203062,
+		"rate" : 8000,
+		"recommend" : 1,
+		"score" : 1950
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 145,
+		"desc" : "铜钱掉落 +1.45%",
+		"equipColor" : 3,
+		"equipType" : 2,
+		"id" : 203080,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 88,
+		"attrValue" : 15,
+		"desc" : "暴击抵抗 +0.15%",
+		"equipColor" : 3,
+		"equipType" : 2,
+		"id" : 203088,
+		"rate" : 8000,
+		"recommend" : 1,
+		"score" : 3000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 5,
+		"attrValue" : 140,
+		"desc" : "闪避 +140",
+		"equipColor" : 4,
+		"equipType" : 2,
+		"id" : 204005,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 6,
+		"attrValue" : 140,
+		"desc" : "命中 +140",
+		"equipColor" : 4,
+		"equipType" : 2,
+		"id" : 204006,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 7,
+		"attrValue" : 140,
+		"desc" : "暴击 +140",
+		"equipColor" : 4,
+		"equipType" : 2,
+		"id" : 204007,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 8,
+		"attrValue" : 140,
+		"desc" : "坚韧 +140",
+		"equipColor" : 4,
+		"equipType" : 2,
+		"id" : 204008,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 11,
+		"attrValue" : 140,
+		"desc" : "五行攻击 +140",
+		"equipColor" : 4,
+		"equipType" : 2,
+		"id" : 204011,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 12,
+		"attrValue" : 140,
+		"desc" : "五行防御 +140",
+		"equipColor" : 4,
+		"equipType" : 2,
+		"id" : 204012,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 55,
+		"attrValue" : 280,
+		"desc" : "闪避 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 2,
+		"id" : 204055,
+		"rate" : 500,
+		"score" : 3080
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 56,
+		"attrValue" : 280,
+		"desc" : "命中 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 2,
+		"id" : 204056,
+		"rate" : 500,
+		"score" : 2800
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 57,
+		"attrValue" : 280,
+		"desc" : "暴击 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 2,
+		"id" : 204057,
+		"rate" : 500,
+		"score" : 3080
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 58,
+		"attrValue" : 280,
+		"desc" : "坚韧 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 2,
+		"id" : 204058,
+		"rate" : 500,
+		"score" : 2800
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 61,
+		"attrValue" : 280,
+		"desc" : "五行攻击 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 2,
+		"id" : 204061,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 3080
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 62,
+		"attrValue" : 280,
+		"desc" : "五行防御 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 2,
+		"id" : 204062,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 2800
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 210,
+		"desc" : "铜钱掉落 +2.1%",
+		"equipColor" : 4,
+		"equipType" : 2,
+		"id" : 204080,
+		"rate" : 2500
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 88,
+		"attrValue" : 20,
+		"desc" : "暴击抵抗 +0.2%",
+		"equipColor" : 4,
+		"equipType" : 2,
+		"id" : 204088,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 4000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 5,
+		"attrValue" : 200,
+		"desc" : "闪避 +200",
+		"equipColor" : 5,
+		"equipType" : 2,
+		"id" : 205005,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 6,
+		"attrValue" : 200,
+		"desc" : "命中 +200",
+		"equipColor" : 5,
+		"equipType" : 2,
+		"id" : 205006,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 7,
+		"attrValue" : 200,
+		"desc" : "暴击 +200",
+		"equipColor" : 5,
+		"equipType" : 2,
+		"id" : 205007,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 8,
+		"attrValue" : 200,
+		"desc" : "坚韧 +200",
+		"equipColor" : 5,
+		"equipType" : 2,
+		"id" : 205008,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 11,
+		"attrValue" : 200,
+		"desc" : "五行攻击 +200",
+		"equipColor" : 5,
+		"equipType" : 2,
+		"id" : 205011,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 12,
+		"attrValue" : 200,
+		"desc" : "五行防御 +200",
+		"equipColor" : 5,
+		"equipType" : 2,
+		"id" : 205012,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 55,
+		"attrValue" : 400,
+		"desc" : "闪避 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 2,
+		"id" : 205055,
+		"rate" : 500,
+		"score" : 4400
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 56,
+		"attrValue" : 400,
+		"desc" : "命中 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 2,
+		"id" : 205056,
+		"rate" : 500,
+		"score" : 4000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 57,
+		"attrValue" : 400,
+		"desc" : "暴击 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 2,
+		"id" : 205057,
+		"rate" : 500,
+		"score" : 4400
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 58,
+		"attrValue" : 400,
+		"desc" : "坚韧 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 2,
+		"id" : 205058,
+		"rate" : 500,
+		"score" : 4000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 61,
+		"attrValue" : 400,
+		"desc" : "五行攻击 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 2,
+		"id" : 205061,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 4400
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 62,
+		"attrValue" : 400,
+		"desc" : "五行防御 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 2,
+		"id" : 205062,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 4000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 300,
+		"desc" : "铜钱掉落 +3.0%",
+		"equipColor" : 5,
+		"equipType" : 2,
+		"id" : 205080,
+		"rate" : 5000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 88,
+		"attrValue" : 30,
+		"desc" : "暴击抵抗 +0.3%",
+		"equipColor" : 5,
+		"equipType" : 2,
+		"id" : 205088,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 6000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 56,
+		"attrValue" : 500,
+		"desc" : "命中 +5.0%",
+		"equipColor" : 6,
+		"equipType" : 2,
+		"id" : 206056,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 5000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 57,
+		"attrValue" : 500,
+		"desc" : "暴击 +5.0%",
+		"equipColor" : 6,
+		"equipType" : 2,
+		"id" : 206057,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 5500
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 61,
+		"attrValue" : 500,
+		"desc" : "五行攻击+5.0%",
+		"equipColor" : 6,
+		"equipType" : 2,
+		"id" : 206061,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 5500
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 5,
+		"attrValue" : 35,
+		"desc" : "闪避 +35",
+		"equipColor" : 1,
+		"equipType" : 3,
+		"id" : 301005,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 6,
+		"attrValue" : 35,
+		"desc" : "命中 +35",
+		"equipColor" : 1,
+		"equipType" : 3,
+		"id" : 301006,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 7,
+		"attrValue" : 35,
+		"desc" : "暴击 +35",
+		"equipColor" : 1,
+		"equipType" : 3,
+		"id" : 301007,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 8,
+		"attrValue" : 35,
+		"desc" : "坚韧 +35",
+		"equipColor" : 1,
+		"equipType" : 3,
+		"id" : 301008,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 11,
+		"attrValue" : 35,
+		"desc" : "五行攻击 +35",
+		"equipColor" : 1,
+		"equipType" : 3,
+		"id" : 301011,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 12,
+		"attrValue" : 35,
+		"desc" : "五行防御 +35",
+		"equipColor" : 1,
+		"equipType" : 3,
+		"id" : 301012,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 50,
+		"desc" : "铜钱掉落 +0.5%",
+		"equipColor" : 1,
+		"equipType" : 3,
+		"id" : 301080,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 5,
+		"attrValue" : 60,
+		"desc" : "闪避 +60",
+		"equipColor" : 2,
+		"equipType" : 3,
+		"id" : 302005,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 6,
+		"attrValue" : 60,
+		"desc" : "命中 +60",
+		"equipColor" : 2,
+		"equipType" : 3,
+		"id" : 302006,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 7,
+		"attrValue" : 60,
+		"desc" : "暴击 +60",
+		"equipColor" : 2,
+		"equipType" : 3,
+		"id" : 302007,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 8,
+		"attrValue" : 60,
+		"desc" : "坚韧 +60",
+		"equipColor" : 2,
+		"equipType" : 3,
+		"id" : 302008,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 11,
+		"attrValue" : 60,
+		"desc" : "五行攻击 +60",
+		"equipColor" : 2,
+		"equipType" : 3,
+		"id" : 302011,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 12,
+		"attrValue" : 60,
+		"desc" : "五行防御 +60",
+		"equipColor" : 2,
+		"equipType" : 3,
+		"id" : 302012,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 55,
+		"attrValue" : 115,
+		"desc" : "闪避 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 3,
+		"id" : 302055,
+		"rate" : 10000,
+		"score" : 1265
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 56,
+		"attrValue" : 115,
+		"desc" : "命中 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 3,
+		"id" : 302056,
+		"rate" : 10000,
+		"score" : 1150
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 57,
+		"attrValue" : 115,
+		"desc" : "暴击 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 3,
+		"id" : 302057,
+		"rate" : 10000,
+		"score" : 1265
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 58,
+		"attrValue" : 115,
+		"desc" : "坚韧 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 3,
+		"id" : 302058,
+		"rate" : 10000,
+		"score" : 1150
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 61,
+		"attrValue" : 115,
+		"desc" : "五行攻击 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 3,
+		"id" : 302061,
+		"rate" : 10000,
+		"recommend" : 1,
+		"score" : 1265
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 62,
+		"attrValue" : 115,
+		"desc" : "五行防御 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 3,
+		"id" : 302062,
+		"rate" : 10000,
+		"recommend" : 1,
+		"score" : 1150
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 85,
+		"desc" : "铜钱掉落 +0.85%",
+		"equipColor" : 2,
+		"equipType" : 3,
+		"id" : 302080,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 88,
+		"attrValue" : 10,
+		"desc" : "暴击抵抗 +0.1%",
+		"equipColor" : 2,
+		"equipType" : 3,
+		"id" : 302088,
+		"rate" : 10000,
+		"recommend" : 1,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 5,
+		"attrValue" : 100,
+		"desc" : "闪避 +100",
+		"equipColor" : 3,
+		"equipType" : 3,
+		"id" : 303005,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 6,
+		"attrValue" : 100,
+		"desc" : "命中 +100",
+		"equipColor" : 3,
+		"equipType" : 3,
+		"id" : 303006,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 7,
+		"attrValue" : 100,
+		"desc" : "暴击 +100",
+		"equipColor" : 3,
+		"equipType" : 3,
+		"id" : 303007,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 8,
+		"attrValue" : 100,
+		"desc" : "坚韧 +100",
+		"equipColor" : 3,
+		"equipType" : 3,
+		"id" : 303008,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 11,
+		"attrValue" : 100,
+		"desc" : "五行攻击 +100",
+		"equipColor" : 3,
+		"equipType" : 3,
+		"id" : 303011,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 12,
+		"attrValue" : 100,
+		"desc" : "五行防御 +100",
+		"equipColor" : 3,
+		"equipType" : 3,
+		"id" : 303012,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 55,
+		"attrValue" : 195,
+		"desc" : "闪避 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 3,
+		"id" : 303055,
+		"rate" : 8000,
+		"score" : 2145
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 56,
+		"attrValue" : 195,
+		"desc" : "命中 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 3,
+		"id" : 303056,
+		"rate" : 8000,
+		"score" : 1950
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 57,
+		"attrValue" : 195,
+		"desc" : "暴击 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 3,
+		"id" : 303057,
+		"rate" : 8000,
+		"score" : 2145
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 58,
+		"attrValue" : 195,
+		"desc" : "坚韧 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 3,
+		"id" : 303058,
+		"rate" : 8000,
+		"score" : 1950
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 61,
+		"attrValue" : 195,
+		"desc" : "五行攻击 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 3,
+		"id" : 303061,
+		"rate" : 8000,
+		"recommend" : 1,
+		"score" : 2145
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 62,
+		"attrValue" : 195,
+		"desc" : "五行防御 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 3,
+		"id" : 303062,
+		"rate" : 8000,
+		"recommend" : 1,
+		"score" : 1950
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 145,
+		"desc" : "铜钱掉落 +1.45%",
+		"equipColor" : 3,
+		"equipType" : 3,
+		"id" : 303080,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 88,
+		"attrValue" : 15,
+		"desc" : "暴击抵抗 +0.15%",
+		"equipColor" : 3,
+		"equipType" : 3,
+		"id" : 303088,
+		"rate" : 8000,
+		"recommend" : 1,
+		"score" : 3000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 5,
+		"attrValue" : 140,
+		"desc" : "闪避 +140",
+		"equipColor" : 4,
+		"equipType" : 3,
+		"id" : 304005,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 6,
+		"attrValue" : 140,
+		"desc" : "命中 +140",
+		"equipColor" : 4,
+		"equipType" : 3,
+		"id" : 304006,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 7,
+		"attrValue" : 140,
+		"desc" : "暴击 +140",
+		"equipColor" : 4,
+		"equipType" : 3,
+		"id" : 304007,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 8,
+		"attrValue" : 140,
+		"desc" : "坚韧 +140",
+		"equipColor" : 4,
+		"equipType" : 3,
+		"id" : 304008,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 11,
+		"attrValue" : 140,
+		"desc" : "五行攻击 +140",
+		"equipColor" : 4,
+		"equipType" : 3,
+		"id" : 304011,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 12,
+		"attrValue" : 140,
+		"desc" : "五行防御 +140",
+		"equipColor" : 4,
+		"equipType" : 3,
+		"id" : 304012,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 55,
+		"attrValue" : 280,
+		"desc" : "闪避 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 3,
+		"id" : 304055,
+		"rate" : 500,
+		"score" : 3080
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 56,
+		"attrValue" : 280,
+		"desc" : "命中 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 3,
+		"id" : 304056,
+		"rate" : 500,
+		"score" : 2800
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 57,
+		"attrValue" : 280,
+		"desc" : "暴击 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 3,
+		"id" : 304057,
+		"rate" : 500,
+		"score" : 3080
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 58,
+		"attrValue" : 280,
+		"desc" : "坚韧 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 3,
+		"id" : 304058,
+		"rate" : 500,
+		"score" : 2800
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 61,
+		"attrValue" : 280,
+		"desc" : "五行攻击 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 3,
+		"id" : 304061,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 3080
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 62,
+		"attrValue" : 280,
+		"desc" : "五行防御 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 3,
+		"id" : 304062,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 2800
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 210,
+		"desc" : "铜钱掉落 +2.1%",
+		"equipColor" : 4,
+		"equipType" : 3,
+		"id" : 304080,
+		"rate" : 2500
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 88,
+		"attrValue" : 20,
+		"desc" : "暴击抵抗 +0.2%",
+		"equipColor" : 4,
+		"equipType" : 3,
+		"id" : 304088,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 4000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 5,
+		"attrValue" : 200,
+		"desc" : "闪避 +200",
+		"equipColor" : 5,
+		"equipType" : 3,
+		"id" : 305005,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 6,
+		"attrValue" : 200,
+		"desc" : "命中 +200",
+		"equipColor" : 5,
+		"equipType" : 3,
+		"id" : 305006,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 7,
+		"attrValue" : 200,
+		"desc" : "暴击 +200",
+		"equipColor" : 5,
+		"equipType" : 3,
+		"id" : 305007,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 8,
+		"attrValue" : 200,
+		"desc" : "坚韧 +200",
+		"equipColor" : 5,
+		"equipType" : 3,
+		"id" : 305008,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 11,
+		"attrValue" : 200,
+		"desc" : "五行攻击 +200",
+		"equipColor" : 5,
+		"equipType" : 3,
+		"id" : 305011,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 12,
+		"attrValue" : 200,
+		"desc" : "五行防御 +200",
+		"equipColor" : 5,
+		"equipType" : 3,
+		"id" : 305012,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 55,
+		"attrValue" : 400,
+		"desc" : "闪避 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 3,
+		"id" : 305055,
+		"rate" : 500,
+		"score" : 4400
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 56,
+		"attrValue" : 400,
+		"desc" : "命中 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 3,
+		"id" : 305056,
+		"rate" : 500,
+		"score" : 4000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 57,
+		"attrValue" : 400,
+		"desc" : "暴击 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 3,
+		"id" : 305057,
+		"rate" : 500,
+		"score" : 4400
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 58,
+		"attrValue" : 400,
+		"desc" : "坚韧 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 3,
+		"id" : 305058,
+		"rate" : 500,
+		"score" : 4000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 61,
+		"attrValue" : 400,
+		"desc" : "五行攻击 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 3,
+		"id" : 305061,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 4400
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 62,
+		"attrValue" : 400,
+		"desc" : "五行防御 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 3,
+		"id" : 305062,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 4000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 300,
+		"desc" : "铜钱掉落 +3.0%",
+		"equipColor" : 5,
+		"equipType" : 3,
+		"id" : 305080,
+		"rate" : 5000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 88,
+		"attrValue" : 30,
+		"desc" : "暴击抵抗 +0.3%",
+		"equipColor" : 5,
+		"equipType" : 3,
+		"id" : 305088,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 6000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 56,
+		"attrValue" : 500,
+		"desc" : "命中 +5.0%",
+		"equipColor" : 6,
+		"equipType" : 3,
+		"id" : 306056,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 5000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 88,
+		"attrValue" : 40,
+		"desc" : "暴击抵抗 +0.4%",
+		"equipColor" : 6,
+		"equipType" : 3,
+		"id" : 306057,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 8000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 62,
+		"attrValue" : 500,
+		"desc" : "五行防御 +5.0%",
+		"equipColor" : 6,
+		"equipType" : 3,
+		"id" : 306061,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 5000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 5,
+		"attrValue" : 35,
+		"desc" : "闪避 +35",
+		"equipColor" : 1,
+		"equipType" : 4,
+		"id" : 401005,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 6,
+		"attrValue" : 35,
+		"desc" : "命中 +35",
+		"equipColor" : 1,
+		"equipType" : 4,
+		"id" : 401006,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 7,
+		"attrValue" : 35,
+		"desc" : "暴击 +35",
+		"equipColor" : 1,
+		"equipType" : 4,
+		"id" : 401007,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 8,
+		"attrValue" : 35,
+		"desc" : "坚韧 +35",
+		"equipColor" : 1,
+		"equipType" : 4,
+		"id" : 401008,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 11,
+		"attrValue" : 35,
+		"desc" : "五行攻击 +35",
+		"equipColor" : 1,
+		"equipType" : 4,
+		"id" : 401011,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 12,
+		"attrValue" : 35,
+		"desc" : "五行防御 +35",
+		"equipColor" : 1,
+		"equipType" : 4,
+		"id" : 401012,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 50,
+		"desc" : "铜钱掉落 +0.5%",
+		"equipColor" : 1,
+		"equipType" : 4,
+		"id" : 401080,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 5,
+		"attrValue" : 60,
+		"desc" : "闪避 +60",
+		"equipColor" : 2,
+		"equipType" : 4,
+		"id" : 402005,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 6,
+		"attrValue" : 60,
+		"desc" : "命中 +60",
+		"equipColor" : 2,
+		"equipType" : 4,
+		"id" : 402006,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 7,
+		"attrValue" : 60,
+		"desc" : "暴击 +60",
+		"equipColor" : 2,
+		"equipType" : 4,
+		"id" : 402007,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 8,
+		"attrValue" : 60,
+		"desc" : "坚韧 +60",
+		"equipColor" : 2,
+		"equipType" : 4,
+		"id" : 402008,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 11,
+		"attrValue" : 60,
+		"desc" : "五行攻击 +60",
+		"equipColor" : 2,
+		"equipType" : 4,
+		"id" : 402011,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 12,
+		"attrValue" : 60,
+		"desc" : "五行防御 +60",
+		"equipColor" : 2,
+		"equipType" : 4,
+		"id" : 402012,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 55,
+		"attrValue" : 115,
+		"desc" : "闪避 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 4,
+		"id" : 402055,
+		"rate" : 10000,
+		"score" : 1265
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 56,
+		"attrValue" : 115,
+		"desc" : "命中 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 4,
+		"id" : 402056,
+		"rate" : 10000,
+		"score" : 1150
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 57,
+		"attrValue" : 115,
+		"desc" : "暴击 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 4,
+		"id" : 402057,
+		"rate" : 10000,
+		"score" : 1265
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 58,
+		"attrValue" : 115,
+		"desc" : "坚韧 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 4,
+		"id" : 402058,
+		"rate" : 10000,
+		"score" : 1150
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 61,
+		"attrValue" : 115,
+		"desc" : "五行攻击 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 4,
+		"id" : 402061,
+		"rate" : 10000,
+		"recommend" : 1,
+		"score" : 1265
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 62,
+		"attrValue" : 115,
+		"desc" : "五行防御 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 4,
+		"id" : 402062,
+		"rate" : 10000,
+		"recommend" : 1,
+		"score" : 1150
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 85,
+		"desc" : "铜钱掉落 +0.85%",
+		"equipColor" : 2,
+		"equipType" : 4,
+		"id" : 402080,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 88,
+		"attrValue" : 10,
+		"desc" : "暴击抵抗 +0.1%",
+		"equipColor" : 2,
+		"equipType" : 4,
+		"id" : 402088,
+		"rate" : 10000,
+		"recommend" : 1,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 5,
+		"attrValue" : 100,
+		"desc" : "闪避 +100",
+		"equipColor" : 3,
+		"equipType" : 4,
+		"id" : 403005,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 6,
+		"attrValue" : 100,
+		"desc" : "命中 +100",
+		"equipColor" : 3,
+		"equipType" : 4,
+		"id" : 403006,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 7,
+		"attrValue" : 100,
+		"desc" : "暴击 +100",
+		"equipColor" : 3,
+		"equipType" : 4,
+		"id" : 403007,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 8,
+		"attrValue" : 100,
+		"desc" : "坚韧 +100",
+		"equipColor" : 3,
+		"equipType" : 4,
+		"id" : 403008,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 11,
+		"attrValue" : 100,
+		"desc" : "五行攻击 +100",
+		"equipColor" : 3,
+		"equipType" : 4,
+		"id" : 403011,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 12,
+		"attrValue" : 100,
+		"desc" : "五行防御 +100",
+		"equipColor" : 3,
+		"equipType" : 4,
+		"id" : 403012,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 55,
+		"attrValue" : 195,
+		"desc" : "闪避 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 4,
+		"id" : 403055,
+		"rate" : 8000,
+		"score" : 2145
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 56,
+		"attrValue" : 195,
+		"desc" : "命中 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 4,
+		"id" : 403056,
+		"rate" : 8000,
+		"score" : 1950
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 57,
+		"attrValue" : 195,
+		"desc" : "暴击 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 4,
+		"id" : 403057,
+		"rate" : 8000,
+		"score" : 2145
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 58,
+		"attrValue" : 195,
+		"desc" : "坚韧 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 4,
+		"id" : 403058,
+		"rate" : 8000,
+		"score" : 1950
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 61,
+		"attrValue" : 195,
+		"desc" : "五行攻击 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 4,
+		"id" : 403061,
+		"rate" : 8000,
+		"recommend" : 1,
+		"score" : 2145
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 62,
+		"attrValue" : 195,
+		"desc" : "五行防御 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 4,
+		"id" : 403062,
+		"rate" : 8000,
+		"recommend" : 1,
+		"score" : 1950
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 145,
+		"desc" : "铜钱掉落 +1.45%",
+		"equipColor" : 3,
+		"equipType" : 4,
+		"id" : 403080,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 88,
+		"attrValue" : 15,
+		"desc" : "暴击抵抗 +0.15%",
+		"equipColor" : 3,
+		"equipType" : 4,
+		"id" : 403088,
+		"rate" : 8000,
+		"recommend" : 1,
+		"score" : 3000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 5,
+		"attrValue" : 140,
+		"desc" : "闪避 +140",
+		"equipColor" : 4,
+		"equipType" : 4,
+		"id" : 404005,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 6,
+		"attrValue" : 140,
+		"desc" : "命中 +140",
+		"equipColor" : 4,
+		"equipType" : 4,
+		"id" : 404006,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 7,
+		"attrValue" : 140,
+		"desc" : "暴击 +140",
+		"equipColor" : 4,
+		"equipType" : 4,
+		"id" : 404007,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 8,
+		"attrValue" : 140,
+		"desc" : "坚韧 +140",
+		"equipColor" : 4,
+		"equipType" : 4,
+		"id" : 404008,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 11,
+		"attrValue" : 140,
+		"desc" : "五行攻击 +140",
+		"equipColor" : 4,
+		"equipType" : 4,
+		"id" : 404011,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 12,
+		"attrValue" : 140,
+		"desc" : "五行防御 +140",
+		"equipColor" : 4,
+		"equipType" : 4,
+		"id" : 404012,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 55,
+		"attrValue" : 280,
+		"desc" : "闪避 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 4,
+		"id" : 404055,
+		"rate" : 500,
+		"score" : 3080
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 56,
+		"attrValue" : 280,
+		"desc" : "命中 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 4,
+		"id" : 404056,
+		"rate" : 500,
+		"score" : 2800
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 57,
+		"attrValue" : 280,
+		"desc" : "暴击 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 4,
+		"id" : 404057,
+		"rate" : 500,
+		"score" : 3080
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 58,
+		"attrValue" : 280,
+		"desc" : "坚韧 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 4,
+		"id" : 404058,
+		"rate" : 500,
+		"score" : 2800
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 61,
+		"attrValue" : 280,
+		"desc" : "五行攻击 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 4,
+		"id" : 404061,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 3080
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 62,
+		"attrValue" : 280,
+		"desc" : "五行防御 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 4,
+		"id" : 404062,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 2800
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 210,
+		"desc" : "铜钱掉落 +2.1%",
+		"equipColor" : 4,
+		"equipType" : 4,
+		"id" : 404080,
+		"rate" : 2500
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 88,
+		"attrValue" : 20,
+		"desc" : "暴击抵抗 +0.2%",
+		"equipColor" : 4,
+		"equipType" : 4,
+		"id" : 404088,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 4000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 5,
+		"attrValue" : 200,
+		"desc" : "闪避 +200",
+		"equipColor" : 5,
+		"equipType" : 4,
+		"id" : 405005,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 6,
+		"attrValue" : 200,
+		"desc" : "命中 +200",
+		"equipColor" : 5,
+		"equipType" : 4,
+		"id" : 405006,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 7,
+		"attrValue" : 200,
+		"desc" : "暴击 +200",
+		"equipColor" : 5,
+		"equipType" : 4,
+		"id" : 405007,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 8,
+		"attrValue" : 200,
+		"desc" : "坚韧 +200",
+		"equipColor" : 5,
+		"equipType" : 4,
+		"id" : 405008,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 11,
+		"attrValue" : 200,
+		"desc" : "五行攻击 +200",
+		"equipColor" : 5,
+		"equipType" : 4,
+		"id" : 405011,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 12,
+		"attrValue" : 200,
+		"desc" : "五行防御 +200",
+		"equipColor" : 5,
+		"equipType" : 4,
+		"id" : 405012,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 55,
+		"attrValue" : 400,
+		"desc" : "闪避 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 4,
+		"id" : 405055,
+		"rate" : 500,
+		"score" : 4400
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 56,
+		"attrValue" : 400,
+		"desc" : "命中 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 4,
+		"id" : 405056,
+		"rate" : 500,
+		"score" : 4000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 57,
+		"attrValue" : 400,
+		"desc" : "暴击 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 4,
+		"id" : 405057,
+		"rate" : 500,
+		"score" : 4400
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 58,
+		"attrValue" : 400,
+		"desc" : "坚韧 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 4,
+		"id" : 405058,
+		"rate" : 500,
+		"score" : 4000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 61,
+		"attrValue" : 400,
+		"desc" : "五行攻击 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 4,
+		"id" : 405061,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 4400
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 62,
+		"attrValue" : 400,
+		"desc" : "五行防御 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 4,
+		"id" : 405062,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 4000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 300,
+		"desc" : "铜钱掉落 +3.0%",
+		"equipColor" : 5,
+		"equipType" : 4,
+		"id" : 405080,
+		"rate" : 5000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 88,
+		"attrValue" : 30,
+		"desc" : "暴击抵抗 +0.3%",
+		"equipColor" : 5,
+		"equipType" : 4,
+		"id" : 405088,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 6000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 56,
+		"attrValue" : 500,
+		"desc" : "命中 +5.0%",
+		"equipColor" : 6,
+		"equipType" : 4,
+		"id" : 406056,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 5000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 62,
+		"attrValue" : 500,
+		"desc" : "五行防御 +5.0%",
+		"equipColor" : 6,
+		"equipType" : 4,
+		"id" : 406062,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 5000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 88,
+		"attrValue" : 40,
+		"desc" : "暴击抵抗 +0.4%",
+		"equipColor" : 6,
+		"equipType" : 4,
+		"id" : 406088,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 8000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 5,
+		"attrValue" : 35,
+		"desc" : "闪避 +35",
+		"equipColor" : 1,
+		"equipType" : 5,
+		"id" : 501005,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 6,
+		"attrValue" : 35,
+		"desc" : "命中 +35",
+		"equipColor" : 1,
+		"equipType" : 5,
+		"id" : 501006,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 7,
+		"attrValue" : 35,
+		"desc" : "暴击 +35",
+		"equipColor" : 1,
+		"equipType" : 5,
+		"id" : 501007,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 8,
+		"attrValue" : 35,
+		"desc" : "坚韧 +35",
+		"equipColor" : 1,
+		"equipType" : 5,
+		"id" : 501008,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 11,
+		"attrValue" : 35,
+		"desc" : "五行攻击 +35",
+		"equipColor" : 1,
+		"equipType" : 5,
+		"id" : 501011,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 12,
+		"attrValue" : 35,
+		"desc" : "五行防御 +35",
+		"equipColor" : 1,
+		"equipType" : 5,
+		"id" : 501012,
+		"rate" : 10000,
+		"score" : 350
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 50,
+		"desc" : "铜钱掉落 +0.5%",
+		"equipColor" : 1,
+		"equipType" : 5,
+		"id" : 501080,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 5,
+		"attrValue" : 60,
+		"desc" : "闪避 +60",
+		"equipColor" : 2,
+		"equipType" : 5,
+		"id" : 502005,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 6,
+		"attrValue" : 60,
+		"desc" : "命中 +60",
+		"equipColor" : 2,
+		"equipType" : 5,
+		"id" : 502006,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 7,
+		"attrValue" : 60,
+		"desc" : "暴击 +60",
+		"equipColor" : 2,
+		"equipType" : 5,
+		"id" : 502007,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 8,
+		"attrValue" : 60,
+		"desc" : "坚韧 +60",
+		"equipColor" : 2,
+		"equipType" : 5,
+		"id" : 502008,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 11,
+		"attrValue" : 60,
+		"desc" : "五行攻击 +60",
+		"equipColor" : 2,
+		"equipType" : 5,
+		"id" : 502011,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 12,
+		"attrValue" : 60,
+		"desc" : "五行防御 +60",
+		"equipColor" : 2,
+		"equipType" : 5,
+		"id" : 502012,
+		"rate" : 10000,
+		"score" : 600
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 55,
+		"attrValue" : 115,
+		"desc" : "闪避 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 5,
+		"id" : 502055,
+		"rate" : 10000,
+		"score" : 1265
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 56,
+		"attrValue" : 115,
+		"desc" : "命中 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 5,
+		"id" : 502056,
+		"rate" : 10000,
+		"score" : 1150
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 57,
+		"attrValue" : 115,
+		"desc" : "暴击 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 5,
+		"id" : 502057,
+		"rate" : 10000,
+		"score" : 1265
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 58,
+		"attrValue" : 115,
+		"desc" : "坚韧 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 5,
+		"id" : 502058,
+		"rate" : 10000,
+		"score" : 1150
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 61,
+		"attrValue" : 115,
+		"desc" : "五行攻击 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 5,
+		"id" : 502061,
+		"rate" : 10000,
+		"recommend" : 1,
+		"score" : 1265
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 62,
+		"attrValue" : 115,
+		"desc" : "五行防御 +1.15%",
+		"equipColor" : 2,
+		"equipType" : 5,
+		"id" : 502062,
+		"rate" : 10000,
+		"recommend" : 1,
+		"score" : 1150
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 85,
+		"desc" : "铜钱掉落 +0.85%",
+		"equipColor" : 2,
+		"equipType" : 5,
+		"id" : 502080,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 88,
+		"attrValue" : 10,
+		"desc" : "暴击抵抗 +0.1%",
+		"equipColor" : 2,
+		"equipType" : 5,
+		"id" : 502088,
+		"rate" : 10000,
+		"recommend" : 1,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 5,
+		"attrValue" : 100,
+		"desc" : "闪避 +100",
+		"equipColor" : 3,
+		"equipType" : 5,
+		"id" : 503005,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 6,
+		"attrValue" : 100,
+		"desc" : "命中 +100",
+		"equipColor" : 3,
+		"equipType" : 5,
+		"id" : 503006,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 7,
+		"attrValue" : 100,
+		"desc" : "暴击 +100",
+		"equipColor" : 3,
+		"equipType" : 5,
+		"id" : 503007,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 8,
+		"attrValue" : 100,
+		"desc" : "坚韧 +100",
+		"equipColor" : 3,
+		"equipType" : 5,
+		"id" : 503008,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 11,
+		"attrValue" : 100,
+		"desc" : "五行攻击 +100",
+		"equipColor" : 3,
+		"equipType" : 5,
+		"id" : 503011,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 12,
+		"attrValue" : 100,
+		"desc" : "五行防御 +100",
+		"equipColor" : 3,
+		"equipType" : 5,
+		"id" : 503012,
+		"rate" : 10000,
+		"score" : 1000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 55,
+		"attrValue" : 195,
+		"desc" : "闪避 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 5,
+		"id" : 503055,
+		"rate" : 8000,
+		"score" : 2145
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 56,
+		"attrValue" : 195,
+		"desc" : "命中 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 5,
+		"id" : 503056,
+		"rate" : 8000,
+		"score" : 1950
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 57,
+		"attrValue" : 195,
+		"desc" : "暴击 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 5,
+		"id" : 503057,
+		"rate" : 8000,
+		"score" : 2145
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 58,
+		"attrValue" : 195,
+		"desc" : "坚韧 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 5,
+		"id" : 503058,
+		"rate" : 8000,
+		"score" : 1950
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 61,
+		"attrValue" : 195,
+		"desc" : "五行攻击 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 5,
+		"id" : 503061,
+		"rate" : 8000,
+		"recommend" : 1,
+		"score" : 2145
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 62,
+		"attrValue" : 195,
+		"desc" : "五行防御 +1.95%",
+		"equipColor" : 3,
+		"equipType" : 5,
+		"id" : 503062,
+		"rate" : 8000,
+		"recommend" : 1,
+		"score" : 1950
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 145,
+		"desc" : "铜钱掉落 +1.45%",
+		"equipColor" : 3,
+		"equipType" : 5,
+		"id" : 503080,
+		"rate" : 10000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 88,
+		"attrValue" : 15,
+		"desc" : "暴击抵抗 +0.15%",
+		"equipColor" : 3,
+		"equipType" : 5,
+		"id" : 503088,
+		"rate" : 8000,
+		"recommend" : 1,
+		"score" : 3000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 5,
+		"attrValue" : 140,
+		"desc" : "闪避 +140",
+		"equipColor" : 4,
+		"equipType" : 5,
+		"id" : 504005,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 6,
+		"attrValue" : 140,
+		"desc" : "命中 +140",
+		"equipColor" : 4,
+		"equipType" : 5,
+		"id" : 504006,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 7,
+		"attrValue" : 140,
+		"desc" : "暴击 +140",
+		"equipColor" : 4,
+		"equipType" : 5,
+		"id" : 504007,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 8,
+		"attrValue" : 140,
+		"desc" : "坚韧 +140",
+		"equipColor" : 4,
+		"equipType" : 5,
+		"id" : 504008,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 11,
+		"attrValue" : 140,
+		"desc" : "五行攻击 +140",
+		"equipColor" : 4,
+		"equipType" : 5,
+		"id" : 504011,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 12,
+		"attrValue" : 140,
+		"desc" : "五行防御 +140",
+		"equipColor" : 4,
+		"equipType" : 5,
+		"id" : 504012,
+		"rate" : 2500,
+		"score" : 1400
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 55,
+		"attrValue" : 280,
+		"desc" : "闪避 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 5,
+		"id" : 504055,
+		"rate" : 500,
+		"score" : 3080
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 56,
+		"attrValue" : 280,
+		"desc" : "命中 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 5,
+		"id" : 504056,
+		"rate" : 500,
+		"score" : 2800
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 57,
+		"attrValue" : 280,
+		"desc" : "暴击 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 5,
+		"id" : 504057,
+		"rate" : 500,
+		"score" : 3080
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 58,
+		"attrValue" : 280,
+		"desc" : "坚韧 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 5,
+		"id" : 504058,
+		"rate" : 500,
+		"score" : 2800
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 61,
+		"attrValue" : 280,
+		"desc" : "五行攻击 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 5,
+		"id" : 504061,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 3080
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 62,
+		"attrValue" : 280,
+		"desc" : "五行防御 +2.8%",
+		"equipColor" : 4,
+		"equipType" : 5,
+		"id" : 504062,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 2800
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 210,
+		"desc" : "铜钱掉落 +2.1%",
+		"equipColor" : 4,
+		"equipType" : 5,
+		"id" : 504080,
+		"rate" : 2500
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 88,
+		"attrValue" : 20,
+		"desc" : "暴击抵抗 +0.2%",
+		"equipColor" : 4,
+		"equipType" : 5,
+		"id" : 504088,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 4000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 5,
+		"attrValue" : 200,
+		"desc" : "闪避 +200",
+		"equipColor" : 5,
+		"equipType" : 5,
+		"id" : 505005,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 6,
+		"attrValue" : 200,
+		"desc" : "命中 +200",
+		"equipColor" : 5,
+		"equipType" : 5,
+		"id" : 505006,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 7,
+		"attrValue" : 200,
+		"desc" : "暴击 +200",
+		"equipColor" : 5,
+		"equipType" : 5,
+		"id" : 505007,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 8,
+		"attrValue" : 200,
+		"desc" : "坚韧 +200",
+		"equipColor" : 5,
+		"equipType" : 5,
+		"id" : 505008,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 11,
+		"attrValue" : 200,
+		"desc" : "五行攻击 +200",
+		"equipColor" : 5,
+		"equipType" : 5,
+		"id" : 505011,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 12,
+		"attrValue" : 200,
+		"desc" : "五行防御 +200",
+		"equipColor" : 5,
+		"equipType" : 5,
+		"id" : 505012,
+		"rate" : 5000,
+		"score" : 2000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 55,
+		"attrValue" : 400,
+		"desc" : "闪避 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 5,
+		"id" : 505055,
+		"rate" : 500,
+		"score" : 4400
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 56,
+		"attrValue" : 400,
+		"desc" : "命中 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 5,
+		"id" : 505056,
+		"rate" : 500,
+		"score" : 4000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 57,
+		"attrValue" : 400,
+		"desc" : "暴击 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 5,
+		"id" : 505057,
+		"rate" : 500,
+		"score" : 4400
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 58,
+		"attrValue" : 400,
+		"desc" : "坚韧 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 5,
+		"id" : 505058,
+		"rate" : 500,
+		"score" : 4000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 61,
+		"attrValue" : 400,
+		"desc" : "五行攻击 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 5,
+		"id" : 505061,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 4400
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 62,
+		"attrValue" : 400,
+		"desc" : "五行防御 +4.0%",
+		"equipColor" : 5,
+		"equipType" : 5,
+		"id" : 505062,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 4000
+	},
+	
+	{
+		"attrQuality" : 2,
+		"attrType" : 80,
+		"attrValue" : 300,
+		"desc" : "铜钱掉落 +3.0%",
+		"equipColor" : 5,
+		"equipType" : 5,
+		"id" : 505080,
+		"rate" : 5000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 88,
+		"attrValue" : 30,
+		"desc" : "暴击抵抗 +0.3%",
+		"equipColor" : 5,
+		"equipType" : 5,
+		"id" : 505088,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 6000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 55,
+		"attrValue" : 500,
+		"desc" : "闪避 +5.0%",
+		"equipColor" : 6,
+		"equipType" : 5,
+		"id" : 506056,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 5000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 88,
+		"attrValue" : 40,
+		"desc" : "暴击抵抗 +0.4%",
+		"equipColor" : 6,
+		"equipType" : 5,
+		"id" : 506062,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 8000
+	},
+	
+	{
+		"attrQuality" : 3,
+		"attrType" : 58,
+		"attrValue" : 500,
+		"desc" : "坚韧 +5.0%",
+		"equipColor" : 6,
+		"equipType" : 5,
+		"id" : 506088,
+		"rate" : 500,
+		"recommend" : 1,
+		"score" : 5000
+	}
+]

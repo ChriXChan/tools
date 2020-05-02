@@ -1,0 +1,107 @@
+
+[
+	
+	{
+		"attr" : "1,33#2,1319#3,16#4,16#",
+		"curOpen" : "Boss,WorldBoss,2#Boss,WorldBoss,WorldBoss#Boss,GodBoss,GodBoss#Boss,SecretBoss,SecretBoss",
+		"needBroadcast" : 1,
+		"roleExp" : 450000.0,
+		"roleState" : 1
+	},
+	
+	{
+		"attr" : "1,122#2,4883#3,61#4,61#",
+		"curOpen" : "Boss,WorldBoss,2#Boss,WorldBoss,WorldBoss#Boss,GodBoss,GodBoss",
+		"needBroadcast" : 1,
+		"roleExp" : 2244600.0,
+		"roleState" : 2
+	},
+	
+	{
+		"attr" : "1,229#2,9160#3,114#4,114#",
+		"curOpen" : "Boss,WorldBoss,2#Boss,WorldBoss,WorldBoss#Boss,GodBoss,GodBoss#Boss,SecretBoss,SecretBoss#QiongCang,TalentCultivate,TalentCultivate",
+		"needBroadcast" : 1,
+		"roleExp" : 4723500.0,
+		"roleState" : 3
+	},
+	
+	{
+		"attr" : "1,357#2,14292#3,179#4,179#",
+		"curOpen" : "Boss,WorldBoss,2#Boss,WorldBoss,WorldBoss#Boss,GodBoss,GodBoss#MagicWare,HeartMethod,HeartMethod",
+		"needBroadcast" : 1,
+		"roleExp" : 9143100.0,
+		"roleState" : 4
+	},
+	
+	{
+		"attr" : "1,511#2,20451#3,256#4,256#",
+		"curOpen" : "Boss,WorldBoss,2#Boss,WorldBoss,WorldBoss#Boss,GodBoss,GodBoss#Boss,SecretBoss,SecretBoss#Cross,CrossEntrance,CrossEntrance",
+		"needBroadcast" : 1,
+		"roleExp" : 17344800.0,
+		"roleState" : 5
+	},
+	
+	{
+		"attr" : "1,696#2,27841#3,348#4,348#",
+		"curOpen" : "Boss,WorldBoss,2#Boss,WorldBoss,WorldBoss#Boss,GodBoss,GodBoss#MagicWare,BeastBattle,BeastBattle",
+		"needBroadcast" : 1,
+		"roleExp" : 32457900.0,
+		"roleState" : 6
+	},
+	
+	{
+		"attr" : "1,918#2,36709#3,459#4,459#",
+		"curOpen" : "Boss,WorldBoss,2#Boss,WorldBoss,WorldBoss#Boss,GodBoss,GodBoss#Boss,SecretBoss,SecretBoss",
+		"needBroadcast" : 1,
+		"roleExp" : 61415400.0,
+		"roleState" : 7
+	},
+	
+	{
+		"attr" : "1,1184#2,47351#3,592#4,592#",
+		"curOpen" : "Boss,WorldBoss,2#Boss,WorldBoss,WorldBoss#Boss,GodBoss,GodBoss",
+		"needBroadcast" : 1,
+		"roleExp" : 116208100.0,
+		"roleState" : 8
+	},
+	
+	{
+		"attr" : "1,1503#2,60121#3,752#4,752#",
+		"curOpen" : "Boss,WorldBoss,2#Boss,WorldBoss,WorldBoss#Boss,GodBoss,GodBoss#Boss,SecretBoss,SecretBoss",
+		"needBroadcast" : 1,
+		"roleExp" : 221661500.0,
+		"roleState" : 9
+	},
+	
+	{
+		"attr" : "1,1886#2,75445#3,943#4,943#",
+		"curOpen" : "Boss,WorldBoss,2#Boss,WorldBoss,WorldBoss#Boss,GodBoss,GodBoss",
+		"needBroadcast" : 1,
+		"roleExp" : 430036500.0,
+		"roleState" : 10
+	},
+	
+	{
+		"attr" : "1,2346#2,93835#3,1173#4,1173#",
+		"curOpen" : "Boss,WorldBoss,2#Boss,WorldBoss,WorldBoss#Boss,GodBoss,GodBoss#Boss,SecretBoss,SecretBoss",
+		"needBroadcast" : 1,
+		"roleExp" : 843543900.0,
+		"roleState" : 11
+	},
+	
+	{
+		"attr" : "1,2898#2,115901#3,1449#4,1449#",
+		"curOpen" : "Boss,WorldBoss,2#Boss,WorldBoss,WorldBoss#Boss,GodBoss,GodBoss",
+		"needBroadcast" : 1,
+		"roleExp" : 1679203300.0,
+		"roleState" : 12
+	},
+	
+	{
+		"attr" : "1,3560#2,142383#3,1780#4,1780#",
+		"curOpen" : "Boss,WorldBoss,2#Boss,WorldBoss,WorldBoss#Boss,GodBoss,GodBoss#Boss,SecretBoss,SecretBoss",
+		"needBroadcast" : 1,
+		"roleExp" : 3379325000.0,
+		"roleState" : 13
+	}
+]

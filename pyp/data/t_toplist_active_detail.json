@@ -1,0 +1,249 @@
+
+[
+	
+	{
+		"cond" : 50,
+		"idx" : 1,
+		"rankEnd" : 1,
+		"rankStart" : 1,
+		"rewardList" : "3,10085317,1#3,60040050,1#3,60060027,3#3,60060021,2#",
+		"toplist" : 109
+	},
+	
+	{
+		"cond" : 50,
+		"idx" : 2,
+		"rankEnd" : 5,
+		"rankStart" : 2,
+		"rewardList" : "3,10085347,1#3,60040050,1#3,60060027,2#3,60060021,2#",
+		"toplist" : 109
+	},
+	
+	{
+		"cond" : 50,
+		"idx" : 3,
+		"rankEnd" : 20,
+		"rankStart" : 6,
+		"rewardList" : "3,10084117,1#3,60040043,1#3,60060027,2#3,60060021,2#",
+		"toplist" : 109
+	},
+	
+	{
+		"cond" : 40,
+		"idx" : 4,
+		"rewardList" : "3,60060027,2#3,60060021,2#",
+		"toplist" : 109
+	},
+	
+	{
+		"cond" : 10,
+		"idx" : 5,
+		"rewardList" : "3,60060027,1#3,60060021,1#",
+		"toplist" : 109
+	},
+	
+	{
+		"cond" : 1000,
+		"idx" : 1,
+		"rankEnd" : 1,
+		"rankStart" : 1,
+		"rewardList" : "3,11075001,1#3,60040047,1#3,60060024,3#3,40890162,1#",
+		"toplist" : 110
+	},
+	
+	{
+		"cond" : 1000,
+		"idx" : 2,
+		"rankEnd" : 5,
+		"rankStart" : 2,
+		"rewardList" : "3,11075002,1#3,60040047,1#3,60060024,2#3,40890163,1#",
+		"toplist" : 110
+	},
+	
+	{
+		"cond" : 1000,
+		"idx" : 3,
+		"rankEnd" : 20,
+		"rankStart" : 6,
+		"rewardList" : "3,10075406,1#3,60040040,1#3,60060024,2#3,40890164,1#",
+		"toplist" : 110
+	},
+	
+	{
+		"cond" : 500,
+		"idx" : 4,
+		"rewardList" : "3,60060024,2#",
+		"toplist" : 110
+	},
+	
+	{
+		"cond" : 100,
+		"idx" : 5,
+		"rewardList" : "3,60060024,1#",
+		"toplist" : 110
+	},
+	
+	{
+		"cond" : 200,
+		"idx" : 1,
+		"rankEnd" : 1,
+		"rankStart" : 1,
+		"rewardList" : "3,11065001,1#3,60040048,1#3,40111227,1#",
+		"toplist" : 111
+	},
+	
+	{
+		"cond" : 200,
+		"idx" : 2,
+		"rankEnd" : 5,
+		"rankStart" : 2,
+		"rewardList" : "3,11065002,1#3,60040048,1#3,40111227,1#",
+		"toplist" : 111
+	},
+	
+	{
+		"cond" : 200,
+		"idx" : 3,
+		"rankEnd" : 20,
+		"rankStart" : 6,
+		"rewardList" : "3,10065406,1#3,60040041,1#3,40111227,1#",
+		"toplist" : 111
+	},
+	
+	{
+		"cond" : 200,
+		"idx" : 4,
+		"rewardList" : "3,40111227,1#",
+		"toplist" : 111
+	},
+	
+	{
+		"cond" : 150,
+		"idx" : 5,
+		"rewardList" : "3,60060027,1#3,60060021,1#",
+		"toplist" : 111
+	},
+	
+	{
+		"cond" : 400000,
+		"idx" : 1,
+		"rankEnd" : 1,
+		"rankStart" : 1,
+		"rewardList" : "3,10015317,1#3,40890123,1#3,51110014,1#3,51120014,1#",
+		"toplist" : 112
+	},
+	
+	{
+		"cond" : 400000,
+		"idx" : 2,
+		"rankEnd" : 5,
+		"rankStart" : 2,
+		"rewardList" : "3,10015347,1#3,60040040,1#3,51120013,2#3,51110013,2#",
+		"toplist" : 112
+	},
+	
+	{
+		"cond" : 400000,
+		"idx" : 3,
+		"rankEnd" : 20,
+		"rankStart" : 6,
+		"rewardList" : "3,10014117,1#3,60040040,1#3,51120013,1#3,51110013,1#",
+		"toplist" : 112
+	},
+	
+	{
+		"cond" : 400000,
+		"idx" : 4,
+		"rewardList" : "3,51120012,2#3,51110012,2#",
+		"toplist" : 112
+	},
+	
+	{
+		"cond" : 250000,
+		"idx" : 5,
+		"rewardList" : "3,51120012,1#3,51110012,1#",
+		"toplist" : 112
+	},
+	
+	{
+		"cond" : 21,
+		"idx" : 1,
+		"rankEnd" : 1,
+		"rankStart" : 1,
+		"rewardList" : "3,11105001,1#3,60040045,1#3,60040031,30#3,42220031,1#",
+		"toplist" : 113
+	},
+	
+	{
+		"cond" : 21,
+		"idx" : 2,
+		"rankEnd" : 5,
+		"rankStart" : 2,
+		"rewardList" : "3,11105002,1#3,60040045,1#3,60040031,25#",
+		"toplist" : 113
+	},
+	
+	{
+		"cond" : 21,
+		"idx" : 3,
+		"rankEnd" : 20,
+		"rankStart" : 6,
+		"rewardList" : "3,10105406,1#3,60040038,1#3,60040031,20#",
+		"toplist" : 113
+	},
+	
+	{
+		"cond" : 21,
+		"idx" : 4,
+		"rewardList" : "3,60040031,20#",
+		"toplist" : 113
+	},
+	
+	{
+		"cond" : 11,
+		"idx" : 5,
+		"rewardList" : "3,60040031,10#",
+		"toplist" : 113
+	},
+	
+	{
+		"cond" : 21,
+		"idx" : 1,
+		"rankEnd" : 1,
+		"rankStart" : 1,
+		"rewardList" : "3,11095001,1#3,60040046,1#3,51120014,2#3,42220011,1#",
+		"toplist" : 114
+	},
+	
+	{
+		"cond" : 21,
+		"idx" : 2,
+		"rankEnd" : 5,
+		"rankStart" : 2,
+		"rewardList" : "3,11095002,1#3,60040046,1#3,51120014,1#",
+		"toplist" : 114
+	},
+	
+	{
+		"cond" : 21,
+		"idx" : 3,
+		"rankEnd" : 20,
+		"rankStart" : 6,
+		"rewardList" : "3,10095406,1#3,60040039,1#3,51120013,2#",
+		"toplist" : 114
+	},
+	
+	{
+		"cond" : 21,
+		"idx" : 4,
+		"rewardList" : "3,51120013,1#",
+		"toplist" : 114
+	},
+	
+	{
+		"cond" : 11,
+		"idx" : 5,
+		"rewardList" : "3,51120012,1#3,51110012,1#",
+		"toplist" : 114
+	}
+]

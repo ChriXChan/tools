@@ -1,0 +1,1208 @@
+
+[
+	
+	{
+		"configDesc" : "暂不支持",
+		"name" : "国运",
+		"serverType" : 1,
+		"type" : 1
+	},
+	
+	{
+		"configDesc" : "配置格式：开启时间(秒),关闭时间(秒)，固定提前10分钟广播",
+		"name" : "仙盟圣火",
+		"serverType" : 1,
+		"type" : 2
+	},
+	
+	{
+		"configDesc" : "活动时间为广播时间，配置格式：开启时间(秒),关闭时间(秒)",
+		"name" : "战场",
+		"serverType" : 1,
+		"type" : 3
+	},
+	
+	{
+		"configDesc" : "活动时间为广播时间，配置格式：开启时间(秒),关闭时间(秒)",
+		"name" : "竞技场",
+		"serverType" : 1,
+		"type" : 5
+	},
+	
+	{
+		"configDesc" : "活动时间为广播时间，配置格式：开启时间(秒),关闭时间(秒)（例如：300,3900）",
+		"name" : "无边海",
+		"serverType" : 1,
+		"type" : 6
+	},
+	
+	{
+		"configDesc" : "活动时间为广播时间，配置格式：开启时间(秒),关闭时间(秒)",
+		"name" : "梦幻海滩",
+		"serverType" : 1,
+		"type" : 8
+	},
+	
+	{
+		"configDesc" : "活动时间为报名时间，配置格式：报名关闭时间(秒),开启时间(秒),禁止进入时间(秒),关闭时间(秒)",
+		"name" : "仙盟战",
+		"serverType" : 1,
+		"type" : 9
+	},
+	
+	{
+		"configDesc" : "[地图ID,刷怪方案,100,在线人数下限,在线人数上限][地图ID,刷怪方案,100,在线人数下限,在线人数上限][地图ID,刷怪方案,100,在线人数下限,在线人数上限]",
+		"name" : "节日Boss",
+		"serverType" : 1,
+		"type" : 10
+	},
+	
+	{
+		"configDesc" : "{\"flower9\":[3,物品,数量],\"flower99\":[3,物品,数量],\"flower999\":[3,物品,数量]}",
+		"contentIsJson" : 1,
+		"name" : "送鲜花额外奖励",
+		"serverType" : 1,
+		"type" : 11
+	},
+	
+	{
+		"configDesc" : "格式：持续时间（秒）（持续时间指的是开始刷宝藏--活动结束，默认是：900）",
+		"name" : "国家宝藏",
+		"serverType" : 1,
+		"type" : 12
+	},
+	
+	{
+		"configDesc" : "活动时间为广播时间，配置格式：开启时间(秒),关闭时间(秒)",
+		"name" : "天神战场",
+		"serverType" : 2,
+		"type" : 13
+	},
+	
+	{
+		"configDesc" : "[地图ID,环数,持续秒数,在线人数下限,在线人数上限,广播id][....]...",
+		"name" : "按环数刷怪",
+		"serverType" : 3,
+		"type" : 14
+	},
+	
+	{
+		"configDesc" : "第几届,比赛阶段,出线人数,广播时间,关闭时间   注：不支持循环，loop_type需配0",
+		"name" : "跨服竞技场",
+		"serverType" : 2,
+		"type" : 15
+	},
+	
+	{
+		"configDesc" : "[地图ID,环数或方案,是否按环数,在线人数下限,在线人数上限,广播id,世界等级][....]...",
+		"name" : "刷怪(根据cell中人数决定刷怪方案)",
+		"serverType" : 3,
+		"type" : 16
+	},
+	
+	{
+		"configDesc" : "活动时间为广播时间，配置格式：开启时间(秒),关闭时间(秒)",
+		"name" : "跨服温泉",
+		"serverType" : 2,
+		"type" : 17
+	},
+	
+	{
+		"configDesc" : "空",
+		"name" : "暂停普通竞技场",
+		"serverType" : 2,
+		"type" : 18
+	},
+	
+	{
+		"configDesc" : "{\"ArC_RY\":年,\"ArC_RM\":月,\"ArC_RD\":日}  注：此活动已禁用",
+		"contentIsJson" : 1,
+		"name" : "跨服竞技场报名（伪）",
+		"serverType" : 1,
+		"type" : 19
+	},
+	
+	{
+		"configDesc" : "选组持续天数,小时,分钟（过了时间则系统自动给未选组玩家选组）",
+		"name" : "跨服竞技场选组",
+		"serverType" : 2,
+		"type" : 20
+	},
+	
+	{
+		"configDesc" : "比赛阶段,是否决赛后全部玩家发奖励 （注：不配则奖励最近结束的比赛，不配是否决赛后奖励则默认为否）",
+		"name" : "跨服竞技场结束后的奖励",
+		"serverType" : 2,
+		"type" : 21
+	},
+	
+	{
+		"configDesc" : "选组持续天数,小时,分钟（过了时间则系统自动给未选位置玩家选位置）",
+		"name" : "跨服竞技场决赛选位置",
+		"serverType" : 2,
+		"type" : 22
+	},
+	
+	{
+		"configDesc" : "是否清空 （注：不配则默认为否）",
+		"name" : "跨服竞技场更新主要排行（雕像、石碑）",
+		"serverType" : 2,
+		"type" : 23
+	},
+	
+	{
+		"configDesc" : "配置格式：开启时间(秒),关闭时间(秒) ，广播时间即为开启时间",
+		"name" : "仙境花园经验富饶",
+		"serverType" : 1,
+		"type" : 24
+	},
+	
+	{
+		"configDesc" : "空",
+		"name" : "关闭仙境（只是通知客户端）",
+		"serverType" : 1,
+		"type" : 30
+	},
+	
+	{
+		"configDesc" : "空",
+		"name" : "炼化活动",
+		"serverType" : 1,
+		"type" : 31
+	},
+	
+	{
+		"configDesc" : "开始时间(秒)，结束时间(秒)",
+		"name" : "跨服竞速赛",
+		"serverType" : 2,
+		"type" : 32
+	},
+	
+	{
+		"configDesc" : "空",
+		"name" : "跨服3v3",
+		"serverType" : 2,
+		"type" : 40
+	},
+	
+	{
+		"configDesc" : "每周第几次结算 注：每周共有3次结算",
+		"name" : "跨服3V3日结",
+		"serverType" : 2,
+		"type" : 41
+	},
+	
+	{
+		"configDesc" : "结算类型,第几周结算  注：类型（周结、月结），第几周结算（4周一循环）",
+		"name" : "跨服3V3月结",
+		"serverType" : 2,
+		"type" : 42
+	},
+	
+	{
+		"configDesc" : "空",
+		"name" : "跨服3V3暂停",
+		"serverType" : 1,
+		"type" : 43
+	},
+	
+	{
+		"configDesc" : "空",
+		"name" : "跨服1V1",
+		"serverType" : 2,
+		"type" : 45
+	},
+	
+	{
+		"configDesc" : "每周第几次结算",
+		"name" : "跨服1V1日结",
+		"serverType" : 2,
+		"type" : 46
+	},
+	
+	{
+		"configDesc" : "第几周",
+		"name" : "跨服1V1周结",
+		"serverType" : 2,
+		"type" : 47
+	},
+	
+	{
+		"configDesc" : "空",
+		"name" : "跨服1V1月结",
+		"serverType" : 2,
+		"type" : 48
+	},
+	
+	{
+		"configDesc" : "空",
+		"name" : "跨服1V1暂停",
+		"serverType" : 1,
+		"type" : 49
+	},
+	
+	{
+		"name" : "跨服斗兽",
+		"serverType" : 2,
+		"type" : 50
+	},
+	
+	{
+		"configDesc" : "开启时间为排名时间，日循环",
+		"name" : "跨服斗兽日排名",
+		"serverType" : 2,
+		"type" : 51
+	},
+	
+	{
+		"configDesc" : "开始时间为广播时间，日循环",
+		"name" : "跨服斗兽日排名通知",
+		"serverType" : 2,
+		"type" : 52
+	},
+	
+	{
+		"configDesc" : "活动持续时间（小时）",
+		"name" : "跨服斗兽结算",
+		"serverType" : 2,
+		"type" : 53
+	},
+	
+	{
+		"configDesc" : "空",
+		"name" : "跨服斗兽结算扩展",
+		"serverType" : 2,
+		"type" : 54
+	},
+	
+	{
+		"configDesc" : "空",
+		"name" : "跨服boss",
+		"serverType" : 2,
+		"type" : 55
+	},
+	
+	{
+		"configDesc" : "{\"DramaRewardRate\":数量加成百分比}",
+		"configExample" : "{\"DramaRewardRate\":200}",
+		"contentIsJson" : 1,
+		"name" : "剧情副本掉落加成",
+		"serverType" : 1,
+		"type" : 56
+	},
+	
+	{
+		"configDesc" : "战场准备时间，战场准备+持续时间",
+		"configExample" : "300，2100",
+		"name" : "封魔杀戮战场",
+		"serverType" : 1,
+		"type" : 58
+	},
+	
+	{
+		"configDesc" : "{\"expRate\":经验加成百分比数值}",
+		"contentIsJson" : 1,
+		"name" : "答题经验加成",
+		"serverType" : 1,
+		"type" : 500
+	},
+	
+	{
+		"configDesc" : "{\"expRate\":经验加成百分比数值}",
+		"contentIsJson" : 1,
+		"name" : "温泉加成",
+		"serverType" : 1,
+		"type" : 501
+	},
+	
+	{
+		"configDesc" : "{\"expRate\":经验加成百分比数值,\"code\":物品编码,\"num\":数量}",
+		"contentIsJson" : 1,
+		"name" : "运镖加成",
+		"serverType" : 1,
+		"type" : 502
+	},
+	
+	{
+		"configDesc" : "{\"expRate\":经验加成百分比数值}",
+		"contentIsJson" : 1,
+		"name" : "仙盟圣火加成",
+		"serverType" : 1,
+		"type" : 503
+	},
+	
+	{
+		"configDesc" : "{\"expRate\":经验加成百分比数值,\"GCtRate\":仙盟贡献加成百分比数值,\"GMnRate\":仙盟资源加成百分比数值}",
+		"contentIsJson" : 1,
+		"name" : "仙盟战加成",
+		"serverType" : 1,
+		"type" : 504
+	},
+	
+	{
+		"configDesc" : "{\"HonRate\":荣誉百分比数值}",
+		"contentIsJson" : 1,
+		"name" : "战场荣誉活动",
+		"serverType" : 1,
+		"type" : 505
+	},
+	
+	{
+		"configDesc" : "{\"expRate\":经验加成百分比数值,\"MapLst\":[地图ID,...],\"onlyExp\":0}（onlyExp的值大于0时，表示打坐只加经验）",
+		"contentIsJson" : 1,
+		"name" : "打坐加成",
+		"serverType" : 1,
+		"type" : 506
+	},
+	
+	{
+		"configDesc" : "[{\"type\":3,\"code\":物品,\"num\":数量,\"lower\":等级下限,\"upper\":等级上限}]，注意：若lower不填程序认定为1,upper不填程序认定为99",
+		"contentIsJson" : 1,
+		"name" : "任务狂人",
+		"serverType" : 1,
+		"type" : 507
+	},
+	
+	{
+		"configDesc" : "{\"AMarkRate\":竞技场积分加成百分比,\"AMoneyRate\":金券加成百分比}",
+		"contentIsJson" : 1,
+		"name" : "竞技场加成",
+		"serverType" : 1,
+		"type" : 508
+	},
+	
+	{
+		"configDesc" : "{\"HonRate\":荣誉加成百分比数值}",
+		"contentIsJson" : 1,
+		"name" : "跨服荣誉加成",
+		"serverType" : 1,
+		"type" : 509
+	},
+	
+	{
+		"configDesc" : "空",
+		"name" : "钓鱼掉落加成",
+		"serverType" : 1,
+		"type" : 510
+	},
+	
+	{
+		"configDesc" : "{\"expRate\":经验加成百分比数值}",
+		"contentIsJson" : 1,
+		"name" : "情缘任务打坐加成",
+		"serverType" : 1,
+		"type" : 511
+	},
+	
+	{
+		"configDesc" : "{\"group\":buffer编号}",
+		"configExample" : "{\"group\":8004600}",
+		"contentIsJson" : 1,
+		"name" : "情缘任务礼物互赠",
+		"serverType" : 1,
+		"type" : 512
+	},
+	
+	{
+		"configDesc" : "{\"WrMarkRate\":积分加成百分比数值,\"WrMoneyRate\":金券加成百分比数值}",
+		"name" : "跨服竞技场1v1积分加成",
+		"serverType" : 2,
+		"type" : 513
+	},
+	
+	{
+		"configDesc" : "{\"WrAwMoneyRate\":结算金钱加成百分比数值}",
+		"name" : "跨服竞技场1v1结算加成",
+		"serverType" : 1,
+		"type" : 514
+	},
+	
+	{
+		"configDesc" : "空",
+		"name" : "显示客户端活动图标",
+		"serverType" : 1,
+		"type" : 994
+	},
+	
+	{
+		"configDesc" : "[{\"left\":离开天数,\"reward\":[{\"code\":物品,\"num\":数量,\"min\":最小等级,\"max\":最大等级}]}]，注意：离开天数应该是从大到小配置（30,15,7）最小离开天数为7",
+		"configExample" : "[{\"left\":7,\"reward\":[{\"code\":14119501,\"num\":1},{\"code\":14011523,\"num\":1,\"min\":40,\"max\":59},{\"code\":14011526,\"num\":1,\"min\":60,\"max\":100}]}]",
+		"contentIsJson" : 1,
+		"name" : "长期离线玩家回归奖励",
+		"serverType" : 1,
+		"type" : 995
+	},
+	
+	{
+		"configDesc" : "{\"goldDiscount\":70,\"contriDiscount\":70}",
+		"contentIsJson" : 1,
+		"name" : "把酒言欢齐欢聚",
+		"serverType" : 1,
+		"type" : 996
+	},
+	
+	{
+		"configDesc" : "空",
+		"name" : "开服充值礼包",
+		"serverType" : 1,
+		"type" : 997
+	},
+	
+	{
+		"configDesc" : "格式：开启时间(秒),结束时间(秒)",
+		"name" : "春节烟花",
+		"serverType" : 1,
+		"type" : 998
+	},
+	
+	{
+		"configDesc" : "空",
+		"name" : "圣诞祝福",
+		"serverType" : 1,
+		"type" : 999
+	},
+	
+	{
+		"configDesc" : "空",
+		"name" : "摇钱树",
+		"serverType" : 1,
+		"type" : 1001
+	},
+	
+	{
+		"configDesc" : "{\"npc\":NPCID,\"rate\":概率,\"min\":最小数量,\"max\":最大数量,\"boss\":怪物id,\"key\":广播的key(字符串-加引号)}//兑换物品刷怪（配空则只显示图标）",
+		"contentIsJson" : 1,
+		"name" : "活动NPC兑换",
+		"serverType" : 1,
+		"type" : 1002
+	},
+	
+	{
+		"configDesc" : "空",
+		"name" : "商城折扣",
+		"serverType" : 1,
+		"type" : 1003
+	},
+	
+	{
+		"configDesc" : "{\"green\":绿色概率,\"blue\":蓝色概率,\"purple\":紫色概率,\"orange\":橙色概率}，整个概率区间为1到100,81到100为橙色概率，51到80为紫色概率，0到50为蓝色，为0可以不配，例子为{\"purple\":50,\"orange\":80}",
+		"configExample" : "{\"green\":0,\"blue\":0,\"purple\":50,\"orange\":80}",
+		"contentIsJson" : 1,
+		"name" : "任务颜色屏蔽",
+		"serverType" : 1,
+		"type" : 1004
+	},
+	
+	{
+		"configDesc" : "空",
+		"name" : "刷忆魂石折扣",
+		"serverType" : 1,
+		"type" : 1005
+	},
+	
+	{
+		"configDesc" : "[{\"ABatTimes\":参赛次数,\"ABatRCode\":奖励物品,\"ABatRNum\":奖励数量},...]  注：如需奖励多种物品，可配多个参赛次数一样的，物品最多3种",
+		"contentIsJson" : 1,
+		"name" : "竞技场参赛一定次数送物品",
+		"serverType" : 1,
+		"type" : 1006
+	},
+	
+	{
+		"configDesc" : "[{\"AcFiDe\":完成度,\"AcReCode\":奖励物品,\"AcReNum\":奖励数量},...]  注：同样的完成度可配多种奖励物品",
+		"contentIsJson" : 1,
+		"name" : "完成度奖上奖",
+		"serverType" : 1,
+		"type" : 1007
+	},
+	
+	{
+		"configDesc" : "\"f_ct\":钓鱼多少次获得定水珠,\"f_item\":钓鱼获得的物品,\"f_boss\":刷出的青鱼精bossId,\"f_king\":刷出的青鱼精大王的bossId",
+		"contentIsJson" : 1,
+		"name" : "钓鱼也疯狂",
+		"serverType" : 1,
+		"type" : 1008
+	},
+	
+	{
+		"configDesc" : "空",
+		"name" : "春节",
+		"serverType" : 1,
+		"type" : 1100
+	},
+	
+	{
+		"configDesc" : "空",
+		"name" : "春节回归礼包",
+		"serverType" : 1,
+		"type" : 1101
+	},
+	
+	{
+		"configDesc" : "{\"VIP3RCode\":青铜VIP奖励物品,\"VIP3RNum\":青铜VIP奖励数量,\"VIP6RCode\":白银VIP奖励物品,\"VIP6RNum\":白银VIP奖励数量,\"VIP9RCode\":黄金VIP奖励物品,\"VIP9RNum\":黄金VIP奖励数量}，如果不配置奖励内容，则以t_vip表设定的为准",
+		"configExample" : "{\"VIP3RCode\":14011861,\"VIP3RNum\":1,\"VIP6RCode\":14011861,\"VIP6RNum\":2,\"VIP9RCode\":14011861,\"VIP9RNum\":3}",
+		"contentIsJson" : 1,
+		"name" : "VIP活动登录奖励",
+		"serverType" : 1,
+		"type" : 1102
+	},
+	
+	{
+		"configDesc" : "[{\"type\":3,\"code\":物品,\"num\":数量,\"sex\":性别,\"level\":等级,\"levelS\":等级下限,\"levelE\":等级上限},...]，注意：奖励是通过邮件发送的，一次最多奖励3种物品，sex,level,levelS,levelE不是必需项。",
+		"configExample" : "[{\"type\":3,\"code\":14011861,\"num\":1,\"levelS\":30,\"levelE\":49},{\"type\":3,\"code\":14011862,\"num\":1,\"levelS\":50,\"levelE\":99}]",
+		"contentIsJson" : 1,
+		"name" : "登录奖励",
+		"serverType" : 1,
+		"type" : 1103
+	},
+	
+	{
+		"configDesc" : "空",
+		"name" : "宠物加资质",
+		"serverType" : 1,
+		"type" : 1104
+	},
+	
+	{
+		"configDesc" : "{\"config\":[11,100,1],\"node\":[214,520,999,1314],\"maxNode\":1314,\"item\":在线且等级>=35的玩家奖励物品,\"state\":在线且等级>=35的玩家奖励buffer,\"touch\":触发节点玩家奖励物品}",
+		"contentIsJson" : 1,
+		"name" : "浪漫值",
+		"serverType" : 1,
+		"type" : 1105
+	},
+	
+	{
+		"configDesc" : "空",
+		"name" : "亲密度",
+		"serverType" : 1,
+		"type" : 1106
+	},
+	
+	{
+		"configDesc" : "{\"VIP3RCode\":青铜VIP奖励物品,\"VIP3RNum\":青铜VIP奖励数量,\"VIP6RCode\":白银VIP奖励物品,\"VIP6RNum\":白银VIP奖励数量,\"VIP9RCode\":黄金VIP奖励物品,\"VIP9RNum\":黄金VIP奖励数量}，如果不配置奖励内容，则以t_vip表设定的为准",
+		"configExample" : "{\"VIP3RCode\":14011861,\"VIP3RNum\":1,\"VIP6RCode\":14011861,\"VIP6RNum\":2,\"VIP9RCode\":14011861,\"VIP9RNum\":3}",
+		"contentIsJson" : 1,
+		"name" : "VIP登陆奖励（开服前7天）",
+		"serverType" : 1,
+		"type" : 1107
+	},
+	
+	{
+		"configDesc" : "{\"type\":3,\"code\":物品,\"num\":数量,\"level\":35,\"days\":连续登录的天数}，注意：活动的结束时间必须是N+1天，(活动的结束时间等于活动开始时间加上连续的天数)，发奖时间是活动的结束时间",
+		"contentIsJson" : 1,
+		"name" : "连续登陆N天后，N+1天发奖励",
+		"serverType" : 1,
+		"type" : 1108
+	},
+	
+	{
+		"configDesc" : "{\"0\":20,\"1\":20,\"2\":20,\"3\":20,\"4\":20,\"5\":20,\"6\":20}",
+		"contentIsJson" : 1,
+		"name" : "福星五行骰子（经验加成）",
+		"serverType" : 1,
+		"type" : 1109
+	},
+	
+	{
+		"configDesc" : "{\"多少福1数\":[{\"type\":3,\"code\":奖励物品code,\"num\":物品数量}],\"6\":[{\"type\":3,\"code\":14015211,\"num\":1}]}",
+		"configExample" : "{\"1\":[{\"type\":3,\"code\":14016201,\"num\":0}],\"6\":[{\"type\":3,\"code\":14015211,\"num\":1}]}",
+		"contentIsJson" : 1,
+		"name" : "福星额外奖励",
+		"serverType" : 1,
+		"type" : 1110
+	},
+	
+	{
+		"configDesc" : "{\"config\":[1,100,1],\"node\":[616],\"maxNode\":616,\"item\":在线且等级>=35的玩家奖励物品,\"state\":在线且等级>=35的玩家奖励buffer,\"maxCount\":奖励最大次数}",
+		"contentIsJson" : 1,
+		"name" : "制作蛋糕",
+		"serverType" : 1,
+		"type" : 1111
+	},
+	
+	{
+		"configDesc" : "{\"firework1\":[3,使用一个烟花奖励的物品编码,奖励的物品数量],\"accumulation\":累加数量(为0时,累加没有奖励),\"reward\":[3,使用数量达到累加数量的奖励物品编码,奖励数量]}",
+		"contentIsJson" : 1,
+		"name" : "使用烟花奖励",
+		"serverType" : 1,
+		"type" : 1112
+	},
+	
+	{
+		"configDesc" : "{\"flower9\":[3,赠送9朵鲜花奖励的物品编号,奖励的物品数量],\"flower99\":[3,赠送99朵鲜花奖励的物品编号,奖励的物品数量],\"flower999\":[3,赠送999朵鲜花奖励的物品编号,奖励的物品数\r\n\r\n量],\"accumulation\":累加数量(为0,表示不启动累计奖励),\"reward\":[3,赠送数量达到累加数量的奖励物品编码,奖励数量]}",
+		"contentIsJson" : 1,
+		"name" : "赠送鲜花奖励",
+		"serverType" : 1,
+		"type" : 1113
+	},
+	
+	{
+		"configDesc" : "{\"config\":[1,100,1],\"node\":[214,520,999,1314],\"maxNode\":1314,\"item\":在线且等级>=35的玩家奖励物品,\"state\":在线且等级>=35的玩家奖励buffer,\"touch\":触发节点玩家奖励物品}",
+		"contentIsJson" : 1,
+		"name" : "场景喜庆度",
+		"serverType" : 1,
+		"type" : 1114
+	},
+	
+	{
+		"configDesc" : "{\"0\":[{\"type\":3,\"code\":14016201,\"num\":1}],\"1\":[{\"type\":3,\"code\":14016201,\"num\":1}],\"2\":[{\"type\":3,\"code\":14016201,\"num\":1}],\"3\":[{\"type\":3,\"code\":14015211,\"num\":1}]}",
+		"contentIsJson" : 1,
+		"name" : "订婚额外奖励",
+		"serverType" : 1,
+		"type" : 1115
+	},
+	
+	{
+		"configDesc" : "{\"node\":[500,2000,5000],\"maxNode\":5000}",
+		"contentIsJson" : 1,
+		"name" : "修石碑",
+		"serverType" : 1,
+		"type" : 1116
+	},
+	
+	{
+		"configDesc" : "活动时间为广播时间，配置格式：开启时间(秒),关闭时间(秒)",
+		"contentIsJson" : 1,
+		"name" : "开启天空之城",
+		"serverType" : 2,
+		"type" : 1117
+	},
+	
+	{
+		"configDesc" : "空",
+		"name" : "跨服排行图标显示",
+		"serverType" : 1,
+		"type" : 1118
+	},
+	
+	{
+		"configDesc" : "{“日消费元宝”:奖励集合,注意消费元宝一定要升序排列}",
+		"contentIsJson" : 1,
+		"name" : "消费返还",
+		"serverType" : 1,
+		"type" : 1119
+	},
+	
+	{
+		"configDesc" : "{\"explore123\":[[40仙境code1(配置绑定,后面一样),数量,概率(万分比,后面一样)],[40仙境code2,数量,概率],...],\"explore135\":[[60仙境code1,数量,概率],[60仙境code1,数量,概率],...]}",
+		"contentIsJson" : 1,
+		"name" : "仙境额外产出",
+		"serverType" : 1,
+		"type" : 1120
+	},
+	
+	{
+		"configDesc" : "[{\"type\":4,\"group\":1,\"teamA\":1,\"teamB\":2,\"gameDt\":\"2012-06-22 02:45:00\",\"result\":0}]",
+		"contentIsJson" : 1,
+		"name" : "足球比赛竞猜",
+		"serverType" : 1,
+		"type" : 1121
+	},
+	
+	{
+		"configDesc" : "{\"expRate\":100,\"addGoldBind\":1, \"code\":14016201}",
+		"contentIsJson" : 1,
+		"name" : "仙盟宴会额外奖励加成",
+		"serverType" : 1,
+		"type" : 1122
+	},
+	
+	{
+		"configDesc" : "空",
+		"name" : "竞技场周奖励活动",
+		"serverType" : 1,
+		"type" : 1123
+	},
+	
+	{
+		"configDesc" : "活动时间为广播时间，配置格式：开启时间(秒),关闭时间(秒)",
+		"configExample" : "300,36300",
+		"name" : "跨服碧海银滩",
+		"serverType" : 2,
+		"type" : 1124
+	},
+	
+	{
+		"configDesc" : "空",
+		"name" : "累计消费",
+		"serverType" : 1,
+		"type" : 1125
+	},
+	
+	{
+		"configDesc" : "空",
+		"contentIsJson" : 1,
+		"name" : "奥运竞猜",
+		"serverType" : 1,
+		"type" : 1126
+	},
+	
+	{
+		"configDesc" : "[绑定物品编码,非绑定物品编码,奖励数量,掉落概率][绑定物品编码,非绑定物品编码,奖励数量,掉落概率]......",
+		"name" : "寻宝刺探额外奖励",
+		"serverType" : 1,
+		"type" : 1127
+	},
+	
+	{
+		"configDesc" : "{\"等级\":[{\"type\":3, \"code\":固定礼包编码,\"num\":礼包个数}],...}(注：配置固定礼包)",
+		"contentIsJson" : 1,
+		"name" : "根骨目标额外奖励",
+		"serverType" : 1,
+		"type" : 1128
+	},
+	
+	{
+		"configDesc" : "{\"sb_np_exp\":自己未穿越的打坐经验百分比,\"sb_np_nim\":自己未穿越的打坐灵气百分比,\"sb_p_exp\":自己穿越后的打坐经验百分比,\"sb_p_nim\":自己穿越后的打坐灵气百分比,\"sb_dp_exp\":自己和双修对象穿越后的打坐经验百分比,\"sb_dp_nim\":自己和双修对象穿越后的打坐灵气百分比}",
+		"contentIsJson" : 1,
+		"name" : "碧海银滩穿越双修活动",
+		"serverType" : 1,
+		"type" : 1129
+	},
+	
+	{
+		"configDesc" : "空(注意：这个活动时间要跟跨服排行图标显示时间一致)",
+		"name" : "跨服排行榜雕像",
+		"serverType" : 1,
+		"type" : 1130
+	},
+	
+	{
+		"configDesc" : "空 注：活动价格配置见t_wedding的low_price字段",
+		"name" : "庆典价格优惠活动",
+		"serverType" : 1,
+		"type" : 1131
+	},
+	
+	{
+		"configDesc" : "{\"rto_level\":需要达到的等级,\"rto_r_code\":每个达到要求的根骨奖励物品,\"rto_r_num\":每个达到要求的根骨奖励数量}",
+		"contentIsJson" : 1,
+		"name" : "根骨目标奖励（只奖励一次）",
+		"serverType" : 1,
+		"type" : 1132
+	},
+	
+	{
+		"configDesc" : "[{\"boss\":怪物id, \"drop\":掉落id1},{\"boss\":怪物id2, \"drop\":掉落id2}]",
+		"contentIsJson" : 1,
+		"name" : "怪物送5FB碎片活动",
+		"serverType" : 1,
+		"type" : 1133
+	},
+	
+	{
+		"configDesc" : "{\"expRate\":经验加成百分比,\"nimRate\":灵气加成百分比,\"MapLst\":[地图1,地图2,......]}",
+		"contentIsJson" : 1,
+		"name" : "飞行奖励",
+		"serverType" : 1,
+		"type" : 1134
+	},
+	
+	{
+		"configDesc" : "空",
+		"name" : "仙宠争霸挑战双倍奖励",
+		"serverType" : 2,
+		"type" : 1135
+	},
+	
+	{
+		"configDesc" : "空",
+		"name" : "剧情副本抽奖（活动商品）",
+		"serverType" : 1,
+		"type" : 1136
+	},
+	
+	{
+		"configDesc" : "{\"buyTime\":最大购买次数}",
+		"configExample" : "{\"buyTime\":50}",
+		"contentIsJson" : 1,
+		"name" : "剧情副本商店购买次数",
+		"serverType" : 1,
+		"type" : 1137
+	},
+	
+	{
+		"configDesc" : "开始时间(秒)，结束时间(秒)",
+		"name" : "天降横财(显示)",
+		"serverType" : 1,
+		"type" : 1138
+	},
+	
+	{
+		"configDesc" : "{\"等级\":[{\"type\":3, \"code\":固定礼包编码,\"num\":礼包个数}],..}",
+		"contentIsJson" : 1,
+		"name" : "每天消耗100YB返回",
+		"serverType" : 1,
+		"type" : 1139
+	},
+	
+	{
+		"configDesc" : "{\"35\":[{\"type\":3,\"code\":物品编码,\"num\":物品个数},{\"type\":3,\"code\":物品编码,\"num\":物品个数},{\"type\":3,\"code\":物品编码,\"num\":物品个数}],\"45\":[{\"type\":3,\"code\":物品编码,\"num\":物品个数},{\"type\":3,\"code\":物品编码,\"num\":物品个数},{\"type\":3,\"code\":物品编码,\"num\":物品个数}],...}(注：35代表每件装备物攻法攻属性的的星数)",
+		"configExample" : "{\"35\":[{\"type\":3,\"code\":14049501,\"num\":35},{\"type\":3,\"code\":14079201,\"num\":15},{\"type\":3,\"code\":14109400,\"num\":1}],\"45\":[{\"type\":3,\"code\":14049501,\"num\":45},{\"type\":3,\"code\":14079201,\"num\":25},{\"type\":3,\"code\":14109400,\"num\":2}],\"55\":[{\"type\":3,\"code\":14049501,\"num\":55},{\"type\":3,\"code\":14079201,\"num\":35},{\"type\":3,\"code\":14109400,\"num\":3}]}",
+		"contentIsJson" : 1,
+		"name" : "装备洗炼活动",
+		"serverType" : 1,
+		"type" : 1140
+	},
+	
+	{
+		"configDesc" : "{\"goldDiscount\":元宝聚神花费元宝折扣(百分比),\"discountTime\":前多少次折扣,\"goldHuntReward\":元宝聚神有几率获得的特定元神,格式[{\"code\":元神编码,\"rate\":概率}],\"freeHuntReward\":免费聚神有几率获得的特定元神，格式[{\"code\":元神编码,\"rate\":概率}],\"extraRewardTime\":获得额外奖励的聚神次数,\"extraReward\":[{\"type\":3,\"code\":物品编码,\"rate\":数量}] }",
+		"configExample" : "{\"goldDiscount\":50,\"discountTime\":10,\"goldHuntReward\":[{\"code\":20160000,\"rate\":20}],\"freeHuntReward\":[{\"code\":20220000,\"rate\":10}],\"extraRewardTime\":10,\"extraReward\":[{\"type\":3,\"code\":20220000,\"num\":1},{\"type\":3,\"code\":14135301,\"num\":1}] }",
+		"contentIsJson" : 1,
+		"name" : "聚神活动",
+		"serverType" : 1,
+		"type" : 1141
+	},
+	
+	{
+		"configDesc" : "{\"9\":{[\"type\":3,\"code\":物品编码,\"num\":物品数量]},\"99\":{[\"type\":3,\"code\":物品编码,\"num\":物品数量]}}(注：9代表每累计消耗9个洗炼锁，99代表每累计消耗99个洗炼锁)",
+		"configExample" : "{\"9\":[{\"type\":3,\"code\":14079201,\"num\":1}],\"99\":[{\"type\":3,\"code\":14079201,\"num\":10}]}",
+		"contentIsJson" : 1,
+		"name" : "洗炼锁活动",
+		"serverType" : 1,
+		"type" : 1142
+	},
+	
+	{
+		"configDesc" : "{\"5\":[{\"type\":3,\"code\":物品编码,\"num\":物品数量},...]}(注：5代表5魂以上)",
+		"configExample" : "{\"5\":[{\"type\":3,\"code\":14116301,\"num\":1}]}",
+		"contentIsJson" : 1,
+		"name" : "聚魂活动",
+		"serverType" : 1,
+		"type" : 1143
+	},
+	
+	{
+		"configDesc" : "空",
+		"name" : "累计消费2",
+		"serverType" : 1,
+		"type" : 1144
+	},
+	
+	{
+		"configDesc" : "[{\"expRate\":经验加成倍数,\"nimRate\":灵气加成倍数,\"MapLst\":[地图1,地图2,......]},{\"expRate\":经验加成倍数,\"nimRate\":灵气加成倍数,\"MapLst\":[地图1,地图2,......]},...]",
+		"contentIsJson" : 1,
+		"name" : "幻化持续活动",
+		"serverType" : 1,
+		"type" : 1145
+	},
+	
+	{
+		"configDesc" : "{\"type\":3,\"code\":物品,\"num\":数量,\"level\":等级}",
+		"contentIsJson" : 1,
+		"name" : "等级提升活动（越南版需求）",
+		"serverType" : 1,
+		"type" : 1146
+	},
+	
+	{
+		"configDesc" : "{\"add\":[{\"rate\":概率百分比,\"plus\":倍数},...],\"use\":[{\"rate\":概率百分比,\"plus\":倍数},...]}(add为提升增加祝福活动，use为使用祝福活动)例子表示10%的概率获得2倍祝福，10%获得3倍祝福，5%获得4倍祝福，5%获得5倍祝福；使用祝福20%概率消耗5%，40%概率消耗10%，40%概率消耗15%，如果概率之和小于100%，没命中概率的结果保持原来",
+		"configExample" : "{\"add\":[{\"rate\":10,\"plus\":2},{\"rate\":10,\"plus\":3},{\"rate\":5,\"plus\":4},{\"rate\":5,\"plus\":5}],\"use\":[{\"rate\":20,\"plus\":5},{\"rate\":40,\"plus\":10},{\"rate\":40,\"plus\":15}]}",
+		"contentIsJson" : 1,
+		"name" : "宠物祝福活动",
+		"serverType" : 1,
+		"type" : 1147
+	},
+	
+	{
+		"configDesc" : "{\"5\":[{\"type\":3,\"code\":物品编码,\"num\":物品数量},...]}(注：5代表合成5级宝石)",
+		"configExample" : "{\"4\":[{\"type\":3,\"code\":13300098,\"num\":1}],\"5\":[{\"type\":3,\"code\":13300098,\"num\":2}],\"6\":[{\"type\":3,\"code\":13300098,\"num\":4}],\"7\":[{\"type\":3,\"code\":13300098,\"num\":10}]}",
+		"contentIsJson" : 1,
+		"name" : "宝石合成活动",
+		"serverType" : 1,
+		"type" : 1148
+	},
+	
+	{
+		"configDesc" : "{\"expRate\":经验加成倍数,\"nimRate\":灵气加成倍数}",
+		"configExample" : "{\"expRate\":300,\"nimRate\":300}",
+		"contentIsJson" : 1,
+		"name" : "同性双修活动",
+		"serverType" : 3,
+		"type" : 1150
+	},
+	
+	{
+		"configDesc" : "{\"flower9\":[3,物品,数量],\"flower99\":[3,物品,数量],\"flower999\":[3,物品,数量]}",
+		"configExample" : "{\"flower9\":[3,14116301,1],\"flower99\":[3,14116301,1],\"flower999\":[3,14116301,1]}",
+		"contentIsJson" : 1,
+		"name" : "同性送花活动",
+		"serverType" : 1,
+		"type" : 1151
+	},
+	
+	{
+		"configDesc" : "空",
+		"name" : "钓鱼额外次数",
+		"serverType" : 1,
+		"type" : 1152
+	},
+	
+	{
+		"configDesc" : "{\"sprEarth\":[3,物品,数量],\"sprSky\":[3,物品,数量],\"sprGod\":[3,物品,数量],\"sprSage\":[3,物品,数量]}",
+		"configExample" : "{\"sprEarth\":[3,14116300,2],\"sprSky\":[3,14116300,5],\"sprGod\":[3,14116300,10],\"sprSage\":[3,14116300,15]}",
+		"contentIsJson" : 1,
+		"name" : "五行灵力进阶活动",
+		"serverType" : 1,
+		"type" : 1153
+	},
+	
+	{
+		"configDesc" : "临时开启开服抢购用的。",
+		"name" : "开服抢购活动",
+		"serverType" : 1,
+		"type" : 1154
+	},
+	
+	{
+		"configDesc" : "空",
+		"contentIsJson" : 1,
+		"name" : "宠物成长",
+		"serverType" : 1,
+		"type" : 1161
+	},
+	
+	{
+		"configDesc" : "空",
+		"contentIsJson" : 1,
+		"name" : "宠物灵性",
+		"serverType" : 1,
+		"type" : 1162
+	},
+	
+	{
+		"configDesc" : "{\"create\":创号奖励,\"sign\":登陆奖励,\"online\":在线奖励,\"level\":等级，奖励}",
+		"configExample" : "{\"create\":40111012,\"sign\":40111013,\"online\":40151303,\"level\":\"20,40151302#30,40151304#34,40151305#36,40151306#38,40151307#40,40151308#45,40151309#48,40151310#50,40151311#55,40151312#58,40151313#60,40151314\"}",
+		"contentIsJson" : 1,
+		"name" : "第一次技术测试活动",
+		"serverType" : 1,
+		"type" : 2013
+	},
+	
+	{
+		"configDesc" : "{\"mapId\":地图id,\"pointX\":地图x坐标,\"pointY\":地图坐标,\"distance\":像素范围内加成,\"expRate\":经验加成百分比,\"nimRate\":灵气加成百分比}",
+		"configExample" : "{\"mapId\":110401,\"pointX\":12,\"pointY\":13,\"distance\":1000,\"expRate\":100,\"nimRate\":100}",
+		"contentIsJson" : 1,
+		"name" : "区域打坐加成",
+		"serverType" : 1,
+		"type" : 2038
+	},
+	
+	{
+		"configDesc" : "{\"code\":物品,\"num\":数量}",
+		"configExample" : "{\"code\":1111111,\"num\":1111}",
+		"contentIsJson" : 1,
+		"name" : "传音符奖励",
+		"serverType" : 1,
+		"type" : 2039
+	},
+	
+	{
+		"configDesc" : "{\"code\":物品,\"num\":数量,\"bufferId\":bufferId}",
+		"configExample" : "{\"code\":111111,\"num\":11,\"bufferId\":111111}",
+		"contentIsJson" : 1,
+		"name" : "祝福奖励",
+		"serverType" : 1,
+		"type" : 2040
+	},
+	
+	{
+		"configDesc" : "空",
+		"contentIsJson" : 1,
+		"name" : "坐骑提升",
+		"serverType" : 1,
+		"type" : 2041
+	},
+	
+	{
+		"configDesc" : "{\"20\":[{\"type\":3,\"code\":物品编码,\"num\":物品数量},...]}(注：20代表完成20活跃度)",
+		"configExample" : "{\"20\":[{\"type\":3,\"code\":13300098,\"num\":1}]}",
+		"contentIsJson" : 1,
+		"name" : "活跃度积分",
+		"serverType" : 1,
+		"type" : 2042
+	},
+	
+	{
+		"configDesc" : "空",
+		"contentIsJson" : 1,
+		"name" : "境界提升奖励",
+		"serverType" : 1,
+		"type" : 2043
+	},
+	
+	{
+		"configDesc" : "活动持续时间",
+		"configExample" : "900",
+		"name" : "三界争霸",
+		"serverType" : 1,
+		"type" : 5001
+	},
+	
+	{
+		"configDesc" : "活动持续时间",
+		"configExample" : "520",
+		"name" : "答题副本",
+		"serverType" : 1,
+		"type" : 5002
+	},
+	
+	{
+		"configDesc" : "活动持续时间",
+		"configExample" : "1800",
+		"name" : "守卫青云",
+		"serverType" : 1,
+		"type" : 5003
+	},
+	
+	{
+		"configDesc" : "活动持续时间,刷新间隔,刷怪地图,环数",
+		"configExample" : "1800,120,101000,10",
+		"name" : "夺宝活动",
+		"serverType" : 1,
+		"type" : 5004
+	},
+	
+	{
+		"configDesc" : "活动持续时间",
+		"configExample" : "1800",
+		"name" : "跨服竞技",
+		"serverType" : 2,
+		"type" : 5005
+	},
+	
+	{
+		"configDesc" : "活动持续时间",
+		"configExample" : "1800",
+		"name" : "仙盟争霸（废弃）",
+		"serverType" : 1,
+		"type" : 5006
+	},
+	
+	{
+		"configDesc" : "活动时间为广播时间，配置格式：开启时间(秒),关闭时间(秒)",
+		"configExample" : "600,2400",
+		"name" : "跨服爬楼（青云之巅）",
+		"serverType" : 2,
+		"type" : 5007
+	},
+	
+	{
+		"configDesc" : "[{\"lower\":等级下限,\"upper\":等级上限,\"dropId\":掉落ID}]",
+		"configExample" : "[{\"lower\":0,\"upper\":149,\"dropId\":1000019},{\"lower\":150,\"upper\":999,\"dropId\":1000020}]",
+		"contentIsJson" : 1,
+		"name" : "怪物掉落",
+		"serverType" : 1,
+		"type" : 5008
+	},
+	
+	{
+		"configDesc" : "活动持续时间",
+		"configExample" : "1800",
+		"name" : "仙盟宴会",
+		"serverType" : 1,
+		"type" : 5009
+	},
+	
+	{
+		"configDesc" : "第几场,活动持续时间",
+		"configExample" : "1,1200",
+		"name" : "仙盟争霸",
+		"serverType" : 1,
+		"type" : 5010
+	},
+	
+	{
+		"configDesc" : "开启时间(秒),关闭时间(秒)",
+		"configExample" : "43200,72000",
+		"name" : "双倍经验",
+		"serverType" : 1,
+		"type" : 5011
+	},
+	
+	{
+		"configDesc" : "类型,无限制时间(秒)",
+		"configExample" : "1,64800",
+		"name" : "云购",
+		"serverType" : 1,
+		"type" : 5012
+	},
+	
+	{
+		"configDesc" : "活动持续时间\r\n",
+		"configExample" : "1800",
+		"name" : "战场之魂",
+		"serverType" : 1,
+		"type" : 5013
+	},
+	
+	{
+		"configDesc" : "副本code:[等级下限,等级上限,dropId]",
+		"configExample" : "\"0\":[[150,250,1000021],[251,400,1000022]]",
+		"contentIsJson" : 1,
+		"name" : "活动掉落",
+		"serverType" : 1,
+		"type" : 5014
+	},
+	
+	{
+		"configDesc" : "活动持续时间",
+		"configExample" : "3600",
+		"name" : "守卫仙盟",
+		"serverType" : 1,
+		"type" : 5015
+	},
+	
+	{
+		"configDesc" : "open刷新时间,close关闭时间,map刷怪地图,subline分线人数,count刷怪数量,boss世界等级对应code,pre预告时间",
+		"configExample" : "{\"open\":[43200,46800,50400,54000,57600,61200,64800],\"close\":3600,\"pre1\":300,\"pre2\":600,\"boss\":[[150,250,505206008],[251,999,505208006]],\"count\":[[1,75,200],[124,9999,250]],\"map\":[104000,105000,106000,108000,109000]}",
+		"contentIsJson" : 1,
+		"name" : "BOSS来袭",
+		"serverType" : 1,
+		"type" : 5016
+	},
+	
+	{
+		"configDesc" : "[{\"lower\":世界等级下限, \"up\":世界等级上限, \"type\":幸运抽奖类型}, {\"lower\":世界等级下限, \"up\":世界等级上限, \"type\":幸运抽奖类型}]",
+		"configExample" : "[{\"lower\":0, \"up\":200, \"type\":300}, { \"lower\":201, \"up\" : 9999, \"type\" : 301 }]",
+		"contentIsJson" : 1,
+		"name" : "幸运转盘",
+		"serverType" : 1,
+		"type" : 5017
+	},
+	
+	{
+		"configDesc" : "世界等级下限, 世界等级上限, 幸运抽奖类型",
+		"configExample" : "{\"type\":[[1,200,505][201,999,505]]}",
+		"contentIsJson" : 1,
+		"name" : "鉴宝抽奖",
+		"serverType" : 1,
+		"type" : 5018
+	},
+	
+	{
+		"configDesc" : "准备时间，入口关闭时间，单场持续时间，单场最大人数（注：时间为分钟）",
+		"configExample" : "5,10,20,40",
+		"name" : "天神战场",
+		"serverType" : 1,
+		"type" : 5019
+	},
+	
+	{
+		"configDesc" : "世界等级下限,世界等级上限,幸运抽奖类型,幸运抽奖类型...",
+		"configExample" : "[[100,199,701,702],[200,249,702,703],[250,999,701,703]]",
+		"contentIsJson" : 1,
+		"name" : "上上签",
+		"serverType" : 1,
+		"type" : 5020
+	},
+	
+	{
+		"configDesc" : "{\"close\":持续秒数,\"map\":地图id,\"subline\":地图人数}",
+		"configExample" : "{\"close\":3600,\"map\":101000,\"subline\":30}",
+		"contentIsJson" : 1,
+		"name" : "使用烟花道具",
+		"serverType" : 1,
+		"type" : 5021
+	}
+]

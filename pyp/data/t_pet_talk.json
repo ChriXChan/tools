@@ -1,0 +1,379 @@
+
+[
+	
+	{
+		"condition" : 1,
+		"id" : 1,
+		"playerMaxLevel" : 250,
+		"playerMinLevel" : 1,
+		"rate" : 50,
+		"talkIds" : "1001#1002",
+		"timeDuration" : 3,
+		"value" : 208101
+	},
+	
+	{
+		"condition" : 1,
+		"id" : 2,
+		"playerMaxLevel" : 250,
+		"playerMinLevel" : 1,
+		"rate" : 80,
+		"talkIds" : "1101#1102#1103",
+		"timeDuration" : 3,
+		"value" : 405103
+	},
+	
+	{
+		"condition" : 1,
+		"id" : 3,
+		"playerMaxLevel" : 250,
+		"playerMinLevel" : 1,
+		"rate" : 80,
+		"talkIds" : "1101#1102#1103",
+		"timeDuration" : 3,
+		"value" : 405104
+	},
+	
+	{
+		"condition" : 1,
+		"id" : 4,
+		"playerMaxLevel" : 400,
+		"playerMinLevel" : 1,
+		"rate" : 80,
+		"talkIds" : "1201#1202#1203",
+		"timeDuration" : 3,
+		"value" : 515401
+	},
+	
+	{
+		"condition" : 1,
+		"id" : 5,
+		"playerMaxLevel" : 400,
+		"playerMinLevel" : 1,
+		"rate" : 80,
+		"talkIds" : "1208#1209#1210#1211#1212#1213",
+		"timeDuration" : 3,
+		"value" : 240000
+	},
+	
+	{
+		"condition" : 1,
+		"id" : 6,
+		"playerMaxLevel" : 400,
+		"playerMinLevel" : 1,
+		"rate" : 80,
+		"talkIds" : "1010",
+		"timeDuration" : 3,
+		"value" : 201111
+	},
+	
+	{
+		"condition" : 1,
+		"id" : 7,
+		"playerMaxLevel" : 400,
+		"playerMinLevel" : 1,
+		"rate" : 60,
+		"talkIds" : "1010",
+		"timeDuration" : 3,
+		"value" : 201112
+	},
+	
+	{
+		"condition" : 1,
+		"id" : 8,
+		"playerMaxLevel" : 400,
+		"playerMinLevel" : 1,
+		"rate" : 40,
+		"talkIds" : "1010",
+		"timeDuration" : 3,
+		"value" : 201113
+	},
+	
+	{
+		"condition" : 1,
+		"id" : 9,
+		"playerMaxLevel" : 400,
+		"playerMinLevel" : 1,
+		"rate" : 40,
+		"talkIds" : "1020",
+		"timeDuration" : 3,
+		"value" : 201117
+	},
+	
+	{
+		"condition" : 1,
+		"id" : 10,
+		"playerMaxLevel" : 400,
+		"playerMinLevel" : 1,
+		"rate" : 40,
+		"talkIds" : "1020",
+		"timeDuration" : 3,
+		"value" : 201118
+	},
+	
+	{
+		"condition" : 1,
+		"id" : 11,
+		"playerMaxLevel" : 400,
+		"playerMinLevel" : 1,
+		"rate" : 40,
+		"talkIds" : "1020",
+		"timeDuration" : 3,
+		"value" : 201119
+	},
+	
+	{
+		"condition" : 2,
+		"id" : 12,
+		"playerMaxLevel" : 400,
+		"playerMinLevel" : 1,
+		"rate" : 100,
+		"talkIds" : "1301",
+		"timeDuration" : 3,
+		"value" : 13
+	},
+	
+	{
+		"condition" : 2,
+		"id" : 13,
+		"playerMaxLevel" : 400,
+		"playerMinLevel" : 1,
+		"rate" : 100,
+		"talkIds" : "1302",
+		"timeDuration" : 3,
+		"value" : 32
+	},
+	
+	{
+		"condition" : 3,
+		"id" : 14,
+		"playerMaxLevel" : 400,
+		"playerMinLevel" : 1,
+		"rate" : 100,
+		"talkIds" : "1401",
+		"timeDuration" : 3,
+		"value" : 20
+	},
+	
+	{
+		"condition" : 4,
+		"id" : 15,
+		"playerMaxLevel" : 45,
+		"playerMinLevel" : 1,
+		"rate" : 80,
+		"talkIds" : "1501#1504#1506#1507#1509#1510",
+		"timeDuration" : 3,
+		"value" : 23
+	},
+	
+	{
+		"condition" : 4,
+		"id" : 16,
+		"playerMaxLevel" : 90,
+		"playerMinLevel" : 46,
+		"rate" : 60,
+		"talkIds" : "1501#1502#1503#1504#1506#1507#1509#1510#1511#1512#1513#1514#1515#1516#1517#1518#1520#1521#1522#1558",
+		"timeDuration" : 3,
+		"value" : 28
+	},
+	
+	{
+		"condition" : 4,
+		"id" : 17,
+		"playerMaxLevel" : 159,
+		"playerMinLevel" : 91,
+		"rate" : 40,
+		"talkIds" : "1515#1523#1524#1527#1528#1529#1530#1531#1532#1533#1534#1536#1538#1539#1540#1541#1543#1544#1561#1562#1554#1558",
+		"timeDuration" : 3,
+		"value" : 33
+	},
+	
+	{
+		"condition" : 4,
+		"id" : 18,
+		"playerMaxLevel" : 240,
+		"playerMinLevel" : 160,
+		"rate" : 30,
+		"talkIds" : "1525#1526#1545#1547#1548#1549#1550#1551#1552#1553#1524#1527#1529#1535#1530#1532#1519#1561#1562#1554#1558#1602#1508#1537#1603",
+		"timeDuration" : 3,
+		"value" : 43
+	},
+	
+	{
+		"condition" : 4,
+		"id" : 19,
+		"playerMaxLevel" : 329,
+		"playerMinLevel" : 241,
+		"rate" : 20,
+		"talkIds" : "1545#1547#1548#1549#1550#1551#1552#1553#1524#1527#1535#1530#1532#1519#1561#1562#1554#1558#1542#1603",
+		"timeDuration" : 3,
+		"value" : 63
+	},
+	
+	{
+		"condition" : 4,
+		"id" : 20,
+		"playerMaxLevel" : 400,
+		"playerMinLevel" : 330,
+		"rate" : 20,
+		"talkIds" : "1550#1552#1553#1524#1527#1530#1561#1562#1554#1558#1542#1603#1612#1613#1614#1615",
+		"timeDuration" : 3,
+		"value" : 63
+	},
+	
+	{
+		"condition" : 5,
+		"id" : 21,
+		"playerMaxLevel" : 400,
+		"playerMinLevel" : 1,
+		"rate" : 100,
+		"talkIds" : "1601",
+		"timeDuration" : 3,
+		"value" : 10
+	},
+	
+	{
+		"condition" : 2,
+		"id" : 22,
+		"playerMaxLevel" : 400,
+		"playerMinLevel" : 1,
+		"rate" : 100,
+		"talkIds" : "1602",
+		"timeDuration" : 3,
+		"value" : 160
+	},
+	
+	{
+		"condition" : 2,
+		"id" : 23,
+		"playerMaxLevel" : 400,
+		"playerMinLevel" : 1,
+		"rate" : 100,
+		"talkIds" : "1602",
+		"timeDuration" : 3,
+		"value" : 165
+	},
+	
+	{
+		"condition" : 2,
+		"id" : 24,
+		"playerMaxLevel" : 400,
+		"playerMinLevel" : 1,
+		"rate" : 100,
+		"talkIds" : "1604",
+		"timeDuration" : 3,
+		"value" : 67
+	},
+	
+	{
+		"condition" : 2,
+		"id" : 25,
+		"playerMaxLevel" : 400,
+		"playerMinLevel" : 1,
+		"rate" : 100,
+		"talkIds" : "1605",
+		"timeDuration" : 3,
+		"value" : 70
+	},
+	
+	{
+		"condition" : 2,
+		"id" : 26,
+		"playerMaxLevel" : 400,
+		"playerMinLevel" : 1,
+		"rate" : 100,
+		"talkIds" : "1606",
+		"timeDuration" : 3,
+		"value" : 110
+	},
+	
+	{
+		"condition" : 2,
+		"id" : 27,
+		"playerMaxLevel" : 400,
+		"playerMinLevel" : 1,
+		"rate" : 100,
+		"talkIds" : "1607",
+		"timeDuration" : 3,
+		"value" : 56
+	},
+	
+	{
+		"condition" : 2,
+		"id" : 28,
+		"playerMaxLevel" : 400,
+		"playerMinLevel" : 1,
+		"rate" : 100,
+		"talkIds" : "1608",
+		"timeDuration" : 3,
+		"value" : 52
+	},
+	
+	{
+		"condition" : 2,
+		"id" : 29,
+		"playerMaxLevel" : 400,
+		"playerMinLevel" : 1,
+		"rate" : 100,
+		"talkIds" : "1609",
+		"timeDuration" : 3,
+		"value" : 105
+	},
+	
+	{
+		"condition" : 2,
+		"id" : 30,
+		"playerMaxLevel" : 400,
+		"playerMinLevel" : 1,
+		"rate" : 100,
+		"talkIds" : "1610",
+		"timeDuration" : 3,
+		"value" : 38
+	},
+	
+	{
+		"condition" : 2,
+		"id" : 31,
+		"playerMaxLevel" : 400,
+		"playerMinLevel" : 1,
+		"rate" : 100,
+		"talkIds" : "1611",
+		"timeDuration" : 3,
+		"value" : 95
+	},
+	
+	{
+		"condition" : 1,
+		"id" : 32,
+		"playerMaxLevel" : 400,
+		"playerMinLevel" : 1,
+		"rate" : 80,
+		"talkIds" : "1218#1219#1220#1221#1222#1223#1224#1225#1226#1227#1228#1229",
+		"timeDuration" : 3,
+		"value" : 240500
+	},
+	
+	{
+		"condition" : 4,
+		"id" : 33,
+		"playerMaxLevel" : 550,
+		"playerMinLevel" : 213,
+		"rate" : 40,
+		"talkIds" : "6000#6001#6002#6003#6004#6005#6006#6007#6009",
+		"timeDuration" : 3,
+		"type" : 2,
+		"value" : 33
+	},
+	
+	{
+		"condition" : 1,
+		"id" : 34,
+		"playerMaxLevel" : 550,
+		"playerMinLevel" : 213,
+		"rate" : 50,
+		"talkIds" : "6008#6007",
+		"timeDuration" : 5,
+		"type" : 2,
+		"value" : 240700
+	}
+]

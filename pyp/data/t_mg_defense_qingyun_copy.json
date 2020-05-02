@@ -1,0 +1,105 @@
+
+[
+	
+	{
+		"rewardCoin" : 10000,
+		"rewardItemList" : "3,60010001,1",
+		"ring" : 1
+	},
+	
+	{
+		"rewardExp" : 10000,
+		"ring" : 2
+	},
+	
+	{
+		"rewardCoin" : 10000,
+		"rewardItemList" : "3,60010001,1#3,60010002,1#",
+		"ring" : 3
+	},
+	
+	{
+		"rewardExp" : 10000,
+		"ring" : 4
+	},
+	
+	{
+		"rewardCoin" : 10000,
+		"ring" : 5
+	},
+	
+	{
+		"rewardExp" : 10000,
+		"ring" : 6
+	},
+	
+	{
+		"rewardCoin" : 10000,
+		"ring" : 7
+	},
+	
+	{
+		"rewardExp" : 10000,
+		"ring" : 8
+	},
+	
+	{
+		"rewardCoin" : 10000,
+		"ring" : 9
+	},
+	
+	{
+		"rewardExp" : 10000,
+		"ring" : 10
+	},
+	
+	{
+		"rewardCoin" : 10000,
+		"ring" : 11
+	},
+	
+	{
+		"rewardExp" : 10000,
+		"ring" : 12
+	},
+	
+	{
+		"rewardCoin" : 10000,
+		"ring" : 13
+	},
+	
+	{
+		"rewardExp" : 10000,
+		"ring" : 14
+	},
+	
+	{
+		"rewardCoin" : 10000,
+		"ring" : 15
+	},
+	
+	{
+		"rewardExp" : 10000,
+		"ring" : 16
+	},
+	
+	{
+		"rewardCoin" : 10000,
+		"ring" : 17
+	},
+	
+	{
+		"rewardExp" : 10000,
+		"ring" : 18
+	},
+	
+	{
+		"rewardCoin" : 10000,
+		"ring" : 19
+	},
+	
+	{
+		"rewardExp" : 10000,
+		"ring" : 20
+	}
+]

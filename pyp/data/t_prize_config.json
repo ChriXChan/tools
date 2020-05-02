@@ -1,0 +1,38 @@
+
+[
+	
+	{
+		"coinbind" : 1,
+		"coolTime" : 1,
+		"id" : 1,
+		"level" : "40,49"
+	},
+	
+	{
+		"coinbind" : 1,
+		"coolTime" : 1,
+		"id" : 1,
+		"level" : "50,59"
+	},
+	
+	{
+		"coinbind" : 1,
+		"coolTime" : 1,
+		"id" : 1,
+		"level" : "60,69"
+	},
+	
+	{
+		"coinbind" : 1,
+		"coolTime" : 1,
+		"id" : 1,
+		"level" : "70,79"
+	},
+	
+	{
+		"coinbind" : 1,
+		"coolTime" : 1,
+		"id" : 1,
+		"level" : "80,99"
+	}
+]

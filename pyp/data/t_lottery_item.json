@@ -1,0 +1,3045 @@
+
+[
+	
+	{
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 10014105,
+		"type" : 100
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 10014205,
+		"type" : 100
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1000,
+		"reward" : 10034006,
+		"type" : 100,
+		"valuedRate" : 500000
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1000,
+		"reward" : 10044006,
+		"type" : 100,
+		"valuedRate" : 500000
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 10064105,
+		"type" : 100
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 10064205,
+		"type" : 100
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 10074105,
+		"type" : 100
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 10074205,
+		"type" : 100
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 10084105,
+		"type" : 100
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 10084205,
+		"type" : 100
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 10094105,
+		"type" : 100
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 10094205,
+		"type" : 100
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 10104105,
+		"type" : 100
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 10104205,
+		"type" : 100
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 2000,
+		"reward" : 40030002,
+		"type" : 100
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 8000,
+		"reward" : 40030011,
+		"type" : 100
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 124300,
+		"reward" : 40030702,
+		"type" : 100
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 50000,
+		"reward" : 40030703,
+		"type" : 100
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 10000,
+		"reward" : 40151001,
+		"type" : 100
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 50000,
+		"reward" : 40151031,
+		"type" : 100
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 400,
+		"reward" : 40270001,
+		"type" : 100
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 120000,
+		"reward" : 51110001,
+		"type" : 100
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 30000,
+		"reward" : 51110002,
+		"type" : 100
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 51110003,
+		"type" : 100
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1900,
+		"reward" : 51110004,
+		"type" : 100
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 120000,
+		"reward" : 51120001,
+		"type" : 100
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 30000,
+		"reward" : 51120002,
+		"type" : 100
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 51120003,
+		"type" : 100
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1900,
+		"reward" : 51120004,
+		"type" : 100
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 60030003,
+		"type" : 100
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1500,
+		"reward" : 60030017,
+		"type" : 100
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 250000,
+		"reward" : 60040001,
+		"type" : 100
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 150000,
+		"reward" : 60040002,
+		"type" : 100
+	},
+	
+	{
+		"bestValuedRate" : 1000000,
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 500,
+		"reward" : 60073002,
+		"type" : 100
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 10014105,
+		"type" : 101
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 10014205,
+		"type" : 101
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1000,
+		"reward" : 10034006,
+		"type" : 101,
+		"valuedRate" : 500000
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1000,
+		"reward" : 10044006,
+		"type" : 101,
+		"valuedRate" : 500000
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 10064105,
+		"type" : 101
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 10064205,
+		"type" : 101
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 10074105,
+		"type" : 101
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 10074205,
+		"type" : 101
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 10084105,
+		"type" : 101
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 10084205,
+		"type" : 101
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 10094105,
+		"type" : 101
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 10094205,
+		"type" : 101
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 10104105,
+		"type" : 101
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 10104205,
+		"type" : 101
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 2000,
+		"reward" : 40030002,
+		"type" : 101
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 8000,
+		"reward" : 40030011,
+		"type" : 101
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 124300,
+		"reward" : 40030702,
+		"type" : 101
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 50000,
+		"reward" : 40030703,
+		"type" : 101
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 10000,
+		"reward" : 40151001,
+		"type" : 101
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 50000,
+		"reward" : 40151031,
+		"type" : 101
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 400,
+		"reward" : 40270001,
+		"type" : 101
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 120000,
+		"reward" : 51110001,
+		"type" : 101
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 30000,
+		"reward" : 51110002,
+		"type" : 101
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 51110003,
+		"type" : 101
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1900,
+		"reward" : 51110004,
+		"type" : 101
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 120000,
+		"reward" : 51120001,
+		"type" : 101
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 30000,
+		"reward" : 51120002,
+		"type" : 101
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 51120003,
+		"type" : 101
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1900,
+		"reward" : 51120004,
+		"type" : 101
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 60030003,
+		"type" : 101
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1500,
+		"reward" : 60030017,
+		"type" : 101
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 250000,
+		"reward" : 60040001,
+		"type" : 101
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 150000,
+		"reward" : 60040002,
+		"type" : 101
+	},
+	
+	{
+		"bestValuedRate" : 1000000,
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 500,
+		"reward" : 60073003,
+		"type" : 101
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 30000,
+		"reward" : 40030002,
+		"type" : 201
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 46950,
+		"reward" : 40112501,
+		"type" : 201
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 12000,
+		"reward" : 40127001,
+		"type" : 201
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4000,
+		"reward" : 40127002,
+		"type" : 201
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 110000,
+		"reward" : 40151001,
+		"type" : 201
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 60000,
+		"reward" : 40151002,
+		"type" : 201
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1150,
+		"reward" : 41218001,
+		"type" : 201,
+		"valuedRate" : 500000
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1150,
+		"reward" : 41218003,
+		"type" : 201,
+		"valuedRate" : 500000
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 75000,
+		"reward" : 42150001,
+		"type" : 201
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 30000,
+		"reward" : 42150002,
+		"type" : 201
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 10000,
+		"reward" : 42150003,
+		"type" : 201
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 75000,
+		"reward" : 42160001,
+		"type" : 201
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 30000,
+		"reward" : 42160002,
+		"type" : 201
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 10000,
+		"reward" : 42160003,
+		"type" : 201
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 100000,
+		"reward" : 51110002,
+		"type" : 201
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 30000,
+		"reward" : 51110003,
+		"type" : 201
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4000,
+		"reward" : 51110004,
+		"type" : 201
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1500,
+		"reward" : 51110005,
+		"type" : 201
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 100000,
+		"reward" : 51120002,
+		"type" : 201
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 30000,
+		"reward" : 51120003,
+		"type" : 201
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4000,
+		"reward" : 51120004,
+		"type" : 201
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1500,
+		"reward" : 51120005,
+		"type" : 201
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4000,
+		"reward" : 60030003,
+		"type" : 201
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4000,
+		"reward" : 60030017,
+		"type" : 201
+	},
+	
+	{
+		"num" : 4,
+		"rate" : 125000,
+		"reward" : 60040001,
+		"type" : 201
+	},
+	
+	{
+		"num" : 4,
+		"rate" : 100000,
+		"reward" : 60040002,
+		"type" : 201
+	},
+	
+	{
+		"bestValuedRate" : 1000000,
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 750,
+		"reward" : 60073004,
+		"type" : 201
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 125000,
+		"reward" : 40112501,
+		"type" : 301
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 125000,
+		"reward" : 40127001,
+		"type" : 301
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 125000,
+		"reward" : 40127002,
+		"type" : 301
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 125000,
+		"reward" : 42150001,
+		"type" : 301,
+		"valuedRate" : 500000
+	},
+	
+	{
+		"bestValuedRate" : 200000,
+		"num" : 1,
+		"rate" : 125000,
+		"reward" : 42150002,
+		"type" : 301
+	},
+	
+	{
+		"bestValuedRate" : 800000,
+		"num" : 1,
+		"rate" : 125000,
+		"reward" : 42150003,
+		"type" : 301
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 125000,
+		"reward" : 42160003,
+		"type" : 301,
+		"valuedRate" : 500000
+	},
+	
+	{
+		"num" : 4,
+		"rate" : 125000,
+		"reward" : 60040001,
+		"type" : 301
+	},
+	
+	{
+		"num" : 2,
+		"rate" : 28000,
+		"reward" : 40030002,
+		"type" : 401
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 3500,
+		"reward" : 40111216,
+		"type" : 401
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 150000,
+		"reward" : 40153603,
+		"type" : 401
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 15000,
+		"reward" : 40241002,
+		"type" : 401
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 15000,
+		"reward" : 40241003,
+		"type" : 401
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 15000,
+		"reward" : 40241004,
+		"type" : 401
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 15000,
+		"reward" : 40241005,
+		"type" : 401
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 40242002,
+		"type" : 401
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 40242003,
+		"type" : 401
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 40242004,
+		"type" : 401
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 40242005,
+		"type" : 401
+	},
+	
+	{
+		"num" : 10,
+		"rate" : 80000,
+		"reward" : 40310038,
+		"type" : 401
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 100000,
+		"reward" : 51110003,
+		"type" : 401
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16500,
+		"reward" : 51110004,
+		"type" : 401
+	},
+	
+	{
+		"bestValuedRate" : 500000,
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1250,
+		"reward" : 51110006,
+		"type" : 401
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 100000,
+		"reward" : 51120003,
+		"type" : 401
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16000,
+		"reward" : 51120004,
+		"type" : 401
+	},
+	
+	{
+		"bestValuedRate" : 500000,
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1250,
+		"reward" : 51120006,
+		"type" : 401
+	},
+	
+	{
+		"num" : 10,
+		"rate" : 200000,
+		"reward" : 60040001,
+		"type" : 401
+	},
+	
+	{
+		"num" : 10,
+		"rate" : 200000,
+		"reward" : 60040002,
+		"type" : 401
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4500,
+		"reward" : 60074002,
+		"type" : 401,
+		"valuedRate" : 600000
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5000,
+		"reward" : 60076001,
+		"type" : 401
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4000,
+		"reward" : 60076002,
+		"type" : 401,
+		"valuedRate" : 400000
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 3500,
+		"reward" : 40111216,
+		"type" : 402
+	},
+	
+	{
+		"num" : 2,
+		"rate" : 48000,
+		"reward" : 40111241,
+		"type" : 402
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 125000,
+		"reward" : 40153603,
+		"type" : 402
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16250,
+		"reward" : 40241002,
+		"type" : 402
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16250,
+		"reward" : 40241003,
+		"type" : 402
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16250,
+		"reward" : 40241004,
+		"type" : 402
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16250,
+		"reward" : 40241005,
+		"type" : 402
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 40242002,
+		"type" : 402
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 40242003,
+		"type" : 402
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 40242004,
+		"type" : 402
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 40242005,
+		"type" : 402
+	},
+	
+	{
+		"num" : 10,
+		"rate" : 80000,
+		"reward" : 40310038,
+		"type" : 402
+	},
+	
+	{
+		"num" : 20,
+		"rate" : 150000,
+		"reward" : 40490000,
+		"type" : 402
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 75000,
+		"reward" : 51110003,
+		"type" : 402
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 18500,
+		"reward" : 51110004,
+		"type" : 402
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 75000,
+		"reward" : 51120003,
+		"type" : 402
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 18500,
+		"reward" : 51120004,
+		"type" : 402
+	},
+	
+	{
+		"num" : 10,
+		"rate" : 150000,
+		"reward" : 60040001,
+		"type" : 402
+	},
+	
+	{
+		"num" : 10,
+		"rate" : 150000,
+		"reward" : 60040002,
+		"type" : 402
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4500,
+		"reward" : 60074002,
+		"type" : 402,
+		"valuedRate" : 500000
+	},
+	
+	{
+		"bestValuedRate" : 1000000,
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 3000,
+		"reward" : 60074003,
+		"type" : 402
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4000,
+		"reward" : 60076002,
+		"type" : 402,
+		"valuedRate" : 500000
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 40111216,
+		"type" : 403
+	},
+	
+	{
+		"num" : 2,
+		"rate" : 50000,
+		"reward" : 40111241,
+		"type" : 403
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 40128007,
+		"type" : 403
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 125000,
+		"reward" : 40153603,
+		"type" : 403
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 150000,
+		"reward" : 40153701,
+		"type" : 403
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16250,
+		"reward" : 40241002,
+		"type" : 403
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16250,
+		"reward" : 40241003,
+		"type" : 403
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16250,
+		"reward" : 40241004,
+		"type" : 403
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16250,
+		"reward" : 40241005,
+		"type" : 403
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 40242002,
+		"type" : 403
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 40242003,
+		"type" : 403
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 40242004,
+		"type" : 403
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 40242005,
+		"type" : 403
+	},
+	
+	{
+		"num" : 10,
+		"rate" : 80000,
+		"reward" : 40310038,
+		"type" : 403
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 75000,
+		"reward" : 51110003,
+		"type" : 403
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 18000,
+		"reward" : 51110004,
+		"type" : 403
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 75000,
+		"reward" : 51120003,
+		"type" : 403
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 18500,
+		"reward" : 51120004,
+		"type" : 403
+	},
+	
+	{
+		"num" : 10,
+		"rate" : 150000,
+		"reward" : 60040001,
+		"type" : 403
+	},
+	
+	{
+		"num" : 10,
+		"rate" : 150000,
+		"reward" : 60040002,
+		"type" : 403
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 3000,
+		"reward" : 60074003,
+		"type" : 403,
+		"valuedRate" : 400000
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 3000,
+		"reward" : 60076002,
+		"type" : 403,
+		"valuedRate" : 600000
+	},
+	
+	{
+		"bestValuedRate" : 1000000,
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 60076003,
+		"type" : 403
+	},
+	
+	{
+		"num" : 2,
+		"rate" : 36500,
+		"reward" : 40030002,
+		"type" : 404
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 40128007,
+		"type" : 404
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 125000,
+		"reward" : 40153603,
+		"type" : 404
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 150000,
+		"reward" : 40153701,
+		"type" : 404
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16250,
+		"reward" : 40241002,
+		"type" : 404
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16250,
+		"reward" : 40241003,
+		"type" : 404
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16250,
+		"reward" : 40241004,
+		"type" : 404
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16250,
+		"reward" : 40241005,
+		"type" : 404
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 40242002,
+		"type" : 404
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 40242003,
+		"type" : 404
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 40242004,
+		"type" : 404
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 40242005,
+		"type" : 404
+	},
+	
+	{
+		"num" : 10,
+		"rate" : 80000,
+		"reward" : 40310038,
+		"type" : 404
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 25000,
+		"reward" : 42150003,
+		"type" : 404
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 25000,
+		"reward" : 42160003,
+		"type" : 404
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 42170001,
+		"type" : 404,
+		"valuedRate" : 500000
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 75000,
+		"reward" : 51110003,
+		"type" : 404
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 75000,
+		"reward" : 51120003,
+		"type" : 404
+	},
+	
+	{
+		"num" : 10,
+		"rate" : 150000,
+		"reward" : 60040001,
+		"type" : 404
+	},
+	
+	{
+		"num" : 10,
+		"rate" : 150000,
+		"reward" : 60040002,
+		"type" : 404
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 3000,
+		"reward" : 60074003,
+		"type" : 404,
+		"valuedRate" : 500000
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 3000,
+		"reward" : 60076002,
+		"type" : 404
+	},
+	
+	{
+		"bestValuedRate" : 1000000,
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 60076003,
+		"type" : 404
+	},
+	
+	{
+		"num" : 2,
+		"rate" : 30000,
+		"reward" : 40030002,
+		"type" : 405
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 125000,
+		"reward" : 40153603,
+		"type" : 405
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 100000,
+		"reward" : 40153701,
+		"type" : 405
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 60000,
+		"reward" : 40153920,
+		"type" : 405
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16250,
+		"reward" : 40241002,
+		"type" : 405
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16250,
+		"reward" : 40241003,
+		"type" : 405
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16250,
+		"reward" : 40241004,
+		"type" : 405
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16250,
+		"reward" : 40241005,
+		"type" : 405
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 40242002,
+		"type" : 405
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 40242003,
+		"type" : 405
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 40242004,
+		"type" : 405
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 40242005,
+		"type" : 405
+	},
+	
+	{
+		"num" : 10,
+		"rate" : 80000,
+		"reward" : 40310038,
+		"type" : 405
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 23750,
+		"reward" : 42150003,
+		"type" : 405
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 23750,
+		"reward" : 42160003,
+		"type" : 405
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 42170001,
+		"type" : 405,
+		"valuedRate" : 400000
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 42200001,
+		"type" : 405,
+		"valuedRate" : 300000
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 75000,
+		"reward" : 51110003,
+		"type" : 405
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 75000,
+		"reward" : 51120003,
+		"type" : 405
+	},
+	
+	{
+		"num" : 10,
+		"rate" : 150000,
+		"reward" : 60040001,
+		"type" : 405
+	},
+	
+	{
+		"num" : 10,
+		"rate" : 150000,
+		"reward" : 60040002,
+		"type" : 405
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 3000,
+		"reward" : 60074003,
+		"type" : 405,
+		"valuedRate" : 300000
+	},
+	
+	{
+		"bestValuedRate" : 500000,
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2000,
+		"reward" : 60074004,
+		"type" : 405
+	},
+	
+	{
+		"bestValuedRate" : 500000,
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 60076003,
+		"type" : 405
+	},
+	
+	{
+		"num" : 2,
+		"rate" : 30000,
+		"reward" : 40030002,
+		"type" : 406
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2000,
+		"reward" : 40111235,
+		"type" : 406,
+		"valuedRate" : 250000
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 125000,
+		"reward" : 40153603,
+		"type" : 406
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 100000,
+		"reward" : 40153701,
+		"type" : 406
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 55000,
+		"reward" : 40153920,
+		"type" : 406
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16250,
+		"reward" : 40241002,
+		"type" : 406
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16250,
+		"reward" : 40241003,
+		"type" : 406
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16250,
+		"reward" : 40241004,
+		"type" : 406
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16250,
+		"reward" : 40241005,
+		"type" : 406
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 40242002,
+		"type" : 406
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 40242003,
+		"type" : 406
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 40242004,
+		"type" : 406
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 40242005,
+		"type" : 406
+	},
+	
+	{
+		"num" : 10,
+		"rate" : 80000,
+		"reward" : 40310038,
+		"type" : 406
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 23750,
+		"reward" : 42150003,
+		"type" : 406
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 23750,
+		"reward" : 42160003,
+		"type" : 406
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2000,
+		"reward" : 42170001,
+		"type" : 406,
+		"valuedRate" : 250000
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 42200001,
+		"type" : 406,
+		"valuedRate" : 250000
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 62500,
+		"reward" : 51110003,
+		"type" : 406
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 62500,
+		"reward" : 51120003,
+		"type" : 406
+	},
+	
+	{
+		"num" : 10,
+		"rate" : 125000,
+		"reward" : 60040001,
+		"type" : 406
+	},
+	
+	{
+		"num" : 10,
+		"rate" : 125000,
+		"reward" : 60040002,
+		"type" : 406
+	},
+	
+	{
+		"bestValuedRate" : 600000,
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2000,
+		"reward" : 60074004,
+		"type" : 406
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 60076003,
+		"type" : 406,
+		"valuedRate" : 250000
+	},
+	
+	{
+		"bestValuedRate" : 400000,
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1500,
+		"reward" : 60076004,
+		"type" : 406
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 20000,
+		"reward" : 60110003,
+		"type" : 406
+	},
+	
+	{
+		"num" : 4,
+		"rate" : 60000,
+		"reward" : 60120003,
+		"type" : 406
+	},
+	
+	{
+		"num" : 2,
+		"rate" : 30000,
+		"reward" : 40030002,
+		"type" : 407
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 40111235,
+		"type" : 407,
+		"valuedRate" : 300000
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 125000,
+		"reward" : 40153603,
+		"type" : 407
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 100000,
+		"reward" : 40153701,
+		"type" : 407
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 55000,
+		"reward" : 40153920,
+		"type" : 407
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16250,
+		"reward" : 40241002,
+		"type" : 407
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16250,
+		"reward" : 40241003,
+		"type" : 407
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16250,
+		"reward" : 40241004,
+		"type" : 407
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16250,
+		"reward" : 40241005,
+		"type" : 407
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 40242002,
+		"type" : 407
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 40242003,
+		"type" : 407
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 40242004,
+		"type" : 407
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 40242005,
+		"type" : 407
+	},
+	
+	{
+		"num" : 10,
+		"rate" : 80000,
+		"reward" : 40310038,
+		"type" : 407
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 23750,
+		"reward" : 42150003,
+		"type" : 407
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 23750,
+		"reward" : 42160003,
+		"type" : 407
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 42170001,
+		"type" : 407,
+		"valuedRate" : 300000
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 3000,
+		"reward" : 42200001,
+		"type" : 407,
+		"valuedRate" : 400000
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 62500,
+		"reward" : 51110003,
+		"type" : 407
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 62500,
+		"reward" : 51120003,
+		"type" : 407
+	},
+	
+	{
+		"num" : 10,
+		"rate" : 125000,
+		"reward" : 60040001,
+		"type" : 407
+	},
+	
+	{
+		"num" : 10,
+		"rate" : 125000,
+		"reward" : 60040002,
+		"type" : 407
+	},
+	
+	{
+		"bestValuedRate" : 400000,
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2000,
+		"reward" : 60074004,
+		"type" : 407
+	},
+	
+	{
+		"bestValuedRate" : 300000,
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1000,
+		"reward" : 60074005,
+		"type" : 407
+	},
+	
+	{
+		"bestValuedRate" : 300000,
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1500,
+		"reward" : 60076004,
+		"type" : 407
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 20000,
+		"reward" : 60110003,
+		"type" : 407
+	},
+	
+	{
+		"num" : 4,
+		"rate" : 60000,
+		"reward" : 60120003,
+		"type" : 407
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 125000,
+		"reward" : 40153603,
+		"type" : 501
+	},
+	
+	{
+		"bestValuedRate" : 1000000,
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 20000,
+		"reward" : 42220030,
+		"type" : 501
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 200000,
+		"reward" : 51110002,
+		"type" : 501
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 10000,
+		"reward" : 51110004,
+		"type" : 501,
+		"valuedRate" : 400000
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 200000,
+		"reward" : 51120002,
+		"type" : 501
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 10000,
+		"reward" : 51120004,
+		"type" : 501,
+		"valuedRate" : 400000
+	},
+	
+	{
+		"num" : 5,
+		"rate" : 200000,
+		"reward" : 60040030,
+		"type" : 501
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 47500,
+		"reward" : 60040038,
+		"type" : 501
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 15000,
+		"reward" : 60040045,
+		"type" : 501,
+		"valuedRate" : 200000
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 47500,
+		"reward" : 60040052,
+		"type" : 501
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 125000,
+		"reward" : 60060111,
+		"type" : 501
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 30000,
+		"reward" : 40030002,
+		"type" : 601
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 87750,
+		"reward" : 40151002,
+		"type" : 601
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 80000,
+		"reward" : 40151009,
+		"type" : 601
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 6000,
+		"reward" : 40153912,
+		"type" : 601
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 16000,
+		"reward" : 40153922,
+		"type" : 601
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 50000,
+		"reward" : 40153932,
+		"type" : 601
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 60000,
+		"reward" : 42150001,
+		"type" : 601
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 20000,
+		"reward" : 42150002,
+		"type" : 601
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 8000,
+		"reward" : 42150003,
+		"type" : 601
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 60000,
+		"reward" : 42160001,
+		"type" : 601
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 20000,
+		"reward" : 42160002,
+		"type" : 601
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 8000,
+		"reward" : 42160003,
+		"type" : 601
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1050,
+		"reward" : 42200005,
+		"type" : 601,
+		"valuedRate" : 500000
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1050,
+		"reward" : 42200006,
+		"type" : 601,
+		"valuedRate" : 500000
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 75000,
+		"reward" : 51110002,
+		"type" : 601
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 25000,
+		"reward" : 51110003,
+		"type" : 601
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 6000,
+		"reward" : 51110004,
+		"type" : 601
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2000,
+		"reward" : 51110005,
+		"type" : 601
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 75000,
+		"reward" : 51120002,
+		"type" : 601
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 25000,
+		"reward" : 51120003,
+		"type" : 601
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 6000,
+		"reward" : 51120004,
+		"type" : 601
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2000,
+		"reward" : 51120005,
+		"type" : 601
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 4000,
+		"reward" : 60030003,
+		"type" : 601
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 4000,
+		"reward" : 60030017,
+		"type" : 601
+	},
+	
+	{
+		"num" : 5,
+		"rate" : 125000,
+		"reward" : 60040001,
+		"type" : 601
+	},
+	
+	{
+		"num" : 5,
+		"rate" : 125000,
+		"reward" : 60040002,
+		"type" : 601
+	},
+	
+	{
+		"bestValuedRate" : 1000000,
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 650,
+		"reward" : 60073005,
+		"type" : 601
+	},
+	
+	{
+		"num" : 10,
+		"rate" : 20000,
+		"reward" : 60110001,
+		"type" : 601
+	},
+	
+	{
+		"num" : 10,
+		"rate" : 50000,
+		"reward" : 60120001,
+		"type" : 601
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7500,
+		"reward" : 60132001,
+		"type" : 601
+	},
+	
+	{
+		"effect" : 4,
+		"num" : 1,
+		"rate" : 100000,
+		"reward" : 40153805,
+		"type" : 701
+	},
+	
+	{
+		"effect" : 3,
+		"num" : 1,
+		"rate" : 45000,
+		"reward" : 40430007,
+		"type" : 701
+	},
+	
+	{
+		"bestValuedRate" : 1000000,
+		"broadcast" : 1,
+		"effect" : 1,
+		"num" : 1,
+		"rate" : 20000,
+		"reward" : 42220050,
+		"type" : 701
+	},
+	
+	{
+		"effect" : 4,
+		"num" : 5,
+		"rate" : 125000,
+		"reward" : 42270000,
+		"type" : 701
+	},
+	
+	{
+		"effect" : 5,
+		"num" : 1,
+		"rate" : 100000,
+		"reward" : 51110002,
+		"type" : 701
+	},
+	
+	{
+		"broadcast" : 1,
+		"effect" : 2,
+		"num" : 1,
+		"rate" : 15000,
+		"reward" : 51110004,
+		"type" : 701,
+		"valuedRate" : 400000
+	},
+	
+	{
+		"effect" : 5,
+		"num" : 1,
+		"rate" : 100000,
+		"reward" : 51120002,
+		"type" : 701
+	},
+	
+	{
+		"broadcast" : 1,
+		"effect" : 2,
+		"num" : 1,
+		"rate" : 15000,
+		"reward" : 51120004,
+		"type" : 701,
+		"valuedRate" : 400000
+	},
+	
+	{
+		"broadcast" : 1,
+		"effect" : 2,
+		"num" : 1,
+		"rate" : 45000,
+		"reward" : 60030001,
+		"type" : 701
+	},
+	
+	{
+		"broadcast" : 1,
+		"effect" : 2,
+		"num" : 1,
+		"rate" : 15000,
+		"reward" : 60030008,
+		"type" : 701,
+		"valuedRate" : 200000
+	},
+	
+	{
+		"broadcast" : 1,
+		"effect" : 2,
+		"num" : 1,
+		"rate" : 45000,
+		"reward" : 60030015,
+		"type" : 701
+	},
+	
+	{
+		"effect" : 4,
+		"num" : 5,
+		"rate" : 100000,
+		"reward" : 60040001,
+		"type" : 701
+	},
+	
+	{
+		"effect" : 3,
+		"num" : 1,
+		"rate" : 75000,
+		"reward" : 60060001,
+		"type" : 701
+	},
+	
+	{
+		"effect" : 4,
+		"num" : 5,
+		"rate" : 100000,
+		"reward" : 60080000,
+		"type" : 701
+	},
+	
+	{
+		"effect" : 4,
+		"num" : 5,
+		"rate" : 100000,
+		"reward" : 60100000,
+		"type" : 701
+	},
+	
+	{
+		"effect" : 4,
+		"num" : 1,
+		"rate" : 100000,
+		"reward" : 40153805,
+		"type" : 702
+	},
+	
+	{
+		"effect" : 3,
+		"num" : 1,
+		"rate" : 45000,
+		"reward" : 40430007,
+		"type" : 702
+	},
+	
+	{
+		"bestValuedRate" : 1000000,
+		"broadcast" : 1,
+		"effect" : 1,
+		"num" : 1,
+		"rate" : 20000,
+		"reward" : 42220010,
+		"type" : 702
+	},
+	
+	{
+		"effect" : 4,
+		"num" : 5,
+		"rate" : 125000,
+		"reward" : 42270000,
+		"type" : 702
+	},
+	
+	{
+		"effect" : 5,
+		"num" : 1,
+		"rate" : 100000,
+		"reward" : 51110002,
+		"type" : 702
+	},
+	
+	{
+		"broadcast" : 1,
+		"effect" : 2,
+		"num" : 1,
+		"rate" : 15000,
+		"reward" : 51110004,
+		"type" : 702,
+		"valuedRate" : 400000
+	},
+	
+	{
+		"effect" : 5,
+		"num" : 1,
+		"rate" : 100000,
+		"reward" : 51120002,
+		"type" : 702
+	},
+	
+	{
+		"broadcast" : 1,
+		"effect" : 2,
+		"num" : 1,
+		"rate" : 15000,
+		"reward" : 51120004,
+		"type" : 702,
+		"valuedRate" : 400000
+	},
+	
+	{
+		"broadcast" : 1,
+		"effect" : 2,
+		"num" : 1,
+		"rate" : 45000,
+		"reward" : 60030002,
+		"type" : 702
+	},
+	
+	{
+		"broadcast" : 1,
+		"effect" : 2,
+		"num" : 1,
+		"rate" : 15000,
+		"reward" : 60030009,
+		"type" : 702,
+		"valuedRate" : 200000
+	},
+	
+	{
+		"broadcast" : 1,
+		"effect" : 2,
+		"num" : 1,
+		"rate" : 45000,
+		"reward" : 60030016,
+		"type" : 702
+	},
+	
+	{
+		"effect" : 4,
+		"num" : 5,
+		"rate" : 100000,
+		"reward" : 60040001,
+		"type" : 702
+	},
+	
+	{
+		"effect" : 3,
+		"num" : 1,
+		"rate" : 75000,
+		"reward" : 60060002,
+		"type" : 702
+	},
+	
+	{
+		"effect" : 4,
+		"num" : 5,
+		"rate" : 100000,
+		"reward" : 60080000,
+		"type" : 702
+	},
+	
+	{
+		"effect" : 4,
+		"num" : 5,
+		"rate" : 100000,
+		"reward" : 60100000,
+		"type" : 702
+	},
+	
+	{
+		"effect" : 4,
+		"num" : 1,
+		"rate" : 100000,
+		"reward" : 40153805,
+		"type" : 703
+	},
+	
+	{
+		"effect" : 3,
+		"num" : 1,
+		"rate" : 45000,
+		"reward" : 40430007,
+		"type" : 703
+	},
+	
+	{
+		"bestValuedRate" : 1000000,
+		"broadcast" : 1,
+		"effect" : 1,
+		"num" : 1,
+		"rate" : 20000,
+		"reward" : 42220030,
+		"type" : 703
+	},
+	
+	{
+		"effect" : 4,
+		"num" : 5,
+		"rate" : 125000,
+		"reward" : 42270000,
+		"type" : 703
+	},
+	
+	{
+		"effect" : 5,
+		"num" : 1,
+		"rate" : 100000,
+		"reward" : 51110002,
+		"type" : 703
+	},
+	
+	{
+		"broadcast" : 1,
+		"effect" : 2,
+		"num" : 1,
+		"rate" : 15000,
+		"reward" : 51110004,
+		"type" : 703,
+		"valuedRate" : 400000
+	},
+	
+	{
+		"effect" : 5,
+		"num" : 1,
+		"rate" : 100000,
+		"reward" : 51120002,
+		"type" : 703
+	},
+	
+	{
+		"broadcast" : 1,
+		"effect" : 2,
+		"num" : 1,
+		"rate" : 15000,
+		"reward" : 51120004,
+		"type" : 703,
+		"valuedRate" : 400000
+	},
+	
+	{
+		"broadcast" : 1,
+		"effect" : 2,
+		"num" : 1,
+		"rate" : 45000,
+		"reward" : 60030001,
+		"type" : 703
+	},
+	
+	{
+		"broadcast" : 1,
+		"effect" : 2,
+		"num" : 1,
+		"rate" : 15000,
+		"reward" : 60030008,
+		"type" : 703,
+		"valuedRate" : 200000
+	},
+	
+	{
+		"broadcast" : 1,
+		"effect" : 2,
+		"num" : 1,
+		"rate" : 45000,
+		"reward" : 60030015,
+		"type" : 703
+	},
+	
+	{
+		"effect" : 4,
+		"num" : 5,
+		"rate" : 100000,
+		"reward" : 60040001,
+		"type" : 703
+	},
+	
+	{
+		"effect" : 3,
+		"num" : 1,
+		"rate" : 75000,
+		"reward" : 60060001,
+		"type" : 703
+	},
+	
+	{
+		"effect" : 4,
+		"num" : 5,
+		"rate" : 100000,
+		"reward" : 60080000,
+		"type" : 703
+	},
+	
+	{
+		"effect" : 4,
+		"num" : 5,
+		"rate" : 100000,
+		"reward" : 60100000,
+		"type" : 703
+	},
+	
+	{
+		"effect" : 4,
+		"num" : 1,
+		"rate" : 100000,
+		"reward" : 40153805,
+		"type" : 704
+	},
+	
+	{
+		"effect" : 3,
+		"num" : 1,
+		"rate" : 45000,
+		"reward" : 40430007,
+		"type" : 704
+	},
+	
+	{
+		"bestValuedRate" : 1000000,
+		"broadcast" : 1,
+		"effect" : 1,
+		"num" : 1,
+		"rate" : 20000,
+		"reward" : 42220020,
+		"type" : 704
+	},
+	
+	{
+		"effect" : 4,
+		"num" : 5,
+		"rate" : 125000,
+		"reward" : 42270000,
+		"type" : 704
+	},
+	
+	{
+		"effect" : 5,
+		"num" : 1,
+		"rate" : 100000,
+		"reward" : 51110002,
+		"type" : 704
+	},
+	
+	{
+		"broadcast" : 1,
+		"effect" : 2,
+		"num" : 1,
+		"rate" : 15000,
+		"reward" : 51110004,
+		"type" : 704,
+		"valuedRate" : 400000
+	},
+	
+	{
+		"effect" : 5,
+		"num" : 1,
+		"rate" : 100000,
+		"reward" : 51120002,
+		"type" : 704
+	},
+	
+	{
+		"broadcast" : 1,
+		"effect" : 2,
+		"num" : 1,
+		"rate" : 15000,
+		"reward" : 51120004,
+		"type" : 704,
+		"valuedRate" : 400000
+	},
+	
+	{
+		"broadcast" : 1,
+		"effect" : 2,
+		"num" : 1,
+		"rate" : 45000,
+		"reward" : 60030002,
+		"type" : 704
+	},
+	
+	{
+		"broadcast" : 1,
+		"effect" : 2,
+		"num" : 1,
+		"rate" : 15000,
+		"reward" : 60030009,
+		"type" : 704,
+		"valuedRate" : 200000
+	},
+	
+	{
+		"broadcast" : 1,
+		"effect" : 2,
+		"num" : 1,
+		"rate" : 45000,
+		"reward" : 60030016,
+		"type" : 704
+	},
+	
+	{
+		"effect" : 4,
+		"num" : 5,
+		"rate" : 100000,
+		"reward" : 60040001,
+		"type" : 704
+	},
+	
+	{
+		"effect" : 3,
+		"num" : 1,
+		"rate" : 75000,
+		"reward" : 60060002,
+		"type" : 704
+	},
+	
+	{
+		"effect" : 4,
+		"num" : 5,
+		"rate" : 100000,
+		"reward" : 60080000,
+		"type" : 704
+	},
+	
+	{
+		"effect" : 4,
+		"num" : 5,
+		"rate" : 100000,
+		"reward" : 60100000,
+		"type" : 704
+	},
+	
+	{
+		"effect" : 4,
+		"num" : 1,
+		"rate" : 100000,
+		"reward" : 40153805,
+		"type" : 705
+	},
+	
+	{
+		"effect" : 3,
+		"num" : 1,
+		"rate" : 45000,
+		"reward" : 40430007,
+		"type" : 705
+	},
+	
+	{
+		"bestValuedRate" : 1000000,
+		"broadcast" : 1,
+		"effect" : 1,
+		"num" : 1,
+		"rate" : 20000,
+		"reward" : 42220040,
+		"type" : 705
+	},
+	
+	{
+		"effect" : 4,
+		"num" : 5,
+		"rate" : 125000,
+		"reward" : 42270000,
+		"type" : 705
+	},
+	
+	{
+		"effect" : 5,
+		"num" : 1,
+		"rate" : 100000,
+		"reward" : 51110002,
+		"type" : 705
+	},
+	
+	{
+		"broadcast" : 1,
+		"effect" : 2,
+		"num" : 1,
+		"rate" : 15000,
+		"reward" : 51110004,
+		"type" : 705,
+		"valuedRate" : 400000
+	},
+	
+	{
+		"effect" : 5,
+		"num" : 1,
+		"rate" : 100000,
+		"reward" : 51120002,
+		"type" : 705
+	},
+	
+	{
+		"broadcast" : 1,
+		"effect" : 2,
+		"num" : 1,
+		"rate" : 15000,
+		"reward" : 51120004,
+		"type" : 705,
+		"valuedRate" : 400000
+	},
+	
+	{
+		"broadcast" : 1,
+		"effect" : 2,
+		"num" : 1,
+		"rate" : 45000,
+		"reward" : 60030001,
+		"type" : 705
+	},
+	
+	{
+		"broadcast" : 1,
+		"effect" : 2,
+		"num" : 1,
+		"rate" : 15000,
+		"reward" : 60030008,
+		"type" : 705,
+		"valuedRate" : 200000
+	},
+	
+	{
+		"broadcast" : 1,
+		"effect" : 2,
+		"num" : 1,
+		"rate" : 45000,
+		"reward" : 60030015,
+		"type" : 705
+	},
+	
+	{
+		"effect" : 4,
+		"num" : 5,
+		"rate" : 100000,
+		"reward" : 60040001,
+		"type" : 705
+	},
+	
+	{
+		"effect" : 3,
+		"num" : 1,
+		"rate" : 75000,
+		"reward" : 60060001,
+		"type" : 705
+	},
+	
+	{
+		"effect" : 4,
+		"num" : 5,
+		"rate" : 100000,
+		"reward" : 60080000,
+		"type" : 705
+	},
+	
+	{
+		"effect" : 4,
+		"num" : 5,
+		"rate" : 100000,
+		"reward" : 60100000,
+		"type" : 705
+	}
+]

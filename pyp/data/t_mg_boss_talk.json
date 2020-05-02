@@ -1,0 +1,169 @@
+
+[
+	
+	{
+		"bossCode" : 1000020,
+		"condition" : 4,
+		"id" : 1,
+		"rate" : 10,
+		"talkIds" : "5001#5002",
+		"timeDuration" : 3,
+		"value" : 9
+	},
+	
+	{
+		"bossCode" : 1000000,
+		"condition" : 4,
+		"id" : 2,
+		"rate" : 8,
+		"talkIds" : "1501#1509",
+		"timeDuration" : 3,
+		"value" : 9
+	},
+	
+	{
+		"bossCode" : 201540104,
+		"condition" : 1,
+		"id" : 3,
+		"rate" : 100,
+		"talkIds" : "5101",
+		"timeDuration" : 3
+	},
+	
+	{
+		"bossCode" : 1000005,
+		"condition" : 2,
+		"id" : 4,
+		"rate" : 100,
+		"talkIds" : "5201",
+		"timeDuration" : 3,
+		"value" : 50
+	},
+	
+	{
+		"bossCode" : 201540104,
+		"condition" : 3,
+		"id" : 5,
+		"rate" : 100,
+		"talkIds" : "5102",
+		"timeDuration" : 3
+	},
+	
+	{
+		"bossCode" : 1000036,
+		"condition" : 1,
+		"id" : 6,
+		"rate" : 100,
+		"talkIds" : "5203",
+		"timeDuration" : 4
+	},
+	
+	{
+		"bossCode" : 1000036,
+		"condition" : 2,
+		"id" : 7,
+		"rate" : 100,
+		"talkIds" : "5204",
+		"timeDuration" : 4,
+		"value" : 20
+	},
+	
+	{
+		"bossCode" : 1000021,
+		"condition" : 2,
+		"id" : 8,
+		"rate" : 100,
+		"talkIds" : "5202",
+		"timeDuration" : 3,
+		"value" : 20
+	},
+	
+	{
+		"bossCode" : 1000008,
+		"condition" : 4,
+		"id" : 9,
+		"rate" : 8,
+		"talkIds" : "5007",
+		"timeDuration" : 3,
+		"value" : 9
+	},
+	
+	{
+		"bossCode" : 20115102,
+		"condition" : 4,
+		"id" : 10,
+		"rate" : 100,
+		"talkIds" : "2000",
+		"timeDuration" : 3,
+		"value" : 12
+	},
+	
+	{
+		"bossCode" : 20115101,
+		"condition" : 1,
+		"id" : 11,
+		"rate" : 100,
+		"talkIds" : "2001",
+		"timeDuration" : 3
+	},
+	
+	{
+		"bossCode" : 9004005,
+		"condition" : 4,
+		"id" : 12,
+		"rate" : 100,
+		"talkIds" : "2002",
+		"timeDuration" : 3,
+		"value" : 12
+	},
+	
+	{
+		"bossCode" : 20115001,
+		"condition" : 4,
+		"id" : 13,
+		"rate" : 100,
+		"talkIds" : "2003",
+		"timeDuration" : 3,
+		"value" : 9
+	},
+	
+	{
+		"bossCode" : 20115203,
+		"condition" : 4,
+		"id" : 14,
+		"rate" : 100,
+		"talkIds" : "2004",
+		"timeDuration" : 3,
+		"value" : 12
+	},
+	
+	{
+		"bossCode" : 20115201,
+		"condition" : 4,
+		"id" : 15,
+		"rate" : 100,
+		"talkIds" : "2005",
+		"timeDuration" : 3,
+		"value" : 9
+	},
+	
+	{
+		"bossCode" : 20115202,
+		"condition" : 4,
+		"id" : 16,
+		"rate" : 100,
+		"talkIds" : "2006",
+		"timeDuration" : 3,
+		"value" : 9
+	},
+	
+	{
+		"bossCode" : 30000019,
+		"condition" : 4,
+		"id" : 17,
+		"rate" : 100,
+		"talkIds" : "5001#5002",
+		"timeDuration" : 3,
+		"value" : 3
+	}
+]

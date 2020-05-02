@@ -1,0 +1,26 @@
+
+[
+	
+	{
+		"costGold" : 50,
+		"costProp" : 4
+	},
+	
+	{
+		"costGold" : 150,
+		"costProp" : 10,
+		"lockNum" : 1
+	},
+	
+	{
+		"costGold" : 400,
+		"costProp" : 24,
+		"lockNum" : 2
+	},
+	
+	{
+		"costGold" : 500,
+		"costProp" : 40,
+		"lockNum" : 3
+	}
+]

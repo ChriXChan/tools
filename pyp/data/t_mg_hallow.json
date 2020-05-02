@@ -1,0 +1,158 @@
+
+[
+	
+	{
+		"attachedNum" : 10,
+		"attachedProp" : 60110001,
+		"code" : 1001,
+		"conditionType" : 1,
+		"conditionValue" : 450,
+		"iconRes" : "1001",
+		"modelId" : "1001",
+		"name" : "玉清扇",
+		"type" : 1
+	},
+	
+	{
+		"attachedNum" : 10,
+		"attachedProp" : 60110001,
+		"code" : 1002,
+		"conditionType" : 2,
+		"conditionValue" : 1001,
+		"conditionValueEx" : 60,
+		"iconRes" : "1002",
+		"modelId" : "1002",
+		"name" : "伏龙鼎",
+		"type" : 1
+	},
+	
+	{
+		"attachedNum" : 10,
+		"attachedProp" : 60110001,
+		"code" : 1003,
+		"conditionType" : 2,
+		"conditionValue" : 1002,
+		"conditionValueEx" : 60,
+		"iconRes" : "1003",
+		"modelId" : "1003",
+		"name" : "诛仙阵",
+		"type" : 1
+	},
+	
+	{
+		"attachedNum" : 5,
+		"attachedProp" : 60110002,
+		"code" : 2001,
+		"conditionType" : 3,
+		"conditionValue" : 60132001,
+		"conditionValueEx" : 10,
+		"iconRes" : "2001",
+		"modelId" : "2001",
+		"name" : "玲珑塔",
+		"type" : 2
+	},
+	
+	{
+		"attachedNum" : 5,
+		"attachedProp" : 60110002,
+		"code" : 2002,
+		"conditionType" : 3,
+		"conditionValue" : 60132002,
+		"conditionValueEx" : 10,
+		"iconRes" : "2002",
+		"modelId" : "2002",
+		"name" : "金箍棒",
+		"type" : 2
+	},
+	
+	{
+		"attachedNum" : 5,
+		"attachedProp" : 60110002,
+		"code" : 2003,
+		"conditionType" : 3,
+		"conditionValue" : 60132003,
+		"conditionValueEx" : 10,
+		"iconRes" : "2003",
+		"modelId" : "2003",
+		"name" : "封神榜",
+		"type" : 2
+	},
+	
+	{
+		"attachedNum" : 2,
+		"attachedProp" : 60110003,
+		"code" : 3001,
+		"conditionType" : 3,
+		"conditionValue" : 60133001,
+		"conditionValueEx" : 10,
+		"iconRes" : "3001",
+		"modelId" : "3001",
+		"name" : "昆仑镜",
+		"type" : 3
+	},
+	
+	{
+		"attachedNum" : 2,
+		"attachedProp" : 60110003,
+		"code" : 3002,
+		"conditionType" : 3,
+		"conditionValue" : 60133002,
+		"conditionValueEx" : 10,
+		"iconRes" : "3002",
+		"modelId" : "3002",
+		"name" : "东皇钟",
+		"type" : 3
+	},
+	
+	{
+		"attachedNum" : 2,
+		"attachedProp" : 60110003,
+		"code" : 3003,
+		"conditionType" : 3,
+		"conditionValue" : 60133003,
+		"conditionValueEx" : 10,
+		"iconRes" : "3003",
+		"modelId" : "3003",
+		"name" : "轩辕剑",
+		"type" : 3
+	},
+	
+	{
+		"attachedNum" : 1,
+		"attachedProp" : 60110004,
+		"code" : 4001,
+		"conditionType" : 3,
+		"conditionValue" : 60134001,
+		"conditionValueEx" : 10,
+		"iconRes" : "4001",
+		"modelId" : "4001",
+		"name" : "女娲石",
+		"type" : 4
+	},
+	
+	{
+		"attachedNum" : 1,
+		"attachedProp" : 60110004,
+		"code" : 4002,
+		"conditionType" : 3,
+		"conditionValue" : 60134002,
+		"conditionValueEx" : 10,
+		"iconRes" : "4002",
+		"modelId" : "4002",
+		"name" : "伏羲琴",
+		"type" : 4
+	},
+	
+	{
+		"attachedNum" : 1,
+		"attachedProp" : 60110004,
+		"code" : 4003,
+		"conditionType" : 3,
+		"conditionValue" : 60134003,
+		"conditionValueEx" : 10,
+		"iconRes" : "4003",
+		"modelId" : "4003",
+		"name" : "盘古斧",
+		"type" : 4
+	}
+]

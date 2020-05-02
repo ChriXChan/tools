@@ -1,0 +1,38 @@
+
+[
+	
+	{
+		"advertiseSrc1" : "vipBanner2",
+		"advertiseSrc2" : "vipAdIcon1",
+		"desc" : "<font color='#9e241b'>直升VIP4，尊享多项特权：</font><br>◆专属称号“白金上仙”，战斗力提升<font color='#01AB24'>4000</font><br>◆专属Buff，攻击<font color='#01AB24'>+100</font>，防御<font color='#01AB24'>+30</font><br>◆专属BOSS，稀有红装，<font color='#01AB24'>BOSS家一层</font><br>◆快速升级，杀怪经验<font color='#01AB24'>+30%</font><br>◆宠物吞噬经验<font color='#01AB24'>+30%</font><br>◆每日签到，奖励最高<font color='#01AB24'>4</font>倍<br>◆精准交易：可使用密码交易功能<br>◆大量铜钱：购买仙帝宝库次数<font color='#01AB24'>+2</font><br>◆宠物提升：购买守护仙灵次数<font color='#01AB24'>+3</font><br>◆极致升级：购买九幽魔窟次数<font color='#01AB24'>+1</font><br>◆商人福利，市场税率减半，降至<font color='#01AB24'>10%</font><br>◆懒人福利，<font color='#01AB24'>自动进行仙盟任务</font><br>◆额外铜钱经验：祈福次数<font color='#01AB24'>+6</font><br>◆<font color='#01AB24'>专属VIP特惠商品</font>，商城特卖<br>◆方便快捷，<font color='#01AB24'>无限免费传送</font><br>◆<font color='#01AB24'>包含VIP1-VIP3所有特权</font>",
+		"id" : 1,
+		"isVipCard" : 1,
+		"itemCode" : 40420010
+	},
+	
+	{
+		"advertiseSrc1" : "vipBanner2",
+		"advertiseSrc2" : "vipAdIcon1",
+		"desc" : "<font color='#9e241b'>直升VIP2，尊享多项特权：</font><br>◆专属称号“青铜地仙”，战力提升<font color='#01AB24'>2000</font><br>◆懒人福利，<font color='#01AB24'>自动进行仙盟任务</font><br>◆每日签到，奖励最高<font color='#01AB24'>2</font>倍<br>◆极致升级：购买九幽魔窟次数<font color='#01AB24'>+1</font><br>◆大量铜钱：购买仙帝宝库次数<font color='#01AB24'>+1</font><br>◆宠物提升：购买守护仙灵次数<font color='#01AB24'>+2</font><br>◆快速升级，杀怪经验<font color='#01AB24'>+30%</font><br>◆额外铜钱经验：祈福次数<font color='#01AB24'>+4</font><br>◆<font color='#01AB24'>专属VIP特惠商品</font>，商城特卖<br>◆方便快捷，<font color='#01AB24'>无限免费传送</font><br>◆商人福利，市场税率减半，降至<font color='#01AB24'>10%</font><br>◆<font color='#01AB24'>包含VIP1所有特权</font>",
+		"id" : 2,
+		"isVipCard" : 1,
+		"itemCode" : 40420020
+	},
+	
+	{
+		"advertiseSrc1" : "vipBanner2",
+		"advertiseSrc2" : "vipAdIcon1",
+		"desc" : "<font color='#9e241b'>直升VIP1，尊享多项特权：</font><br>◆专属称号“青铜地仙”，战力提升<font color='#01AB24'>2000</font><br>◆懒人福利，<font color='#01AB24'>自动进行仙盟任务</font><br>◆大量铜钱：购买仙帝宝库次数<font color='#01AB24'>+1</font><br>◆宠物提升：购买守护仙灵次数<font color='#01AB24'>+1</font><br>◆快速升级，杀怪经验<font color='#01AB24'>+30%</font><br>◆额外铜钱经验：祈福次数<font color='#01AB24'>+2</font><br>◆<font color='#01AB24'>专属VIP特惠商品</font>，商城特卖<br>◆方便快捷，<font color='#01AB24'>无限免费传送</font><br>◆商人福利，市场税率减半，降至<font color='#01AB24'>10%</font>",
+		"id" : 3,
+		"isVipCard" : 1,
+		"itemCode" : 40420030
+	},
+	
+	{
+		"advertiseSrc1" : "vipBanner2",
+		"advertiseSrc2" : "vipAdIcon1",
+		"desc" : "<font color='#843d07'>◆杀怪经验提升</font><font color='#01ab26'>30%</font><br><font color='#843d07'>◆自动进行仙盟任务</font><br><font color='#843d07'>◆市场交易税率降至</font><font color='#01ab26'>10%</font><br><font color='#843d07'>◆每周限购</font><font color='#01ab26'>VIP专属</font><font color='#843d07'>特惠商品</font><br><font color='#843d07'>◆额外铜钱经验：</font><font color='#01ab26'>祈福次数+2</font><br><font color='#843d07'>◆宠物吞噬经验提升</font><font color='#01ab26'>30%</font><br><font color='#843d07'>◆每日签到</font><font color='#01ab26'>多倍奖励</font><br><font color='#843d07'>◆专属属性Buff加成，战力杠杠的</font><br><font color='#843d07'>◆专属BOSS，稀有红装，BOSS家免费进入</font><br><font color='#843d07'>◆专属称号战斗力瞬间暴涨</font><br><font color='#843d07'>◆更多特权请体验结束后，开通VIP，享受更多特权</font>",
+		"id" : 4,
+		"itemCode" : 40420041
+	}
+]

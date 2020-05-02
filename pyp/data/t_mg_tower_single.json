@@ -1,0 +1,253 @@
+
+[
+	
+	{
+		"copyCode" : 1110,
+		"desc" : "诛仙-巨石阵",
+		"floor" : 1,
+		"intoX" : 19,
+		"intoY" : 29,
+		"mapId" : 217501,
+		"rewards" : "207501002"
+	},
+	
+	{
+		"copyCode" : 1110,
+		"desc" : "诛仙-金绝阵",
+		"floor" : 2,
+		"intoX" : 12,
+		"intoY" : 18,
+		"mapId" : 217511,
+		"rewards" : "207501002"
+	},
+	
+	{
+		"copyCode" : 1110,
+		"desc" : "诛仙-木沼阵",
+		"floor" : 3,
+		"intoX" : 17,
+		"intoY" : 19,
+		"mapId" : 217521,
+		"rewards" : "207501002"
+	},
+	
+	{
+		"copyCode" : 1110,
+		"desc" : "诛仙-水灵阵",
+		"floor" : 4,
+		"intoX" : 4,
+		"intoY" : 8,
+		"mapId" : 217531,
+		"rewards" : "207501002"
+	},
+	
+	{
+		"copyCode" : 1110,
+		"desc" : "诛仙-炎火阵",
+		"floor" : 5,
+		"intoX" : 12,
+		"intoY" : 18,
+		"mapId" : 217541,
+		"rewards" : "207501002"
+	},
+	
+	{
+		"copyCode" : 11110,
+		"desc" : "诛仙-巨石阵",
+		"floor" : 1,
+		"intoX" : 19,
+		"intoY" : 29,
+		"mapId" : 217502,
+		"rewards" : "207502002"
+	},
+	
+	{
+		"copyCode" : 11110,
+		"desc" : "诛仙-金绝阵",
+		"floor" : 2,
+		"intoX" : 12,
+		"intoY" : 18,
+		"mapId" : 217512,
+		"rewards" : "207502002"
+	},
+	
+	{
+		"copyCode" : 11110,
+		"desc" : "诛仙-木沼阵",
+		"floor" : 3,
+		"intoX" : 17,
+		"intoY" : 19,
+		"mapId" : 217522,
+		"rewards" : "207502002"
+	},
+	
+	{
+		"copyCode" : 11110,
+		"desc" : "诛仙-水灵阵",
+		"floor" : 4,
+		"intoX" : 4,
+		"intoY" : 8,
+		"mapId" : 217532,
+		"rewards" : "207502002"
+	},
+	
+	{
+		"copyCode" : 11110,
+		"desc" : "诛仙-炎火阵",
+		"floor" : 5,
+		"intoX" : 12,
+		"intoY" : 18,
+		"mapId" : 217542,
+		"rewards" : "207502002"
+	},
+	
+	{
+		"copyCode" : 21110,
+		"desc" : "诛仙-巨石阵",
+		"floor" : 1,
+		"intoX" : 19,
+		"intoY" : 29,
+		"mapId" : 217503,
+		"rewards" : "207503002"
+	},
+	
+	{
+		"copyCode" : 21110,
+		"desc" : "诛仙-金绝阵",
+		"floor" : 2,
+		"intoX" : 12,
+		"intoY" : 18,
+		"mapId" : 217513,
+		"rewards" : "207503002"
+	},
+	
+	{
+		"copyCode" : 21110,
+		"desc" : "诛仙-木沼阵",
+		"floor" : 3,
+		"intoX" : 17,
+		"intoY" : 19,
+		"mapId" : 217523,
+		"rewards" : "207503002"
+	},
+	
+	{
+		"copyCode" : 21110,
+		"desc" : "诛仙-水灵阵",
+		"floor" : 4,
+		"intoX" : 4,
+		"intoY" : 8,
+		"mapId" : 217533,
+		"rewards" : "207503002"
+	},
+	
+	{
+		"copyCode" : 21110,
+		"desc" : "诛仙-炎火阵",
+		"floor" : 5,
+		"intoX" : 12,
+		"intoY" : 18,
+		"mapId" : 217543,
+		"rewards" : "207503002"
+	},
+	
+	{
+		"copyCode" : 31110,
+		"desc" : "诛仙-巨石阵",
+		"floor" : 1,
+		"intoX" : 19,
+		"intoY" : 29,
+		"mapId" : 217504,
+		"rewards" : "207504002"
+	},
+	
+	{
+		"copyCode" : 31110,
+		"desc" : "诛仙-金绝阵",
+		"floor" : 2,
+		"intoX" : 12,
+		"intoY" : 18,
+		"mapId" : 217514,
+		"rewards" : "207504002"
+	},
+	
+	{
+		"copyCode" : 31110,
+		"desc" : "诛仙-木沼阵",
+		"floor" : 3,
+		"intoX" : 17,
+		"intoY" : 19,
+		"mapId" : 217524,
+		"rewards" : "207504002"
+	},
+	
+	{
+		"copyCode" : 31110,
+		"desc" : "诛仙-水灵阵",
+		"floor" : 4,
+		"intoX" : 4,
+		"intoY" : 8,
+		"mapId" : 217534,
+		"rewards" : "207504002"
+	},
+	
+	{
+		"copyCode" : 31110,
+		"desc" : "诛仙-炎火阵",
+		"floor" : 5,
+		"intoX" : 12,
+		"intoY" : 18,
+		"mapId" : 217544,
+		"rewards" : "207504002"
+	},
+	
+	{
+		"copyCode" : 41110,
+		"desc" : "诛仙-巨石阵",
+		"floor" : 1,
+		"intoX" : 19,
+		"intoY" : 29,
+		"mapId" : 217505,
+		"rewards" : "207505002"
+	},
+	
+	{
+		"copyCode" : 41110,
+		"desc" : "诛仙-金绝阵",
+		"floor" : 2,
+		"intoX" : 12,
+		"intoY" : 18,
+		"mapId" : 217515,
+		"rewards" : "207505002"
+	},
+	
+	{
+		"copyCode" : 41110,
+		"desc" : "诛仙-木沼阵",
+		"floor" : 3,
+		"intoX" : 17,
+		"intoY" : 19,
+		"mapId" : 217525,
+		"rewards" : "207505002"
+	},
+	
+	{
+		"copyCode" : 41110,
+		"desc" : "诛仙-水灵阵",
+		"floor" : 4,
+		"intoX" : 4,
+		"intoY" : 8,
+		"mapId" : 217535,
+		"rewards" : "207505002"
+	},
+	
+	{
+		"copyCode" : 41110,
+		"desc" : "诛仙-炎火阵",
+		"floor" : 5,
+		"intoX" : 12,
+		"intoY" : 18,
+		"mapId" : 217545,
+		"rewards" : "207505002"
+	}
+]

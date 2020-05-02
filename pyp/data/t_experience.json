@@ -1,0 +1,7073 @@
+
+[
+	
+	{
+		"attack" : 10,
+		"baseExp" : 177.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 5,
+		"dps" : 11,
+		"level" : 1,
+		"life" : 200,
+		"pass" : 5,
+		"upgradeNeedExperience" : 12.0
+	},
+	
+	{
+		"attack" : 12,
+		"baseExp" : 259.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 6,
+		"dps" : 21,
+		"level" : 2,
+		"life" : 240,
+		"pass" : 6,
+		"upgradeNeedExperience" : 18.0
+	},
+	
+	{
+		"attack" : 14,
+		"baseExp" : 450.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 7,
+		"dps" : 30,
+		"level" : 3,
+		"life" : 280,
+		"pass" : 7,
+		"upgradeNeedExperience" : 32.0
+	},
+	
+	{
+		"attack" : 16,
+		"baseExp" : 548.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 8,
+		"dps" : 40,
+		"level" : 4,
+		"life" : 320,
+		"pass" : 8,
+		"upgradeNeedExperience" : 40.0
+	},
+	
+	{
+		"attack" : 18,
+		"baseExp" : 801.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 9,
+		"dps" : 49,
+		"level" : 5,
+		"life" : 360,
+		"pass" : 9,
+		"upgradeNeedExperience" : 60.0
+	},
+	
+	{
+		"attack" : 20,
+		"baseExp" : 1094.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 10,
+		"dps" : 59,
+		"level" : 6,
+		"life" : 400,
+		"pass" : 10,
+		"upgradeNeedExperience" : 84.0
+	},
+	
+	{
+		"attack" : 22,
+		"baseExp" : 1511.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 11,
+		"dps" : 68,
+		"level" : 7,
+		"life" : 440,
+		"pass" : 11,
+		"upgradeNeedExperience" : 119.0
+	},
+	
+	{
+		"attack" : 24,
+		"baseExp" : 1882.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 12,
+		"dps" : 78,
+		"level" : 8,
+		"life" : 480,
+		"pass" : 12,
+		"upgradeNeedExperience" : 152.0
+	},
+	
+	{
+		"attack" : 26,
+		"baseExp" : 2535.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 13,
+		"dps" : 87,
+		"level" : 9,
+		"life" : 520,
+		"pass" : 13,
+		"upgradeNeedExperience" : 210.0
+	},
+	
+	{
+		"attack" : 28,
+		"baseExp" : 2977.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 14,
+		"dps" : 97,
+		"level" : 10,
+		"life" : 560,
+		"pass" : 14,
+		"upgradeNeedExperience" : 253.0
+	},
+	
+	{
+		"attack" : 30,
+		"baseExp" : 3878.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 15,
+		"dps" : 106,
+		"level" : 11,
+		"life" : 600,
+		"pass" : 15,
+		"upgradeNeedExperience" : 338.0
+	},
+	
+	{
+		"attack" : 32,
+		"baseExp" : 4699.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 16,
+		"dps" : 116,
+		"level" : 12,
+		"life" : 640,
+		"pass" : 16,
+		"upgradeNeedExperience" : 420.0
+	},
+	
+	{
+		"attack" : 34,
+		"baseExp" : 5748.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 17,
+		"dps" : 125,
+		"level" : 13,
+		"life" : 680,
+		"pass" : 17,
+		"upgradeNeedExperience" : 527.0
+	},
+	
+	{
+		"attack" : 36,
+		"baseExp" : 6668.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 18,
+		"dps" : 135,
+		"level" : 14,
+		"life" : 720,
+		"pass" : 18,
+		"upgradeNeedExperience" : 627.0
+	},
+	
+	{
+		"attack" : 38,
+		"baseExp" : 8212.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 19,
+		"dps" : 144,
+		"level" : 15,
+		"life" : 760,
+		"pass" : 19,
+		"upgradeNeedExperience" : 792.0
+	},
+	
+	{
+		"attack" : 40,
+		"baseExp" : 9857.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 20,
+		"dps" : 154,
+		"level" : 16,
+		"life" : 800,
+		"pass" : 20,
+		"upgradeNeedExperience" : 975.0
+	},
+	
+	{
+		"attack" : 42,
+		"baseExp" : 11316.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 21,
+		"dps" : 163,
+		"level" : 17,
+		"life" : 840,
+		"pass" : 21,
+		"upgradeNeedExperience" : 1148.0
+	},
+	
+	{
+		"attack" : 44,
+		"baseExp" : 13532.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 22,
+		"dps" : 173,
+		"level" : 18,
+		"life" : 880,
+		"pass" : 22,
+		"upgradeNeedExperience" : 1408.0
+	},
+	
+	{
+		"attack" : 46,
+		"baseExp" : 15854.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 23,
+		"dps" : 182,
+		"level" : 19,
+		"life" : 920,
+		"pass" : 23,
+		"upgradeNeedExperience" : 1692.0
+	},
+	
+	{
+		"attack" : 48,
+		"baseExp" : 18272.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 24,
+		"dps" : 192,
+		"level" : 20,
+		"life" : 960,
+		"pass" : 24,
+		"upgradeNeedExperience" : 2000.0
+	},
+	
+	{
+		"attack" : 50,
+		"baseExp" : 20772.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 25,
+		"dps" : 201,
+		"level" : 21,
+		"life" : 1000,
+		"pass" : 25,
+		"upgradeNeedExperience" : 2332.0
+	},
+	
+	{
+		"attack" : 52,
+		"baseExp" : 23831.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 26,
+		"dps" : 211,
+		"level" : 22,
+		"life" : 1040,
+		"pass" : 26,
+		"upgradeNeedExperience" : 2744.0
+	},
+	
+	{
+		"attack" : 54,
+		"baseExp" : 26978.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 27,
+		"dps" : 220,
+		"level" : 23,
+		"life" : 1080,
+		"pass" : 27,
+		"upgradeNeedExperience" : 3186.0
+	},
+	
+	{
+		"attack" : 56,
+		"baseExp" : 30712.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 28,
+		"dps" : 230,
+		"level" : 24,
+		"life" : 1120,
+		"pass" : 28,
+		"upgradeNeedExperience" : 3720.0
+	},
+	
+	{
+		"attack" : 58,
+		"baseExp" : 34533.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 29,
+		"dps" : 239,
+		"level" : 25,
+		"life" : 1160,
+		"pass" : 29,
+		"upgradeNeedExperience" : 4290.0
+	},
+	
+	{
+		"attack" : 60,
+		"baseExp" : 38991.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 30,
+		"dps" : 249,
+		"level" : 26,
+		"life" : 1200,
+		"pass" : 30,
+		"upgradeNeedExperience" : 4968.0
+	},
+	
+	{
+		"attack" : 62,
+		"baseExp" : 43526.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 31,
+		"dps" : 258,
+		"level" : 27,
+		"life" : 1240,
+		"pass" : 31,
+		"upgradeNeedExperience" : 5688.0
+	},
+	
+	{
+		"attack" : 64,
+		"baseExp" : 48764.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 32,
+		"dps" : 268,
+		"level" : 28,
+		"life" : 1280,
+		"pass" : 32,
+		"upgradeNeedExperience" : 6536.0
+	},
+	
+	{
+		"attack" : 66,
+		"baseExp" : 54019.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 33,
+		"dps" : 277,
+		"level" : 29,
+		"life" : 1320,
+		"pass" : 33,
+		"upgradeNeedExperience" : 7426.0
+	},
+	
+	{
+		"attack" : 68,
+		"baseExp" : 60634.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 34,
+		"dps" : 287,
+		"level" : 30,
+		"life" : 1360,
+		"pass" : 34,
+		"upgradeNeedExperience" : 8549.0
+	},
+	
+	{
+		"attack" : 70,
+		"baseExp" : 67382.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 35,
+		"dps" : 296,
+		"level" : 31,
+		"life" : 1400,
+		"pass" : 35,
+		"upgradeNeedExperience" : 9744.0
+	},
+	
+	{
+		"attack" : 72,
+		"baseExp" : 74240.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 36,
+		"dps" : 306,
+		"level" : 32,
+		"life" : 1440,
+		"pass" : 36,
+		"upgradeNeedExperience" : 11011.0
+	},
+	
+	{
+		"attack" : 74,
+		"baseExp" : 81810.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 37,
+		"dps" : 315,
+		"level" : 33,
+		"life" : 1480,
+		"pass" : 37,
+		"upgradeNeedExperience" : 12445.0
+	},
+	
+	{
+		"attack" : 76,
+		"baseExp" : 90103.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 38,
+		"dps" : 325,
+		"level" : 34,
+		"life" : 1520,
+		"pass" : 38,
+		"upgradeNeedExperience" : 14058.0
+	},
+	
+	{
+		"attack" : 78,
+		"baseExp" : 98481.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 39,
+		"dps" : 334,
+		"level" : 35,
+		"life" : 1560,
+		"pass" : 39,
+		"upgradeNeedExperience" : 15759.0
+	},
+	
+	{
+		"attack" : 80,
+		"baseExp" : 107571.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 40,
+		"dps" : 344,
+		"level" : 36,
+		"life" : 1600,
+		"pass" : 40,
+		"upgradeNeedExperience" : 17655.0
+	},
+	
+	{
+		"attack" : 82,
+		"baseExp" : 118432.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 41,
+		"dps" : 353,
+		"level" : 37,
+		"life" : 1640,
+		"pass" : 41,
+		"upgradeNeedExperience" : 19936.0
+	},
+	
+	{
+		"attack" : 84,
+		"baseExp" : 128330.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 42,
+		"dps" : 363,
+		"level" : 38,
+		"life" : 1680,
+		"pass" : 42,
+		"upgradeNeedExperience" : 22156.0
+	},
+	
+	{
+		"attack" : 86,
+		"baseExp" : 140081.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 43,
+		"dps" : 372,
+		"level" : 39,
+		"life" : 1720,
+		"pass" : 43,
+		"upgradeNeedExperience" : 24805.0
+	},
+	
+	{
+		"attack" : 88,
+		"baseExp" : 151418.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 44,
+		"dps" : 382,
+		"level" : 40,
+		"life" : 1760,
+		"pass" : 44,
+		"upgradeNeedExperience" : 27500.0
+	},
+	
+	{
+		"attack" : 90,
+		"baseExp" : 164704.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 45,
+		"dps" : 391,
+		"level" : 41,
+		"life" : 1800,
+		"pass" : 45,
+		"upgradeNeedExperience" : 30680.0
+	},
+	
+	{
+		"attack" : 92,
+		"baseExp" : 178776.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 46,
+		"dps" : 401,
+		"level" : 42,
+		"life" : 1840,
+		"pass" : 46,
+		"upgradeNeedExperience" : 34155.0
+	},
+	
+	{
+		"attack" : 94,
+		"baseExp" : 192908.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 47,
+		"dps" : 410,
+		"level" : 43,
+		"life" : 1880,
+		"pass" : 47,
+		"upgradeNeedExperience" : 37800.0
+	},
+	
+	{
+		"attack" : 96,
+		"baseExp" : 208511.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 48,
+		"dps" : 420,
+		"level" : 44,
+		"life" : 1920,
+		"pass" : 48,
+		"upgradeNeedExperience" : 41905.0
+	},
+	
+	{
+		"attack" : 98,
+		"baseExp" : 224135.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 49,
+		"dps" : 429,
+		"level" : 45,
+		"life" : 1960,
+		"pass" : 49,
+		"upgradeNeedExperience" : 46200.0
+	},
+	
+	{
+		"attack" : 100,
+		"baseExp" : 242031.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 50,
+		"dps" : 439,
+		"level" : 46,
+		"life" : 2000,
+		"pass" : 50,
+		"upgradeNeedExperience" : 51168.0
+	},
+	
+	{
+		"attack" : 102,
+		"baseExp" : 259879.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 51,
+		"dps" : 448,
+		"level" : 47,
+		"life" : 2040,
+		"pass" : 51,
+		"upgradeNeedExperience" : 56350.0
+	},
+	
+	{
+		"attack" : 104,
+		"baseExp" : 279346.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 52,
+		"dps" : 458,
+		"level" : 48,
+		"life" : 2080,
+		"pass" : 52,
+		"upgradeNeedExperience" : 62124.0
+	},
+	
+	{
+		"attack" : 106,
+		"baseExp" : 300350.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 53,
+		"dps" : 467,
+		"level" : 49,
+		"life" : 2120,
+		"pass" : 53,
+		"upgradeNeedExperience" : 68508.0
+	},
+	
+	{
+		"attack" : 108,
+		"baseExp" : 321362.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 54,
+		"dps" : 608,
+		"level" : 50,
+		"life" : 2160,
+		"pass" : 54,
+		"upgradeNeedExperience" : 75180.0
+	},
+	
+	{
+		"attack" : 110,
+		"baseExp" : 444110.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 55,
+		"dps" : 627,
+		"level" : 51,
+		"life" : 2200,
+		"pass" : 55,
+		"upgradeNeedExperience" : 106560.0
+	},
+	
+	{
+		"attack" : 112,
+		"baseExp" : 568903.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 56,
+		"dps" : 646,
+		"level" : 52,
+		"life" : 2240,
+		"pass" : 56,
+		"upgradeNeedExperience" : 140003.0
+	},
+	
+	{
+		"attack" : 114,
+		"baseExp" : 699738.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 57,
+		"dps" : 665,
+		"level" : 53,
+		"life" : 2280,
+		"pass" : 57,
+		"upgradeNeedExperience" : 176616.0
+	},
+	
+	{
+		"attack" : 116,
+		"baseExp" : 829003.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 58,
+		"dps" : 684,
+		"level" : 54,
+		"life" : 2320,
+		"pass" : 58,
+		"upgradeNeedExperience" : 214608.0
+	},
+	
+	{
+		"attack" : 118,
+		"baseExp" : 963957.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 59,
+		"dps" : 704,
+		"level" : 55,
+		"life" : 2360,
+		"pass" : 59,
+		"upgradeNeedExperience" : 255943.0
+	},
+	
+	{
+		"attack" : 120,
+		"baseExp" : 1201708.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 60,
+		"dps" : 724,
+		"level" : 56,
+		"life" : 2400,
+		"pass" : 60,
+		"upgradeNeedExperience" : 327250.0
+	},
+	
+	{
+		"attack" : 122,
+		"baseExp" : 1460186.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 61,
+		"dps" : 744,
+		"level" : 57,
+		"life" : 2440,
+		"pass" : 61,
+		"upgradeNeedExperience" : 407835.0
+	},
+	
+	{
+		"attack" : 124,
+		"baseExp" : 1737944.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 62,
+		"dps" : 764,
+		"level" : 58,
+		"life" : 2480,
+		"pass" : 62,
+		"upgradeNeedExperience" : 497860.0
+	},
+	
+	{
+		"attack" : 126,
+		"baseExp" : 2032496.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 63,
+		"dps" : 785,
+		"level" : 59,
+		"life" : 2520,
+		"pass" : 63,
+		"upgradeNeedExperience" : 597168.0
+	},
+	
+	{
+		"attack" : 128,
+		"baseExp" : 2349077.0,
+		"bossBaseExp" : 40000.0,
+		"defense" : 64,
+		"dps" : 806,
+		"level" : 60,
+		"life" : 2560,
+		"pass" : 64,
+		"upgradeNeedExperience" : 707880.0
+	},
+	
+	{
+		"attack" : 132,
+		"baseExp" : 2675486.0,
+		"bossBaseExp" : 200000.0,
+		"defense" : 66,
+		"dps" : 827,
+		"level" : 61,
+		"life" : 2640,
+		"pass" : 66,
+		"upgradeNeedExperience" : 826914.0
+	},
+	
+	{
+		"attack" : 136,
+		"baseExp" : 3022018.0,
+		"bossBaseExp" : 200000.0,
+		"defense" : 68,
+		"dps" : 848,
+		"level" : 62,
+		"life" : 2720,
+		"pass" : 68,
+		"upgradeNeedExperience" : 957966.0
+	},
+	
+	{
+		"attack" : 140,
+		"baseExp" : 3381822.0,
+		"bossBaseExp" : 200000.0,
+		"defense" : 70,
+		"dps" : 870,
+		"level" : 63,
+		"life" : 2800,
+		"pass" : 70,
+		"upgradeNeedExperience" : 1099510.0
+	},
+	
+	{
+		"attack" : 144,
+		"baseExp" : 3761911.0,
+		"bossBaseExp" : 200000.0,
+		"defense" : 72,
+		"dps" : 892,
+		"level" : 64,
+		"life" : 2880,
+		"pass" : 72,
+		"upgradeNeedExperience" : 1254447.0
+	},
+	
+	{
+		"attack" : 148,
+		"baseExp" : 4143647.0,
+		"bossBaseExp" : 200000.0,
+		"defense" : 74,
+		"dps" : 914,
+		"level" : 65,
+		"life" : 2960,
+		"pass" : 74,
+		"upgradeNeedExperience" : 1417170.0
+	},
+	
+	{
+		"attack" : 152,
+		"baseExp" : 4545415.0,
+		"bossBaseExp" : 200000.0,
+		"defense" : 76,
+		"dps" : 937,
+		"level" : 66,
+		"life" : 3040,
+		"pass" : 76,
+		"upgradeNeedExperience" : 1594440.0
+	},
+	
+	{
+		"attack" : 156,
+		"baseExp" : 4956553.0,
+		"bossBaseExp" : 200000.0,
+		"defense" : 78,
+		"dps" : 960,
+		"level" : 67,
+		"life" : 3120,
+		"pass" : 78,
+		"upgradeNeedExperience" : 1783240.0
+	},
+	
+	{
+		"attack" : 160,
+		"baseExp" : 5376012.0,
+		"bossBaseExp" : 200000.0,
+		"defense" : 80,
+		"dps" : 983,
+		"level" : 68,
+		"life" : 3200,
+		"pass" : 80,
+		"upgradeNeedExperience" : 1983744.0
+	},
+	
+	{
+		"attack" : 164,
+		"baseExp" : 5802785.0,
+		"bossBaseExp" : 200000.0,
+		"defense" : 82,
+		"dps" : 1006,
+		"level" : 69,
+		"life" : 3280,
+		"pass" : 82,
+		"upgradeNeedExperience" : 2196126.0
+	},
+	
+	{
+		"attack" : 168,
+		"baseExp" : 6245775.0,
+		"bossBaseExp" : 250000.0,
+		"defense" : 84,
+		"dps" : 1030,
+		"level" : 70,
+		"life" : 3360,
+		"pass" : 84,
+		"upgradeNeedExperience" : 2424390.0
+	},
+	
+	{
+		"attack" : 172,
+		"baseExp" : 6686218.0,
+		"bossBaseExp" : 250000.0,
+		"defense" : 86,
+		"dps" : 1054,
+		"level" : 71,
+		"life" : 3440,
+		"pass" : 86,
+		"upgradeNeedExperience" : 2661902.0
+	},
+	
+	{
+		"attack" : 176,
+		"baseExp" : 7141570.0,
+		"bossBaseExp" : 250000.0,
+		"defense" : 88,
+		"dps" : 1078,
+		"level" : 72,
+		"life" : 3520,
+		"pass" : 88,
+		"upgradeNeedExperience" : 2916088.0
+	},
+	
+	{
+		"attack" : 180,
+		"baseExp" : 7611602.0,
+		"bossBaseExp" : 250000.0,
+		"defense" : 90,
+		"dps" : 1103,
+		"level" : 73,
+		"life" : 3600,
+		"pass" : 90,
+		"upgradeNeedExperience" : 3187707.0
+	},
+	
+	{
+		"attack" : 184,
+		"baseExp" : 8076357.0,
+		"bossBaseExp" : 250000.0,
+		"defense" : 92,
+		"dps" : 1128,
+		"level" : 74,
+		"life" : 3680,
+		"pass" : 92,
+		"upgradeNeedExperience" : 3469071.0
+	},
+	
+	{
+		"attack" : 188,
+		"baseExp" : 8556328.0,
+		"bossBaseExp" : 250000.0,
+		"defense" : 94,
+		"dps" : 1153,
+		"level" : 75,
+		"life" : 3760,
+		"pass" : 94,
+		"upgradeNeedExperience" : 3769472.0
+	},
+	
+	{
+		"attack" : 192,
+		"baseExp" : 9040245.0,
+		"bossBaseExp" : 250000.0,
+		"defense" : 96,
+		"dps" : 1179,
+		"level" : 76,
+		"life" : 3840,
+		"pass" : 96,
+		"upgradeNeedExperience" : 4084780.0
+	},
+	
+	{
+		"attack" : 196,
+		"baseExp" : 9525562.0,
+		"bossBaseExp" : 250000.0,
+		"defense" : 98,
+		"dps" : 1204,
+		"level" : 77,
+		"life" : 3920,
+		"pass" : 98,
+		"upgradeNeedExperience" : 4414428.0
+	},
+	
+	{
+		"attack" : 200,
+		"baseExp" : 10013368.0,
+		"bossBaseExp" : 250000.0,
+		"defense" : 100,
+		"dps" : 1231,
+		"level" : 78,
+		"life" : 4000,
+		"pass" : 100,
+		"upgradeNeedExperience" : 4759479.0
+	},
+	
+	{
+		"attack" : 204,
+		"baseExp" : 10514566.0,
+		"bossBaseExp" : 250000.0,
+		"defense" : 102,
+		"dps" : 1257,
+		"level" : 79,
+		"life" : 4080,
+		"pass" : 102,
+		"upgradeNeedExperience" : 5125851.0
+	},
+	
+	{
+		"attack" : 208,
+		"baseExp" : 11017228.0,
+		"bossBaseExp" : 250000.0,
+		"defense" : 104,
+		"dps" : 1284,
+		"level" : 80,
+		"life" : 4160,
+		"pass" : 104,
+		"upgradeNeedExperience" : 5508614.0
+	},
+	
+	{
+		"attack" : 212,
+		"baseExp" : 11534449.0,
+		"bossBaseExp" : 400000.0,
+		"defense" : 106,
+		"dps" : 1311,
+		"dropLevelExp" : 9000,
+		"level" : 81,
+		"life" : 4240,
+		"pass" : 106,
+		"upgradeNeedExperience" : 5915102.0
+	},
+	
+	{
+		"attack" : 216,
+		"baseExp" : 12040179.0,
+		"bossBaseExp" : 400000.0,
+		"defense" : 108,
+		"dps" : 1339,
+		"dropLevelExp" : 10100,
+		"level" : 82,
+		"life" : 4320,
+		"pass" : 108,
+		"upgradeNeedExperience" : 6332770.0
+	},
+	
+	{
+		"attack" : 220,
+		"baseExp" : 12557610.0,
+		"bossBaseExp" : 400000.0,
+		"defense" : 110,
+		"dps" : 1367,
+		"dropLevelExp" : 11200,
+		"level" : 83,
+		"life" : 4400,
+		"pass" : 110,
+		"upgradeNeedExperience" : 6774280.0
+	},
+	
+	{
+		"attack" : 224,
+		"baseExp" : 13074296.0,
+		"bossBaseExp" : 400000.0,
+		"defense" : 112,
+		"dps" : 1395,
+		"dropLevelExp" : 12300,
+		"level" : 84,
+		"life" : 4480,
+		"pass" : 112,
+		"upgradeNeedExperience" : 7233856.0
+	},
+	
+	{
+		"attack" : 228,
+		"baseExp" : 13603906.0,
+		"bossBaseExp" : 400000.0,
+		"defense" : 114,
+		"dps" : 1423,
+		"dropLevelExp" : 13400,
+		"level" : 85,
+		"life" : 4560,
+		"pass" : 114,
+		"upgradeNeedExperience" : 7719880.0
+	},
+	
+	{
+		"attack" : 232,
+		"baseExp" : 14133804.0,
+		"bossBaseExp" : 400000.0,
+		"defense" : 116,
+		"dps" : 1452,
+		"dropLevelExp" : 14500,
+		"level" : 86,
+		"life" : 4640,
+		"pass" : 116,
+		"upgradeNeedExperience" : 8226240.0
+	},
+	
+	{
+		"attack" : 236,
+		"baseExp" : 14663455.0,
+		"bossBaseExp" : 400000.0,
+		"defense" : 118,
+		"dps" : 1482,
+		"dropLevelExp" : 15600,
+		"level" : 87,
+		"life" : 4720,
+		"pass" : 118,
+		"upgradeNeedExperience" : 8753344.0
+	},
+	
+	{
+		"attack" : 240,
+		"baseExp" : 15190364.0,
+		"bossBaseExp" : 400000.0,
+		"defense" : 120,
+		"dps" : 1511,
+		"dropLevelExp" : 16700,
+		"level" : 88,
+		"life" : 4800,
+		"pass" : 120,
+		"upgradeNeedExperience" : 9300392.0
+	},
+	
+	{
+		"attack" : 244,
+		"baseExp" : 15728642.0,
+		"bossBaseExp" : 400000.0,
+		"defense" : 122,
+		"dps" : 1541,
+		"dropLevelExp" : 17800,
+		"level" : 89,
+		"life" : 4880,
+		"pass" : 122,
+		"upgradeNeedExperience" : 9876878.0
+	},
+	
+	{
+		"attack" : 248,
+		"baseExp" : 16267279.0,
+		"bossBaseExp" : 500000.0,
+		"defense" : 124,
+		"dps" : 1572,
+		"dropLevelExp" : 18900,
+		"level" : 90,
+		"life" : 4960,
+		"pass" : 124,
+		"upgradeNeedExperience" : 10477044.0
+	},
+	
+	{
+		"attack" : 252,
+		"baseExp" : 16816607.0,
+		"bossBaseExp" : 500000.0,
+		"defense" : 126,
+		"dps" : 1603,
+		"dropLevelExp" : 20000,
+		"level" : 91,
+		"life" : 5040,
+		"pass" : 126,
+		"upgradeNeedExperience" : 11108556.0
+	},
+	
+	{
+		"attack" : 256,
+		"baseExp" : 17350616.0,
+		"bossBaseExp" : 500000.0,
+		"defense" : 128,
+		"dps" : 1634,
+		"dropLevelExp" : 21100,
+		"level" : 92,
+		"life" : 5120,
+		"pass" : 128,
+		"upgradeNeedExperience" : 11755186.0
+	},
+	
+	{
+		"attack" : 260,
+		"baseExp" : 17909407.0,
+		"bossBaseExp" : 500000.0,
+		"defense" : 130,
+		"dps" : 1666,
+		"dropLevelExp" : 22200,
+		"level" : 93,
+		"life" : 5200,
+		"pass" : 130,
+		"upgradeNeedExperience" : 12444894.0
+	},
+	
+	{
+		"attack" : 264,
+		"baseExp" : 18451940.0,
+		"bossBaseExp" : 500000.0,
+		"defense" : 132,
+		"dps" : 1698,
+		"dropLevelExp" : 23300,
+		"level" : 94,
+		"life" : 5280,
+		"pass" : 132,
+		"upgradeNeedExperience" : 13150656.0
+	},
+	
+	{
+		"attack" : 268,
+		"baseExp" : 19005649.0,
+		"bossBaseExp" : 500000.0,
+		"defense" : 134,
+		"dps" : 1730,
+		"dropLevelExp" : 24400,
+		"level" : 95,
+		"life" : 5360,
+		"pass" : 134,
+		"upgradeNeedExperience" : 13892598.0
+	},
+	
+	{
+		"attack" : 272,
+		"baseExp" : 19570235.0,
+		"bossBaseExp" : 500000.0,
+		"defense" : 136,
+		"dps" : 1763,
+		"dropLevelExp" : 25500,
+		"level" : 96,
+		"life" : 5440,
+		"pass" : 136,
+		"upgradeNeedExperience" : 14672097.0
+	},
+	
+	{
+		"attack" : 276,
+		"baseExp" : 20132270.0,
+		"bossBaseExp" : 500000.0,
+		"defense" : 138,
+		"dps" : 1796,
+		"dropLevelExp" : 26600,
+		"level" : 97,
+		"life" : 5520,
+		"pass" : 138,
+		"upgradeNeedExperience" : 15480475.0
+	},
+	
+	{
+		"attack" : 280,
+		"baseExp" : 20693307.0,
+		"bossBaseExp" : 500000.0,
+		"defense" : 140,
+		"dps" : 1830,
+		"dropLevelExp" : 27700,
+		"level" : 98,
+		"life" : 5600,
+		"pass" : 140,
+		"upgradeNeedExperience" : 16319875.0
+	},
+	
+	{
+		"attack" : 284,
+		"baseExp" : 21248924.0,
+		"bossBaseExp" : 500000.0,
+		"defense" : 142,
+		"dps" : 1864,
+		"dropLevelExp" : 28800,
+		"level" : 99,
+		"life" : 5680,
+		"pass" : 142,
+		"upgradeNeedExperience" : 17187759.0
+	},
+	
+	{
+		"attack" : 288,
+		"baseExp" : 21815908.0,
+		"bossBaseExp" : 600000.0,
+		"defense" : 144,
+		"dps" : 1898,
+		"dropLevelExp" : 29900,
+		"level" : 100,
+		"life" : 5760,
+		"pass" : 144,
+		"upgradeNeedExperience" : 18098850.0
+	},
+	
+	{
+		"attack" : 292,
+		"baseExp" : 22393923.0,
+		"bossBaseExp" : 600000.0,
+		"defense" : 146,
+		"dps" : 1933,
+		"dropLevelExp" : 31000,
+		"level" : 101,
+		"life" : 5840,
+		"pass" : 146,
+		"upgradeNeedExperience" : 19054750.0
+	},
+	
+	{
+		"attack" : 296,
+		"baseExp" : 22967365.0,
+		"bossBaseExp" : 600000.0,
+		"defense" : 148,
+		"dps" : 1969,
+		"dropLevelExp" : 32100,
+		"level" : 102,
+		"life" : 5920,
+		"pass" : 148,
+		"upgradeNeedExperience" : 20043780.0
+	},
+	
+	{
+		"attack" : 300,
+		"baseExp" : 23539777.0,
+		"bossBaseExp" : 600000.0,
+		"defense" : 150,
+		"dps" : 2004,
+		"dropLevelExp" : 33200,
+		"level" : 103,
+		"life" : 6000,
+		"pass" : 150,
+		"upgradeNeedExperience" : 21070080.0
+	},
+	
+	{
+		"attack" : 304,
+		"baseExp" : 24120102.0,
+		"bossBaseExp" : 600000.0,
+		"defense" : 152,
+		"dps" : 2041,
+		"dropLevelExp" : 34300,
+		"level" : 104,
+		"life" : 6080,
+		"pass" : 152,
+		"upgradeNeedExperience" : 22143097.0
+	},
+	
+	{
+		"attack" : 308,
+		"baseExp" : 24711932.0,
+		"bossBaseExp" : 700000.0,
+		"defense" : 154,
+		"dps" : 2077,
+		"dropLevelExp" : 35400,
+		"level" : 105,
+		"life" : 6160,
+		"pass" : 154,
+		"upgradeNeedExperience" : 23268121.0
+	},
+	
+	{
+		"attack" : 312,
+		"baseExp" : 25286223.0,
+		"bossBaseExp" : 700000.0,
+		"defense" : 156,
+		"dps" : 2115,
+		"dropLevelExp" : 36500,
+		"level" : 106,
+		"life" : 6240,
+		"pass" : 156,
+		"upgradeNeedExperience" : 24419342.0
+	},
+	
+	{
+		"attack" : 316,
+		"baseExp" : 25884573.0,
+		"bossBaseExp" : 700000.0,
+		"defense" : 158,
+		"dps" : 2152,
+		"dropLevelExp" : 37600,
+		"level" : 107,
+		"life" : 6320,
+		"pass" : 158,
+		"upgradeNeedExperience" : 25638132.0
+	},
+	
+	{
+		"attack" : 320,
+		"baseExp" : 26479881.0,
+		"bossBaseExp" : 700000.0,
+		"defense" : 160,
+		"dps" : 2190,
+		"dropLevelExp" : 38700,
+		"level" : 108,
+		"life" : 6400,
+		"pass" : 160,
+		"upgradeNeedExperience" : 26900280.0
+	},
+	
+	{
+		"attack" : 324,
+		"baseExp" : 27069785.0,
+		"bossBaseExp" : 700000.0,
+		"defense" : 162,
+		"dps" : 2229,
+		"dropLevelExp" : 39800,
+		"level" : 109,
+		"life" : 6480,
+		"pass" : 162,
+		"upgradeNeedExperience" : 28204666.0
+	},
+	
+	{
+		"attack" : 328,
+		"baseExp" : 27671147.0,
+		"bossBaseExp" : 700000.0,
+		"defense" : 164,
+		"dps" : 2268,
+		"dropLevelExp" : 40900,
+		"level" : 110,
+		"life" : 6560,
+		"pass" : 164,
+		"upgradeNeedExperience" : 29570502.0
+	},
+	
+	{
+		"attack" : 332,
+		"baseExp" : 28268230.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 166,
+		"dps" : 2308,
+		"dropLevelExp" : 42000,
+		"level" : 111,
+		"life" : 6640,
+		"pass" : 166,
+		"upgradeNeedExperience" : 30983147.0
+	},
+	
+	{
+		"attack" : 336,
+		"baseExp" : 28889329.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 168,
+		"dps" : 2348,
+		"dropLevelExp" : 43100,
+		"level" : 112,
+		"life" : 6720,
+		"pass" : 168,
+		"upgradeNeedExperience" : 32475792.0
+	},
+	
+	{
+		"attack" : 340,
+		"baseExp" : 29491929.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 170,
+		"dps" : 2388,
+		"dropLevelExp" : 44200,
+		"level" : 113,
+		"life" : 6800,
+		"pass" : 170,
+		"upgradeNeedExperience" : 34003284.0
+	},
+	
+	{
+		"attack" : 344,
+		"baseExp" : 30106215.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 172,
+		"dps" : 2429,
+		"dropLevelExp" : 45300,
+		"level" : 114,
+		"life" : 6880,
+		"pass" : 172,
+		"upgradeNeedExperience" : 35601576.0
+	},
+	
+	{
+		"attack" : 348,
+		"baseExp" : 30727945.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 174,
+		"dps" : 2471,
+		"dropLevelExp" : 46400,
+		"level" : 115,
+		"life" : 6960,
+		"pass" : 174,
+		"upgradeNeedExperience" : 37268505.0
+	},
+	
+	{
+		"attack" : 352,
+		"baseExp" : 31360479.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 176,
+		"dps" : 2513,
+		"dropLevelExp" : 47500,
+		"level" : 116,
+		"life" : 7040,
+		"pass" : 176,
+		"upgradeNeedExperience" : 39010950.0
+	},
+	
+	{
+		"attack" : 356,
+		"baseExp" : 31989973.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 178,
+		"dps" : 2556,
+		"dropLevelExp" : 48600,
+		"level" : 117,
+		"life" : 7120,
+		"pass" : 178,
+		"upgradeNeedExperience" : 40814370.0
+	},
+	
+	{
+		"attack" : 360,
+		"baseExp" : 32614115.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 180,
+		"dps" : 2599,
+		"dropLevelExp" : 49700,
+		"level" : 118,
+		"life" : 7200,
+		"pass" : 180,
+		"upgradeNeedExperience" : 42677622.0
+	},
+	
+	{
+		"attack" : 364,
+		"baseExp" : 33262930.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 182,
+		"dps" : 2643,
+		"dropLevelExp" : 50800,
+		"level" : 119,
+		"life" : 7280,
+		"pass" : 182,
+		"upgradeNeedExperience" : 44642704.0
+	},
+	
+	{
+		"attack" : 368,
+		"baseExp" : 33907339.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 184,
+		"dps" : 2687,
+		"dropLevelExp" : 51900,
+		"level" : 120,
+		"life" : 7360,
+		"pass" : 184,
+		"upgradeNeedExperience" : 46674437.0
+	},
+	
+	{
+		"attack" : 372,
+		"baseExp" : 34546904.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 186,
+		"dps" : 2732,
+		"dropLevelExp" : 53000,
+		"level" : 121,
+		"life" : 7440,
+		"pass" : 186,
+		"upgradeNeedExperience" : 48774171.0
+	},
+	
+	{
+		"attack" : 376,
+		"baseExp" : 35209679.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 188,
+		"dps" : 2778,
+		"dropLevelExp" : 54100,
+		"level" : 122,
+		"life" : 7520,
+		"pass" : 188,
+		"upgradeNeedExperience" : 50984505.0
+	},
+	
+	{
+		"attack" : 380,
+		"baseExp" : 35870301.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 190,
+		"dps" : 2824,
+		"dropLevelExp" : 55200,
+		"level" : 123,
+		"life" : 7600,
+		"pass" : 190,
+		"upgradeNeedExperience" : 53272926.0
+	},
+	
+	{
+		"attack" : 384,
+		"baseExp" : 36537978.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 192,
+		"dps" : 2870,
+		"dropLevelExp" : 56300,
+		"level" : 124,
+		"life" : 7680,
+		"pass" : 192,
+		"upgradeNeedExperience" : 55655928.0
+	},
+	
+	{
+		"attack" : 388,
+		"baseExp" : 37202535.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 194,
+		"dps" : 2917,
+		"dropLevelExp" : 57400,
+		"level" : 125,
+		"life" : 7760,
+		"pass" : 194,
+		"upgradeNeedExperience" : 58121235.0
+	},
+	
+	{
+		"attack" : 392,
+		"baseExp" : 37890037.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 196,
+		"dps" : 2965,
+		"dropLevelExp" : 58500,
+		"level" : 126,
+		"life" : 7840,
+		"pass" : 196,
+		"upgradeNeedExperience" : 60713142.0
+	},
+	
+	{
+		"attack" : 396,
+		"baseExp" : 38573384.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 198,
+		"dps" : 3014,
+		"dropLevelExp" : 59600,
+		"level" : 127,
+		"life" : 7920,
+		"pass" : 198,
+		"upgradeNeedExperience" : 63392928.0
+	},
+	
+	{
+		"attack" : 400,
+		"baseExp" : 39265339.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 200,
+		"dps" : 3063,
+		"dropLevelExp" : 60700,
+		"level" : 128,
+		"life" : 8000,
+		"pass" : 200,
+		"upgradeNeedExperience" : 66184730.0
+	},
+	
+	{
+		"attack" : 404,
+		"baseExp" : 39968866.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 202,
+		"dps" : 3112,
+		"dropLevelExp" : 61800,
+		"level" : 129,
+		"life" : 8080,
+		"pass" : 202,
+		"upgradeNeedExperience" : 69098030.0
+	},
+	
+	{
+		"attack" : 408,
+		"baseExp" : 40666689.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 204,
+		"dps" : 3162,
+		"dropLevelExp" : 62900,
+		"level" : 130,
+		"life" : 8160,
+		"pass" : 204,
+		"upgradeNeedExperience" : 72107101.0
+	},
+	
+	{
+		"attack" : 412,
+		"baseExp" : 41386439.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 206,
+		"dps" : 3213,
+		"dropLevelExp" : 64000,
+		"level" : 131,
+		"life" : 8240,
+		"pass" : 206,
+		"upgradeNeedExperience" : 75264930.0
+	},
+	
+	{
+		"attack" : 416,
+		"baseExp" : 42102873.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 208,
+		"dps" : 3265,
+		"dropLevelExp" : 65100,
+		"level" : 132,
+		"life" : 8320,
+		"pass" : 208,
+		"upgradeNeedExperience" : 78531108.0
+	},
+	
+	{
+		"attack" : 420,
+		"baseExp" : 42828609.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 210,
+		"dps" : 3317,
+		"dropLevelExp" : 66200,
+		"level" : 133,
+		"life" : 8400,
+		"pass" : 210,
+		"upgradeNeedExperience" : 81933092.0
+	},
+	
+	{
+		"attack" : 424,
+		"baseExp" : 43563056.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 212,
+		"dps" : 3370,
+		"dropLevelExp" : 67300,
+		"level" : 134,
+		"life" : 8480,
+		"pass" : 212,
+		"upgradeNeedExperience" : 85474998.0
+	},
+	
+	{
+		"attack" : 428,
+		"baseExp" : 44305627.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 214,
+		"dps" : 3423,
+		"dropLevelExp" : 68400,
+		"level" : 135,
+		"life" : 8560,
+		"pass" : 214,
+		"upgradeNeedExperience" : 89161020.0
+	},
+	
+	{
+		"attack" : 432,
+		"baseExp" : 45059072.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 216,
+		"dps" : 3477,
+		"dropLevelExp" : 69500,
+		"level" : 136,
+		"life" : 8640,
+		"pass" : 216,
+		"upgradeNeedExperience" : 93002316.0
+	},
+	
+	{
+		"attack" : 436,
+		"baseExp" : 45819424.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 218,
+		"dps" : 3532,
+		"dropLevelExp" : 70600,
+		"level" : 137,
+		"life" : 8720,
+		"pass" : 218,
+		"upgradeNeedExperience" : 96996606.0
+	},
+	
+	{
+		"attack" : 440,
+		"baseExp" : 46589395.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 220,
+		"dps" : 3588,
+		"dropLevelExp" : 71700,
+		"level" : 138,
+		"life" : 8800,
+		"pass" : 220,
+		"upgradeNeedExperience" : 101155468.0
+	},
+	
+	{
+		"attack" : 444,
+		"baseExp" : 47368336.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 222,
+		"dps" : 3644,
+		"dropLevelExp" : 72800,
+		"level" : 139,
+		"life" : 8880,
+		"pass" : 222,
+		"upgradeNeedExperience" : 105483810.0
+	},
+	
+	{
+		"attack" : 448,
+		"baseExp" : 48157226.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 224,
+		"dps" : 3701,
+		"dropLevelExp" : 73900,
+		"level" : 140,
+		"life" : 8960,
+		"pass" : 224,
+		"upgradeNeedExperience" : 109990335.0
+	},
+	
+	{
+		"attack" : 452,
+		"baseExp" : 48966753.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 226,
+		"dps" : 3759,
+		"dropLevelExp" : 75000,
+		"level" : 141,
+		"life" : 9040,
+		"pass" : 226,
+		"upgradeNeedExperience" : 114706956.0
+	},
+	
+	{
+		"attack" : 456,
+		"baseExp" : 49771906.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 228,
+		"dps" : 3817,
+		"dropLevelExp" : 76100,
+		"level" : 142,
+		"life" : 9120,
+		"pass" : 228,
+		"upgradeNeedExperience" : 119582631.0
+	},
+	
+	{
+		"attack" : 460,
+		"baseExp" : 50585014.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 230,
+		"dps" : 3876,
+		"dropLevelExp" : 77200,
+		"level" : 143,
+		"life" : 9200,
+		"pass" : 230,
+		"upgradeNeedExperience" : 124652528.0
+	},
+	
+	{
+		"attack" : 464,
+		"baseExp" : 51421469.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 232,
+		"dps" : 3936,
+		"dropLevelExp" : 78300,
+		"level" : 144,
+		"life" : 9280,
+		"pass" : 232,
+		"upgradeNeedExperience" : 129962805.0
+	},
+	
+	{
+		"attack" : 468,
+		"baseExp" : 52251578.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 234,
+		"dps" : 3997,
+		"dropLevelExp" : 79400,
+		"level" : 145,
+		"life" : 9360,
+		"pass" : 234,
+		"upgradeNeedExperience" : 135447002.0
+	},
+	
+	{
+		"attack" : 472,
+		"baseExp" : 53103576.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 236,
+		"dps" : 4058,
+		"dropLevelExp" : 80500,
+		"level" : 146,
+		"life" : 9440,
+		"pass" : 236,
+		"upgradeNeedExperience" : 141185187.0
+	},
+	
+	{
+		"attack" : 476,
+		"baseExp" : 53963835.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 238,
+		"dps" : 4120,
+		"dropLevelExp" : 81600,
+		"level" : 147,
+		"life" : 9520,
+		"pass" : 238,
+		"upgradeNeedExperience" : 147151116.0
+	},
+	
+	{
+		"attack" : 480,
+		"baseExp" : 54833170.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 240,
+		"dps" : 4183,
+		"dropLevelExp" : 82700,
+		"level" : 148,
+		"life" : 9600,
+		"pass" : 240,
+		"upgradeNeedExperience" : 153355548.0
+	},
+	
+	{
+		"attack" : 484,
+		"baseExp" : 55723614.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 242,
+		"dps" : 4247,
+		"dropLevelExp" : 83800,
+		"level" : 149,
+		"life" : 9680,
+		"pass" : 242,
+		"upgradeNeedExperience" : 159841960.0
+	},
+	
+	{
+		"attack" : 488,
+		"baseExp" : 56608838.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 244,
+		"dps" : 4311,
+		"dropLevelExp" : 84900,
+		"level" : 150,
+		"life" : 9760,
+		"pass" : 244,
+		"upgradeNeedExperience" : 166544826.0
+	},
+	
+	{
+		"attack" : 492,
+		"baseExp" : 58164379.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 246,
+		"dps" : 4377,
+		"dropLevelExp" : 86000,
+		"level" : 151,
+		"life" : 9840,
+		"pass" : 246,
+		"upgradeNeedExperience" : 175508997.0
+	},
+	
+	{
+		"attack" : 496,
+		"baseExp" : 59712142.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 248,
+		"dps" : 4443,
+		"dropLevelExp" : 87100,
+		"level" : 152,
+		"life" : 9920,
+		"pass" : 248,
+		"upgradeNeedExperience" : 184799300.0
+	},
+	
+	{
+		"attack" : 500,
+		"baseExp" : 61278265.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 250,
+		"dps" : 4510,
+		"dropLevelExp" : 88200,
+		"level" : 153,
+		"life" : 10000,
+		"pass" : 250,
+		"upgradeNeedExperience" : 194508918.0
+	},
+	
+	{
+		"attack" : 504,
+		"baseExp" : 62849190.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 252,
+		"dps" : 4578,
+		"dropLevelExp" : 89300,
+		"level" : 154,
+		"life" : 10080,
+		"pass" : 252,
+		"upgradeNeedExperience" : 204610598.0
+	},
+	
+	{
+		"attack" : 508,
+		"baseExp" : 64438222.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 254,
+		"dps" : 4646,
+		"dropLevelExp" : 90400,
+		"level" : 155,
+		"life" : 10160,
+		"pass" : 254,
+		"upgradeNeedExperience" : 215162892.0
+	},
+	
+	{
+		"attack" : 512,
+		"baseExp" : 66031819.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 256,
+		"dps" : 4716,
+		"dropLevelExp" : 91500,
+		"level" : 156,
+		"life" : 10240,
+		"pass" : 256,
+		"upgradeNeedExperience" : 226137440.0
+	},
+	
+	{
+		"attack" : 516,
+		"baseExp" : 67643206.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 258,
+		"dps" : 4786,
+		"dropLevelExp" : 92600,
+		"level" : 157,
+		"life" : 10320,
+		"pass" : 258,
+		"upgradeNeedExperience" : 237595809.0
+	},
+	
+	{
+		"attack" : 520,
+		"baseExp" : 69258856.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 260,
+		"dps" : 4858,
+		"dropLevelExp" : 93700,
+		"level" : 158,
+		"life" : 10400,
+		"pass" : 260,
+		"upgradeNeedExperience" : 249508471.0
+	},
+	
+	{
+		"attack" : 524,
+		"baseExp" : 70891910.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 262,
+		"dps" : 4930,
+		"dropLevelExp" : 94800,
+		"level" : 159,
+		"life" : 10480,
+		"pass" : 262,
+		"upgradeNeedExperience" : 261940131.0
+	},
+	
+	{
+		"attack" : 528,
+		"baseExp" : 72530389.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 264,
+		"dps" : 5003,
+		"dropLevelExp" : 95900,
+		"level" : 160,
+		"life" : 10560,
+		"pass" : 264,
+		"upgradeNeedExperience" : 274865832.0
+	},
+	
+	{
+		"attack" : 532,
+		"baseExp" : 74184282.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 266,
+		"dps" : 5077,
+		"dropLevelExp" : 97000,
+		"level" : 161,
+		"life" : 10640,
+		"pass" : 266,
+		"upgradeNeedExperience" : 288342081.0
+	},
+	
+	{
+		"attack" : 536,
+		"baseExp" : 75857130.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 268,
+		"dps" : 5152,
+		"dropLevelExp" : 98100,
+		"level" : 162,
+		"life" : 10720,
+		"pass" : 268,
+		"upgradeNeedExperience" : 302404272.0
+	},
+	
+	{
+		"attack" : 540,
+		"baseExp" : 77532387.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 270,
+		"dps" : 5228,
+		"dropLevelExp" : 99200,
+		"level" : 163,
+		"life" : 10800,
+		"pass" : 270,
+		"upgradeNeedExperience" : 317007880.0
+	},
+	
+	{
+		"attack" : 544,
+		"baseExp" : 79236887.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 272,
+		"dps" : 5305,
+		"dropLevelExp" : 100300,
+		"level" : 164,
+		"life" : 10880,
+		"pass" : 272,
+		"upgradeNeedExperience" : 332284200.0
+	},
+	
+	{
+		"attack" : 548,
+		"baseExp" : 80944716.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 274,
+		"dps" : 5383,
+		"dropLevelExp" : 101400,
+		"level" : 165,
+		"life" : 10960,
+		"pass" : 274,
+		"upgradeNeedExperience" : 348149819.0
+	},
+	
+	{
+		"attack" : 552,
+		"baseExp" : 82668691.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 276,
+		"dps" : 5462,
+		"dropLevelExp" : 102500,
+		"level" : 166,
+		"life" : 11040,
+		"pass" : 276,
+		"upgradeNeedExperience" : 364681822.0
+	},
+	
+	{
+		"attack" : 556,
+		"baseExp" : 84396877.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 278,
+		"dps" : 5541,
+		"dropLevelExp" : 103600,
+		"level" : 167,
+		"life" : 11120,
+		"pass" : 278,
+		"upgradeNeedExperience" : 381851776.0
+	},
+	
+	{
+		"attack" : 560,
+		"baseExp" : 86152756.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 280,
+		"dps" : 5622,
+		"dropLevelExp" : 104700,
+		"level" : 168,
+		"life" : 11200,
+		"pass" : 280,
+		"upgradeNeedExperience" : 399790986.0
+	},
+	
+	{
+		"attack" : 564,
+		"baseExp" : 87924323.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 282,
+		"dps" : 5704,
+		"dropLevelExp" : 105800,
+		"level" : 169,
+		"life" : 11280,
+		"pass" : 282,
+		"upgradeNeedExperience" : 418473768.0
+	},
+	
+	{
+		"attack" : 568,
+		"baseExp" : 89699652.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 284,
+		"dps" : 5787,
+		"dropLevelExp" : 106900,
+		"level" : 170,
+		"life" : 11360,
+		"pass" : 284,
+		"upgradeNeedExperience" : 437870160.0
+	},
+	
+	{
+		"attack" : 572,
+		"baseExp" : 91502005.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 286,
+		"dps" : 5871,
+		"dropLevelExp" : 108000,
+		"level" : 171,
+		"life" : 11440,
+		"pass" : 286,
+		"upgradeNeedExperience" : 458121409.0
+	},
+	
+	{
+		"attack" : 576,
+		"baseExp" : 93319387.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 288,
+		"dps" : 5956,
+		"dropLevelExp" : 109100,
+		"level" : 172,
+		"life" : 11520,
+		"pass" : 288,
+		"upgradeNeedExperience" : 479200470.0
+	},
+	
+	{
+		"attack" : 580,
+		"baseExp" : 95138392.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 290,
+		"dps" : 6042,
+		"dropLevelExp" : 110200,
+		"level" : 173,
+		"life" : 11600,
+		"pass" : 290,
+		"upgradeNeedExperience" : 501067864.0
+	},
+	
+	{
+		"attack" : 584,
+		"baseExp" : 96985042.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 292,
+		"dps" : 6129,
+		"dropLevelExp" : 111300,
+		"level" : 174,
+		"life" : 11680,
+		"pass" : 292,
+		"upgradeNeedExperience" : 523890940.0
+	},
+	
+	{
+		"attack" : 588,
+		"baseExp" : 98857951.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 294,
+		"dps" : 6217,
+		"dropLevelExp" : 112400,
+		"level" : 175,
+		"life" : 11760,
+		"pass" : 294,
+		"upgradeNeedExperience" : 547700475.0
+	},
+	
+	{
+		"attack" : 592,
+		"baseExp" : 100734532.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 296,
+		"dps" : 6307,
+		"dropLevelExp" : 113500,
+		"level" : 176,
+		"life" : 11840,
+		"pass" : 296,
+		"upgradeNeedExperience" : 572407440.0
+	},
+	
+	{
+		"attack" : 596,
+		"baseExp" : 102634662.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 298,
+		"dps" : 6397,
+		"dropLevelExp" : 114600,
+		"level" : 177,
+		"life" : 11920,
+		"pass" : 298,
+		"upgradeNeedExperience" : 598158582.0
+	},
+	
+	{
+		"attack" : 600,
+		"baseExp" : 104562763.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 300,
+		"dps" : 6489,
+		"dropLevelExp" : 115700,
+		"level" : 178,
+		"life" : 12000,
+		"pass" : 300,
+		"upgradeNeedExperience" : 625021152.0
+	},
+	
+	{
+		"attack" : 604,
+		"baseExp" : 106490481.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 302,
+		"dps" : 6582,
+		"dropLevelExp" : 116800,
+		"level" : 179,
+		"life" : 12080,
+		"pass" : 302,
+		"upgradeNeedExperience" : 652865681.0
+	},
+	
+	{
+		"attack" : 608,
+		"baseExp" : 108456726.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 304,
+		"dps" : 6676,
+		"dropLevelExp" : 117900,
+		"level" : 180,
+		"life" : 12160,
+		"pass" : 304,
+		"upgradeNeedExperience" : 681969456.0
+	},
+	
+	{
+		"attack" : 612,
+		"baseExp" : 110424114.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 306,
+		"dps" : 6771,
+		"dropLevelExp" : 119000,
+		"level" : 181,
+		"life" : 12240,
+		"pass" : 306,
+		"upgradeNeedExperience" : 712143876.0
+	},
+	
+	{
+		"attack" : 616,
+		"baseExp" : 112426993.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 308,
+		"dps" : 6867,
+		"dropLevelExp" : 120100,
+		"level" : 182,
+		"life" : 12320,
+		"pass" : 308,
+		"upgradeNeedExperience" : 743652080.0
+	},
+	
+	{
+		"attack" : 620,
+		"baseExp" : 114442854.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 310,
+		"dps" : 6965,
+		"dropLevelExp" : 121200,
+		"level" : 183,
+		"life" : 12400,
+		"pass" : 310,
+		"upgradeNeedExperience" : 776395960.0
+	},
+	
+	{
+		"attack" : 624,
+		"baseExp" : 116483472.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 312,
+		"dps" : 7063,
+		"dropLevelExp" : 122300,
+		"level" : 184,
+		"life" : 12480,
+		"pass" : 312,
+		"upgradeNeedExperience" : 810502350.0
+	},
+	
+	{
+		"attack" : 628,
+		"baseExp" : 118535440.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 314,
+		"dps" : 7163,
+		"dropLevelExp" : 123400,
+		"level" : 185,
+		"life" : 12560,
+		"pass" : 314,
+		"upgradeNeedExperience" : 845928336.0
+	},
+	
+	{
+		"attack" : 632,
+		"baseExp" : 120611836.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 316,
+		"dps" : 7265,
+		"dropLevelExp" : 124500,
+		"level" : 186,
+		"life" : 12640,
+		"pass" : 316,
+		"upgradeNeedExperience" : 882816960.0
+	},
+	
+	{
+		"attack" : 636,
+		"baseExp" : 122722781.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 318,
+		"dps" : 7367,
+		"dropLevelExp" : 125600,
+		"level" : 187,
+		"life" : 12720,
+		"pass" : 318,
+		"upgradeNeedExperience" : 921300516.0
+	},
+	
+	{
+		"attack" : 640,
+		"baseExp" : 124844476.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 320,
+		"dps" : 7471,
+		"dropLevelExp" : 126700,
+		"level" : 188,
+		"life" : 12800,
+		"pass" : 320,
+		"upgradeNeedExperience" : 961259934.0
+	},
+	
+	{
+		"attack" : 644,
+		"baseExp" : 126989799.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 322,
+		"dps" : 7576,
+		"dropLevelExp" : 127800,
+		"level" : 189,
+		"life" : 12880,
+		"pass" : 322,
+		"upgradeNeedExperience" : 1002849420.0
+	},
+	
+	{
+		"attack" : 648,
+		"baseExp" : 129168719.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 324,
+		"dps" : 7683,
+		"dropLevelExp" : 128900,
+		"level" : 190,
+		"life" : 12960,
+		"pass" : 324,
+		"upgradeNeedExperience" : 1046211840.0
+	},
+	
+	{
+		"attack" : 652,
+		"baseExp" : 131357517.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 326,
+		"dps" : 7790,
+		"dropLevelExp" : 130000,
+		"level" : 191,
+		"life" : 13040,
+		"pass" : 326,
+		"upgradeNeedExperience" : 1091220692.0
+	},
+	
+	{
+		"attack" : 656,
+		"baseExp" : 133579141.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 328,
+		"dps" : 7900,
+		"dropLevelExp" : 131100,
+		"level" : 192,
+		"life" : 13120,
+		"pass" : 328,
+		"upgradeNeedExperience" : 1138129530.0
+	},
+	
+	{
+		"attack" : 660,
+		"baseExp" : 135822855.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 330,
+		"dps" : 8010,
+		"dropLevelExp" : 132200,
+		"level" : 193,
+		"life" : 13200,
+		"pass" : 330,
+		"upgradeNeedExperience" : 1186919560.0
+	},
+	
+	{
+		"attack" : 664,
+		"baseExp" : 138088206.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 332,
+		"dps" : 8122,
+		"dropLevelExp" : 133300,
+		"level" : 194,
+		"life" : 13280,
+		"pass" : 332,
+		"upgradeNeedExperience" : 1237657285.0
+	},
+	
+	{
+		"attack" : 668,
+		"baseExp" : 140384917.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 334,
+		"dps" : 8236,
+		"dropLevelExp" : 134400,
+		"level" : 195,
+		"life" : 13360,
+		"pass" : 334,
+		"upgradeNeedExperience" : 1290504870.0
+	},
+	
+	{
+		"attack" : 672,
+		"baseExp" : 142713731.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 336,
+		"dps" : 8350,
+		"dropLevelExp" : 135500,
+		"level" : 196,
+		"life" : 13440,
+		"pass" : 336,
+		"upgradeNeedExperience" : 1345551557.0
+	},
+	
+	{
+		"attack" : 676,
+		"baseExp" : 145061242.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 338,
+		"dps" : 8467,
+		"dropLevelExp" : 136600,
+		"level" : 197,
+		"life" : 13520,
+		"pass" : 338,
+		"upgradeNeedExperience" : 1402753493.0
+	},
+	
+	{
+		"attack" : 680,
+		"baseExp" : 147429507.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 340,
+		"dps" : 8584,
+		"dropLevelExp" : 137700,
+		"level" : 198,
+		"life" : 13600,
+		"pass" : 340,
+		"upgradeNeedExperience" : 1462210056.0
+	},
+	
+	{
+		"attack" : 684,
+		"baseExp" : 149838160.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 342,
+		"dps" : 8703,
+		"dropLevelExp" : 138800,
+		"level" : 199,
+		"life" : 13680,
+		"pass" : 342,
+		"upgradeNeedExperience" : 1524204246.0
+	},
+	
+	{
+		"attack" : 688,
+		"baseExp" : 152267504.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 344,
+		"dps" : 8824,
+		"dropLevelExp" : 139900,
+		"level" : 200,
+		"life" : 13760,
+		"pass" : 344,
+		"upgradeNeedExperience" : 1588632162.0
+	},
+	
+	{
+		"attack" : 692,
+		"baseExp" : 162674109.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 346,
+		"dps" : 8946,
+		"dropLevelExp" : 141000,
+		"level" : 201,
+		"life" : 13840,
+		"pass" : 346,
+		"upgradeNeedExperience" : 1740724100.0
+	},
+	
+	{
+		"attack" : 696,
+		"baseExp" : 173081432.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 348,
+		"dps" : 9070,
+		"dropLevelExp" : 142100,
+		"level" : 202,
+		"life" : 13920,
+		"pass" : 348,
+		"upgradeNeedExperience" : 1899579040.0
+	},
+	
+	{
+		"attack" : 700,
+		"baseExp" : 183464451.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 350,
+		"dps" : 9195,
+		"dropLevelExp" : 143200,
+		"level" : 203,
+		"life" : 14000,
+		"pass" : 350,
+		"upgradeNeedExperience" : 2065162347.0
+	},
+	
+	{
+		"attack" : 704,
+		"baseExp" : 193833366.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 352,
+		"dps" : 9322,
+		"dropLevelExp" : 144300,
+		"level" : 204,
+		"life" : 14080,
+		"pass" : 352,
+		"upgradeNeedExperience" : 2237825382.0
+	},
+	
+	{
+		"attack" : 708,
+		"baseExp" : 204201233.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 354,
+		"dps" : 9451,
+		"dropLevelExp" : 145400,
+		"level" : 205,
+		"life" : 14160,
+		"pass" : 354,
+		"upgradeNeedExperience" : 2417972750.0
+	},
+	
+	{
+		"attack" : 712,
+		"baseExp" : 214552504.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 356,
+		"dps" : 9581,
+		"dropLevelExp" : 146500,
+		"level" : 206,
+		"life" : 14240,
+		"pass" : 356,
+		"upgradeNeedExperience" : 2605685608.0
+	},
+	
+	{
+		"attack" : 716,
+		"baseExp" : 224900134.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 358,
+		"dps" : 9713,
+		"dropLevelExp" : 147600,
+		"level" : 207,
+		"life" : 14320,
+		"pass" : 358,
+		"upgradeNeedExperience" : 2801389679.0
+	},
+	
+	{
+		"attack" : 720,
+		"baseExp" : 235231559.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 360,
+		"dps" : 9846,
+		"dropLevelExp" : 148700,
+		"level" : 208,
+		"life" : 14400,
+		"pass" : 360,
+		"upgradeNeedExperience" : 3005209700.0
+	},
+	
+	{
+		"attack" : 724,
+		"baseExp" : 245556461.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 362,
+		"dps" : 9981,
+		"dropLevelExp" : 149800,
+		"level" : 209,
+		"life" : 14480,
+		"pass" : 362,
+		"upgradeNeedExperience" : 3217554738.0
+	},
+	
+	{
+		"attack" : 728,
+		"baseExp" : 255874918.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 364,
+		"dps" : 10118,
+		"dropLevelExp" : 150900,
+		"level" : 210,
+		"life" : 14560,
+		"pass" : 364,
+		"upgradeNeedExperience" : 3438726847.0
+	},
+	
+	{
+		"attack" : 732,
+		"baseExp" : 266185277.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 366,
+		"dps" : 10256,
+		"dropLevelExp" : 152000,
+		"level" : 211,
+		"life" : 14640,
+		"pass" : 366,
+		"upgradeNeedExperience" : 3669014076.0
+	},
+	
+	{
+		"attack" : 736,
+		"baseExp" : 276478293.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 368,
+		"dps" : 10397,
+		"dropLevelExp" : 153100,
+		"level" : 212,
+		"life" : 14720,
+		"pass" : 368,
+		"upgradeNeedExperience" : 3908604897.0
+	},
+	
+	{
+		"attack" : 740,
+		"baseExp" : 286770734.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 370,
+		"dps" : 10539,
+		"dropLevelExp" : 154200,
+		"level" : 213,
+		"life" : 14800,
+		"pass" : 370,
+		"upgradeNeedExperience" : 4158061839.0
+	},
+	
+	{
+		"attack" : 744,
+		"baseExp" : 297055024.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 372,
+		"dps" : 10682,
+		"dropLevelExp" : 155300,
+		"level" : 214,
+		"life" : 14880,
+		"pass" : 372,
+		"upgradeNeedExperience" : 4417620480.0
+	},
+	
+	{
+		"attack" : 748,
+		"baseExp" : 307327437.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 374,
+		"dps" : 10828,
+		"dropLevelExp" : 156400,
+		"level" : 215,
+		"life" : 14960,
+		"pass" : 374,
+		"upgradeNeedExperience" : 4687574892.0
+	},
+	
+	{
+		"attack" : 752,
+		"baseExp" : 317598677.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 376,
+		"dps" : 10975,
+		"dropLevelExp" : 157500,
+		"level" : 216,
+		"life" : 15040,
+		"pass" : 376,
+		"upgradeNeedExperience" : 4968450344.0
+	},
+	
+	{
+		"attack" : 756,
+		"baseExp" : 327859426.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 378,
+		"dps" : 11125,
+		"dropLevelExp" : 158600,
+		"level" : 217,
+		"life" : 15120,
+		"pass" : 378,
+		"upgradeNeedExperience" : 5260479440.0
+	},
+	
+	{
+		"attack" : 760,
+		"baseExp" : 338114615.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 380,
+		"dps" : 11276,
+		"dropLevelExp" : 159700,
+		"level" : 218,
+		"life" : 15200,
+		"pass" : 380,
+		"upgradeNeedExperience" : 5564126328.0
+	},
+	
+	{
+		"attack" : 764,
+		"baseExp" : 348367559.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 382,
+		"dps" : 11429,
+		"dropLevelExp" : 160800,
+		"level" : 219,
+		"life" : 15280,
+		"pass" : 382,
+		"upgradeNeedExperience" : 5879848377.0
+	},
+	
+	{
+		"attack" : 768,
+		"baseExp" : 358617788.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 384,
+		"dps" : 11584,
+		"dropLevelExp" : 161900,
+		"level" : 220,
+		"life" : 15360,
+		"pass" : 384,
+		"upgradeNeedExperience" : 6208056120.0
+	},
+	
+	{
+		"attack" : 772,
+		"baseExp" : 368848226.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 386,
+		"dps" : 11741,
+		"dropLevelExp" : 163000,
+		"level" : 221,
+		"life" : 15440,
+		"pass" : 386,
+		"upgradeNeedExperience" : 6548877854.0
+	},
+	
+	{
+		"attack" : 776,
+		"baseExp" : 379085538.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 388,
+		"dps" : 11900,
+		"dropLevelExp" : 164100,
+		"level" : 222,
+		"life" : 15520,
+		"pass" : 388,
+		"upgradeNeedExperience" : 6903221238.0
+	},
+	
+	{
+		"attack" : 780,
+		"baseExp" : 389325064.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 390,
+		"dps" : 12061,
+		"dropLevelExp" : 165200,
+		"level" : 223,
+		"life" : 15600,
+		"pass" : 390,
+		"upgradeNeedExperience" : 7271471790.0
+	},
+	
+	{
+		"attack" : 784,
+		"baseExp" : 399544624.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 392,
+		"dps" : 12224,
+		"dropLevelExp" : 166300,
+		"level" : 224,
+		"life" : 15680,
+		"pass" : 392,
+		"upgradeNeedExperience" : 7653685896.0
+	},
+	
+	{
+		"attack" : 788,
+		"baseExp" : 409777285.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 394,
+		"dps" : 12389,
+		"dropLevelExp" : 167400,
+		"level" : 225,
+		"life" : 15760,
+		"pass" : 394,
+		"upgradeNeedExperience" : 8050977426.0
+	},
+	
+	{
+		"attack" : 792,
+		"baseExp" : 407454983.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 396,
+		"dps" : 12556,
+		"dropLevelExp" : 168500,
+		"level" : 226,
+		"life" : 15840,
+		"pass" : 396,
+		"upgradeNeedExperience" : 8463386448.0
+	},
+	
+	{
+		"attack" : 796,
+		"baseExp" : 418570218.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 398,
+		"dps" : 12725,
+		"dropLevelExp" : 169600,
+		"level" : 227,
+		"life" : 15920,
+		"pass" : 398,
+		"upgradeNeedExperience" : 8891659632.0
+	},
+	
+	{
+		"attack" : 800,
+		"baseExp" : 429741339.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 400,
+		"dps" : 12897,
+		"dropLevelExp" : 170700,
+		"level" : 228,
+		"life" : 16000,
+		"pass" : 400,
+		"upgradeNeedExperience" : 9336231360.0
+	},
+	
+	{
+		"attack" : 804,
+		"baseExp" : 440981474.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 402,
+		"dps" : 13070,
+		"dropLevelExp" : 171800,
+		"level" : 229,
+		"life" : 16080,
+		"pass" : 402,
+		"upgradeNeedExperience" : 9797940200.0
+	},
+	
+	{
+		"attack" : 808,
+		"baseExp" : 452269043.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 404,
+		"dps" : 13246,
+		"dropLevelExp" : 172900,
+		"level" : 230,
+		"life" : 16160,
+		"pass" : 404,
+		"upgradeNeedExperience" : 10276879600.0
+	},
+	
+	{
+		"attack" : 812,
+		"baseExp" : 463631740.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 406,
+		"dps" : 13424,
+		"dropLevelExp" : 174000,
+		"level" : 231,
+		"life" : 16240,
+		"pass" : 406,
+		"upgradeNeedExperience" : 10774262025.0
+	},
+	
+	{
+		"attack" : 816,
+		"baseExp" : 475049732.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 408,
+		"dps" : 13604,
+		"dropLevelExp" : 175100,
+		"level" : 232,
+		"life" : 16320,
+		"pass" : 408,
+		"upgradeNeedExperience" : 11290246348.0
+	},
+	
+	{
+		"attack" : 820,
+		"baseExp" : 486521686.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 410,
+		"dps" : 13786,
+		"dropLevelExp" : 176200,
+		"level" : 233,
+		"life" : 16400,
+		"pass" : 410,
+		"upgradeNeedExperience" : 11825418272.0
+	},
+	
+	{
+		"attack" : 824,
+		"baseExp" : 498066669.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 412,
+		"dps" : 13971,
+		"dropLevelExp" : 177300,
+		"level" : 234,
+		"life" : 16480,
+		"pass" : 412,
+		"upgradeNeedExperience" : 12380886844.0
+	},
+	
+	{
+		"attack" : 828,
+		"baseExp" : 509685090.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 414,
+		"dps" : 14158,
+		"dropLevelExp" : 178400,
+		"level" : 235,
+		"life" : 16560,
+		"pass" : 414,
+		"upgradeNeedExperience" : 12957349444.0
+	},
+	
+	{
+		"attack" : 832,
+		"baseExp" : 521354826.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 416,
+		"dps" : 14348,
+		"dropLevelExp" : 179500,
+		"level" : 236,
+		"life" : 16640,
+		"pass" : 416,
+		"upgradeNeedExperience" : 13554940230.0
+	},
+	
+	{
+		"attack" : 836,
+		"baseExp" : 533094631.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 418,
+		"dps" : 14539,
+		"dropLevelExp" : 180600,
+		"level" : 237,
+		"life" : 16720,
+		"pass" : 418,
+		"upgradeNeedExperience" : 14174850430.0
+	},
+	
+	{
+		"attack" : 840,
+		"baseExp" : 544904624.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 420,
+		"dps" : 14734,
+		"dropLevelExp" : 181700,
+		"level" : 238,
+		"life" : 16800,
+		"pass" : 420,
+		"upgradeNeedExperience" : 14817830965.0
+	},
+	
+	{
+		"attack" : 844,
+		"baseExp" : 556784818.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 422,
+		"dps" : 14930,
+		"dropLevelExp" : 182800,
+		"level" : 239,
+		"life" : 16880,
+		"pass" : 422,
+		"upgradeNeedExperience" : 15484653630.0
+	},
+	
+	{
+		"attack" : 848,
+		"baseExp" : 568731212.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 424,
+		"dps" : 15129,
+		"dropLevelExp" : 183900,
+		"level" : 240,
+		"life" : 16960,
+		"pass" : 424,
+		"upgradeNeedExperience" : 16176000092.0
+	},
+	
+	{
+		"attack" : 852,
+		"baseExp" : 580745572.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 426,
+		"dps" : 15331,
+		"dropLevelExp" : 185000,
+		"level" : 241,
+		"life" : 17040,
+		"pass" : 426,
+		"upgradeNeedExperience" : 16892734320.0
+	},
+	
+	{
+		"attack" : 856,
+		"baseExp" : 592833905.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 428,
+		"dps" : 15535,
+		"dropLevelExp" : 186100,
+		"level" : 242,
+		"life" : 17120,
+		"pass" : 428,
+		"upgradeNeedExperience" : 17635876336.0
+	},
+	
+	{
+		"attack" : 860,
+		"baseExp" : 604999694.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 430,
+		"dps" : 15742,
+		"dropLevelExp" : 187200,
+		"level" : 243,
+		"life" : 17200,
+		"pass" : 430,
+		"upgradeNeedExperience" : 18406411780.0
+	},
+	
+	{
+		"attack" : 864,
+		"baseExp" : 617236562.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 432,
+		"dps" : 15951,
+		"dropLevelExp" : 188300,
+		"level" : 244,
+		"life" : 17280,
+		"pass" : 432,
+		"upgradeNeedExperience" : 19205056512.0
+	},
+	
+	{
+		"attack" : 868,
+		"baseExp" : 629547766.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 434,
+		"dps" : 16163,
+		"dropLevelExp" : 189400,
+		"level" : 245,
+		"life" : 17360,
+		"pass" : 434,
+		"upgradeNeedExperience" : 20032843572.0
+	},
+	
+	{
+		"attack" : 872,
+		"baseExp" : 641930606.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 436,
+		"dps" : 16378,
+		"dropLevelExp" : 190500,
+		"level" : 246,
+		"life" : 17440,
+		"pass" : 436,
+		"upgradeNeedExperience" : 20890650450.0
+	},
+	
+	{
+		"attack" : 876,
+		"baseExp" : 654392468.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 438,
+		"dps" : 16596,
+		"dropLevelExp" : 191600,
+		"level" : 247,
+		"life" : 17520,
+		"pass" : 438,
+		"upgradeNeedExperience" : 21779712300.0
+	},
+	
+	{
+		"attack" : 880,
+		"baseExp" : 666936217.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 440,
+		"dps" : 16816,
+		"dropLevelExp" : 192700,
+		"level" : 248,
+		"life" : 17600,
+		"pass" : 440,
+		"upgradeNeedExperience" : 22701163463.0
+	},
+	
+	{
+		"attack" : 884,
+		"baseExp" : 679554960.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 442,
+		"dps" : 17039,
+		"dropLevelExp" : 193800,
+		"level" : 249,
+		"life" : 17680,
+		"pass" : 442,
+		"upgradeNeedExperience" : 23655839664.0
+	},
+	
+	{
+		"attack" : 888,
+		"baseExp" : 692253240.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 444,
+		"dps" : 17264,
+		"dropLevelExp" : 194900,
+		"level" : 250,
+		"life" : 17760,
+		"pass" : 444,
+		"upgradeNeedExperience" : 24644995608.0
+	},
+	
+	{
+		"attack" : 892,
+		"baseExp" : 705037931.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 446,
+		"dps" : 17493,
+		"dropLevelExp" : 196000,
+		"level" : 251,
+		"life" : 17840,
+		"pass" : 446,
+		"upgradeNeedExperience" : 25670019440.0
+	},
+	
+	{
+		"attack" : 896,
+		"baseExp" : 717905640.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 448,
+		"dps" : 17724,
+		"dropLevelExp" : 197100,
+		"level" : 252,
+		"life" : 17920,
+		"pass" : 448,
+		"upgradeNeedExperience" : 26731975088.0
+	},
+	
+	{
+		"attack" : 900,
+		"baseExp" : 730856675.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 450,
+		"dps" : 17959,
+		"dropLevelExp" : 198200,
+		"level" : 253,
+		"life" : 18000,
+		"pass" : 450,
+		"upgradeNeedExperience" : 27832093020.0
+	},
+	
+	{
+		"attack" : 904,
+		"baseExp" : 743901325.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 452,
+		"dps" : 18196,
+		"dropLevelExp" : 199300,
+		"level" : 254,
+		"life" : 18080,
+		"pass" : 452,
+		"upgradeNeedExperience" : 28972031499.0
+	},
+	
+	{
+		"attack" : 908,
+		"baseExp" : 757025705.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 454,
+		"dps" : 18436,
+		"dropLevelExp" : 200400,
+		"level" : 255,
+		"life" : 18160,
+		"pass" : 454,
+		"upgradeNeedExperience" : 30152561328.0
+	},
+	
+	{
+		"attack" : 912,
+		"baseExp" : 770241710.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 456,
+		"dps" : 18679,
+		"dropLevelExp" : 201500,
+		"level" : 256,
+		"life" : 18240,
+		"pass" : 456,
+		"upgradeNeedExperience" : 31375494800.0
+	},
+	
+	{
+		"attack" : 916,
+		"baseExp" : 783553579.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 458,
+		"dps" : 18926,
+		"dropLevelExp" : 202600,
+		"level" : 257,
+		"life" : 18320,
+		"pass" : 458,
+		"upgradeNeedExperience" : 32642410044.0
+	},
+	
+	{
+		"attack" : 920,
+		"baseExp" : 796954543.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 460,
+		"dps" : 19175,
+		"dropLevelExp" : 203700,
+		"level" : 258,
+		"life" : 18400,
+		"pass" : 460,
+		"upgradeNeedExperience" : 33954476210.0
+	},
+	
+	{
+		"attack" : 924,
+		"baseExp" : 810440365.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 462,
+		"dps" : 19428,
+		"dropLevelExp" : 204800,
+		"level" : 259,
+		"life" : 18480,
+		"pass" : 462,
+		"upgradeNeedExperience" : 35312991934.0
+	},
+	
+	{
+		"attack" : 928,
+		"baseExp" : 824030548.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 464,
+		"dps" : 19684,
+		"dropLevelExp" : 205900,
+		"level" : 260,
+		"life" : 18560,
+		"pass" : 464,
+		"upgradeNeedExperience" : 36720343128.0
+	},
+	
+	{
+		"attack" : 932,
+		"baseExp" : 837722419.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 466,
+		"dps" : 19943,
+		"dropLevelExp" : 207000,
+		"level" : 261,
+		"life" : 18640,
+		"pass" : 466,
+		"upgradeNeedExperience" : 38178030782.0
+	},
+	
+	{
+		"attack" : 936,
+		"baseExp" : 851506776.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 468,
+		"dps" : 20205,
+		"dropLevelExp" : 208100,
+		"level" : 262,
+		"life" : 18720,
+		"pass" : 468,
+		"upgradeNeedExperience" : 39687291504.0
+	},
+	
+	{
+		"attack" : 940,
+		"baseExp" : 865390748.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 470,
+		"dps" : 20471,
+		"dropLevelExp" : 209200,
+		"level" : 263,
+		"life" : 18800,
+		"pass" : 470,
+		"upgradeNeedExperience" : 41250153370.0
+	},
+	
+	{
+		"attack" : 944,
+		"baseExp" : 879383113.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 472,
+		"dps" : 20740,
+		"dropLevelExp" : 210300,
+		"level" : 264,
+		"life" : 18880,
+		"pass" : 472,
+		"upgradeNeedExperience" : 42868808100.0
+	},
+	
+	{
+		"attack" : 948,
+		"baseExp" : 893472425.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 474,
+		"dps" : 21012,
+		"dropLevelExp" : 211400,
+		"level" : 265,
+		"life" : 18960,
+		"pass" : 474,
+		"upgradeNeedExperience" : 44544532742.0
+	},
+	
+	{
+		"attack" : 952,
+		"baseExp" : 907667156.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 476,
+		"dps" : 21288,
+		"dropLevelExp" : 212500,
+		"level" : 266,
+		"life" : 19040,
+		"pass" : 476,
+		"upgradeNeedExperience" : 46279626160.0
+	},
+	
+	{
+		"attack" : 956,
+		"baseExp" : 921975597.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 478,
+		"dps" : 21567,
+		"dropLevelExp" : 213600,
+		"level" : 267,
+		"life" : 19120,
+		"pass" : 478,
+		"upgradeNeedExperience" : 48076474680.0
+	},
+	
+	{
+		"attack" : 960,
+		"baseExp" : 936395865.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 480,
+		"dps" : 21850,
+		"dropLevelExp" : 214700,
+		"level" : 268,
+		"life" : 19200,
+		"pass" : 480,
+		"upgradeNeedExperience" : 49937022355.0
+	},
+	
+	{
+		"attack" : 964,
+		"baseExp" : 950925942.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 482,
+		"dps" : 22136,
+		"dropLevelExp" : 215800,
+		"level" : 269,
+		"life" : 19280,
+		"pass" : 482,
+		"upgradeNeedExperience" : 51863260680.0
+	},
+	
+	{
+		"attack" : 968,
+		"baseExp" : 965565409.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 484,
+		"dps" : 22426,
+		"dropLevelExp" : 216900,
+		"level" : 270,
+		"life" : 19360,
+		"pass" : 484,
+		"upgradeNeedExperience" : 53857326194.0
+	},
+	
+	{
+		"attack" : 972,
+		"baseExp" : 980330122.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 486,
+		"dps" : 22720,
+		"dropLevelExp" : 218000,
+		"level" : 271,
+		"life" : 19440,
+		"pass" : 486,
+		"upgradeNeedExperience" : 55922348768.0
+	},
+	
+	{
+		"attack" : 976,
+		"baseExp" : 995202861.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 488,
+		"dps" : 23017,
+		"dropLevelExp" : 219100,
+		"level" : 272,
+		"life" : 19520,
+		"pass" : 488,
+		"upgradeNeedExperience" : 58059680217.0
+	},
+	
+	{
+		"attack" : 980,
+		"baseExp" : 1010205638.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 490,
+		"dps" : 23318,
+		"dropLevelExp" : 220200,
+		"level" : 273,
+		"life" : 19600,
+		"pass" : 490,
+		"upgradeNeedExperience" : 60272995875.0
+	},
+	
+	{
+		"attack" : 984,
+		"baseExp" : 1025322620.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 492,
+		"dps" : 23623,
+		"dropLevelExp" : 221300,
+		"level" : 274,
+		"life" : 19680,
+		"pass" : 492,
+		"upgradeNeedExperience" : 62563854368.0
+	},
+	
+	{
+		"attack" : 988,
+		"baseExp" : 1040577165.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 494,
+		"dps" : 23931,
+		"dropLevelExp" : 222400,
+		"level" : 275,
+		"life" : 19760,
+		"pass" : 494,
+		"upgradeNeedExperience" : 64936251648.0
+	},
+	
+	{
+		"attack" : 992,
+		"baseExp" : 1055951377.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 496,
+		"dps" : 24244,
+		"dropLevelExp" : 223500,
+		"level" : 276,
+		"life" : 19840,
+		"pass" : 496,
+		"upgradeNeedExperience" : 67391762240.0
+	},
+	
+	{
+		"attack" : 996,
+		"baseExp" : 1071450181.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 498,
+		"dps" : 24560,
+		"dropLevelExp" : 224600,
+		"level" : 277,
+		"life" : 19920,
+		"pass" : 498,
+		"upgradeNeedExperience" : 69933431928.0
+	},
+	
+	{
+		"attack" : 1000,
+		"baseExp" : 1087091527.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 500,
+		"dps" : 24881,
+		"dropLevelExp" : 225700,
+		"level" : 278,
+		"life" : 20000,
+		"pass" : 500,
+		"upgradeNeedExperience" : 72565290244.0
+	},
+	
+	{
+		"attack" : 1004,
+		"baseExp" : 1102865208.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 502,
+		"dps" : 25205,
+		"dropLevelExp" : 226800,
+		"level" : 279,
+		"life" : 20080,
+		"pass" : 502,
+		"upgradeNeedExperience" : 75289641559.0
+	},
+	
+	{
+		"attack" : 1008,
+		"baseExp" : 1118769071.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 504,
+		"dps" : 25534,
+		"dropLevelExp" : 227900,
+		"level" : 280,
+		"life" : 20160,
+		"pass" : 504,
+		"upgradeNeedExperience" : 78109383807.0
+	},
+	
+	{
+		"attack" : 1012,
+		"baseExp" : 1134820429.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 506,
+		"dps" : 25867,
+		"dropLevelExp" : 229000,
+		"level" : 281,
+		"life" : 20240,
+		"pass" : 506,
+		"upgradeNeedExperience" : 81028886848.0
+	},
+	
+	{
+		"attack" : 1016,
+		"baseExp" : 1151015121.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 508,
+		"dps" : 26204,
+		"dropLevelExp" : 230100,
+		"level" : 282,
+		"life" : 20320,
+		"pass" : 508,
+		"upgradeNeedExperience" : 84051162314.0
+	},
+	
+	{
+		"attack" : 1020,
+		"baseExp" : 1167353670.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 510,
+		"dps" : 26545,
+		"dropLevelExp" : 231200,
+		"level" : 283,
+		"life" : 20400,
+		"pass" : 510,
+		"upgradeNeedExperience" : 87179648670.0
+	},
+	
+	{
+		"attack" : 1024,
+		"baseExp" : 1183833188.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 512,
+		"dps" : 26890,
+		"dropLevelExp" : 232300,
+		"level" : 284,
+		"life" : 20480,
+		"pass" : 512,
+		"upgradeNeedExperience" : 90417634239.0
+	},
+	
+	{
+		"attack" : 1028,
+		"baseExp" : 1200470145.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 514,
+		"dps" : 27240,
+		"dropLevelExp" : 233400,
+		"level" : 285,
+		"life" : 20560,
+		"pass" : 514,
+		"upgradeNeedExperience" : 93770009412.0
+	},
+	
+	{
+		"attack" : 1032,
+		"baseExp" : 1217262835.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 516,
+		"dps" : 27595,
+		"dropLevelExp" : 234500,
+		"level" : 286,
+		"life" : 20640,
+		"pass" : 516,
+		"upgradeNeedExperience" : 97240442208.0
+	},
+	
+	{
+		"attack" : 1036,
+		"baseExp" : 1234209365.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 518,
+		"dps" : 27953,
+		"dropLevelExp" : 235600,
+		"level" : 287,
+		"life" : 20720,
+		"pass" : 518,
+		"upgradeNeedExperience" : 100832693220.0
+	},
+	
+	{
+		"attack" : 1040,
+		"baseExp" : 1251315821.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 520,
+		"dps" : 28317,
+		"dropLevelExp" : 236700,
+		"level" : 288,
+		"life" : 20800,
+		"pass" : 520,
+		"upgradeNeedExperience" : 104551298868.0
+	},
+	
+	{
+		"attack" : 1044,
+		"baseExp" : 1268589620.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 522,
+		"dps" : 28684,
+		"dropLevelExp" : 237800,
+		"level" : 289,
+		"life" : 20880,
+		"pass" : 522,
+		"upgradeNeedExperience" : 108401082064.0
+	},
+	
+	{
+		"attack" : 1048,
+		"baseExp" : 1286029785.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 524,
+		"dps" : 29057,
+		"dropLevelExp" : 238900,
+		"level" : 290,
+		"life" : 20960,
+		"pass" : 524,
+		"upgradeNeedExperience" : 112386321913.0
+	},
+	
+	{
+		"attack" : 1052,
+		"baseExp" : 1303633614.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 526,
+		"dps" : 29434,
+		"dropLevelExp" : 240000,
+		"level" : 291,
+		"life" : 21040,
+		"pass" : 526,
+		"upgradeNeedExperience" : 116511273225.0
+	},
+	
+	{
+		"attack" : 1056,
+		"baseExp" : 1321416002.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 528,
+		"dps" : 29816,
+		"dropLevelExp" : 241100,
+		"level" : 292,
+		"life" : 21120,
+		"pass" : 528,
+		"upgradeNeedExperience" : 120781919394.0
+	},
+	
+	{
+		"attack" : 1060,
+		"baseExp" : 1339365708.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 530,
+		"dps" : 30202,
+		"dropLevelExp" : 242200,
+		"level" : 293,
+		"life" : 21200,
+		"pass" : 530,
+		"upgradeNeedExperience" : 125202069504.0
+	},
+	
+	{
+		"attack" : 1064,
+		"baseExp" : 1357500152.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 532,
+		"dps" : 30594,
+		"dropLevelExp" : 243300,
+		"level" : 294,
+		"life" : 21280,
+		"pass" : 532,
+		"upgradeNeedExperience" : 129778331394.0
+	},
+	
+	{
+		"attack" : 1068,
+		"baseExp" : 1375815775.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 534,
+		"dps" : 30991,
+		"dropLevelExp" : 244400,
+		"level" : 295,
+		"life" : 21360,
+		"pass" : 534,
+		"upgradeNeedExperience" : 134515568376.0
+	},
+	
+	{
+		"attack" : 1072,
+		"baseExp" : 1394318424.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 536,
+		"dps" : 31392,
+		"dropLevelExp" : 245500,
+		"level" : 296,
+		"life" : 21440,
+		"pass" : 536,
+		"upgradeNeedExperience" : 139419717833.0
+	},
+	
+	{
+		"attack" : 1076,
+		"baseExp" : 1413016611.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 538,
+		"dps" : 31799,
+		"dropLevelExp" : 246600,
+		"level" : 297,
+		"life" : 21520,
+		"pass" : 538,
+		"upgradeNeedExperience" : 144497212074.0
+	},
+	
+	{
+		"attack" : 1080,
+		"baseExp" : 1431906136.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 540,
+		"dps" : 32210,
+		"dropLevelExp" : 247700,
+		"level" : 298,
+		"life" : 21600,
+		"pass" : 540,
+		"upgradeNeedExperience" : 149753409093.0
+	},
+	
+	{
+		"attack" : 1084,
+		"baseExp" : 1450985501.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 542,
+		"dps" : 32627,
+		"dropLevelExp" : 248800,
+		"level" : 299,
+		"life" : 21680,
+		"pass" : 542,
+		"upgradeNeedExperience" : 155194100278.0
+	},
+	
+	{
+		"attack" : 1088,
+		"baseExp" : 1470278617.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 544,
+		"dps" : 33049,
+		"dropLevelExp" : 249900,
+		"level" : 300,
+		"life" : 21760,
+		"pass" : 544,
+		"upgradeNeedExperience" : 160828030170.0
+	},
+	
+	{
+		"attack" : 1092,
+		"baseExp" : 1489763073.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 546,
+		"dps" : 33477,
+		"dropLevelExp" : 251000,
+		"level" : 301,
+		"life" : 21840,
+		"pass" : 546,
+		"upgradeNeedExperience" : 166659192700.0
+	},
+	
+	{
+		"attack" : 1096,
+		"baseExp" : 1509466479.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 548,
+		"dps" : 33910,
+		"dropLevelExp" : 252100,
+		"level" : 302,
+		"life" : 21920,
+		"pass" : 548,
+		"upgradeNeedExperience" : 172697284570.0
+	},
+	
+	{
+		"attack" : 1100,
+		"baseExp" : 1529383502.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 550,
+		"dps" : 34348,
+		"dropLevelExp" : 253200,
+		"level" : 303,
+		"life" : 22000,
+		"pass" : 550,
+		"upgradeNeedExperience" : 178948640724.0
+	},
+	
+	{
+		"attack" : 1104,
+		"baseExp" : 1549511421.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 552,
+		"dps" : 34792,
+		"dropLevelExp" : 254300,
+		"level" : 304,
+		"life" : 22080,
+		"pass" : 552,
+		"upgradeNeedExperience" : 185420074686.0
+	},
+	
+	{
+		"attack" : 1108,
+		"baseExp" : 1569866090.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 554,
+		"dps" : 35241,
+		"dropLevelExp" : 255400,
+		"level" : 305,
+		"life" : 22160,
+		"pass" : 554,
+		"upgradeNeedExperience" : 192120870474.0
+	},
+	
+	{
+		"attack" : 1112,
+		"baseExp" : 1590442894.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 556,
+		"dps" : 35696,
+		"dropLevelExp" : 256500,
+		"level" : 306,
+		"life" : 22240,
+		"pass" : 556,
+		"upgradeNeedExperience" : 199058159488.0
+	},
+	
+	{
+		"attack" : 1116,
+		"baseExp" : 1611249095.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 558,
+		"dps" : 36157,
+		"dropLevelExp" : 257600,
+		"level" : 307,
+		"life" : 22320,
+		"pass" : 558,
+		"upgradeNeedExperience" : 206240787207.0
+	},
+	
+	{
+		"attack" : 1120,
+		"baseExp" : 1632290298.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 560,
+		"dps" : 36623,
+		"dropLevelExp" : 258700,
+		"level" : 308,
+		"life" : 22400,
+		"pass" : 560,
+		"upgradeNeedExperience" : 213677718320.0
+	},
+	
+	{
+		"attack" : 1124,
+		"baseExp" : 1653570501.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 562,
+		"dps" : 37096,
+		"dropLevelExp" : 259800,
+		"level" : 309,
+		"life" : 22480,
+		"pass" : 562,
+		"upgradeNeedExperience" : 221378031496.0
+	},
+	
+	{
+		"attack" : 1128,
+		"baseExp" : 1675097413.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 564,
+		"dps" : 37574,
+		"dropLevelExp" : 260900,
+		"level" : 310,
+		"life" : 22560,
+		"pass" : 564,
+		"upgradeNeedExperience" : 229351634952.0
+	},
+	
+	{
+		"attack" : 1132,
+		"baseExp" : 1696875779.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 566,
+		"dps" : 38059,
+		"dropLevelExp" : 262000,
+		"level" : 311,
+		"life" : 22640,
+		"pass" : 566,
+		"upgradeNeedExperience" : 237608400113.0
+	},
+	
+	{
+		"attack" : 1136,
+		"baseExp" : 1718902120.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 568,
+		"dps" : 38549,
+		"dropLevelExp" : 263100,
+		"level" : 312,
+		"life" : 22720,
+		"pass" : 568,
+		"upgradeNeedExperience" : 246157375963.0
+	},
+	
+	{
+		"attack" : 1140,
+		"baseExp" : 1741189901.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 570,
+		"dps" : 39046,
+		"dropLevelExp" : 264200,
+		"level" : 313,
+		"life" : 22800,
+		"pass" : 570,
+		"upgradeNeedExperience" : 255010353360.0
+	},
+	
+	{
+		"attack" : 1144,
+		"baseExp" : 1763735104.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 572,
+		"dps" : 39549,
+		"dropLevelExp" : 265300,
+		"level" : 314,
+		"life" : 22880,
+		"pass" : 572,
+		"upgradeNeedExperience" : 264176997296.0
+	},
+	
+	{
+		"attack" : 1148,
+		"baseExp" : 1781961658.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 574,
+		"dps" : 40058,
+		"dropLevelExp" : 266400,
+		"level" : 315,
+		"life" : 22960,
+		"pass" : 574,
+		"upgradeNeedExperience" : 272966884476.0
+	},
+	
+	{
+		"attack" : 1152,
+		"baseExp" : 1798644924.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 576,
+		"dps" : 40574,
+		"dropLevelExp" : 267500,
+		"level" : 316,
+		"life" : 23040,
+		"pass" : 576,
+		"upgradeNeedExperience" : 281777953975.0
+	},
+	
+	{
+		"attack" : 1156,
+		"baseExp" : 1815640968.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 578,
+		"dps" : 41096,
+		"dropLevelExp" : 268600,
+		"level" : 317,
+		"life" : 23120,
+		"pass" : 578,
+		"upgradeNeedExperience" : 290898522480.0
+	},
+	
+	{
+		"attack" : 1160,
+		"baseExp" : 1832955362.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 580,
+		"dps" : 41625,
+		"dropLevelExp" : 269700,
+		"level" : 318,
+		"life" : 23200,
+		"pass" : 580,
+		"upgradeNeedExperience" : 300340152942.0
+	},
+	
+	{
+		"attack" : 1164,
+		"baseExp" : 1850584253.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 582,
+		"dps" : 42161,
+		"dropLevelExp" : 270800,
+		"level" : 319,
+		"life" : 23280,
+		"pass" : 582,
+		"upgradeNeedExperience" : 310113261336.0
+	},
+	
+	{
+		"attack" : 1168,
+		"baseExp" : 1868540493.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 584,
+		"dps" : 42703,
+		"dropLevelExp" : 271900,
+		"level" : 320,
+		"life" : 23360,
+		"pass" : 584,
+		"upgradeNeedExperience" : 320231431720.0
+	},
+	
+	{
+		"attack" : 1172,
+		"baseExp" : 1886837765.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 586,
+		"dps" : 43252,
+		"dropLevelExp" : 273000,
+		"level" : 321,
+		"life" : 23440,
+		"pass" : 586,
+		"upgradeNeedExperience" : 330708966640.0
+	},
+	
+	{
+		"attack" : 1176,
+		"baseExp" : 1905462267.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 588,
+		"dps" : 43808,
+		"dropLevelExp" : 274100,
+		"level" : 322,
+		"life" : 23520,
+		"pass" : 588,
+		"upgradeNeedExperience" : 341555851636.0
+	},
+	
+	{
+		"attack" : 1180,
+		"baseExp" : 1924438414.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 590,
+		"dps" : 44371,
+		"dropLevelExp" : 275200,
+		"level" : 323,
+		"life" : 23600,
+		"pass" : 590,
+		"upgradeNeedExperience" : 352789265152.0
+	},
+	
+	{
+		"attack" : 1184,
+		"baseExp" : 1943759644.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 592,
+		"dps" : 44941,
+		"dropLevelExp" : 276300,
+		"level" : 324,
+		"life" : 23680,
+		"pass" : 592,
+		"upgradeNeedExperience" : 364421400310.0
+	},
+	
+	{
+		"attack" : 1188,
+		"baseExp" : 1963448390.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 594,
+		"dps" : 45519,
+		"dropLevelExp" : 277400,
+		"level" : 325,
+		"life" : 23760,
+		"pass" : 594,
+		"upgradeNeedExperience" : 376470342000.0
+	},
+	
+	{
+		"attack" : 1192,
+		"baseExp" : 1983491963.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 596,
+		"dps" : 46103,
+		"dropLevelExp" : 278500,
+		"level" : 326,
+		"life" : 23840,
+		"pass" : 596,
+		"upgradeNeedExperience" : 388948132538.0
+	},
+	
+	{
+		"attack" : 1196,
+		"baseExp" : 2003909763.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 598,
+		"dps" : 46695,
+		"dropLevelExp" : 279600,
+		"level" : 327,
+		"life" : 23920,
+		"pass" : 598,
+		"upgradeNeedExperience" : 401873504230.0
+	},
+	
+	{
+		"attack" : 1200,
+		"baseExp" : 2024698552.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 600,
+		"dps" : 47294,
+		"dropLevelExp" : 280700,
+		"level" : 328,
+		"life" : 24000,
+		"pass" : 600,
+		"upgradeNeedExperience" : 415261388575.0
+	},
+	
+	{
+		"attack" : 1204,
+		"baseExp" : 2045870303.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 602,
+		"dps" : 47901,
+		"dropLevelExp" : 281800,
+		"level" : 329,
+		"life" : 24080,
+		"pass" : 602,
+		"upgradeNeedExperience" : 429130364040.0
+	},
+	
+	{
+		"attack" : 1208,
+		"baseExp" : 2067436585.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 604,
+		"dps" : 48516,
+		"dropLevelExp" : 282900,
+		"level" : 330,
+		"life" : 24160,
+		"pass" : 604,
+		"upgradeNeedExperience" : 443499680176.0
+	},
+	
+	{
+		"attack" : 1212,
+		"baseExp" : 2089401911.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 606,
+		"dps" : 49138,
+		"dropLevelExp" : 284000,
+		"level" : 331,
+		"life" : 24240,
+		"pass" : 606,
+		"upgradeNeedExperience" : 458387819071.0
+	},
+	
+	{
+		"attack" : 1216,
+		"baseExp" : 2111768271.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 608,
+		"dps" : 49768,
+		"dropLevelExp" : 285100,
+		"level" : 332,
+		"life" : 24320,
+		"pass" : 608,
+		"upgradeNeedExperience" : 473813366763.0
+	},
+	
+	{
+		"attack" : 1220,
+		"baseExp" : 2134547186.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 610,
+		"dps" : 50406,
+		"dropLevelExp" : 286200,
+		"level" : 333,
+		"life" : 24400,
+		"pass" : 610,
+		"upgradeNeedExperience" : 489797737644.0
+	},
+	
+	{
+		"attack" : 1224,
+		"baseExp" : 2157742060.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 612,
+		"dps" : 51053,
+		"dropLevelExp" : 287300,
+		"level" : 334,
+		"life" : 24480,
+		"pass" : 612,
+		"upgradeNeedExperience" : 506361303666.0
+	},
+	
+	{
+		"attack" : 1228,
+		"baseExp" : 2181355937.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 614,
+		"dps" : 51707,
+		"dropLevelExp" : 288400,
+		"level" : 335,
+		"life" : 24560,
+		"pass" : 614,
+		"upgradeNeedExperience" : 523525072169.0
+	},
+	
+	{
+		"attack" : 1232,
+		"baseExp" : 2205417570.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 616,
+		"dps" : 52369,
+		"dropLevelExp" : 289500,
+		"level" : 336,
+		"life" : 24640,
+		"pass" : 616,
+		"upgradeNeedExperience" : 541317099920.0
+	},
+	
+	{
+		"attack" : 1236,
+		"baseExp" : 2229909699.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 618,
+		"dps" : 53040,
+		"dropLevelExp" : 290600,
+		"level" : 337,
+		"life" : 24720,
+		"pass" : 618,
+		"upgradeNeedExperience" : 559755229645.0
+	},
+	
+	{
+		"attack" : 1240,
+		"baseExp" : 2254853606.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 620,
+		"dps" : 53720,
+		"dropLevelExp" : 291700,
+		"level" : 338,
+		"life" : 24800,
+		"pass" : 620,
+		"upgradeNeedExperience" : 578867545748.0
+	},
+	
+	{
+		"attack" : 1244,
+		"baseExp" : 2280250726.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 622,
+		"dps" : 54408,
+		"dropLevelExp" : 292800,
+		"level" : 339,
+		"life" : 24880,
+		"pass" : 622,
+		"upgradeNeedExperience" : 598678166817.0
+	},
+	
+	{
+		"attack" : 1248,
+		"baseExp" : 2306111745.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 624,
+		"dps" : 55104,
+		"dropLevelExp" : 293900,
+		"level" : 340,
+		"life" : 24960,
+		"pass" : 624,
+		"upgradeNeedExperience" : 619214520808.0
+	},
+	
+	{
+		"attack" : 1252,
+		"baseExp" : 2332446887.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 626,
+		"dps" : 55809,
+		"dropLevelExp" : 295000,
+		"level" : 341,
+		"life" : 25040,
+		"pass" : 626,
+		"upgradeNeedExperience" : 640504985733.0
+	},
+	
+	{
+		"attack" : 1256,
+		"baseExp" : 2359264935.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 628,
+		"dps" : 56524,
+		"dropLevelExp" : 296100,
+		"level" : 342,
+		"life" : 25120,
+		"pass" : 628,
+		"upgradeNeedExperience" : 662578640845.0
+	},
+	
+	{
+		"attack" : 1260,
+		"baseExp" : 2386567693.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 630,
+		"dps" : 57247,
+		"dropLevelExp" : 297200,
+		"level" : 343,
+		"life" : 25200,
+		"pass" : 630,
+		"upgradeNeedExperience" : 685463671922.0
+	},
+	
+	{
+		"attack" : 1264,
+		"baseExp" : 2414364104.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 632,
+		"dps" : 57979,
+		"dropLevelExp" : 298300,
+		"level" : 344,
+		"life" : 25280,
+		"pass" : 632,
+		"upgradeNeedExperience" : 709191331212.0
+	},
+	
+	{
+		"attack" : 1268,
+		"baseExp" : 2442664589.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 634,
+		"dps" : 58721,
+		"dropLevelExp" : 299400,
+		"level" : 345,
+		"life" : 25360,
+		"pass" : 634,
+		"upgradeNeedExperience" : 733794507177.0
+	},
+	
+	{
+		"attack" : 1272,
+		"baseExp" : 2471485595.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 636,
+		"dps" : 59472,
+		"dropLevelExp" : 300500,
+		"level" : 346,
+		"life" : 25440,
+		"pass" : 636,
+		"upgradeNeedExperience" : 759309214950.0
+	},
+	
+	{
+		"attack" : 1276,
+		"baseExp" : 2500828111.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 638,
+		"dps" : 60232,
+		"dropLevelExp" : 301600,
+		"level" : 347,
+		"life" : 25520,
+		"pass" : 638,
+		"upgradeNeedExperience" : 785768105094.0
+	},
+	
+	{
+		"attack" : 1280,
+		"baseExp" : 2530700183.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 640,
+		"dps" : 61002,
+		"dropLevelExp" : 302700,
+		"level" : 348,
+		"life" : 25600,
+		"pass" : 640,
+		"upgradeNeedExperience" : 813207204556.0
+	},
+	
+	{
+		"attack" : 1284,
+		"baseExp" : 2561110334.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 642,
+		"dps" : 61782,
+		"dropLevelExp" : 303800,
+		"level" : 349,
+		"life" : 25680,
+		"pass" : 642,
+		"upgradeNeedExperience" : 841664048500.0
+	},
+	
+	{
+		"attack" : 1288,
+		"baseExp" : 2610877715.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 644,
+		"dps" : 62571,
+		"dropLevelExp" : 304900,
+		"level" : 350,
+		"life" : 25760,
+		"pass" : 644,
+		"upgradeNeedExperience" : 866600173940.0
+	},
+	
+	{
+		"attack" : 1292,
+		"baseExp" : 2661551212.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 646,
+		"dps" : 63370,
+		"dropLevelExp" : 306000,
+		"level" : 351,
+		"life" : 25840,
+		"pass" : 646,
+		"upgradeNeedExperience" : 892164315198.0
+	},
+	
+	{
+		"attack" : 1296,
+		"baseExp" : 2713146690.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 648,
+		"dps" : 64180,
+		"dropLevelExp" : 307100,
+		"level" : 352,
+		"life" : 25920,
+		"pass" : 648,
+		"upgradeNeedExperience" : 918376425279.0
+	},
+	
+	{
+		"attack" : 1300,
+		"baseExp" : 2765679081.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 650,
+		"dps" : 65000,
+		"dropLevelExp" : 308200,
+		"level" : 353,
+		"life" : 26000,
+		"pass" : 650,
+		"upgradeNeedExperience" : 945247899980.0
+	},
+	
+	{
+		"attack" : 1304,
+		"baseExp" : 2819165180.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 652,
+		"dps" : 65830,
+		"dropLevelExp" : 309300,
+		"level" : 354,
+		"life" : 26080,
+		"pass" : 652,
+		"upgradeNeedExperience" : 972793773231.0
+	},
+	
+	{
+		"attack" : 1308,
+		"baseExp" : 2873620853.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 654,
+		"dps" : 66670,
+		"dropLevelExp" : 310400,
+		"level" : 355,
+		"life" : 26160,
+		"pass" : 654,
+		"upgradeNeedExperience" : 1001025895324.0
+	},
+	
+	{
+		"attack" : 1312,
+		"baseExp" : 2929061963.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 656,
+		"dps" : 67521,
+		"dropLevelExp" : 311500,
+		"level" : 356,
+		"life" : 26240,
+		"pass" : 656,
+		"upgradeNeedExperience" : 1029965503860.0
+	},
+	
+	{
+		"attack" : 1316,
+		"baseExp" : 2985506240.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 658,
+		"dps" : 68383,
+		"dropLevelExp" : 312600,
+		"level" : 357,
+		"life" : 26320,
+		"pass" : 658,
+		"upgradeNeedExperience" : 1059625586995.0
+	},
+	
+	{
+		"attack" : 1320,
+		"baseExp" : 3042970483.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 660,
+		"dps" : 69256,
+		"dropLevelExp" : 313700,
+		"level" : 358,
+		"life" : 26400,
+		"pass" : 660,
+		"upgradeNeedExperience" : 1090022052736.0
+	},
+	
+	{
+		"attack" : 1324,
+		"baseExp" : 3101470554.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 662,
+		"dps" : 70139,
+		"dropLevelExp" : 314800,
+		"level" : 359,
+		"life" : 26480,
+		"pass" : 662,
+		"upgradeNeedExperience" : 1121167369020.0
+	},
+	
+	{
+		"attack" : 1328,
+		"baseExp" : 3161026051.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 664,
+		"dps" : 71034,
+		"dropLevelExp" : 315900,
+		"level" : 360,
+		"life" : 26560,
+		"pass" : 664,
+		"upgradeNeedExperience" : 1153085480811.0
+	},
+	
+	{
+		"attack" : 1332,
+		"baseExp" : 3221652838.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 666,
+		"dps" : 71940,
+		"dropLevelExp" : 317000,
+		"level" : 361,
+		"life" : 26640,
+		"pass" : 666,
+		"upgradeNeedExperience" : 1185789372634.0
+	},
+	
+	{
+		"attack" : 1336,
+		"baseExp" : 3283369578.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 668,
+		"dps" : 72858,
+		"dropLevelExp" : 318100,
+		"level" : 362,
+		"life" : 26720,
+		"pass" : 668,
+		"upgradeNeedExperience" : 1219293019580.0
+	},
+	
+	{
+		"attack" : 1340,
+		"baseExp" : 3346195868.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 670,
+		"dps" : 73787,
+		"dropLevelExp" : 319200,
+		"level" : 363,
+		"life" : 26800,
+		"pass" : 670,
+		"upgradeNeedExperience" : 1253621479814.0
+	},
+	
+	{
+		"attack" : 1344,
+		"baseExp" : 3410148505.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 672,
+		"dps" : 74727,
+		"dropLevelExp" : 320300,
+		"level" : 364,
+		"life" : 26880,
+		"pass" : 672,
+		"upgradeNeedExperience" : 1288788589116.0
+	},
+	
+	{
+		"attack" : 1348,
+		"baseExp" : 3475247087.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 674,
+		"dps" : 75680,
+		"dropLevelExp" : 321400,
+		"level" : 365,
+		"life" : 26960,
+		"pass" : 674,
+		"upgradeNeedExperience" : 1324812923654.0
+	},
+	
+	{
+		"attack" : 1352,
+		"baseExp" : 3541512142.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 676,
+		"dps" : 76644,
+		"dropLevelExp" : 322500,
+		"level" : 366,
+		"life" : 27040,
+		"pass" : 676,
+		"upgradeNeedExperience" : 1361709880928.0
+	},
+	
+	{
+		"attack" : 1356,
+		"baseExp" : 3608960469.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 678,
+		"dps" : 77621,
+		"dropLevelExp" : 323600,
+		"level" : 367,
+		"life" : 27120,
+		"pass" : 678,
+		"upgradeNeedExperience" : 1399504993868.0
+	},
+	
+	{
+		"attack" : 1360,
+		"baseExp" : 3677614463.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 680,
+		"dps" : 78610,
+		"dropLevelExp" : 324700,
+		"level" : 368,
+		"life" : 27200,
+		"pass" : 680,
+		"upgradeNeedExperience" : 1438214963832.0
+	},
+	
+	{
+		"attack" : 1364,
+		"baseExp" : 3747493722.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 682,
+		"dps" : 79612,
+		"dropLevelExp" : 325800,
+		"level" : 369,
+		"life" : 27280,
+		"pass" : 682,
+		"upgradeNeedExperience" : 1477859406680.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 3818617842.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 80626,
+		"dropLevelExp" : 326900,
+		"level" : 370,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 1518454103848.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 3891007352.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 81653,
+		"dropLevelExp" : 328000,
+		"level" : 371,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 1560027667125.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 3964685583.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 82693,
+		"dropLevelExp" : 329100,
+		"level" : 372,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 1602597987432.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 4039671199.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 83746,
+		"dropLevelExp" : 330200,
+		"level" : 373,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 1646185376850.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 4115988460.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 84812,
+		"dropLevelExp" : 331300,
+		"level" : 374,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 1690808282156.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 4193656966.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 85891,
+		"dropLevelExp" : 332400,
+		"level" : 375,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 1736496685968.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 4272701911.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 86985,
+		"dropLevelExp" : 333500,
+		"level" : 376,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 1783270098225.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 4353143825.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 88092,
+		"dropLevelExp" : 334600,
+		"level" : 377,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 1831146061473.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 4435006971.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 89213,
+		"dropLevelExp" : 335700,
+		"level" : 378,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 1880157877424.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 4518314678.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 90348,
+		"dropLevelExp" : 336800,
+		"level" : 379,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 1930324947425.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 4603091209.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 91497,
+		"dropLevelExp" : 337900,
+		"level" : 380,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 1981671959916.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 4689360828.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 92661,
+		"dropLevelExp" : 339000,
+		"level" : 381,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 2034218897160.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 4777147795.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 93840,
+		"dropLevelExp" : 340100,
+		"level" : 382,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 2088001041750.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 4866476375.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 95033,
+		"dropLevelExp" : 341200,
+		"level" : 383,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 2143039106306.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 4957373629.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 96241,
+		"dropLevelExp" : 342300,
+		"level" : 384,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 2199360297141.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 5049864753.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 97465,
+		"dropLevelExp" : 343400,
+		"level" : 385,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 2256985930725.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 5143975876.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 98704,
+		"dropLevelExp" : 344500,
+		"level" : 386,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 2315954208446.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 5239733127.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 99959,
+		"dropLevelExp" : 345600,
+		"level" : 387,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 2376287640743.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 5337164502.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 101229,
+		"dropLevelExp" : 346700,
+		"level" : 388,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 2438009527125.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 5436297062.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 102516,
+		"dropLevelExp" : 347800,
+		"level" : 389,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 2501160157572.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 5537158803.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 103819,
+		"dropLevelExp" : 348900,
+		"level" : 390,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 2565763662850.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 5639777721.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 105138,
+		"dropLevelExp" : 350000,
+		"level" : 391,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 2631850156692.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 5744182744.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 106474,
+		"dropLevelExp" : 351100,
+		"level" : 392,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 2699444403916.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 5850402801.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 107826,
+		"dropLevelExp" : 352200,
+		"level" : 393,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 2768589902316.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 5958468685.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 109196,
+		"dropLevelExp" : 353300,
+		"level" : 394,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 2839313178528.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 6068408394.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 110583,
+		"dropLevelExp" : 354400,
+		"level" : 395,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 2911645864420.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 6180254588.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 111987,
+		"dropLevelExp" : 355500,
+		"level" : 396,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 2985615591155.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 6294037129.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 113409,
+		"dropLevelExp" : 356600,
+		"level" : 397,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 3061268804100.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 6409788678.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 114849,
+		"dropLevelExp" : 357700,
+		"level" : 398,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 3138634085395.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 6527539097.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 116307,
+		"dropLevelExp" : 358800,
+		"level" : 399,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 3217745569470.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 6647322913.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 117784,
+		"dropLevelExp" : 359900,
+		"level" : 400,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 3298632975408.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 6769172788.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 119279,
+		"dropLevelExp" : 361000,
+		"level" : 401,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 3381346783269.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 6893121383.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 120793,
+		"dropLevelExp" : 362100,
+		"level" : 402,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 3465916791470.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 7019203225.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 122326,
+		"dropLevelExp" : 363200,
+		"level" : 403,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 3552373645492.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 7147452843.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 123878,
+		"dropLevelExp" : 364300,
+		"level" : 404,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 3640770872750.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 7277904764.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 125450,
+		"dropLevelExp" : 365400,
+		"level" : 405,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 3731140161630.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 7410596315.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 127042,
+		"dropLevelExp" : 366500,
+		"level" : 406,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 3823522485572.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 7545561091.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 128653,
+		"dropLevelExp" : 367600,
+		"level" : 407,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 3917949284695.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 7682837351.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 130285,
+		"dropLevelExp" : 368700,
+		"level" : 408,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 4014478989310.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 7822462424.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 131938,
+		"dropLevelExp" : 369800,
+		"level" : 409,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 4113146076138.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 7964473636.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 133611,
+		"dropLevelExp" : 370900,
+		"level" : 410,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 4213993453856.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 8108909247.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 135306,
+		"dropLevelExp" : 372000,
+		"level" : 411,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 4317056329120.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 8255808452.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 137022,
+		"dropLevelExp" : 373100,
+		"level" : 412,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 4422396822690.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 8405210443.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 138759,
+		"dropLevelExp" : 374200,
+		"level" : 413,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 4530051814080.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 8557156280.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 140519,
+		"dropLevelExp" : 375300,
+		"level" : 414,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 4640059074960.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 8711686091.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 142300,
+		"dropLevelExp" : 376400,
+		"level" : 415,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 4752483751807.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 8868840935.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 144104,
+		"dropLevelExp" : 377500,
+		"level" : 416,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 4867364849456.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 9028663738.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 145931,
+		"dropLevelExp" : 378600,
+		"level" : 417,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 4984751950026.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 9191196494.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 147781,
+		"dropLevelExp" : 379700,
+		"level" : 418,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 5104684832349.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 9356483062.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 149654,
+		"dropLevelExp" : 380800,
+		"level" : 419,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 5227234240896.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 9524566367.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 151550,
+		"dropLevelExp" : 381900,
+		"level" : 420,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 5352441775558.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 9695492137.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 153471,
+		"dropLevelExp" : 383000,
+		"level" : 421,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 5480360858154.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 9869304229.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 155416,
+		"dropLevelExp" : 384100,
+		"level" : 422,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 5611033874544.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 10046050238.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 157385,
+		"dropLevelExp" : 385200,
+		"level" : 423,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 5744537460233.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 10225775887.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 159379,
+		"dropLevelExp" : 386300,
+		"level" : 424,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 5880916450644.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 10408529703.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 161398,
+		"dropLevelExp" : 387400,
+		"level" : 425,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 6020217137472.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 10594357411.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 163443,
+		"dropLevelExp" : 388500,
+		"level" : 426,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 6162518084292.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 10783310337.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 165513,
+		"dropLevelExp" : 389600,
+		"level" : 427,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 6307868664490.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 10975436072.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 167610,
+		"dropLevelExp" : 390700,
+		"level" : 428,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 6456327688410.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 11170785940.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 169733,
+		"dropLevelExp" : 391800,
+		"level" : 429,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 6607944829436.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 11369410335.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 171882,
+		"dropLevelExp" : 392900,
+		"level" : 430,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 6762805579794.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 11571362447.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 174059,
+		"dropLevelExp" : 394000,
+		"level" : 431,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 6920962278720.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 11776692667.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 176263,
+		"dropLevelExp" : 395100,
+		"level" : 432,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 7082478042428.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 11985456054.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 178495,
+		"dropLevelExp" : 396200,
+		"level" : 433,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 7247406627318.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 12197705799.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 180755,
+		"dropLevelExp" : 397300,
+		"level" : 434,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 7415839682505.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 12413497891.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 183044,
+		"dropLevelExp" : 398400,
+		"level" : 435,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 7587833187676.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 12632887390.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 185361,
+		"dropLevelExp" : 399500,
+		"level" : 436,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 7763455905088.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 12855930285.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 187708,
+		"dropLevelExp" : 400600,
+		"level" : 437,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 7942764120870.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 13082685367.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 190084,
+		"dropLevelExp" : 401700,
+		"level" : 438,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 8125857682536.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 13313209559.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 192490,
+		"dropLevelExp" : 402800,
+		"level" : 439,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 8312795197611.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 13547563520.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 194926,
+		"dropLevelExp" : 403900,
+		"level" : 440,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 8503637384780.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 13785806038.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 197393,
+		"dropLevelExp" : 405000,
+		"level" : 441,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 8698487880152.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 14027998703.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 199892,
+		"dropLevelExp" : 406100,
+		"level" : 442,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 8897409821799.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 14274204039.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 202421,
+		"dropLevelExp" : 407200,
+		"level" : 443,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 9100482018936.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 14524482703.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 204983,
+		"dropLevelExp" : 408300,
+		"level" : 444,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 9307767342192.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 14778900016.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 207577,
+		"dropLevelExp" : 409400,
+		"level" : 445,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 9519378885929.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 15037521301.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 210203,
+		"dropLevelExp" : 410500,
+		"level" : 446,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 9735384450486.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 15300410015.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 212863,
+		"dropLevelExp" : 411600,
+		"level" : 447,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 9955866776852.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 15567634280.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 215556,
+		"dropLevelExp" : 412700,
+		"level" : 448,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 10180895809277.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 15839261284.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 218283,
+		"dropLevelExp" : 413800,
+		"level" : 449,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 10410591530240.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 16115360083.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 221044,
+		"dropLevelExp" : 414900,
+		"level" : 450,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 10645026568617.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 16395998799.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 223840,
+		"dropLevelExp" : 416000,
+		"level" : 451,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 10884272667597.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 16681249286.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 226672,
+		"dropLevelExp" : 417100,
+		"level" : 452,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 11128457360574.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 16971183400.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 229539,
+		"dropLevelExp" : 418200,
+		"level" : 453,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 11377657021782.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 17265872062.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 232442,
+		"dropLevelExp" : 419300,
+		"level" : 454,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 11631965610720.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 17565391792.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 235382,
+		"dropLevelExp" : 420400,
+		"level" : 455,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 11891462986566.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 17869814447.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 238359,
+		"dropLevelExp" : 421500,
+		"level" : 456,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 12156282983696.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 18179218411.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 241373,
+		"dropLevelExp" : 422600,
+		"level" : 457,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 12426509023880.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 18493679274.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 244425,
+		"dropLevelExp" : 423700,
+		"level" : 458,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 12702242138763.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 18813276356.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 247516,
+		"dropLevelExp" : 424800,
+		"level" : 459,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 12983566769343.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 19138088042.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 250646,
+		"dropLevelExp" : 425900,
+		"level" : 460,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 13270627885480.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 19468194588.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 253815,
+		"dropLevelExp" : 427000,
+		"level" : 461,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 13563512997075.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 19803679045.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 257024,
+		"dropLevelExp" : 428100,
+		"level" : 462,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 13862311224916.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 20144623534.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 260274,
+		"dropLevelExp" : 429200,
+		"level" : 463,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 14167175425200.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 20491112040.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 263564,
+		"dropLevelExp" : 430300,
+		"level" : 464,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 14478197911983.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 20843230417.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 266896,
+		"dropLevelExp" : 431400,
+		"level" : 465,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 14795494290494.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 21201064516.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 270270,
+		"dropLevelExp" : 432500,
+		"level" : 466,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 15119158575440.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 21564702057.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 273686,
+		"dropLevelExp" : 433600,
+		"level" : 467,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 15449355015138.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 21934232625.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 277146,
+		"dropLevelExp" : 434700,
+		"level" : 468,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 15786182969830.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 22309747670.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 280649,
+		"dropLevelExp" : 435800,
+		"level" : 469,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 16129766662569.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 22691337713.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 284196,
+		"dropLevelExp" : 436900,
+		"level" : 470,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 16480206524761.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 23079095136.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 287788,
+		"dropLevelExp" : 438000,
+		"level" : 471,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 16837678072404.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 23473116059.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 291425,
+		"dropLevelExp" : 439100,
+		"level" : 472,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 17202288647401.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 23873495665.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 295108,
+		"dropLevelExp" : 440200,
+		"level" : 473,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 17574170075560.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 24280331004.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 298838,
+		"dropLevelExp" : 441300,
+		"level" : 474,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 17953430795118.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 24693720061.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 302614,
+		"dropLevelExp" : 442400,
+		"level" : 475,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 18340258827087.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 25113763619.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 306438,
+		"dropLevelExp" : 443500,
+		"level" : 476,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 18734768391104.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 25540564328.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 310310,
+		"dropLevelExp" : 444600,
+		"level" : 477,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 19137074643740.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 25974222970.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 314231,
+		"dropLevelExp" : 445700,
+		"level" : 478,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 19547374330001.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 26414844996.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 318201,
+		"dropLevelExp" : 446800,
+		"level" : 479,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 19965787860312.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 26862536788.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 322222,
+		"dropLevelExp" : 447900,
+		"level" : 480,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 20392464651845.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 27317405661.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 326293,
+		"dropLevelExp" : 449000,
+		"level" : 481,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 20827526958323.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 27779559863.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 330415,
+		"dropLevelExp" : 450100,
+		"level" : 482,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 21271186484040.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 28249111378.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 334589,
+		"dropLevelExp" : 451200,
+		"level" : 483,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 21723572388960.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 28726171252.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 338816,
+		"dropLevelExp" : 452300,
+		"level" : 484,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 22184843370568.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 29210854268.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 343096,
+		"dropLevelExp" : 453400,
+		"level" : 485,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 22655131178724.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 29703275205.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 347430,
+		"dropLevelExp" : 454500,
+		"level" : 486,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 23134662452110.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 30203552578.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 351819,
+		"dropLevelExp" : 455600,
+		"level" : 487,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 23623575397308.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 30711803034.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 356263,
+		"dropLevelExp" : 456700,
+		"level" : 488,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 24122006185224.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 31228148820.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 360763,
+		"dropLevelExp" : 457800,
+		"level" : 489,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 24630195115855.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 31752712182.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 365319,
+		"dropLevelExp" : 458900,
+		"level" : 490,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 25148286461324.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 32285617233.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 369933,
+		"dropLevelExp" : 460000,
+		"level" : 491,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 25676459951454.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 32826989018.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 374605,
+		"dropLevelExp" : 461100,
+		"level" : 492,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 26214862515345.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 33376955385.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 379337,
+		"dropLevelExp" : 462200,
+		"level" : 493,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 26763749914260.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 33935646043.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 384127,
+		"dropLevelExp" : 463300,
+		"level" : 494,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 27323276729474.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 34503192573.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 388978,
+		"dropLevelExp" : 464400,
+		"level" : 495,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 27893635353792.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 35079728417.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 393890,
+		"dropLevelExp" : 465500,
+		"level" : 496,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 28474983833142.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 35665387955.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 398864,
+		"dropLevelExp" : 466600,
+		"level" : 497,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 29067594875623.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 36260309297.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 403901,
+		"dropLevelExp" : 467700,
+		"level" : 498,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 29671634480768.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 36864630552.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 409001,
+		"dropLevelExp" : 468800,
+		"level" : 499,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 30287307437586.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 37478493565.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 414166,
+		"dropLevelExp" : 469900,
+		"level" : 500,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 30914783267589.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 38102040179.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 419395,
+		"dropLevelExp" : 471000,
+		"level" : 501,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 32057709816408.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 38735416902.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 424691,
+		"dropLevelExp" : 472100,
+		"level" : 502,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 33229642997893.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 39378770244.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 430053,
+		"dropLevelExp" : 473200,
+		"level" : 503,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 34431197426472.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 40032249514.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 435482,
+		"dropLevelExp" : 474300,
+		"level" : 504,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 35662999878620.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 40696005887.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 440981,
+		"dropLevelExp" : 475400,
+		"level" : 505,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 36925688677060.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 41370193336.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 446548,
+		"dropLevelExp" : 476500,
+		"level" : 506,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 38219914706832.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 42054967704.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 452185,
+		"dropLevelExp" : 477600,
+		"level" : 507,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 39546340768704.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 42750485764.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 457894,
+		"dropLevelExp" : 478700,
+		"level" : 508,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 40905640840213.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 43456909889.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 463674,
+		"dropLevelExp" : 479800,
+		"level" : 509,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 42298504694160.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 44174400587.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 469528,
+		"dropLevelExp" : 480900,
+		"level" : 510,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 43725630970868.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 44903123963.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 475455,
+		"dropLevelExp" : 482000,
+		"level" : 511,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 45187734536984.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 45643247055.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 481457,
+		"dropLevelExp" : 483100,
+		"level" : 512,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 46685542174884.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 46394937838.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 487534,
+		"dropLevelExp" : 484200,
+		"level" : 513,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 48219792659648.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 47158369881.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 493688,
+		"dropLevelExp" : 485300,
+		"level" : 514,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 49791241762430.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 47933717689.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 499919,
+		"dropLevelExp" : 486400,
+		"level" : 515,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 51400657708938.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 48721156701.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 506229,
+		"dropLevelExp" : 487500,
+		"level" : 516,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 53048821256409.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 49520867019.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 512619,
+		"dropLevelExp" : 488600,
+		"level" : 517,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 54736529896440.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 50333030613.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 519089,
+		"dropLevelExp" : 489700,
+		"level" : 518,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 56464595099286.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 51157832254.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 525641,
+		"dropLevelExp" : 490800,
+		"level" : 519,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 58233843530064.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 51995457643.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 532275,
+		"dropLevelExp" : 491900,
+		"level" : 520,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 60045115124380.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 52846098083.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 538992,
+		"dropLevelExp" : 493000,
+		"level" : 521,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 61899268630524.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 53709944874.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 545795,
+		"dropLevelExp" : 494100,
+		"level" : 522,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 63797175420686.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 54587193986.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 552683,
+		"dropLevelExp" : 495200,
+		"level" : 523,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 65739725110126.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 55478042318.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 559657,
+		"dropLevelExp" : 496300,
+		"level" : 524,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 67727821385133.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 56382691437.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 566720,
+		"dropLevelExp" : 497400,
+		"level" : 525,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 69762386698496.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 57301343844.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 573872,
+		"dropLevelExp" : 498500,
+		"level" : 526,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 71844296569866.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 58234205770.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 581114,
+		"dropLevelExp" : 499600,
+		"level" : 527,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 73974627837061.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 59181488115.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 588447,
+		"dropLevelExp" : 500700,
+		"level" : 528,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 76154294721680.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 60143400843.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 595872,
+		"dropLevelExp" : 501800,
+		"level" : 529,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 78384284566203.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 61120160453.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 603391,
+		"dropLevelExp" : 502900,
+		"level" : 530,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 80665607189796.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 62111985307.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 611005,
+		"dropLevelExp" : 504000,
+		"level" : 531,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 82999289192171.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 63119095637.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 618715,
+		"dropLevelExp" : 505100,
+		"level" : 532,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 85386374107536.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 64141716339.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 626521,
+		"dropLevelExp" : 506200,
+		"level" : 533,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 87827926391894.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 65180074174.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 634427,
+		"dropLevelExp" : 507300,
+		"level" : 534,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 90325027928384.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 66234401506.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 642431,
+		"dropLevelExp" : 508400,
+		"level" : 535,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 92878783415523.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 67304930695.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 650537,
+		"dropLevelExp" : 509500,
+		"level" : 536,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 95490312885248.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 68391898769.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 658745,
+		"dropLevelExp" : 510600,
+		"level" : 537,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 98160758399731.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 69495547421.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 667056,
+		"dropLevelExp" : 511700,
+		"level" : 538,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 100891284436254.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 70616120211.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 675472,
+		"dropLevelExp" : 512800,
+		"level" : 539,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 103683074161625.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 71753863499.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 683994,
+		"dropLevelExp" : 513900,
+		"level" : 540,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 106537330971676.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 72909028309.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 692623,
+		"dropLevelExp" : 515000,
+		"level" : 541,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 109455281524074.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 74081869400.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 701361,
+		"dropLevelExp" : 516100,
+		"level" : 542,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 112438174706858.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 75272644329.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 710210,
+		"dropLevelExp" : 517200,
+		"level" : 543,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 115487280514606.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 76481614386.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 719169,
+		"dropLevelExp" : 518300,
+		"level" : 544,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 118603891726488.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 77709043661.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 728242,
+		"dropLevelExp" : 519400,
+		"level" : 545,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 121789322751643.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 78955202776.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 737429,
+		"dropLevelExp" : 520500,
+		"level" : 546,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 125044915771776.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 80220362352.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 746731,
+		"dropLevelExp" : 521600,
+		"level" : 547,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 128372030826792.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 81504798612.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 756151,
+		"dropLevelExp" : 522700,
+		"level" : 548,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 131772054867044.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 82808793374.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 765690,
+		"dropLevelExp" : 523800,
+		"level" : 549,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 135246402215183.0
+	},
+	
+	{
+		"attack" : 1368,
+		"baseExp" : 84132628460.0,
+		"bossBaseExp" : 900000.0,
+		"defense" : 684,
+		"dps" : 775348,
+		"dropLevelExp" : 524900,
+		"level" : 550,
+		"life" : 27360,
+		"pass" : 684,
+		"upgradeNeedExperience" : 138796505791020.0
+	}
+]

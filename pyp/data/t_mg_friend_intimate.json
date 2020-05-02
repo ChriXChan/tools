@@ -1,0 +1,110 @@
+
+[
+	
+	{
+		"buffDesc" : "无",
+		"color" : 4,
+		"name" : "萍水相逢",
+		"valueMax" : 998
+	},
+	
+	{
+		"buffDesc" : "攻击+190,生命+3800,杀怪经验+1%",
+		"buffId" : 25010001,
+		"color" : 5,
+		"level" : 1,
+		"name" : "相见恨晚",
+		"valueMax" : 1998,
+		"valueMin" : 999
+	},
+	
+	{
+		"buffDesc" : "攻击+420,生命+8400,杀怪经验+2%",
+		"buffId" : 25020001,
+		"color" : 5,
+		"level" : 2,
+		"name" : "志同道合",
+		"valueMax" : 3343,
+		"valueMin" : 1999
+	},
+	
+	{
+		"buffDesc" : "攻击+700,生命+14000,杀怪经验+3%",
+		"buffId" : 25030001,
+		"color" : 6,
+		"level" : 3,
+		"name" : "患难与共",
+		"valueMax" : 5199,
+		"valueMin" : 3344
+	},
+	
+	{
+		"buffDesc" : "攻击+1030,生命+20600,杀怪经验+4%",
+		"buffId" : 25040001,
+		"color" : 6,
+		"level" : 4,
+		"name" : "义结金兰",
+		"valueMax" : 9998,
+		"valueMin" : 5200
+	},
+	
+	{
+		"buffDesc" : "攻击+1430,生命+28600,杀怪经验+5%",
+		"buffId" : 25050001,
+		"color" : 6,
+		"level" : 5,
+		"name" : "情深似海",
+		"valueMax" : 16919,
+		"valueMin" : 9999
+	},
+	
+	{
+		"buffDesc" : "攻击+1910,生命+38200,杀怪经验+6%",
+		"buffId" : 25060001,
+		"color" : 8,
+		"level" : 6,
+		"name" : "肝胆相照",
+		"valueMax" : 28919,
+		"valueMin" : 16920
+	},
+	
+	{
+		"buffDesc" : "攻击+2485,生命+49700,杀怪经验+7%",
+		"buffId" : 25070001,
+		"color" : 8,
+		"level" : 7,
+		"name" : "亲密无间",
+		"valueMax" : 49998,
+		"valueMin" : 28920
+	},
+	
+	{
+		"buffDesc" : "攻击+3175,生命+63500,杀怪经验+8%",
+		"buffId" : 25080001,
+		"color" : 8,
+		"level" : 8,
+		"name" : "心有灵犀",
+		"valueMax" : 99998,
+		"valueMin" : 49999
+	},
+	
+	{
+		"buffDesc" : "攻击+4005,生命+80100,杀怪经验+9%",
+		"buffId" : 25090001,
+		"color" : 7,
+		"level" : 9,
+		"name" : "心心相印",
+		"valueMax" : 199998,
+		"valueMin" : 99999
+	},
+	
+	{
+		"buffDesc" : "攻击+5000,生命+100000,杀怪经验+10%",
+		"buffId" : 25100001,
+		"color" : 7,
+		"level" : 10,
+		"name" : "白首同归",
+		"valueMax" : 999999999,
+		"valueMin" : 199999
+	}
+]

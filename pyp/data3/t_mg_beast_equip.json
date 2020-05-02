@@ -1,0 +1,553 @@
+
+[
+	
+	{
+		"code" : 34001001,
+		"color" : 1,
+		"decomposeExp" : 3,
+		"equipType" : 1,
+		"star" : 1,
+		"starAttrList" : "1,30#2,1200#"
+	},
+	
+	{
+		"code" : 34001002,
+		"color" : 1,
+		"decomposeExp" : 3,
+		"equipType" : 1,
+		"star" : 2,
+		"starAttrList" : "1,136#2,5440#"
+	},
+	
+	{
+		"code" : 34001101,
+		"color" : 3,
+		"decomposeExp" : 30,
+		"equipType" : 1,
+		"star" : 1,
+		"starAttrList" : "1,135#2,5400#"
+	},
+	
+	{
+		"code" : 34001102,
+		"color" : 3,
+		"decomposeExp" : 30,
+		"equipType" : 1,
+		"star" : 2,
+		"starAttrList" : "1,342#2,13680#"
+	},
+	
+	{
+		"code" : 34001103,
+		"color" : 3,
+		"decomposeExp" : 30,
+		"equipType" : 1,
+		"star" : 3,
+		"starAttrList" : "1,633#2,25320#"
+	},
+	
+	{
+		"code" : 34001201,
+		"color" : 4,
+		"decomposeExp" : 90,
+		"equipType" : 1,
+		"star" : 1,
+		"starAttrList" : "1,475#2,19000#"
+	},
+	
+	{
+		"code" : 34001202,
+		"color" : 4,
+		"decomposeExp" : 90,
+		"equipType" : 1,
+		"star" : 2,
+		"starAttrList" : "1,1045#2,41800#"
+	},
+	
+	{
+		"code" : 34001203,
+		"color" : 4,
+		"decomposeExp" : 90,
+		"equipType" : 1,
+		"star" : 3,
+		"starAttrList" : "1,1843#2,73720#"
+	},
+	
+	{
+		"code" : 34001303,
+		"color" : 5,
+		"decomposeExp" : 90,
+		"equipType" : 1,
+		"star" : 3,
+		"starAttrList" : "1,1400#2,56000#"
+	},
+	
+	{
+		"code" : 34001403,
+		"color" : 5,
+		"colorEx" : 1,
+		"decomposeExp" : 90,
+		"equipType" : 1,
+		"star" : 3,
+		"starAttrList" : "1,3868#2,154720#"
+	},
+	
+	{
+		"code" : 34001503,
+		"color" : 5,
+		"colorEx" : 2,
+		"decomposeExp" : 90,
+		"equipType" : 1,
+		"star" : 3,
+		"starAttrList" : "1,8232#2,329280#"
+	},
+	
+	{
+		"code" : 34001603,
+		"color" : 6,
+		"decomposeExp" : 90,
+		"equipType" : 1,
+		"star" : 3,
+		"starAttrList" : "1,6750#2,270000#"
+	},
+	
+	{
+		"code" : 34002001,
+		"color" : 1,
+		"decomposeExp" : 3,
+		"equipType" : 2,
+		"star" : 1,
+		"starAttrList" : "1,42#3,17#"
+	},
+	
+	{
+		"code" : 34002002,
+		"color" : 1,
+		"decomposeExp" : 3,
+		"equipType" : 2,
+		"star" : 2,
+		"starAttrList" : "1,194#3,77#"
+	},
+	
+	{
+		"code" : 34002101,
+		"color" : 3,
+		"decomposeExp" : 30,
+		"equipType" : 2,
+		"star" : 1,
+		"starAttrList" : "1,192#3,77#"
+	},
+	
+	{
+		"code" : 34002102,
+		"color" : 3,
+		"decomposeExp" : 30,
+		"equipType" : 2,
+		"star" : 2,
+		"starAttrList" : "1,488#3,195#"
+	},
+	
+	{
+		"code" : 34002103,
+		"color" : 3,
+		"decomposeExp" : 30,
+		"equipType" : 2,
+		"star" : 3,
+		"starAttrList" : "1,904#3,361#"
+	},
+	
+	{
+		"code" : 34002201,
+		"color" : 4,
+		"decomposeExp" : 90,
+		"equipType" : 2,
+		"star" : 1,
+		"starAttrList" : "1,678#3,271#"
+	},
+	
+	{
+		"code" : 34002202,
+		"color" : 4,
+		"decomposeExp" : 90,
+		"equipType" : 2,
+		"star" : 2,
+		"starAttrList" : "1,1492#3,597#"
+	},
+	
+	{
+		"code" : 34002203,
+		"color" : 4,
+		"decomposeExp" : 90,
+		"equipType" : 2,
+		"star" : 3,
+		"starAttrList" : "1,2632#3,1053#"
+	},
+	
+	{
+		"code" : 34002303,
+		"color" : 5,
+		"decomposeExp" : 90,
+		"equipType" : 2,
+		"star" : 3,
+		"starAttrList" : "1,2000#3,800#"
+	},
+	
+	{
+		"code" : 34002403,
+		"color" : 5,
+		"colorEx" : 1,
+		"decomposeExp" : 90,
+		"equipType" : 2,
+		"star" : 3,
+		"starAttrList" : "1,5525#3,2210#"
+	},
+	
+	{
+		"code" : 34002503,
+		"color" : 5,
+		"colorEx" : 2,
+		"decomposeExp" : 90,
+		"equipType" : 2,
+		"star" : 3,
+		"starAttrList" : "1,11760#3,4704#"
+	},
+	
+	{
+		"code" : 34002603,
+		"color" : 6,
+		"decomposeExp" : 90,
+		"equipType" : 2,
+		"star" : 3,
+		"starAttrList" : "1,9642#3,3857#"
+	},
+	
+	{
+		"code" : 34003001,
+		"color" : 1,
+		"decomposeExp" : 3,
+		"equipType" : 3,
+		"star" : 1,
+		"starAttrList" : "2,1720#4,17#"
+	},
+	
+	{
+		"code" : 34003002,
+		"color" : 1,
+		"decomposeExp" : 3,
+		"equipType" : 3,
+		"star" : 2,
+		"starAttrList" : "2,7800#4,77#"
+	},
+	
+	{
+		"code" : 34003101,
+		"color" : 3,
+		"decomposeExp" : 30,
+		"equipType" : 3,
+		"star" : 1,
+		"starAttrList" : "2,7720#4,77#"
+	},
+	
+	{
+		"code" : 34003102,
+		"color" : 3,
+		"decomposeExp" : 30,
+		"equipType" : 3,
+		"star" : 2,
+		"starAttrList" : "2,19560#4,195#"
+	},
+	
+	{
+		"code" : 34003103,
+		"color" : 3,
+		"decomposeExp" : 30,
+		"equipType" : 3,
+		"star" : 3,
+		"starAttrList" : "2,36200#4,361#"
+	},
+	
+	{
+		"code" : 34003201,
+		"color" : 4,
+		"decomposeExp" : 90,
+		"equipType" : 3,
+		"star" : 1,
+		"starAttrList" : "2,27160#4,271#"
+	},
+	
+	{
+		"code" : 34003202,
+		"color" : 4,
+		"decomposeExp" : 90,
+		"equipType" : 3,
+		"star" : 2,
+		"starAttrList" : "2,59720#4,597#"
+	},
+	
+	{
+		"code" : 34003203,
+		"color" : 4,
+		"decomposeExp" : 90,
+		"equipType" : 3,
+		"star" : 3,
+		"starAttrList" : "2,105320#4,1053#"
+	},
+	
+	{
+		"code" : 34003303,
+		"color" : 5,
+		"decomposeExp" : 90,
+		"equipType" : 3,
+		"star" : 3,
+		"starAttrList" : "2,80000#4,800#"
+	},
+	
+	{
+		"code" : 34003403,
+		"color" : 5,
+		"colorEx" : 1,
+		"decomposeExp" : 90,
+		"equipType" : 3,
+		"star" : 3,
+		"starAttrList" : "2,221040#4,2210#"
+	},
+	
+	{
+		"code" : 34003503,
+		"color" : 5,
+		"colorEx" : 2,
+		"decomposeExp" : 90,
+		"equipType" : 3,
+		"star" : 3,
+		"starAttrList" : "2,470400#4,4704#"
+	},
+	
+	{
+		"code" : 34003603,
+		"color" : 6,
+		"decomposeExp" : 90,
+		"equipType" : 3,
+		"star" : 3,
+		"starAttrList" : "2,385720#4,3857#"
+	},
+	
+	{
+		"code" : 34004001,
+		"color" : 1,
+		"decomposeExp" : 3,
+		"equipType" : 4,
+		"star" : 1,
+		"starAttrList" : "1,42#3,17#"
+	},
+	
+	{
+		"code" : 34004002,
+		"color" : 1,
+		"decomposeExp" : 3,
+		"equipType" : 4,
+		"star" : 2,
+		"starAttrList" : "1,194#3,77#"
+	},
+	
+	{
+		"code" : 34004101,
+		"color" : 3,
+		"decomposeExp" : 30,
+		"equipType" : 4,
+		"star" : 1,
+		"starAttrList" : "1,192#3,77#"
+	},
+	
+	{
+		"code" : 34004102,
+		"color" : 3,
+		"decomposeExp" : 30,
+		"equipType" : 4,
+		"star" : 2,
+		"starAttrList" : "1,488#3,195#"
+	},
+	
+	{
+		"code" : 34004103,
+		"color" : 3,
+		"decomposeExp" : 30,
+		"equipType" : 4,
+		"star" : 3,
+		"starAttrList" : "1,904#3,361#"
+	},
+	
+	{
+		"code" : 34004201,
+		"color" : 4,
+		"decomposeExp" : 90,
+		"equipType" : 4,
+		"star" : 1,
+		"starAttrList" : "1,678#3,271#"
+	},
+	
+	{
+		"code" : 34004202,
+		"color" : 4,
+		"decomposeExp" : 90,
+		"equipType" : 4,
+		"star" : 2,
+		"starAttrList" : "1,1492#3,597#"
+	},
+	
+	{
+		"code" : 34004203,
+		"color" : 4,
+		"decomposeExp" : 90,
+		"equipType" : 4,
+		"star" : 3,
+		"starAttrList" : "1,2632#3,1053#"
+	},
+	
+	{
+		"code" : 34004303,
+		"color" : 5,
+		"decomposeExp" : 90,
+		"equipType" : 4,
+		"star" : 3,
+		"starAttrList" : "1,2000#3,800#"
+	},
+	
+	{
+		"code" : 34004403,
+		"color" : 5,
+		"colorEx" : 1,
+		"decomposeExp" : 90,
+		"equipType" : 4,
+		"star" : 3,
+		"starAttrList" : "1,5525#3,2210#"
+	},
+	
+	{
+		"code" : 34004503,
+		"color" : 5,
+		"colorEx" : 2,
+		"decomposeExp" : 90,
+		"equipType" : 4,
+		"star" : 3,
+		"starAttrList" : "1,11760#3,4704#"
+	},
+	
+	{
+		"code" : 34004603,
+		"color" : 6,
+		"decomposeExp" : 90,
+		"equipType" : 4,
+		"star" : 3,
+		"starAttrList" : "1,9642#3,3857#"
+	},
+	
+	{
+		"code" : 34005001,
+		"color" : 1,
+		"decomposeExp" : 3,
+		"equipType" : 5,
+		"star" : 1,
+		"starAttrList" : "2,1720#4,17#"
+	},
+	
+	{
+		"code" : 34005002,
+		"color" : 1,
+		"decomposeExp" : 3,
+		"equipType" : 5,
+		"star" : 2,
+		"starAttrList" : "2,7800#4,77#"
+	},
+	
+	{
+		"code" : 34005101,
+		"color" : 3,
+		"decomposeExp" : 30,
+		"equipType" : 5,
+		"star" : 1,
+		"starAttrList" : "2,7720#4,77#"
+	},
+	
+	{
+		"code" : 34005102,
+		"color" : 3,
+		"decomposeExp" : 30,
+		"equipType" : 5,
+		"star" : 2,
+		"starAttrList" : "2,19560#4,195#"
+	},
+	
+	{
+		"code" : 34005103,
+		"color" : 3,
+		"decomposeExp" : 30,
+		"equipType" : 5,
+		"star" : 3,
+		"starAttrList" : "2,36200#4,361#"
+	},
+	
+	{
+		"code" : 34005201,
+		"color" : 4,
+		"decomposeExp" : 90,
+		"equipType" : 5,
+		"star" : 1,
+		"starAttrList" : "2,27160#4,271#"
+	},
+	
+	{
+		"code" : 34005202,
+		"color" : 4,
+		"decomposeExp" : 90,
+		"equipType" : 5,
+		"star" : 2,
+		"starAttrList" : "2,59720#4,597#"
+	},
+	
+	{
+		"code" : 34005203,
+		"color" : 4,
+		"decomposeExp" : 90,
+		"equipType" : 5,
+		"star" : 3,
+		"starAttrList" : "2,105320#4,1053#"
+	},
+	
+	{
+		"code" : 34005303,
+		"color" : 5,
+		"decomposeExp" : 90,
+		"equipType" : 5,
+		"star" : 3,
+		"starAttrList" : "2,80000#4,800#"
+	},
+	
+	{
+		"code" : 34005403,
+		"color" : 5,
+		"colorEx" : 1,
+		"decomposeExp" : 90,
+		"equipType" : 5,
+		"star" : 3,
+		"starAttrList" : "2,221040#4,2210#"
+	},
+	
+	{
+		"code" : 34005503,
+		"color" : 5,
+		"colorEx" : 2,
+		"decomposeExp" : 90,
+		"equipType" : 5,
+		"star" : 3,
+		"starAttrList" : "2,470400#4,4704#"
+	},
+	
+	{
+		"code" : 34005603,
+		"color" : 6,
+		"decomposeExp" : 90,
+		"equipType" : 5,
+		"star" : 3,
+		"starAttrList" : "2,385720#4,3857#"
+	}
+]

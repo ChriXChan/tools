@@ -1,0 +1,42 @@
+
+[
+	
+	{
+		"mainMapId" : 100000,
+		"mainX" : 5,
+		"mainY" : 18,
+		"mapId" : 100000,
+		"x" : 5,
+		"y" : 18
+	},
+	
+	{
+		"camp" : 1,
+		"mainMapId" : 100000,
+		"mainX" : 5,
+		"mainY" : 18,
+		"mapId" : 100000,
+		"x" : 5,
+		"y" : 18
+	},
+	
+	{
+		"camp" : 2,
+		"mainMapId" : 100000,
+		"mainX" : 5,
+		"mainY" : 18,
+		"mapId" : 100000,
+		"x" : 5,
+		"y" : 18
+	},
+	
+	{
+		"camp" : 3,
+		"mainMapId" : 100000,
+		"mainX" : 5,
+		"mainY" : 18,
+		"mapId" : 100000,
+		"x" : 5,
+		"y" : 18
+	}
+]

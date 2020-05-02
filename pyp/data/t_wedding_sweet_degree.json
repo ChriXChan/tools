@@ -1,0 +1,75 @@
+
+[
+	
+	{
+		"candy" : 26000401,
+		"candyNum" : 11,
+		"collectLimit" : 3,
+		"sweetDegree" : 520,
+		"type" : 1
+	},
+	
+	{
+		"candy" : 26000402,
+		"candyNum" : 12,
+		"collectLimit" : 3,
+		"sweetDegree" : 1314,
+		"type" : 1
+	},
+	
+	{
+		"candy" : 26000403,
+		"candyNum" : 13,
+		"collectLimit" : 3,
+		"sweetDegree" : 3344,
+		"type" : 1
+	},
+	
+	{
+		"candy" : 26000401,
+		"candyNum" : 11,
+		"collectLimit" : 3,
+		"sweetDegree" : 520,
+		"type" : 2
+	},
+	
+	{
+		"candy" : 26000402,
+		"candyNum" : 12,
+		"collectLimit" : 3,
+		"sweetDegree" : 1314,
+		"type" : 2
+	},
+	
+	{
+		"candy" : 26000403,
+		"candyNum" : 13,
+		"collectLimit" : 3,
+		"sweetDegree" : 3344,
+		"type" : 2
+	},
+	
+	{
+		"candy" : 26000401,
+		"candyNum" : 11,
+		"collectLimit" : 3,
+		"sweetDegree" : 520,
+		"type" : 3
+	},
+	
+	{
+		"candy" : 26000402,
+		"candyNum" : 12,
+		"collectLimit" : 3,
+		"sweetDegree" : 1314,
+		"type" : 3
+	},
+	
+	{
+		"candy" : 26000403,
+		"candyNum" : 13,
+		"collectLimit" : 3,
+		"sweetDegree" : 3344,
+		"type" : 3
+	}
+]

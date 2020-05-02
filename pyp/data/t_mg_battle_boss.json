@@ -1,0 +1,197 @@
+
+[
+	
+	{
+		"bossCode" : 10910001,
+		"force" : 1,
+		"offsetX" : 1,
+		"offsetY" : 1,
+		"pointX" : 52,
+		"ponitY" : 28,
+		"refreshBossCode" : 10910051
+	},
+	
+	{
+		"bossCode" : 10910001,
+		"force" : 1,
+		"offsetX" : 1,
+		"offsetY" : 2,
+		"pointX" : 74,
+		"ponitY" : 61,
+		"refreshBossCode" : 10910051
+	},
+	
+	{
+		"bossCode" : 10910001,
+		"force" : 1,
+		"offsetX" : 1,
+		"offsetY" : 3,
+		"pointX" : 98,
+		"ponitY" : 103,
+		"refreshBossCode" : 10910051
+	},
+	
+	{
+		"bossCode" : 10910011,
+		"force" : 1,
+		"offsetX" : 2,
+		"offsetY" : 1,
+		"pointX" : 68,
+		"ponitY" : 26,
+		"refreshBossCode" : 10910061
+	},
+	
+	{
+		"bossCode" : 10910011,
+		"force" : 1,
+		"offsetX" : 2,
+		"offsetY" : 2,
+		"pointX" : 83,
+		"ponitY" : 52,
+		"refreshBossCode" : 10910061
+	},
+	
+	{
+		"bossCode" : 10910011,
+		"force" : 1,
+		"offsetX" : 2,
+		"offsetY" : 3,
+		"pointX" : 105,
+		"ponitY" : 82,
+		"refreshBossCode" : 10910061
+	},
+	
+	{
+		"bossCode" : 10910021,
+		"force" : 1,
+		"offsetX" : 3,
+		"offsetY" : 1,
+		"pointX" : 81,
+		"ponitY" : 26,
+		"refreshBossCode" : 10910071
+	},
+	
+	{
+		"bossCode" : 10910021,
+		"force" : 1,
+		"offsetX" : 3,
+		"offsetY" : 2,
+		"pointX" : 91,
+		"ponitY" : 43,
+		"refreshBossCode" : 10910071
+	},
+	
+	{
+		"bossCode" : 10910021,
+		"force" : 1,
+		"offsetX" : 3,
+		"offsetY" : 3,
+		"pointX" : 108,
+		"ponitY" : 57,
+		"refreshBossCode" : 10910071
+	},
+	
+	{
+		"bossCode" : 10910031,
+		"force" : 1,
+		"pointX" : 101,
+		"ponitY" : 33
+	},
+	
+	{
+		"bossCode" : 10910002,
+		"force" : 2,
+		"offsetX" : 1,
+		"offsetY" : 1,
+		"pointX" : 26,
+		"ponitY" : 40,
+		"refreshBossCode" : 10910052
+	},
+	
+	{
+		"bossCode" : 10910002,
+		"force" : 2,
+		"offsetX" : 1,
+		"offsetY" : 2,
+		"pointX" : 51,
+		"ponitY" : 83,
+		"refreshBossCode" : 10910052
+	},
+	
+	{
+		"bossCode" : 10910002,
+		"force" : 2,
+		"offsetX" : 1,
+		"offsetY" : 3,
+		"pointX" : 74,
+		"ponitY" : 118,
+		"refreshBossCode" : 10910052
+	},
+	
+	{
+		"bossCode" : 10910012,
+		"force" : 2,
+		"offsetX" : 2,
+		"offsetY" : 1,
+		"pointX" : 19,
+		"ponitY" : 63,
+		"refreshBossCode" : 10910062
+	},
+	
+	{
+		"bossCode" : 10910012,
+		"force" : 2,
+		"offsetX" : 2,
+		"offsetY" : 2,
+		"pointX" : 43,
+		"ponitY" : 92,
+		"refreshBossCode" : 10910062
+	},
+	
+	{
+		"bossCode" : 10910012,
+		"force" : 2,
+		"offsetX" : 2,
+		"offsetY" : 3,
+		"pointX" : 58,
+		"ponitY" : 119,
+		"refreshBossCode" : 10910062
+	},
+	
+	{
+		"bossCode" : 10910022,
+		"force" : 2,
+		"offsetX" : 3,
+		"offsetY" : 1,
+		"pointX" : 17,
+		"ponitY" : 87,
+		"refreshBossCode" : 10910072
+	},
+	
+	{
+		"bossCode" : 10910022,
+		"force" : 2,
+		"offsetX" : 3,
+		"offsetY" : 2,
+		"pointX" : 34,
+		"ponitY" : 101,
+		"refreshBossCode" : 10910072
+	},
+	
+	{
+		"bossCode" : 10910022,
+		"force" : 2,
+		"offsetX" : 3,
+		"offsetY" : 3,
+		"pointX" : 43,
+		"ponitY" : 119,
+		"refreshBossCode" : 10910072
+	},
+	
+	{
+		"bossCode" : 10910032,
+		"force" : 2,
+		"pointX" : 22,
+		"ponitY" : 112
+	}
+]

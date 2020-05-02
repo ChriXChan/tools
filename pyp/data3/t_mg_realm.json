@@ -1,0 +1,197 @@
+
+[
+	
+	{
+		"attrList" : "1,96#2,2880#",
+		"color" : "11",
+		"costItemCode" : 42010001,
+		"level" : 1,
+		"name" : "炼气",
+		"warfareLimit" : 23000.0
+	},
+	
+	{
+		"attrList" : "1,216#2,6480#",
+		"broadcast" : 1,
+		"color" : "11",
+		"costItemCode" : 42010001,
+		"level" : 2,
+		"name" : "筑基",
+		"warfareLimit" : 65000.0
+	},
+	
+	{
+		"attrList" : "1,364#2,10920#",
+		"broadcast" : 1,
+		"color" : "4",
+		"costItemCode" : 42010001,
+		"level" : 3,
+		"name" : "开光",
+		"warfareLimit" : 121000.0
+	},
+	
+	{
+		"attrList" : "1,552#2,16560#",
+		"broadcast" : 1,
+		"color" : "4",
+		"costItemCode" : 42010001,
+		"costItemNum" : 2,
+		"level" : 4,
+		"name" : "金丹",
+		"warfareLimit" : 202000.0
+	},
+	
+	{
+		"attrList" : "1,788#2,23640#",
+		"broadcast" : 1,
+		"color" : "5",
+		"costItemCode" : 42010001,
+		"costItemNum" : 5,
+		"level" : 5,
+		"name" : "元婴",
+		"warfareLimit" : 317000.0
+	},
+	
+	{
+		"attrList" : "1,1080#2,32400#",
+		"broadcast" : 1,
+		"color" : "5",
+		"costItemCode" : 42010001,
+		"costItemNum" : 14,
+		"level" : 6,
+		"name" : "分神",
+		"warfareLimit" : 478000.0
+	},
+	
+	{
+		"attrList" : "1,1448#2,43440#",
+		"broadcast" : 1,
+		"color" : "6",
+		"costItemCode" : 42010001,
+		"costItemNum" : 37,
+		"level" : 7,
+		"name" : "大乘",
+		"warfareLimit" : 705000.0
+	},
+	
+	{
+		"attrList" : "1,1908#2,57240#",
+		"broadcast" : 1,
+		"color" : "6",
+		"costItemCode" : 42010001,
+		"costItemNum" : 77,
+		"level" : 8,
+		"name" : "破虚",
+		"warfareLimit" : 1022000.0
+	},
+	
+	{
+		"attrList" : "1,2480#2,74400#",
+		"broadcast" : 1,
+		"color" : "8",
+		"costItemCode" : 42010001,
+		"costItemNum" : 149,
+		"level" : 9,
+		"name" : "渡劫",
+		"warfareLimit" : 1462000.0
+	},
+	
+	{
+		"attrList" : "1,3200#2,96000#",
+		"broadcast" : 1,
+		"color" : "7",
+		"costItemCode" : 42010001,
+		"costItemNum" : 278,
+		"level" : 10,
+		"name" : "飞升",
+		"warfareLimit" : 2075000.0
+	},
+	
+	{
+		"attrList" : "1,4096#2,122880#",
+		"broadcast" : 1,
+		"color" : "7",
+		"costItemCode" : 42010003,
+		"costItemNum" : 11,
+		"level" : 11,
+		"name" : "散仙",
+		"warfareLimit" : 2697500.0
+	},
+	
+	{
+		"attrList" : "1,5216#2,156480#",
+		"broadcast" : 1,
+		"color" : "7",
+		"costItemCode" : 42010003,
+		"costItemNum" : 19,
+		"level" : 12,
+		"name" : "地仙",
+		"warfareLimit" : 3506750.0
+	},
+	
+	{
+		"attrList" : "1,6616#2,198480#",
+		"broadcast" : 1,
+		"color" : "7",
+		"costItemCode" : 42010003,
+		"costItemNum" : 31,
+		"level" : 13,
+		"name" : "天仙",
+		"warfareLimit" : 4558775.0
+	},
+	
+	{
+		"attrList" : "1,8364#2,250920#",
+		"broadcast" : 1,
+		"color" : "7",
+		"costItemCode" : 42010003,
+		"costItemNum" : 47,
+		"level" : 14,
+		"name" : "金仙",
+		"warfareLimit" : 5926407.0
+	},
+	
+	{
+		"attrList" : "1,10552#2,316560#",
+		"broadcast" : 1,
+		"color" : "7",
+		"costItemCode" : 42010003,
+		"costItemNum" : 70,
+		"level" : 15,
+		"name" : "仙尊",
+		"warfareLimit" : 7704329.0
+	},
+	
+	{
+		"attrList" : "1,13288#2,398640#",
+		"broadcast" : 1,
+		"color" : "7",
+		"costItemCode" : 42010003,
+		"costItemNum" : 102,
+		"level" : 16,
+		"name" : "仙王",
+		"warfareLimit" : 10015628.0
+	},
+	
+	{
+		"attrList" : "1,16708#2,501240#",
+		"broadcast" : 1,
+		"color" : "7",
+		"costItemCode" : 42010003,
+		"costItemNum" : 147,
+		"level" : 17,
+		"name" : "仙君",
+		"warfareLimit" : 13020317.0
+	},
+	
+	{
+		"attrList" : "1,20980#2,629400#",
+		"broadcast" : 1,
+		"color" : "7",
+		"costItemCode" : 42010003,
+		"costItemNum" : 210,
+		"level" : 18,
+		"name" : "仙帝",
+		"warfareLimit" : 16926412.0
+	}
+]

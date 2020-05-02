@@ -1,0 +1,219 @@
+
+[
+	
+	{
+		"cost" : 625,
+		"materials" : "80000123,1#80000053,1#",
+		"openLevel" : 371,
+		"passFloor" : 80,
+		"smeltCategory" : 300,
+		"smeltPlanCode" : 1,
+		"smeltType" : 1,
+		"targetCode" : 80000173,
+		"unit" : 38
+	},
+	
+	{
+		"cost" : 625,
+		"materials" : "80000033,1#80000073,1#",
+		"openLevel" : 371,
+		"passFloor" : 84,
+		"smeltCategory" : 300,
+		"smeltPlanCode" : 2,
+		"smeltType" : 1,
+		"targetCode" : 80000183,
+		"unit" : 38
+	},
+	
+	{
+		"cost" : 625,
+		"materials" : "80000023,1#80000093,1#",
+		"openLevel" : 371,
+		"passFloor" : 88,
+		"smeltCategory" : 300,
+		"smeltPlanCode" : 3,
+		"smeltType" : 1,
+		"targetCode" : 80000193,
+		"unit" : 38
+	},
+	
+	{
+		"cost" : 625,
+		"materials" : "80000083,1#80000063,1#",
+		"openLevel" : 371,
+		"passFloor" : 92,
+		"smeltCategory" : 300,
+		"smeltPlanCode" : 4,
+		"smeltType" : 1,
+		"targetCode" : 80000213,
+		"unit" : 38
+	},
+	
+	{
+		"cost" : 625,
+		"materials" : "80000013,1#80000113,1#",
+		"openLevel" : 371,
+		"passFloor" : 96,
+		"smeltCategory" : 300,
+		"smeltPlanCode" : 5,
+		"smeltType" : 1,
+		"targetCode" : 80000203,
+		"unit" : 38
+	},
+	
+	{
+		"cost" : 625,
+		"materials" : "80000043,1#80000103,1#",
+		"openLevel" : 371,
+		"passFloor" : 100,
+		"smeltCategory" : 300,
+		"smeltPlanCode" : 6,
+		"smeltType" : 1,
+		"targetCode" : 80000223,
+		"unit" : 38
+	},
+	
+	{
+		"cost" : 1875,
+		"materials" : "80000124,1#80000054,1#",
+		"openLevel" : 371,
+		"passFloor" : 80,
+		"smeltCategory" : 300,
+		"smeltPlanCode" : 7,
+		"smeltType" : 2,
+		"targetCode" : 80000174,
+		"unit" : 38
+	},
+	
+	{
+		"cost" : 1875,
+		"materials" : "80000034,1#80000074,1#",
+		"openLevel" : 371,
+		"passFloor" : 84,
+		"smeltCategory" : 300,
+		"smeltPlanCode" : 8,
+		"smeltType" : 2,
+		"targetCode" : 80000184,
+		"unit" : 38
+	},
+	
+	{
+		"cost" : 1875,
+		"materials" : "80000024,1#80000094,1#",
+		"openLevel" : 371,
+		"passFloor" : 88,
+		"smeltCategory" : 300,
+		"smeltPlanCode" : 9,
+		"smeltType" : 2,
+		"targetCode" : 80000194,
+		"unit" : 38
+	},
+	
+	{
+		"cost" : 1875,
+		"materials" : "80000084,1#80000064,1#",
+		"openLevel" : 371,
+		"passFloor" : 92,
+		"smeltCategory" : 300,
+		"smeltPlanCode" : 10,
+		"smeltType" : 2,
+		"targetCode" : 80000214,
+		"unit" : 38
+	},
+	
+	{
+		"cost" : 1875,
+		"materials" : "80000014,1#80000114,1#",
+		"openLevel" : 371,
+		"passFloor" : 96,
+		"smeltCategory" : 300,
+		"smeltPlanCode" : 11,
+		"smeltType" : 2,
+		"targetCode" : 80000204,
+		"unit" : 38
+	},
+	
+	{
+		"cost" : 1875,
+		"materials" : "80000044,1#80000104,1#",
+		"openLevel" : 371,
+		"passFloor" : 100,
+		"smeltCategory" : 300,
+		"smeltPlanCode" : 12,
+		"smeltType" : 2,
+		"targetCode" : 80000224,
+		"unit" : 38
+	},
+	
+	{
+		"cost" : 6250,
+		"materials" : "80000125,1#80000055,1#",
+		"openLevel" : 371,
+		"passFloor" : 80,
+		"smeltCategory" : 300,
+		"smeltPlanCode" : 13,
+		"smeltType" : 3,
+		"targetCode" : 80000175,
+		"unit" : 38
+	},
+	
+	{
+		"cost" : 6250,
+		"materials" : "80000035,1#80000075,1#",
+		"openLevel" : 371,
+		"passFloor" : 84,
+		"smeltCategory" : 300,
+		"smeltPlanCode" : 14,
+		"smeltType" : 3,
+		"targetCode" : 80000185,
+		"unit" : 38
+	},
+	
+	{
+		"cost" : 6250,
+		"materials" : "80000025,1#80000095,1#",
+		"openLevel" : 371,
+		"passFloor" : 88,
+		"smeltCategory" : 300,
+		"smeltPlanCode" : 15,
+		"smeltType" : 3,
+		"targetCode" : 80000195,
+		"unit" : 38
+	},
+	
+	{
+		"cost" : 6250,
+		"materials" : "80000085,1#80000065,1#",
+		"openLevel" : 371,
+		"passFloor" : 92,
+		"smeltCategory" : 300,
+		"smeltPlanCode" : 16,
+		"smeltType" : 3,
+		"targetCode" : 80000215,
+		"unit" : 38
+	},
+	
+	{
+		"cost" : 6250,
+		"materials" : "80000015,1#80000115,1#",
+		"openLevel" : 371,
+		"passFloor" : 96,
+		"smeltCategory" : 300,
+		"smeltPlanCode" : 17,
+		"smeltType" : 3,
+		"targetCode" : 80000205,
+		"unit" : 38
+	},
+	
+	{
+		"cost" : 6250,
+		"materials" : "80000045,1#80000105,1#",
+		"openLevel" : 371,
+		"passFloor" : 100,
+		"smeltCategory" : 300,
+		"smeltPlanCode" : 18,
+		"smeltType" : 3,
+		"targetCode" : 80000225,
+		"unit" : 38
+	}
+]

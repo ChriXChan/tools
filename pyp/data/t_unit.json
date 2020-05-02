@@ -1,0 +1,338 @@
+
+[
+	
+	{
+		"unitCode" : 1,
+		"unitName" : "铜钱"
+	},
+	
+	{
+		"unitCode" : 2,
+		"unitName" : "元宝"
+	},
+	
+	{
+		"unitCode" : 3,
+		"unitName" : "绑元"
+	},
+	
+	{
+		"unitCode" : 4,
+		"unitName" : "荣誉"
+	},
+	
+	{
+		"unitCode" : 5,
+		"unitName" : "竞技场金券"
+	},
+	
+	{
+		"unitCode" : 6,
+		"unitName" : "声望"
+	},
+	
+	{
+		"unitCode" : 7,
+		"unitName" : "礼券"
+	},
+	
+	{
+		"unitCode" : 8,
+		"unitName" : "副本积分"
+	},
+	
+	{
+		"unitCode" : 9,
+		"unitName" : "仙盟贡献"
+	},
+	
+	{
+		"unitCode" : 10,
+		"unitName" : "灵气"
+	},
+	
+	{
+		"unitCode" : 11,
+		"unitName" : "聚气"
+	},
+	
+	{
+		"unitCode" : 12,
+		"unitName" : "3v3声望"
+	},
+	
+	{
+		"unitCode" : 13,
+		"unitName" : "五行能量值"
+	},
+	
+	{
+		"unitCode" : 14,
+		"unitName" : "新精力值"
+	},
+	
+	{
+		"unitCode" : 15,
+		"unitName" : "珍兽币"
+	},
+	
+	{
+		"unitCode" : 16,
+		"unitName" : "魔石"
+	},
+	
+	{
+		"unitCode" : 17,
+		"unitName" : "功勋（远古竞技场）"
+	},
+	
+	{
+		"unitCode" : 18,
+		"unitName" : "破碎元神"
+	},
+	
+	{
+		"unitCode" : 19,
+		"unitName" : "龙宫币"
+	},
+	
+	{
+		"unitCode" : 20,
+		"unitName" : "天宫币"
+	},
+	
+	{
+		"unitCode" : 21,
+		"unitName" : "仙命碎片"
+	},
+	
+	{
+		"unitCode" : 22,
+		"unitName" : "装备副本体力"
+	},
+	
+	{
+		"unitCode" : 23,
+		"unitName" : "封神榜积分"
+	},
+	
+	{
+		"unitCode" : 24,
+		"unitName" : "紫色命力"
+	},
+	
+	{
+		"unitCode" : 25,
+		"unitName" : "金色命力"
+	},
+	
+	{
+		"unitCode" : 26,
+		"unitName" : "橙色命力"
+	},
+	
+	{
+		"unitCode" : 27,
+		"unitName" : "仙缘值"
+	},
+	
+	{
+		"unitCode" : 28,
+		"unitName" : "修真活跃值"
+	},
+	
+	{
+		"unitCode" : 29,
+		"unitName" : "国家贡献"
+	},
+	
+	{
+		"unitCode" : 30,
+		"unitName" : "仙盟资源"
+	},
+	
+	{
+		"unitCode" : 31,
+		"unitName" : "坐骑境界灵气值"
+	},
+	
+	{
+		"unitCode" : 32,
+		"unitName" : "仙盟仓库积分"
+	},
+	
+	{
+		"unitCode" : 33,
+		"unitName" : "宝藏寻宝积分"
+	},
+	
+	{
+		"unitCode" : 34,
+		"unitName" : "符文经验"
+	},
+	
+	{
+		"unitCode" : 35,
+		"unitName" : "符文碎片"
+	},
+	
+	{
+		"unitCode" : 36,
+		"unitName" : "灵魂经验"
+	},
+	
+	{
+		"unitCode" : 37,
+		"unitName" : "灵魂石"
+	},
+	
+	{
+		"unitCode" : 38,
+		"unitName" : "魔晶"
+	},
+	
+	{
+		"unitCode" : 39,
+		"unitName" : "龙魂"
+	},
+	
+	{
+		"unitCode" : 40,
+		"unitName" : "诛仙强化石"
+	},
+	
+	{
+		"unitCode" : 41,
+		"unitName" : "封神强化石"
+	},
+	
+	{
+		"unitCode" : 42,
+		"unitName" : "洪荒强化石"
+	},
+	
+	{
+		"unitCode" : 43,
+		"unitName" : "混沌强化石"
+	},
+	
+	{
+		"unitCode" : 13300011,
+		"unitName" : "红包"
+	},
+	
+	{
+		"unitCode" : 13300021,
+		"unitName" : "灯笼"
+	},
+	
+	{
+		"unitCode" : 13300041,
+		"unitName" : "玫瑰花瓣"
+	},
+	
+	{
+		"unitCode" : 13300043,
+		"unitName" : "劳动徽章"
+	},
+	
+	{
+		"unitCode" : 13300049,
+		"unitName" : "棒棒糖"
+	},
+	
+	{
+		"unitCode" : 13300059,
+		"unitName" : "妖怪印记"
+	},
+	
+	{
+		"unitCode" : 13300075,
+		"unitName" : "庆典徽章"
+	},
+	
+	{
+		"unitCode" : 13300076,
+		"unitName" : "庆典徽章（绑）"
+	},
+	
+	{
+		"unitCode" : 13300080,
+		"unitName" : "大粽子"
+	},
+	
+	{
+		"unitCode" : 13300082,
+		"unitName" : "糖果兑换商店\n\n"
+	},
+	
+	{
+		"unitCode" : 13300088,
+		"unitName" : "喜鹊羽毛"
+	},
+	
+	{
+		"unitCode" : 13300090,
+		"unitName" : "月饼"
+	},
+	
+	{
+		"unitCode" : 13300094,
+		"unitName" : "月饼"
+	},
+	
+	{
+		"unitCode" : 13300097,
+		"unitName" : "南瓜"
+	},
+	
+	{
+		"unitCode" : 13300098,
+		"unitName" : "南瓜"
+	},
+	
+	{
+		"unitCode" : 13300102,
+		"unitName" : "火鸡羽毛"
+	},
+	
+	{
+		"unitCode" : 14031003,
+		"unitName" : "伏魔碎片"
+	},
+	
+	{
+		"unitCode" : 14031023,
+		"unitName" : "诛仙碎片"
+	},
+	
+	{
+		"unitCode" : 14031024,
+		"unitName" : "天赐碎片"
+	},
+	
+	{
+		"unitCode" : 14031121,
+		"unitName" : "诛神碎片"
+	},
+	
+	{
+		"unitCode" : 14031131,
+		"unitName" : "圣诞星星"
+	},
+	
+	{
+		"unitCode" : 14066406,
+		"unitName" : "五彩珍珠兑换商店"
+	},
+	
+	{
+		"unitCode" : 40311302,
+		"unitName" : "活动兑换"
+	},
+	
+	{
+		"unitCode" : 41441301,
+		"unitName" : "灵石兑换"
+	}
+]

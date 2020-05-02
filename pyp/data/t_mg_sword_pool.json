@@ -1,0 +1,4003 @@
+
+[
+	
+	{
+		"attrList" : "1,20#2,200#4,10#",
+		"level" : 1,
+		"modelId" : 7001,
+		"name" : "sword_pool_name1",
+		"needExp" : 15,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,40#2,400#4,20#",
+		"level" : 2,
+		"modelId" : 7001,
+		"name" : "sword_pool_name1",
+		"needExp" : 16,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,60#2,600#4,30#",
+		"level" : 3,
+		"modelId" : 7001,
+		"name" : "sword_pool_name1",
+		"needExp" : 17,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,80#2,800#4,40#",
+		"level" : 4,
+		"modelId" : 7001,
+		"name" : "sword_pool_name1",
+		"needExp" : 18,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,100#2,1000#4,50#",
+		"level" : 5,
+		"modelId" : 7001,
+		"name" : "sword_pool_name1",
+		"needExp" : 19,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,120#2,1200#4,60#",
+		"level" : 6,
+		"modelId" : 7001,
+		"name" : "sword_pool_name1",
+		"needExp" : 20,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,140#2,1400#4,70#",
+		"level" : 7,
+		"modelId" : 7001,
+		"name" : "sword_pool_name1",
+		"needExp" : 21,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,160#2,1600#4,80#",
+		"level" : 8,
+		"modelId" : 7001,
+		"name" : "sword_pool_name1",
+		"needExp" : 22,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,180#2,1800#4,90#",
+		"level" : 9,
+		"modelId" : 7001,
+		"name" : "sword_pool_name1",
+		"needExp" : 23,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,200#2,2000#4,100#",
+		"level" : 10,
+		"modelId" : 7001,
+		"name" : "sword_pool_name1",
+		"needExp" : 24,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,220#2,2200#4,110#",
+		"level" : 11,
+		"modelId" : 7001,
+		"name" : "sword_pool_name1",
+		"needExp" : 25,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,240#2,2400#4,120#",
+		"level" : 12,
+		"modelId" : 7001,
+		"name" : "sword_pool_name1",
+		"needExp" : 26,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,260#2,2600#4,130#",
+		"level" : 13,
+		"modelId" : 7001,
+		"name" : "sword_pool_name1",
+		"needExp" : 27,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,280#2,2800#4,140#",
+		"level" : 14,
+		"modelId" : 7001,
+		"name" : "sword_pool_name1",
+		"needExp" : 28,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,300#2,3000#4,150#",
+		"level" : 15,
+		"modelId" : 7001,
+		"name" : "sword_pool_name1",
+		"needExp" : 29,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,320#2,3200#4,160#",
+		"level" : 16,
+		"modelId" : 7001,
+		"name" : "sword_pool_name1",
+		"needExp" : 30,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,340#2,3400#4,170#",
+		"level" : 17,
+		"modelId" : 7001,
+		"name" : "sword_pool_name1",
+		"needExp" : 31,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,360#2,3600#4,180#",
+		"level" : 18,
+		"modelId" : 7001,
+		"name" : "sword_pool_name1",
+		"needExp" : 32,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,380#2,3800#4,190#",
+		"level" : 19,
+		"modelId" : 7001,
+		"name" : "sword_pool_name1",
+		"needExp" : 33,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,400#2,4000#4,200#",
+		"level" : 20,
+		"modelId" : 7001,
+		"name" : "sword_pool_name1",
+		"needExp" : 34,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,420#2,4200#4,210#",
+		"level" : 21,
+		"modelId" : 7001,
+		"name" : "sword_pool_name1",
+		"needExp" : 35,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,440#2,4400#4,220#",
+		"level" : 22,
+		"modelId" : 7001,
+		"name" : "sword_pool_name1",
+		"needExp" : 36,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,460#2,4600#4,230#",
+		"level" : 23,
+		"modelId" : 7001,
+		"name" : "sword_pool_name1",
+		"needExp" : 37,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,480#2,4800#4,240#",
+		"level" : 24,
+		"modelId" : 7001,
+		"name" : "sword_pool_name1",
+		"needExp" : 38,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,500#2,5000#4,250#",
+		"level" : 25,
+		"modelId" : 7001,
+		"name" : "sword_pool_name1",
+		"needExp" : 39,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,520#2,5200#4,260#",
+		"level" : 26,
+		"modelId" : 7002,
+		"name" : "sword_pool_name2",
+		"needExp" : 40,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,540#2,5400#4,270#",
+		"level" : 27,
+		"modelId" : 7002,
+		"name" : "sword_pool_name2",
+		"needExp" : 41,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,560#2,5600#4,280#",
+		"level" : 28,
+		"modelId" : 7002,
+		"name" : "sword_pool_name2",
+		"needExp" : 42,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,580#2,5800#4,290#",
+		"level" : 29,
+		"modelId" : 7002,
+		"name" : "sword_pool_name2",
+		"needExp" : 43,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,600#2,6000#4,300#",
+		"level" : 30,
+		"modelId" : 7002,
+		"name" : "sword_pool_name2",
+		"needExp" : 44,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,620#2,6200#4,310#",
+		"level" : 31,
+		"modelId" : 7002,
+		"name" : "sword_pool_name2",
+		"needExp" : 45,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,640#2,6400#4,320#",
+		"level" : 32,
+		"modelId" : 7002,
+		"name" : "sword_pool_name2",
+		"needExp" : 46,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,660#2,6600#4,330#",
+		"level" : 33,
+		"modelId" : 7002,
+		"name" : "sword_pool_name2",
+		"needExp" : 47,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,680#2,6800#4,340#",
+		"level" : 34,
+		"modelId" : 7002,
+		"name" : "sword_pool_name2",
+		"needExp" : 48,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,700#2,7000#4,350#",
+		"level" : 35,
+		"modelId" : 7002,
+		"name" : "sword_pool_name2",
+		"needExp" : 49,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,720#2,7200#4,360#",
+		"level" : 36,
+		"modelId" : 7002,
+		"name" : "sword_pool_name2",
+		"needExp" : 50,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,740#2,7400#4,370#",
+		"level" : 37,
+		"modelId" : 7002,
+		"name" : "sword_pool_name2",
+		"needExp" : 51,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,760#2,7600#4,380#",
+		"level" : 38,
+		"modelId" : 7002,
+		"name" : "sword_pool_name2",
+		"needExp" : 52,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,780#2,7800#4,390#",
+		"level" : 39,
+		"modelId" : 7002,
+		"name" : "sword_pool_name2",
+		"needExp" : 53,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,800#2,8000#4,400#",
+		"level" : 40,
+		"modelId" : 7002,
+		"name" : "sword_pool_name2",
+		"needExp" : 54,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,820#2,8200#4,410#",
+		"level" : 41,
+		"modelId" : 7002,
+		"name" : "sword_pool_name2",
+		"needExp" : 55,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,840#2,8400#4,420#",
+		"level" : 42,
+		"modelId" : 7002,
+		"name" : "sword_pool_name2",
+		"needExp" : 56,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,860#2,8600#4,430#",
+		"level" : 43,
+		"modelId" : 7002,
+		"name" : "sword_pool_name2",
+		"needExp" : 57,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,880#2,8800#4,440#",
+		"level" : 44,
+		"modelId" : 7003,
+		"name" : "sword_pool_name3",
+		"needExp" : 58,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,900#2,9000#4,450#",
+		"level" : 45,
+		"modelId" : 7003,
+		"name" : "sword_pool_name3",
+		"needExp" : 59,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,920#2,9200#4,460#",
+		"level" : 46,
+		"modelId" : 7003,
+		"name" : "sword_pool_name3",
+		"needExp" : 60,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,940#2,9400#4,470#",
+		"level" : 47,
+		"modelId" : 7003,
+		"name" : "sword_pool_name3",
+		"needExp" : 61,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,960#2,9600#4,480#",
+		"level" : 48,
+		"modelId" : 7003,
+		"name" : "sword_pool_name3",
+		"needExp" : 62,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,980#2,9800#4,490#",
+		"level" : 49,
+		"modelId" : 7003,
+		"name" : "sword_pool_name3",
+		"needExp" : 63,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1000#2,10000#4,500#",
+		"level" : 50,
+		"modelId" : 7003,
+		"name" : "sword_pool_name3",
+		"needExp" : 64,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1020#2,10200#4,510#",
+		"level" : 51,
+		"modelId" : 7003,
+		"name" : "sword_pool_name3",
+		"needExp" : 65,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1040#2,10400#4,520#",
+		"level" : 52,
+		"modelId" : 7003,
+		"name" : "sword_pool_name3",
+		"needExp" : 66,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1060#2,10600#4,530#",
+		"level" : 53,
+		"modelId" : 7003,
+		"name" : "sword_pool_name3",
+		"needExp" : 67,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1080#2,10800#4,540#",
+		"level" : 54,
+		"modelId" : 7003,
+		"name" : "sword_pool_name3",
+		"needExp" : 68,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1100#2,11000#4,550#",
+		"level" : 55,
+		"modelId" : 7003,
+		"name" : "sword_pool_name3",
+		"needExp" : 69,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1120#2,11200#4,560#",
+		"level" : 56,
+		"modelId" : 7003,
+		"name" : "sword_pool_name3",
+		"needExp" : 70,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1140#2,11400#4,570#",
+		"level" : 57,
+		"modelId" : 7003,
+		"name" : "sword_pool_name3",
+		"needExp" : 71,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1160#2,11600#4,580#",
+		"level" : 58,
+		"modelId" : 7003,
+		"name" : "sword_pool_name3",
+		"needExp" : 72,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1180#2,11800#4,590#",
+		"level" : 59,
+		"modelId" : 7003,
+		"name" : "sword_pool_name3",
+		"needExp" : 73,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1200#2,12000#4,600#",
+		"level" : 60,
+		"modelId" : 7003,
+		"name" : "sword_pool_name3",
+		"needExp" : 74,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1220#2,12200#4,610#",
+		"level" : 61,
+		"modelId" : 7003,
+		"name" : "sword_pool_name3",
+		"needExp" : 75,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1240#2,12400#4,620#",
+		"level" : 62,
+		"modelId" : 7003,
+		"name" : "sword_pool_name3",
+		"needExp" : 76,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1260#2,12600#4,630#",
+		"level" : 63,
+		"modelId" : 7003,
+		"name" : "sword_pool_name3",
+		"needExp" : 77,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1280#2,12800#4,640#",
+		"level" : 64,
+		"modelId" : 7003,
+		"name" : "sword_pool_name3",
+		"needExp" : 78,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1300#2,13000#4,650#",
+		"level" : 65,
+		"modelId" : 7003,
+		"name" : "sword_pool_name3",
+		"needExp" : 79,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1320#2,13200#4,660#",
+		"level" : 66,
+		"modelId" : 7004,
+		"name" : "sword_pool_name3",
+		"needExp" : 80,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1340#2,13400#4,670#",
+		"level" : 67,
+		"modelId" : 7004,
+		"name" : "sword_pool_name3",
+		"needExp" : 81,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1360#2,13600#4,680#",
+		"level" : 68,
+		"modelId" : 7004,
+		"name" : "sword_pool_name3",
+		"needExp" : 82,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1380#2,13800#4,690#",
+		"level" : 69,
+		"modelId" : 7004,
+		"name" : "sword_pool_name3",
+		"needExp" : 83,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1400#2,14000#4,700#",
+		"level" : 70,
+		"modelId" : 7004,
+		"name" : "sword_pool_name3",
+		"needExp" : 84,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1420#2,14200#4,710#",
+		"level" : 71,
+		"modelId" : 7004,
+		"name" : "sword_pool_name3",
+		"needExp" : 85,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1440#2,14400#4,720#",
+		"level" : 72,
+		"modelId" : 7004,
+		"name" : "sword_pool_name3",
+		"needExp" : 86,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1460#2,14600#4,730#",
+		"level" : 73,
+		"modelId" : 7004,
+		"name" : "sword_pool_name3",
+		"needExp" : 87,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1480#2,14800#4,740#",
+		"level" : 74,
+		"modelId" : 7004,
+		"name" : "sword_pool_name3",
+		"needExp" : 88,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1500#2,15000#4,750#",
+		"level" : 75,
+		"modelId" : 7004,
+		"name" : "sword_pool_name3",
+		"needExp" : 89,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1520#2,15200#4,760#",
+		"level" : 76,
+		"modelId" : 7004,
+		"name" : "sword_pool_name3",
+		"needExp" : 90,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1540#2,15400#4,770#",
+		"level" : 77,
+		"modelId" : 7004,
+		"name" : "sword_pool_name3",
+		"needExp" : 91,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1560#2,15600#4,780#",
+		"level" : 78,
+		"modelId" : 7004,
+		"name" : "sword_pool_name3",
+		"needExp" : 92,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1580#2,15800#4,790#",
+		"level" : 79,
+		"modelId" : 7004,
+		"name" : "sword_pool_name3",
+		"needExp" : 93,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1600#2,16000#4,800#",
+		"level" : 80,
+		"modelId" : 7004,
+		"name" : "sword_pool_name3",
+		"needExp" : 94,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1620#2,16200#4,810#",
+		"level" : 81,
+		"modelId" : 7004,
+		"name" : "sword_pool_name3",
+		"needExp" : 95,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1640#2,16400#4,820#",
+		"level" : 82,
+		"modelId" : 7004,
+		"name" : "sword_pool_name3",
+		"needExp" : 96,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1660#2,16600#4,830#",
+		"level" : 83,
+		"modelId" : 7004,
+		"name" : "sword_pool_name3",
+		"needExp" : 97,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1680#2,16800#4,840#",
+		"level" : 84,
+		"modelId" : 7004,
+		"name" : "sword_pool_name3",
+		"needExp" : 98,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1700#2,17000#4,850#",
+		"level" : 85,
+		"modelId" : 7004,
+		"name" : "sword_pool_name3",
+		"needExp" : 99,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1720#2,17200#4,860#",
+		"level" : 86,
+		"modelId" : 7004,
+		"name" : "sword_pool_name3",
+		"needExp" : 100,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1740#2,17400#4,870#",
+		"level" : 87,
+		"modelId" : 7004,
+		"name" : "sword_pool_name3",
+		"needExp" : 101,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1760#2,17600#4,880#",
+		"level" : 88,
+		"modelId" : 7004,
+		"name" : "sword_pool_name3",
+		"needExp" : 102,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1780#2,17800#4,890#",
+		"level" : 89,
+		"modelId" : 7004,
+		"name" : "sword_pool_name3",
+		"needExp" : 103,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1800#2,18000#4,900#",
+		"level" : 90,
+		"modelId" : 7004,
+		"name" : "sword_pool_name3",
+		"needExp" : 104,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1820#2,18200#4,910#",
+		"level" : 91,
+		"modelId" : 7004,
+		"name" : "sword_pool_name3",
+		"needExp" : 105,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1840#2,18400#4,920#",
+		"level" : 92,
+		"modelId" : 7004,
+		"name" : "sword_pool_name3",
+		"needExp" : 106,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1860#2,18600#4,930#",
+		"level" : 93,
+		"modelId" : 7004,
+		"name" : "sword_pool_name3",
+		"needExp" : 107,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1880#2,18800#4,940#",
+		"level" : 94,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 108,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1900#2,19000#4,950#",
+		"level" : 95,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 109,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1920#2,19200#4,960#",
+		"level" : 96,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 110,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1940#2,19400#4,970#",
+		"level" : 97,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 111,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1960#2,19600#4,980#",
+		"level" : 98,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 112,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,1980#2,19800#4,990#",
+		"level" : 99,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 113,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2000#2,20000#4,1000#",
+		"level" : 100,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 114,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2020#2,20200#4,1010#",
+		"level" : 101,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 115,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2040#2,20400#4,1020#",
+		"level" : 102,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 116,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2060#2,20600#4,1030#",
+		"level" : 103,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 117,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2080#2,20800#4,1040#",
+		"level" : 104,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 118,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2100#2,21000#4,1050#",
+		"level" : 105,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 119,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2120#2,21200#4,1060#",
+		"level" : 106,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 120,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2140#2,21400#4,1070#",
+		"level" : 107,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 121,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2160#2,21600#4,1080#",
+		"level" : 108,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 122,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2180#2,21800#4,1090#",
+		"level" : 109,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 123,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2200#2,22000#4,1100#",
+		"level" : 110,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 124,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2220#2,22200#4,1110#",
+		"level" : 111,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 125,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2240#2,22400#4,1120#",
+		"level" : 112,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 126,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2260#2,22600#4,1130#",
+		"level" : 113,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 127,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2280#2,22800#4,1140#",
+		"level" : 114,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 128,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2300#2,23000#4,1150#",
+		"level" : 115,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 129,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2320#2,23200#4,1160#",
+		"level" : 116,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 130,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2340#2,23400#4,1170#",
+		"level" : 117,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 131,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2360#2,23600#4,1180#",
+		"level" : 118,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 132,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2380#2,23800#4,1190#",
+		"level" : 119,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 133,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2400#2,24000#4,1200#",
+		"level" : 120,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 134,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2420#2,24200#4,1210#",
+		"level" : 121,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 135,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2440#2,24400#4,1220#",
+		"level" : 122,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 136,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2460#2,24600#4,1230#",
+		"level" : 123,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 137,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2480#2,24800#4,1240#",
+		"level" : 124,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 138,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2500#2,25000#4,1250#",
+		"level" : 125,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 139,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2520#2,25200#4,1260#",
+		"level" : 126,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 140,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2540#2,25400#4,1270#",
+		"level" : 127,
+		"modelId" : 7005,
+		"name" : "sword_pool_name3",
+		"needExp" : 141,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2560#2,25600#4,1280#",
+		"level" : 128,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 142,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2580#2,25800#4,1290#",
+		"level" : 129,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 143,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2600#2,26000#4,1300#",
+		"level" : 130,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 144,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2620#2,26200#4,1310#",
+		"level" : 131,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 145,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2640#2,26400#4,1320#",
+		"level" : 132,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 146,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2660#2,26600#4,1330#",
+		"level" : 133,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 147,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2680#2,26800#4,1340#",
+		"level" : 134,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 148,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2700#2,27000#4,1350#",
+		"level" : 135,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 149,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2720#2,27200#4,1360#",
+		"level" : 136,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 150,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2740#2,27400#4,1370#",
+		"level" : 137,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 151,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2760#2,27600#4,1380#",
+		"level" : 138,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 152,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2780#2,27800#4,1390#",
+		"level" : 139,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 153,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2800#2,28000#4,1400#",
+		"level" : 140,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 154,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2820#2,28200#4,1410#",
+		"level" : 141,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 155,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2840#2,28400#4,1420#",
+		"level" : 142,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 156,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2860#2,28600#4,1430#",
+		"level" : 143,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 157,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2880#2,28800#4,1440#",
+		"level" : 144,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 158,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2900#2,29000#4,1450#",
+		"level" : 145,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 159,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2920#2,29200#4,1460#",
+		"level" : 146,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 160,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2940#2,29400#4,1470#",
+		"level" : 147,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 161,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2960#2,29600#4,1480#",
+		"level" : 148,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 162,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,2980#2,29800#4,1490#",
+		"level" : 149,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 163,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3000#2,30000#4,1500#",
+		"level" : 150,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 164,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3020#2,30200#4,1510#",
+		"level" : 151,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 165,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3040#2,30400#4,1520#",
+		"level" : 152,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 166,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3060#2,30600#4,1530#",
+		"level" : 153,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 167,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3080#2,30800#4,1540#",
+		"level" : 154,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 168,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3100#2,31000#4,1550#",
+		"level" : 155,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 169,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3120#2,31200#4,1560#",
+		"level" : 156,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 170,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3140#2,31400#4,1570#",
+		"level" : 157,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 171,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3160#2,31600#4,1580#",
+		"level" : 158,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 172,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3180#2,31800#4,1590#",
+		"level" : 159,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 173,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3200#2,32000#4,1600#",
+		"level" : 160,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 174,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3220#2,32200#4,1610#",
+		"level" : 161,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 175,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3240#2,32400#4,1620#",
+		"level" : 162,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 176,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3260#2,32600#4,1630#",
+		"level" : 163,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 177,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3280#2,32800#4,1640#",
+		"level" : 164,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 178,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3300#2,33000#4,1650#",
+		"level" : 165,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 179,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3320#2,33200#4,1660#",
+		"level" : 166,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 180,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3340#2,33400#4,1670#",
+		"level" : 167,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 181,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3360#2,33600#4,1680#",
+		"level" : 168,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 182,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3380#2,33800#4,1690#",
+		"level" : 169,
+		"modelId" : 7006,
+		"name" : "sword_pool_name3",
+		"needExp" : 183,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3400#2,34000#4,1700#",
+		"level" : 170,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 184,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3420#2,34200#4,1710#",
+		"level" : 171,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 185,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3440#2,34400#4,1720#",
+		"level" : 172,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 186,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3460#2,34600#4,1730#",
+		"level" : 173,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 187,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3480#2,34800#4,1740#",
+		"level" : 174,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 188,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3500#2,35000#4,1750#",
+		"level" : 175,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 189,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3520#2,35200#4,1760#",
+		"level" : 176,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 190,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3540#2,35400#4,1770#",
+		"level" : 177,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 191,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3560#2,35600#4,1780#",
+		"level" : 178,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 192,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3580#2,35800#4,1790#",
+		"level" : 179,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 193,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3600#2,36000#4,1800#",
+		"level" : 180,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 194,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3620#2,36200#4,1810#",
+		"level" : 181,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 195,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3640#2,36400#4,1820#",
+		"level" : 182,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 196,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3660#2,36600#4,1830#",
+		"level" : 183,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 197,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3680#2,36800#4,1840#",
+		"level" : 184,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 198,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3700#2,37000#4,1850#",
+		"level" : 185,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 199,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3720#2,37200#4,1860#",
+		"level" : 186,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 200,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3740#2,37400#4,1870#",
+		"level" : 187,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 201,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3760#2,37600#4,1880#",
+		"level" : 188,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 202,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3780#2,37800#4,1890#",
+		"level" : 189,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 203,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3800#2,38000#4,1900#",
+		"level" : 190,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 204,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3820#2,38200#4,1910#",
+		"level" : 191,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 205,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3840#2,38400#4,1920#",
+		"level" : 192,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 206,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3860#2,38600#4,1930#",
+		"level" : 193,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 207,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3880#2,38800#4,1940#",
+		"level" : 194,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 208,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3900#2,39000#4,1950#",
+		"level" : 195,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 209,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3920#2,39200#4,1960#",
+		"level" : 196,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 210,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3940#2,39400#4,1970#",
+		"level" : 197,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 211,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3960#2,39600#4,1980#",
+		"level" : 198,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 212,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,3980#2,39800#4,1990#",
+		"level" : 199,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 213,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4000#2,40000#4,2000#",
+		"level" : 200,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 214,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4020#2,40200#4,2010#",
+		"level" : 201,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 215,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4040#2,40400#4,2020#",
+		"level" : 202,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 216,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4060#2,40600#4,2030#",
+		"level" : 203,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 217,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4080#2,40800#4,2040#",
+		"level" : 204,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 218,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4100#2,41000#4,2050#",
+		"level" : 205,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 219,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4120#2,41200#4,2060#",
+		"level" : 206,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 220,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4140#2,41400#4,2070#",
+		"level" : 207,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 221,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4160#2,41600#4,2080#",
+		"level" : 208,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 222,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4180#2,41800#4,2090#",
+		"level" : 209,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 223,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4200#2,42000#4,2100#",
+		"level" : 210,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 224,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4220#2,42200#4,2110#",
+		"level" : 211,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 225,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4240#2,42400#4,2120#",
+		"level" : 212,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 226,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4260#2,42600#4,2130#",
+		"level" : 213,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 227,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4280#2,42800#4,2140#",
+		"level" : 214,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 228,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4300#2,43000#4,2150#",
+		"level" : 215,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 229,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4320#2,43200#4,2160#",
+		"level" : 216,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 230,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4340#2,43400#4,2170#",
+		"level" : 217,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 231,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4360#2,43600#4,2180#",
+		"level" : 218,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 232,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4380#2,43800#4,2190#",
+		"level" : 219,
+		"modelId" : 7007,
+		"name" : "sword_pool_name3",
+		"needExp" : 233,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4400#2,44000#4,2200#",
+		"level" : 220,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 234,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4420#2,44200#4,2210#",
+		"level" : 221,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 235,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4440#2,44400#4,2220#",
+		"level" : 222,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 236,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4460#2,44600#4,2230#",
+		"level" : 223,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 237,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4480#2,44800#4,2240#",
+		"level" : 224,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 238,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4500#2,45000#4,2250#",
+		"level" : 225,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 239,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4520#2,45200#4,2260#",
+		"level" : 226,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 240,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4540#2,45400#4,2270#",
+		"level" : 227,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 241,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4560#2,45600#4,2280#",
+		"level" : 228,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 242,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4580#2,45800#4,2290#",
+		"level" : 229,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 243,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4600#2,46000#4,2300#",
+		"level" : 230,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 244,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4620#2,46200#4,2310#",
+		"level" : 231,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 245,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4640#2,46400#4,2320#",
+		"level" : 232,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 246,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4660#2,46600#4,2330#",
+		"level" : 233,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 247,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4680#2,46800#4,2340#",
+		"level" : 234,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 248,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4700#2,47000#4,2350#",
+		"level" : 235,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 249,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4720#2,47200#4,2360#",
+		"level" : 236,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 250,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4740#2,47400#4,2370#",
+		"level" : 237,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 251,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4760#2,47600#4,2380#",
+		"level" : 238,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 252,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4780#2,47800#4,2390#",
+		"level" : 239,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 253,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4800#2,48000#4,2400#",
+		"level" : 240,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 254,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4820#2,48200#4,2410#",
+		"level" : 241,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 255,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4840#2,48400#4,2420#",
+		"level" : 242,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 256,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4860#2,48600#4,2430#",
+		"level" : 243,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 257,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4880#2,48800#4,2440#",
+		"level" : 244,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 258,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4900#2,49000#4,2450#",
+		"level" : 245,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 259,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4920#2,49200#4,2460#",
+		"level" : 246,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 260,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4940#2,49400#4,2470#",
+		"level" : 247,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 261,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4960#2,49600#4,2480#",
+		"level" : 248,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 262,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,4980#2,49800#4,2490#",
+		"level" : 249,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 263,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5000#2,50000#4,2500#",
+		"level" : 250,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 264,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5020#2,50200#4,2510#",
+		"level" : 251,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 265,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5040#2,50400#4,2520#",
+		"level" : 252,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 266,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5060#2,50600#4,2530#",
+		"level" : 253,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 267,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5080#2,50800#4,2540#",
+		"level" : 254,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 268,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5100#2,51000#4,2550#",
+		"level" : 255,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 269,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5120#2,51200#4,2560#",
+		"level" : 256,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 270,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5140#2,51400#4,2570#",
+		"level" : 257,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 271,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5160#2,51600#4,2580#",
+		"level" : 258,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 272,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5180#2,51800#4,2590#",
+		"level" : 259,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 273,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5200#2,52000#4,2600#",
+		"level" : 260,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 274,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5220#2,52200#4,2610#",
+		"level" : 261,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 275,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5240#2,52400#4,2620#",
+		"level" : 262,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 276,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5260#2,52600#4,2630#",
+		"level" : 263,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 277,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5280#2,52800#4,2640#",
+		"level" : 264,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 278,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5300#2,53000#4,2650#",
+		"level" : 265,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 279,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5320#2,53200#4,2660#",
+		"level" : 266,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 280,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5340#2,53400#4,2670#",
+		"level" : 267,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 281,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5360#2,53600#4,2680#",
+		"level" : 268,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 282,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5380#2,53800#4,2690#",
+		"level" : 269,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 283,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5400#2,54000#4,2700#",
+		"level" : 270,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 284,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5420#2,54200#4,2710#",
+		"level" : 271,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 285,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5440#2,54400#4,2720#",
+		"level" : 272,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 286,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5460#2,54600#4,2730#",
+		"level" : 273,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 287,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5480#2,54800#4,2740#",
+		"level" : 274,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 288,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5500#2,55000#4,2750#",
+		"level" : 275,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 289,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5520#2,55200#4,2760#",
+		"level" : 276,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 290,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5540#2,55400#4,2770#",
+		"level" : 277,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 291,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5560#2,55600#4,2780#",
+		"level" : 278,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 292,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5580#2,55800#4,2790#",
+		"level" : 279,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 293,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5600#2,56000#4,2800#",
+		"level" : 280,
+		"modelId" : 7008,
+		"name" : "sword_pool_name3",
+		"needExp" : 294,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5620#2,56200#4,2810#",
+		"level" : 281,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 295,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5640#2,56400#4,2820#",
+		"level" : 282,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 296,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5660#2,56600#4,2830#",
+		"level" : 283,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 297,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5680#2,56800#4,2840#",
+		"level" : 284,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 298,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5700#2,57000#4,2850#",
+		"level" : 285,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 299,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5720#2,57200#4,2860#",
+		"level" : 286,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 300,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5740#2,57400#4,2870#",
+		"level" : 287,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 301,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5760#2,57600#4,2880#",
+		"level" : 288,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 302,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5780#2,57800#4,2890#",
+		"level" : 289,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 303,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5800#2,58000#4,2900#",
+		"level" : 290,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 304,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5820#2,58200#4,2910#",
+		"level" : 291,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 305,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5840#2,58400#4,2920#",
+		"level" : 292,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 306,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5860#2,58600#4,2930#",
+		"level" : 293,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 307,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5880#2,58800#4,2940#",
+		"level" : 294,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 308,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5900#2,59000#4,2950#",
+		"level" : 295,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 309,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5920#2,59200#4,2960#",
+		"level" : 296,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 310,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5940#2,59400#4,2970#",
+		"level" : 297,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 311,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5960#2,59600#4,2980#",
+		"level" : 298,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 312,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,5980#2,59800#4,2990#",
+		"level" : 299,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 313,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6000#2,60000#4,3000#",
+		"level" : 300,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 314,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6020#2,60200#4,3010#",
+		"level" : 301,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 315,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6040#2,60400#4,3020#",
+		"level" : 302,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 316,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6060#2,60600#4,3030#",
+		"level" : 303,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 317,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6080#2,60800#4,3040#",
+		"level" : 304,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 318,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6100#2,61000#4,3050#",
+		"level" : 305,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 319,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6120#2,61200#4,3060#",
+		"level" : 306,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 320,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6140#2,61400#4,3070#",
+		"level" : 307,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 321,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6160#2,61600#4,3080#",
+		"level" : 308,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 322,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6180#2,61800#4,3090#",
+		"level" : 309,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 323,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6200#2,62000#4,3100#",
+		"level" : 310,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 324,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6220#2,62200#4,3110#",
+		"level" : 311,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 325,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6240#2,62400#4,3120#",
+		"level" : 312,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 326,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6260#2,62600#4,3130#",
+		"level" : 313,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 327,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6280#2,62800#4,3140#",
+		"level" : 314,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 328,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6300#2,63000#4,3150#",
+		"level" : 315,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 329,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6320#2,63200#4,3160#",
+		"level" : 316,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 330,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6340#2,63400#4,3170#",
+		"level" : 317,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 331,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6360#2,63600#4,3180#",
+		"level" : 318,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 332,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6380#2,63800#4,3190#",
+		"level" : 319,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 333,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6400#2,64000#4,3200#",
+		"level" : 320,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 334,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6420#2,64200#4,3210#",
+		"level" : 321,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 335,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6440#2,64400#4,3220#",
+		"level" : 322,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 336,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6460#2,64600#4,3230#",
+		"level" : 323,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 337,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6480#2,64800#4,3240#",
+		"level" : 324,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 338,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6500#2,65000#4,3250#",
+		"level" : 325,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 339,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6520#2,65200#4,3260#",
+		"level" : 326,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 340,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6540#2,65400#4,3270#",
+		"level" : 327,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 341,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6560#2,65600#4,3280#",
+		"level" : 328,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 342,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6580#2,65800#4,3290#",
+		"level" : 329,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 343,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6600#2,66000#4,3300#",
+		"level" : 330,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 344,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6620#2,66200#4,3310#",
+		"level" : 331,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 345,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6640#2,66400#4,3320#",
+		"level" : 332,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 346,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6660#2,66600#4,3330#",
+		"level" : 333,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 347,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6680#2,66800#4,3340#",
+		"level" : 334,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 348,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6700#2,67000#4,3350#",
+		"level" : 335,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 349,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6720#2,67200#4,3360#",
+		"level" : 336,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 350,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6740#2,67400#4,3370#",
+		"level" : 337,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 351,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6760#2,67600#4,3380#",
+		"level" : 338,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 352,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6780#2,67800#4,3390#",
+		"level" : 339,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 353,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6800#2,68000#4,3400#",
+		"level" : 340,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 354,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6820#2,68200#4,3410#",
+		"level" : 341,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 355,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6840#2,68400#4,3420#",
+		"level" : 342,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 356,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6860#2,68600#4,3430#",
+		"level" : 343,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 357,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6880#2,68800#4,3440#",
+		"level" : 344,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 358,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6900#2,69000#4,3450#",
+		"level" : 345,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 359,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6920#2,69200#4,3460#",
+		"level" : 346,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 360,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6940#2,69400#4,3470#",
+		"level" : 347,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 361,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6960#2,69600#4,3480#",
+		"level" : 348,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 362,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,6980#2,69800#4,3490#",
+		"level" : 349,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 363,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7000#2,70000#4,3500#",
+		"level" : 350,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 364,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7020#2,70200#4,3510#",
+		"level" : 351,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 365,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7040#2,70400#4,3520#",
+		"level" : 352,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 366,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7060#2,70600#4,3530#",
+		"level" : 353,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 367,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7080#2,70800#4,3540#",
+		"level" : 354,
+		"modelId" : 7009,
+		"name" : "sword_pool_name3",
+		"needExp" : 368,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7100#2,71000#4,3550#",
+		"level" : 355,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 369,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7120#2,71200#4,3560#",
+		"level" : 356,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 370,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7140#2,71400#4,3570#",
+		"level" : 357,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 371,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7160#2,71600#4,3580#",
+		"level" : 358,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 372,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7180#2,71800#4,3590#",
+		"level" : 359,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 373,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7200#2,72000#4,3600#",
+		"level" : 360,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 374,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7220#2,72200#4,3610#",
+		"level" : 361,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 375,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7240#2,72400#4,3620#",
+		"level" : 362,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 376,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7260#2,72600#4,3630#",
+		"level" : 363,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 377,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7280#2,72800#4,3640#",
+		"level" : 364,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 378,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7300#2,73000#4,3650#",
+		"level" : 365,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 379,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7320#2,73200#4,3660#",
+		"level" : 366,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 380,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7340#2,73400#4,3670#",
+		"level" : 367,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 381,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7360#2,73600#4,3680#",
+		"level" : 368,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 382,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7380#2,73800#4,3690#",
+		"level" : 369,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 383,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7400#2,74000#4,3700#",
+		"level" : 370,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 384,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7420#2,74200#4,3710#",
+		"level" : 371,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 385,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7440#2,74400#4,3720#",
+		"level" : 372,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 386,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7460#2,74600#4,3730#",
+		"level" : 373,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 387,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7480#2,74800#4,3740#",
+		"level" : 374,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 388,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7500#2,75000#4,3750#",
+		"level" : 375,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 389,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7520#2,75200#4,3760#",
+		"level" : 376,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 390,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7540#2,75400#4,3770#",
+		"level" : 377,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 391,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7560#2,75600#4,3780#",
+		"level" : 378,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 392,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7580#2,75800#4,3790#",
+		"level" : 379,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 393,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7600#2,76000#4,3800#",
+		"level" : 380,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 394,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7620#2,76200#4,3810#",
+		"level" : 381,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 395,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7640#2,76400#4,3820#",
+		"level" : 382,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 396,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7660#2,76600#4,3830#",
+		"level" : 383,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 397,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7680#2,76800#4,3840#",
+		"level" : 384,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 398,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7700#2,77000#4,3850#",
+		"level" : 385,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 399,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7720#2,77200#4,3860#",
+		"level" : 386,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 400,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7740#2,77400#4,3870#",
+		"level" : 387,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 401,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7760#2,77600#4,3880#",
+		"level" : 388,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 402,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7780#2,77800#4,3890#",
+		"level" : 389,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 403,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7800#2,78000#4,3900#",
+		"level" : 390,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 404,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7820#2,78200#4,3910#",
+		"level" : 391,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 405,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7840#2,78400#4,3920#",
+		"level" : 392,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 406,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7860#2,78600#4,3930#",
+		"level" : 393,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 407,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7880#2,78800#4,3940#",
+		"level" : 394,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 408,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7900#2,79000#4,3950#",
+		"level" : 395,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 409,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7920#2,79200#4,3960#",
+		"level" : 396,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 410,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7940#2,79400#4,3970#",
+		"level" : 397,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 411,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7960#2,79600#4,3980#",
+		"level" : 398,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 412,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,7980#2,79800#4,3990#",
+		"level" : 399,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 413,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	},
+	
+	{
+		"attrList" : "1,8000#2,80000#4,4000#",
+		"level" : 400,
+		"modelId" : 7010,
+		"name" : "sword_pool_name3",
+		"needExp" : 414,
+		"rewardStr" : "3,40153061,1#3,40151031,1#",
+		"shapeList" : "1,0#4,0#"
+	}
+]

@@ -1,0 +1,313 @@
+
+[
+	
+	{
+		"agentProduct" : "0",
+		"firstValueEx" : 3000,
+		"icon" : 1,
+		"id" : 1,
+		"money" : 10,
+		"name" : "1000元宝",
+		"order" : 3,
+		"platform" : 1,
+		"productId" : "1",
+		"rewardStr" : "2,2,1000",
+		"type" : 1,
+		"value" : 1000
+	},
+	
+	{
+		"agentProduct" : "0",
+		"icon" : 2,
+		"id" : 2,
+		"money" : 20,
+		"name" : "2000元宝",
+		"order" : 4,
+		"platform" : 1,
+		"productId" : "2",
+		"rewardStr" : "2,2,2000",
+		"type" : 1,
+		"value" : 2000
+	},
+	
+	{
+		"agentProduct" : "0",
+		"firstValueEx" : 15000,
+		"icon" : 3,
+		"id" : 3,
+		"money" : 50,
+		"name" : "5000元宝",
+		"order" : 6,
+		"platform" : 3,
+		"productId" : "3",
+		"rewardStr" : "2,2,5000",
+		"type" : 1,
+		"value" : 5000
+	},
+	
+	{
+		"agentProduct" : "0",
+		"firstValueEx" : 30000,
+		"icon" : 4,
+		"id" : 4,
+		"money" : 100,
+		"name" : "10000元宝",
+		"order" : 5,
+		"platform" : 1,
+		"productId" : "4",
+		"rewardStr" : "2,2,10000",
+		"type" : 1,
+		"value" : 10000
+	},
+	
+	{
+		"agentProduct" : "0",
+		"firstValueEx" : 60000,
+		"icon" : 5,
+		"id" : 5,
+		"money" : 200,
+		"name" : "20000元宝",
+		"order" : 7,
+		"platform" : 1,
+		"productId" : "5",
+		"rewardStr" : "2,2,20000",
+		"type" : 1,
+		"value" : 20000
+	},
+	
+	{
+		"agentProduct" : "0",
+		"icon" : 6,
+		"id" : 6,
+		"money" : 500,
+		"name" : "50000元宝",
+		"order" : 8,
+		"platform" : 1,
+		"productId" : "6",
+		"rewardStr" : "2,2,50000",
+		"type" : 1,
+		"value" : 50000
+	},
+	
+	{
+		"agentProduct" : "0",
+		"icon" : 7,
+		"id" : 7,
+		"money" : 1000,
+		"name" : "100000元宝",
+		"order" : 9,
+		"platform" : 1,
+		"productId" : "7",
+		"rewardStr" : "2,2,100000",
+		"type" : 1,
+		"value" : 100000
+	},
+	
+	{
+		"agentProduct" : "0",
+		"icon" : 8,
+		"id" : 8,
+		"money" : 1500,
+		"name" : "150000元宝",
+		"order" : 10,
+		"platform" : 1,
+		"productId" : "8",
+		"rewardStr" : "2,2,150000",
+		"type" : 1,
+		"value" : 150000
+	},
+	
+	{
+		"agentProduct" : "0",
+		"icon" : 9,
+		"id" : 9,
+		"money" : 2000,
+		"name" : "200000元宝",
+		"order" : 11,
+		"platform" : 1,
+		"productId" : "9",
+		"rewardStr" : "2,2,200000",
+		"type" : 1,
+		"value" : 200000
+	},
+	
+	{
+		"agentProduct" : "0",
+		"icon" : 10,
+		"id" : 10,
+		"money" : 3000,
+		"name" : "300000元宝",
+		"order" : 12,
+		"platform" : 1,
+		"productId" : "10",
+		"rewardStr" : "2,2,300000",
+		"type" : 1,
+		"value" : 300000
+	},
+	
+	{
+		"agentProduct" : "0",
+		"id" : 11,
+		"money" : 28,
+		"name" : "元宝月卡",
+		"order" : 1,
+		"platform" : 3,
+		"productId" : "11",
+		"rewardStr" : "3,40110206,2800",
+		"type" : 3,
+		"value" : 2800
+	},
+	
+	{
+		"agentProduct" : "0",
+		"id" : 12,
+		"money" : 88,
+		"name" : "特权月卡",
+		"order" : 2,
+		"platform" : 3,
+		"productId" : "12",
+		"rewardStr" : "3,40110206,8800",
+		"type" : 4,
+		"value" : 8800
+	},
+	
+	{
+		"agentProduct" : "0",
+		"firstValueEx" : 2400,
+		"icon" : 1,
+		"id" : 13,
+		"money" : 8,
+		"name" : "800元宝",
+		"order" : 3,
+		"platform" : 2,
+		"productId" : "101",
+		"rewardStr" : "2,2,800",
+		"type" : 1,
+		"value" : 800
+	},
+	
+	{
+		"agentProduct" : "0",
+		"firstValueEx" : 5400,
+		"icon" : 2,
+		"id" : 14,
+		"money" : 18,
+		"name" : "1800元宝",
+		"order" : 4,
+		"platform" : 2,
+		"productId" : "102",
+		"rewardStr" : "2,2,1800",
+		"type" : 1,
+		"value" : 1800
+	},
+	
+	{
+		"agentProduct" : "0",
+		"firstValueEx" : 29400,
+		"icon" : 4,
+		"id" : 15,
+		"money" : 98,
+		"name" : "9800元宝",
+		"order" : 5,
+		"platform" : 2,
+		"productId" : "103",
+		"rewardStr" : "2,2,9800",
+		"type" : 1,
+		"value" : 9800
+	},
+	
+	{
+		"agentProduct" : "0",
+		"icon" : 5,
+		"id" : 16,
+		"money" : 198,
+		"name" : "19800元宝",
+		"order" : 6,
+		"platform" : 2,
+		"productId" : "104",
+		"rewardStr" : "2,2,19800",
+		"type" : 1,
+		"value" : 19800
+	},
+	
+	{
+		"agentProduct" : "0",
+		"icon" : 6,
+		"id" : 17,
+		"money" : 298,
+		"name" : "29800元宝",
+		"order" : 7,
+		"platform" : 2,
+		"productId" : "105",
+		"rewardStr" : "2,2,29800",
+		"type" : 1,
+		"value" : 29800
+	},
+	
+	{
+		"agentProduct" : "0",
+		"icon" : 7,
+		"id" : 18,
+		"money" : 388,
+		"name" : "38800元宝",
+		"order" : 8,
+		"platform" : 2,
+		"productId" : "106",
+		"rewardStr" : "2,2,38800",
+		"type" : 1,
+		"value" : 38800
+	},
+	
+	{
+		"agentProduct" : "0",
+		"icon" : 8,
+		"id" : 19,
+		"money" : 488,
+		"name" : "48800元宝",
+		"order" : 9,
+		"platform" : 2,
+		"productId" : "107",
+		"rewardStr" : "2,2,48800",
+		"type" : 1,
+		"value" : 48800
+	},
+	
+	{
+		"agentProduct" : "0",
+		"icon" : 9,
+		"id" : 20,
+		"money" : 588,
+		"name" : "58800元宝",
+		"order" : 10,
+		"platform" : 2,
+		"productId" : "108",
+		"rewardStr" : "2,2,58800",
+		"type" : 1,
+		"value" : 58800
+	},
+	
+	{
+		"agentProduct" : "0",
+		"icon" : 10,
+		"id" : 21,
+		"money" : 648,
+		"name" : "64800元宝",
+		"order" : 11,
+		"platform" : 2,
+		"productId" : "109",
+		"rewardStr" : "2,2,64800",
+		"type" : 1,
+		"value" : 64800
+	},
+	
+	{
+		"agentProduct" : "0",
+		"id" : 22,
+		"money" : 108,
+		"name" : "9800元宝",
+		"platform" : 3,
+		"productId" : "201",
+		"type" : 5,
+		"value" : 9800
+	}
+]

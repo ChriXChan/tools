@@ -1,0 +1,315 @@
+
+[
+	
+	{
+		"acitvityType" : 1,
+		"condition" : "94,95",
+		"count" : 5,
+		"desc" : "击杀一个boss可获得",
+		"gainNum" : 5,
+		"id" : 1
+	},
+	
+	{
+		"acitvityType" : 6,
+		"condition" : "101",
+		"count" : 5,
+		"desc" : "进入一次蛮荒禁地获得",
+		"gainNum" : 5,
+		"id" : 2
+	},
+	
+	{
+		"acitvityType" : 2,
+		"condition" : "0",
+		"count" : 5,
+		"desc" : "符文寻宝一次可获得",
+		"gainNum" : 5,
+		"id" : 3
+	},
+	
+	{
+		"acitvityType" : 3,
+		"condition" : "100,101",
+		"count" : 5,
+		"desc" : "装备寻宝可获得",
+		"gainNum" : 2,
+		"id" : 4
+	},
+	
+	{
+		"acitvityType" : 3,
+		"condition" : "201",
+		"count" : 5,
+		"desc" : "巅峰寻宝一次可获得",
+		"gainNum" : 3,
+		"id" : 5
+	},
+	
+	{
+		"acitvityType" : 3,
+		"condition" : "601",
+		"count" : 5,
+		"desc" : "至尊寻宝一次可获得",
+		"gainNum" : 3,
+		"id" : 6
+	},
+	
+	{
+		"acitvityType" : 4,
+		"condition" : "1,2",
+		"count" : 5,
+		"desc" : "祈福一次可获得",
+		"gainNum" : 1,
+		"id" : 7
+	},
+	
+	{
+		"acitvityType" : 5,
+		"condition" : "23",
+		"count" : 20,
+		"desc" : "完成一次赏金任务获得",
+		"gainNum" : 1,
+		"id" : 8
+	},
+	
+	{
+		"acitvityType" : 6,
+		"condition" : "92",
+		"count" : 5,
+		"desc" : "进入一次仙帝宝库获得",
+		"gainNum" : 3,
+		"id" : 9
+	},
+	
+	{
+		"acitvityType" : 6,
+		"condition" : "93",
+		"count" : 5,
+		"desc" : "进入一次守护仙灵获得",
+		"gainNum" : 3,
+		"id" : 10
+	},
+	
+	{
+		"acitvityType" : 6,
+		"condition" : "89",
+		"count" : 3,
+		"desc" : "进入一次九幽魔窟获得",
+		"gainNum" : 3,
+		"id" : 11
+	},
+	
+	{
+		"acitvityType" : 6,
+		"condition" : "98",
+		"count" : 3,
+		"desc" : "进入一次圣灵血阵获得",
+		"gainNum" : 3,
+		"id" : 12
+	},
+	
+	{
+		"acitvityType" : 6,
+		"condition" : "104",
+		"count" : 2,
+		"desc" : "进入一次五行神殿获得",
+		"gainNum" : 3,
+		"id" : 13
+	},
+	
+	{
+		"acitvityType" : 6,
+		"condition" : "106",
+		"count" : 3,
+		"desc" : "进入一次百鬼夜行获得",
+		"gainNum" : 3,
+		"id" : 14
+	},
+	
+	{
+		"acitvityType" : 6,
+		"condition" : "33",
+		"count" : 1,
+		"desc" : "参与一次青云之巅获得",
+		"gainNum" : 10,
+		"id" : 15
+	},
+	
+	{
+		"acitvityType" : 6,
+		"condition" : "83",
+		"count" : 1,
+		"desc" : "参与一次三界战场获得",
+		"gainNum" : 10,
+		"id" : 16
+	},
+	
+	{
+		"acitvityType" : 6,
+		"condition" : "87",
+		"count" : 10,
+		"desc" : "参与一次巅峰竞技获得",
+		"gainNum" : 1,
+		"id" : 17
+	},
+	
+	{
+		"acitvityType" : 7,
+		"condition" : "40219001,40219002,40219003,40219004,40219005,40219006,40219007",
+		"count" : 50,
+		"desc" : "烟花盛典",
+		"gainNum" : 3,
+		"id" : 18
+	},
+	
+	{
+		"acitvityType" : 1,
+		"condition" : "94,95",
+		"count" : 5,
+		"desc" : "击杀一个boss可获得",
+		"flag" : 4,
+		"gainNum" : 5,
+		"id" : 19
+	},
+	
+	{
+		"acitvityType" : 6,
+		"condition" : "101",
+		"count" : 5,
+		"desc" : "进入一次蛮荒禁地获得",
+		"flag" : 4,
+		"gainNum" : 5,
+		"id" : 20
+	},
+	
+	{
+		"acitvityType" : 2,
+		"condition" : "0",
+		"count" : 10,
+		"desc" : "符文寻宝一次可获得",
+		"flag" : 4,
+		"gainNum" : 5,
+		"id" : 21
+	},
+	
+	{
+		"acitvityType" : 3,
+		"condition" : "100,101",
+		"count" : 50,
+		"desc" : "装备寻宝可获得",
+		"flag" : 4,
+		"gainNum" : 2,
+		"id" : 22
+	},
+	
+	{
+		"acitvityType" : 3,
+		"condition" : "201",
+		"count" : 50,
+		"desc" : "巅峰寻宝可获得",
+		"flag" : 4,
+		"gainNum" : 3,
+		"id" : 23
+	},
+	
+	{
+		"acitvityType" : 5,
+		"condition" : "23",
+		"count" : 20,
+		"desc" : "完成一次赏金任务获得",
+		"flag" : 4,
+		"gainNum" : 1,
+		"id" : 24
+	},
+	
+	{
+		"acitvityType" : 6,
+		"condition" : "92",
+		"count" : 5,
+		"desc" : "进入一次仙帝宝库获得",
+		"flag" : 4,
+		"gainNum" : 3,
+		"id" : 25
+	},
+	
+	{
+		"acitvityType" : 6,
+		"condition" : "93",
+		"count" : 5,
+		"desc" : "进入一次守护仙灵获得",
+		"flag" : 4,
+		"gainNum" : 3,
+		"id" : 26
+	},
+	
+	{
+		"acitvityType" : 6,
+		"condition" : "89",
+		"count" : 6,
+		"desc" : "进入一次九幽魔窟获得",
+		"flag" : 4,
+		"gainNum" : 3,
+		"id" : 27
+	},
+	
+	{
+		"acitvityType" : 6,
+		"condition" : "98",
+		"count" : 3,
+		"desc" : "进入一次圣灵血阵获得",
+		"flag" : 4,
+		"gainNum" : 3,
+		"id" : 28
+	},
+	
+	{
+		"acitvityType" : 6,
+		"condition" : "104",
+		"count" : 2,
+		"desc" : "进入一次五行神殿获得",
+		"flag" : 4,
+		"gainNum" : 3,
+		"id" : 29
+	},
+	
+	{
+		"acitvityType" : 6,
+		"condition" : "106",
+		"count" : 3,
+		"desc" : "进入一次百鬼夜行获得",
+		"flag" : 4,
+		"gainNum" : 3,
+		"id" : 30
+	},
+	
+	{
+		"acitvityType" : 9,
+		"condition" : "4",
+		"count" : 20,
+		"desc" : "合成四级宝石可获得",
+		"flag" : 4,
+		"gainNum" : 3,
+		"id" : 31
+	},
+	
+	{
+		"acitvityType" : 9,
+		"condition" : "5",
+		"count" : 10,
+		"desc" : "合成五级宝石可获得",
+		"flag" : 4,
+		"gainNum" : 5,
+		"id" : 32
+	},
+	
+	{
+		"acitvityType" : 9,
+		"condition" : "6",
+		"count" : 5,
+		"desc" : "合成六级宝石可获得",
+		"flag" : 4,
+		"gainNum" : 8,
+		"id" : 33
+	}
+]

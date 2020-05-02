@@ -1,0 +1,337 @@
+
+[
+	
+	{
+		"delayDie" : 200,
+		"effectHurt" : "[100,200]",
+		"effectList" : "[{\"effectId\":101030011,\"x\":0,\"y\":-50,\"layer\":0,\"delay\":0,\"toPointDis\":45},{\"effectId\":101030012,\"x\":0,\"y\":-50,\"layer\":0,\"delay\":0,\"toPointDis\":-10},{\"effectId\":101030013,\"x\":0,\"y\":-50,\"layer\":0,\"delay\":0,\"toPointDis\":-10},{\"effectId\":101030014,\"x\":0,\"y\":-50,\"layer\":0,\"delay\":200,\"toPointDis\":70},{\"effectId\":101030015,\"x\":0,\"y\":-50,\"layer\":0,\"delay\":200,\"toPointDis\":70},{\"effectId\":101030016,\"x\":0,\"y\":-50,\"layer\":0,\"delay\":100,\"toPointDis\":-110},{\"effectId\":101030017,\"x\":0,\"y\":-50,\"layer\":0,\"delay\":200,\"toPointDis\":-110},{\"effectId\":101030018,\"x\":0,\"y\":-50,\"layer\":0,\"delay\":300,\"toPointDis\":-10}]",
+		"effectPos" : 2,
+		"effectType" : 2,
+		"listId" : 10103001
+	},
+	
+	{
+		"delayDie" : 300,
+		"effectHurt" : "[330,430,530]",
+		"effectList" : "[{\"effectId\":101050011,\"x\":0,\"y\":0,\"layer\":5,\"mirror\":1,\"delay\":333},{\"effectId\":2010051,\"x\":-38,\"y\":-212,\"mirror\":1,\"layer\":5,\"delay\":333},{\"effectId\":2010052,\"x\":-202,\"y\":-17,\"mirror\":1,\"layer\":5,\"delay\":410},{\"effectId\":2010053,\"x\":236,\"y\":-16,\"mirror\":1,\"layer\":5,\"delay\":487},{\"effectId\":2010054,\"x\":248,\"y\":-168,\"mirror\":1,\"layer\":5,\"delay\":564}]",
+		"effectPos" : 1,
+		"effectType" : 1,
+		"listId" : 10105001
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[{\"effectId\":101040011,\"x\":0,\"y\":-65,\"layer\":5,\"delay\":0},{\"effectId\":2010061,\"x\":0,\"y\":-65,\"layer\":5,\"delay\":307,\"toPointDis\":220}]",
+		"effectPos" : 2,
+		"effectType" : 2,
+		"listId" : 10104001
+	},
+	
+	{
+		"delayDie" : 850,
+		"effectHurt" : "[500,600,850]",
+		"effectList" : "[{\"effectId\":101060011,\"x\":0,\"y\":-500,\"layer\":0,\"delay\":0},{\"effectId\":101060012,\"x\":0,\"y\":-500,\"layer\":6,\"delay\":100},{\"effectId\":101060013,\"x\":-134,\"y\":-25,\"layer\":0,\"delay\":385},{\"effectId\":101060013,\"x\":6,\"y\":84,\"layer\":0,\"delay\":462},{\"effectId\":101060013,\"x\":171,\"y\":-11,\"layer\":0,\"delay\":462},{\"effectId\":101060013,\"x\":20,\"y\":-74,\"layer\":0,\"delay\":529},{\"effectId\":101060013,\"x\":-151,\"y\":-114,\"layer\":0,\"delay\":616},{\"effectId\":101060013,\"x\":-171,\"y\":125,\"layer\":0,\"delay\":693},{\"effectId\":101060013,\"x\":185,\"y\":135,\"layer\":0,\"delay\":770},{\"effectId\":101060013,\"x\":210,\"y\":-81,\"layer\":0,\"delay\":924},{\"effectId\":101060014,\"x\":0,\"y\":0,\"layer\":0,\"delay\":1150}]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 10106001,
+		"shake" : "[{\"type\":1,\"delay\":500,\"intensity\":15,\"time\":500,\"speed\":35,\"angle\":90},{\"type\":1,\"delay\":1300,\"intensity\":35,\"time\":300,\"speed\":35,\"angle\":90,\"increase\":[50,-50,2]}]"
+	},
+	
+	{
+		"delayDie" : 530,
+		"effectHurt" : "[530]",
+		"effectList" : "[{\"effectId\":102010011,\"x\":0,\"y\":-75,\"layer\":0,\"delay\":300,\"move\":{\"type\":1,\"tail\":[102010013,1,80],\"endEffectId\":102010012,\"speed\":900,\"height\":0}}]",
+		"effectPos" : 2,
+		"effectType" : 4,
+		"listId" : 10201001
+	},
+	
+	{
+		"delayDie" : 300,
+		"effectHurt" : "[200]",
+		"effectList" : "[{\"effectId\":102040011,\"x\":0,\"y\":-75,\"layer\":0,\"delay\":300, \"layerSet\":{\"rule\":1,\"data\":[3, 5]}},{\"effectId\":102040012,\"x\":0,\"y\":-75,\"layer\":0,\"delay\":334}]",
+		"effectPos" : 1,
+		"effectType" : 2,
+		"listId" : 10204001
+	},
+	
+	{
+		"delayDie" : 350,
+		"effectHurt" : "[200]",
+		"effectList" : "[{\"effectId\":102050011,\"x\":0,\"y\":-65,\"layer\":0,\"delay\":300, \"layerSet\":{\"rule\":1,\"data\":[3, 5]}}]",
+		"effectPos" : 1,
+		"effectType" : 2,
+		"listId" : 10205001
+	},
+	
+	{
+		"effectHurt" : "[0]",
+		"effectList" : "[{\"effectId\":102070011,\"x\":0,\"y\":0,\"layer\":2,\"delay\":0}]",
+		"effectPos" : 1,
+		"effectType" : 1,
+		"listId" : 10207001
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[500,700,800,900]",
+		"effectList" : "[{\"effectId\":102060021,\"x\":101,\"y\":-193,\"layer\":0,\"delay\":67},{\"effectId\":102060011,\"x\":11,\"y\":-6,\"layer\":0,\"delay\":335},{\"effectId\":102060011,\"x\":-119,\"y\":113,\"layer\":0,\"delay\":402},{\"effectId\":102060011,\"x\":-203,\"y\":-31,\"layer\":0,\"delay\":469},{\"effectId\":102060011,\"x\":85,\"y\":-70,\"layer\":0,\"delay\":469},{\"effectId\":102060011,\"x\":174,\"y\":54,\"layer\":0,\"delay\":536},{\"effectId\":102060011,\"x\":-200,\"y\":-98,\"layer\":0,\"delay\":603},{\"effectId\":102060021,\"x\":-231,\"y\":-50,\"layer\":0,\"delay\":670},{\"effectId\":102060011,\"x\":128,\"y\":39,\"layer\":0,\"delay\":737},{\"effectId\":102060011,\"x\":-68,\"y\":-7,\"layer\":0,\"delay\":737},{\"effectId\":102060011,\"x\":-35,\"y\":157,\"layer\":0,\"delay\":737},{\"effectId\":102060011,\"x\":-224,\"y\":53,\"layer\":0,\"delay\":804},{\"effectId\":102060011,\"x\":63,\"y\":18,\"layer\":0,\"delay\":871},{\"effectId\":102060011,\"x\":-29,\"y\":-127,\"layer\":0,\"delay\":938},{\"effectId\":102060021,\"x\":-127,\"y\":77,\"layer\":0,\"delay\":938},{\"effectId\":102060011,\"x\":222,\"y\":-14,\"layer\":0,\"delay\":1005}]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 10206001,
+		"shake" : "{\"type\":1,\"delay\":500,\"intensity\":30,\"time\":850,\"speed\":45,\"angle\":83,\"increase\":[50,-50,2]}"
+	},
+	
+	{
+		"delayDie" : 530,
+		"effectHurt" : "[530]",
+		"effectList" : "[{\"effectId\":102030011,\"x\":0,\"y\":-75,\"layer\":0,\"delay\":300,\"move\":{\"type\":1,\"tail\":[102030012,1,80],\"endEffectId\":102030013,\"speed\":900,\"height\":0}}]",
+		"effectPos" : 2,
+		"effectType" : 4,
+		"listId" : 10203001
+	},
+	
+	{
+		"delayDie" : 300,
+		"effectHurt" : "[300]",
+		"effectList" : "[{\"effectId\":101010011,\"x\":12,\"y\":-132,\"layer\":0,\"delay\":0,\"height\":-70},{\"effectId\":101010012,\"x\":26,\"y\":-53,\"layer\":0,\"delay\":0,\"height\":-70},{\"effectId\":101010013,\"x\":-6,\"y\":-52,\"layer\":0,\"delay\":0,\"height\":-70},{\"effectId\":101010016,\"x\":-19,\"y\":24,\"layer\":0,\"delay\":77,\"height\":-70},{\"effectId\":101010014,\"x\":21,\"y\":-180,\"layer\":0,\"delay\":154,\"height\":-70},{\"effectId\":101010015,\"x\":-39,\"y\":-167,\"layer\":0,\"delay\":154,\"height\":-70},{\"effectId\":101010017,\"x\":8,\"y\":22,\"layer\":0,\"delay\":154,\"height\":-70},{\"effectId\":101010018,\"x\":-1,\"y\":-85,\"layer\":0,\"delay\":231,\"height\":-70}]",
+		"effectPos" : 2,
+		"effectType" : 6,
+		"listId" : 10101001
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[{\"effectId\":102090011,\"x\":0,\"y\":0,\"layer\":0,\"delay\":0,\"move\":{\"type\":0,\"to\":[0,0],\"moveDis\":500,\"speed\":600,\"acceleration\":0,\"offAngle\":0,\"scale\":[200,1000,3,200],\"noObjHeight\":1}}]",
+		"effectPos" : 2,
+		"effectType" : 4,
+		"listId" : 10209001
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[{\"effectId\":102090012,\"x\":0,\"y\":-100,\"layer\":0,\"delay\":150},{\"effectId\":102090013,\"x\":0,\"y\":-200,\"layer\":0,\"delay\":250},{\"effectId\":102090014,\"x\":0,\"y\":-300,\"layer\":0,\"delay\":350},{\"effectId\":102090015,\"x\":0,\"y\":-400,\"layer\":0,\"delay\":500}]",
+		"effectPos" : 2,
+		"effectType" : 6,
+		"listId" : 10209002
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[{\"effectId\":102090016,\"x\":0,\"y\":-100,\"layer\":0,\"delay\":150},{\"effectId\":102090017,\"x\":0,\"y\":-200,\"layer\":0,\"delay\":250},{\"effectId\":102090018,\"x\":0,\"y\":-300,\"layer\":0,\"delay\":350},{\"effectId\":102090019,\"x\":0,\"y\":-400,\"layer\":0,\"delay\":500}]",
+		"effectPos" : 2,
+		"effectType" : 6,
+		"listId" : 10209003
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 10107001
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[150,350,450,550]",
+		"effectList" : "[{\"effectId\":101020041,\"x\":-241,\"y\":64,\"layer\":1,\"delay\":0},{\"effectId\":101020042,\"x\":-93,\"y\":-101,\"layer\":1,\"delay\":0},{\"effectId\":101020031,\"x\":-223,\"y\":15,\"layer\":0,\"delay\":77},{\"effectId\":101020043,\"x\":-54,\"y\":137,\"layer\":1,\"delay\":77},{\"effectId\":101020044,\"x\":238,\"y\":-6,\"layer\":1,\"delay\":77},{\"effectId\":101020031,\"x\":100,\"y\":-147,\"layer\":0,\"delay\":154},{\"effectId\":101020021,\"x\":-223,\"y\":13,\"layer\":0,\"delay\":154},{\"effectId\":101020045,\"x\":113,\"y\":138,\"layer\":1,\"delay\":154},{\"effectId\":101020046,\"x\":65,\"y\":-131,\"layer\":1,\"delay\":154},{\"effectId\":101020021,\"x\":100,\"y\":-148,\"layer\":0,\"delay\":231},{\"effectId\":101020031,\"x\":128,\"y\":74,\"layer\":0,\"delay\":308},{\"effectId\":101020021,\"x\":130,\"y\":72,\"layer\":0,\"delay\":385},{\"effectId\":101020031,\"x\":-137,\"y\":-143,\"layer\":0,\"delay\":385},{\"effectId\":101020021,\"x\":-133,\"y\":-142,\"layer\":0,\"delay\":462},{\"effectId\":101020031,\"x\":192,\"y\":-29,\"layer\":0,\"delay\":539},{\"effectId\":101020021,\"x\":197,\"y\":-26,\"layer\":0,\"delay\":616},{\"effectId\":101020031,\"x\":-98,\"y\":78,\"layer\":0,\"delay\":693},{\"effectId\":101020021,\"x\":-97,\"y\":77,\"layer\":0,\"delay\":770}]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 10102001,
+		"shake" : "{\"type\":1,\"delay\":150,\"intensity\":30,\"time\":600,\"speed\":40,\"angle\":90,\"increase\":[50,-50,2]}"
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[{\"effectId\":302010011,\"x\":0,\"y\":-50,\"layer\":0,\"delay\":600,\"move\":{\"type\":1,\"to\":[100,100],\"moveDis\":1000,\"speed\":900,\"acceleration\":0}}]",
+		"effectPos" : 2,
+		"effectType" : 4,
+		"listId" : 30201001
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[{\"effectId\":306010011,\"x\":0,\"y\":0,\"layer\":0,\"delay\":0}]",
+		"effectPos" : 1,
+		"effectType" : 5,
+		"listId" : 30601001
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[{\"effectId\":101080011,\"x\":0,\"y\":0,\"layer\":1,\"delay\":0}]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 10108001
+	},
+	
+	{
+		"delayDie" : 300,
+		"effectHurt" : "[300]",
+		"effectList" : "[{\"effectId\":9999,\"x\":0,\"y\":0,\"layer\":0,\"delay\":0},{\"effectId\":999991,\"x\":0,\"y\":0,\"layer\":6,\"delay\":180},{\"effectId\":999992,\"x\":0,\"y\":0,\"layer\":6,\"delay\":180}]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 9999,
+		"shake" : "{\"type\":1,\"delay\":200,\"intensity\":40,\"time\":500,\"speed\":40,\"angle\":90,\"increase\":[50,-50,3]}"
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[{\"effectId\":10061,\"x\":0,\"y\":-90,\"layer\":0,\"delay\":0},{\"effectId\":10062,\"x\":65,\"y\":-250,\"layer\":0,\"delay\":100},{\"effectId\":10062,\"x\":-65,\"y\":-250,\"layer\":0,\"delay\":100},{\"effectId\":10063,\"x\":130,\"y\":-380,\"layer\":0,\"delay\":200},{\"effectId\":10063,\"x\":0,\"y\":-400,\"layer\":0,\"delay\":200},{\"effectId\":10063,\"x\":-130,\"y\":-380,\"layer\":0,\"delay\":200}]",
+		"effectPos" : 1,
+		"effectType" : 3,
+		"listId" : 1006,
+		"shake" : "{\"type\":1,\"delay\":50,\"intensity\":10,\"time\":230,\"speed\":33}"
+	},
+	
+	{
+		"delayDie" : 200,
+		"effectHurt" : "[50,100,150,200,250]",
+		"effectList" : "[{\"effectId\":20061,\"x\":0,\"y\":0,\"layer\":0,\"delay\":0},{\"effectId\":20062,\"x\":80,\"y\":-30,\"layer\":0,\"delay\":50},{\"effectId\":20063,\"x\":-80,\"y\":30,\"layer\":0,\"delay\":100},{\"effectId\":20064,\"x\":50,\"y\":20,\"layer\":0,\"delay\":150},{\"effectId\":20065,\"x\":-20,\"y\":0,\"layer\":0,\"delay\":200}]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 2006,
+		"shake" : "{\"type\":1,\"delay\":50,\"intensity\":10,\"time\":200,\"speed\":33}"
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[{\"effectId\":20071,\"x\":0,\"y\":0,\"layer\":0,\"delay\":0}]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 2007
+	},
+	
+	{
+		"delayDie" : 100,
+		"effectHurt" : "[100]",
+		"effectList" : "[{\"effectId\":30061,\"x\":0,\"y\":0,\"layer\":0,\"delay\":0}]",
+		"effectPos" : 2,
+		"effectType" : 1,
+		"listId" : 3006,
+		"shake" : "{\"type\":1,\"delay\":50,\"intensity\":10,\"time\":200,\"speed\":33}"
+	},
+	
+	{
+		"effectList" : "[{\"effectId\":2010011,\"x\":215,\"y\":-128,\"layer\":5,\"delay\":268}]",
+		"effectPos" : 1,
+		"effectType" : 1,
+		"listId" : 20101001
+	},
+	
+	{
+		"effectList" : "[{\"effectId\":2010012,\"x\":-215,\"y\":-128,\"layer\":5,\"delay\":268}]",
+		"effectPos" : 1,
+		"effectType" : 1,
+		"listId" : 20101002
+	},
+	
+	{
+		"effectList" : "[{\"effectId\":2010013,\"x\":188,\"y\":3,\"layer\":5,\"delay\":268}]",
+		"effectPos" : 1,
+		"effectType" : 1,
+		"listId" : 20101003
+	},
+	
+	{
+		"effectList" : "[{\"effectId\":2010014,\"x\":-188,\"y\":3,\"layer\":5,\"delay\":268}]",
+		"effectPos" : 1,
+		"effectType" : 1,
+		"listId" : 20101004
+	},
+	
+	{
+		"effectList" : "[{\"effectId\":2010021,\"x\":155,\"y\":-40,\"layer\":5,\"delay\":268}]",
+		"effectPos" : 1,
+		"effectType" : 1,
+		"listId" : 20102001
+	},
+	
+	{
+		"effectList" : "[{\"effectId\":2010022,\"x\":-155,\"y\":-40,\"layer\":5,\"delay\":268}]",
+		"effectPos" : 1,
+		"effectType" : 1,
+		"listId" : 20102002
+	},
+	
+	{
+		"effectList" : "[{\"effectId\":2010023,\"x\":104,\"y\":110,\"layer\":5,\"delay\":268}]",
+		"effectPos" : 1,
+		"effectType" : 1,
+		"listId" : 20102003
+	},
+	
+	{
+		"effectList" : "[{\"effectId\":2010024,\"x\":-104,\"y\":110,\"layer\":5,\"delay\":268}]",
+		"effectPos" : 1,
+		"effectType" : 1,
+		"listId" : 20102004
+	},
+	
+	{
+		"effectList" : "[{\"effectId\":2010031,\"x\":45,\"y\":-214,\"layer\":5,\"delay\":268},{\"effectId\":2010032,\"x\":195,\"y\":-236,\"layer\":5,\"delay\":402}]",
+		"effectPos" : 1,
+		"effectType" : 1,
+		"listId" : 20103001
+	},
+	
+	{
+		"effectList" : "[{\"effectId\":2010033,\"x\":-45,\"y\":-214,\"layer\":5,\"delay\":268},{\"effectId\":2010034,\"x\":-195,\"y\":-236,\"layer\":5,\"delay\":402}]",
+		"effectPos" : 1,
+		"effectType" : 1,
+		"listId" : 20103002
+	},
+	
+	{
+		"effectList" : "[{\"effectId\":2010035,\"x\":94,\"y\":3,\"layer\":5,\"delay\":268},{\"effectId\":2010036,\"x\":203,\"y\":82,\"layer\":5,\"delay\":402}]",
+		"effectPos" : 1,
+		"effectType" : 1,
+		"listId" : 20103003
+	},
+	
+	{
+		"effectList" : "[{\"effectId\":2010037,\"x\":-94,\"y\":3,\"layer\":5,\"delay\":268},{\"effectId\":2010038,\"x\":-203,\"y\":82,\"layer\":5,\"delay\":402}]",
+		"effectPos" : 1,
+		"effectType" : 1,
+		"listId" : 20103004
+	},
+	
+	{
+		"effectList" : "[{\"effectId\":2010041,\"x\":192,\"y\":-120,\"layer\":5,\"delay\":268}]",
+		"effectPos" : 1,
+		"effectType" : 1,
+		"listId" : 20104001
+	},
+	
+	{
+		"effectList" : "[{\"effectId\":2010042,\"x\":-192,\"y\":-120,\"layer\":5,\"delay\":268}]",
+		"effectPos" : 1,
+		"effectType" : 1,
+		"listId" : 20104002
+	},
+	
+	{
+		"effectList" : "[{\"effectId\":2010043,\"x\":177,\"y\":10,\"layer\":5,\"delay\":268}]",
+		"effectPos" : 1,
+		"effectType" : 1,
+		"listId" : 20104003
+	},
+	
+	{
+		"effectList" : "[{\"effectId\":2010044,\"x\":-177,\"y\":10,\"layer\":5,\"delay\":268}]",
+		"effectPos" : 1,
+		"effectType" : 1,
+		"listId" : 20104004
+	}
+]

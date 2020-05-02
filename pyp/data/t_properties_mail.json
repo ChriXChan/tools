@@ -1,0 +1,1899 @@
+
+[
+	
+	{
+		"msgId" : 1,
+		"msgKey" : "sender_system",
+		"msgValue" : "系统"
+	},
+	
+	{
+		"msgId" : 2,
+		"msgKey" : "bag_full_give_reward_mail_title",
+		"msgValue" : "背包满通过邮件补发"
+	},
+	
+	{
+		"msgId" : 3,
+		"msgKey" : "bag_full_give_reward_mail_context",
+		"msgValue" : "背包满通过邮件补发奖励"
+	},
+	
+	{
+		"msgId" : 22,
+		"msgKey" : "kill_treasure_hunter_title",
+		"msgValue" : "打败盗宝者"
+	},
+	
+	{
+		"msgId" : 23,
+		"msgKey" : "kill_treasure_hunter_context",
+		"msgValue" : "成功打败盗宝者，背包已满或离线原因，夺回的神秘宝箱已放入邮件附件中。"
+	},
+	
+	{
+		"msgId" : 24,
+		"msgKey" : "guild_shop_buy_title",
+		"msgValue" : "购买仙盟商店物品"
+	},
+	
+	{
+		"msgId" : 25,
+		"msgKey" : "guild_shop_buy_context",
+		"msgValue" : "由于您购买仙盟商店物品时背包已满或离线，已将购买的物品放入邮件附件中。"
+	},
+	
+	{
+		"msgId" : 38,
+		"msgKey" : "guild_war_reward_title",
+		"msgValue" : "仙盟战奖励"
+	},
+	
+	{
+		"msgId" : 39,
+		"msgKey" : "guild_war_reward_context",
+		"msgValue" : "恭喜您！仙盟获得了盟战第{$1}名，盟内战功前{$2}的成员可获得{$3}个{$4}。"
+	},
+	
+	{
+		"msgId" : 55,
+		"msgKey" : "battle_field_reward_title",
+		"msgValue" : "战场奖励"
+	},
+	
+	{
+		"msgId" : 56,
+		"msgKey" : "battle_field_reward_context",
+		"msgValue" : "恭喜您在本次战场中取得个人第{$1}名，得到{$2}，请收取附件获取奖励。"
+	},
+	
+	{
+		"msgId" : 57,
+		"msgKey" : "battle_field_join_reward",
+		"msgValue" : "恭喜您在剑仙战场中获得荣誉达到50，得到{$2}，请收取附件获取奖励。"
+	},
+	
+	{
+		"msgId" : 75,
+		"msgKey" : "market_timeout_title",
+		"msgValue" : "挂售超时"
+	},
+	
+	{
+		"msgId" : 76,
+		"msgKey" : "market_timeout_context",
+		"msgValue" : "市场挂售超时，挂售的物品进行回退。"
+	},
+	
+	{
+		"msgId" : 77,
+		"msgKey" : "market_sell_success_title1",
+		"msgValue" : "挂售成功"
+	},
+	
+	{
+		"msgId" : 78,
+		"msgKey" : "market_sell_success_title2",
+		"msgValue" : "挂售成功"
+	},
+	
+	{
+		"msgId" : 79,
+		"msgKey" : "market_sell_success_title3",
+		"msgValue" : "挂售成功"
+	},
+	
+	{
+		"msgId" : 80,
+		"msgKey" : "market_sell_success_context1",
+		"msgValue" : "您成功出售【{$1}】，获得了{$2}元宝，请注意查收附件。"
+	},
+	
+	{
+		"msgId" : 81,
+		"msgKey" : "market_sell_success_context2",
+		"msgValue" : "您成功出售【{$1}】，获得了{$2}铜钱，请注意查收附件。"
+	},
+	
+	{
+		"msgId" : 82,
+		"msgKey" : "market_sell_success_context3",
+		"msgValue" : "您成功出售{$1}元宝，获得了{$2}铜钱，请注意查收附件。"
+	},
+	
+	{
+		"msgId" : 83,
+		"msgKey" : "market_sell_success_context4",
+		"msgValue" : "您成功出售{$1}铜钱，获得了{$2}元宝，请注意查收附件。"
+	},
+	
+	{
+		"msgId" : 90,
+		"msgKey" : "market_buy_title1",
+		"msgValue" : "购买成功"
+	},
+	
+	{
+		"msgId" : 91,
+		"msgKey" : "market_buy_title2",
+		"msgValue" : "购买成功"
+	},
+	
+	{
+		"msgId" : 92,
+		"msgKey" : "market_buy_title3",
+		"msgValue" : "购买成功"
+	},
+	
+	{
+		"msgId" : 93,
+		"msgKey" : "market_buy_context",
+		"msgValue" : "您于市场中成功购买的物品，已放入邮件附件中，请注意查收。"
+	},
+	
+	{
+		"msgId" : 94,
+		"msgKey" : "market_buy_context1",
+		"msgValue" : "您于市场中成功购买{$1}个【{$2}】，已放入邮件附件中，请注意查收。"
+	},
+	
+	{
+		"msgId" : 95,
+		"msgKey" : "market_buy_context2",
+		"msgValue" : "您于市场中成功购买【{$1}元宝】，已放入邮件附件中，请注意查收。"
+	},
+	
+	{
+		"msgId" : 96,
+		"msgKey" : "market_buy_context3",
+		"msgValue" : "您于市场中成功购买【{$1}铜钱】，已放入邮件附件中，请注意查收。"
+	},
+	
+	{
+		"msgId" : 97,
+		"msgKey" : "market_cancel_bag_full_title",
+		"msgValue" : "取消挂售"
+	},
+	
+	{
+		"msgId" : 98,
+		"msgKey" : "market_cancel_bag_full_context",
+		"msgValue" : "您的背包已满，您取消挂售的物品，已放入邮件附件中，请注意查收。"
+	},
+	
+	{
+		"msgId" : 99,
+		"msgKey" : "open_copy_box_title",
+		"msgValue" : "副本轮盘"
+	},
+	
+	{
+		"msgId" : 100,
+		"msgKey" : "open_copy_box_content",
+		"msgValue" : "您的背包空间不足，副本轮盘获得的奖励，已放入邮件附件。请注意查收。"
+	},
+	
+	{
+		"msgId" : 103,
+		"msgKey" : "arena_fina_reward_title",
+		"msgValue" : "本周个人竞技场比赛结果"
+	},
+	
+	{
+		"msgId" : 104,
+		"msgKey" : "arena_fina_reward_content",
+		"msgValue" : "亲爱的仙友，你在本周日的个人竞技场淘汰赛中表现优异，成绩突出，成功晋级{$1}强。获得物品：{$2}。"
+	},
+	
+	{
+		"msgId" : 110,
+		"msgKey" : "guild_delete_by_system_title",
+		"msgValue" : "仙盟强制解散"
+	},
+	
+	{
+		"msgId" : 111,
+		"msgKey" : "guild_delete_by_system_content",
+		"msgValue" : "由于仙盟资金低于{$1}，你的仙盟“{$2}”被强制解散了。"
+	},
+	
+	{
+		"msgId" : 112,
+		"msgKey" : "arena_reward_title",
+		"msgValue" : "一周竞技场奖励"
+	},
+	
+	{
+		"msgId" : 113,
+		"msgKey" : "arena_reward_content1",
+		"msgValue" : "亲爱的仙友，本周竞技赛已圆满结束。本期比赛您的排名：{$1}，获得积分：{$2}，根据您的排名，获得[{$3}]，请在附件中收取。"
+	},
+	
+	{
+		"msgId" : 114,
+		"msgKey" : "arena_reward_content2",
+		"msgValue" : "亲爱的仙友，本周竞技赛已圆满结束。本期比赛您的排名：{$1}，获得积分：{$2}，获得称号：{$3}，根据您的排名，获得[{$4}]，请在附件中收取。"
+	},
+	
+	{
+		"msgId" : 122,
+		"msgKey" : "toplist_special_actvie_title",
+		"msgValue" : "{$1}"
+	},
+	
+	{
+		"msgId" : 123,
+		"msgKey" : "toplist_special_active_content",
+		"msgValue" : "恭喜您在{$1}获得第 {$2} 名，发放的奖励已放入邮件附件中，请注意查收。"
+	},
+	
+	{
+		"msgId" : 124,
+		"msgKey" : "new_year_return_gift_title",
+		"msgValue" : "恭喜您获得新春回归大礼包"
+	},
+	
+	{
+		"msgId" : 125,
+		"msgKey" : "new_year_return_gift_content",
+		"msgValue" : "欢迎回归修真世界，奖励已经发放到附件中，请注意查收。感谢您一直以来对我们游戏的大力支持，祝您游戏愉快！"
+	},
+	
+	{
+		"msgId" : 126,
+		"msgKey" : "firework_reward_title",
+		"msgValue" : "齐放烟花活动奖励"
+	},
+	
+	{
+		"msgId" : 127,
+		"msgKey" : "firework_reward_content",
+		"msgValue" : "今日齐放烟火活动已经结束，活动奖励已经发放到附件中，请注意查收。祝您新春愉快！\r\n"
+	},
+	
+	{
+		"msgId" : 128,
+		"msgKey" : "firework_special_reward_content",
+		"msgValue" : "恭喜您在齐放烟花活动中获得特别奖励，活动奖励已经发放到附件中，请注意查收。祝您新春愉快！"
+	},
+	
+	{
+		"msgId" : 129,
+		"msgKey" : "peace_field_reward_title",
+		"msgValue" : "战场之魂奖励"
+	},
+	
+	{
+		"msgId" : 130,
+		"msgKey" : "peace_field_reward_context",
+		"msgValue" : "恭喜您在本次战场之魂中获得第{$1}名，请查收附件获取奖励。"
+	},
+	
+	{
+		"msgId" : 131,
+		"msgKey" : "valentine_login_reward_title",
+		"msgValue" : "活动登陆奖励"
+	},
+	
+	{
+		"msgId" : 132,
+		"msgKey" : "valentine_login_reward_content",
+		"msgValue" : "恭喜您获得活动登陆奖励，活动奖励已经发放到附件中，请注意查收。\r"
+	},
+	
+	{
+		"msgId" : 133,
+		"msgKey" : "item_add_bag_full_title",
+		"msgValue" : "背包已满"
+	},
+	
+	{
+		"msgId" : 134,
+		"msgKey" : "item_add_bag_full_content",
+		"msgValue" : "由于您的背包已满，物品已放入邮件中，请注意查收。"
+	},
+	
+	{
+		"msgId" : 135,
+		"msgKey" : "romanic_reward_title",
+		"msgValue" : "七夕节-兑换羽构筑鹊桥奖励"
+	},
+	
+	{
+		"msgId" : 136,
+		"msgKey" : "romanic_reward_content",
+		"msgValue" : "喜讯！喜讯！全服鹊桥已经到达{$1}，活动奖励已经发放到附件中，请注意查收。"
+	},
+	
+	{
+		"msgId" : 137,
+		"msgKey" : "marry_system_title",
+		"msgValue" : "仙侣系统"
+	},
+	
+	{
+		"msgId" : 138,
+		"msgKey" : "marry_system_server_down",
+		"msgValue" : "由于游戏维护，取消了您已预约的婚宴，请重新预约婚宴时间。"
+	},
+	
+	{
+		"msgId" : 142,
+		"msgKey" : "recharge_success_title",
+		"msgValue" : "充值成功"
+	},
+	
+	{
+		"msgId" : 143,
+		"msgKey" : "recharge_success_content",
+		"msgValue" : "充值成功，获得{$1}元宝，请注意查收"
+	},
+	
+	{
+		"msgId" : 149,
+		"msgKey" : "marry_divorce_title",
+		"msgValue" : "解除仙缘"
+	},
+	
+	{
+		"msgId" : 151,
+		"msgKey" : "marry_divorce_success",
+		"msgValue" : "经过双方协商，心平气和地解除了仙缘关系，现在你们恢复自由身了。"
+	},
+	
+	{
+		"msgId" : 152,
+		"msgKey" : "marry_divorce_force",
+		"msgValue" : "破镜难圆，{$1}进行了强制解除仙缘关系。现在你们恢复自由身了。"
+	},
+	
+	{
+		"msgId" : 156,
+		"msgKey" : "impeach_title",
+		"msgValue" : "盟主自动转让通知"
+	},
+	
+	{
+		"msgId" : 159,
+		"msgKey" : "impeach_content",
+		"msgValue" : "{$1}仙盟的盟主{$2}超过{$3}小时未上线，盟主已自动转让给{$4}。"
+	},
+	
+	{
+		"msgId" : 170,
+		"msgKey" : "guild_party_book_title",
+		"msgValue" : "仙盟宴会"
+	},
+	
+	{
+		"msgId" : 171,
+		"msgKey" : "guild_party_book_content",
+		"msgValue" : "{$1}[{$2}]将在{$3}点于仙盟领地中举办{$4}，请大家按时前来参与，经验多多奖励多多！"
+	},
+	
+	{
+		"msgId" : 172,
+		"msgKey" : "guild_party_give_back_title",
+		"msgValue" : "宴会补偿"
+	},
+	
+	{
+		"msgId" : 173,
+		"msgKey" : "guild_party_give_back_content",
+		"msgValue" : "由于服务器维护，您所预约的宴会被迫取消，宴会补偿返还{$1}元宝。"
+	},
+	
+	{
+		"msgId" : 174,
+		"msgKey" : "guild_party_book_reward_title",
+		"msgValue" : "宴会福利"
+	},
+	
+	{
+		"msgId" : 175,
+		"msgKey" : "guild_party_book_reward_content",
+		"msgValue" : "您所举办的仙盟宴会正常开启，您获得了举办宴会福利---{$1}。"
+	},
+	
+	{
+		"msgId" : 200,
+		"msgKey" : "market_seek_buy_timeout_title",
+		"msgValue" : "求购超时"
+	},
+	
+	{
+		"msgId" : 201,
+		"msgKey" : "market_seek_buy_timeout_context",
+		"msgValue" : "求购超时，剩余的保管费进行回退。"
+	},
+	
+	{
+		"msgId" : 202,
+		"msgKey" : "market_seek_buy_success_title",
+		"msgValue" : "求购成功"
+	},
+	
+	{
+		"msgId" : 203,
+		"msgKey" : "market_seek_buy_success_content",
+		"msgValue" : "您于市场中成功求购{$1}个【{$2}】，已放入邮件附件中，请注意查收。"
+	},
+	
+	{
+		"msgId" : 210,
+		"msgKey" : "arena_battle_times_title",
+		"msgValue" : "竞技场活动奖励"
+	},
+	
+	{
+		"msgId" : 211,
+		"msgKey" : "arena_battle_times_content",
+		"msgValue" : "您已参加{$1}场竞技场比赛，请收取附件获取奖励。"
+	},
+	
+	{
+		"msgId" : 213,
+		"msgKey" : "old_player_login_reward_title",
+		"msgValue" : "老玩家活动登陆奖励"
+	},
+	
+	{
+		"msgId" : 258,
+		"msgKey" : "active_olympic_reward_titile",
+		"msgValue" : "奥运竞猜奖励"
+	},
+	
+	{
+		"msgId" : 259,
+		"msgKey" : "active_olympic_reward_content",
+		"msgValue" : "恭喜你获得奥运竞猜活动奖励"
+	},
+	
+	{
+		"msgId" : 265,
+		"msgKey" : "market_sell_fail_title",
+		"msgValue" : "挂售失败"
+	},
+	
+	{
+		"msgId" : 266,
+		"msgKey" : "market_sell_fail_context",
+		"msgValue" : "挂售失败，您的物品或金钱通过邮件返还！"
+	},
+	
+	{
+		"msgId" : 267,
+		"msgKey" : "market_seek_buy_fail_title",
+		"msgValue" : "求购失败"
+	},
+	
+	{
+		"msgId" : 268,
+		"msgKey" : "market_seek_buy_fail_context",
+		"msgValue" : "求购失败，您的保管费通过邮件返还！"
+	},
+	
+	{
+		"msgId" : 269,
+		"msgKey" : "market_cancel_sell_fail_title",
+		"msgValue" : "取消挂售异常"
+	},
+	
+	{
+		"msgId" : 270,
+		"msgKey" : "market_cancel_sell_fail_context",
+		"msgValue" : "取消挂售异常，您的物品或金钱通过邮件返还！"
+	},
+	
+	{
+		"msgId" : 271,
+		"msgKey" : "market_cancel_seek_buy_fail_title",
+		"msgValue" : "取消求购异常"
+	},
+	
+	{
+		"msgId" : 272,
+		"msgKey" : "market_cancel_seek_buy_fail_context",
+		"msgValue" : "取消求购异常，您的保管费通过邮件返还！"
+	},
+	
+	{
+		"msgId" : 273,
+		"msgKey" : "market_sell_item_fail_title",
+		"msgValue" : "购买失败"
+	},
+	
+	{
+		"msgId" : 274,
+		"msgKey" : "market_sell_item_fail_context",
+		"msgValue" : "市场购买失败，消耗的费用通过邮件返还"
+	},
+	
+	{
+		"msgId" : 280,
+		"msgKey" : "gang_fights_daily_award_title",
+		"msgValue" : "远古3v3竞技场"
+	},
+	
+	{
+		"msgId" : 281,
+		"msgKey" : "gang_fights_daily_award_content",
+		"msgValue" : "您本次远古3v3竞技场小结算获得{$1}魔石，可以激活和提升天赋技能。"
+	},
+	
+	{
+		"msgId" : 282,
+		"msgKey" : "gang_fights_week_award_title",
+		"msgValue" : "远古3v3竞技场"
+	},
+	
+	{
+		"msgId" : 283,
+		"msgKey" : "gang_fights_week_award_content",
+		"msgValue" : "您本次周结获得远古功勋{$1}，可在远古功勋商店佩戴勋章，勋章可提高人物属性，佩戴勋章不消耗功勋值。"
+	},
+	
+	{
+		"msgId" : 284,
+		"msgKey" : "gang_fights_month_award_title",
+		"msgValue" : "远古3v3竞技场"
+	},
+	
+	{
+		"msgId" : 285,
+		"msgKey" : "gang_fights_month_award_content",
+		"msgValue" : "您本次月结获得双倍远古功勋{$1}，{$2}结算以后本期战队积分将会清除。"
+	},
+	
+	{
+		"msgId" : 286,
+		"msgKey" : "gang_fights_award_item_content",
+		"msgValue" : "物品{$1}，"
+	},
+	
+	{
+		"msgId" : 320,
+		"msgKey" : "guild_player_kick_out_title",
+		"msgValue" : "被踢出仙盟"
+	},
+	
+	{
+		"msgId" : 321,
+		"msgKey" : "guild_player_kick_out_content",
+		"msgValue" : "你已被踢出仙盟，仙盟心法依然有效，帮贡则被清空！"
+	},
+	
+	{
+		"msgId" : 325,
+		"msgKey" : "race_copy_perfect_reward_title",
+		"msgValue" : "竞速赛"
+	},
+	
+	{
+		"msgId" : 326,
+		"msgKey" : "race_copy_perfect_reward_content",
+		"msgValue" : "恭喜您在天神竞速赛中累计获得{$1}场前3名，获得奖励“{$2}”。"
+	},
+	
+	{
+		"msgId" : 327,
+		"msgKey" : "race_copy_rank_reward_title",
+		"msgValue" : "竞速赛"
+	},
+	
+	{
+		"msgId" : 328,
+		"msgKey" : "race_copy_rank_reward_content",
+		"msgValue" : "恭喜您在天神竞速赛中排列第{$1}名，获得奖励“{$2}”。"
+	},
+	
+	{
+		"msgId" : 340,
+		"msgKey" : "active_level_up_title",
+		"msgValue" : "角色等级提升奖励"
+	},
+	
+	{
+		"msgId" : 341,
+		"msgKey" : "active_level_up_context",
+		"msgValue" : "亲爱的玩家，恭喜你的角色等级提升至{$1}，为此我们特意为您准备的{$2}x{$3}，祝您游戏愉快。"
+	},
+	
+	{
+		"msgId" : 350,
+		"msgKey" : "wrestle_daily_award_title",
+		"msgValue" : "竞技日结算"
+	},
+	
+	{
+		"msgId" : 351,
+		"msgKey" : "wrestle_daily_award_content",
+		"msgValue" : "您本次日结算在本服排名第{$1}，获得金券{$2}。"
+	},
+	
+	{
+		"msgId" : 352,
+		"msgKey" : "wrestle_week_award_title",
+		"msgValue" : "竞技周结算"
+	},
+	
+	{
+		"msgId" : 353,
+		"msgKey" : "wrestle_week_award_content",
+		"msgValue" : "您本次周结算在本服排名第{$1}，获得金券{$2}{$3}。"
+	},
+	
+	{
+		"msgId" : 354,
+		"msgKey" : "wrestle_month_award_title",
+		"msgValue" : "竞技月结算"
+	},
+	
+	{
+		"msgId" : 355,
+		"msgKey" : "wrestle_month_award_content",
+		"msgValue" : "您本次月结在全服排名第{$1}，获得双倍金券{$2}{$3}。月结后竞技积分重置为初始积分，请您继续努力。"
+	},
+	
+	{
+		"msgId" : 356,
+		"msgKey" : "wrestle_award_item_content",
+		"msgValue" : "，获得礼包{$1}"
+	},
+	
+	{
+		"msgId" : 372,
+		"msgKey" : "player_level_up_reward_title",
+		"msgValue" : "升级达人奖励"
+	},
+	
+	{
+		"msgId" : 373,
+		"msgKey" : "player_level_up_reward_content",
+		"msgValue" : "恭喜您在“升级达人”活动中荣获第{$1}名，请查收奖励！"
+	},
+	
+	{
+		"msgId" : 374,
+		"msgKey" : "guild_level_up_reward_title",
+		"msgValue" : "仙盟升级奖励"
+	},
+	
+	{
+		"msgId" : 375,
+		"msgKey" : "guild_level_up_reward_content",
+		"msgValue" : "由于你们的齐心合力，你们的仙盟在“仙盟升级”活动中升级到3级以上，全体成员获得奖励，请查收奖励！"
+	},
+	
+	{
+		"msgId" : 376,
+		"msgKey" : "fight_up_reward_title",
+		"msgValue" : "战力竞赛奖励"
+	},
+	
+	{
+		"msgId" : 377,
+		"msgKey" : "fight_up_reward_content",
+		"msgValue" : "恭喜您在“战力竞赛”活动中荣获第{$1}名，请查收奖励！"
+	},
+	
+	{
+		"msgId" : 401,
+		"msgKey" : "get_daily_reward_title",
+		"msgValue" : "登陆有礼奖励"
+	},
+	
+	{
+		"msgId" : 402,
+		"msgKey" : "get_daily_reward_vip_content",
+		"msgValue" : "尊贵的仙友，恭喜你获得登陆有礼活动的奖励，请查收！"
+	},
+	
+	{
+		"msgId" : 403,
+		"msgKey" : "get_daily_reward_not_vip_content",
+		"msgValue" : "尊贵的仙友，恭喜你获得登陆有礼活动的奖励，请查收！"
+	},
+	
+	{
+		"msgId" : 407,
+		"msgKey" : "guild_boss_reward_title",
+		"msgValue" : "仙盟神兽奖励"
+	},
+	
+	{
+		"msgId" : 408,
+		"msgKey" : "guild_boss_reward_content",
+		"msgValue" : "您参与了仙盟神兽活动，奋勇打败了{$1}，获得{$2}*{$3}，请提取附件获得奖励。"
+	},
+	
+	{
+		"msgId" : 409,
+		"msgKey" : "guild_party_cancle_title",
+		"msgValue" : "仙盟宴会取消"
+	},
+	
+	{
+		"msgId" : 410,
+		"msgKey" : "guild_party_cancle_content",
+		"msgValue" : "由于游戏维护，导致仙盟宴会不能正常举行，敬请见谅"
+	},
+	
+	{
+		"msgId" : 411,
+		"msgKey" : "guild_war_reward_boss_context",
+		"msgValue" : "感谢您参与盟战，特此奖励{$1}*{$2}。"
+	},
+	
+	{
+		"msgId" : 422,
+		"msgKey" : "daily_addition_buff_expired_title",
+		"msgValue" : "日常辅助失效提醒"
+	},
+	
+	{
+		"msgId" : 423,
+		"msgKey" : "daily_addition_buff_expired_content",
+		"msgValue" : "尊敬的玩家，您使用的{$1}已到期，以后将不能获得相应的辅助奖励。再次使用可继续获得辅助效益！"
+	},
+	
+	{
+		"msgId" : 430,
+		"msgKey" : "guild_war_signup_by_leader_title",
+		"msgValue" : "仙盟战报名"
+	},
+	
+	{
+		"msgId" : 431,
+		"msgKey" : "guild_war_signup_by_leader_content",
+		"msgValue" : "盟主[{$1}]为全盟所有成员报名了仙盟战，请全体成员知悉并在盟战开启时及时进入击溃敌人。"
+	},
+	
+	{
+		"msgId" : 443,
+		"msgKey" : "notice_to_friends_after_modify_name_mail_title",
+		"msgValue" : "好友改名"
+	},
+	
+	{
+		"msgId" : 444,
+		"msgKey" : "notice_to_friend_after_modify_name_mail_content",
+		"msgValue" : "仙友！您的好友[{$1}]正式改名为[{$2}]，是不是更好听呢！"
+	},
+	
+	{
+		"msgId" : 447,
+		"msgKey" : "guild_member_title",
+		"msgValue" : "成功加入仙盟"
+	},
+	
+	{
+		"msgId" : 448,
+		"msgKey" : "guild_member_content",
+		"msgValue" : "恭喜你加入仙盟，你现在已成为【{$2}】仙盟的一员了，快和小伙伴们一起玩耍吧！"
+	},
+	
+	{
+		"msgId" : 449,
+		"msgKey" : "guild_tree_reward_title",
+		"msgValue" : "仙盟神树"
+	},
+	
+	{
+		"msgId" : 450,
+		"msgKey" : "guild_tree_reward_content",
+		"msgValue" : "您在本次仙盟神树活动中，通过努力获得了{$1}铜钱，同时还获得了{$2}贡献，请再接再厉。"
+	},
+	
+	{
+		"msgId" : 451,
+		"msgKey" : "guild_battle_reward_title",
+		"msgValue" : "仙盟战奖励"
+	},
+	
+	{
+		"msgId" : 452,
+		"msgKey" : "guild_battle_reward_content",
+		"msgValue" : "恭喜您！仙盟获得了盟战第{$1}名，盟内积分前{$2}的成员可获得{$3}个{$4}。"
+	},
+	
+	{
+		"msgId" : 460,
+		"msgKey" : "guild_battle_offline_title",
+		"msgValue" : "仙盟战"
+	},
+	
+	{
+		"msgId" : 461,
+		"msgKey" : "guild_battle_offline_content",
+		"msgValue" : "您参与本次仙盟战，仙盟排名{$1}，个人排名{$2}，仙盟获得资源{$3}，个人获得盟贡献{$4}，铜钱{$5}。"
+	},
+	
+	{
+		"msgId" : 462,
+		"msgKey" : "guild_beast_full_title",
+		"msgValue" : "仙盟神兽"
+	},
+	
+	{
+		"msgId" : 463,
+		"msgKey" : "guild_beast_full_content",
+		"msgValue" : "仙盟神兽已经喂饱了，请尽快召唤打败以获取丰厚奖励哦"
+	},
+	
+	{
+		"msgId" : 464,
+		"msgKey" : "guild_tree_full_title",
+		"msgValue" : "仙盟神树"
+	},
+	
+	{
+		"msgId" : 465,
+		"msgKey" : "guild_tree_full_content",
+		"msgValue" : "仙盟神树已经成熟啦，请尽快召唤神树，摘取神树果实可以获得丰厚铜钱奖励"
+	},
+	
+	{
+		"msgId" : 472,
+		"msgKey" : "wedding_send_item_title",
+		"msgValue" : "背包满通过邮件补发"
+	},
+	
+	{
+		"msgId" : 473,
+		"msgKey" : "wedding_send_item_content",
+		"msgValue" : "背包满通过邮件补发奖励"
+	},
+	
+	{
+		"msgId" : 474,
+		"msgKey" : "mount_toplist_reward_title",
+		"msgValue" : "坐骑排名奖励"
+	},
+	
+	{
+		"msgId" : 475,
+		"msgKey" : "mount_toplist_reward_content",
+		"msgValue" : "恭喜您在坐骑排名活动中获得第{$1}名，请查收奖励！"
+	},
+	
+	{
+		"msgId" : 478,
+		"msgKey" : "flower_board_reward_title",
+		"msgValue" : "鲜花榜奖励"
+	},
+	
+	{
+		"msgId" : 479,
+		"msgKey" : "flower_board_reward_content",
+		"msgValue" : "恭喜你获得了上周鲜花榜的第{$1}名，特奖励{$2}*{$3}个，请再接再厉。"
+	},
+	
+	{
+		"msgId" : 480,
+		"msgKey" : "flower_board_protect_reward_conten",
+		"msgValue" : "恭喜你获得了上周护花榜的第{$1}名，特奖励{$2}*{$3}个，请再接再厉。"
+	},
+	
+	{
+		"msgId" : 484,
+		"msgKey" : "active_reward_forget_to_get_title",
+		"msgValue" : "未领取的奖励"
+	},
+	
+	{
+		"msgId" : 485,
+		"msgKey" : "active_reward_forget_to_get_content",
+		"msgValue" : "亲爱的仙友，您在活动中有以下奖励未领取，请查收！祝您游戏愉快！"
+	},
+	
+	{
+		"msgId" : 489,
+		"msgKey" : "wedding_titile_send_title",
+		"msgValue" : "结婚纪念称号发放"
+	},
+	
+	{
+		"msgId" : 490,
+		"msgKey" : "wedding_titile_send_content",
+		"msgValue" : "恭喜你通过了爱情的考验，获得了“神仙眷侣”的称号！"
+	},
+	
+	{
+		"msgId" : 499,
+		"msgKey" : "bet_competition_title",
+		"msgValue" : "竞猜活动"
+	},
+	
+	{
+		"msgId" : 500,
+		"msgKey" : "bet_competition_win",
+		"msgValue" : "{$1}恭喜你在{$2}的对决中竞猜正确，获得{$3}%铜钱返还噢！一共{$4}铜钱，直接到账无需提取，请查看！"
+	},
+	
+	{
+		"msgId" : 501,
+		"msgKey" : "bet_competition_and_word",
+		"msgValue" : "与"
+	},
+	
+	{
+		"msgId" : 502,
+		"msgKey" : "bet_competition_lose",
+		"msgValue" : "{$1}你在{$2}的对决中竞猜错误，只能获得{$3}%铜钱返还噢！一共{$4}铜钱，直接到账无需提取，请查看！"
+	},
+	
+	{
+		"msgId" : 503,
+		"msgKey" : "bet_competition_timeout",
+		"msgValue" : "尊敬的仙友，您在竞猜活动当中，由于没有及时登陆并且获取赛果。只能获得{$1}%的铜钱返还。一共{$2}铜钱，直接到账无需提取，请查看！"
+	},
+	
+	{
+		"msgId" : 504,
+		"msgKey" : "bet_competition_win_time",
+		"msgValue" : "备受膜拜的竞猜达人，你已经累积竞猜{$1}场，获得{$2}礼包奖励，希望你跟大家一起分享竞猜经验噢！"
+	},
+	
+	{
+		"msgId" : 514,
+		"msgKey" : "active_marry_mail_title",
+		"msgValue" : "七夕结缘大礼包"
+	},
+	
+	{
+		"msgId" : 515,
+		"msgKey" : "active_marry_mail_content",
+		"msgValue" : "亲爱的仙友，您和您的另一半成功预约了{$1}庆典。附件是我们的贺礼，请收下。在这美好的节日里喜结良缘，我们衷心的祝福你们，携手相伴，白头偕老！"
+	},
+	
+	{
+		"msgId" : 522,
+		"msgKey" : "drop_item_bag_content",
+		"msgValue" : "亲爱的仙友，由于您的背包已满，现通过邮件将您获得的物品，发放给您，请查收，祝您游戏愉快！"
+	},
+	
+	{
+		"msgId" : 524,
+		"msgKey" : "drop_item_title",
+		"msgValue" : "掉落物品"
+	},
+	
+	{
+		"msgId" : 571,
+		"msgKey" : "mount_toplist_extra_reward_title",
+		"msgValue" : "坐骑排名奖励"
+	},
+	
+	{
+		"msgId" : 572,
+		"msgKey" : "mount_toplist_extra_reward_content",
+		"msgValue" : "恭喜您在坐骑排名活动中获得第{$1}并达到活动目标，额外奖励被激活，恭喜！\r\n"
+	},
+	
+	{
+		"msgId" : 573,
+		"msgKey" : "player_level_up_extra_reward_title",
+		"msgValue" : "升级达人奖励"
+	},
+	
+	{
+		"msgId" : 574,
+		"msgKey" : "player_level_up_extra_reward_content",
+		"msgValue" : "恭喜您在“升级达人”活动中荣获第{$1}并达到活动目标，额外奖励被激活，恭喜！\r\n"
+	},
+	
+	{
+		"msgId" : 576,
+		"msgKey" : "fight_up_extra_reward_title",
+		"msgValue" : "战力竞赛奖励"
+	},
+	
+	{
+		"msgId" : 577,
+		"msgKey" : "fight_up_extra_reward_content",
+		"msgValue" : "恭喜您在“战力竞赛”活动中荣获第{$1}名并达到活动目标，额外奖励被激活，恭喜！\r\n"
+	},
+	
+	{
+		"msgId" : 578,
+		"msgKey" : "open_flower_reward_title",
+		"msgValue" : "开服鲜花排行"
+	},
+	
+	{
+		"msgId" : 579,
+		"msgKey" : "open_flower_reward_content",
+		"msgValue" : "恭喜您在“鲜花排行榜”活动中荣获{$1}名！"
+	},
+	
+	{
+		"msgId" : 580,
+		"msgKey" : "protect_flower_reward_title",
+		"msgValue" : "护花奖励"
+	},
+	
+	{
+		"msgId" : 581,
+		"msgKey" : "protect_flower_reward_content",
+		"msgValue" : "恭喜您在“护花”活动中荣获第{$1}名，请查收奖励！"
+	},
+	
+	{
+		"msgId" : 582,
+		"msgKey" : "protect_flower_extra_reward_title",
+		"msgValue" : "护花奖励"
+	},
+	
+	{
+		"msgId" : 583,
+		"msgKey" : "protect_flower_extra_reward_content",
+		"msgValue" : "你在“护花”活动中荣获第{$1}名并达到活动目标，额外奖励被激活，恭喜！"
+	},
+	
+	{
+		"msgId" : 584,
+		"msgKey" : "pet_warfare_reward_title",
+		"msgValue" : "宠物战力奖励"
+	},
+	
+	{
+		"msgId" : 585,
+		"msgKey" : "pet_warfare_reward_content",
+		"msgValue" : "恭喜您在“宠物战力竞赛”活动中荣获第{$1}名，请查收奖励！"
+	},
+	
+	{
+		"msgId" : 586,
+		"msgKey" : "pet_warfare_extra_reward_title",
+		"msgValue" : "宠物战力奖励"
+	},
+	
+	{
+		"msgId" : 587,
+		"msgKey" : "pet_warfare_extra_reward_content",
+		"msgValue" : "恭喜您在“宠物战力竞赛”活动中荣获第{$1}名并达到活动目标，额外奖励被激活，恭喜！\r\n"
+	},
+	
+	{
+		"msgId" : 588,
+		"msgKey" : "guild_level_reward_title",
+		"msgValue" : "仙盟等级奖励"
+	},
+	
+	{
+		"msgId" : 590,
+		"msgKey" : "guild_level_reward_content",
+		"msgValue" : "恭喜您的仙盟在“仙盟等级排行”活动中获得第{$1}名，现在将奖励发给盟主您分配！\r\n"
+	},
+	
+	{
+		"msgId" : 591,
+		"msgKey" : "guild_level_extra_reward_title",
+		"msgValue" : "仙盟等级奖励"
+	},
+	
+	{
+		"msgId" : 592,
+		"msgKey" : "guild_level_extra_reward_content",
+		"msgValue" : "恭喜您的仙盟在“仙盟等级排行”活动中获得第{$1}名，现在将额外奖励发给盟主您分配！\r\n"
+	},
+	
+	{
+		"msgId" : 593,
+		"msgKey" : "guild_score_reward_title",
+		"msgValue" : "仙盟积分奖励"
+	},
+	
+	{
+		"msgId" : 594,
+		"msgKey" : "guild_score_reward_content",
+		"msgValue" : "恭喜您的仙盟在“仙盟积分排行”活动中获得第{$1}名，现在将奖励发给盟主您分配！\r\n"
+	},
+	
+	{
+		"msgId" : 595,
+		"msgKey" : "guild_score_extra_reward_title",
+		"msgValue" : "仙盟积分奖励"
+	},
+	
+	{
+		"msgId" : 597,
+		"msgKey" : "guild_score_extra_reward_content",
+		"msgValue" : "恭喜您的仙盟在“仙盟积分排行”活动中获得第{$1}名，现在将额外奖励发给盟主您分配！\r\n"
+	},
+	
+	{
+		"msgId" : 598,
+		"msgKey" : "flower_extra_reward_title",
+		"msgValue" : "鲜花榜额外奖励"
+	},
+	
+	{
+		"msgId" : 599,
+		"msgKey" : "flower_extra_reward_content",
+		"msgValue" : "恭喜您在“鲜花榜排行”活动中获得第{$1}名并达到活动目标，额外奖励被激活，恭喜！\r\n\r\n"
+	},
+	
+	{
+		"msgId" : 600,
+		"msgKey" : "gold_consumpt_title",
+		"msgValue" : "元宝消费排行"
+	},
+	
+	{
+		"msgId" : 601,
+		"msgKey" : "gold_consumpt_content",
+		"msgValue" : "恭喜您在“元宝消费榜排行”活动中荣获{$1}名！"
+	},
+	
+	{
+		"msgId" : 602,
+		"msgKey" : "gold_consumption_extra_title",
+		"msgValue" : "消费榜排行额外奖励"
+	},
+	
+	{
+		"msgId" : 603,
+		"msgKey" : "gold_consumpt_extra_content",
+		"msgValue" : "恭喜您在“消费榜排行”活动中获得第{$1}名并达到活动目标，额外奖励被激活，恭喜！"
+	},
+	
+	{
+		"msgId" : 606,
+		"msgKey" : "pet_growth_extra_reward_title",
+		"msgValue" : "宠物排行额外奖励"
+	},
+	
+	{
+		"msgId" : 607,
+		"msgKey" : "pet_growth_extra_reward_content",
+		"msgValue" : "恭喜您在“灵宠成长”活动中获得第{$1}名并达到活动目标，额外奖励被激活，恭喜！"
+	},
+	
+	{
+		"msgId" : 610,
+		"msgKey" : "gold_consume_cross_rank_title",
+		"msgValue" : "消费跨服排行榜奖励"
+	},
+	
+	{
+		"msgId" : 611,
+		"msgKey" : "gold_consume_cross_rank_content",
+		"msgValue" : "恭喜您在“元宝消费跨服排行”活动中荣获第{$1}名！"
+	},
+	
+	{
+		"msgId" : 612,
+		"msgKey" : "recharge_cross_rank_title",
+		"msgValue" : "充值跨服排行榜奖励"
+	},
+	
+	{
+		"msgId" : 613,
+		"msgKey" : "recharge_cross_rank_content",
+		"msgValue" : "恭喜您在“充值跨服排行”活动中荣获第{$1}名"
+	},
+	
+	{
+		"msgId" : 614,
+		"msgKey" : "gold_consume_cross_rank_extitle",
+		"msgValue" : "消费排行榜(跨服)额外奖励"
+	},
+	
+	{
+		"msgId" : 615,
+		"msgKey" : "gold_consume_cross_rank_excontent",
+		"msgValue" : "恭喜您在“消费排行榜（跨服）”活动中获得第{$1}名并达到活动目标，获得额外奖励！"
+	},
+	
+	{
+		"msgId" : 616,
+		"msgKey" : "recharge_cross_rank_extitle",
+		"msgValue" : "充值排行榜（跨服）额外奖励"
+	},
+	
+	{
+		"msgId" : 617,
+		"msgKey" : "recharge_cross_rank_excontent",
+		"msgValue" : "恭喜您在“充值跨服排行”活动中荣获第{$1}名并达成活动目标，获得额外奖励"
+	},
+	
+	{
+		"msgId" : 618,
+		"msgKey" : "three_vs_three_reward_content",
+		"msgValue" : "恭喜您在异界竞技场•跨服3v3活动中取得[{$1}]第{$2}名的佳绩，获得[{$3}]*{$4}，请再接再厉！\r\n"
+	},
+	
+	{
+		"msgId" : 619,
+		"msgKey" : "three_vs_three_reward_title",
+		"msgValue" : "3V3奖励"
+	},
+	
+	{
+		"msgId" : 624,
+		"msgKey" : "recv_flower_cross_rank_title",
+		"msgValue" : "收花榜（跨服）奖励"
+	},
+	
+	{
+		"msgId" : 627,
+		"msgKey" : "recv_flower_cross_rank_content",
+		"msgValue" : "恭喜您在“收花榜（跨服）排行”活动中荣获第{$1}名！"
+	},
+	
+	{
+		"msgId" : 628,
+		"msgKey" : "recv_flower_cross_rank_extitle",
+		"msgValue" : "收花榜（跨服）额外奖励"
+	},
+	
+	{
+		"msgId" : 629,
+		"msgKey" : "recv_flower_cross_rank_excontent",
+		"msgValue" : "恭喜您在“收花榜（跨服）排行”活动中获得第{$1}名并达到活动目标，获得额外奖励！"
+	},
+	
+	{
+		"msgId" : 630,
+		"msgKey" : "send_flower_cross_rank_title",
+		"msgValue" : "送花榜（跨服）奖励"
+	},
+	
+	{
+		"msgId" : 631,
+		"msgKey" : "send_flower_cross_rank_content",
+		"msgValue" : "恭喜您在“送花榜（跨服）排行”活动中荣获第{$1}名！"
+	},
+	
+	{
+		"msgId" : 632,
+		"msgKey" : "send_flower_cross_rank_extitle",
+		"msgValue" : "送花榜（跨服）额外奖励"
+	},
+	
+	{
+		"msgId" : 633,
+		"msgKey" : "send_flower_cross_rank_excontent",
+		"msgValue" : "恭喜您在“送花榜（跨服）排行”活动中获得第{$1}名并达到活动目标，获得额外奖励！"
+	},
+	
+	{
+		"msgId" : 660,
+		"msgKey" : "image_pk_first_rank_title",
+		"msgValue" : "单人竞技第一名"
+	},
+	
+	{
+		"msgId" : 661,
+		"msgKey" : "image_pk_first_rank_content",
+		"msgValue" : "恭喜您获得此次单人竞技第一名"
+	},
+	
+	{
+		"msgId" : 664,
+		"msgKey" : "force_war_reward_offline_title",
+		"msgValue" : "三界争霸奖励"
+	},
+	
+	{
+		"msgId" : 665,
+		"msgKey" : "force_war_reward_offline_content",
+		"msgValue" : "您在三界争霸一役中表现异常优秀，于中途退出奖励未能及时发放，在您再次登录时已发放到您背包中\r\n您在战场中战绩如下：排名：{$1}，奖励：{$2}\r\n请注意查收"
+	},
+	
+	{
+		"msgId" : 668,
+		"msgKey" : "force_war_reward_offline_ex_content",
+		"msgValue" : "您在三界争霸一役中表现异常优秀，于中途退出奖励未能及时发放，在您再次登录时已发放到您背包中\r\n您在战场中战绩如下：排名：{$1}，奖励：{$2}，以及相应的诛仙塔宝箱奖励\r\n请注意查收"
+	},
+	
+	{
+		"msgId" : 680,
+		"msgKey" : "e_price_unit_gold_name",
+		"msgValue" : "元宝"
+	},
+	
+	{
+		"msgId" : 681,
+		"msgKey" : "e_price_unit_gold_bind_name",
+		"msgValue" : "绑定元宝"
+	},
+	
+	{
+		"msgId" : 682,
+		"msgKey" : "e_price_unit_coin_bind",
+		"msgValue" : "铜钱"
+	},
+	
+	{
+		"msgId" : 683,
+		"msgKey" : "red_name_killed_by_player_title",
+		"msgValue" : "你被{$1}杀死了"
+	},
+	
+	{
+		"msgId" : 684,
+		"msgKey" : "red_name_killed_by_player_context",
+		"msgValue" : "你于{$1}，在{$2}，被{$3}杀死，并被扣除{$4}{$5}。"
+	},
+	
+	{
+		"msgId" : 685,
+		"msgKey" : "red_name_killed_by_player_n_d_context",
+		"msgValue" : "你于{$1}，在{$2}，被{$3}杀死。"
+	},
+	
+	{
+		"msgId" : 686,
+		"msgKey" : "rune_copy_dail_floor_reward_title",
+		"msgValue" : "诛仙塔每日奖励"
+	},
+	
+	{
+		"msgId" : 687,
+		"msgKey" : "rune_copy_dail_floor_reward_content",
+		"msgValue" : "每日凌晨0点，你所处的诛仙塔会给你奖励3个它的符文精华宝箱，这是你离线的这段时间内的奖励（越高级的诛仙塔，奖励的符文精华宝箱越好）"
+	},
+	
+	{
+		"msgId" : 688,
+		"msgKey" : "recharge_day_gift_title",
+		"msgValue" : "充值成功"
+	},
+	
+	{
+		"msgId" : 689,
+		"msgKey" : "recharge_day_gift_content",
+		"msgValue" : "恭喜您购买{$1}成功，请注意查收"
+	},
+	
+	{
+		"msgId" : 690,
+		"msgKey" : "mg_guild_party_reward_title",
+		"msgValue" : "仙盟晚宴奖励"
+	},
+	
+	{
+		"msgId" : 691,
+		"msgKey" : "mg_guild_party_reward_content",
+		"msgValue" : "亲爱的仙友，您于{$1}月{$2}日晚参加的仙盟晚宴一共获得{$3}经验值与{$4}仙盟贡献，上线已自动发放了哦！"
+	},
+	
+	{
+		"msgId" : 692,
+		"msgKey" : "mg_guild_party_rank_reward_title",
+		"msgValue" : "仙盟晚宴答题排名奖励"
+	},
+	
+	{
+		"msgId" : 693,
+		"msgKey" : "mg_guild_party_rank_reward_content",
+		"msgValue" : "仙盟晚宴答题排名奖励"
+	},
+	
+	{
+		"msgId" : 696,
+		"msgKey" : "guild_red_packet_invalid_title",
+		"msgValue" : "仙盟红包返还"
+	},
+	
+	{
+		"msgId" : 697,
+		"msgKey" : "guild_red_packet_invalid_content",
+		"msgValue" : "您发的元宝红包已失效，未领数额已返还，请注意查收。"
+	},
+	
+	{
+		"msgId" : 698,
+		"msgKey" : "guild_prmt_win_leader_reward_title",
+		"msgValue" : "主宰盟主特权奖励"
+	},
+	
+	{
+		"msgId" : 699,
+		"msgKey" : "guild_prmt_win_leader_reward_content",
+		"msgValue" : "恭喜您成为主宰盟主，获得系统为你发放的“仙盟霸主”称号和强力“属性BUFF”，请查收！（特权将保留到下一次仙盟争霸活动）"
+	},
+	
+	{
+		"msgId" : 700,
+		"msgKey" : "guild_prmt_join_reward_title",
+		"msgValue" : "仙盟争霸奖励"
+	},
+	
+	{
+		"msgId" : 701,
+		"msgKey" : "guild_prmt_join_reward_content",
+		"msgValue" : "仙盟争霸赛区级别越高，每场战斗获得的奖励越丰富，这是您应得的奖励"
+	},
+	
+	{
+		"msgId" : 702,
+		"msgKey" : "guild_prmt_active_notice_title",
+		"msgValue" : "仙盟争霸活动预告"
+	},
+	
+	{
+		"msgId" : 703,
+		"msgKey" : "guild_prmt_active_notice_content",
+		"msgValue" : "仙盟争霸活动将于今晚21:00开启，请所有参赛仙盟成员做好参加活动的准备（可到仙盟争霸界面查看本盟所在赛区）"
+	},
+	
+	{
+		"msgId" : 704,
+		"msgKey" : "guild_prmt_allocate_title",
+		"msgValue" : "奖励分配"
+	},
+	
+	{
+		"msgId" : 705,
+		"msgKey" : "guild_prmt_allocate_content",
+		"msgValue" : "您获得由盟主分配的仙盟争霸奖励，请查收附件"
+	},
+	
+	{
+		"msgId" : 706,
+		"msgKey" : "guild_prmt_g_a_r_title",
+		"msgValue" : "奖励发放"
+	},
+	
+	{
+		"msgId" : 707,
+		"msgKey" : "guild_prmt_g_a_r_content",
+		"msgValue" : "您参与的{$1}活动的奖励未领取，请注意查收"
+	},
+	
+	{
+		"msgId" : 708,
+		"msgKey" : "rechage_return_xwrw_title",
+		"msgValue" : "删测服充值返利"
+	},
+	
+	{
+		"msgId" : 709,
+		"msgKey" : "rechage_return_xwrw_content",
+		"msgValue" : "终于等到你，小仙在此恭候多时了！你在删测服的英勇战绩已经感动了上天，特派小仙送上删测福利，120%元宝返还来了，别忘了查收喔！"
+	},
+	
+	{
+		"msgId" : 710,
+		"msgKey" : "recharge_active_reward_title",
+		"msgValue" : "充值有礼"
+	},
+	
+	{
+		"msgId" : 711,
+		"msgKey" : "recharge_active_reward_content",
+		"msgValue" : "您参与的充值有礼活动奖励未领取，请注意查收"
+	},
+	
+	{
+		"msgId" : 714,
+		"msgKey" : "cloud_buy_reward_title",
+		"msgValue" : "云购通知"
+	},
+	
+	{
+		"msgId" : 715,
+		"msgKey" : "cloud_buy_reward_content",
+		"msgValue" : "亲爱的玩家，本期云购活动大奖已揭晓，恭喜您获得了极品云购大礼，真是可喜可贺，运气爆棚！"
+	},
+	
+	{
+		"msgId" : 718,
+		"msgKey" : "offline_work_be_killed_title",
+		"msgValue" : "离线被杀通知"
+	},
+	
+	{
+		"msgId" : 719,
+		"msgKey" : "offline_work_be_killed_content",
+		"msgValue" : "你于{$1}月{$2}日{$3}时{$4}分在离线挂机时被玩家{$5}击杀"
+	},
+	
+	{
+		"msgId" : 720,
+		"msgKey" : "active_rank_title",
+		"msgValue" : "奖励发放"
+	},
+	
+	{
+		"msgId" : 721,
+		"msgKey" : "active_rank_content",
+		"msgValue" : "恭喜您在{$1}中夺得了第{$2}名，请注意查收奖励"
+	},
+	
+	{
+		"msgId" : 722,
+		"msgKey" : "active_rank_name",
+		"msgValue" : "神秘玩家"
+	},
+	
+	{
+		"msgId" : 723,
+		"msgKey" : "notice_to_guild_member_after_modify_name_mail_title",
+		"msgValue" : "仙盟改名"
+	},
+	
+	{
+		"msgId" : 724,
+		"msgKey" : "notice_to_guild_member_after_modify_name_mail_content",
+		"msgValue" : "恭喜仙友，您所在的仙盟由[{$1}]正式更名为[{$2}]，大家一起齐心协力，共创辉煌吧！"
+	},
+	
+	{
+		"msgId" : 725,
+		"msgKey" : "guild_purpose_notice_title",
+		"msgValue" : "仙盟公告"
+	},
+	
+	{
+		"msgId" : 726,
+		"msgKey" : "cross_stair_mail_notice_title",
+		"msgValue" : "青云之巅"
+	},
+	
+	{
+		"msgId" : 727,
+		"msgKey" : "cross_stair_mail_notice_content",
+		"msgValue" : "您所在服已达到{$1}天，将开启新的征程！从今日起，青云之巅将进入跨服混战，一起燃烧激情！"
+	},
+	
+	{
+		"msgId" : 728,
+		"msgKey" : "active_invest_title",
+		"msgValue" : "活动奖励"
+	},
+	
+	{
+		"msgId" : 729,
+		"msgKey" : "active_invest_content",
+		"msgValue" : "您活动投资第{$1}天奖励未领取，通过邮件发放给您，请注意查收"
+	},
+	
+	{
+		"msgId" : 730,
+		"msgKey" : "personal_pk_open_cross_title",
+		"msgValue" : "巅峰竞技"
+	},
+	
+	{
+		"msgId" : 731,
+		"msgKey" : "personal_pk_open_cross_content",
+		"msgValue" : "您所在服已达到{$1}天，将开启新的征程！从今日起，您的巅峰竞技将进行跨服对战，全新对手，全新奖励，等您来战！"
+	},
+	
+	{
+		"msgId" : 732,
+		"msgKey" : "personal_pk_season_reward_title",
+		"msgValue" : "巅峰竞技奖励"
+	},
+	
+	{
+		"msgId" : 733,
+		"msgKey" : "personal_pk_season_reward_content1",
+		"msgValue" : "巅峰竞技第{$1}赛季已结束，恭喜您获得第{$2}名，获得以下奖励，请查收附件。"
+	},
+	
+	{
+		"msgId" : 734,
+		"msgKey" : "personal_pk_season_reward_content2",
+		"msgValue" : "巅峰竞技第{$1}赛季已结束，恭喜您进入{$2}段位，获得以下奖励，请查收附件。"
+	},
+	
+	{
+		"msgId" : 735,
+		"msgKey" : "marry_reply_reject_title",
+		"msgValue" : "提亲被拒"
+	},
+	
+	{
+		"msgId" : 736,
+		"msgKey" : "marry_reply_reject_content",
+		"msgValue" : "{$1}拒绝了您的提亲请求，礼金已返还，请注意查收。"
+	},
+	
+	{
+		"msgId" : 737,
+		"msgKey" : "marry_reply_timeout_title",
+		"msgValue" : "提亲超时"
+	},
+	
+	{
+		"msgId" : 738,
+		"msgKey" : "marry_reply_timeout_content",
+		"msgValue" : "{$1}因逾时未答复您的提亲请求，礼金已返还，请注意查收。"
+	},
+	
+	{
+		"msgId" : 739,
+		"msgKey" : "marry_reply_accept_title",
+		"msgValue" : "提亲成功"
+	},
+	
+	{
+		"msgId" : 740,
+		"msgKey" : "marry_reply_accept_content",
+		"msgValue" : "恭喜您与{$1}结缘成功!\r\n奖励在附件中可领取."
+	},
+	
+	{
+		"msgId" : 741,
+		"msgKey" : "marry_book_wedding_title",
+		"msgValue" : "预约成功"
+	},
+	
+	{
+		"msgId" : 742,
+		"msgKey" : "marry_book_wedding_content",
+		"msgValue" : "恭喜你已成功预约{$1}的婚礼，请您携伴侣准时参加，预约婚礼的奖励在附件中提取。\r\n温馨提示：若婚礼期间未登陆游戏，系统也会自动进行哦。千万不要错过了哟！"
+	},
+	
+	{
+		"msgId" : 743,
+		"msgKey" : "marry_invite_guest_title",
+		"msgValue" : "我们结婚啦！"
+	},
+	
+	{
+		"msgId" : 744,
+		"msgKey" : "marry_invite_guest_content",
+		"msgValue" : "{$1}和{$2}喜结连理，将于{$3}举行婚礼。\r\n您被邀请为宾客，请准时到场哦！婚礼开始后新人拜堂宣誓并摆设酒宴招待宾客，可获得丰厚的奖励哦！"
+	},
+	
+	{
+		"msgId" : 745,
+		"msgKey" : "marry_active_title",
+		"msgValue" : "完美情人"
+	},
+	
+	{
+		"msgId" : 746,
+		"msgKey" : "marry_active_content",
+		"msgValue" : "恭喜上仙在完美情人活动中，获得“三生三世完美情人”绝版称号\r\n奖励已在邮件中发放，记得提取哦。"
+	},
+	
+	{
+		"msgId" : 747,
+		"msgKey" : "active_rank_charm_title",
+		"msgValue" : "魅力四射"
+	},
+	
+	{
+		"msgId" : 748,
+		"msgKey" : "active_rank_charm_content",
+		"msgValue" : "哇，上仙魅力不可阻挡，恭喜您在{$1}活动中，获得{$2}魅力值，荣获第{$3}名！奖励已在邮件中发放，记得提取哦。"
+	},
+	
+	{
+		"msgId" : 749,
+		"msgKey" : "cloud_buy_open_title",
+		"msgValue" : "云购开启"
+	},
+	
+	{
+		"msgId" : 750,
+		"msgKey" : "cloud_buy_open_content",
+		"msgValue" : "新一批的云购已经开启了，可购买次数已经清零，仙友们可再次参与噢"
+	},
+	
+	{
+		"msgId" : 751,
+		"msgKey" : "cloud_buy_title",
+		"msgValue" : "云购通知"
+	},
+	
+	{
+		"msgId" : 752,
+		"msgKey" : "cloud_buy_content",
+		"msgValue" : "{$1}过后云购不再限制购买次数，请仙友们速速参与，夺取大奖！"
+	},
+	
+	{
+		"msgId" : 753,
+		"msgKey" : "love_box_buy_title",
+		"msgValue" : "爱情宝匣"
+	},
+	
+	{
+		"msgId" : 754,
+		"msgKey" : "love_box_buy_content",
+		"msgValue" : "您的伴侣{$1}为您购买了爱意满满的宝匣，赶快领取你们的爱情果实吧。"
+	},
+	
+	{
+		"msgId" : 755,
+		"msgKey" : "marry_v_repay_title",
+		"msgValue" : "优化补偿"
+	},
+	
+	{
+		"msgId" : 756,
+		"msgKey" : "marry_v_repay_content",
+		"msgValue" : "恭喜你与{$1}缔结良缘,结为仙侣!现为您补发姻缘证明的同心锁,同心锁在背包中使用后即可佩戴!请注意查收"
+	},
+	
+	{
+		"msgId" : 757,
+		"msgKey" : "mg_battle_win_title",
+		"msgValue" : "神魔战场胜方奖励"
+	},
+	
+	{
+		"msgId" : 758,
+		"msgKey" : "mg_battle_win_content",
+		"msgValue" : "恭喜贵方获得战场胜利，鉴于您在神魔战场中的英勇表现，特此发放一份丰厚的奖励以兹鼓励，希望您在下一次战场中有更出彩的表现！"
+	},
+	
+	{
+		"msgId" : 759,
+		"msgKey" : "mg_battle_lose_title",
+		"msgValue" : "神魔战场负方奖励"
+	},
+	
+	{
+		"msgId" : 760,
+		"msgKey" : "mg_battle_lose_content",
+		"msgValue" : "很遗憾贵方以失败告终，鉴于您在神魔战场中的英勇表现，特此发放一份丰厚的奖励以兹鼓励，希望您在下一次战场中有更出彩的表现"
+	},
+	
+	{
+		"msgId" : 761,
+		"msgKey" : "mg_battle_rank_title",
+		"msgValue" : "神魔战场排名奖励"
+	},
+	
+	{
+		"msgId" : 762,
+		"msgKey" : "mg_battle_rank_content",
+		"msgValue" : "恭喜您在神魔战场中获得第{$1}名，鉴于您在神魔战场中勇冠三军的出彩表现，这份丰厚的排名奖励是您应得的，还请笑纳！"
+	},
+	
+	{
+		"msgId" : 763,
+		"msgKey" : "mg_guild_battle_choose_title",
+		"msgValue" : "预约通知"
+	},
+	
+	{
+		"msgId" : 764,
+		"msgKey" : "mg_guild_battle_choose_content",
+		"msgValue" : "跨服盟战已开放预约对手时间，您可在{$1}{$2}前为仙盟选择合理的对手(请到世界服界面查看详细信息)"
+	},
+	
+	{
+		"msgId" : 765,
+		"msgKey" : "mg_guild_battle_credit_title",
+		"msgValue" : "积分返还"
+	},
+	
+	{
+		"msgId" : 766,
+		"msgKey" : "mg_guild_battle_credit_content",
+		"msgValue" : "您在跨服盟战中预约的对手，已被其他仙盟花费更多积分抢夺；您预约所消耗的积分已全数返还，请到世界服界面查验；您可以继续花费更多积分抢夺预约权或者选择其他没有预约的对手"
+	},
+	
+	{
+		"msgId" : 767,
+		"msgKey" : "mg_guild_battle_match_title",
+		"msgValue" : "跨服盟战活动预告"
+	},
+	
+	{
+		"msgId" : 768,
+		"msgKey" : "mg_guild_battle_match_content",
+		"msgValue" : "跨服盟战活动将于今晚{$1}开启，请所有参赛仙盟成员做好参加活动的准备（可到世界服界面查看本盟对战情况）"
+	},
+	
+	{
+		"msgId" : 769,
+		"msgKey" : "mg_guild_battle_player_reward_title",
+		"msgValue" : "跨服盟战奖励"
+	},
+	
+	{
+		"msgId" : 770,
+		"msgKey" : "mg_guild_battle_player_reward_content",
+		"msgValue" : "这是您参与跨服盟战获得的奖励，请查收！"
+	},
+	
+	{
+		"msgId" : 772,
+		"msgKey" : "mg_guild_battle_guild_reward_title",
+		"msgValue" : "胜利奖励"
+	},
+	
+	{
+		"msgId" : 773,
+		"msgKey" : "mg_guild_battle_guild_reward_content",
+		"msgValue" : "您所在仙盟获得盟战胜利，这是属于你们仙盟的奖励，请分配给合适的成员吧，请查收！"
+	},
+	
+	{
+		"msgId" : 774,
+		"msgKey" : "mg_guild_battle_month_reward_title",
+		"msgValue" : "月结奖励"
+	},
+	
+	{
+		"msgId" : 775,
+		"msgKey" : "mg_guild_battle_month_reward_content",
+		"msgValue" : "您所在仙盟最终获得跨服盟战第{$1}名，这是你们的月结排名奖励，可分配给合适的成员，请查收！"
+	},
+	
+	{
+		"msgId" : 780,
+		"msgKey" : "beast_island_assign_notice_title",
+		"msgValue" : "神兽岛分配"
+	},
+	
+	{
+		"msgId" : 781,
+		"msgKey" : "beast_island_assign_notice_content",
+		"msgValue" : "神兽岛将于{$1}月{$2}日0时至1时期间，进行跨服分配，分配期间将无法进入“神兽岛”，如果在岛上将被系统传出；为了避免造成不必要的损失，请大家提前离岛！"
+	},
+	
+	{
+		"msgId" : 782,
+		"msgKey" : "charm_rank_reward_title",
+		"msgValue" : "魅力之王"
+	},
+	
+	{
+		"msgId" : 783,
+		"msgKey" : "charm_rank_reward_content",
+		"msgValue" : "恭喜{$1}服的{$2}，在{$3}中第{$4}天夺得桂冠，为服争光。将给予所在服务器的所有玩家一份奖励，希望大家继续支持TA。奖励在附件中提取，请注意查收。"
+	},
+	
+	{
+		"msgId" : 784,
+		"msgKey" : "charm_rank_reward_content2",
+		"msgValue" : "您在{$1}活动中，获得保底奖励。感谢您的参与，奖励在附件中提取，请注意查收。"
+	},
+	
+	{
+		"msgId" : 785,
+		"msgKey" : "mg_boss_join_reward",
+		"msgValue" : "{$1}-参与奖励"
+	},
+	
+	{
+		"msgId" : 786,
+		"msgKey" : "mg_boss_join_reward1",
+		"msgValue" : "{$1}-参与奖励（{$2}）"
+	},
+	
+	{
+		"msgId" : 787,
+		"msgKey" : "mg_boss_owner_reward",
+		"msgValue" : "{$1}-参与奖励"
+	},
+	
+	{
+		"msgId" : 788,
+		"msgKey" : "mg_boss_owner_reward1",
+		"msgValue" : "{$1}-参与奖励（{$2}）"
+	}
+]

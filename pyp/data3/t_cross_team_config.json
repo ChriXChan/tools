@@ -1,0 +1,83 @@
+
+[
+	
+	{
+		"assistReward" : "3,40110302,4#2,1,20000#",
+		"assistTimes" : 2,
+		"copyCode" : 2901,
+		"firstStar3Reward" : "1,0,16000#2,2,200#",
+		"matchTime" : 120,
+		"star0DropList" : "32000003#32100003#",
+		"star0Reward" : "2,1,14000#",
+		"star0Time" : 300,
+		"star1DropList" : "32000003#32100003#",
+		"star1Reward" : "2,1,16500#",
+		"star1Time" : 160,
+		"star2DropList" : "32000002#32100002#",
+		"star2Reward" : "2,1,24000#",
+		"star2Time" : 130,
+		"star3DropList" : "32000001#32100001#",
+		"star3Reward" : "2,1,26500#",
+		"star3Time" : 100
+	},
+	
+	{
+		"assistReward" : "3,40110302,4#2,1,20000#",
+		"assistTimes" : 2,
+		"copyCode" : 12901,
+		"firstStar3Reward" : "1,0,24000#2,2,200#",
+		"matchTime" : 120,
+		"star0DropList" : "32000006#32100006#",
+		"star0Reward" : "2,1,24000#",
+		"star0Time" : 300,
+		"star1DropList" : "32000006#32100006#",
+		"star1Reward" : "2,1,26500#",
+		"star1Time" : 160,
+		"star2DropList" : "32000005#32100005#",
+		"star2Reward" : "2,1,41500#",
+		"star2Time" : 130,
+		"star3DropList" : "32000004#32100004#",
+		"star3Reward" : "2,1,46500#",
+		"star3Time" : 100
+	},
+	
+	{
+		"assistReward" : "3,40110302,4#2,1,20000#",
+		"assistTimes" : 2,
+		"copyCode" : 22901,
+		"firstStar3Reward" : "1,0,24000#2,2,200#",
+		"matchTime" : 120,
+		"star0DropList" : "32000009#32100009#",
+		"star0Reward" : "2,1,41500#",
+		"star0Time" : 300,
+		"star1DropList" : "32000009#32100009#",
+		"star1Reward" : "2,1,46500#",
+		"star1Time" : 160,
+		"star2DropList" : "32000008#32100008#",
+		"star2Reward" : "2,1,56500#",
+		"star2Time" : 130,
+		"star3DropList" : "32000007#32100007#",
+		"star3Reward" : "2,1,59500#",
+		"star3Time" : 100
+	},
+	
+	{
+		"assistReward" : "3,40110302,4#2,1,20000#",
+		"assistTimes" : 2,
+		"copyCode" : 32901,
+		"firstStar3Reward" : "1,0,24000#2,2,200#",
+		"matchTime" : 120,
+		"star0DropList" : "32000012#32100012#",
+		"star0Reward" : "2,1,51500#",
+		"star0Time" : 300,
+		"star1DropList" : "32000012#32100012#",
+		"star1Reward" : "2,1,56500#",
+		"star1Time" : 160,
+		"star2DropList" : "32000011#32100011#",
+		"star2Reward" : "2,1,59500#",
+		"star2Time" : 130,
+		"star3DropList" : "32000010#32100010#",
+		"star3Reward" : "2,1,62500#",
+		"star3Time" : 100
+	}
+]

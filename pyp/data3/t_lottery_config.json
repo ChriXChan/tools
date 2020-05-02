@@ -1,0 +1,507 @@
+
+[
+	
+	{
+		"amount" : 1,
+		"cost" : 500,
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 100
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 4500,
+		"propCode" : 42061001,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 100
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 500,
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 101
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 4500,
+		"propCode" : 42061001,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 101
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 500,
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 102
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 4500,
+		"propCode" : 42061001,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 102
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 500,
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 103
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 4500,
+		"propCode" : 42061001,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 103
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 500,
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 104
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 4500,
+		"propCode" : 42061001,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 104
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 500,
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 105
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 4500,
+		"propCode" : 42061001,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 105
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 500,
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 106
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 4500,
+		"propCode" : 42061001,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 106
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 500,
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 107
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 4500,
+		"propCode" : 42061001,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 107
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 500,
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 108
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 4500,
+		"propCode" : 42061001,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 108
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 500,
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 109
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 4500,
+		"propCode" : 42061001,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 109
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 500,
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 110
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 4500,
+		"propCode" : 42061001,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 110
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 500,
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 111
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 4500,
+		"propCode" : 42061001,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 111
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 500,
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 112
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 4500,
+		"propCode" : 42061001,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 112
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 500,
+		"propCode" : 42061001,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 113
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 4500,
+		"propCode" : 42061001,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 113
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 500,
+		"propCode" : 42061004,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 200
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 4500,
+		"propCode" : 42061004,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 200
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 500,
+		"propCode" : 42061004,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 201
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 4500,
+		"propCode" : 42061004,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 201
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 500,
+		"propCode" : 42061004,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 202
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 4500,
+		"propCode" : 42061004,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 202
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 500,
+		"propCode" : 42061004,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 203
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 4500,
+		"propCode" : 42061004,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 203
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 500,
+		"propCode" : 42061004,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 204
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 4500,
+		"propCode" : 42061004,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 204
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 500,
+		"propCode" : 42061004,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 205
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 4500,
+		"propCode" : 42061004,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 205
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 500,
+		"propCode" : 42061004,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 206
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 4500,
+		"propCode" : 42061004,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 206
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 500,
+		"propCode" : 42061004,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 207
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 4500,
+		"propCode" : 42061004,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 207
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 500,
+		"propCode" : 42061004,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 208
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 4500,
+		"propCode" : 42061004,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 208
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 500,
+		"propCode" : 42061004,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 209
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 4500,
+		"propCode" : 42061004,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 209
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 500,
+		"propCode" : 42061004,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 210
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 4500,
+		"propCode" : 42061004,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 210
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 500,
+		"propCode" : 42061004,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 211
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 4500,
+		"propCode" : 42061004,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 211
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 500,
+		"propCode" : 42061004,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 212
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 4500,
+		"propCode" : 42061004,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 212
+	},
+	
+	{
+		"amount" : 1,
+		"cost" : 500,
+		"propCode" : 42061008,
+		"propNum" : 1,
+		"score" : 1,
+		"type" : 400
+	},
+	
+	{
+		"amount" : 10,
+		"cost" : 4500,
+		"propCode" : 42061008,
+		"propNum" : 10,
+		"score" : 10,
+		"type" : 400
+	}
+]

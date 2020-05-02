@@ -1,0 +1,143 @@
+
+[
+	
+	{
+		"buyLimited" : 1,
+		"content" : "3,20000014,1#3,419906002,1#3,42061001,1#3,42061004,1",
+		"giftPackageValue" : 3000,
+		"icon" : "41990001",
+		"id" : 100101,
+		"name" : "V1礼包",
+		"order" : 1,
+		"price" : 1000,
+		"priceUnit" : 2,
+		"type" : 1,
+		"vipLevelLimited" : 1
+	},
+	
+	{
+		"buyLimited" : 1,
+		"content" : "3,42061001,10#3,60040001,10#3,60010002,20#3,40151012,10",
+		"giftPackageValue" : 8500,
+		"icon" : "700012",
+		"id" : 100102,
+		"name" : "V2礼包",
+		"order" : 2,
+		"price" : 3888,
+		"priceUnit" : 2,
+		"type" : 1,
+		"vipLevelLimited" : 2
+	},
+	
+	{
+		"buyLimited" : 1,
+		"content" : "3,42580120,1#3,60040001,20#3,60010002,20#3,40151012,10",
+		"giftPackageValue" : 14500,
+		"icon" : "40151013",
+		"id" : 100103,
+		"name" : "V3礼包",
+		"order" : 3,
+		"price" : 8888,
+		"priceUnit" : 2,
+		"type" : 1,
+		"vipLevelLimited" : 3
+	},
+	
+	{
+		"buyLimited" : 1,
+		"content" : "3,42220020,1#3,60040001,30#3,60010002,20#3,40151012,10",
+		"giftPackageValue" : 17500,
+		"icon" : "12340004",
+		"id" : 100104,
+		"name" : "V4礼包",
+		"order" : 4,
+		"price" : 10888,
+		"priceUnit" : 2,
+		"type" : 1,
+		"vipLevelLimited" : 4
+	},
+	
+	{
+		"buyLimited" : 1,
+		"content" : "3,12320015,1#3,12300102,6#3,60010002,80#3,40151012,40",
+		"giftPackageValue" : 21400,
+		"icon" : "80000305",
+		"id" : 100105,
+		"name" : "V5礼包",
+		"order" : 5,
+		"price" : 12888,
+		"priceUnit" : 2,
+		"type" : 1,
+		"vipLevelLimited" : 5
+	},
+	
+	{
+		"buyLimited" : 1,
+		"content" : "3,12320016,1#3,12300102,10#3,60010002,120#3,40151012,60",
+		"giftPackageValue" : 27600,
+		"icon" : "83050101",
+		"id" : 100106,
+		"name" : "V6礼包",
+		"order" : 6,
+		"price" : 14888,
+		"priceUnit" : 2,
+		"type" : 1,
+		"vipLevelLimited" : 6
+	},
+	
+	{
+		"buyLimited" : 1,
+		"content" : "3,12320017,1#3,12300102,14#3,60010002,160#3,40151012,80",
+		"giftPackageValue" : 33800,
+		"icon" : "83050301",
+		"id" : 100107,
+		"name" : "V7礼包",
+		"order" : 7,
+		"price" : 16888,
+		"priceUnit" : 2,
+		"type" : 1,
+		"vipLevelLimited" : 7
+	},
+	
+	{
+		"buyLimited" : 1,
+		"content" : "3,12320018,1#3,12300102,18#3,60010002,200#3,40151012,100",
+		"giftPackageValue" : 40000,
+		"icon" : "12320005",
+		"id" : 100108,
+		"name" : "V8礼包",
+		"order" : 8,
+		"price" : 18888,
+		"priceUnit" : 2,
+		"type" : 1,
+		"vipLevelLimited" : 8
+	},
+	
+	{
+		"buyLimited" : 1,
+		"content" : "3,12340003,1#3,12300102,22#3,60010002,240#3,40151012,120",
+		"giftPackageValue" : 46200,
+		"icon" : "21000000",
+		"id" : 100109,
+		"name" : "V9礼包",
+		"order" : 9,
+		"price" : 20888,
+		"priceUnit" : 2,
+		"type" : 1,
+		"vipLevelLimited" : 9
+	},
+	
+	{
+		"buyLimited" : 1,
+		"content" : "3,12340004,1#3,12300102,26#3,60010002,280#3,40151012,140",
+		"giftPackageValue" : 52400,
+		"icon" : "12060601",
+		"id" : 100110,
+		"name" : "V10礼包",
+		"order" : 10,
+		"price" : 22888,
+		"priceUnit" : 2,
+		"type" : 1,
+		"vipLevelLimited" : 10
+	}
+]

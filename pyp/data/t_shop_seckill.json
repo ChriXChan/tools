@@ -1,0 +1,2391 @@
+
+[
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 1,
+		"itemCode" : 11075011,
+		"personalLimit" : 1,
+		"price" : 1288,
+		"seckillNum" : 3,
+		"shopCode" : 1001,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 2,
+		"itemCode" : 11085011,
+		"personalLimit" : 1,
+		"price" : 1288,
+		"seckillNum" : 3,
+		"shopCode" : 1001,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 3,
+		"itemCode" : 11105011,
+		"personalLimit" : 1,
+		"price" : 1288,
+		"seckillNum" : 3,
+		"shopCode" : 1001,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 4,
+		"itemCode" : 41960068,
+		"personalLimit" : 6,
+		"price" : 288,
+		"seckillNum" : 3,
+		"shopCode" : 1001,
+		"unit" : 2,
+		"worldLimit" : 999999
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 5,
+		"itemCode" : 60040046,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 1001,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 6,
+		"itemCode" : 60040045,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 1001,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 7,
+		"itemCode" : 42150006,
+		"personalLimit" : 5,
+		"price" : 88,
+		"seckillNum" : 3,
+		"shopCode" : 1001,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 2,
+		"id" : 8,
+		"itemCode" : 40153603,
+		"personalLimit" : 5,
+		"price" : 25,
+		"seckillNum" : 3,
+		"shopCode" : 1001,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 9,
+		"itemCode" : 11075010,
+		"personalLimit" : 1,
+		"price" : 1080,
+		"seckillNum" : 3,
+		"shopCode" : 1002,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 10,
+		"itemCode" : 11085010,
+		"personalLimit" : 1,
+		"price" : 1080,
+		"seckillNum" : 3,
+		"shopCode" : 1002,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 11,
+		"itemCode" : 11105010,
+		"personalLimit" : 1,
+		"price" : 1080,
+		"seckillNum" : 3,
+		"shopCode" : 1002,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 12,
+		"itemCode" : 41960068,
+		"personalLimit" : 6,
+		"price" : 288,
+		"seckillNum" : 3,
+		"shopCode" : 1002,
+		"unit" : 2,
+		"worldLimit" : 999999
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 13,
+		"itemCode" : 60040046,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 1002,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 14,
+		"itemCode" : 60040045,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 1002,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 15,
+		"itemCode" : 42150006,
+		"personalLimit" : 5,
+		"price" : 88,
+		"seckillNum" : 3,
+		"shopCode" : 1002,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 2,
+		"id" : 16,
+		"itemCode" : 40153603,
+		"personalLimit" : 5,
+		"price" : 25,
+		"seckillNum" : 3,
+		"shopCode" : 1002,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 17,
+		"itemCode" : 11075009,
+		"personalLimit" : 1,
+		"price" : 928,
+		"seckillNum" : 3,
+		"shopCode" : 1003,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 18,
+		"itemCode" : 11085009,
+		"personalLimit" : 1,
+		"price" : 928,
+		"seckillNum" : 3,
+		"shopCode" : 1003,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 19,
+		"itemCode" : 11105009,
+		"personalLimit" : 1,
+		"price" : 928,
+		"seckillNum" : 3,
+		"shopCode" : 1003,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 20,
+		"itemCode" : 41960068,
+		"personalLimit" : 6,
+		"price" : 288,
+		"seckillNum" : 3,
+		"shopCode" : 1003,
+		"unit" : 2,
+		"worldLimit" : 999999
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 21,
+		"itemCode" : 60040046,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 1003,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 22,
+		"itemCode" : 60040045,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 1003,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 23,
+		"itemCode" : 42150006,
+		"personalLimit" : 5,
+		"price" : 88,
+		"seckillNum" : 3,
+		"shopCode" : 1003,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 2,
+		"id" : 24,
+		"itemCode" : 40153603,
+		"personalLimit" : 5,
+		"price" : 25,
+		"seckillNum" : 3,
+		"shopCode" : 1003,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 25,
+		"itemCode" : 11075008,
+		"personalLimit" : 1,
+		"price" : 780,
+		"seckillNum" : 3,
+		"shopCode" : 1004,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 26,
+		"itemCode" : 11085008,
+		"personalLimit" : 1,
+		"price" : 780,
+		"seckillNum" : 3,
+		"shopCode" : 1004,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 27,
+		"itemCode" : 11105008,
+		"personalLimit" : 1,
+		"price" : 780,
+		"seckillNum" : 3,
+		"shopCode" : 1004,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 28,
+		"itemCode" : 41960068,
+		"personalLimit" : 6,
+		"price" : 288,
+		"seckillNum" : 3,
+		"shopCode" : 1004,
+		"unit" : 2,
+		"worldLimit" : 999999
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 29,
+		"itemCode" : 60040046,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 1004,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 30,
+		"itemCode" : 60040045,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 1004,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 31,
+		"itemCode" : 51110014,
+		"personalLimit" : 5,
+		"price" : 288,
+		"seckillNum" : 3,
+		"shopCode" : 1004,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 2,
+		"id" : 32,
+		"itemCode" : 40153603,
+		"personalLimit" : 5,
+		"price" : 25,
+		"seckillNum" : 3,
+		"shopCode" : 1004,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 33,
+		"itemCode" : 11175007,
+		"personalLimit" : 1,
+		"price" : 648,
+		"seckillNum" : 3,
+		"shopCode" : 1005,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 34,
+		"itemCode" : 11085007,
+		"personalLimit" : 1,
+		"price" : 628,
+		"seckillNum" : 3,
+		"shopCode" : 1005,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 35,
+		"itemCode" : 11105007,
+		"personalLimit" : 1,
+		"price" : 628,
+		"seckillNum" : 3,
+		"shopCode" : 1005,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 36,
+		"itemCode" : 41960068,
+		"personalLimit" : 6,
+		"price" : 288,
+		"seckillNum" : 3,
+		"shopCode" : 1005,
+		"unit" : 2,
+		"worldLimit" : 999999
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 37,
+		"itemCode" : 60040046,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 1005,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 38,
+		"itemCode" : 60040045,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 1005,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 39,
+		"itemCode" : 51110014,
+		"personalLimit" : 5,
+		"price" : 288,
+		"seckillNum" : 3,
+		"shopCode" : 1005,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 2,
+		"id" : 40,
+		"itemCode" : 40153603,
+		"personalLimit" : 5,
+		"price" : 25,
+		"seckillNum" : 3,
+		"shopCode" : 1005,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 41,
+		"itemCode" : 11175006,
+		"personalLimit" : 1,
+		"price" : 528,
+		"seckillNum" : 3,
+		"shopCode" : 1006,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 42,
+		"itemCode" : 11085006,
+		"personalLimit" : 1,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 1006,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 43,
+		"itemCode" : 11105006,
+		"personalLimit" : 1,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 1006,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 44,
+		"itemCode" : 41960068,
+		"personalLimit" : 6,
+		"price" : 288,
+		"seckillNum" : 3,
+		"shopCode" : 1006,
+		"unit" : 2,
+		"worldLimit" : 999999
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 45,
+		"itemCode" : 60040046,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 1006,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 46,
+		"itemCode" : 60040045,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 1006,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 47,
+		"itemCode" : 51110014,
+		"personalLimit" : 5,
+		"price" : 288,
+		"seckillNum" : 3,
+		"shopCode" : 1006,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 2,
+		"id" : 48,
+		"itemCode" : 40153603,
+		"personalLimit" : 5,
+		"price" : 25,
+		"seckillNum" : 3,
+		"shopCode" : 1006,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 49,
+		"itemCode" : 11015011,
+		"personalLimit" : 1,
+		"price" : 1288,
+		"seckillNum" : 3,
+		"shopCode" : 2001,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 50,
+		"itemCode" : 11095011,
+		"personalLimit" : 1,
+		"price" : 1288,
+		"seckillNum" : 3,
+		"shopCode" : 2001,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 51,
+		"itemCode" : 11065011,
+		"personalLimit" : 1,
+		"price" : 1288,
+		"seckillNum" : 3,
+		"shopCode" : 2001,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 52,
+		"itemCode" : 41960069,
+		"personalLimit" : 6,
+		"price" : 528,
+		"seckillNum" : 3,
+		"shopCode" : 2001,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 53,
+		"itemCode" : 60040048,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 2001,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 54,
+		"itemCode" : 60040050,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 2001,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 55,
+		"itemCode" : 42150006,
+		"personalLimit" : 5,
+		"price" : 88,
+		"seckillNum" : 3,
+		"shopCode" : 2001,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 2,
+		"id" : 56,
+		"itemCode" : 42010004,
+		"personalLimit" : 5,
+		"price" : 68,
+		"seckillNum" : 3,
+		"shopCode" : 2001,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 57,
+		"itemCode" : 11015010,
+		"personalLimit" : 1,
+		"price" : 1080,
+		"seckillNum" : 3,
+		"shopCode" : 2002,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 58,
+		"itemCode" : 11095010,
+		"personalLimit" : 1,
+		"price" : 1080,
+		"seckillNum" : 3,
+		"shopCode" : 2002,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 59,
+		"itemCode" : 11065010,
+		"personalLimit" : 1,
+		"price" : 1080,
+		"seckillNum" : 3,
+		"shopCode" : 2002,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 60,
+		"itemCode" : 41960069,
+		"personalLimit" : 6,
+		"price" : 528,
+		"seckillNum" : 3,
+		"shopCode" : 2002,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 61,
+		"itemCode" : 60040048,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 2002,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 62,
+		"itemCode" : 60040050,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 2002,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 63,
+		"itemCode" : 42150006,
+		"personalLimit" : 5,
+		"price" : 88,
+		"seckillNum" : 3,
+		"shopCode" : 2002,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 2,
+		"id" : 64,
+		"itemCode" : 42010004,
+		"personalLimit" : 5,
+		"price" : 68,
+		"seckillNum" : 3,
+		"shopCode" : 2002,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 65,
+		"itemCode" : 11015009,
+		"personalLimit" : 1,
+		"price" : 928,
+		"seckillNum" : 3,
+		"shopCode" : 2003,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 66,
+		"itemCode" : 11095009,
+		"personalLimit" : 1,
+		"price" : 928,
+		"seckillNum" : 3,
+		"shopCode" : 2003,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 67,
+		"itemCode" : 11065009,
+		"personalLimit" : 1,
+		"price" : 928,
+		"seckillNum" : 3,
+		"shopCode" : 2003,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 68,
+		"itemCode" : 41960069,
+		"personalLimit" : 6,
+		"price" : 528,
+		"seckillNum" : 3,
+		"shopCode" : 2003,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 69,
+		"itemCode" : 60040048,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 2003,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 70,
+		"itemCode" : 60040050,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 2003,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 71,
+		"itemCode" : 42150006,
+		"personalLimit" : 5,
+		"price" : 88,
+		"seckillNum" : 3,
+		"shopCode" : 2003,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 2,
+		"id" : 72,
+		"itemCode" : 42010004,
+		"personalLimit" : 5,
+		"price" : 68,
+		"seckillNum" : 3,
+		"shopCode" : 2003,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 73,
+		"itemCode" : 11015008,
+		"personalLimit" : 1,
+		"price" : 780,
+		"seckillNum" : 3,
+		"shopCode" : 2004,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 74,
+		"itemCode" : 11095008,
+		"personalLimit" : 1,
+		"price" : 780,
+		"seckillNum" : 3,
+		"shopCode" : 2004,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 75,
+		"itemCode" : 11065008,
+		"personalLimit" : 1,
+		"price" : 780,
+		"seckillNum" : 3,
+		"shopCode" : 2004,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 76,
+		"itemCode" : 41960069,
+		"personalLimit" : 6,
+		"price" : 528,
+		"seckillNum" : 3,
+		"shopCode" : 2004,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 77,
+		"itemCode" : 60040048,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 2004,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 78,
+		"itemCode" : 60040050,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 2004,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 79,
+		"itemCode" : 51110014,
+		"personalLimit" : 5,
+		"price" : 288,
+		"seckillNum" : 3,
+		"shopCode" : 2004,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 2,
+		"id" : 80,
+		"itemCode" : 42010002,
+		"personalLimit" : 10,
+		"price" : 10,
+		"seckillNum" : 3,
+		"shopCode" : 2004,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 81,
+		"itemCode" : 11015007,
+		"personalLimit" : 1,
+		"price" : 688,
+		"seckillNum" : 3,
+		"shopCode" : 2005,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 82,
+		"itemCode" : 11095007,
+		"personalLimit" : 1,
+		"price" : 628,
+		"seckillNum" : 3,
+		"shopCode" : 2005,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 83,
+		"itemCode" : 11065007,
+		"personalLimit" : 1,
+		"price" : 628,
+		"seckillNum" : 3,
+		"shopCode" : 2005,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 84,
+		"itemCode" : 41960069,
+		"personalLimit" : 6,
+		"price" : 528,
+		"seckillNum" : 3,
+		"shopCode" : 2005,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 85,
+		"itemCode" : 60040048,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 2005,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 86,
+		"itemCode" : 60040050,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 2005,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 87,
+		"itemCode" : 51110014,
+		"personalLimit" : 5,
+		"price" : 288,
+		"seckillNum" : 3,
+		"shopCode" : 2005,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 2,
+		"id" : 88,
+		"itemCode" : 42010002,
+		"personalLimit" : 10,
+		"price" : 10,
+		"seckillNum" : 3,
+		"shopCode" : 2005,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 89,
+		"itemCode" : 11015006,
+		"personalLimit" : 1,
+		"price" : 588,
+		"seckillNum" : 3,
+		"shopCode" : 2006,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 90,
+		"itemCode" : 11095006,
+		"personalLimit" : 1,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 2006,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 91,
+		"itemCode" : 11065006,
+		"personalLimit" : 1,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 2006,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 92,
+		"itemCode" : 41960069,
+		"personalLimit" : 6,
+		"price" : 528,
+		"seckillNum" : 3,
+		"shopCode" : 2006,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 93,
+		"itemCode" : 60040048,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 2006,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 94,
+		"itemCode" : 60040050,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 2006,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 95,
+		"itemCode" : 51110014,
+		"personalLimit" : 5,
+		"price" : 288,
+		"seckillNum" : 3,
+		"shopCode" : 2006,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 2,
+		"id" : 96,
+		"itemCode" : 42010002,
+		"personalLimit" : 10,
+		"price" : 10,
+		"seckillNum" : 3,
+		"shopCode" : 2006,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 97,
+		"itemCode" : 11075011,
+		"personalLimit" : 1,
+		"price" : 1288,
+		"seckillNum" : 3,
+		"shopCode" : 3001,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 98,
+		"itemCode" : 11085011,
+		"personalLimit" : 1,
+		"price" : 1288,
+		"seckillNum" : 3,
+		"shopCode" : 3001,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 99,
+		"itemCode" : 11105011,
+		"personalLimit" : 1,
+		"price" : 1288,
+		"seckillNum" : 3,
+		"shopCode" : 3001,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 100,
+		"itemCode" : 51110014,
+		"personalLimit" : 5,
+		"price" : 288,
+		"seckillNum" : 3,
+		"shopCode" : 3001,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 101,
+		"itemCode" : 60040046,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 3001,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 102,
+		"itemCode" : 60040045,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 3001,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 103,
+		"itemCode" : 42150006,
+		"personalLimit" : 5,
+		"price" : 88,
+		"seckillNum" : 3,
+		"shopCode" : 3001,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 2,
+		"id" : 104,
+		"itemCode" : 40153603,
+		"personalLimit" : 5,
+		"price" : 25,
+		"seckillNum" : 3,
+		"shopCode" : 3001,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 105,
+		"itemCode" : 11075010,
+		"personalLimit" : 1,
+		"price" : 1080,
+		"seckillNum" : 3,
+		"shopCode" : 3002,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 106,
+		"itemCode" : 11085010,
+		"personalLimit" : 1,
+		"price" : 1080,
+		"seckillNum" : 3,
+		"shopCode" : 3002,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 107,
+		"itemCode" : 11105010,
+		"personalLimit" : 1,
+		"price" : 1080,
+		"seckillNum" : 3,
+		"shopCode" : 3002,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 108,
+		"itemCode" : 51110014,
+		"personalLimit" : 5,
+		"price" : 288,
+		"seckillNum" : 3,
+		"shopCode" : 3002,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 109,
+		"itemCode" : 60040046,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 3002,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 110,
+		"itemCode" : 60040045,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 3002,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 111,
+		"itemCode" : 42150006,
+		"personalLimit" : 5,
+		"price" : 88,
+		"seckillNum" : 3,
+		"shopCode" : 3002,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 2,
+		"id" : 112,
+		"itemCode" : 40153603,
+		"personalLimit" : 5,
+		"price" : 25,
+		"seckillNum" : 3,
+		"shopCode" : 3002,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 113,
+		"itemCode" : 11075009,
+		"personalLimit" : 1,
+		"price" : 928,
+		"seckillNum" : 3,
+		"shopCode" : 3003,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 114,
+		"itemCode" : 11085009,
+		"personalLimit" : 1,
+		"price" : 928,
+		"seckillNum" : 3,
+		"shopCode" : 3003,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 115,
+		"itemCode" : 11105009,
+		"personalLimit" : 1,
+		"price" : 928,
+		"seckillNum" : 3,
+		"shopCode" : 3003,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 116,
+		"itemCode" : 51110014,
+		"personalLimit" : 5,
+		"price" : 288,
+		"seckillNum" : 3,
+		"shopCode" : 3003,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 117,
+		"itemCode" : 60040046,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 3003,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 118,
+		"itemCode" : 60040045,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 3003,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 119,
+		"itemCode" : 42150006,
+		"personalLimit" : 5,
+		"price" : 88,
+		"seckillNum" : 3,
+		"shopCode" : 3003,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 2,
+		"id" : 120,
+		"itemCode" : 40153603,
+		"personalLimit" : 5,
+		"price" : 25,
+		"seckillNum" : 3,
+		"shopCode" : 3003,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 121,
+		"itemCode" : 11075008,
+		"personalLimit" : 1,
+		"price" : 780,
+		"seckillNum" : 3,
+		"shopCode" : 3004,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 122,
+		"itemCode" : 11085008,
+		"personalLimit" : 1,
+		"price" : 780,
+		"seckillNum" : 3,
+		"shopCode" : 3004,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 123,
+		"itemCode" : 11105008,
+		"personalLimit" : 1,
+		"price" : 780,
+		"seckillNum" : 3,
+		"shopCode" : 3004,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 124,
+		"itemCode" : 51110014,
+		"personalLimit" : 5,
+		"price" : 288,
+		"seckillNum" : 3,
+		"shopCode" : 3004,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 125,
+		"itemCode" : 60040046,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 3004,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 126,
+		"itemCode" : 60040045,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 3004,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 127,
+		"itemCode" : 42150006,
+		"personalLimit" : 5,
+		"price" : 88,
+		"seckillNum" : 3,
+		"shopCode" : 3004,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 2,
+		"id" : 128,
+		"itemCode" : 40153603,
+		"personalLimit" : 5,
+		"price" : 25,
+		"seckillNum" : 3,
+		"shopCode" : 3004,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 129,
+		"itemCode" : 11175007,
+		"personalLimit" : 1,
+		"price" : 648,
+		"seckillNum" : 3,
+		"shopCode" : 3005,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 130,
+		"itemCode" : 11085007,
+		"personalLimit" : 1,
+		"price" : 628,
+		"seckillNum" : 3,
+		"shopCode" : 3005,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 131,
+		"itemCode" : 11105007,
+		"personalLimit" : 1,
+		"price" : 628,
+		"seckillNum" : 3,
+		"shopCode" : 3005,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 132,
+		"itemCode" : 51110014,
+		"personalLimit" : 5,
+		"price" : 288,
+		"seckillNum" : 3,
+		"shopCode" : 3005,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 133,
+		"itemCode" : 60040046,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 3005,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 134,
+		"itemCode" : 60040045,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 3005,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 135,
+		"itemCode" : 42150006,
+		"personalLimit" : 5,
+		"price" : 88,
+		"seckillNum" : 3,
+		"shopCode" : 3005,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 2,
+		"id" : 136,
+		"itemCode" : 40153603,
+		"personalLimit" : 5,
+		"price" : 25,
+		"seckillNum" : 3,
+		"shopCode" : 3005,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 137,
+		"itemCode" : 11175006,
+		"personalLimit" : 1,
+		"price" : 528,
+		"seckillNum" : 3,
+		"shopCode" : 3006,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 138,
+		"itemCode" : 11085006,
+		"personalLimit" : 1,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 3006,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 139,
+		"itemCode" : 11105006,
+		"personalLimit" : 1,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 3006,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 140,
+		"itemCode" : 51110014,
+		"personalLimit" : 5,
+		"price" : 288,
+		"seckillNum" : 3,
+		"shopCode" : 3006,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 141,
+		"itemCode" : 60040046,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 3006,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 142,
+		"itemCode" : 60040045,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 3006,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 143,
+		"itemCode" : 42150006,
+		"personalLimit" : 5,
+		"price" : 88,
+		"seckillNum" : 3,
+		"shopCode" : 3006,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 2,
+		"id" : 144,
+		"itemCode" : 40153603,
+		"personalLimit" : 5,
+		"price" : 25,
+		"seckillNum" : 3,
+		"shopCode" : 3006,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 145,
+		"itemCode" : 11015011,
+		"personalLimit" : 1,
+		"price" : 1288,
+		"seckillNum" : 3,
+		"shopCode" : 4001,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 146,
+		"itemCode" : 11095011,
+		"personalLimit" : 1,
+		"price" : 1288,
+		"seckillNum" : 3,
+		"shopCode" : 4001,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 147,
+		"itemCode" : 11065011,
+		"personalLimit" : 1,
+		"price" : 1288,
+		"seckillNum" : 3,
+		"shopCode" : 4001,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 148,
+		"itemCode" : 51120014,
+		"personalLimit" : 5,
+		"price" : 288,
+		"seckillNum" : 3,
+		"shopCode" : 4001,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 149,
+		"itemCode" : 60040048,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 4001,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 150,
+		"itemCode" : 60040050,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 4001,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 151,
+		"itemCode" : 42160006,
+		"personalLimit" : 5,
+		"price" : 88,
+		"seckillNum" : 3,
+		"shopCode" : 4001,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 2,
+		"id" : 152,
+		"itemCode" : 42010004,
+		"personalLimit" : 5,
+		"price" : 68,
+		"seckillNum" : 3,
+		"shopCode" : 4001,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 153,
+		"itemCode" : 11015010,
+		"personalLimit" : 1,
+		"price" : 1080,
+		"seckillNum" : 3,
+		"shopCode" : 4002,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 154,
+		"itemCode" : 11095010,
+		"personalLimit" : 1,
+		"price" : 1080,
+		"seckillNum" : 3,
+		"shopCode" : 4002,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 155,
+		"itemCode" : 11065010,
+		"personalLimit" : 1,
+		"price" : 1080,
+		"seckillNum" : 3,
+		"shopCode" : 4002,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 156,
+		"itemCode" : 51120014,
+		"personalLimit" : 5,
+		"price" : 288,
+		"seckillNum" : 3,
+		"shopCode" : 4002,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 157,
+		"itemCode" : 60040048,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 4002,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 158,
+		"itemCode" : 60040050,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 4002,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 159,
+		"itemCode" : 42160006,
+		"personalLimit" : 5,
+		"price" : 88,
+		"seckillNum" : 3,
+		"shopCode" : 4002,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 2,
+		"id" : 160,
+		"itemCode" : 42010004,
+		"personalLimit" : 5,
+		"price" : 68,
+		"seckillNum" : 3,
+		"shopCode" : 4002,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 161,
+		"itemCode" : 11015009,
+		"personalLimit" : 1,
+		"price" : 928,
+		"seckillNum" : 3,
+		"shopCode" : 4003,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 162,
+		"itemCode" : 11095009,
+		"personalLimit" : 1,
+		"price" : 928,
+		"seckillNum" : 3,
+		"shopCode" : 4003,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 163,
+		"itemCode" : 11065009,
+		"personalLimit" : 1,
+		"price" : 928,
+		"seckillNum" : 3,
+		"shopCode" : 4003,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 164,
+		"itemCode" : 51120014,
+		"personalLimit" : 5,
+		"price" : 288,
+		"seckillNum" : 3,
+		"shopCode" : 4003,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 165,
+		"itemCode" : 60040048,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 4003,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 166,
+		"itemCode" : 60040050,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 4003,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 167,
+		"itemCode" : 42160006,
+		"personalLimit" : 5,
+		"price" : 88,
+		"seckillNum" : 3,
+		"shopCode" : 4003,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 2,
+		"id" : 168,
+		"itemCode" : 42010004,
+		"personalLimit" : 5,
+		"price" : 68,
+		"seckillNum" : 3,
+		"shopCode" : 4003,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 169,
+		"itemCode" : 11015008,
+		"personalLimit" : 1,
+		"price" : 780,
+		"seckillNum" : 3,
+		"shopCode" : 4004,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 170,
+		"itemCode" : 11095008,
+		"personalLimit" : 1,
+		"price" : 780,
+		"seckillNum" : 3,
+		"shopCode" : 4004,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 171,
+		"itemCode" : 11065008,
+		"personalLimit" : 1,
+		"price" : 780,
+		"seckillNum" : 3,
+		"shopCode" : 4004,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 172,
+		"itemCode" : 51120014,
+		"personalLimit" : 5,
+		"price" : 288,
+		"seckillNum" : 3,
+		"shopCode" : 4004,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 173,
+		"itemCode" : 60040048,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 4004,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 174,
+		"itemCode" : 60040050,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 4004,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 175,
+		"itemCode" : 42160006,
+		"personalLimit" : 5,
+		"price" : 88,
+		"seckillNum" : 3,
+		"shopCode" : 4004,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 2,
+		"id" : 176,
+		"itemCode" : 42010004,
+		"personalLimit" : 5,
+		"price" : 68,
+		"seckillNum" : 3,
+		"shopCode" : 4004,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 177,
+		"itemCode" : 11015007,
+		"personalLimit" : 1,
+		"price" : 688,
+		"seckillNum" : 3,
+		"shopCode" : 4005,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 178,
+		"itemCode" : 11095007,
+		"personalLimit" : 1,
+		"price" : 628,
+		"seckillNum" : 3,
+		"shopCode" : 4005,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 179,
+		"itemCode" : 11065007,
+		"personalLimit" : 1,
+		"price" : 628,
+		"seckillNum" : 3,
+		"shopCode" : 4005,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 180,
+		"itemCode" : 51120014,
+		"personalLimit" : 5,
+		"price" : 288,
+		"seckillNum" : 3,
+		"shopCode" : 4005,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 181,
+		"itemCode" : 60040048,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 4005,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 182,
+		"itemCode" : 60040050,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 4005,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 183,
+		"itemCode" : 42160006,
+		"personalLimit" : 5,
+		"price" : 88,
+		"seckillNum" : 3,
+		"shopCode" : 4005,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 2,
+		"id" : 184,
+		"itemCode" : 42010004,
+		"personalLimit" : 5,
+		"price" : 68,
+		"seckillNum" : 3,
+		"shopCode" : 4005,
+		"unit" : 2,
+		"worldLimit" : 99999
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 185,
+		"itemCode" : 11015006,
+		"personalLimit" : 1,
+		"price" : 588,
+		"seckillNum" : 3,
+		"shopCode" : 4006,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 186,
+		"itemCode" : 11095006,
+		"personalLimit" : 1,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 4006,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"broadcast" : 1,
+		"discount" : 5,
+		"id" : 187,
+		"itemCode" : 11065006,
+		"personalLimit" : 1,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 4006,
+		"unit" : 2,
+		"worldLimit" : 3
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 188,
+		"itemCode" : 51120014,
+		"personalLimit" : 5,
+		"price" : 288,
+		"seckillNum" : 3,
+		"shopCode" : 4006,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 189,
+		"itemCode" : 60040048,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 4006,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 3,
+		"id" : 190,
+		"itemCode" : 60040050,
+		"personalLimit" : 3,
+		"price" : 499,
+		"seckillNum" : 3,
+		"shopCode" : 4006,
+		"unit" : 2,
+		"worldLimit" : 15
+	},
+	
+	{
+		"discount" : 5,
+		"id" : 191,
+		"itemCode" : 42160006,
+		"personalLimit" : 5,
+		"price" : 88,
+		"seckillNum" : 3,
+		"shopCode" : 4006,
+		"unit" : 2,
+		"worldLimit" : 50
+	},
+	
+	{
+		"discount" : 2,
+		"id" : 192,
+		"itemCode" : 42010004,
+		"personalLimit" : 5,
+		"price" : 68,
+		"seckillNum" : 3,
+		"shopCode" : 4006,
+		"unit" : 2,
+		"worldLimit" : 99999
+	}
+]

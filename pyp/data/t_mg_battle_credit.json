@@ -1,0 +1,115 @@
+
+[
+	
+	{
+		"num" : 5,
+		"numEx" : 5,
+		"type" : 1
+	},
+	
+	{
+		"num" : 1,
+		"numEx" : 1,
+		"type" : 2
+	},
+	
+	{
+		"num" : 1,
+		"numEx" : 1,
+		"type" : 3
+	},
+	
+	{
+		"num" : 10,
+		"numEx" : 10,
+		"type" : 4
+	},
+	
+	{
+		"num" : 200,
+		"numEx" : 200,
+		"type" : 5
+	},
+	
+	{
+		"num" : 20,
+		"numEx" : 20,
+		"type" : 6
+	},
+	
+	{
+		"num" : 300,
+		"numEx" : 300,
+		"type" : 7
+	},
+	
+	{
+		"num" : 50,
+		"numEx" : 50,
+		"type" : 8,
+		"typeEx" : 10
+	},
+	
+	{
+		"num" : 100,
+		"numEx" : 100,
+		"type" : 8,
+		"typeEx" : 20
+	},
+	
+	{
+		"num" : 150,
+		"numEx" : 150,
+		"type" : 8,
+		"typeEx" : 30
+	},
+	
+	{
+		"num" : 200,
+		"numEx" : 200,
+		"type" : 8,
+		"typeEx" : 40
+	},
+	
+	{
+		"num" : 250,
+		"numEx" : 250,
+		"type" : 8,
+		"typeEx" : 50
+	},
+	
+	{
+		"num" : 10,
+		"numEx" : 10,
+		"type" : 9,
+		"typeEx" : 10
+	},
+	
+	{
+		"num" : 20,
+		"numEx" : 20,
+		"type" : 9,
+		"typeEx" : 20
+	},
+	
+	{
+		"num" : 30,
+		"numEx" : 30,
+		"type" : 9,
+		"typeEx" : 30
+	},
+	
+	{
+		"num" : 40,
+		"numEx" : 40,
+		"type" : 9,
+		"typeEx" : 40
+	},
+	
+	{
+		"num" : 50,
+		"numEx" : 50,
+		"type" : 9,
+		"typeEx" : 50
+	}
+]

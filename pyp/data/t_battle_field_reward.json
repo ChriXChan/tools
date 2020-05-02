@@ -1,0 +1,795 @@
+
+[
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rewardCoin" : 100000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 1,
+		"rewardCoin" : 500000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 2,
+		"rewardCoin" : 450000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 3,
+		"rewardCoin" : 400000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 4,
+		"rewardCoin" : 380000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 5,
+		"rewardCoin" : 360000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 6,
+		"rewardCoin" : 340000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 7,
+		"rewardCoin" : 320000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 8,
+		"rewardCoin" : 300000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 9,
+		"rewardCoin" : 280000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 10,
+		"rewardCoin" : 250000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 11,
+		"rewardCoin" : 240000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 12,
+		"rewardCoin" : 230000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 13,
+		"rewardCoin" : 220000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 14,
+		"rewardCoin" : 210000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 15,
+		"rewardCoin" : 200000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 16,
+		"rewardCoin" : 195000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 17,
+		"rewardCoin" : 190000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 18,
+		"rewardCoin" : 185000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 19,
+		"rewardCoin" : 180000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 20,
+		"rewardCoin" : 175000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 21,
+		"rewardCoin" : 170000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 22,
+		"rewardCoin" : 165000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 23,
+		"rewardCoin" : 160000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 24,
+		"rewardCoin" : 155000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 25,
+		"rewardCoin" : 150000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 26,
+		"rewardCoin" : 145000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 27,
+		"rewardCoin" : 140000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 28,
+		"rewardCoin" : 135000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 29,
+		"rewardCoin" : 130000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 30,
+		"rewardCoin" : 125000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 31,
+		"rewardCoin" : 123000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 32,
+		"rewardCoin" : 121500
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 33,
+		"rewardCoin" : 120000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 34,
+		"rewardCoin" : 118500
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 35,
+		"rewardCoin" : 117000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 36,
+		"rewardCoin" : 115500
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 37,
+		"rewardCoin" : 114000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 38,
+		"rewardCoin" : 112500
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 39,
+		"rewardCoin" : 111000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 40,
+		"rewardCoin" : 110000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 41,
+		"rewardCoin" : 109000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 42,
+		"rewardCoin" : 108000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 43,
+		"rewardCoin" : 107000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 44,
+		"rewardCoin" : 106000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 45,
+		"rewardCoin" : 105000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 46,
+		"rewardCoin" : 104000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 47,
+		"rewardCoin" : 103000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 48,
+		"rewardCoin" : 102000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 45,
+		"rank" : 49,
+		"rewardCoin" : 101000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rewardCoin" : 350000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 1,
+		"rewardCoin" : 1500000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 2,
+		"rewardCoin" : 1400000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 3,
+		"rewardCoin" : 1300000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 4,
+		"rewardCoin" : 1200000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 5,
+		"rewardCoin" : 1100000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 6,
+		"rewardCoin" : 1000000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 7,
+		"rewardCoin" : 950000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 8,
+		"rewardCoin" : 900000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 9,
+		"rewardCoin" : 850000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 10,
+		"rewardCoin" : 800000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 11,
+		"rewardCoin" : 780000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 12,
+		"rewardCoin" : 760000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 13,
+		"rewardCoin" : 740000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 14,
+		"rewardCoin" : 720000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 15,
+		"rewardCoin" : 700000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 16,
+		"rewardCoin" : 690000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 17,
+		"rewardCoin" : 680000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 18,
+		"rewardCoin" : 670000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 19,
+		"rewardCoin" : 660000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 20,
+		"rewardCoin" : 650000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 21,
+		"rewardCoin" : 640000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 22,
+		"rewardCoin" : 630000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 23,
+		"rewardCoin" : 620000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 24,
+		"rewardCoin" : 610000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 25,
+		"rewardCoin" : 600000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 26,
+		"rewardCoin" : 590000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 27,
+		"rewardCoin" : 580000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 28,
+		"rewardCoin" : 570000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 29,
+		"rewardCoin" : 560000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 30,
+		"rewardCoin" : 550000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 31,
+		"rewardCoin" : 540000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 32,
+		"rewardCoin" : 530000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 33,
+		"rewardCoin" : 520000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 34,
+		"rewardCoin" : 510000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 35,
+		"rewardCoin" : 500000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 36,
+		"rewardCoin" : 490000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 37,
+		"rewardCoin" : 480000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 38,
+		"rewardCoin" : 470000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 39,
+		"rewardCoin" : 460000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 40,
+		"rewardCoin" : 450000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 41,
+		"rewardCoin" : 440000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 42,
+		"rewardCoin" : 430000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 43,
+		"rewardCoin" : 420000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 44,
+		"rewardCoin" : 410000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 45,
+		"rewardCoin" : 400000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 46,
+		"rewardCoin" : 390000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 47,
+		"rewardCoin" : 380000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 48,
+		"rewardCoin" : 370000
+	},
+	
+	{
+		"copyCode" : 136,
+		"level" : 60,
+		"rank" : 49,
+		"rewardCoin" : 360000
+	},
+	
+	{
+		"copyCode" : 162,
+		"itemsReward" : "40151101,1"
+	},
+	
+	{
+		"copyCode" : 162,
+		"itemsReward" : "40151300,4",
+		"rank" : 1
+	},
+	
+	{
+		"copyCode" : 162,
+		"itemsReward" : "40151300,3",
+		"rank" : 2
+	},
+	
+	{
+		"copyCode" : 162,
+		"itemsReward" : "40151300,2",
+		"rank" : 3
+	},
+	
+	{
+		"copyCode" : 162,
+		"itemsReward" : "40151102,1",
+		"level" : 60
+	},
+	
+	{
+		"copyCode" : 166,
+		"itemsReward" : "40111323,1"
+	},
+	
+	{
+		"copyCode" : 166,
+		"itemsReward" : "40121049,2",
+		"rank" : 1
+	},
+	
+	{
+		"copyCode" : 166,
+		"itemsReward" : "40121049,2",
+		"rank" : 2
+	},
+	
+	{
+		"copyCode" : 166,
+		"itemsReward" : "40121049,2",
+		"rank" : 3
+	},
+	
+	{
+		"copyCode" : 166,
+		"itemsReward" : "40121050,1",
+		"rank" : 4
+	},
+	
+	{
+		"copyCode" : 166,
+		"itemsReward" : "40121050,1",
+		"rank" : 5
+	},
+	
+	{
+		"copyCode" : 166,
+		"itemsReward" : "40121050,1",
+		"rank" : 6
+	},
+	
+	{
+		"copyCode" : 166,
+		"itemsReward" : "40121050,1",
+		"rank" : 7
+	},
+	
+	{
+		"copyCode" : 166,
+		"itemsReward" : "40121050,1",
+		"rank" : 8
+	},
+	
+	{
+		"copyCode" : 166,
+		"itemsReward" : "40121050,1",
+		"rank" : 9
+	},
+	
+	{
+		"copyCode" : 166,
+		"itemsReward" : "40121050,1",
+		"rank" : 10
+	}
+]

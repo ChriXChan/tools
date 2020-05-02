@@ -1,0 +1,1093 @@
+
+[
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101010011,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/10101001"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101010012,
+		"rotation" : 29,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/10101001"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101010013,
+		"rotation" : -34,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/10101001"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101010014,
+		"rotation" : 19,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/10101001"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101010015,
+		"rotation" : -10,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/10101001"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101010016,
+		"rotation" : -18,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/10101002"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101010017,
+		"rotation" : 19,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/10101002"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101010018,
+		"rotation" : -1,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/10101002"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101050011,
+		"scaleX" : 1300,
+		"scaleY" : 1300,
+		"src" : "resource/assets/rpgGame/skill/101050011"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101030011,
+		"scaleX" : 800,
+		"scaleY" : 800,
+		"src" : "resource/assets/rpgGame/skill/101030011"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101030012,
+		"rotation" : -30,
+		"scaleX" : 800,
+		"scaleY" : 800,
+		"src" : "resource/assets/rpgGame/skill/101030011"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101030013,
+		"rotation" : 30,
+		"scaleX" : 800,
+		"scaleY" : 800,
+		"src" : "resource/assets/rpgGame/skill/101030011"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101030014,
+		"rotation" : -15,
+		"scaleX" : 800,
+		"scaleY" : 800,
+		"src" : "resource/assets/rpgGame/skill/101030011"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101030015,
+		"rotation" : 10,
+		"scaleX" : 800,
+		"scaleY" : 800,
+		"src" : "resource/assets/rpgGame/skill/101030011"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101030016,
+		"rotation" : -20,
+		"scaleX" : 800,
+		"scaleY" : 800,
+		"src" : "resource/assets/rpgGame/skill/101030016"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101030017,
+		"rotation" : 20,
+		"scaleX" : 800,
+		"scaleY" : 800,
+		"src" : "resource/assets/rpgGame/skill/101030016"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101030018,
+		"scaleX" : 800,
+		"scaleY" : 800,
+		"src" : "resource/assets/rpgGame/skill/101030016"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101040011,
+		"framerate" : 12,
+		"layer" : 2,
+		"scaleX" : 1500,
+		"scaleY" : 1500,
+		"src" : "resource/assets/rpgGame/skill/101040011"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 102030011,
+		"layer" : 1,
+		"playTime" : -1,
+		"scaleX" : 800,
+		"scaleY" : 800,
+		"src" : "resource/assets/rpgGame/skill/10203001"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 102030012,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/10203002"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 102030013,
+		"layer" : 1,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/10203003"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 102010011,
+		"layer" : 1,
+		"playTime" : -1,
+		"scaleX" : 800,
+		"scaleY" : 800,
+		"src" : "resource/assets/rpgGame/skill/102010011"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 102010012,
+		"framerate" : 12,
+		"layer" : 1,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/102010012"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 102010013,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/10209002"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 102010014,
+		"layer" : 2,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/102010014"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 102040011,
+		"scaleX" : 1400,
+		"scaleY" : 1400,
+		"src" : "resource/assets/rpgGame/skill/102040011"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 102040012,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/102040012"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101060011,
+		"scaleX" : 2300,
+		"scaleY" : 2300,
+		"src" : "resource/assets/rpgGame/skill/10106001"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101060012,
+		"fade" : "[0,350,250,0]",
+		"playTime" : 600,
+		"scaleX" : 1800,
+		"scaleY" : 1800,
+		"src" : "resource/assets/rpgGame/skill/10106002"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101060013,
+		"scaleX" : 1150,
+		"scaleY" : 1150,
+		"src" : "resource/assets/rpgGame/skill/10106003"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101060014,
+		"scaleX" : 1750,
+		"scaleY" : 1750,
+		"src" : "resource/assets/rpgGame/skill/10106003"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101060015,
+		"scaleX" : 1150,
+		"scaleY" : 1150,
+		"src" : "resource/assets/rpgGame/skill/10106003"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101060016,
+		"scaleX" : 1150,
+		"scaleY" : 1150,
+		"src" : "resource/assets/rpgGame/skill/10106003"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101060017,
+		"framerate" : 16,
+		"scaleX" : 1750,
+		"scaleY" : 1750,
+		"src" : "resource/assets/rpgGame/skill/10106003"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101070011,
+		"layer" : 2,
+		"playTime" : 930,
+		"scaleX" : 1300,
+		"scaleY" : 1300,
+		"src" : "resource/assets/rpgGame/buff/101070011"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 1002,
+		"layer" : 2,
+		"playTime" : -1,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/buff/1002"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101020011,
+		"scaleX" : 1400,
+		"scaleY" : 1400,
+		"src" : "resource/assets/rpgGame/skill/101020011"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101020012,
+		"scaleX" : 1400,
+		"scaleY" : 1400,
+		"src" : "resource/assets/rpgGame/skill/101020011"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101020013,
+		"scaleX" : 1400,
+		"scaleY" : 1400,
+		"src" : "resource/assets/rpgGame/skill/101020011"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101020014,
+		"scaleX" : 1400,
+		"scaleY" : 1400,
+		"src" : "resource/assets/rpgGame/skill/101020011"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101020021,
+		"scaleX" : 1500,
+		"scaleY" : 1500,
+		"src" : "resource/assets/rpgGame/skill/101020021"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101020031,
+		"scaleX" : 1200,
+		"scaleY" : 1200,
+		"src" : "resource/assets/rpgGame/skill/101020031"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101020041,
+		"rotation" : 122,
+		"scaleX" : 1200,
+		"scaleY" : 1200,
+		"src" : "resource/assets/rpgGame/skill/101020041"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101020042,
+		"rotation" : -129,
+		"scaleX" : 1200,
+		"scaleY" : 1200,
+		"src" : "resource/assets/rpgGame/skill/101020041"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101020043,
+		"rotation" : 90,
+		"scaleX" : 1200,
+		"scaleY" : 1200,
+		"src" : "resource/assets/rpgGame/skill/101020041"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101020044,
+		"rotation" : -43,
+		"scaleX" : 1200,
+		"scaleY" : 1200,
+		"src" : "resource/assets/rpgGame/skill/101020041"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101020045,
+		"rotation" : 48,
+		"scaleX" : 1200,
+		"scaleY" : 1200,
+		"src" : "resource/assets/rpgGame/skill/101020041"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101020046,
+		"rotation" : -87,
+		"scaleX" : 1200,
+		"scaleY" : 1200,
+		"src" : "resource/assets/rpgGame/skill/101020041"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 1006,
+		"layer" : 2,
+		"playTime" : -1,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/buff/1006"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 102060011,
+		"layer" : 1,
+		"scaleX" : 1200,
+		"scaleY" : 1200,
+		"src" : "resource/assets/rpgGame/skill/10206001"
+	},
+	
+	{
+		"alpha" : 1000,
+		"blendmode" : 1,
+		"effectId" : 102060021,
+		"scaleX" : 2000,
+		"scaleY" : 2000,
+		"src" : "resource/assets/rpgGame/skill/10206002"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 102050011,
+		"scaleX" : 1200,
+		"scaleY" : 1500,
+		"src" : "resource/assets/rpgGame/skill/102050011"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 102090011,
+		"fade" : "[0,900,300,0]",
+		"playTime" : 1200,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/10209001"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 102090012,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/10209002"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 102090013,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/10209002"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 102090014,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/10209002"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 102090015,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/10209002"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 102090016,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/10209003"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 102090017,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/10209003"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 102090018,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/10209003"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 102090019,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/10209003"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 102070011,
+		"layer" : 2,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/102070011"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 102070012,
+		"layer" : 2,
+		"playTime" : -1,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/102070012"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 1001,
+		"layer" : 2,
+		"playTime" : -1,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/buff/1001"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 302010011,
+		"playTime" : -1,
+		"scaleX" : 700,
+		"scaleY" : 700,
+		"src" : "resource/assets/rpgGame/skill/30201001"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 302010012,
+		"playTime" : -1,
+		"scaleX" : 700,
+		"scaleY" : 700,
+		"src" : "resource/assets/rpgGame/skill/30201001"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 302010013,
+		"playTime" : -1,
+		"scaleX" : 700,
+		"scaleY" : 700,
+		"src" : "resource/assets/rpgGame/skill/30201001"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 306010011,
+		"playTime" : 1500,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/306010011"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 306010012,
+		"playTime" : 1500,
+		"scaleX" : 600,
+		"scaleY" : 600,
+		"src" : "resource/assets/rpgGame/skill/306010012"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 101080011,
+		"layer" : 1,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/10108001"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 2003,
+		"layer" : 2,
+		"playTime" : 5000,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/buff/2003"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 3003,
+		"layer" : 2,
+		"playTime" : 5000,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/buff/3003"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 9999,
+		"scaleX" : 1750,
+		"scaleY" : 1750,
+		"src" : "resource/assets/rpgGame/skill/9999"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 999991,
+		"scaleX" : 1750,
+		"scaleY" : 1750,
+		"src" : "resource/assets/rpgGame/skill/99999"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 999992,
+		"scaleX" : -1750,
+		"scaleY" : 1750,
+		"src" : "resource/assets/rpgGame/skill/99999"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 10061,
+		"scaleX" : 900,
+		"scaleY" : 900,
+		"src" : "resource/assets/rpgGame/skill/100601"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 10062,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/100601"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 10063,
+		"scaleX" : 1200,
+		"scaleY" : 1200,
+		"src" : "resource/assets/rpgGame/skill/100601"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 10041,
+		"layer" : 2,
+		"playTime" : -1,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/buff/100401"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 10071,
+		"layer" : 3,
+		"playTime" : -1,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/buff/100701"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 20061,
+		"rotation" : 20,
+		"scaleX" : 1500,
+		"scaleY" : 1500,
+		"src" : "resource/assets/rpgGame/skill/200601"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 20062,
+		"rotation" : 20,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/200601"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 20063,
+		"rotation" : 20,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/200601"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 20064,
+		"rotation" : 20,
+		"scaleX" : 1200,
+		"scaleY" : 1200,
+		"src" : "resource/assets/rpgGame/skill/200601"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 20065,
+		"rotation" : 20,
+		"scaleX" : 1600,
+		"scaleY" : 1600,
+		"src" : "resource/assets/rpgGame/skill/200601"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 20071,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/200701"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 20072,
+		"layer" : 2,
+		"playTime" : -1,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/buff/200401"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 30061,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/300601"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 20073,
+		"layer" : 2,
+		"playTime" : -1,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/buff/200702"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 302010021,
+		"layer" : 2,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/skill/30201002"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 29010201,
+		"layer" : 3,
+		"playTime" : -1,
+		"scaleX" : 1200,
+		"scaleY" : 1200,
+		"src" : "resource/assets/rpgGame/buff/29010201"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 71010001,
+		"layer" : 2,
+		"playTime" : -1,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/buff/71010001"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 71010002,
+		"layer" : 2,
+		"playTime" : -1,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/buff/71010002"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 71010003,
+		"layer" : 2,
+		"playTime" : -1,
+		"scaleX" : 1000,
+		"scaleY" : 1000,
+		"src" : "resource/assets/rpgGame/buff/71010003"
+	},
+	
+	{
+		"alpha" : 1000,
+		"effectId" : 29010001,
+		"layer" : 2,
+		"playTime" : -1,
+		"scaleX" : 1500,
+		"scaleY" : 1500,
+		"src" : "resource/assets/rpgGame/buff/29010001"
+	},
+	
+	{
+		"alpha" : 1000,
+		"blendmode" : 1,
+		"effectId" : 2010011,
+		"rotation" : -54,
+		"scaleX" : 2000,
+		"scaleY" : 2000,
+		"src" : "resource/assets/rpgGame/common/20100"
+	},
+	
+	{
+		"alpha" : 1000,
+		"blendmode" : 1,
+		"effectId" : 2010012,
+		"rotation" : 54,
+		"scaleX" : 2000,
+		"scaleY" : 2000,
+		"src" : "resource/assets/rpgGame/common/20100"
+	},
+	
+	{
+		"alpha" : 1000,
+		"blendmode" : 1,
+		"effectId" : 2010013,
+		"rotation" : 59,
+		"scaleX" : 2000,
+		"scaleY" : 2000,
+		"src" : "resource/assets/rpgGame/common/20100"
+	},
+	
+	{
+		"alpha" : 1000,
+		"blendmode" : 1,
+		"effectId" : 2010014,
+		"rotation" : -59,
+		"scaleX" : 2000,
+		"scaleY" : 2000,
+		"src" : "resource/assets/rpgGame/common/20100"
+	},
+	
+	{
+		"alpha" : 1000,
+		"blendmode" : 1,
+		"effectId" : 2010021,
+		"rotation" : -128,
+		"scaleX" : 2000,
+		"scaleY" : 2000,
+		"src" : "resource/assets/rpgGame/common/20100"
+	},
+	
+	{
+		"alpha" : 1000,
+		"blendmode" : 1,
+		"effectId" : 2010022,
+		"rotation" : 128,
+		"scaleX" : 2000,
+		"scaleY" : 2000,
+		"src" : "resource/assets/rpgGame/common/20100"
+	},
+	
+	{
+		"alpha" : 1000,
+		"blendmode" : 1,
+		"effectId" : 2010023,
+		"rotation" : -66,
+		"scaleX" : 2000,
+		"scaleY" : 2000,
+		"src" : "resource/assets/rpgGame/common/20100"
+	},
+	
+	{
+		"alpha" : 1000,
+		"blendmode" : 1,
+		"effectId" : 2010024,
+		"rotation" : 66,
+		"scaleX" : 2000,
+		"scaleY" : 2000,
+		"src" : "resource/assets/rpgGame/common/20100"
+	},
+	
+	{
+		"alpha" : 1000,
+		"blendmode" : 1,
+		"effectId" : 2010031,
+		"rotation" : 157,
+		"scaleX" : 2000,
+		"scaleY" : 2000,
+		"src" : "resource/assets/rpgGame/common/20100"
+	},
+	
+	{
+		"alpha" : 1000,
+		"blendmode" : 1,
+		"effectId" : 2010032,
+		"rotation" : -133,
+		"scaleX" : 2000,
+		"scaleY" : 2000,
+		"src" : "resource/assets/rpgGame/common/20100"
+	},
+	
+	{
+		"alpha" : 1000,
+		"blendmode" : 1,
+		"effectId" : 2010033,
+		"rotation" : -157,
+		"scaleX" : 2000,
+		"scaleY" : 2000,
+		"src" : "resource/assets/rpgGame/common/20100"
+	},
+	
+	{
+		"alpha" : 1000,
+		"blendmode" : 1,
+		"effectId" : 2010034,
+		"rotation" : 133,
+		"scaleX" : 2000,
+		"scaleY" : 2000,
+		"src" : "resource/assets/rpgGame/common/20100"
+	},
+	
+	{
+		"alpha" : 1000,
+		"blendmode" : 1,
+		"effectId" : 2010035,
+		"rotation" : -44,
+		"scaleX" : 2000,
+		"scaleY" : 2000,
+		"src" : "resource/assets/rpgGame/common/20100"
+	},
+	
+	{
+		"alpha" : 1000,
+		"blendmode" : 1,
+		"effectId" : 2010036,
+		"rotation" : -134,
+		"scaleX" : 2000,
+		"scaleY" : 2000,
+		"src" : "resource/assets/rpgGame/common/20100"
+	},
+	
+	{
+		"alpha" : 1000,
+		"blendmode" : 1,
+		"effectId" : 2010037,
+		"rotation" : 44,
+		"scaleX" : 2000,
+		"scaleY" : 2000,
+		"src" : "resource/assets/rpgGame/common/20100"
+	},
+	
+	{
+		"alpha" : 1000,
+		"blendmode" : 1,
+		"effectId" : 2010038,
+		"rotation" : 134,
+		"scaleX" : 2000,
+		"scaleY" : 2000,
+		"src" : "resource/assets/rpgGame/common/20100"
+	},
+	
+	{
+		"alpha" : 1000,
+		"blendmode" : 1,
+		"effectId" : 2010041,
+		"rotation" : 59,
+		"scaleX" : 2000,
+		"scaleY" : 2000,
+		"src" : "resource/assets/rpgGame/common/20100"
+	},
+	
+	{
+		"alpha" : 1000,
+		"blendmode" : 1,
+		"effectId" : 2010042,
+		"rotation" : -59,
+		"scaleX" : 2000,
+		"scaleY" : 2000,
+		"src" : "resource/assets/rpgGame/common/20100"
+	},
+	
+	{
+		"alpha" : 1000,
+		"blendmode" : 1,
+		"effectId" : 2010043,
+		"rotation" : 125,
+		"scaleX" : 2000,
+		"scaleY" : 2000,
+		"src" : "resource/assets/rpgGame/common/20100"
+	},
+	
+	{
+		"alpha" : 1000,
+		"blendmode" : 1,
+		"effectId" : 2010044,
+		"rotation" : -125,
+		"scaleX" : 2000,
+		"scaleY" : 2000,
+		"src" : "resource/assets/rpgGame/common/20100"
+	},
+	
+	{
+		"alpha" : 1000,
+		"blendmode" : 1,
+		"effectId" : 2010051,
+		"rotation" : 91,
+		"scaleX" : 2000,
+		"scaleY" : 2000,
+		"src" : "resource/assets/rpgGame/common/20100"
+	},
+	
+	{
+		"alpha" : 1000,
+		"blendmode" : 1,
+		"effectId" : 2010052,
+		"rotation" : -51,
+		"scaleX" : 2000,
+		"scaleY" : 2000,
+		"src" : "resource/assets/rpgGame/common/20100"
+	},
+	
+	{
+		"alpha" : 1000,
+		"blendmode" : 1,
+		"effectId" : 2010053,
+		"rotation" : -135,
+		"scaleX" : 2000,
+		"scaleY" : 2000,
+		"src" : "resource/assets/rpgGame/common/20100"
+	},
+	
+	{
+		"alpha" : 1000,
+		"blendmode" : 1,
+		"effectId" : 2010054,
+		"rotation" : 126,
+		"scaleX" : 2000,
+		"scaleY" : 2000,
+		"src" : "resource/assets/rpgGame/common/20100"
+	},
+	
+	{
+		"alpha" : 1000,
+		"blendmode" : 1,
+		"effectId" : 2010061,
+		"scaleX" : 2000,
+		"scaleY" : 2000,
+		"src" : "resource/assets/rpgGame/common/20100"
+	}
+]

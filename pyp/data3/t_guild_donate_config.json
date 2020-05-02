@@ -1,0 +1,21 @@
+
+[
+	
+	{
+		"addContribution" : 100,
+		"addGuildMoney" : 100,
+		"costNum" : 200000,
+		"costUnit" : 1,
+		"donateTimes" : 10,
+		"type" : 1
+	},
+	
+	{
+		"addContribution" : 1000,
+		"addGuildMoney" : 1000,
+		"costNum" : 1000,
+		"costUnit" : 2,
+		"donateTimes" : 50,
+		"type" : 2
+	}
+]

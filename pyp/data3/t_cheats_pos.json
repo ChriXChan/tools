@@ -1,0 +1,41 @@
+[
+  {
+    "openLevel": 80,
+    "openRotate": 1
+  },
+  {
+    "openLevel": 80,
+    "openRotate": 2,
+    "pos": 1
+  },
+  {
+    "openLevel": 80,
+    "openRotate": 3,
+    "pos": 2
+  },
+  {
+    "openLevel": 80,
+    "openRotate": 4,
+    "pos": 3
+  },
+  {
+    "openLevel": 80,
+    "openRotate": 5,
+    "pos": 4
+  },
+  {
+    "openLevel": 80,
+    "openRotate": 6,
+    "pos": 5
+  },
+  {
+    "openLevel": 80,
+    "openRotate": 7,
+    "pos": 6
+  },
+  {
+    "openLevel": 80,
+    "openRotate": 8,
+    "pos": 7
+  }
+]

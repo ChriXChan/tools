@@ -1,0 +1,38 @@
+
+[
+	
+	{
+		"multiple" : 100,
+		"worldLevel" : 40
+	},
+	
+	{
+		"multiple" : 150,
+		"worldLevel" : 50
+	},
+	
+	{
+		"multiple" : 200,
+		"worldLevel" : 60
+	},
+	
+	{
+		"multiple" : 250,
+		"worldLevel" : 65
+	},
+	
+	{
+		"multiple" : 300,
+		"worldLevel" : 70
+	},
+	
+	{
+		"multiple" : 400,
+		"worldLevel" : 75
+	},
+	
+	{
+		"multiple" : 400,
+		"worldLevel" : 100
+	}
+]

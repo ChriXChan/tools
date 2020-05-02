@@ -1,0 +1,73 @@
+
+[
+	
+	{
+		"attrList" : "1,15#3,6#",
+		"desc" : "1.每日材料副本扫荡次数增加<font color ='#0df14b'>1</font>次<br>2.攻击力增加<font color ='#0df14b'>15</font>，破甲增加<font color ='#0df14b'>6</font><br>3.背包格子增加<font color ='#0df14b'>10</font><br>4.<font color ='#0df14b'>专属</font>聊天标签<br>5.开启BOSS之家第<font color ='#0df14b'>一</font>层<br>6.提前开启<font color ='#0df14b'>攻击法宝</font>",
+		"growth" : 1000,
+		"level" : 1
+	},
+	
+	{
+		"attrList" : "1,15#3,6#",
+		"desc" : "1.每日材料副本扫荡次数增加<font color ='#0df14b'>1</font>次<br>2.每日经验副本次数增加<font color ='#0df14b'>1</font>次<br>3.攻击力增加<font color ='#0df14b'>30</font>，破甲增加<font color ='#0df14b'>12</font><br>4.背包格子增加<font color ='#0df14b'>20</font><br>5.<font color ='#0df14b'>专属</font>聊天标签<br>6.提前开启第<font color ='#0df14b'>二</font>角色<br>7.开启BOSS之家第<font color ='#0df14b'>二</font>层<br>8.提前开启<font color ='#0df14b'>回复法宝</font>",
+		"growth" : 5000,
+		"level" : 2
+	},
+	
+	{
+		"attrList" : "1,21#3,8#",
+		"desc" : "1.每日材料副本扫荡次数增加<font color ='#0df14b'>2</font>次<br>2.每日经验副本次数增加<font color ='#0df14b'>1</font>次<br>3.攻击力增加<font color ='#0df14b'>51</font>，破甲增加<font color ='#0df14b'>20</font><br>4.背包格子增加<font color ='#0df14b'>30</font><br>5.<font color ='#0df14b'>专属</font>聊天标签<br>6.开启BOSS之家第<font color ='#0df14b'>三</font>层<br>7.提前开启<font color ='#0df14b'>生命法宝</font>",
+		"growth" : 10000,
+		"level" : 3
+	},
+	
+	{
+		"attrList" : "1,26#3,10#",
+		"desc" : "1.每日材料副本扫荡次数增加<font color ='#0df14b'>3</font>次<br>2.每日经验副本次数增加<font color ='#0df14b'>1</font>次<br>3.攻击力增加<font color ='#0df14b'>77</font>，破甲增加<font color ='#0df14b'>30</font><br>4.背包格子增加<font color ='#0df14b'>40</font><br>5.<font color ='#0df14b'>专属</font>聊天标签<br>6.提前开启第<font color ='#0df14b'>三</font>角色<br>7.提前开启<font color ='#0df14b'>神力法宝</font>",
+		"growth" : 20000,
+		"level" : 4
+	},
+	
+	{
+		"attrList" : "1,31#3,13#",
+		"desc" : "1.每日材料副本扫荡次数增加<font color ='#0df14b'>4</font>次<br>2.每日经验副本次数增加<font color ='#0df14b'>1</font>次<br>3.攻击力增加<font color ='#0df14b'>108</font>，破甲增加<font color ='#0df14b'>43</font><br>4.背包格子增加<font color ='#0df14b'>50</font><br>5.<font color ='#0df14b'>专属</font>聊天标签",
+		"growth" : 50000,
+		"level" : 5
+	},
+	
+	{
+		"attrList" : "1,36#3,14#",
+		"desc" : "1.每日材料副本扫荡次数增加<font color ='#0df14b'>4</font>次<br>2.每日经验副本次数增加<font color ='#0df14b'>2</font>次<br>3.攻击力增加<font color ='#0df14b'>144</font>，破甲增加<font color ='#0df14b'>57</font><br>4.背包格子增加<font color ='#0df14b'>60</font><br>5.<font color ='#0df14b'>专属</font>聊天标签",
+		"growth" : 100000,
+		"level" : 6
+	},
+	
+	{
+		"attrList" : "1,41#3,17#",
+		"desc" : "1.每日材料副本扫荡次数增加<font color ='#0df14b'>4</font>次<br>2.每日经验副本次数增加<font color ='#0df14b'>2</font>次<br>3.攻击力增加<font color ='#0df14b'>185</font>，破甲增加<font color ='#0df14b'>74</font><br>4.背包格子增加<font color ='#0df14b'>70</font><br>5.<font color ='#0df14b'>专属</font>聊天标签",
+		"growth" : 200000,
+		"level" : 7
+	},
+	
+	{
+		"attrList" : "1,46#3,18#",
+		"desc" : "1.每日材料副本扫荡次数增加<font color ='#0df14b'>4</font>次<br>2.每日经验副本次数增加<font color ='#0df14b'>2</font>次<br>3.攻击力增加<font color ='#0df14b'>231</font>，破甲增加<font color ='#0df14b'>92</font><br>4.背包格子增加<font color ='#0df14b'>80</font><br>5.<font color ='#0df14b'>专属</font>聊天标签",
+		"growth" : 500000,
+		"level" : 8
+	},
+	
+	{
+		"attrList" : "1,51#3,21#",
+		"desc" : "1.每日材料副本扫荡次数增加<font color ='#0df14b'>4</font>次<br>2.每日经验副本次数增加<font color ='#0df14b'>2</font>次<br>3.攻击力增加<font color ='#0df14b'>282</font>，破甲增加<font color ='#0df14b'>113</font><br>4.背包格子增加<font color ='#0df14b'>100</font><br>5.<font color ='#0df14b'>专属</font>聊天标签",
+		"growth" : 1000000,
+		"level" : 9
+	},
+	
+	{
+		"attrList" : "1,57#3,22#",
+		"desc" : "1.每日材料副本扫荡次数增加<font color ='#0df14b'>4</font>次<br>2.每日经验副本次数增加<font color ='#0df14b'>2</font>次<br>3.攻击力增加<font color ='#0df14b'>339</font>，破甲增加<font color ='#0df14b'>135</font><br>4.背包格子增加<font color ='#0df14b'>120</font><br>5.<font color ='#0df14b'>专属</font>聊天标签",
+		"growth" : 2000000,
+		"level" : 10
+	}
+]

@@ -1,0 +1,196 @@
+
+[
+	
+	{
+		"level" : 31,
+		"openSkill" : 405001,
+		"shape" : 1
+	},
+	
+	{
+		"level" : 51,
+		"openSkill" : 405011,
+		"shape" : 1
+	},
+	
+	{
+		"level" : 81,
+		"openSkill" : 405021,
+		"shape" : 1
+	},
+	
+	{
+		"level" : 111,
+		"openSkill" : 405031,
+		"shape" : 1
+	},
+	
+	{
+		"shape" : 2,
+		"talentSkill" : 140001
+	},
+	
+	{
+		"level" : 30,
+		"shape" : 2,
+		"talentSkill" : 140002
+	},
+	
+	{
+		"level" : 60,
+		"shape" : 2,
+		"talentSkill" : 140003
+	},
+	
+	{
+		"level" : 91,
+		"openSkill" : 140101,
+		"shape" : 2
+	},
+	
+	{
+		"level" : 151,
+		"openSkill" : 140201,
+		"shape" : 2
+	},
+	
+	{
+		"level" : 180,
+		"shape" : 2,
+		"talentSkill" : 140004
+	},
+	
+	{
+		"level" : 241,
+		"openSkill" : 140301,
+		"shape" : 2,
+		"talentSkill" : 140005
+	},
+	
+	{
+		"level" : 351,
+		"openSkill" : 140401,
+		"shape" : 2,
+		"talentSkill" : 140006
+	},
+	
+	{
+		"shape" : 5,
+		"talentSkill" : 155001
+	},
+	
+	{
+		"level" : 10,
+		"shape" : 5,
+		"talentSkill" : 155002
+	},
+	
+	{
+		"level" : 20,
+		"openSkill" : 155101,
+		"shape" : 5
+	},
+	
+	{
+		"level" : 30,
+		"shape" : 5,
+		"talentSkill" : 155003
+	},
+	
+	{
+		"level" : 50,
+		"openSkill" : 155201,
+		"shape" : 5
+	},
+	
+	{
+		"level" : 70,
+		"shape" : 5,
+		"talentSkill" : 155004
+	},
+	
+	{
+		"level" : 80,
+		"openSkill" : 155301,
+		"shape" : 5,
+		"talentSkill" : 155005
+	},
+	
+	{
+		"level" : 90,
+		"openSkill" : 155401,
+		"shape" : 5
+	},
+	
+	{
+		"level" : 100,
+		"shape" : 5,
+		"talentSkill" : 155006
+	},
+	
+	{
+		"level" : 51,
+		"openSkill" : 130002,
+		"shape" : 6
+	},
+	
+	{
+		"level" : 201,
+		"openSkill" : 130003,
+		"shape" : 6
+	},
+	
+	{
+		"level" : 301,
+		"openSkill" : 130004,
+		"shape" : 6
+	},
+	
+	{
+		"level" : 91,
+		"openSkill" : 160101,
+		"shape" : 9
+	},
+	
+	{
+		"level" : 191,
+		"openSkill" : 160201,
+		"shape" : 9
+	},
+	
+	{
+		"level" : 291,
+		"openSkill" : 160301,
+		"shape" : 9
+	},
+	
+	{
+		"level" : 391,
+		"openSkill" : 160401,
+		"shape" : 9
+	},
+	
+	{
+		"level" : 91,
+		"openSkill" : 170101,
+		"shape" : 10
+	},
+	
+	{
+		"level" : 191,
+		"openSkill" : 170201,
+		"shape" : 10
+	},
+	
+	{
+		"level" : 291,
+		"openSkill" : 170301,
+		"shape" : 10
+	},
+	
+	{
+		"level" : 391,
+		"openSkill" : 170401,
+		"shape" : 10
+	}
+]

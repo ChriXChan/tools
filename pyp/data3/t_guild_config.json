@@ -1,0 +1,93 @@
+
+[
+	
+	{
+		"deputyNum" : 3,
+		"guildDonateTimes" : 300,
+		"level" : 1,
+		"maintainCost" : 1000,
+		"maxNum" : 30,
+		"updateMoney" : 40000
+	},
+	
+	{
+		"deputyNum" : 3,
+		"guildDonateTimes" : 400,
+		"level" : 2,
+		"maintainCost" : 2000,
+		"maxNum" : 40,
+		"updateMoney" : 240000
+	},
+	
+	{
+		"deputyNum" : 3,
+		"guildDonateTimes" : 500,
+		"level" : 3,
+		"maintainCost" : 3000,
+		"maxNum" : 50,
+		"updateMoney" : 800000
+	},
+	
+	{
+		"deputyNum" : 3,
+		"guildDonateTimes" : 600,
+		"level" : 4,
+		"maintainCost" : 4000,
+		"maxNum" : 60,
+		"updateMoney" : 1600000
+	},
+	
+	{
+		"deputyNum" : 3,
+		"guildDonateTimes" : 700,
+		"level" : 5,
+		"maintainCost" : 5000,
+		"maxNum" : 65,
+		"updateMoney" : 2400000
+	},
+	
+	{
+		"deputyNum" : 3,
+		"guildDonateTimes" : 800,
+		"level" : 6,
+		"maintainCost" : 6000,
+		"maxNum" : 70,
+		"updateMoney" : 3200000
+	},
+	
+	{
+		"deputyNum" : 3,
+		"guildDonateTimes" : 900,
+		"level" : 7,
+		"maintainCost" : 7000,
+		"maxNum" : 75,
+		"updateMoney" : 4000000
+	},
+	
+	{
+		"deputyNum" : 3,
+		"guildDonateTimes" : 1000,
+		"level" : 8,
+		"maintainCost" : 8000,
+		"maxNum" : 80,
+		"updateMoney" : 4800000
+	},
+	
+	{
+		"deputyNum" : 3,
+		"guildDonateTimes" : 1100,
+		"level" : 9,
+		"maintainCost" : 9000,
+		"maxNum" : 85,
+		"updateMoney" : 5600000
+	},
+	
+	{
+		"deputyNum" : 3,
+		"guildDonateTimes" : 1200,
+		"level" : 10,
+		"maintainCost" : 10000,
+		"maxNum" : 90,
+		"updateMoney" : 6400000
+	}
+]

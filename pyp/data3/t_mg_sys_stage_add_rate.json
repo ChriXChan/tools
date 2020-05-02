@@ -1,0 +1,67 @@
+
+[
+	
+	{
+		"addRate" : 1800,
+		"idx" : 1,
+		"stage" : 5,
+		"subType" : 8,
+		"type" : 2
+	},
+	
+	{
+		"addRate" : 3600,
+		"idx" : 2,
+		"stage" : 6,
+		"subType" : 8,
+		"type" : 2
+	},
+	
+	{
+		"addRate" : 5400,
+		"idx" : 3,
+		"stage" : 7,
+		"subType" : 8,
+		"type" : 2
+	},
+	
+	{
+		"addRate" : 7200,
+		"idx" : 4,
+		"stage" : 8,
+		"subType" : 8,
+		"type" : 2
+	},
+	
+	{
+		"addRate" : 8400,
+		"idx" : 5,
+		"stage" : 9,
+		"subType" : 8,
+		"type" : 2
+	},
+	
+	{
+		"addRate" : 9200,
+		"idx" : 6,
+		"stage" : 10,
+		"subType" : 8,
+		"type" : 2
+	},
+	
+	{
+		"addRate" : 9800,
+		"idx" : 7,
+		"stage" : 11,
+		"subType" : 8,
+		"type" : 2
+	},
+	
+	{
+		"addRate" : 10200,
+		"idx" : 8,
+		"stage" : 12,
+		"subType" : 8,
+		"type" : 2
+	}
+]

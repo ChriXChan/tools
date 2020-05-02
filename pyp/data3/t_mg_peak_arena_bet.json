@@ -1,0 +1,33 @@
+
+[
+	
+	{
+		"maxBetNum" : 2000,
+		"state" : 3
+	},
+	
+	{
+		"maxBetNum" : 3000,
+		"state" : 5
+	},
+	
+	{
+		"maxBetNum" : 2000,
+		"state" : 7
+	},
+	
+	{
+		"maxBetNum" : 3000,
+		"state" : 9
+	},
+	
+	{
+		"maxBetNum" : 4000,
+		"state" : 11
+	},
+	
+	{
+		"maxBetNum" : 5000,
+		"state" : 13
+	}
+]

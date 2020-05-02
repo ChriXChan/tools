@@ -1,0 +1,23 @@
+
+[
+	
+	{
+		"answerNum" : 1,
+		"id" : 1,
+		"rewardNum" : 400,
+		"type" : 1
+	},
+	
+	{
+		"answerNum" : 1,
+		"id" : 4,
+		"rewardNum" : 400,
+		"type" : 2
+	},
+	
+	{
+		"answerNum" : 1,
+		"id" : 7,
+		"type" : 3
+	}
+]

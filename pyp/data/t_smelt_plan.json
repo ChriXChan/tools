@@ -1,0 +1,676 @@
+
+[
+	
+	{
+		"showItemCode" : 41990001,
+		"smeltCategory" : 1,
+		"smeltMainProduce" : "41990001,1,100#",
+		"smeltMaterialList" : "42030001,1#42030002,1",
+		"smeltPlanCode" : 1,
+		"smeltPlanCost" : 10000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 41991001,
+		"smeltCategory" : 1,
+		"smeltMainProduce" : "41991001,1,100#",
+		"smeltMaterialList" : "41992001,1#41993001,1",
+		"smeltPlanCode" : 2,
+		"smeltPlanCost" : 10000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 41994001,
+		"smeltCategory" : 1,
+		"smeltMainProduce" : "41994001,1,100#",
+		"smeltMaterialList" : "41994100,1#41994200,1",
+		"smeltPlanCode" : 3,
+		"smeltPlanCost" : 10000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 42010003,
+		"smeltCategory" : 1,
+		"smeltMainProduce" : "42010003,1,100#",
+		"smeltMaterialList" : "42010001,20#",
+		"smeltPlanCode" : 4,
+		"smeltPlanCost" : 10000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 2
+	},
+	
+	{
+		"showItemCode" : 40430002,
+		"smeltCategory" : 1,
+		"smeltMainProduce" : "40430002,1,100#",
+		"smeltMaterialList" : "40430001,9#",
+		"smeltPlanCode" : 5,
+		"smeltPlanCost" : 9999,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 3
+	},
+	
+	{
+		"showItemCode" : 40430003,
+		"smeltCategory" : 1,
+		"smeltMainProduce" : "40430003,1,100#",
+		"smeltMaterialList" : "40430002,11#",
+		"smeltPlanCode" : 6,
+		"smeltPlanCost" : 99999,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 3
+	},
+	
+	{
+		"showItemCode" : 40430004,
+		"smeltCategory" : 1,
+		"smeltMainProduce" : "40430004,1,100#",
+		"smeltMaterialList" : "40430003,10#",
+		"smeltPlanCode" : 7,
+		"smeltPlanCost" : 999999,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 3
+	},
+	
+	{
+		"showItemCode" : 51110002,
+		"smeltCategory" : 2,
+		"smeltMainProduce" : "51110002,1,100#",
+		"smeltMaterialList" : "51110001,3#",
+		"smeltPlanCode" : 8,
+		"smeltPlanCost" : 10000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 51110003,
+		"smeltCategory" : 2,
+		"smeltMainProduce" : "51110003,1,100#",
+		"smeltMaterialList" : "51110002,3#",
+		"smeltPlanCode" : 9,
+		"smeltPlanCost" : 20000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 51110004,
+		"smeltCategory" : 2,
+		"smeltMainProduce" : "51110004,1,100#",
+		"smeltMaterialList" : "51110003,3#",
+		"smeltPlanCode" : 10,
+		"smeltPlanCost" : 30000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 51110005,
+		"smeltCategory" : 2,
+		"smeltMainProduce" : "51110005,1,100#",
+		"smeltMaterialList" : "51110004,3#",
+		"smeltPlanCode" : 11,
+		"smeltPlanCost" : 40000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 1
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 51110006,
+		"smeltCategory" : 2,
+		"smeltMainProduce" : "51110006,1,100#",
+		"smeltMaterialList" : "51110005,3#",
+		"smeltPlanCode" : 12,
+		"smeltPlanCost" : 50000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 1
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 51110007,
+		"smeltCategory" : 2,
+		"smeltMainProduce" : "51110007,1,100#",
+		"smeltMaterialList" : "51110006,3#",
+		"smeltPlanCode" : 13,
+		"smeltPlanCost" : 60000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 1
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 51110008,
+		"smeltCategory" : 2,
+		"smeltMainProduce" : "51110008,1,100#",
+		"smeltMaterialList" : "51110007,3#",
+		"smeltPlanCode" : 14,
+		"smeltPlanCost" : 70000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 1
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 51110009,
+		"smeltCategory" : 2,
+		"smeltMainProduce" : "51110009,1,100#",
+		"smeltMaterialList" : "51110008,3#",
+		"smeltPlanCode" : 15,
+		"smeltPlanCost" : 80000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 51120002,
+		"smeltCategory" : 2,
+		"smeltMainProduce" : "51120002,1,100#",
+		"smeltMaterialList" : "51120001,3#",
+		"smeltPlanCode" : 16,
+		"smeltPlanCost" : 10000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 2
+	},
+	
+	{
+		"showItemCode" : 51120003,
+		"smeltCategory" : 2,
+		"smeltMainProduce" : "51120003,1,100#",
+		"smeltMaterialList" : "51120002,3#",
+		"smeltPlanCode" : 17,
+		"smeltPlanCost" : 20000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 2
+	},
+	
+	{
+		"showItemCode" : 51120004,
+		"smeltCategory" : 2,
+		"smeltMainProduce" : "51120004,1,100#",
+		"smeltMaterialList" : "51120003,3#",
+		"smeltPlanCode" : 18,
+		"smeltPlanCost" : 30000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 2
+	},
+	
+	{
+		"showItemCode" : 51120005,
+		"smeltCategory" : 2,
+		"smeltMainProduce" : "51120005,1,100#",
+		"smeltMaterialList" : "51120004,3#",
+		"smeltPlanCode" : 19,
+		"smeltPlanCost" : 40000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 2
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 51120006,
+		"smeltCategory" : 2,
+		"smeltMainProduce" : "51120006,1,100#",
+		"smeltMaterialList" : "51120005,3#",
+		"smeltPlanCode" : 20,
+		"smeltPlanCost" : 50000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 2
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 51120007,
+		"smeltCategory" : 2,
+		"smeltMainProduce" : "51120007,1,100#",
+		"smeltMaterialList" : "51120006,3#",
+		"smeltPlanCode" : 21,
+		"smeltPlanCost" : 60000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 2
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 51120008,
+		"smeltCategory" : 2,
+		"smeltMainProduce" : "51120008,1,100#",
+		"smeltMaterialList" : "51120007,3#",
+		"smeltPlanCode" : 22,
+		"smeltPlanCost" : 70000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 2
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 51120009,
+		"smeltCategory" : 2,
+		"smeltMainProduce" : "51120009,1,100#",
+		"smeltMaterialList" : "51120008,3#",
+		"smeltPlanCode" : 23,
+		"smeltPlanCost" : 80000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 2
+	},
+	
+	{
+		"showItemCode" : 40241101,
+		"smeltCategory" : 3,
+		"smeltMainProduce" : "40241101,1,100#",
+		"smeltMaterialList" : "40244001,10#",
+		"smeltPlanCode" : 24,
+		"smeltPlanCost" : 10000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 40241109,
+		"smeltCategory" : 3,
+		"smeltMainProduce" : "40241109,1,100#",
+		"smeltMaterialList" : "40244001,8#",
+		"smeltPlanCode" : 25,
+		"smeltPlanCost" : 10000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 40241107,
+		"smeltCategory" : 3,
+		"smeltMainProduce" : "40241107,1,100#",
+		"smeltMaterialList" : "40244001,9#",
+		"smeltPlanCode" : 26,
+		"smeltPlanCost" : 10000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 40241106,
+		"smeltCategory" : 3,
+		"smeltMainProduce" : "40241106,1,100#",
+		"smeltMaterialList" : "40244001,6#",
+		"smeltPlanCode" : 27,
+		"smeltPlanCost" : 10000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 40241108,
+		"smeltCategory" : 3,
+		"smeltMainProduce" : "40241108,1,100#",
+		"smeltMaterialList" : "40244001,7#",
+		"smeltPlanCode" : 28,
+		"smeltPlanCost" : 10000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 40241110,
+		"smeltCategory" : 3,
+		"smeltMainProduce" : "40241110,1,100#",
+		"smeltMaterialList" : "40244001,5#",
+		"smeltPlanCode" : 29,
+		"smeltPlanCost" : 10000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 40241201,
+		"smeltCategory" : 3,
+		"smeltMainProduce" : "40241201,1,100#",
+		"smeltMaterialList" : "40244001,10#",
+		"smeltPlanCode" : 30,
+		"smeltPlanCost" : 10000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 2
+	},
+	
+	{
+		"showItemCode" : 40241209,
+		"smeltCategory" : 3,
+		"smeltMainProduce" : "40241209,1,100#",
+		"smeltMaterialList" : "40244001,8#",
+		"smeltPlanCode" : 31,
+		"smeltPlanCost" : 10000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 2
+	},
+	
+	{
+		"showItemCode" : 40241207,
+		"smeltCategory" : 3,
+		"smeltMainProduce" : "40241207,1,100#",
+		"smeltMaterialList" : "40244001,9#",
+		"smeltPlanCode" : 32,
+		"smeltPlanCost" : 10000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 2
+	},
+	
+	{
+		"showItemCode" : 40241206,
+		"smeltCategory" : 3,
+		"smeltMainProduce" : "40241206,1,100#",
+		"smeltMaterialList" : "40244001,6#",
+		"smeltPlanCode" : 33,
+		"smeltPlanCost" : 10000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 2
+	},
+	
+	{
+		"showItemCode" : 40241208,
+		"smeltCategory" : 3,
+		"smeltMainProduce" : "40241208,1,100#",
+		"smeltMaterialList" : "40244001,7#",
+		"smeltPlanCode" : 34,
+		"smeltPlanCost" : 10000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 2
+	},
+	
+	{
+		"showItemCode" : 40241210,
+		"smeltCategory" : 3,
+		"smeltMainProduce" : "40241210,1,100#",
+		"smeltMaterialList" : "40244001,5#",
+		"smeltPlanCode" : 35,
+		"smeltPlanCost" : 10000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 2
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 41960078,
+		"smeltCategory" : 201,
+		"smeltMainProduce" : "41960078,1,100#",
+		"smeltMaterialList" : "40310037,70#",
+		"smeltPlanCode" : 36,
+		"smeltPlanCost" : 99999,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 1
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 41960069,
+		"smeltCategory" : 201,
+		"smeltMainProduce" : "41960069,1,100#",
+		"smeltMaterialList" : "40310037,70#",
+		"smeltPlanCode" : 37,
+		"smeltPlanCost" : 99999,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 1
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 41960068,
+		"smeltCategory" : 201,
+		"smeltMainProduce" : "41960068,1,100#",
+		"smeltMaterialList" : "40310037,40#",
+		"smeltPlanCode" : 38,
+		"smeltPlanCost" : 99999,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 1
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 60060111,
+		"smeltCategory" : 201,
+		"smeltMainProduce" : "60060111,1,100#",
+		"smeltMaterialList" : "60040030,10#40310037,6",
+		"smeltPlanCode" : 39,
+		"smeltPlanCost" : 20000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 1
+	},
+	
+	{
+		"needBroadcast" : 1,
+		"showItemCode" : 60060112,
+		"smeltCategory" : 201,
+		"smeltMainProduce" : "60060112,1,100#",
+		"smeltMaterialList" : "60040031,10#40310037,6",
+		"smeltPlanCode" : 40,
+		"smeltPlanCost" : 20000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 1
+	},
+	
+	{
+		"showItemCode" : 40270006,
+		"smeltCategory" : 201,
+		"smeltMainProduce" : "40270006,1,100#",
+		"smeltMaterialList" : "40310037,3#",
+		"smeltPlanCode" : 41,
+		"smeltPlanCost" : 20000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 2
+	},
+	
+	{
+		"showItemCode" : 42010004,
+		"smeltCategory" : 201,
+		"smeltMainProduce" : "42010004,1,100#",
+		"smeltMaterialList" : "40310037,6#42010001,15",
+		"smeltPlanCode" : 42,
+		"smeltPlanCost" : 20000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 2
+	},
+	
+	{
+		"showItemCode" : 41990001,
+		"smeltCategory" : 201,
+		"smeltMainProduce" : "41990001,1,100#",
+		"smeltMaterialList" : "42030001,1#40310037,3",
+		"smeltPlanCode" : 43,
+		"smeltPlanCost" : 20000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 2
+	},
+	
+	{
+		"showItemCode" : 41990001,
+		"smeltCategory" : 201,
+		"smeltMainProduce" : "41990001,1,100#",
+		"smeltMaterialList" : "42030002,1#40310037,3",
+		"smeltPlanCode" : 44,
+		"smeltPlanCost" : 20000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 2
+	},
+	
+	{
+		"showItemCode" : 41991001,
+		"smeltCategory" : 201,
+		"smeltMainProduce" : "41991001,1,100#",
+		"smeltMaterialList" : "41992001,1#40310037,6",
+		"smeltPlanCode" : 45,
+		"smeltPlanCost" : 20000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 2
+	},
+	
+	{
+		"showItemCode" : 41991001,
+		"smeltCategory" : 201,
+		"smeltMainProduce" : "41991001,1,100#",
+		"smeltMaterialList" : "40310037,6#41993001,1",
+		"smeltPlanCode" : 46,
+		"smeltPlanCost" : 20000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 2
+	},
+	
+	{
+		"showItemCode" : 41994001,
+		"smeltCategory" : 201,
+		"smeltMainProduce" : "41994001,1,100#",
+		"smeltMaterialList" : "40310037,3#41994200,1",
+		"smeltPlanCode" : 47,
+		"smeltPlanCost" : 20000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 2
+	},
+	
+	{
+		"showItemCode" : 41994001,
+		"smeltCategory" : 201,
+		"smeltMainProduce" : "41994001,1,100#",
+		"smeltMaterialList" : "41994100,1#40310037,3",
+		"smeltPlanCode" : 48,
+		"smeltPlanCost" : 20000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 2
+	},
+	
+	{
+		"showItemCode" : 40241101,
+		"smeltCategory" : 201,
+		"smeltMainProduce" : "40241101,3,100#",
+		"smeltMaterialList" : "40241201,3#40310037,1#",
+		"smeltPlanCode" : 49,
+		"smeltPlanCost" : 20000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 3
+	},
+	
+	{
+		"showItemCode" : 40241106,
+		"smeltCategory" : 201,
+		"smeltMainProduce" : "40241106,3,101#",
+		"smeltMaterialList" : "40241206,3#40310037,1#",
+		"smeltPlanCode" : 50,
+		"smeltPlanCost" : 20000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 3
+	},
+	
+	{
+		"showItemCode" : 40241107,
+		"smeltCategory" : 201,
+		"smeltMainProduce" : "40241107,3,102#",
+		"smeltMaterialList" : "40241207,3#40310037,1#",
+		"smeltPlanCode" : 51,
+		"smeltPlanCost" : 20000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 3
+	},
+	
+	{
+		"showItemCode" : 40241108,
+		"smeltCategory" : 201,
+		"smeltMainProduce" : "40241108,3,103#",
+		"smeltMaterialList" : "40241208,3#40310037,1#",
+		"smeltPlanCode" : 52,
+		"smeltPlanCost" : 20000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 3
+	},
+	
+	{
+		"showItemCode" : 40241109,
+		"smeltCategory" : 201,
+		"smeltMainProduce" : "40241109,3,104#",
+		"smeltMaterialList" : "40241209,3#40310037,1#",
+		"smeltPlanCode" : 53,
+		"smeltPlanCost" : 20000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 3
+	},
+	
+	{
+		"showItemCode" : 40241110,
+		"smeltCategory" : 201,
+		"smeltMainProduce" : "40241110,3,105#",
+		"smeltMaterialList" : "40241210,3#40310037,1#",
+		"smeltPlanCode" : 54,
+		"smeltPlanCost" : 20000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 3
+	},
+	
+	{
+		"showItemCode" : 40241201,
+		"smeltCategory" : 201,
+		"smeltMainProduce" : "40241201,3,100#",
+		"smeltMaterialList" : "40241101,3#40310037,1#",
+		"smeltPlanCode" : 55,
+		"smeltPlanCost" : 20000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 4
+	},
+	
+	{
+		"showItemCode" : 40241206,
+		"smeltCategory" : 201,
+		"smeltMainProduce" : "40241206,3,101#",
+		"smeltMaterialList" : "40241106,3#40310037,1#",
+		"smeltPlanCode" : 56,
+		"smeltPlanCost" : 20000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 4
+	},
+	
+	{
+		"showItemCode" : 40241207,
+		"smeltCategory" : 201,
+		"smeltMainProduce" : "40241207,3,102#",
+		"smeltMaterialList" : "40241107,3#40310037,1#",
+		"smeltPlanCode" : 57,
+		"smeltPlanCost" : 20000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 4
+	},
+	
+	{
+		"showItemCode" : 40241208,
+		"smeltCategory" : 201,
+		"smeltMainProduce" : "40241208,3,103#",
+		"smeltMaterialList" : "40241108,3#40310037,1#",
+		"smeltPlanCode" : 58,
+		"smeltPlanCost" : 20000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 4
+	},
+	
+	{
+		"showItemCode" : 40241209,
+		"smeltCategory" : 201,
+		"smeltMainProduce" : "40241209,3,104#",
+		"smeltMaterialList" : "40241109,3#40310037,1#",
+		"smeltPlanCode" : 59,
+		"smeltPlanCost" : 20000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 4
+	},
+	
+	{
+		"showItemCode" : 40241210,
+		"smeltCategory" : 201,
+		"smeltMainProduce" : "40241210,3,105#",
+		"smeltMaterialList" : "40241110,3#40310037,1#",
+		"smeltPlanCode" : 60,
+		"smeltPlanCost" : 20000,
+		"smeltPlanCostUnit" : 1,
+		"smeltType" : 4
+	}
+]

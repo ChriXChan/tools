@@ -1,0 +1,217 @@
+
+[
+	
+	{
+		"equipCode" : 10034006,
+		"newEquipCode" : 10035009,
+		"useItemCode" : 41218001,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 10044006,
+		"newEquipCode" : 10045009,
+		"useItemCode" : 41218003,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 10034106,
+		"newEquipCode" : 10035009,
+		"useItemCode" : 41218001,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 10044106,
+		"newEquipCode" : 10045009,
+		"useItemCode" : 41218003,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 10035009,
+		"newEquipCode" : 10035010,
+		"useItemCode" : 41218001,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 10045009,
+		"newEquipCode" : 10045010,
+		"useItemCode" : 41218003,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 10035010,
+		"newEquipCode" : 10035011,
+		"useItemCode" : 41218001,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 10045010,
+		"newEquipCode" : 10045011,
+		"useItemCode" : 41218003,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 10035011,
+		"newEquipCode" : 10035012,
+		"useItemCode" : 41218001,
+		"useItemNum" : 2
+	},
+	
+	{
+		"equipCode" : 10045011,
+		"newEquipCode" : 10045012,
+		"useItemCode" : 41218003,
+		"useItemNum" : 2
+	},
+	
+	{
+		"equipCode" : 12050901,
+		"newEquipCode" : 12050902,
+		"nextSkillEquipCode" : 12050902,
+		"useItemCode" : 12050901,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 12050902,
+		"newEquipCode" : 12050903,
+		"nextSkillEquipCode" : 12050903,
+		"useItemCode" : 12050901,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 12050903,
+		"newEquipCode" : 12050904,
+		"nextSkillEquipCode" : 12050904,
+		"useItemCode" : 12050901,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 12050904,
+		"newEquipCode" : 12050905,
+		"nextSkillEquipCode" : 12050905,
+		"useItemCode" : 12050901,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 12050905,
+		"newEquipCode" : 12050906,
+		"nextSkillEquipCode" : 12050906,
+		"useItemCode" : 12050901,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 12050906,
+		"newEquipCode" : 12050907,
+		"nextSkillEquipCode" : 12050907,
+		"useItemCode" : 12050901,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 12050907,
+		"newEquipCode" : 12050908,
+		"nextSkillEquipCode" : 12050908,
+		"useItemCode" : 12050901,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 12050908,
+		"newEquipCode" : 12050909,
+		"nextSkillEquipCode" : 12050909,
+		"useItemCode" : 12050901,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 12050909,
+		"newEquipCode" : 12050910,
+		"nextSkillEquipCode" : 12050910,
+		"useItemCode" : 12050901,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 12051001,
+		"newEquipCode" : 12051002,
+		"nextSkillEquipCode" : 12051002,
+		"useItemCode" : 12051001,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 12051002,
+		"newEquipCode" : 12051003,
+		"nextSkillEquipCode" : 12051003,
+		"useItemCode" : 12051001,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 12051003,
+		"newEquipCode" : 12051004,
+		"nextSkillEquipCode" : 12051004,
+		"useItemCode" : 12051001,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 12051004,
+		"newEquipCode" : 12051005,
+		"nextSkillEquipCode" : 12051005,
+		"useItemCode" : 12051001,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 12051005,
+		"newEquipCode" : 12051006,
+		"nextSkillEquipCode" : 12051006,
+		"useItemCode" : 12051001,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 12051006,
+		"newEquipCode" : 12051007,
+		"nextSkillEquipCode" : 12051007,
+		"useItemCode" : 12051001,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 12051007,
+		"newEquipCode" : 12051008,
+		"nextSkillEquipCode" : 12051008,
+		"useItemCode" : 12051001,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 12051008,
+		"newEquipCode" : 12051009,
+		"nextSkillEquipCode" : 12051009,
+		"useItemCode" : 12051001,
+		"useItemNum" : 1
+	},
+	
+	{
+		"equipCode" : 12051009,
+		"newEquipCode" : 12051010,
+		"nextSkillEquipCode" : 12051010,
+		"useItemCode" : 12051001,
+		"useItemNum" : 1
+	}
+]

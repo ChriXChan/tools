@@ -1,0 +1,93 @@
+
+[
+	
+	{
+		"copyCode" : 5301,
+		"desc" : "镇魔古迹",
+		"floor" : 1,
+		"intoX" : 21,
+		"intoY" : 54,
+		"mapId" : 505301,
+		"oneStarDropList" : "212302003",
+		"oneStarTime" : 600,
+		"stayTime" : 1800,
+		"threeStarDropList" : "212302005",
+		"threeStarTime" : 360,
+		"twoStarDropList" : "212302004",
+		"twoStarTime" : 480,
+		"zeroStarDropList" : "212302003",
+		"zeroStarTime" : 1800
+	},
+	
+	{
+		"copyCode" : 5301,
+		"desc" : "镇魔古迹",
+		"floor" : 2,
+		"intoX" : 6,
+		"intoY" : 43,
+		"mapId" : 505302,
+		"oneStarDropList" : "212303003",
+		"oneStarTime" : 600,
+		"stayTime" : 1800,
+		"threeStarDropList" : "212303005",
+		"threeStarTime" : 360,
+		"twoStarDropList" : "212303004",
+		"twoStarTime" : 480,
+		"zeroStarDropList" : "212303003",
+		"zeroStarTime" : 1800
+	},
+	
+	{
+		"copyCode" : 5301,
+		"desc" : "镇魔古迹",
+		"floor" : 3,
+		"intoX" : 5,
+		"intoY" : 28,
+		"mapId" : 505303,
+		"oneStarDropList" : "212304003",
+		"oneStarTime" : 600,
+		"stayTime" : 1800,
+		"threeStarDropList" : "212304005",
+		"threeStarTime" : 360,
+		"twoStarDropList" : "212304004",
+		"twoStarTime" : 480,
+		"zeroStarDropList" : "212304003",
+		"zeroStarTime" : 1800
+	},
+	
+	{
+		"copyCode" : 5301,
+		"desc" : "镇魔古迹",
+		"floor" : 4,
+		"intoX" : 23,
+		"intoY" : 38,
+		"mapId" : 505304,
+		"oneStarDropList" : "212305003",
+		"oneStarTime" : 600,
+		"stayTime" : 1800,
+		"threeStarDropList" : "212305005",
+		"threeStarTime" : 360,
+		"twoStarDropList" : "212305004",
+		"twoStarTime" : 480,
+		"zeroStarDropList" : "212305003",
+		"zeroStarTime" : 1800
+	},
+	
+	{
+		"copyCode" : 5301,
+		"desc" : "镇魔古迹",
+		"floor" : 5,
+		"intoX" : 16,
+		"intoY" : 42,
+		"mapId" : 505305,
+		"oneStarDropList" : "212305003",
+		"oneStarTime" : 600,
+		"stayTime" : 1800,
+		"threeStarDropList" : "212305005",
+		"threeStarTime" : 360,
+		"twoStarDropList" : "212305004",
+		"twoStarTime" : 480,
+		"zeroStarDropList" : "212305003",
+		"zeroStarTime" : 1800
+	}
+]

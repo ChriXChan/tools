@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "num": 1,
+    "priceNum": 888,
+    "priceUnit": 2,
+    "reward": "3,60060010,20",
+    "sourceId": 3
+  },
+  {
+    "id": 2,
+    "num": 2,
+    "priceNum": 1888,
+    "priceUnit": 2,
+    "reward": "3,60060010,35",
+    "sourceId": 8
+  },
+  {
+    "id": 3,
+    "num": 3,
+    "priceNum": 2888,
+    "priceUnit": 2,
+    "reward": "3,60060010,50",
+    "sourceId": 16
+  },
+  {
+    "id": 4,
+    "num": 4,
+    "priceNum": 3888,
+    "priceUnit": 2,
+    "reward": "3,60060010,65",
+    "sourceId": 24
+  },
+  {
+    "id": 5,
+    "num": 5,
+    "priceNum": 4888,
+    "priceUnit": 2,
+    "reward": "3,60060010,80",
+    "sourceId": 32
+  },
+  {
+    "id": 6,
+    "num": 6,
+    "priceNum": 6288,
+    "priceUnit": 2,
+    "reward": "3,60060010,100",
+    "sourceId": 42
+  },
+  {
+    "id": 7,
+    "num": 7,
+    "priceNum": 7688,
+    "priceUnit": 2,
+    "reward": "3,60060010,120",
+    "sourceId": 52
+  },
+  {
+    "id": 8,
+    "num": 8,
+    "priceNum": 9288,
+    "priceUnit": 2,
+    "reward": "3,60060010,140",
+    "sourceId": 62
+  },
+  {
+    "id": 9,
+    "num": 9,
+    "priceNum": 10888,
+    "priceUnit": 2,
+    "reward": "3,60060010,160",
+    "sourceId": 76
+  }
+]

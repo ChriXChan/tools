@@ -1,0 +1,486 @@
+
+[
+	
+	{
+		"openLevel" : 1,
+		"smeltCategory" : 1000,
+		"smeltCategoryIdx" : 1,
+		"smeltCategoryName" : "神羽合成",
+		"smeltType" : 1,
+		"smeltTypeName" : "神羽"
+	},
+	
+	{
+		"openLevel" : 1,
+		"smeltCategory" : 1000,
+		"smeltCategoryIdx" : 2,
+		"smeltCategoryName" : "神羽合成",
+		"smeltType" : 2,
+		"smeltTypeName" : "神羽"
+	},
+	
+	{
+		"openLevel" : 1,
+		"smeltCategory" : 1000,
+		"smeltCategoryIdx" : 3,
+		"smeltCategoryName" : "神羽合成",
+		"smeltType" : 3,
+		"smeltTypeName" : "神羽"
+	},
+	
+	{
+		"openLevel" : 1,
+		"smeltCategory" : 1000,
+		"smeltCategoryIdx" : 4,
+		"smeltCategoryName" : "神羽合成",
+		"smeltType" : 4,
+		"smeltTypeName" : "神羽"
+	},
+	
+	{
+		"openLevel" : 1,
+		"smeltCategory" : 1,
+		"smeltCategoryIdx" : 5,
+		"smeltCategoryName" : "神兵礼包碎片",
+		"smeltType" : 1,
+		"smeltTypeName" : "合成"
+	},
+	
+	{
+		"cateOpenKey" : "Pet",
+		"openLevel" : 1,
+		"smeltCategory" : 1010,
+		"smeltCategoryIdx" : 6,
+		"smeltCategoryName" : "宠物装备",
+		"smeltClass" : 1,
+		"smeltType" : 1,
+		"smeltTypeName" : "二阶装备"
+	},
+	
+	{
+		"cateOpenKey" : "Pet",
+		"openLevel" : 1,
+		"smeltCategory" : 1010,
+		"smeltCategoryIdx" : 7,
+		"smeltCategoryName" : "宠物装备",
+		"smeltClass" : 1,
+		"smeltType" : 2,
+		"smeltTypeName" : "三阶装备"
+	},
+	
+	{
+		"cateOpenKey" : "Pet",
+		"openLevel" : 1,
+		"smeltCategory" : 1010,
+		"smeltCategoryIdx" : 8,
+		"smeltCategoryName" : "宠物装备",
+		"smeltClass" : 1,
+		"smeltType" : 3,
+		"smeltTypeName" : "四阶装备"
+	},
+	
+	{
+		"cateOpenKey" : "Pet",
+		"openLevel" : 1,
+		"smeltCategory" : 1010,
+		"smeltCategoryIdx" : 9,
+		"smeltCategoryName" : "宠物装备",
+		"smeltClass" : 1,
+		"smeltType" : 4,
+		"smeltTypeName" : "五阶装备"
+	},
+	
+	{
+		"cateOpenKey" : "Pet",
+		"openLevel" : 1,
+		"smeltCategory" : 1010,
+		"smeltCategoryIdx" : 10,
+		"smeltCategoryName" : "宠物装备",
+		"smeltClass" : 1,
+		"smeltType" : 5,
+		"smeltTypeName" : "六阶装备"
+	},
+	
+	{
+		"cateOpenKey" : "Pet",
+		"openLevel" : 1,
+		"smeltCategory" : 1010,
+		"smeltCategoryIdx" : 11,
+		"smeltCategoryName" : "宠物装备",
+		"smeltClass" : 1,
+		"smeltType" : 6,
+		"smeltTypeName" : "七阶装备"
+	},
+	
+	{
+		"cateOpenKey" : "Pet",
+		"openLevel" : 1,
+		"smeltCategory" : 1010,
+		"smeltCategoryIdx" : 12,
+		"smeltCategoryName" : "宠物装备",
+		"smeltClass" : 1,
+		"smeltType" : 7,
+		"smeltTypeName" : "八阶装备"
+	},
+	
+	{
+		"cateOpenKey" : "Pet",
+		"openLevel" : 1,
+		"smeltCategory" : 1010,
+		"smeltCategoryIdx" : 13,
+		"smeltCategoryName" : "宠物装备",
+		"smeltClass" : 1,
+		"smeltType" : 8,
+		"smeltTypeName" : "九阶装备"
+	},
+	
+	{
+		"cateOpenKey" : "Pet",
+		"openLevel" : 1,
+		"smeltCategory" : 1010,
+		"smeltCategoryIdx" : 14,
+		"smeltCategoryName" : "宠物装备",
+		"smeltClass" : 1,
+		"smeltType" : 9,
+		"smeltTypeName" : "十阶装备"
+	},
+	
+	{
+		"cateOpenKey" : "ShapeBattle",
+		"openLevel" : 1,
+		"smeltCategory" : 1030,
+		"smeltCategoryIdx" : 15,
+		"smeltCategoryName" : "战阵装备",
+		"smeltClass" : 1,
+		"smeltType" : 1,
+		"smeltTypeName" : "二阶装备"
+	},
+	
+	{
+		"cateOpenKey" : "ShapeBattle",
+		"openLevel" : 1,
+		"smeltCategory" : 1030,
+		"smeltCategoryIdx" : 16,
+		"smeltCategoryName" : "战阵装备",
+		"smeltClass" : 1,
+		"smeltType" : 2,
+		"smeltTypeName" : "三阶装备"
+	},
+	
+	{
+		"cateOpenKey" : "ShapeBattle",
+		"openLevel" : 1,
+		"smeltCategory" : 1030,
+		"smeltCategoryIdx" : 17,
+		"smeltCategoryName" : "战阵装备",
+		"smeltClass" : 1,
+		"smeltType" : 3,
+		"smeltTypeName" : "四阶装备"
+	},
+	
+	{
+		"cateOpenKey" : "ShapeBattle",
+		"openLevel" : 1,
+		"smeltCategory" : 1030,
+		"smeltCategoryIdx" : 18,
+		"smeltCategoryName" : "战阵装备",
+		"smeltClass" : 1,
+		"smeltType" : 4,
+		"smeltTypeName" : "五阶装备"
+	},
+	
+	{
+		"cateOpenKey" : "ShapeBattle",
+		"openLevel" : 1,
+		"smeltCategory" : 1030,
+		"smeltCategoryIdx" : 19,
+		"smeltCategoryName" : "战阵装备",
+		"smeltClass" : 1,
+		"smeltType" : 5,
+		"smeltTypeName" : "六阶装备"
+	},
+	
+	{
+		"cateOpenKey" : "ShapeBattle",
+		"openLevel" : 1,
+		"smeltCategory" : 1030,
+		"smeltCategoryIdx" : 20,
+		"smeltCategoryName" : "战阵装备",
+		"smeltClass" : 1,
+		"smeltType" : 6,
+		"smeltTypeName" : "七阶装备"
+	},
+	
+	{
+		"cateOpenKey" : "ShapeBattle",
+		"openLevel" : 1,
+		"smeltCategory" : 1030,
+		"smeltCategoryIdx" : 21,
+		"smeltCategoryName" : "战阵装备",
+		"smeltClass" : 1,
+		"smeltType" : 7,
+		"smeltTypeName" : "八阶装备"
+	},
+	
+	{
+		"cateOpenKey" : "ShapeBattle",
+		"openLevel" : 1,
+		"smeltCategory" : 1030,
+		"smeltCategoryIdx" : 22,
+		"smeltCategoryName" : "战阵装备",
+		"smeltClass" : 1,
+		"smeltType" : 8,
+		"smeltTypeName" : "九阶装备"
+	},
+	
+	{
+		"cateOpenKey" : "ShapeBattle",
+		"openLevel" : 1,
+		"smeltCategory" : 1030,
+		"smeltCategoryIdx" : 23,
+		"smeltCategoryName" : "战阵装备",
+		"smeltClass" : 1,
+		"smeltType" : 9,
+		"smeltTypeName" : "十阶装备"
+	},
+	
+	{
+		"cateOpenKey" : "Mount",
+		"openLevel" : 1,
+		"smeltCategory" : 1040,
+		"smeltCategoryIdx" : 24,
+		"smeltCategoryName" : "坐骑装备",
+		"smeltClass" : 1,
+		"smeltType" : 1,
+		"smeltTypeName" : "二阶装备"
+	},
+	
+	{
+		"cateOpenKey" : "Mount",
+		"openLevel" : 1,
+		"smeltCategory" : 1040,
+		"smeltCategoryIdx" : 25,
+		"smeltCategoryName" : "坐骑装备",
+		"smeltClass" : 1,
+		"smeltType" : 2,
+		"smeltTypeName" : "三阶装备"
+	},
+	
+	{
+		"cateOpenKey" : "Mount",
+		"openLevel" : 1,
+		"smeltCategory" : 1040,
+		"smeltCategoryIdx" : 26,
+		"smeltCategoryName" : "坐骑装备",
+		"smeltClass" : 1,
+		"smeltType" : 3,
+		"smeltTypeName" : "四阶装备"
+	},
+	
+	{
+		"cateOpenKey" : "Mount",
+		"openLevel" : 1,
+		"smeltCategory" : 1040,
+		"smeltCategoryIdx" : 27,
+		"smeltCategoryName" : "坐骑装备",
+		"smeltClass" : 1,
+		"smeltType" : 4,
+		"smeltTypeName" : "五阶装备"
+	},
+	
+	{
+		"cateOpenKey" : "Mount",
+		"openLevel" : 1,
+		"smeltCategory" : 1040,
+		"smeltCategoryIdx" : 28,
+		"smeltCategoryName" : "坐骑装备",
+		"smeltClass" : 1,
+		"smeltType" : 5,
+		"smeltTypeName" : "六阶装备"
+	},
+	
+	{
+		"cateOpenKey" : "Mount",
+		"openLevel" : 1,
+		"smeltCategory" : 1040,
+		"smeltCategoryIdx" : 29,
+		"smeltCategoryName" : "坐骑装备",
+		"smeltClass" : 1,
+		"smeltType" : 6,
+		"smeltTypeName" : "七阶装备"
+	},
+	
+	{
+		"cateOpenKey" : "Mount",
+		"openLevel" : 1,
+		"smeltCategory" : 1040,
+		"smeltCategoryIdx" : 30,
+		"smeltCategoryName" : "坐骑装备",
+		"smeltClass" : 1,
+		"smeltType" : 7,
+		"smeltTypeName" : "八阶装备"
+	},
+	
+	{
+		"cateOpenKey" : "Mount",
+		"openLevel" : 1,
+		"smeltCategory" : 1040,
+		"smeltCategoryIdx" : 31,
+		"smeltCategoryName" : "坐骑装备",
+		"smeltClass" : 1,
+		"smeltType" : 8,
+		"smeltTypeName" : "九阶装备"
+	},
+	
+	{
+		"cateOpenKey" : "Mount",
+		"openLevel" : 1,
+		"smeltCategory" : 1040,
+		"smeltCategoryIdx" : 32,
+		"smeltCategoryName" : "坐骑装备",
+		"smeltClass" : 1,
+		"smeltType" : 9,
+		"smeltTypeName" : "十阶装备"
+	},
+	
+	{
+		"openLevel" : 1,
+		"smeltCategory" : 2,
+		"smeltCategoryIdx" : 33,
+		"smeltCategoryName" : "巅峰商城",
+		"smeltType" : 1,
+		"smeltTypeName" : "合成"
+	},
+	
+	{
+		"openLevel" : 1,
+		"smeltCategory" : 2,
+		"smeltCategoryIdx" : 34,
+		"smeltCategoryName" : "巅峰商城",
+		"smeltType" : 2,
+		"smeltTypeName" : "合成"
+	},
+	
+	{
+		"openLevel" : 1,
+		"smeltCategory" : 2,
+		"smeltCategoryIdx" : 35,
+		"smeltCategoryName" : "巅峰商城",
+		"smeltType" : 3,
+		"smeltTypeName" : "合成"
+	},
+	
+	{
+		"openLevel" : 1,
+		"smeltCategory" : 2,
+		"smeltCategoryIdx" : 36,
+		"smeltCategoryName" : "巅峰商城",
+		"smeltType" : 4,
+		"smeltTypeName" : "合成"
+	},
+	
+	{
+		"openLevel" : 1,
+		"smeltCategory" : 2,
+		"smeltCategoryIdx" : 37,
+		"smeltCategoryName" : "巅峰商城",
+		"smeltType" : 5,
+		"smeltTypeName" : "合成"
+	},
+	
+	{
+		"openLevel" : 1,
+		"smeltCategory" : 2,
+		"smeltCategoryIdx" : 38,
+		"smeltCategoryName" : "巅峰商城",
+		"smeltType" : 6,
+		"smeltTypeName" : "合成"
+	},
+	
+	{
+		"cateOpenKey" : "BeastBattle",
+		"openLevel" : 1,
+		"smeltCategory" : 1070,
+		"smeltCategoryIdx" : 39,
+		"smeltCategoryName" : "神兽装备",
+		"smeltClass" : 3,
+		"smeltType" : 1,
+		"smeltTypeName" : "神·神兽装备"
+	},
+	
+	{
+		"cateOpenKey" : "BeastBattle",
+		"openLevel" : 1,
+		"smeltCategory" : 1070,
+		"smeltCategoryIdx" : 40,
+		"smeltCategoryName" : "神兽装备",
+		"smeltClass" : 3,
+		"smeltType" : 2,
+		"smeltTypeName" : "圣·神兽装备"
+	},
+	
+	{
+		"cateOpenKey" : "BeastBattle",
+		"openLevel" : 1,
+		"smeltCategory" : 1070,
+		"smeltCategoryIdx" : 41,
+		"smeltCategoryName" : "神兽装备",
+		"smeltClass" : 3,
+		"smeltType" : 3,
+		"smeltTypeName" : "极·神兽装备"
+	},
+	
+	{
+		"openLevel" : 1,
+		"smeltCategory" : 3,
+		"smeltCategoryIdx" : 42,
+		"smeltCategoryName" : "守擂兑换",
+		"smeltType" : 1,
+		"smeltTypeName" : "合成"
+	},
+	
+	{
+		"openLevel" : 1,
+		"smeltCategory" : 3,
+		"smeltCategoryIdx" : 43,
+		"smeltCategoryName" : "守擂兑换",
+		"smeltType" : 2,
+		"smeltTypeName" : "合成"
+	},
+	
+	{
+		"openLevel" : 1,
+		"smeltCategory" : 3,
+		"smeltCategoryIdx" : 44,
+		"smeltCategoryName" : "守擂兑换",
+		"smeltType" : 3,
+		"smeltTypeName" : "合成"
+	},
+	
+	{
+		"openLevel" : 1,
+		"smeltCategory" : 3,
+		"smeltCategoryIdx" : 45,
+		"smeltCategoryName" : "守擂兑换",
+		"smeltType" : 4,
+		"smeltTypeName" : "合成"
+	},
+	
+	{
+		"openLevel" : 1,
+		"smeltCategory" : 3,
+		"smeltCategoryIdx" : 46,
+		"smeltCategoryName" : "守擂兑换",
+		"smeltType" : 5,
+		"smeltTypeName" : "合成"
+	},
+	
+	{
+		"openLevel" : 1,
+		"smeltCategory" : 3,
+		"smeltCategoryIdx" : 47,
+		"smeltCategoryName" : "守擂兑换",
+		"smeltType" : 6,
+		"smeltTypeName" : "合成"
+	}
+]

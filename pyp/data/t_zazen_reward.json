@@ -1,0 +1,1406 @@
+
+[
+	
+	{
+		"configType" : 5,
+		"experience" : 100,
+		"level" : 1
+	},
+	
+	{
+		"configType" : 5,
+		"experience" : 80,
+		"level" : 2
+	},
+	
+	{
+		"configType" : 5,
+		"experience" : 70,
+		"level" : 3
+	},
+	
+	{
+		"configType" : 5,
+		"experience" : 60,
+		"level" : 4
+	},
+	
+	{
+		"configType" : 5,
+		"experience" : 50,
+		"level" : 5
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 2000,
+		"level" : 30,
+		"nimbus" : 10
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 30,
+		"nimbus" : 180
+	},
+	
+	{
+		"configType" : 4,
+		"experience" : 50000,
+		"level" : 30
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 2300,
+		"level" : 31,
+		"nimbus" : 10
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 31,
+		"nimbus" : 192
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 2600,
+		"level" : 32,
+		"nimbus" : 10
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 32,
+		"nimbus" : 205
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 2900,
+		"level" : 33,
+		"nimbus" : 10
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 33,
+		"nimbus" : 218
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 3200,
+		"level" : 34,
+		"nimbus" : 10
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 34,
+		"nimbus" : 231
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 3500,
+		"level" : 35,
+		"nimbus" : 20
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 35,
+		"nimbus" : 245
+	},
+	
+	{
+		"configType" : 4,
+		"experience" : 90000,
+		"level" : 35
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 3800,
+		"level" : 36,
+		"nimbus" : 20
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 36,
+		"nimbus" : 259
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 4100,
+		"level" : 37,
+		"nimbus" : 20
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 37,
+		"nimbus" : 274
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 4400,
+		"level" : 38,
+		"nimbus" : 20
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 38,
+		"nimbus" : 289
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 4700,
+		"level" : 39,
+		"nimbus" : 20
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 39,
+		"nimbus" : 304
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 106,
+		"level" : 40
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 5000,
+		"level" : 40,
+		"nimbus" : 30
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 40,
+		"nimbus" : 320
+	},
+	
+	{
+		"configType" : 4,
+		"experience" : 130000,
+		"level" : 40
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 108,
+		"level" : 41
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 5300,
+		"level" : 41,
+		"nimbus" : 30
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 41,
+		"nimbus" : 336
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 110,
+		"level" : 42
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 5600,
+		"level" : 42,
+		"nimbus" : 30
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 42,
+		"nimbus" : 353
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 112,
+		"level" : 43
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 5900,
+		"level" : 43,
+		"nimbus" : 30
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 43,
+		"nimbus" : 370
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 114,
+		"level" : 44
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 6200,
+		"level" : 44,
+		"nimbus" : 30
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 44,
+		"nimbus" : 387
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 117,
+		"level" : 45
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 6500,
+		"level" : 45,
+		"nimbus" : 40
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 45,
+		"nimbus" : 405
+	},
+	
+	{
+		"configType" : 4,
+		"experience" : 170000,
+		"level" : 45
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 119,
+		"level" : 46
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 6800,
+		"level" : 46,
+		"nimbus" : 40
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 46,
+		"nimbus" : 423
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 121,
+		"level" : 47
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 7100,
+		"level" : 47,
+		"nimbus" : 40
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 47,
+		"nimbus" : 442
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 123,
+		"level" : 48
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 7400,
+		"level" : 48,
+		"nimbus" : 40
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 48,
+		"nimbus" : 461
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 125,
+		"level" : 49
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 7700,
+		"level" : 49,
+		"nimbus" : 40
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 49,
+		"nimbus" : 480
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 127,
+		"level" : 50
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 8000,
+		"level" : 50,
+		"nimbus" : 60
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 50,
+		"nimbus" : 500
+	},
+	
+	{
+		"configType" : 4,
+		"experience" : 210000,
+		"level" : 50
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 130,
+		"level" : 51
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 8300,
+		"level" : 51,
+		"nimbus" : 60
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 51,
+		"nimbus" : 520
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 132,
+		"level" : 52
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 8600,
+		"level" : 52,
+		"nimbus" : 60
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 52,
+		"nimbus" : 541
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 134,
+		"level" : 53
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 8900,
+		"level" : 53,
+		"nimbus" : 60
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 53,
+		"nimbus" : 562
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 136,
+		"level" : 54
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 9200,
+		"level" : 54,
+		"nimbus" : 60
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 54,
+		"nimbus" : 583
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 138,
+		"level" : 55
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 9500,
+		"level" : 55,
+		"nimbus" : 100
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 55,
+		"nimbus" : 605
+	},
+	
+	{
+		"configType" : 4,
+		"experience" : 250000,
+		"level" : 55
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 140,
+		"level" : 56
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 9800,
+		"level" : 56,
+		"nimbus" : 100
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 56,
+		"nimbus" : 627
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 143,
+		"level" : 57
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 10100,
+		"level" : 57,
+		"nimbus" : 100
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 57,
+		"nimbus" : 650
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 145,
+		"level" : 58
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 10400,
+		"level" : 58,
+		"nimbus" : 100
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 58,
+		"nimbus" : 673
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 147,
+		"level" : 59
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 10700,
+		"level" : 59,
+		"nimbus" : 100
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 59,
+		"nimbus" : 696
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 149,
+		"level" : 60
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 11000,
+		"level" : 60,
+		"nimbus" : 160
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 60,
+		"nimbus" : 720
+	},
+	
+	{
+		"configType" : 4,
+		"experience" : 290000,
+		"level" : 60
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 151,
+		"level" : 61
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 11300,
+		"level" : 61,
+		"nimbus" : 160
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 61,
+		"nimbus" : 744
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 153,
+		"level" : 62
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 11600,
+		"level" : 62,
+		"nimbus" : 160
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 62,
+		"nimbus" : 769
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 156,
+		"level" : 63
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 11900,
+		"level" : 63,
+		"nimbus" : 160
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 63,
+		"nimbus" : 794
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 158,
+		"level" : 64
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 12200,
+		"level" : 64,
+		"nimbus" : 160
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 64,
+		"nimbus" : 819
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 160,
+		"level" : 65
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 12500,
+		"level" : 65,
+		"nimbus" : 240
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 65,
+		"nimbus" : 845
+	},
+	
+	{
+		"configType" : 4,
+		"experience" : 330000,
+		"level" : 65
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 162,
+		"level" : 66
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 12800,
+		"level" : 66,
+		"nimbus" : 240
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 66,
+		"nimbus" : 871
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 164,
+		"level" : 67
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 13100,
+		"level" : 67,
+		"nimbus" : 240
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 67,
+		"nimbus" : 898
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 166,
+		"level" : 68
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 13400,
+		"level" : 68,
+		"nimbus" : 240
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 68,
+		"nimbus" : 925
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 168,
+		"level" : 69
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 13700,
+		"level" : 69,
+		"nimbus" : 240
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 69,
+		"nimbus" : 952
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 171,
+		"level" : 70
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 14000,
+		"level" : 70,
+		"nimbus" : 340
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 70,
+		"nimbus" : 980
+	},
+	
+	{
+		"configType" : 4,
+		"experience" : 370000,
+		"level" : 70
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 173,
+		"level" : 71
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 14300,
+		"level" : 71,
+		"nimbus" : 340
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 71,
+		"nimbus" : 1008
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 175,
+		"level" : 72
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 14600,
+		"level" : 72,
+		"nimbus" : 340
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 72,
+		"nimbus" : 1037
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 177,
+		"level" : 73
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 14900,
+		"level" : 73,
+		"nimbus" : 340
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 73,
+		"nimbus" : 1066
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 179,
+		"level" : 74
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 15200,
+		"level" : 74,
+		"nimbus" : 340
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 74,
+		"nimbus" : 1095
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 181,
+		"level" : 75
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 15500,
+		"level" : 75,
+		"nimbus" : 440
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 75,
+		"nimbus" : 1125
+	},
+	
+	{
+		"configType" : 4,
+		"experience" : 410000,
+		"level" : 75
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 184,
+		"level" : 76
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 15800,
+		"level" : 76,
+		"nimbus" : 440
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 76,
+		"nimbus" : 1155
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 186,
+		"level" : 77
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 16100,
+		"level" : 77,
+		"nimbus" : 440
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 77,
+		"nimbus" : 1186
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 188,
+		"level" : 78
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 16400,
+		"level" : 78,
+		"nimbus" : 440
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 78,
+		"nimbus" : 1217
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 190,
+		"level" : 79
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 16700,
+		"level" : 79,
+		"nimbus" : 440
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 79,
+		"nimbus" : 1248
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 192,
+		"level" : 80
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 17000,
+		"level" : 80,
+		"nimbus" : 540
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 80,
+		"nimbus" : 1280
+	},
+	
+	{
+		"configType" : 4,
+		"experience" : 450000,
+		"level" : 80
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 194,
+		"level" : 81
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 17300,
+		"level" : 81,
+		"nimbus" : 540
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 81,
+		"nimbus" : 1312
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 197,
+		"level" : 82
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 17600,
+		"level" : 82,
+		"nimbus" : 540
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 82,
+		"nimbus" : 1345
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 199,
+		"level" : 83
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 17900,
+		"level" : 83,
+		"nimbus" : 540
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 83,
+		"nimbus" : 1378
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 201,
+		"level" : 84
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 18200,
+		"level" : 84,
+		"nimbus" : 540
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 84,
+		"nimbus" : 1411
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 203,
+		"level" : 85
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 18500,
+		"level" : 85,
+		"nimbus" : 640
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 85,
+		"nimbus" : 1445
+	},
+	
+	{
+		"configType" : 4,
+		"experience" : 490000,
+		"level" : 85
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 205,
+		"level" : 86
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 18800,
+		"level" : 86,
+		"nimbus" : 640
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 86,
+		"nimbus" : 1479
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 207,
+		"level" : 87
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 19100,
+		"level" : 87,
+		"nimbus" : 640
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 87,
+		"nimbus" : 1514
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 210,
+		"level" : 88
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 19400,
+		"level" : 88,
+		"nimbus" : 640
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 88,
+		"nimbus" : 1549
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 212,
+		"level" : 89
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 19700,
+		"level" : 89,
+		"nimbus" : 640
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 89,
+		"nimbus" : 1584
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 214,
+		"level" : 90
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 20000,
+		"level" : 90,
+		"nimbus" : 740
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 90,
+		"nimbus" : 1620
+	},
+	
+	{
+		"configType" : 4,
+		"experience" : 530000,
+		"level" : 90
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 216,
+		"level" : 91
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 20300,
+		"level" : 91,
+		"nimbus" : 740
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 91,
+		"nimbus" : 1656
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 218,
+		"level" : 92
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 20600,
+		"level" : 92,
+		"nimbus" : 740
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 92,
+		"nimbus" : 1693
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 220,
+		"level" : 93
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 20900,
+		"level" : 93,
+		"nimbus" : 740
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 93,
+		"nimbus" : 1730
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 222,
+		"level" : 94
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 21200,
+		"level" : 94,
+		"nimbus" : 740
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 94,
+		"nimbus" : 1767
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 225,
+		"level" : 95
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 21500,
+		"level" : 95,
+		"nimbus" : 840
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 95,
+		"nimbus" : 1805
+	},
+	
+	{
+		"configType" : 4,
+		"experience" : 570000,
+		"level" : 95
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 227,
+		"level" : 96
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 21800,
+		"level" : 96,
+		"nimbus" : 840
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 96,
+		"nimbus" : 1843
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 229,
+		"level" : 97
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 22100,
+		"level" : 97,
+		"nimbus" : 840
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 97,
+		"nimbus" : 1882
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 231,
+		"level" : 98
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 22400,
+		"level" : 98,
+		"nimbus" : 840
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 98,
+		"nimbus" : 1921
+	},
+	
+	{
+		"configType" : 1,
+		"experience" : 233,
+		"level" : 99
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 22700,
+		"level" : 99,
+		"nimbus" : 840
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 99,
+		"nimbus" : 1960
+	},
+	
+	{
+		"configType" : 2,
+		"experience" : 23000,
+		"level" : 100,
+		"nimbus" : 940
+	},
+	
+	{
+		"configType" : 3,
+		"level" : 100,
+		"nimbus" : 2000
+	},
+	
+	{
+		"configType" : 4,
+		"experience" : 610000,
+		"level" : 100
+	}
+]

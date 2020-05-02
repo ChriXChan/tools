@@ -1,0 +1,67 @@
+
+[
+	
+	{
+		"amount" : 400,
+		"logType" : 1,
+		"materialItemCode" : 22000000,
+		"targetItemCode" : 22000001,
+		"transferLimit" : 1
+	},
+	
+	{
+		"amount" : 250,
+		"logType" : 1,
+		"materialItemCode" : 22000000,
+		"targetItemCode" : 22000002,
+		"transferLimit" : 3
+	},
+	
+	{
+		"amount" : 250,
+		"logType" : 1,
+		"materialItemCode" : 22000000,
+		"targetItemCode" : 22000003,
+		"transferLimit" : 3
+	},
+	
+	{
+		"amount" : 250,
+		"logType" : 1,
+		"materialItemCode" : 22000000,
+		"targetItemCode" : 22000004,
+		"transferLimit" : 3
+	},
+	
+	{
+		"amount" : 250,
+		"logType" : 1,
+		"materialItemCode" : 22000000,
+		"targetItemCode" : 22000005,
+		"transferLimit" : 3
+	},
+	
+	{
+		"amount" : 400,
+		"logType" : 1,
+		"materialItemCode" : 22000000,
+		"targetItemCode" : 22000006,
+		"transferLimit" : 1
+	},
+	
+	{
+		"amount" : 250,
+		"logType" : 1,
+		"materialItemCode" : 22000000,
+		"targetItemCode" : 22000007,
+		"transferLimit" : 3
+	},
+	
+	{
+		"amount" : 250,
+		"logType" : 1,
+		"materialItemCode" : 22000000,
+		"targetItemCode" : 22000008,
+		"transferLimit" : 3
+	}
+]

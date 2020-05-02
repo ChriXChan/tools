@@ -1,0 +1,262 @@
+
+[
+	
+	{
+		"cond" : 10000,
+		"idx" : 1,
+		"rankEnd" : 1,
+		"rankStart" : 1,
+		"rewardList" : "3,12000062,1#3,35010003,1#3,35000000,30",
+		"showWarfare" : 51000,
+		"toplist" : 110
+	},
+	
+	{
+		"cond" : 10000,
+		"idx" : 2,
+		"rankEnd" : 3,
+		"rankStart" : 2,
+		"rewardList" : "3,12000056,1#3,35010003,1#3,35000000,25",
+		"toplist" : 110
+	},
+	
+	{
+		"cond" : 10000,
+		"idx" : 3,
+		"rankEnd" : 10,
+		"rankStart" : 4,
+		"rewardList" : "3,12000050,1#3,35010001,1#3,35000000,20",
+		"toplist" : 110
+	},
+	
+	{
+		"cond" : 10000,
+		"idx" : 4,
+		"rankEnd" : 30,
+		"rankStart" : 11,
+		"rewardList" : "3,35000000,10",
+		"toplist" : 110
+	},
+	
+	{
+		"cond" : 1000000,
+		"idx" : 1,
+		"rankEnd" : 1,
+		"rankStart" : 1,
+		"rewardList" : "3,12000069,1#3,60010002,40#3,40151012,30",
+		"showWarfare" : 51000,
+		"toplist" : 112
+	},
+	
+	{
+		"cond" : 1000000,
+		"idx" : 2,
+		"rankEnd" : 3,
+		"rankStart" : 2,
+		"rewardList" : "3,12000063,1#3,60010002,32#3,40151012,25",
+		"toplist" : 112
+	},
+	
+	{
+		"cond" : 1000000,
+		"idx" : 3,
+		"rankEnd" : 10,
+		"rankStart" : 4,
+		"rewardList" : "3,12000057,1#3,60010002,24#3,40151012,20",
+		"toplist" : 112
+	},
+	
+	{
+		"cond" : 1000000,
+		"idx" : 4,
+		"rankEnd" : 30,
+		"rankStart" : 11,
+		"rewardList" : "3,60010002,12#3,40151012,10",
+		"toplist" : 112
+	},
+	
+	{
+		"cond" : 25,
+		"idx" : 1,
+		"rankEnd" : 1,
+		"rankStart" : 1,
+		"rewardList" : "3,12000061,1#3,60030009,1#3,60010002,40",
+		"showWarfare" : 53000,
+		"toplist" : 114
+	},
+	
+	{
+		"cond" : 25,
+		"idx" : 2,
+		"rankEnd" : 3,
+		"rankStart" : 2,
+		"rewardList" : "3,12000055,1#3,60030009,1#3,60010002,32",
+		"toplist" : 114
+	},
+	
+	{
+		"cond" : 25,
+		"idx" : 3,
+		"rankEnd" : 10,
+		"rankStart" : 4,
+		"rewardList" : "3,12000049,1#3,60030002,1#3,60010002,24",
+		"toplist" : 114
+	},
+	
+	{
+		"cond" : 25,
+		"idx" : 4,
+		"rankEnd" : 30,
+		"rankStart" : 11,
+		"rewardList" : "3,60010002,12",
+		"toplist" : 114
+	},
+	
+	{
+		"cond" : 8,
+		"idx" : 1,
+		"rankEnd" : 1,
+		"rankStart" : 1,
+		"rewardList" : "3,12000071,1#3,36010003,1#3,36000000,30",
+		"showWarfare" : 52000,
+		"toplist" : 115
+	},
+	
+	{
+		"cond" : 8,
+		"idx" : 2,
+		"rankEnd" : 3,
+		"rankStart" : 2,
+		"rewardList" : "3,12000065,1#3,36010003,1#3,36000000,25",
+		"toplist" : 115
+	},
+	
+	{
+		"cond" : 8,
+		"idx" : 3,
+		"rankEnd" : 10,
+		"rankStart" : 4,
+		"rewardList" : "3,12000059,1#3,36010002,1#3,36000000,20",
+		"toplist" : 115
+	},
+	
+	{
+		"cond" : 8,
+		"idx" : 4,
+		"rankEnd" : 30,
+		"rankStart" : 11,
+		"rewardList" : "3,36000000,10",
+		"toplist" : 115
+	},
+	
+	{
+		"cond" : 40,
+		"idx" : 1,
+		"rankEnd" : 1,
+		"rankStart" : 1,
+		"rewardList" : "3,12000051,1#3,40151012,30#3,30051038,4",
+		"showWarfare" : 51000,
+		"toplist" : 116
+	},
+	
+	{
+		"cond" : 40,
+		"idx" : 2,
+		"rankEnd" : 3,
+		"rankStart" : 2,
+		"rewardList" : "3,12000045,1#3,40151012,25#3,30051038,3",
+		"toplist" : 116
+	},
+	
+	{
+		"cond" : 40,
+		"idx" : 3,
+		"rankEnd" : 10,
+		"rankStart" : 4,
+		"rewardList" : "3,12000033,1#3,40151012,20#3,30051038,2",
+		"toplist" : 116
+	},
+	
+	{
+		"cond" : 40,
+		"idx" : 4,
+		"rankEnd" : 30,
+		"rankStart" : 11,
+		"rewardList" : "3,30051038,1",
+		"toplist" : 116
+	},
+	
+	{
+		"cond" : 120,
+		"idx" : 1,
+		"rankEnd" : 1,
+		"rankStart" : 1,
+		"rewardList" : "3,12000051,1#3,60030011,2#3,60030004,5#3,40151013,20",
+		"showWarfare" : 50000,
+		"toplist" : 117
+	},
+	
+	{
+		"cond" : 90,
+		"idx" : 2,
+		"rankEnd" : 3,
+		"rankStart" : 2,
+		"rewardList" : "3,12000045,1#3,60030011,1#3,60030004,4#3,40151013,15",
+		"toplist" : 117
+	},
+	
+	{
+		"cond" : 60,
+		"idx" : 3,
+		"rankEnd" : 20,
+		"rankStart" : 4,
+		"rewardList" : "3,12000033,1#3,60030004,3#3,40151013,10",
+		"toplist" : 117
+	},
+	
+	{
+		"cond" : 15,
+		"idx" : 4,
+		"rankEnd" : 50,
+		"rankStart" : 21,
+		"rewardList" : "3,60030004,2#3,40151013,5",
+		"toplist" : 117
+	},
+	
+	{
+		"cond" : 1,
+		"idx" : 1,
+		"rankEnd" : 1,
+		"rankStart" : 1,
+		"rewardList" : "3,12000058,1#3,13000000,1#3,40151013,30",
+		"showWarfare" : 52000,
+		"toplist" : 119
+	},
+	
+	{
+		"cond" : 1,
+		"idx" : 2,
+		"rankEnd" : 3,
+		"rankStart" : 2,
+		"rewardList" : "3,12000052,1#3,13000000,1#3,40151013,25",
+		"toplist" : 119
+	},
+	
+	{
+		"cond" : 1,
+		"idx" : 3,
+		"rankEnd" : 10,
+		"rankStart" : 4,
+		"rewardList" : "3,12000046,1#3,13000000,1#3,40151013,20",
+		"toplist" : 119
+	},
+	
+	{
+		"cond" : 1,
+		"idx" : 4,
+		"rankEnd" : 30,
+		"rankStart" : 11,
+		"rewardList" : "3,40151013,10",
+		"toplist" : 119
+	}
+]

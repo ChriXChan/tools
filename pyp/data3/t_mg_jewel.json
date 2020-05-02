@@ -1,0 +1,66 @@
+
+[
+	
+	{
+		"attackAttrList" : "1,29#3,7#",
+		"defenseAttrList" : "2,579#4,7#",
+		"level" : 1,
+		"needLowJewelNum" : 3
+	},
+	
+	{
+		"attackAttrList" : "1,58#3,14#",
+		"defenseAttrList" : "2,1160#4,14#",
+		"level" : 2,
+		"needLowJewelNum" : 3
+	},
+	
+	{
+		"attackAttrList" : "1,107#3,27#",
+		"defenseAttrList" : "2,2147#4,27#",
+		"level" : 3,
+		"needLowJewelNum" : 3
+	},
+	
+	{
+		"attackAttrList" : "1,191#3,48#",
+		"defenseAttrList" : "2,3824#4,48#",
+		"level" : 4,
+		"needLowJewelNum" : 3
+	},
+	
+	{
+		"attackAttrList" : "1,334#3,83#",
+		"defenseAttrList" : "2,6677#4,83#",
+		"level" : 5,
+		"needLowJewelNum" : 3
+	},
+	
+	{
+		"attackAttrList" : "1,576#3,144#",
+		"defenseAttrList" : "2,11525#4,144#",
+		"level" : 6,
+		"needLowJewelNum" : 3
+	},
+	
+	{
+		"attackAttrList" : "1,988#3,247#",
+		"defenseAttrList" : "2,19768#4,247#",
+		"level" : 7,
+		"needLowJewelNum" : 3
+	},
+	
+	{
+		"attackAttrList" : "1,1689#3,422#",
+		"defenseAttrList" : "2,33779#4,422#",
+		"level" : 8,
+		"needLowJewelNum" : 3
+	},
+	
+	{
+		"attackAttrList" : "1,2880#3,720#",
+		"defenseAttrList" : "2,57600#4,720#",
+		"level" : 9,
+		"needLowJewelNum" : 3
+	}
+]

@@ -1,0 +1,36 @@
+
+[
+	
+	{
+		"costNum" : 1000,
+		"groupId" : 1,
+		"head" : "无极战躯",
+		"posAddIntervalLevel" : 30,
+		"skillGroup" : 1,
+		"skillpointAddIntervalLevel" : 10,
+		"taskDesc" : "激活无极战躯，需要先完成天赋任务",
+		"unlockShowSkillList" : "[15002,15005,15012]"
+	},
+	
+	{
+		"costNum" : 1000,
+		"groupId" : 2,
+		"head" : "封天神诀",
+		"posAddIntervalLevel" : 30,
+		"skillGroup" : 2,
+		"skillpointAddIntervalLevel" : 10,
+		"taskDesc" : "激活封天神诀，需要先完成天赋任务",
+		"unlockShowSkillList" : "[25002,25005,25012]"
+	},
+	
+	{
+		"costNum" : 1000,
+		"groupId" : 4,
+		"head" : "不灭圣魂",
+		"posAddIntervalLevel" : 30,
+		"skillGroup" : 3,
+		"skillpointAddIntervalLevel" : 10,
+		"taskDesc" : "激活不灭圣魂，需要先完成天赋任务",
+		"unlockShowSkillList" : "[35002,35005,35012]"
+	}
+]

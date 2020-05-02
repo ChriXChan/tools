@@ -1,0 +1,586 @@
+
+[
+	
+	{
+		"level" : 101,
+		"loseScore" : 4,
+		"name" : "青铜一阶",
+		"scoreRewardMoney" : 1000,
+		"winScore" : 8
+	},
+	
+	{
+		"level" : 102,
+		"loseScore" : 5,
+		"name" : "青铜二阶",
+		"score" : 40,
+		"scoreRewardMoney" : 1400,
+		"winScore" : 10
+	},
+	
+	{
+		"level" : 103,
+		"loseScore" : 6,
+		"name" : "青铜三阶",
+		"score" : 80,
+		"scoreRewardMoney" : 1800,
+		"winScore" : 12
+	},
+	
+	{
+		"level" : 104,
+		"loseScore" : 7,
+		"name" : "青铜四阶",
+		"score" : 120,
+		"scoreRewardMoney" : 2200,
+		"winScore" : 14
+	},
+	
+	{
+		"level" : 105,
+		"loseScore" : 8,
+		"name" : "青铜五阶",
+		"score" : 160,
+		"scoreRewardMoney" : 2600,
+		"winScore" : 16
+	},
+	
+	{
+		"level" : 201,
+		"loseScore" : 9,
+		"name" : "白银一阶",
+		"score" : 200,
+		"scoreRewardMoney" : 3200,
+		"winScore" : 18
+	},
+	
+	{
+		"level" : 202,
+		"loseScore" : 10,
+		"name" : "白银二阶",
+		"score" : 280,
+		"scoreRewardMoney" : 3800,
+		"winScore" : 20
+	},
+	
+	{
+		"level" : 203,
+		"loseScore" : 11,
+		"name" : "白银三阶",
+		"score" : 360,
+		"scoreRewardMoney" : 4400,
+		"winScore" : 22
+	},
+	
+	{
+		"level" : 204,
+		"loseScore" : 12,
+		"name" : "白银四阶",
+		"score" : 440,
+		"scoreRewardMoney" : 5000,
+		"winScore" : 24
+	},
+	
+	{
+		"level" : 205,
+		"loseScore" : 13,
+		"name" : "白银五阶",
+		"score" : 520,
+		"scoreRewardMoney" : 5600,
+		"winScore" : 26
+	},
+	
+	{
+		"level" : 301,
+		"loseScore" : -5,
+		"name" : "黄金一阶",
+		"score" : 600,
+		"scoreRewardMoney" : 6400,
+		"winScore" : 28
+	},
+	
+	{
+		"level" : 302,
+		"loseScore" : -6,
+		"name" : "黄金二阶",
+		"score" : 720,
+		"scoreRewardMoney" : 7200,
+		"winScore" : 30
+	},
+	
+	{
+		"level" : 303,
+		"loseScore" : -7,
+		"name" : "黄金三阶",
+		"score" : 840,
+		"scoreRewardMoney" : 8000,
+		"winScore" : 32
+	},
+	
+	{
+		"level" : 304,
+		"loseScore" : -8,
+		"name" : "黄金四阶",
+		"score" : 960,
+		"scoreRewardMoney" : 8800,
+		"winScore" : 34
+	},
+	
+	{
+		"level" : 305,
+		"loseScore" : -9,
+		"name" : "黄金五阶",
+		"score" : 1080,
+		"scoreRewardMoney" : 9600,
+		"winScore" : 36
+	},
+	
+	{
+		"level" : 401,
+		"loseScore" : -10,
+		"name" : "白金一阶",
+		"score" : 1200,
+		"scoreRewardMoney" : 10600,
+		"winScore" : 38
+	},
+	
+	{
+		"level" : 402,
+		"loseScore" : -11,
+		"name" : "白金二阶",
+		"score" : 1400,
+		"scoreRewardMoney" : 11600,
+		"winScore" : 40
+	},
+	
+	{
+		"level" : 403,
+		"loseScore" : -12,
+		"name" : "白金三阶",
+		"score" : 1600,
+		"scoreRewardMoney" : 12600,
+		"winScore" : 42
+	},
+	
+	{
+		"level" : 404,
+		"loseScore" : -13,
+		"name" : "白金四阶",
+		"score" : 1800,
+		"scoreRewardMoney" : 13600,
+		"winScore" : 44
+	},
+	
+	{
+		"level" : 405,
+		"loseScore" : -14,
+		"name" : "白金五阶",
+		"score" : 2000,
+		"scoreRewardMoney" : 14600,
+		"winScore" : 46
+	},
+	
+	{
+		"level" : 501,
+		"loseScore" : -15,
+		"name" : "钻石一阶",
+		"score" : 2200,
+		"scoreRewardMoney" : 15800,
+		"winScore" : 48
+	},
+	
+	{
+		"level" : 502,
+		"loseScore" : -16,
+		"name" : "钻石二阶",
+		"score" : 2500,
+		"scoreRewardMoney" : 17000,
+		"winScore" : 50
+	},
+	
+	{
+		"level" : 503,
+		"loseScore" : -17,
+		"name" : "钻石三阶",
+		"score" : 2800,
+		"scoreRewardMoney" : 18200,
+		"winScore" : 52
+	},
+	
+	{
+		"level" : 504,
+		"loseScore" : -18,
+		"name" : "钻石四阶",
+		"score" : 3100,
+		"scoreRewardMoney" : 19400,
+		"winScore" : 54
+	},
+	
+	{
+		"level" : 505,
+		"loseScore" : -19,
+		"name" : "钻石五阶",
+		"score" : 3400,
+		"scoreRewardMoney" : 20600,
+		"winScore" : 56
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 101,
+		"loseExploit" : 30,
+		"loseScore" : 15,
+		"name" : "青铜一阶",
+		"scoreRewardMoney" : 1000,
+		"winExploit" : 50,
+		"winScore" : 30
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 102,
+		"loseExploit" : 30,
+		"loseScore" : -15,
+		"name" : "青铜二阶",
+		"score" : 31,
+		"scoreRewardMoney" : 1400,
+		"winExploit" : 50,
+		"winScore" : 30
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 103,
+		"loseExploit" : 30,
+		"loseScore" : -15,
+		"name" : "青铜三阶",
+		"score" : 61,
+		"scoreRewardMoney" : 1800,
+		"winExploit" : 50,
+		"winScore" : 30
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 104,
+		"loseExploit" : 30,
+		"loseScore" : -15,
+		"name" : "青铜四阶",
+		"score" : 91,
+		"scoreRewardMoney" : 2200,
+		"winExploit" : 50,
+		"winScore" : 30
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 105,
+		"loseExploit" : 30,
+		"loseScore" : -15,
+		"name" : "青铜五阶",
+		"score" : 121,
+		"scoreRewardMoney" : 2600,
+		"winExploit" : 50,
+		"winScore" : 30
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 201,
+		"loseExploit" : 40,
+		"loseScore" : -20,
+		"name" : "白银一阶",
+		"score" : 151,
+		"scoreRewardMoney" : 3200,
+		"winExploit" : 60,
+		"winScore" : 40
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 202,
+		"loseExploit" : 40,
+		"loseScore" : -20,
+		"name" : "白银二阶",
+		"score" : 231,
+		"scoreRewardMoney" : 3800,
+		"winExploit" : 60,
+		"winScore" : 40
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 203,
+		"loseExploit" : 40,
+		"loseScore" : -20,
+		"name" : "白银三阶",
+		"score" : 311,
+		"scoreRewardMoney" : 4400,
+		"winExploit" : 60,
+		"winScore" : 40
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 204,
+		"loseExploit" : 40,
+		"loseScore" : -20,
+		"name" : "白银四阶",
+		"score" : 391,
+		"scoreRewardMoney" : 5000,
+		"winExploit" : 60,
+		"winScore" : 40
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 205,
+		"loseExploit" : 40,
+		"loseScore" : -20,
+		"name" : "白银五阶",
+		"score" : 471,
+		"scoreRewardMoney" : 5600,
+		"winExploit" : 60,
+		"winScore" : 40
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 301,
+		"loseExploit" : 55,
+		"loseScore" : -30,
+		"name" : "黄金一阶",
+		"score" : 551,
+		"scoreRewardMoney" : 6400,
+		"winExploit" : 75,
+		"winScore" : 60
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 302,
+		"loseExploit" : 55,
+		"loseScore" : -30,
+		"name" : "黄金二阶",
+		"score" : 731,
+		"scoreRewardMoney" : 7200,
+		"winExploit" : 75,
+		"winScore" : 60
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 303,
+		"loseExploit" : 55,
+		"loseScore" : -30,
+		"name" : "黄金三阶",
+		"score" : 911,
+		"scoreRewardMoney" : 8000,
+		"winExploit" : 75,
+		"winScore" : 60
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 304,
+		"loseExploit" : 55,
+		"loseScore" : -30,
+		"name" : "黄金四阶",
+		"score" : 1091,
+		"scoreRewardMoney" : 8800,
+		"winExploit" : 75,
+		"winScore" : 60
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 305,
+		"loseExploit" : 55,
+		"loseScore" : -30,
+		"name" : "黄金五阶",
+		"score" : 1271,
+		"scoreRewardMoney" : 9600,
+		"winExploit" : 75,
+		"winScore" : 60
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 401,
+		"loseExploit" : 70,
+		"loseScore" : -40,
+		"name" : "白金一阶",
+		"score" : 1451,
+		"scoreRewardMoney" : 10600,
+		"winExploit" : 90,
+		"winScore" : 80
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 402,
+		"loseExploit" : 70,
+		"loseScore" : -40,
+		"name" : "白金二阶",
+		"score" : 1771,
+		"scoreRewardMoney" : 11600,
+		"winExploit" : 90,
+		"winScore" : 80
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 403,
+		"loseExploit" : 70,
+		"loseScore" : -40,
+		"name" : "白金三阶",
+		"score" : 2091,
+		"scoreRewardMoney" : 12600,
+		"winExploit" : 90,
+		"winScore" : 80
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 404,
+		"loseExploit" : 70,
+		"loseScore" : -40,
+		"name" : "白金四阶",
+		"score" : 2411,
+		"scoreRewardMoney" : 13600,
+		"winExploit" : 90,
+		"winScore" : 80
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 405,
+		"loseExploit" : 70,
+		"loseScore" : -40,
+		"name" : "白金五阶",
+		"score" : 2731,
+		"scoreRewardMoney" : 14600,
+		"winExploit" : 90,
+		"winScore" : 80
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 501,
+		"loseExploit" : 90,
+		"loseScore" : -50,
+		"name" : "钻石一阶",
+		"score" : 3051,
+		"scoreRewardMoney" : 15800,
+		"winExploit" : 110,
+		"winScore" : 100
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 502,
+		"loseExploit" : 90,
+		"loseScore" : -50,
+		"name" : "钻石二阶",
+		"score" : 3551,
+		"scoreRewardMoney" : 17000,
+		"winExploit" : 110,
+		"winScore" : 100
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 503,
+		"loseExploit" : 90,
+		"loseScore" : -50,
+		"name" : "钻石三阶",
+		"score" : 4051,
+		"scoreRewardMoney" : 18200,
+		"winExploit" : 110,
+		"winScore" : 100
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 504,
+		"loseExploit" : 90,
+		"loseScore" : -50,
+		"name" : "钻石四阶",
+		"score" : 4551,
+		"scoreRewardMoney" : 19400,
+		"winExploit" : 110,
+		"winScore" : 100
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 505,
+		"loseExploit" : 90,
+		"loseScore" : -50,
+		"name" : "钻石五阶",
+		"score" : 5051,
+		"scoreRewardMoney" : 20600,
+		"winExploit" : 110,
+		"winScore" : 100
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 601,
+		"loseExploit" : 110,
+		"loseScore" : -65,
+		"name" : "王者一阶",
+		"score" : 5551,
+		"scoreRewardMoney" : 22000,
+		"winExploit" : 140,
+		"winScore" : 130
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 602,
+		"loseExploit" : 110,
+		"loseScore" : -65,
+		"name" : "王者二阶",
+		"score" : 6331,
+		"scoreRewardMoney" : 24000,
+		"winExploit" : 140,
+		"winScore" : 130
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 603,
+		"loseExploit" : 110,
+		"loseScore" : -65,
+		"name" : "王者三阶",
+		"score" : 7111,
+		"scoreRewardMoney" : 26000,
+		"winExploit" : 140,
+		"winScore" : 130
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 604,
+		"loseExploit" : 110,
+		"loseScore" : -65,
+		"name" : "王者四阶",
+		"score" : 7891,
+		"scoreRewardMoney" : 28000,
+		"winExploit" : 140,
+		"winScore" : 130
+	},
+	
+	{
+		"isCross" : 1,
+		"level" : 605,
+		"loseExploit" : 110,
+		"loseScore" : -65,
+		"name" : "王者五阶",
+		"score" : 8671,
+		"scoreRewardMoney" : 30000,
+		"winExploit" : 140,
+		"winScore" : 130
+	}
+]

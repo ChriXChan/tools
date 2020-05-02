@@ -1,0 +1,183 @@
+
+[
+	
+	{
+		"content" : "0,0,0",
+		"desc" : "玩家防御达到300可领取：100万",
+		"id" : 1,
+		"index" : 1,
+		"pageCode" : 1,
+		"recommendShow" : "10083002#10073002#10063002#10083002#10103002",
+		"rewardStr" : "2,1,1000000",
+		"target" : 300,
+		"type" : 2
+	},
+	
+	{
+		"content" : "0,0,0",
+		"desc" : "玩家防御达到480可领取：100万",
+		"id" : 2,
+		"index" : 2,
+		"pageCode" : 1,
+		"recommendShow" : "10103003",
+		"rewardStr" : "2,1,1000000",
+		"target" : 480,
+		"type" : 2
+	},
+	
+	{
+		"content" : "0,0,0",
+		"desc" : "玩家防御达到510可领取：100万",
+		"id" : 3,
+		"index" : 3,
+		"pageCode" : 1,
+		"recommendShow" : "11073003",
+		"rewardStr" : "2,1,1000000",
+		"target" : 510,
+		"type" : 2
+	},
+	
+	{
+		"content" : "0,0,0",
+		"desc" : "玩家防御达到550可领取：100万",
+		"id" : 4,
+		"index" : 4,
+		"pageCode" : 1,
+		"recommendShow" : "11100001",
+		"rewardStr" : "2,1,1000000",
+		"target" : 550,
+		"type" : 2
+	},
+	
+	{
+		"content" : "0,0,0",
+		"desc" : "玩家防御达到600可领取：100万",
+		"id" : 5,
+		"index" : 5,
+		"pageCode" : 1,
+		"recommendShow" : "11063003",
+		"rewardStr" : "2,1,1000000",
+		"target" : 600,
+		"type" : 2
+	},
+	
+	{
+		"content" : "0,0,0",
+		"desc" : "玩家防御达到680可领取：100万",
+		"id" : 6,
+		"index" : 6,
+		"pageCode" : 1,
+		"recommendShow" : "10093003",
+		"rewardStr" : "2,1,1000000",
+		"target" : 680,
+		"type" : 2
+	},
+	
+	{
+		"content" : "0,0,0",
+		"desc" : "玩家防御达到800可领取：100万",
+		"id" : 7,
+		"index" : 7,
+		"pageCode" : 1,
+		"recommendShow" : "11093004#11083004",
+		"rewardStr" : "2,1,1000000",
+		"target" : 800,
+		"type" : 2
+	},
+	
+	{
+		"content" : "0,0,0",
+		"desc" : "玩家防御达到1000可领取：100万",
+		"id" : 8,
+		"index" : 8,
+		"pageCode" : 1,
+		"recommendShow" : "11063004#11073004",
+		"rewardStr" : "2,1,1000000",
+		"target" : 1000,
+		"type" : 2
+	},
+	
+	{
+		"content" : "9,100,3",
+		"desc" : "穿戴4阶紫色头盔及以上可领取：10000",
+		"id" : 9,
+		"index" : 1,
+		"pageCode" : 2,
+		"recommendShow" : "10093004#10094004",
+		"rewardStr" : "2,34,10000",
+		"target" : 1,
+		"type" : 1
+	},
+	
+	{
+		"content" : "6,100,3",
+		"desc" : "穿戴4阶紫色护手及以上可领取：10000",
+		"id" : 10,
+		"index" : 2,
+		"pageCode" : 2,
+		"recommendShow" : "10063004#10064004",
+		"rewardStr" : "2,34,10000",
+		"target" : 1,
+		"type" : 1
+	},
+	
+	{
+		"content" : "10,100,3",
+		"desc" : "穿戴4阶紫色战靴及以上可领取：10000",
+		"id" : 11,
+		"index" : 3,
+		"pageCode" : 2,
+		"recommendShow" : "10103004#10104004",
+		"rewardStr" : "2,34,10000",
+		"target" : 1,
+		"type" : 1
+	},
+	
+	{
+		"content" : "8,150,3",
+		"desc" : "穿戴5阶紫色护腿及以上可领取：10000",
+		"id" : 12,
+		"index" : 4,
+		"pageCode" : 2,
+		"recommendShow" : "10083005#10084005",
+		"rewardStr" : "2,34,10000",
+		"target" : 1,
+		"type" : 1
+	},
+	
+	{
+		"content" : "7,150,4",
+		"desc" : "穿戴5阶橙色战甲及以上可领取：10000",
+		"id" : 13,
+		"index" : 5,
+		"pageCode" : 2,
+		"recommendShow" : "10074005#10075005",
+		"rewardStr" : "2,34,10000",
+		"target" : 1,
+		"type" : 1
+	},
+	
+	{
+		"content" : "1,150,4",
+		"desc" : "穿戴5阶橙色武器及以上可领取：20000",
+		"id" : 14,
+		"index" : 6,
+		"pageCode" : 2,
+		"recommendShow" : "10014005#10015005",
+		"rewardStr" : "2,34,20000",
+		"target" : 1,
+		"type" : 1
+	},
+	
+	{
+		"content" : "11,1,1",
+		"desc" : "穿戴小天使或小鬼怪可领取：20000",
+		"id" : 15,
+		"index" : 7,
+		"pageCode" : 2,
+		"recommendShow" : "10113002#10113001",
+		"rewardStr" : "2,34,20000",
+		"target" : 1,
+		"type" : 1
+	}
+]

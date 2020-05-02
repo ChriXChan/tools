@@ -1,0 +1,15 @@
+
+[
+	
+	{
+		"costNum" : 2,
+		"levelLimit" : 400,
+		"num" : 1
+	},
+	
+	{
+		"costNum" : 3,
+		"levelLimit" : 450,
+		"num" : 2
+	}
+]

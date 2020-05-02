@@ -1,0 +1,174 @@
+
+[
+	
+	{
+		"desc" : "战最强对手，经验荣誉享不停！",
+		"event" : 1,
+		"exp" : 2,
+		"iconRes" : "1001",
+		"idx" : 2,
+		"name" : "决战青云",
+		"openKey" : "ImagePK",
+		"showReward" : "41950001#41950006#41950002#",
+		"time" : 10,
+		"timeDesc" : "全天"
+	},
+	
+	{
+		"desc" : "升级赚钱，每日必做！",
+		"event" : 2,
+		"exp" : 1,
+		"iconRes" : "1002",
+		"idx" : 1,
+		"name" : "赏金任务",
+		"openKey" : "ETaskGroupMgRing",
+		"showReward" : "41950001#41950002#",
+		"time" : 20,
+		"timeDesc" : "全天"
+	},
+	
+	{
+		"desc" : "仙盟任务送兽粮，牛不发飙还爆装！",
+		"event" : 3,
+		"iconRes" : "1003",
+		"idx" : 12,
+		"name" : "仙盟周任务",
+		"openKey" : "ETaskGroupMgGuild",
+		"showReward" : "42070001#41950014#41950002#",
+		"time" : 70,
+		"timeDesc" : "全天"
+	},
+	
+	{
+		"desc" : "升级赚钱，双倍活动再做效果更佳！",
+		"event" : 4,
+		"exp" : 5,
+		"iconRes" : "1004",
+		"idx" : 10,
+		"name" : "护送美女",
+		"openKey" : "Transport",
+		"showReward" : "41950001#41950002#",
+		"time" : 3,
+		"timeDesc" : "全天"
+	},
+	
+	{
+		"desc" : "提升装备基础属性最快的方式！",
+		"event" : 5,
+		"exp" : 3,
+		"iconRes" : "1005",
+		"idx" : 11,
+		"name" : "装备强化",
+		"openKey" : "WeaponStrengthen",
+		"time" : 5,
+		"timeDesc" : "全天"
+	},
+	
+	{
+		"desc" : "激战BOSS，极品神装、绚丽翅膀、套装材料值得你拥有！",
+		"event" : 6,
+		"eventValue" : 94,
+		"exp" : 10,
+		"iconRes" : "1006",
+		"idx" : 9,
+		"name" : "世界BOSS",
+		"openKey" : "WorldBoss",
+		"showReward" : "41950034#60074101#60074102#60074103",
+		"time" : 3,
+		"timeDesc" : "全天"
+	},
+	
+	{
+		"desc" : "宝库钱多多，不拿白不拿！",
+		"event" : 7,
+		"eventValue" : 92,
+		"exp" : 5,
+		"iconRes" : "1007",
+		"idx" : 6,
+		"name" : "仙帝宝库",
+		"openKey" : "RingBossSingleCopy",
+		"showReward" : "41950001#41950002#",
+		"time" : 2,
+		"timeDesc" : "全天"
+	},
+	
+	{
+		"desc" : "保护仙灵，抢夺宠物材料！",
+		"event" : 8,
+		"eventValue" : 93,
+		"exp" : 5,
+		"iconRes" : "1008",
+		"idx" : 7,
+		"name" : "守护仙灵",
+		"openKey" : "NormalDefenseSingleCopy",
+		"showReward" : "40030701#60040002#60040053#",
+		"time" : 2,
+		"timeDesc" : "全天"
+	},
+	
+	{
+		"desc" : "刷怪6分钟，满鼓舞，经验药，组队加成怒刷经验！",
+		"event" : 11,
+		"eventValue" : 89,
+		"exp" : 5,
+		"iconRes" : "1011",
+		"idx" : 3,
+		"name" : "九幽魔窟",
+		"openKey" : "ExperienceGroupCopy",
+		"showReward" : "41950001#",
+		"time" : 2,
+		"timeDesc" : "全天"
+	},
+	
+	{
+		"desc" : "闯血阵，夺装备，一天3次不嫌累！",
+		"event" : 12,
+		"eventValue" : 98,
+		"exp" : 10,
+		"iconRes" : "1012",
+		"idx" : 4,
+		"name" : "圣灵血阵",
+		"openKey" : "BloodMatrixGroupCopy",
+		"showReward" : "41950035#41950001",
+		"time" : 3,
+		"timeDesc" : "全天"
+	},
+	
+	{
+		"desc" : "挂机经验多多，装备多多，还有机会得到珍惜物品！",
+		"event" : 14,
+		"iconRes" : "1014",
+		"idx" : 13,
+		"name" : "推荐挂机点",
+		"showReward" : "41950035#41950001#41950002#",
+		"timeDesc" : "全天"
+	},
+	
+	{
+		"desc" : "洗炼石头又不够，五行神殿帮你凑！",
+		"event" : 15,
+		"eventValue" : 104,
+		"exp" : 5,
+		"iconRes" : "1015",
+		"idx" : 5,
+		"name" : "五行神殿",
+		"openKey" : "FiveElementsCopy",
+		"showReward" : "40490000#41950001#",
+		"time" : 2,
+		"timeDesc" : "全天"
+	},
+	
+	{
+		"desc" : "高塔御百鬼，召唤鬼蟾王更划算！",
+		"event" : 16,
+		"eventValue" : 106,
+		"exp" : 5,
+		"iconRes" : "1016",
+		"idx" : 8,
+		"name" : "百鬼夜行",
+		"openKey" : "TowerDefense",
+		"showReward" : "90000005#90000014#90000063#90000092",
+		"time" : 2,
+		"timeDesc" : "全天"
+	}
+]

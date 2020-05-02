@@ -1,0 +1,1056 @@
+
+[
+	
+	{
+		"itemCode" : 12290035,
+		"label" : 2,
+		"limitNum" : 6,
+		"limitType" : 2,
+		"orderId" : 1,
+		"price" : 200,
+		"shopCode" : 1001
+	},
+	
+	{
+		"itemCode" : 40111206,
+		"label" : 5,
+		"limitNum" : 15,
+		"limitType" : 2,
+		"orderId" : 11,
+		"price" : 100,
+		"shopCode" : 1001,
+		"vipLevel" : 3
+	},
+	
+	{
+		"itemCode" : 40111219,
+		"label" : 5,
+		"limitNum" : 10,
+		"limitType" : 2,
+		"orderId" : 12,
+		"price" : 88,
+		"shopCode" : 1001,
+		"vipLevel" : 4
+	},
+	
+	{
+		"itemCode" : 40112201,
+		"label" : 5,
+		"limitNum" : 2,
+		"limitType" : 2,
+		"orderId" : 6,
+		"price" : 100,
+		"shopCode" : 1001,
+		"vipLevel" : 2
+	},
+	
+	{
+		"itemCode" : 40112501,
+		"label" : 7,
+		"limitNum" : 20,
+		"limitType" : 2,
+		"orderId" : 8,
+		"price" : 40,
+		"shopCode" : 1001,
+		"vipLevel" : 3
+	},
+	
+	{
+		"itemCode" : 40126004,
+		"label" : 7,
+		"limitNum" : 5,
+		"limitType" : 2,
+		"orderId" : 7,
+		"price" : 350,
+		"shopCode" : 1001,
+		"vipLevel" : 6
+	},
+	
+	{
+		"itemCode" : 42047001,
+		"label" : 4,
+		"limitNum" : 10,
+		"limitType" : 2,
+		"orderId" : 2,
+		"price" : 60,
+		"shopCode" : 1001
+	},
+	
+	{
+		"itemCode" : 51110014,
+		"label" : 7,
+		"limitNum" : 10,
+		"limitType" : 2,
+		"orderId" : 9,
+		"price" : 368,
+		"shopCode" : 1001,
+		"vipLevel" : 5
+	},
+	
+	{
+		"itemCode" : 51120014,
+		"label" : 7,
+		"limitNum" : 10,
+		"limitType" : 2,
+		"orderId" : 10,
+		"price" : 368,
+		"shopCode" : 1001,
+		"vipLevel" : 5
+	},
+	
+	{
+		"itemCode" : 60060021,
+		"label" : 2,
+		"limitNum" : 2,
+		"limitType" : 2,
+		"orderId" : 4,
+		"price" : 80,
+		"shopCode" : 1001,
+		"vipLevel" : 2
+	},
+	
+	{
+		"itemCode" : 60060027,
+		"label" : 2,
+		"limitNum" : 2,
+		"limitType" : 2,
+		"orderId" : 3,
+		"price" : 80,
+		"shopCode" : 1001,
+		"vipLevel" : 2
+	},
+	
+	{
+		"itemCode" : 12290035,
+		"limitNum" : 30,
+		"limitType" : 1,
+		"orderId" : 6,
+		"price" : 200,
+		"shopCode" : 1002,
+		"usageTip" : "（获得100万铜钱）"
+	},
+	
+	{
+		"itemCode" : 30051036,
+		"limitNum" : 20,
+		"limitType" : 1,
+		"offer" : 960,
+		"orderId" : 8,
+		"price" : 1200,
+		"shopCode" : 1002
+	},
+	
+	{
+		"itemCode" : 30051037,
+		"limitNum" : 4,
+		"limitType" : 1,
+		"offer" : 9600,
+		"orderId" : 9,
+		"price" : 12000,
+		"shopCode" : 1002
+	},
+	
+	{
+		"itemCode" : 40151013,
+		"orderId" : 2,
+		"price" : 100,
+		"shopCode" : 1002,
+		"usageTip" : "（提升翅膀）"
+	},
+	
+	{
+		"itemCode" : 40151014,
+		"orderId" : 1,
+		"price" : 50,
+		"shopCode" : 1002,
+		"usageTip" : "（提升龙炎甲）"
+	},
+	
+	{
+		"itemCode" : 42061001,
+		"orderId" : 4,
+		"price" : 500,
+		"shopCode" : 1002,
+		"usageTip" : "（用于装备寻宝）"
+	},
+	
+	{
+		"itemCode" : 42061004,
+		"orderId" : 5,
+		"price" : 500,
+		"shopCode" : 1002,
+		"usageTip" : "（用于符文寻宝）"
+	},
+	
+	{
+		"itemCode" : 42110001,
+		"orderId" : 7,
+		"price" : 4998,
+		"shopCode" : 1002,
+		"usageTip" : "（修改角色名）"
+	},
+	
+	{
+		"itemCode" : 60040002,
+		"orderId" : 3,
+		"price" : 100,
+		"shopCode" : 1002,
+		"usageTip" : "（提升宠物星级）"
+	},
+	
+	{
+		"itemCode" : 51110001,
+		"orderId" : 38,
+		"price" : 20,
+		"shopCode" : 1003
+	},
+	
+	{
+		"itemCode" : 51110002,
+		"orderId" : 40,
+		"price" : 60,
+		"shopCode" : 1003
+	},
+	
+	{
+		"itemCode" : 51110003,
+		"orderId" : 42,
+		"price" : 180,
+		"shopCode" : 1003
+	},
+	
+	{
+		"itemCode" : 51120001,
+		"orderId" : 39,
+		"price" : 20,
+		"shopCode" : 1003
+	},
+	
+	{
+		"itemCode" : 51120002,
+		"orderId" : 41,
+		"price" : 60,
+		"shopCode" : 1003
+	},
+	
+	{
+		"itemCode" : 51120003,
+		"orderId" : 43,
+		"price" : 180,
+		"shopCode" : 1003
+	},
+	
+	{
+		"itemCode" : 40030012,
+		"orderId" : 55,
+		"price" : 15,
+		"shopCode" : 1004
+	},
+	
+	{
+		"itemCode" : 40270004,
+		"orderId" : 57,
+		"price" : 1,
+		"shopCode" : 1004
+	},
+	
+	{
+		"itemCode" : 40270005,
+		"orderId" : 52,
+		"price" : 25,
+		"shopCode" : 1004
+	},
+	
+	{
+		"itemCode" : 40270006,
+		"orderId" : 56,
+		"price" : 20,
+		"shopCode" : 1004
+	},
+	
+	{
+		"itemCode" : 41990002,
+		"orderId" : 48,
+		"price" : 40,
+		"shopCode" : 1004
+	},
+	
+	{
+		"itemCode" : 41991001,
+		"orderId" : 49,
+		"price" : 80,
+		"shopCode" : 1004
+	},
+	
+	{
+		"itemCode" : 41994002,
+		"orderId" : 50,
+		"price" : 40,
+		"shopCode" : 1004
+	},
+	
+	{
+		"itemCode" : 41995002,
+		"orderId" : 51,
+		"price" : 50,
+		"shopCode" : 1004
+	},
+	
+	{
+		"itemCode" : 42040003,
+		"orderId" : 53,
+		"price" : 380,
+		"shopCode" : 1004
+	},
+	
+	{
+		"itemCode" : 42140002,
+		"orderId" : 58,
+		"price" : 10,
+		"shopCode" : 1004
+	},
+	
+	{
+		"itemCode" : 42220001,
+		"orderId" : 54,
+		"price" : 999,
+		"roleLevel" : 280,
+		"shopCode" : 1004
+	},
+	
+	{
+		"itemCode" : 60040030,
+		"orderId" : 44,
+		"price" : 10,
+		"shopCode" : 1004
+	},
+	
+	{
+		"itemCode" : 60040031,
+		"orderId" : 45,
+		"price" : 10,
+		"shopCode" : 1004
+	},
+	
+	{
+		"itemCode" : 40030012,
+		"limitNum" : 1,
+		"limitType" : 1,
+		"orderId" : 6,
+		"price" : 1500,
+		"shopCode" : 1005
+	},
+	
+	{
+		"itemCode" : 40153303,
+		"limitNum" : 1,
+		"limitType" : 1,
+		"orderId" : 4,
+		"price" : 4500,
+		"shopCode" : 1005
+	},
+	
+	{
+		"itemCode" : 40153503,
+		"limitNum" : 1,
+		"limitType" : 1,
+		"orderId" : 3,
+		"price" : 7500,
+		"shopCode" : 1005
+	},
+	
+	{
+		"itemCode" : 40270004,
+		"limitNum" : 20,
+		"limitType" : 1,
+		"orderId" : 10,
+		"price" : 50,
+		"shopCode" : 1005
+	},
+	
+	{
+		"itemCode" : 40270006,
+		"limitNum" : 3,
+		"limitType" : 1,
+		"orderId" : 8,
+		"price" : 2000,
+		"shopCode" : 1005
+	},
+	
+	{
+		"itemCode" : 41990002,
+		"limitNum" : 1,
+		"limitType" : 1,
+		"orderId" : 5,
+		"price" : 5000,
+		"shopCode" : 1005
+	},
+	
+	{
+		"itemCode" : 42140002,
+		"limitNum" : 5,
+		"limitType" : 1,
+		"orderId" : 9,
+		"price" : 1500,
+		"shopCode" : 1005
+	},
+	
+	{
+		"itemCode" : 60040038,
+		"limitNum" : 1,
+		"limitType" : 1,
+		"orderId" : 1,
+		"price" : 20000,
+		"shopCode" : 1005
+	},
+	
+	{
+		"itemCode" : 60040052,
+		"limitNum" : 1,
+		"limitType" : 1,
+		"orderId" : 2,
+		"price" : 20000,
+		"shopCode" : 1005
+	},
+	
+	{
+		"itemCode" : 40420010,
+		"orderId" : 53,
+		"price" : 999,
+		"shopCode" : 1006
+	},
+	
+	{
+		"itemCode" : 40420020,
+		"orderId" : 54,
+		"price" : 666,
+		"shopCode" : 1006
+	},
+	
+	{
+		"itemCode" : 40420030,
+		"orderId" : 55,
+		"price" : 288,
+		"shopCode" : 1006
+	},
+	
+	{
+		"itemCode" : 51110001,
+		"orderId" : 6,
+		"price" : 10,
+		"shopCode" : 1007
+	},
+	
+	{
+		"itemCode" : 51120001,
+		"orderId" : 7,
+		"price" : 10,
+		"shopCode" : 1007
+	},
+	
+	{
+		"itemCode" : 60030003,
+		"orderId" : 4,
+		"price" : 500,
+		"shopCode" : 1007
+	},
+	
+	{
+		"itemCode" : 60030017,
+		"orderId" : 5,
+		"price" : 500,
+		"shopCode" : 1007
+	},
+	
+	{
+		"itemCode" : 60073002,
+		"orderId" : 1,
+		"price" : 3000,
+		"shopCode" : 1007
+	},
+	
+	{
+		"copyCode" : 2001,
+		"itemCode" : 80000305,
+		"orderId" : 1,
+		"price" : 10000,
+		"shopCode" : 1008
+	},
+	
+	{
+		"copyCode" : 2001,
+		"itemCode" : 80000315,
+		"orderId" : 3,
+		"price" : 10000,
+		"shopCode" : 1008
+	},
+	
+	{
+		"copyCode" : 2001,
+		"itemCode" : 80000325,
+		"orderId" : 2,
+		"price" : 10000,
+		"shopCode" : 1008
+	},
+	
+	{
+		"copyCode" : 2001,
+		"itemCode" : 80000335,
+		"orderId" : 4,
+		"price" : 10000,
+		"shopCode" : 1008
+	},
+	
+	{
+		"copyCode" : 2001,
+		"itemCode" : 80000345,
+		"orderId" : 5,
+		"price" : 10000,
+		"shopCode" : 1008
+	},
+	
+	{
+		"copyCode" : 2001,
+		"itemCode" : 80000355,
+		"orderId" : 6,
+		"price" : 10000,
+		"shopCode" : 1008
+	},
+	
+	{
+		"copyCode" : 2001,
+		"copyFloor" : 20,
+		"itemCode" : 80000365,
+		"orderId" : 7,
+		"price" : 10000,
+		"shopCode" : 1008
+	},
+	
+	{
+		"copyCode" : 2001,
+		"copyFloor" : 40,
+		"itemCode" : 80000375,
+		"orderId" : 8,
+		"price" : 10000,
+		"shopCode" : 1008
+	},
+	
+	{
+		"copyCode" : 2001,
+		"copyFloor" : 60,
+		"itemCode" : 80000385,
+		"orderId" : 9,
+		"price" : 10000,
+		"shopCode" : 1008
+	},
+	
+	{
+		"copyCode" : 2001,
+		"copyFloor" : 80,
+		"itemCode" : 80000395,
+		"orderId" : 10,
+		"price" : 10000,
+		"shopCode" : 1008
+	},
+	
+	{
+		"copyCode" : 2001,
+		"copyFloor" : 100,
+		"itemCode" : 80000405,
+		"orderId" : 11,
+		"price" : 10000,
+		"shopCode" : 1008
+	},
+	
+	{
+		"copyCode" : 2001,
+		"copyFloor" : 130,
+		"itemCode" : 80000415,
+		"orderId" : 13,
+		"price" : 10000,
+		"shopCode" : 1008
+	},
+	
+	{
+		"copyCode" : 2001,
+		"copyFloor" : 110,
+		"itemCode" : 80000425,
+		"orderId" : 12,
+		"price" : 10000,
+		"shopCode" : 1008
+	},
+	
+	{
+		"copyCode" : 2001,
+		"copyFloor" : 150,
+		"itemCode" : 80000435,
+		"orderId" : 14,
+		"price" : 10000,
+		"shopCode" : 1008
+	},
+	
+	{
+		"copyCode" : 2001,
+		"copyFloor" : 190,
+		"itemCode" : 80000445,
+		"orderId" : 15,
+		"price" : 10000,
+		"shopCode" : 1008
+	},
+	
+	{
+		"copyCode" : 2001,
+		"copyFloor" : 250,
+		"itemCode" : 80000455,
+		"orderId" : 16,
+		"price" : 10000,
+		"shopCode" : 1008
+	},
+	
+	{
+		"copyCode" : 2001,
+		"copyFloor" : 270,
+		"itemCode" : 80000465,
+		"orderId" : 17,
+		"price" : 10000,
+		"shopCode" : 1008
+	},
+	
+	{
+		"copyCode" : 2001,
+		"copyFloor" : 320,
+		"itemCode" : 80000475,
+		"orderId" : 18,
+		"price" : 10000,
+		"shopCode" : 1008
+	},
+	
+	{
+		"itemCode" : 40111210,
+		"orderId" : 29,
+		"price" : 80,
+		"shopCode" : 1009
+	},
+	
+	{
+		"itemCode" : 40111211,
+		"orderId" : 30,
+		"price" : 80,
+		"shopCode" : 1009
+	},
+	
+	{
+		"itemCode" : 40111212,
+		"orderId" : 31,
+		"price" : 80,
+		"shopCode" : 1009
+	},
+	
+	{
+		"itemCode" : 40219001,
+		"orderId" : 32,
+		"price" : 80,
+		"shopCode" : 1009
+	},
+	
+	{
+		"itemCode" : 40219002,
+		"orderId" : 33,
+		"price" : 80,
+		"shopCode" : 1009
+	},
+	
+	{
+		"itemCode" : 40219003,
+		"orderId" : 34,
+		"price" : 80,
+		"shopCode" : 1009
+	},
+	
+	{
+		"itemCode" : 40219004,
+		"orderId" : 35,
+		"price" : 80,
+		"shopCode" : 1009
+	},
+	
+	{
+		"itemCode" : 40219005,
+		"orderId" : 36,
+		"price" : 80,
+		"shopCode" : 1009
+	},
+	
+	{
+		"itemCode" : 40219006,
+		"orderId" : 37,
+		"price" : 80,
+		"shopCode" : 1009
+	},
+	
+	{
+		"itemCode" : 40219007,
+		"orderId" : 38,
+		"price" : 80,
+		"shopCode" : 1009
+	},
+	
+	{
+		"itemCode" : 41218001,
+		"orderId" : 4,
+		"price" : 2000,
+		"roleLevel" : 350,
+		"shopCode" : 1010
+	},
+	
+	{
+		"itemCode" : 41218003,
+		"orderId" : 3,
+		"price" : 2000,
+		"roleLevel" : 350,
+		"shopCode" : 1010
+	},
+	
+	{
+		"itemCode" : 42150001,
+		"orderId" : 11,
+		"price" : 10,
+		"roleLevel" : 350,
+		"shopCode" : 1010
+	},
+	
+	{
+		"itemCode" : 42160001,
+		"orderId" : 12,
+		"price" : 10,
+		"roleLevel" : 350,
+		"shopCode" : 1010
+	},
+	
+	{
+		"itemCode" : 51110001,
+		"orderId" : 9,
+		"price" : 10,
+		"shopCode" : 1010
+	},
+	
+	{
+		"itemCode" : 51120001,
+		"orderId" : 10,
+		"price" : 10,
+		"shopCode" : 1010
+	},
+	
+	{
+		"itemCode" : 60030003,
+		"orderId" : 7,
+		"price" : 500,
+		"shopCode" : 1010
+	},
+	
+	{
+		"itemCode" : 60030017,
+		"orderId" : 8,
+		"price" : 500,
+		"shopCode" : 1010
+	},
+	
+	{
+		"itemCode" : 60073002,
+		"orderId" : 2,
+		"price" : 3000,
+		"shopCode" : 1010
+	},
+	
+	{
+		"itemCode" : 60073004,
+		"orderId" : 1,
+		"price" : 4000,
+		"roleLevel" : 350,
+		"shopCode" : 1010
+	},
+	
+	{
+		"itemCode" : 100001001,
+		"orderId" : 13,
+		"price" : 10,
+		"roleLevel" : 350,
+		"shopCode" : 1010
+	},
+	
+	{
+		"itemCode" : 41218001,
+		"orderId" : 4,
+		"price" : 2000,
+		"shopCode" : 1011
+	},
+	
+	{
+		"itemCode" : 41218003,
+		"orderId" : 3,
+		"price" : 2000,
+		"shopCode" : 1011
+	},
+	
+	{
+		"itemCode" : 42150001,
+		"orderId" : 11,
+		"price" : 10,
+		"shopCode" : 1011
+	},
+	
+	{
+		"itemCode" : 42160001,
+		"orderId" : 12,
+		"price" : 10,
+		"shopCode" : 1011
+	},
+	
+	{
+		"itemCode" : 51110001,
+		"orderId" : 9,
+		"price" : 10,
+		"shopCode" : 1011
+	},
+	
+	{
+		"itemCode" : 51120001,
+		"orderId" : 10,
+		"price" : 10,
+		"shopCode" : 1011
+	},
+	
+	{
+		"itemCode" : 60030003,
+		"orderId" : 7,
+		"price" : 500,
+		"shopCode" : 1011
+	},
+	
+	{
+		"itemCode" : 60030017,
+		"orderId" : 8,
+		"price" : 500,
+		"shopCode" : 1011
+	},
+	
+	{
+		"itemCode" : 60073002,
+		"orderId" : 2,
+		"price" : 3000,
+		"shopCode" : 1011
+	},
+	
+	{
+		"itemCode" : 60073004,
+		"orderId" : 1,
+		"price" : 4000,
+		"shopCode" : 1011
+	},
+	
+	{
+		"itemCode" : 100001001,
+		"orderId" : 13,
+		"price" : 10,
+		"shopCode" : 1011
+	},
+	
+	{
+		"itemCode" : 40430003,
+		"orderId" : 2,
+		"price" : 99,
+		"shopCode" : 1012
+	},
+	
+	{
+		"itemCode" : 40430004,
+		"orderId" : 1,
+		"price" : 999,
+		"shopCode" : 1012
+	},
+	
+	{
+		"itemCode" : 40940002,
+		"orderId" : 3,
+		"price" : 20,
+		"shopCode" : 1012
+	},
+	
+	{
+		"itemCode" : 40940001,
+		"orderId" : 4,
+		"price" : 10,
+		"shopCode" : 1013
+	},
+	
+	{
+		"itemCode" : 41960002,
+		"orderId" : 3,
+		"price" : 388,
+		"shopCode" : 1015
+	},
+	
+	{
+		"itemCode" : 41960004,
+		"orderId" : 4,
+		"price" : 568,
+		"shopCode" : 1015
+	},
+	
+	{
+		"itemCode" : 41960012,
+		"orderId" : 2,
+		"price" : 398,
+		"shopCode" : 1015
+	},
+	
+	{
+		"itemCode" : 41960013,
+		"orderId" : 1,
+		"price" : 688,
+		"shopCode" : 1015
+	},
+	
+	{
+		"itemCode" : 42220000,
+		"orderId" : 5,
+		"price" : 520,
+		"roleLevel" : 280,
+		"shopCode" : 1015
+	},
+	
+	{
+		"itemCode" : 41218001,
+		"orderId" : 7,
+		"price" : 2000,
+		"shopCode" : 1016
+	},
+	
+	{
+		"itemCode" : 41218003,
+		"orderId" : 6,
+		"price" : 2000,
+		"shopCode" : 1016
+	},
+	
+	{
+		"itemCode" : 42150001,
+		"orderId" : 15,
+		"price" : 10,
+		"shopCode" : 1016
+	},
+	
+	{
+		"itemCode" : 42160001,
+		"orderId" : 16,
+		"price" : 10,
+		"shopCode" : 1016
+	},
+	
+	{
+		"itemCode" : 42200005,
+		"orderId" : 5,
+		"price" : 2500,
+		"shopCode" : 1016
+	},
+	
+	{
+		"itemCode" : 42200006,
+		"orderId" : 4,
+		"price" : 2500,
+		"shopCode" : 1016
+	},
+	
+	{
+		"itemCode" : 51110001,
+		"orderId" : 13,
+		"price" : 10,
+		"shopCode" : 1016
+	},
+	
+	{
+		"itemCode" : 51120001,
+		"orderId" : 14,
+		"price" : 10,
+		"shopCode" : 1016
+	},
+	
+	{
+		"itemCode" : 60030003,
+		"orderId" : 11,
+		"price" : 500,
+		"shopCode" : 1016
+	},
+	
+	{
+		"itemCode" : 60030017,
+		"orderId" : 12,
+		"price" : 500,
+		"shopCode" : 1016
+	},
+	
+	{
+		"itemCode" : 60073002,
+		"orderId" : 3,
+		"price" : 3000,
+		"shopCode" : 1016
+	},
+	
+	{
+		"itemCode" : 60073004,
+		"orderId" : 2,
+		"price" : 4000,
+		"shopCode" : 1016
+	},
+	
+	{
+		"itemCode" : 60073005,
+		"orderId" : 1,
+		"price" : 6000,
+		"shopCode" : 1016
+	},
+	
+	{
+		"itemCode" : 60132003,
+		"orderId" : 10,
+		"price" : 200,
+		"shopCode" : 1016
+	},
+	
+	{
+		"itemCode" : 100001001,
+		"orderId" : 17,
+		"price" : 10,
+		"shopCode" : 1016
+	},
+	
+	{
+		"itemCode" : 40110252,
+		"orderId" : 2,
+		"price" : 100,
+		"shopCode" : 1017
+	},
+	
+	{
+		"itemCode" : 42510010,
+		"orderId" : 1,
+		"price" : 500,
+		"shopCode" : 1017
+	},
+	
+	{
+		"itemCode" : 20000060,
+		"minBuyNum" : 100,
+		"orderId" : 1,
+		"price" : 10,
+		"shopCode" : 1018
+	},
+	
+	{
+		"itemCode" : 20000065,
+		"minBuyNum" : 100,
+		"orderId" : 1,
+		"price" : 10,
+		"shopCode" : 1019
+	}
+]

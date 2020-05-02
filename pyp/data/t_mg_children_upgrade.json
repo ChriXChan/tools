@@ -1,0 +1,476 @@
+
+[
+	
+	{
+		"attrList" : "1,0#2,0#3,0#4,0#",
+		"code" : 2000,
+		"expUpgrade" : 80
+	},
+	
+	{
+		"attrList" : "1,160#2,3198#3,91#4,91#",
+		"code" : 2000,
+		"expUpgrade" : 100,
+		"level" : 1
+	},
+	
+	{
+		"attrList" : "1,211#2,4224#3,121#4,121#",
+		"code" : 2000,
+		"expUpgrade" : 120,
+		"level" : 2
+	},
+	
+	{
+		"attrList" : "1,263#2,5258#3,150#4,150#",
+		"code" : 2000,
+		"expUpgrade" : 150,
+		"level" : 3,
+		"openSkill" : 24070100
+	},
+	
+	{
+		"attrList" : "1,315#2,6299#3,180#4,180#",
+		"code" : 2000,
+		"expUpgrade" : 180,
+		"level" : 4
+	},
+	
+	{
+		"attrList" : "1,367#2,7349#3,210#4,210#",
+		"code" : 2000,
+		"expUpgrade" : 230,
+		"level" : 5,
+		"openSkill" : 24070101
+	},
+	
+	{
+		"attrList" : "1,420#2,8408#3,240#4,240#",
+		"code" : 2000,
+		"expUpgrade" : 320,
+		"level" : 6
+	},
+	
+	{
+		"attrList" : "1,474#2,9475#3,271#4,271#",
+		"code" : 2000,
+		"expUpgrade" : 440,
+		"level" : 7,
+		"openSkill" : 24070102
+	},
+	
+	{
+		"attrList" : "1,528#2,10550#3,301#4,301#",
+		"code" : 2000,
+		"expUpgrade" : 580,
+		"level" : 8
+	},
+	
+	{
+		"attrList" : "1,582#2,11634#3,332#4,332#",
+		"code" : 2000,
+		"expUpgrade" : 720,
+		"level" : 9
+	},
+	
+	{
+		"activateChildren" : 2001,
+		"attrList" : "1,636#2,12727#3,364#4,364#",
+		"code" : 2000,
+		"level" : 10
+	},
+	
+	{
+		"attrList" : "1,0#2,0#3,0#4,0#",
+		"code" : 2001,
+		"expUpgrade" : 90
+	},
+	
+	{
+		"attrList" : "1,222#2,4444#3,130#4,130#",
+		"code" : 2001,
+		"expUpgrade" : 120,
+		"level" : 1
+	},
+	
+	{
+		"attrList" : "1,293#2,5869#3,171#4,171#",
+		"code" : 2001,
+		"expUpgrade" : 150,
+		"level" : 2
+	},
+	
+	{
+		"attrList" : "1,365#2,7305#3,213#4,213#",
+		"code" : 2001,
+		"expUpgrade" : 180,
+		"level" : 3,
+		"openSkill" : 24070200
+	},
+	
+	{
+		"attrList" : "1,438#2,8752#3,255#4,255#",
+		"code" : 2001,
+		"expUpgrade" : 240,
+		"level" : 4
+	},
+	
+	{
+		"attrList" : "1,511#2,10211#3,298#4,298#",
+		"code" : 2001,
+		"expUpgrade" : 320,
+		"level" : 5,
+		"openSkill" : 24070201
+	},
+	
+	{
+		"attrList" : "1,584#2,11682#3,341#4,341#",
+		"code" : 2001,
+		"expUpgrade" : 450,
+		"level" : 6
+	},
+	
+	{
+		"attrList" : "1,658#2,13165#3,384#4,384#",
+		"code" : 2001,
+		"expUpgrade" : 550,
+		"level" : 7,
+		"openSkill" : 24070202
+	},
+	
+	{
+		"attrList" : "1,733#2,14659#3,428#4,428#",
+		"code" : 2001,
+		"expUpgrade" : 720,
+		"level" : 8
+	},
+	
+	{
+		"attrList" : "1,808#2,16165#3,471#4,471#",
+		"code" : 2001,
+		"expUpgrade" : 960,
+		"level" : 9
+	},
+	
+	{
+		"activateChildren" : 2002,
+		"attrList" : "1,884#2,17684#3,516#4,516#",
+		"code" : 2001,
+		"level" : 10
+	},
+	
+	{
+		"attrList" : "1,0#2,0#3,0#4,0#",
+		"code" : 2002,
+		"expUpgrade" : 120
+	},
+	
+	{
+		"attrList" : "1,299#2,5990#3,178#4,178#",
+		"code" : 2002,
+		"expUpgrade" : 160,
+		"level" : 1
+	},
+	
+	{
+		"attrList" : "1,395#2,7909#3,235#4,235#",
+		"code" : 2002,
+		"expUpgrade" : 210,
+		"level" : 2
+	},
+	
+	{
+		"attrList" : "1,492#2,9845#3,293#4,293#",
+		"code" : 2002,
+		"expUpgrade" : 270,
+		"level" : 3,
+		"openSkill" : 24070300
+	},
+	
+	{
+		"attrList" : "1,590#2,11795#3,351#4,351#",
+		"code" : 2002,
+		"expUpgrade" : 360,
+		"level" : 4
+	},
+	
+	{
+		"attrList" : "1,688#2,13761#3,409#4,409#",
+		"code" : 2002,
+		"expUpgrade" : 450,
+		"level" : 5,
+		"openSkill" : 24070301
+	},
+	
+	{
+		"attrList" : "1,787#2,15743#3,468#4,468#",
+		"code" : 2002,
+		"expUpgrade" : 580,
+		"level" : 6
+	},
+	
+	{
+		"attrList" : "1,887#2,17741#3,527#4,527#",
+		"code" : 2002,
+		"expUpgrade" : 700,
+		"level" : 7,
+		"openSkill" : 24070302
+	},
+	
+	{
+		"attrList" : "1,988#2,19754#3,587#4,587#",
+		"code" : 2002,
+		"expUpgrade" : 900,
+		"level" : 8
+	},
+	
+	{
+		"attrList" : "1,1089#2,21784#3,648#4,648#",
+		"code" : 2002,
+		"expUpgrade" : 1220,
+		"level" : 9
+	},
+	
+	{
+		"activateChildren" : 2003,
+		"attrList" : "1,1192#2,23831#3,708#4,708#",
+		"code" : 2002,
+		"level" : 10
+	},
+	
+	{
+		"attrList" : "1,0#2,0#3,0#4,0#",
+		"code" : 2003,
+		"expUpgrade" : 390
+	},
+	
+	{
+		"attrList" : "1,391#2,7829#3,237#4,237#",
+		"code" : 2003,
+		"expUpgrade" : 520,
+		"level" : 1
+	},
+	
+	{
+		"attrList" : "1,517#2,10338#3,313#4,313#",
+		"code" : 2003,
+		"expUpgrade" : 650,
+		"level" : 2
+	},
+	
+	{
+		"attrList" : "1,643#2,12867#3,389#4,389#",
+		"code" : 2003,
+		"expUpgrade" : 770,
+		"level" : 3,
+		"openSkill" : 24070400
+	},
+	
+	{
+		"attrList" : "1,771#2,15416#3,467#4,467#",
+		"code" : 2003,
+		"expUpgrade" : 900,
+		"level" : 4
+	},
+	
+	{
+		"attrList" : "1,899#2,17986#3,544#4,544#",
+		"code" : 2003,
+		"expUpgrade" : 1030,
+		"level" : 5,
+		"openSkill" : 24070500
+	},
+	
+	{
+		"attrList" : "1,1029#2,20577#3,623#4,623#",
+		"code" : 2003,
+		"expUpgrade" : 1160,
+		"level" : 6
+	},
+	
+	{
+		"attrList" : "1,1159#2,23188#3,702#4,702#",
+		"code" : 2003,
+		"expUpgrade" : 1300,
+		"level" : 7,
+		"openSkill" : 24070600
+	},
+	
+	{
+		"attrList" : "1,1291#2,25820#3,781#4,781#",
+		"code" : 2003,
+		"expUpgrade" : 1430,
+		"level" : 8
+	},
+	
+	{
+		"attrList" : "1,1424#2,28473#3,862#4,862#",
+		"code" : 2003,
+		"expUpgrade" : 1560,
+		"level" : 9
+	},
+	
+	{
+		"activateChildren" : 2004,
+		"attrList" : "1,1557#2,31148#3,943#4,943#",
+		"code" : 2003,
+		"level" : 10
+	},
+	
+	{
+		"attrList" : "1,0#2,0#3,0#4,0#",
+		"code" : 2004,
+		"expUpgrade" : 500
+	},
+	
+	{
+		"attrList" : "1,498#2,9958#3,306#4,306#",
+		"code" : 2004,
+		"expUpgrade" : 660,
+		"level" : 1
+	},
+	
+	{
+		"attrList" : "1,657#2,13149#3,405#4,405#",
+		"code" : 2004,
+		"expUpgrade" : 820,
+		"level" : 2
+	},
+	
+	{
+		"attrList" : "1,818#2,16366#3,504#4,504#",
+		"code" : 2004,
+		"expUpgrade" : 980,
+		"level" : 3,
+		"openSkill" : 24073000
+	},
+	
+	{
+		"attrList" : "1,980#2,19610#3,603#4,603#",
+		"code" : 2004,
+		"expUpgrade" : 1150,
+		"level" : 4
+	},
+	
+	{
+		"attrList" : "1,1144#2,22878#3,704#4,704#",
+		"code" : 2004,
+		"expUpgrade" : 1310,
+		"level" : 5,
+		"openSkill" : 24073100
+	},
+	
+	{
+		"attrList" : "1,1309#2,26173#3,805#4,805#",
+		"code" : 2004,
+		"expUpgrade" : 1480,
+		"level" : 6
+	},
+	
+	{
+		"attrList" : "1,1475#2,29495#3,908#4,908#",
+		"code" : 2004,
+		"expUpgrade" : 1650,
+		"level" : 7,
+		"openSkill" : 24073200
+	},
+	
+	{
+		"attrList" : "1,1642#2,32842#3,1011#4,1011#",
+		"code" : 2004,
+		"expUpgrade" : 1820,
+		"level" : 8
+	},
+	
+	{
+		"attrList" : "1,1811#2,36217#3,1114#4,1114#",
+		"code" : 2004,
+		"expUpgrade" : 1980,
+		"level" : 9
+	},
+	
+	{
+		"activateChildren" : 2005,
+		"attrList" : "1,1981#2,39619#3,1219#4,1219#",
+		"code" : 2004,
+		"level" : 10
+	},
+	
+	{
+		"attrList" : "1,0#2,0#3,0#4,0#",
+		"code" : 2005,
+		"expUpgrade" : 620
+	},
+	
+	{
+		"attrList" : "1,619#2,12374#3,387#4,387#",
+		"code" : 2005,
+		"expUpgrade" : 820,
+		"level" : 1
+	},
+	
+	{
+		"attrList" : "1,817#2,16340#3,511#4,511#",
+		"code" : 2005,
+		"expUpgrade" : 1020,
+		"level" : 2
+	},
+	
+	{
+		"attrList" : "1,1017#2,20337#3,636#4,636#",
+		"code" : 2005,
+		"expUpgrade" : 1220,
+		"level" : 3,
+		"openSkill" : 24072000
+	},
+	
+	{
+		"attrList" : "1,1218#2,24367#3,761#4,761#",
+		"code" : 2005,
+		"expUpgrade" : 1420,
+		"level" : 4
+	},
+	
+	{
+		"attrList" : "1,1421#2,28429#3,888#4,888#",
+		"code" : 2005,
+		"expUpgrade" : 1630,
+		"level" : 5,
+		"openSkill" : 24072100
+	},
+	
+	{
+		"attrList" : "1,1626#2,32523#3,1016#4,1016#",
+		"code" : 2005,
+		"expUpgrade" : 1830,
+		"level" : 6
+	},
+	
+	{
+		"attrList" : "1,1832#2,36650#3,1145#4,1145#",
+		"code" : 2005,
+		"expUpgrade" : 2040,
+		"level" : 7,
+		"openSkill" : 24072200
+	},
+	
+	{
+		"attrList" : "1,2041#2,40810#3,1275#4,1275#",
+		"code" : 2005,
+		"expUpgrade" : 2250,
+		"level" : 8
+	},
+	
+	{
+		"attrList" : "1,2250#2,45004#3,1406#4,1406#",
+		"code" : 2005,
+		"expUpgrade" : 2460,
+		"level" : 9
+	},
+	
+	{
+		"attrList" : "1,2462#2,49231#3,1538#4,1538#",
+		"code" : 2005,
+		"level" : 10
+	}
+]

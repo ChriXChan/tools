@@ -1,0 +1,141 @@
+[
+  {
+    "copyCode": 3701,
+    "freeTimes": 1,
+    "id": 3,
+    "needGold": 500
+  },
+  {
+    "copyCode": 4701,
+    "freeTimes": 1,
+    "id": 4,
+    "needGold": 500
+  },
+  {
+    "copyCode": 5701,
+    "freeTimes": 1,
+    "id": 5
+  },
+  {
+    "copyCode": 6701,
+    "freeTimes": 1,
+    "id": 6,
+    "needGold": 500
+  },
+  {
+    "copyCode": 601,
+    "id": 8
+  },
+  {
+    "copyCode": 603,
+    "id": 10
+  },
+  {
+    "copyCode": 605,
+    "id": 12
+  },
+  {
+    "copyCode": 607,
+    "id": 14
+  },
+  {
+    "copyCode": 608,
+    "id": 15
+  },
+  {
+    "copyCode": 609,
+    "id": 16
+  },
+  {
+    "copyCode": 610,
+    "id": 17
+  },
+  {
+    "copyCode": 611,
+    "id": 18
+  },
+  {
+    "copyCode": 612,
+    "id": 19
+  },
+  {
+    "copyCode": 613,
+    "id": 20
+  },
+  {
+    "copyCode": 614,
+    "id": 21
+  },
+  {
+    "copyCode": 615,
+    "id": 22
+  },
+  {
+    "copyCode": 616,
+    "id": 23
+  },
+  {
+    "copyCode": 617,
+    "id": 24
+  },
+  {
+    "copyCode": 618,
+    "id": 25
+  },
+  {
+    "copyCode": 619,
+    "id": 26
+  },
+  {
+    "copyCode": 620,
+    "id": 27
+  },
+  {
+    "copyCode": 621,
+    "id": 28
+  },
+  {
+    "copyCode": 622,
+    "id": 29
+  },
+  {
+    "copyCode": 2202,
+    "id": 30
+  },
+  {
+    "copyCode": 12202,
+    "id": 31
+  },
+  {
+    "copyCode": 22202,
+    "id": 32
+  },
+  {
+    "copyCode": 32202,
+    "id": 33
+  },
+  {
+    "copyCode": 42202,
+    "id": 34
+  },
+  {
+    "copyCode": 52202,
+    "id": 35
+  },
+  {
+    "copyCode": 62202,
+    "id": 36
+  },
+  {
+    "copyCode": 72202,
+    "id": 37
+  },
+  {
+    "copyCode": 82202,
+    "id": 38
+  },
+  {
+    "copyCode": 92202,
+    "id": 39
+  }
+]

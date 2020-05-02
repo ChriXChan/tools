@@ -1,0 +1,11862 @@
+
+[
+	
+	{
+		"bornTime" : 4,
+		"code" : 1000021,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20110800
+	},
+	
+	{
+		"bornTime" : 4,
+		"code" : 1000023,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20110900
+	},
+	
+	{
+		"bornTime" : 4,
+		"code" : 1000036,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20110700
+	},
+	
+	{
+		"bornTime" : 4,
+		"code" : 1000050,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20110500
+	},
+	
+	{
+		"bornTime" : 4,
+		"code" : 1000054,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20110300
+	},
+	
+	{
+		"bornTime" : 8,
+		"code" : 1000070,
+		"maxLife" : 10000,
+		"noticeText" : "魔龙释放伤害技能，注意躲避!!!",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66305013
+	},
+	
+	{
+		"bornTime" : 8,
+		"code" : 1000071,
+		"maxLife" : 10000,
+		"noticeText" : "小怪会给BOSS回血，请优先击杀!!!",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66305011
+	},
+	
+	{
+		"bornTime" : 8,
+		"code" : 1000090,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20111100
+	},
+	
+	{
+		"bornTime" : 8,
+		"code" : 1000091,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20111200
+	},
+	
+	{
+		"bornTime" : 8,
+		"code" : 1000092,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20111300
+	},
+	
+	{
+		"bornTime" : 8,
+		"code" : 1000093,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20111400
+	},
+	
+	{
+		"bornTime" : 8,
+		"code" : 1000094,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20111500
+	},
+	
+	{
+		"bornTime" : 8,
+		"code" : 1000095,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20111600
+	},
+	
+	{
+		"bornTime" : 8,
+		"code" : 1100096,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20113000
+	},
+	
+	{
+		"bornTime" : 8,
+		"code" : 1100097,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20113100
+	},
+	
+	{
+		"code" : 9004005,
+		"maxLife" : 10000,
+		"noticeText" : "蝴蝶精正在给怪物加血，赶快击杀!!!",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66305012
+	},
+	
+	{
+		"bornTime" : 3,
+		"code" : 9004006,
+		"maxLife" : 10000,
+		"noticeText" : "Boss释放技能，注意躲避!!",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66305014
+	},
+	
+	{
+		"bornTime" : 6,
+		"code" : 9005001,
+		"maxLife" : 10000,
+		"noticeSec" : 2,
+		"noticeText" : "小蜘蛛会给BOSS加血，赶紧消灭",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66201002
+	},
+	
+	{
+		"code" : 9005002,
+		"maxLife" : 10000,
+		"noticeText" : "小蜘蛛已祭献，BOSS获得加血",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66201003
+	},
+	
+	{
+		"code" : 9005003,
+		"maxLife" : 10000,
+		"noticeSec" : 2,
+		"noticeText" : "你们惹怒了我",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66306002
+	},
+	
+	{
+		"code" : 9005004,
+		"maxLife" : 10000,
+		"noticeSec" : 2,
+		"noticeText" : "BOSS血量已削弱，大家集火攻击",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66307002
+	},
+	
+	{
+		"code" : 9005005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66307004
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 9005006,
+		"maxLife" : 10000,
+		"noticeSec" : 2,
+		"noticeText" : "击杀小怪，破除BOSS“坚不可摧”",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66307006
+	},
+	
+	{
+		"code" : 9005006,
+		"maxLife" : 10000,
+		"noticeSec" : 1,
+		"noticeText" : "“坚不可摧”已破除",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 66307007
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 9005007,
+		"maxLife" : 10000,
+		"noticeText" : "小怪已灭，集火攻击BOSS",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66307009
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 9005008,
+		"maxLife" : 10000,
+		"noticeSec" : 1,
+		"noticeText" : "你已被眩晕",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66307011
+	},
+	
+	{
+		"bornTime" : 6,
+		"code" : 9005013,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66406002
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 9005014,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66407002
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 9005015,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66407002
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 9005016,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66407006
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 9005017,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66407008
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 9005018,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66407010
+	},
+	
+	{
+		"code" : 10910001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 10910007
+	},
+	
+	{
+		"code" : 10910002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 10910007
+	},
+	
+	{
+		"code" : 10910011,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 10910007
+	},
+	
+	{
+		"code" : 10910012,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 10910007
+	},
+	
+	{
+		"code" : 10910021,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 10910007
+	},
+	
+	{
+		"code" : 10910022,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 10910007
+	},
+	
+	{
+		"code" : 10910031,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 10910007
+	},
+	
+	{
+		"code" : 10910032,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 10910007
+	},
+	
+	{
+		"code" : 10910081,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 10910001
+	},
+	
+	{
+		"code" : 10910082,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 10910002
+	},
+	
+	{
+		"code" : 10910083,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 10910003
+	},
+	
+	{
+		"code" : 10910084,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 10910004
+	},
+	
+	{
+		"code" : 10910085,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 10910005
+	},
+	
+	{
+		"code" : 10910086,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 10910006
+	},
+	
+	{
+		"code" : 10910091,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 10910001
+	},
+	
+	{
+		"code" : 10910092,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 10910002
+	},
+	
+	{
+		"code" : 10910093,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 10910003
+	},
+	
+	{
+		"code" : 10910094,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 10910004
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 20110300,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20110301
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 20110500,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20110501
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 20110700,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20110701
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 20110800,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20110801
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 20110900,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20110901
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 20111100,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20111101
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 20111200,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20111201
+	},
+	
+	{
+		"bornTime" : 7,
+		"code" : 20111300,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20111301
+	},
+	
+	{
+		"bornTime" : 7,
+		"code" : 20111400,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20111401
+	},
+	
+	{
+		"bornTime" : 7,
+		"code" : 20111500,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20111501
+	},
+	
+	{
+		"bornTime" : 7,
+		"code" : 20111600,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20111601
+	},
+	
+	{
+		"bornTime" : 7,
+		"code" : 20113000,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20113001
+	},
+	
+	{
+		"bornTime" : 7,
+		"code" : 20113100,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20113101
+	},
+	
+	{
+		"code" : 20115004,
+		"maxLife" : 10000,
+		"noticeText" : "灵柱被摧毁，周围的怪物血量减半！！！",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20115000
+	},
+	
+	{
+		"code" : 20115101,
+		"maxLife" : 10000,
+		"noticeText" : "小怪自爆，迅速远离！！！",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20115100
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 20115102,
+		"maxLife" : 10000,
+		"noticeText" : "BOSS召唤自爆的小怪，注意躲避!!!",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20115101
+	},
+	
+	{
+		"code" : 20115201,
+		"maxLife" : 10000,
+		"noticeText" : "怪物死亡攻击力提升50%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20115200
+	},
+	
+	{
+		"code" : 20115202,
+		"maxLife" : 10000,
+		"noticeText" : "怪物死亡获得免伤10%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20115201
+	},
+	
+	{
+		"code" : 20810103,
+		"decLife" : 2000,
+		"maxLife" : 10000,
+		"noticeText" : "擅闯者死",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20810101
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 20810109,
+		"decLife" : 2000,
+		"maxLife" : 10000,
+		"noticeText" : "擅闯者死",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20810102
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 20810109,
+		"decLife" : 2000,
+		"maxLife" : 10000,
+		"noticeText" : "擅闯者死",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20810202
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 20810109,
+		"decLife" : 2000,
+		"maxLife" : 10000,
+		"noticeText" : "擅闯者死",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20810302
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 20810109,
+		"decLife" : 2000,
+		"maxLife" : 10000,
+		"noticeText" : "擅闯者死",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20810402
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 20810109,
+		"decLife" : 2000,
+		"maxLife" : 10000,
+		"noticeText" : "擅闯者死",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20810502
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 20810109,
+		"decLife" : 2000,
+		"maxLife" : 10000,
+		"noticeText" : "擅闯者死",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20810602
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 20810109,
+		"decLife" : 2000,
+		"maxLife" : 10000,
+		"noticeText" : "擅闯者死",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20810702
+	},
+	
+	{
+		"code" : 20810203,
+		"decLife" : 2000,
+		"maxLife" : 10000,
+		"noticeText" : "擅闯者死",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20810201
+	},
+	
+	{
+		"code" : 20810303,
+		"decLife" : 2000,
+		"maxLife" : 10000,
+		"noticeText" : "擅闯者死",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20810301
+	},
+	
+	{
+		"code" : 20810403,
+		"decLife" : 2000,
+		"maxLife" : 10000,
+		"noticeText" : "擅闯者死",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20810401
+	},
+	
+	{
+		"code" : 20810503,
+		"decLife" : 2000,
+		"maxLife" : 10000,
+		"noticeText" : "擅闯者死",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20810501
+	},
+	
+	{
+		"code" : 20810603,
+		"decLife" : 2000,
+		"maxLife" : 10000,
+		"noticeText" : "擅闯者死",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20810601
+	},
+	
+	{
+		"code" : 20810703,
+		"decLife" : 2000,
+		"maxLife" : 10000,
+		"noticeText" : "擅闯者死",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20810701
+	},
+	
+	{
+		"code" : 24000001,
+		"maxLife" : 10000,
+		"noticeText" : "恭喜！打破水晶，怪物掉率提升20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24000001
+	},
+	
+	{
+		"code" : 24000004,
+		"maxLife" : 10000,
+		"noticeText" : "真遗憾，打破克制怪物的水晶，怪物生命增加20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24002023
+	},
+	
+	{
+		"code" : 24000005,
+		"maxLife" : 10000,
+		"noticeText" : "真聪明！打破怪物相生的水晶，怪物生命减少20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24001022
+	},
+	
+	{
+		"code" : 24000011,
+		"maxLife" : 10000,
+		"noticeText" : "真遗憾，打破克制怪物的水晶，怪物生命增加20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24002023
+	},
+	
+	{
+		"code" : 24000012,
+		"maxLife" : 10000,
+		"noticeText" : "恭喜！打破水晶，怪物掉率提升20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24000011
+	},
+	
+	{
+		"code" : 24000013,
+		"maxLife" : 10000,
+		"noticeText" : "真聪明！打破怪物相生的水晶，怪物生命减少20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24001022
+	},
+	
+	{
+		"code" : 24000021,
+		"maxLife" : 10000,
+		"noticeText" : "真聪明！打破怪物相生的水晶，怪物生命减少20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24001022
+	},
+	
+	{
+		"code" : 24000023,
+		"maxLife" : 10000,
+		"noticeText" : "恭喜！打破水晶，怪物掉率提升20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24000021
+	},
+	
+	{
+		"code" : 24000025,
+		"maxLife" : 10000,
+		"noticeText" : "真遗憾，打破克制怪物的水晶，怪物生命增加20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24002023
+	},
+	
+	{
+		"code" : 24000032,
+		"maxLife" : 10000,
+		"noticeText" : "真聪明！打破怪物相生的水晶，怪物生命减少20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24001022
+	},
+	
+	{
+		"code" : 24000033,
+		"maxLife" : 10000,
+		"noticeText" : "真遗憾，打破克制怪物的水晶，怪物生命增加20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24002023
+	},
+	
+	{
+		"code" : 24000034,
+		"maxLife" : 10000,
+		"noticeText" : "恭喜！打破水晶，怪物掉率提升20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24000031
+	},
+	
+	{
+		"code" : 24000042,
+		"maxLife" : 10000,
+		"noticeText" : "真遗憾，打破克制怪物的水晶，怪物生命增加20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24002023
+	},
+	
+	{
+		"code" : 24000044,
+		"maxLife" : 10000,
+		"noticeText" : "真聪明！打破怪物相生的水晶，怪物生命减少20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24001022
+	},
+	
+	{
+		"code" : 24000045,
+		"maxLife" : 10000,
+		"noticeText" : "恭喜！打破水晶，怪物掉率提升20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24000041
+	},
+	
+	{
+		"code" : 24001001,
+		"maxLife" : 10000,
+		"noticeText" : "恭喜！打破水晶，怪物掉率提升20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24000001
+	},
+	
+	{
+		"code" : 24001004,
+		"maxLife" : 10000,
+		"noticeText" : "真遗憾，打破克制怪物的水晶，怪物生命增加20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24002023
+	},
+	
+	{
+		"code" : 24001005,
+		"maxLife" : 10000,
+		"noticeText" : "真聪明！打破怪物相生的水晶，怪物生命减少20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24001022
+	},
+	
+	{
+		"code" : 24001011,
+		"maxLife" : 10000,
+		"noticeText" : "真遗憾，打破克制怪物的水晶，怪物生命增加20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24002023
+	},
+	
+	{
+		"code" : 24001012,
+		"maxLife" : 10000,
+		"noticeText" : "恭喜！打破水晶，怪物掉率提升20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24000011
+	},
+	
+	{
+		"code" : 24001013,
+		"maxLife" : 10000,
+		"noticeText" : "真聪明！打破怪物相生的水晶，怪物生命减少20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24001022
+	},
+	
+	{
+		"code" : 24001021,
+		"maxLife" : 10000,
+		"noticeText" : "真聪明！打破怪物相生的水晶，怪物生命减少20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24001022
+	},
+	
+	{
+		"code" : 24001023,
+		"maxLife" : 10000,
+		"noticeText" : "恭喜！打破水晶，怪物掉率提升20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24000021
+	},
+	
+	{
+		"code" : 24001025,
+		"maxLife" : 10000,
+		"noticeText" : "真遗憾，打破克制怪物的水晶，怪物生命增加20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24002023
+	},
+	
+	{
+		"code" : 24001032,
+		"maxLife" : 10000,
+		"noticeText" : "真聪明！打破怪物相生的水晶，怪物生命减少20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24001022
+	},
+	
+	{
+		"code" : 24001033,
+		"maxLife" : 10000,
+		"noticeText" : "真遗憾，打破克制怪物的水晶，怪物生命增加20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24002023
+	},
+	
+	{
+		"code" : 24001034,
+		"maxLife" : 10000,
+		"noticeText" : "恭喜！打破水晶，怪物掉率提升20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24000031
+	},
+	
+	{
+		"code" : 24001042,
+		"maxLife" : 10000,
+		"noticeText" : "真遗憾，打破克制怪物的水晶，怪物生命增加20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24002023
+	},
+	
+	{
+		"code" : 24001044,
+		"maxLife" : 10000,
+		"noticeText" : "真聪明！打破怪物相生的水晶，怪物生命减少20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24001022
+	},
+	
+	{
+		"code" : 24001045,
+		"maxLife" : 10000,
+		"noticeText" : "恭喜！打破水晶，怪物掉率提升20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24000041
+	},
+	
+	{
+		"code" : 24002001,
+		"maxLife" : 10000,
+		"noticeText" : "恭喜！打破水晶，怪物掉率提升20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24000001
+	},
+	
+	{
+		"code" : 24002004,
+		"maxLife" : 10000,
+		"noticeText" : "真遗憾，打破克制怪物的水晶，怪物生命增加20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24002023
+	},
+	
+	{
+		"code" : 24002005,
+		"maxLife" : 10000,
+		"noticeText" : "真聪明！打破怪物相生的水晶，怪物生命减少20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24001022
+	},
+	
+	{
+		"code" : 24002011,
+		"maxLife" : 10000,
+		"noticeText" : "真遗憾，打破克制怪物的水晶，怪物生命增加20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24002023
+	},
+	
+	{
+		"code" : 24002012,
+		"maxLife" : 10000,
+		"noticeText" : "恭喜！打破水晶，怪物掉率提升20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24000011
+	},
+	
+	{
+		"code" : 24002013,
+		"maxLife" : 10000,
+		"noticeText" : "真聪明！打破怪物相生的水晶，怪物生命减少20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24001022
+	},
+	
+	{
+		"code" : 24002021,
+		"maxLife" : 10000,
+		"noticeText" : "真聪明！打破怪物相生的水晶，怪物生命减少20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24001022
+	},
+	
+	{
+		"code" : 24002023,
+		"maxLife" : 10000,
+		"noticeText" : "恭喜！打破水晶，怪物掉率提升20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24000021
+	},
+	
+	{
+		"code" : 24002025,
+		"maxLife" : 10000,
+		"noticeText" : "真遗憾，打破克制怪物的水晶，怪物生命增加20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24002023
+	},
+	
+	{
+		"code" : 24002032,
+		"maxLife" : 10000,
+		"noticeText" : "真聪明！打破怪物相生的水晶，怪物生命减少20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24001022
+	},
+	
+	{
+		"code" : 24002033,
+		"maxLife" : 10000,
+		"noticeText" : "真遗憾，打破克制怪物的水晶，怪物生命增加20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24002023
+	},
+	
+	{
+		"code" : 24002034,
+		"maxLife" : 10000,
+		"noticeText" : "恭喜！打破水晶，怪物掉率提升20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24000031
+	},
+	
+	{
+		"code" : 24002042,
+		"maxLife" : 10000,
+		"noticeText" : "真遗憾，打破克制怪物的水晶，怪物生命增加20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24002023
+	},
+	
+	{
+		"code" : 24002044,
+		"maxLife" : 10000,
+		"noticeText" : "真聪明！打破怪物相生的水晶，怪物生命减少20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24001022
+	},
+	
+	{
+		"code" : 24002045,
+		"maxLife" : 10000,
+		"noticeText" : "恭喜！打破水晶，怪物掉率提升20%",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24000041
+	},
+	
+	{
+		"code" : 24010001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010006,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010007,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010008,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010009,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010010,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010011,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010012,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010013,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010014,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010015,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010016,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010017,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010018,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010019,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010020,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010021,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010022,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010023,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010024,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010025,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010026,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010027,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010028,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010029,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010030,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010031,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010032,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010033,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010034,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010035,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010036,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010037,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010038,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010039,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010040,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010041,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010042,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010043,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010044,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010045,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010046,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010047,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010048,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010049,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010050,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010051,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010052,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010053,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010054,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010055,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010056,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010057,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010058,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010059,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010060,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010061,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010062,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010063,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010064,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010065,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010000
+	},
+	
+	{
+		"code" : 24010101,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010102,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010103,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010104,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010105,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010106,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010107,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010108,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010109,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010110,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010111,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010112,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010113,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010114,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010115,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010116,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010117,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010118,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010119,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010120,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010121,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010122,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010123,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010124,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010125,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010126,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010127,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010128,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010129,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010130,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010131,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010132,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010133,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010134,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010135,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010136,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010137,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010138,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010139,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010140,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010141,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010142,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010143,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010144,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010145,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010146,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010147,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010148,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010149,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010150,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010151,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010152,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010153,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010154,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010155,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010156,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010157,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010158,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010159,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010160,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010161,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010162,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010163,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010164,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010165,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010001
+	},
+	
+	{
+		"code" : 24010201,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010202,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010203,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010204,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010205,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010206,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010207,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010208,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010209,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010210,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010211,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010212,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010213,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010214,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010215,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010216,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010217,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010218,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010219,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010220,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010221,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010222,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010223,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010224,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010225,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010226,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010227,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010228,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010229,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010230,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010231,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010232,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010233,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010234,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010235,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010236,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010237,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010238,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010239,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010240,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010241,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010242,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010243,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010244,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010245,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010246,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010247,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010248,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010249,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010250,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010251,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010252,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010253,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010254,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010255,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010256,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010257,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010258,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010259,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010260,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010261,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010262,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010263,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010264,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24010265,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010002
+	},
+	
+	{
+		"code" : 24013000,
+		"maxLife" : 10000,
+		"noticeText" : "危险！",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24010003
+	},
+	
+	{
+		"bornTime" : 7,
+		"code" : 24020001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020002
+	},
+	
+	{
+		"code" : 24021001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021001,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021002,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021003,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021004,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021005,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021006,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021006,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021007,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021007,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021008,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021008,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021009,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021009,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021010,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021010,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021011,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021011,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021012,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021012,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021013,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021013,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021014,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021014,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021015,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021015,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021016,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021016,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021017,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021017,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021018,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021018,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021019,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021019,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021020,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021020,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021021,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021021,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021022,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021022,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021023,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021023,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021024,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021024,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021025,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021025,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021026,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021026,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021027,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021027,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021028,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021028,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021029,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021029,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021030,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021030,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021031,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021031,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021032,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021032,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021033,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021033,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021034,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021034,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021035,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021035,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021036,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021036,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021037,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021037,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021038,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021038,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021039,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021039,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021040,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021040,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021041,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021041,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021042,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021042,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021043,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021043,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021044,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021044,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021045,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021045,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021046,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021046,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021047,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021047,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021048,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021048,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021049,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021049,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021050,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021050,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021051,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021051,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021052,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021052,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021053,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021053,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021054,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021054,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021055,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021055,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021056,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021056,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021057,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021057,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021058,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021058,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021059,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021059,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021060,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021060,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021061,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021061,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021062,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021062,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021063,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021063,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021064,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021064,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021065,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021065,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021066,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021066,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021067,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021067,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021068,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021068,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24021069,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24021069,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022001,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022002,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022003,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022004,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022005,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022006,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022006,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022007,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022007,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022008,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022008,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022009,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022009,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022010,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022010,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022011,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022011,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022012,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022012,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022013,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022013,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022014,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022014,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022015,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022015,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022016,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022016,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022017,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022017,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022018,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022018,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022019,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022019,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022020,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022020,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022021,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022021,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022022,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022022,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022023,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022023,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022024,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022024,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022025,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022025,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022026,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022026,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022027,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022027,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022028,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022028,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022029,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022029,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022030,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022030,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022031,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022031,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022032,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022032,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022033,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022033,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022034,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022034,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022035,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022035,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022036,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022036,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022037,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022037,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022038,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022038,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022039,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022039,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022040,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022040,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022041,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022041,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022042,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022042,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022043,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022043,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022044,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022044,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022045,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022045,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022046,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022046,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022047,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022047,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022048,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022048,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022049,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022049,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022050,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022050,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022051,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022051,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022052,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022052,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022053,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022053,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022054,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022054,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022055,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022055,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022056,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022056,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022057,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022057,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022058,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022058,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022059,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022059,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022060,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022060,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022061,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022061,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022062,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022062,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022063,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022063,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022064,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022064,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022065,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022065,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022066,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022066,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022067,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022067,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022068,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022068,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24022069,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24022069,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023001,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023002,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023003,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023004,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023005,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023006,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023006,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023007,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023007,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023008,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023008,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023009,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023009,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023010,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023010,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023011,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023011,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023012,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023012,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023013,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023013,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023014,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023014,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023015,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023015,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023016,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023016,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023017,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023017,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023018,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023018,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023019,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023019,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023020,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023020,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023021,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023021,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023022,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023022,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023023,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023023,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023024,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023024,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023025,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023025,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023026,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023026,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023027,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023027,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023028,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023028,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023029,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023029,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023030,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023030,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023031,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023031,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023032,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023032,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023033,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023033,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023034,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023034,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023035,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023035,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023036,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023036,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023037,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023037,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023038,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023038,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023039,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023039,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023040,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023040,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023041,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023041,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023042,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023042,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023043,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023043,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023044,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023044,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023045,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023045,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023046,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023046,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023047,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023047,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023048,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023048,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023049,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023049,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023050,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023050,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023051,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023051,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023052,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023052,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023053,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023053,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023054,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023054,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023055,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023055,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023056,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023056,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023057,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023057,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023058,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023058,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023059,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023059,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023060,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023060,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023061,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023061,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023062,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023062,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023063,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023063,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023064,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023064,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023065,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023065,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023066,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023066,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023067,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023067,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023068,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023068,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24023069,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24023069,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024001,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024002,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024003,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024004,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024005,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024006,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024006,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024007,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024007,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024008,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024008,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024009,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024009,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024010,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024010,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024011,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024011,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024012,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024012,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024013,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024013,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024014,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024014,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024015,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024015,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024016,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024016,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024017,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024017,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024018,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024018,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024019,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024019,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024020,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024020,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024021,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024021,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024022,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024022,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024023,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024023,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024024,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024024,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024025,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024025,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024026,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024026,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024027,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024027,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024028,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024028,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024029,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024029,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024030,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024030,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024031,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024031,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024032,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024032,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024033,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024033,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024034,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024034,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024035,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024035,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024036,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024036,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024037,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024037,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024038,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024038,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024039,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024039,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024040,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024040,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024041,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024041,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024042,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024042,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024043,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024043,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024044,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024044,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024045,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024045,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024046,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024046,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024047,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024047,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024048,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024048,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024049,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024049,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024050,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024050,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024051,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024051,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024052,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024052,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024053,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024053,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024054,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024054,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024055,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024055,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024056,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024056,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024057,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024057,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024058,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024058,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024059,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024059,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024060,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024060,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024061,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024061,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024062,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024062,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024063,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024063,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024064,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024064,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024065,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024065,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024066,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024066,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024067,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024067,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024068,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024068,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24024069,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24024069,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025001,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025002,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025003,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025004,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025005,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025006,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025006,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025007,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025007,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025008,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025008,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025009,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025009,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025010,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025010,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025011,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025011,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025012,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025012,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025013,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025013,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025014,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025014,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025015,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025015,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025016,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025016,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025017,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025017,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025018,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025018,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025019,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025019,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025020,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025020,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025021,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025021,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025022,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025022,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025023,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025023,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025024,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025024,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025025,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025025,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025026,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025026,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025027,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025027,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025028,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025028,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025029,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025029,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025030,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025030,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025031,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025031,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025032,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025032,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025033,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025033,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025034,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025034,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025035,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025035,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025036,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025036,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025037,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025037,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025038,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025038,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025039,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025039,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025040,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025040,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025041,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025041,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025042,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025042,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025043,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025043,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025044,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025044,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025045,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025045,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025046,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025046,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025047,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025047,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025048,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025048,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025049,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025049,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025050,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025050,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025051,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025051,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025052,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025052,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025053,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025053,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025054,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025054,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025055,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025055,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025056,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025056,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025057,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025057,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025058,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025058,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025059,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025059,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025060,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025060,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025061,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025061,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025062,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025062,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025063,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025063,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025064,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025064,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025065,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025065,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025066,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025066,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025067,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025067,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025068,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025068,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24025069,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24020000
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 24025069,
+		"maxLife" : 10000,
+		"noticeText" : "光圈危险，快躲开！！！",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24020001
+	},
+	
+	{
+		"code" : 24050001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24050001
+	},
+	
+	{
+		"code" : 24050002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24050002
+	},
+	
+	{
+		"code" : 24050003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24050003
+	},
+	
+	{
+		"code" : 24050004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24050004
+	},
+	
+	{
+		"code" : 24050005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24050005
+	},
+	
+	{
+		"code" : 24050101,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24050011
+	},
+	
+	{
+		"code" : 24050102,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24050012
+	},
+	
+	{
+		"code" : 24050103,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24050013
+	},
+	
+	{
+		"code" : 24050104,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24050014
+	},
+	
+	{
+		"code" : 24050105,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24050015
+	},
+	
+	{
+		"code" : 24050201,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24050021
+	},
+	
+	{
+		"code" : 24050201,
+		"maxLife" : 10000,
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24050026
+	},
+	
+	{
+		"code" : 24050202,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24050022
+	},
+	
+	{
+		"code" : 24050202,
+		"maxLife" : 10000,
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24050027
+	},
+	
+	{
+		"code" : 24050203,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24050023
+	},
+	
+	{
+		"code" : 24050203,
+		"maxLife" : 10000,
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24050028
+	},
+	
+	{
+		"code" : 24050204,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24050024
+	},
+	
+	{
+		"code" : 24050204,
+		"maxLife" : 10000,
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24050029
+	},
+	
+	{
+		"code" : 24050205,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24050025
+	},
+	
+	{
+		"code" : 24050205,
+		"maxLife" : 10000,
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 24050030
+	},
+	
+	{
+		"code" : 24050301,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24050031
+	},
+	
+	{
+		"code" : 24050302,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24050032
+	},
+	
+	{
+		"code" : 24050303,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24050033
+	},
+	
+	{
+		"code" : 24050304,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24050034
+	},
+	
+	{
+		"code" : 24050305,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24050035
+	},
+	
+	{
+		"code" : 24070002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24071001
+	},
+	
+	{
+		"code" : 24070003,
+		"maxLife" : 10000,
+		"noticeText" : "蝴蝶精灵正在给BOSS回血，优先击杀，效率加倍！",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24071000
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 24071002,
+		"maxLife" : 10000,
+		"noticeText" : "王母召唤了神树，免伤大大提高，优先打树！",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24071003
+	},
+	
+	{
+		"code" : 24071004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 24071004
+	},
+	
+	{
+		"code" : 24080201,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 24080202,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 24080203,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 24080204,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 24080205,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 24080206,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 24080207,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 24080208,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 24080301,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 24080302,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 24080303,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 25000001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 25000002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 25000003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 25000004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 25000005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 25000006,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 25000007,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 25000008,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 25000009,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 25000011,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 25000012,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 25000013,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 25000014,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 25000015,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 25000016,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 25000017,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 25000018,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 25000019,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 30080001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100002
+	},
+	
+	{
+		"code" : 30080002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100002
+	},
+	
+	{
+		"code" : 30080003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100002
+	},
+	
+	{
+		"code" : 30080004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100002
+	},
+	
+	{
+		"code" : 30080005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100002
+	},
+	
+	{
+		"code" : 30080006,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100002
+	},
+	
+	{
+		"code" : 30080007,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100002
+	},
+	
+	{
+		"code" : 30080008,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100002
+	},
+	
+	{
+		"code" : 30080009,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100002
+	},
+	
+	{
+		"code" : 30080010,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100002
+	},
+	
+	{
+		"code" : 30080011,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100002
+	},
+	
+	{
+		"code" : 30080012,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100002
+	},
+	
+	{
+		"code" : 30080013,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100002
+	},
+	
+	{
+		"code" : 30080014,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100002
+	},
+	
+	{
+		"code" : 30080015,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100002
+	},
+	
+	{
+		"code" : 30080016,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100002
+	},
+	
+	{
+		"code" : 30080017,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100002
+	},
+	
+	{
+		"code" : 30080018,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100002
+	},
+	
+	{
+		"code" : 30080019,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100002
+	},
+	
+	{
+		"code" : 30080020,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100002
+	},
+	
+	{
+		"code" : 50801000,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 50801000,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 50801000,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 50801001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 50801001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 50801001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 50801002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 50801002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 50801002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 50801003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 50801003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 50801003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 50801004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 50801004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 50801004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 50801005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 50801005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 50801005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 50801006,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 50801006,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 50801006,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 50801007,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 50801007,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 50801007,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 50801008,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 50801008,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 50801008,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 50801009,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 50801009,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 50801009,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 50801010,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 50801010,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 50801010,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 50801011,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 50801011,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 50801011,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 50801012,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 50801012,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 50801012,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 50801013,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 50801013,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 50801013,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 50801014,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 50801014,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 50801014,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 50801015,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 50801015,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 50801015,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 50801016,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 50801016,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 50801016,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 50801017,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 50801017,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 50801017,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 50801018,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 50801018,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 50801018,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 50801019,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 50801019,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 50801019,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"bornTime" : 40,
+		"code" : 201540104,
+		"maxLife" : 10000,
+		"noticeSec" : 2,
+		"noticeText" : "BOSS四周出现蜘蛛蛹",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66201001
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 202540104,
+		"maxLife" : 10000,
+		"noticeText" : "分身死亡，BOSS攻击力会暴涨",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66306001
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 202540104,
+		"decLife" : 1500,
+		"maxLife" : 10000,
+		"noticeSec" : 2,
+		"noticeText" : "BOSS放技能，注意躲避",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 66406001
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 203540104,
+		"maxLife" : 10000,
+		"noticeSec" : 2,
+		"noticeText" : "击杀小怪可削弱BOSS血量",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66307001
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 203540104,
+		"decLife" : 1000,
+		"maxLife" : 10000,
+		"noticeSec" : 2,
+		"noticeText" : "BOSS放技能，注意躲避",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 66407001
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 204540104,
+		"maxLife" : 10000,
+		"noticeSec" : 2,
+		"noticeText" : "击杀小怪会给BOSS回血，请谨慎",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66307003
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 204540104,
+		"decLife" : 1000,
+		"maxLife" : 10000,
+		"noticeSec" : 2,
+		"noticeText" : "BOSS放技能，注意躲避",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 66407003
+	},
+	
+	{
+		"bornTime" : 30,
+		"code" : 205540104,
+		"maxLife" : 10000,
+		"noticeSec" : 2,
+		"noticeText" : "小的们，给我加持“坚不可摧”",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66307005
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 205540104,
+		"decLife" : 1000,
+		"maxLife" : 10000,
+		"noticeSec" : 2,
+		"noticeText" : "BOSS放技能，注意躲避",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 66407005
+	},
+	
+	{
+		"bornTime" : 30,
+		"code" : 206540104,
+		"maxLife" : 10000,
+		"noticeText" : "击杀小怪可增加对BOSS伤害",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66307008
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 206540104,
+		"decLife" : 1000,
+		"maxLife" : 10000,
+		"noticeText" : "BOSS放技能，注意躲避",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 66407007
+	},
+	
+	{
+		"code" : 206901014,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20690103
+	},
+	
+	{
+		"code" : 206902014,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20690103
+	},
+	
+	{
+		"code" : 206903014,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20690103
+	},
+	
+	{
+		"code" : 206904014,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20690103
+	},
+	
+	{
+		"code" : 206905014,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20690103
+	},
+	
+	{
+		"code" : 206906014,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20690103
+	},
+	
+	{
+		"code" : 206907014,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20690103
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 207501002,
+		"decLife" : 3000,
+		"maxLife" : 10000,
+		"noticeSec" : 1,
+		"noticeText" : "中埋伏了，小的们，上",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20750102
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 207501003,
+		"maxLife" : 10000,
+		"noticeSec" : 1,
+		"noticeText" : "巨石投掷",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20750101
+	},
+	
+	{
+		"code" : 207501004,
+		"maxLife" : 10000,
+		"noticeText" : "荆棘巨木出现，快躲开",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20750104
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 207502002,
+		"decLife" : 3000,
+		"maxLife" : 10000,
+		"noticeSec" : 1,
+		"noticeText" : "中埋伏了，小的们，上",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20750102
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 207503002,
+		"decLife" : 3000,
+		"maxLife" : 10000,
+		"noticeSec" : 1,
+		"noticeText" : "中埋伏了，小的们，上",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20750102
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 207504002,
+		"decLife" : 3000,
+		"maxLife" : 10000,
+		"noticeSec" : 1,
+		"noticeText" : "中埋伏了，小的们，上",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20750102
+	},
+	
+	{
+		"bornTime" : 5,
+		"code" : 207505002,
+		"decLife" : 3000,
+		"maxLife" : 10000,
+		"noticeSec" : 1,
+		"noticeText" : "中埋伏了，小的们，上",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20750102
+	},
+	
+	{
+		"code" : 207511002,
+		"decLife" : 3000,
+		"maxLife" : 10000,
+		"noticeSec" : 1,
+		"noticeText" : "狮王施放“无坚不摧”不要与他硬抗",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20750103
+	},
+	
+	{
+		"code" : 207512002,
+		"decLife" : 3000,
+		"maxLife" : 10000,
+		"noticeSec" : 1,
+		"noticeText" : "狮王施放“无坚不摧”不要与他硬抗",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20750103
+	},
+	
+	{
+		"code" : 207513002,
+		"decLife" : 3000,
+		"maxLife" : 10000,
+		"noticeSec" : 1,
+		"noticeText" : "狮王施放“无坚不摧”不要与他硬抗",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20750103
+	},
+	
+	{
+		"code" : 207514002,
+		"decLife" : 3000,
+		"maxLife" : 10000,
+		"noticeSec" : 1,
+		"noticeText" : "狮王施放“无坚不摧”不要与他硬抗",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20750103
+	},
+	
+	{
+		"code" : 207515002,
+		"decLife" : 3000,
+		"maxLife" : 10000,
+		"noticeSec" : 1,
+		"noticeText" : "狮王施放“无坚不摧”不要与他硬抗",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20750103
+	},
+	
+	{
+		"code" : 207521002,
+		"decLife" : 3000,
+		"maxLife" : 10000,
+		"noticeSec" : 3,
+		"noticeText" : "请求森林的帮助，召唤荆棘巨木",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20750105
+	},
+	
+	{
+		"code" : 207522002,
+		"decLife" : 3000,
+		"maxLife" : 10000,
+		"noticeSec" : 3,
+		"noticeText" : "请求森林的帮助，召唤荆棘巨木",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20750105
+	},
+	
+	{
+		"code" : 207523002,
+		"decLife" : 3000,
+		"maxLife" : 10000,
+		"noticeSec" : 3,
+		"noticeText" : "请求森林的帮助，召唤荆棘巨木",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20750105
+	},
+	
+	{
+		"code" : 207524002,
+		"decLife" : 3000,
+		"maxLife" : 10000,
+		"noticeSec" : 3,
+		"noticeText" : "请求森林的帮助，召唤荆棘巨木",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20750105
+	},
+	
+	{
+		"code" : 207525002,
+		"decLife" : 3000,
+		"maxLife" : 10000,
+		"noticeSec" : 3,
+		"noticeText" : "请求森林的帮助，召唤荆棘巨木",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 20750105
+	},
+	
+	{
+		"code" : 207540104,
+		"decLife" : 500,
+		"maxLife" : 10000,
+		"noticeSec" : 2,
+		"noticeText" : "注意发疯的猪，他会冲晕你",
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 66307010
+	},
+	
+	{
+		"bornTime" : 10,
+		"code" : 207540104,
+		"decLife" : 1000,
+		"maxLife" : 10000,
+		"noticeSec" : 2,
+		"noticeText" : "BOSS放技能，注意躲避",
+		"order" : 2,
+		"rate" : 100,
+		"skillId" : 66407009
+	},
+	
+	{
+		"code" : 505203001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505203001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505203001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505203002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505203002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505203002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505203003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505203003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505203003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505203004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505203004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505203004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505203005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505203005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505203005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505203006,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505203006,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505203006,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505203007,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505203007,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505203007,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505204001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505204001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505204001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505204002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505204002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505204002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505204003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505204003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505204003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505204004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505204004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505204004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505204005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505204005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505204005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505205001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505205001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505205001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505205002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505205002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505205002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505205003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505205003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505205003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505205004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505205004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505205004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505205005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505205005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505205005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505207001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505207001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505207001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505207002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505207002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505207002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505207003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505207003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505207003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505207004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505207004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505207004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505207005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505207005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505207005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505207006,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505207006,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505207006,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505207007,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505207007,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505207007,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505207008,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505207008,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505207008,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505208001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505208001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505208001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505208002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505208002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505208002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505208003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505208003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505208003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505208004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505208004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505208004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505208005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505208005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505208005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505208006,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505208006,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505208006,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505209001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505209001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505209001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505209002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505209002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505209002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505209003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505209003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505209003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505209004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505209004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505209004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505209005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505209005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505209005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505210001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505210001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505210001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505210002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505210002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505210002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505210003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505210003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505210003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505210004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505210004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505210004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505210005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505210005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505210005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505211001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505211001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505211001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505211002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505211002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505211002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505211003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505211003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505211003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505211004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505211004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505211004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505217001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505217001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505217001,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505217002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505217002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505217002,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505217003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505217003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505217003,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505217004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505217004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505217004,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505217005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505217005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505217005,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505217006,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505217006,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505217006,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505217007,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505217007,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505217007,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 505217008,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 505217008,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100003
+	},
+	
+	{
+		"code" : 505217008,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100004
+	},
+	
+	{
+		"code" : 506101301,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 506101302,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 506101303,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 506101304,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 506101305,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 506101306,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 506101307,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 506101308,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 506102301,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 506102302,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 506102303,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 506102304,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 506102305,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 506102306,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 506102307,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	},
+	
+	{
+		"code" : 506102308,
+		"maxLife" : 10000,
+		"order" : 1,
+		"rate" : 100,
+		"skillId" : 67100001
+	}
+]

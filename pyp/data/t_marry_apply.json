@@ -1,0 +1,35 @@
+
+[
+	
+	{
+		"grades" : 1,
+		"itemCode" : 42210001,
+		"price" : 199,
+		"rewardShow" : "3,41950061,1#3,110120001,1#",
+		"rewardStr" : "3,110120001,1",
+		"rewardTitle" : 200040,
+		"unit" : 3
+	},
+	
+	{
+		"grades" : 2,
+		"itemCode" : 42210002,
+		"price" : 520,
+		"rewardShow" : "3,41950064,1#3,41950062,1#3,110120001,1",
+		"rewardStr" : "3,41960070,1#3,110120001,1",
+		"rewardTitle" : 200041,
+		"unit" : 2,
+		"weddingNum" : 1
+	},
+	
+	{
+		"grades" : 3,
+		"itemCode" : 42210003,
+		"price" : 1314,
+		"rewardShow" : "3,41950065,1#3,41950063,1#3,110120001,1",
+		"rewardStr" : "3,41960072,1#3,110120001,1",
+		"rewardTitle" : 200042,
+		"unit" : 2,
+		"weddingNum" : 1
+	}
+]

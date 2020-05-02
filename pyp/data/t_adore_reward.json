@@ -1,0 +1,195 @@
+
+[
+	
+	{
+		"adoreLevel" : 3,
+		"id" : 1,
+		"proMax" : 8,
+		"proMin" : 1,
+		"rewardItem" : "40311409,1"
+	},
+	
+	{
+		"adoreLevel" : 3,
+		"id" : 2,
+		"proMax" : 20,
+		"proMin" : 9,
+		"rewardItem" : "41411508,1"
+	},
+	
+	{
+		"adoreLevel" : 3,
+		"id" : 3,
+		"proMax" : 28,
+		"proMin" : 21,
+		"rewardItem" : "40151319,1"
+	},
+	
+	{
+		"adoreLevel" : 3,
+		"id" : 4,
+		"proMax" : 38,
+		"proMin" : 29,
+		"rewardItem" : "40121036,1"
+	},
+	
+	{
+		"adoreLevel" : 3,
+		"id" : 5,
+		"proMax" : 48,
+		"proMin" : 39,
+		"rewardItem" : "40451403,1"
+	},
+	
+	{
+		"adoreLevel" : 3,
+		"id" : 6,
+		"proMax" : 58,
+		"proMin" : 49,
+		"rewardItem" : "40151112,1"
+	},
+	
+	{
+		"adoreLevel" : 3,
+		"id" : 7,
+		"proMax" : 66,
+		"proMin" : 59,
+		"rewardItem" : "40311509,1"
+	},
+	
+	{
+		"adoreLevel" : 2,
+		"id" : 8,
+		"proMax" : 6,
+		"proMin" : 1,
+		"rewardItem" : "40311409,1"
+	},
+	
+	{
+		"adoreLevel" : 2,
+		"id" : 9,
+		"proMax" : 13,
+		"proMin" : 7,
+		"rewardItem" : "41411508,1"
+	},
+	
+	{
+		"adoreLevel" : 2,
+		"id" : 10,
+		"proMax" : 18,
+		"proMin" : 14,
+		"rewardItem" : "40151319,1"
+	},
+	
+	{
+		"adoreLevel" : 2,
+		"id" : 11,
+		"proMax" : 25,
+		"proMin" : 19,
+		"rewardItem" : "40121036,1"
+	},
+	
+	{
+		"adoreLevel" : 2,
+		"id" : 12,
+		"proMax" : 32,
+		"proMin" : 26,
+		"rewardItem" : "40451403,1"
+	},
+	
+	{
+		"adoreLevel" : 2,
+		"id" : 13,
+		"proMax" : 39,
+		"proMin" : 33,
+		"rewardItem" : "40151112,1"
+	},
+	
+	{
+		"adoreLevel" : 2,
+		"id" : 14,
+		"proMax" : 44,
+		"proMin" : 40,
+		"rewardItem" : "40311509,1"
+	},
+	
+	{
+		"adoreLevel" : 1,
+		"id" : 15,
+		"proMax" : 3,
+		"proMin" : 1,
+		"rewardItem" : "40311409,1"
+	},
+	
+	{
+		"adoreLevel" : 1,
+		"id" : 16,
+		"proMax" : 7,
+		"proMin" : 4,
+		"rewardItem" : "41411508,1"
+	},
+	
+	{
+		"adoreLevel" : 1,
+		"id" : 17,
+		"proMax" : 9,
+		"proMin" : 8,
+		"rewardItem" : "40151319,1"
+	},
+	
+	{
+		"adoreLevel" : 1,
+		"id" : 18,
+		"proMax" : 12,
+		"proMin" : 10,
+		"rewardItem" : "40121036,1"
+	},
+	
+	{
+		"adoreLevel" : 1,
+		"id" : 19,
+		"proMax" : 16,
+		"proMin" : 13,
+		"rewardItem" : "40451403,1"
+	},
+	
+	{
+		"adoreLevel" : 1,
+		"id" : 20,
+		"proMax" : 19,
+		"proMin" : 17,
+		"rewardItem" : "40151112,1"
+	},
+	
+	{
+		"adoreLevel" : 1,
+		"id" : 21,
+		"proMax" : 22,
+		"proMin" : 20,
+		"rewardItem" : "40311509,1"
+	},
+	
+	{
+		"adoreLevel" : 1,
+		"id" : 22,
+		"isFixedReward" : 1,
+		"proMax" : 99,
+		"rewardItem" : "40151109,1"
+	},
+	
+	{
+		"adoreLevel" : 2,
+		"id" : 23,
+		"isFixedReward" : 1,
+		"proMax" : 99,
+		"rewardItem" : "40151109,1#41661200,1"
+	},
+	
+	{
+		"adoreLevel" : 3,
+		"id" : 24,
+		"isFixedReward" : 1,
+		"proMax" : 99,
+		"rewardItem" : "40151109,1#41661300,1"
+	}
+]

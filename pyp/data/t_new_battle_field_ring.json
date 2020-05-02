@@ -1,0 +1,115 @@
+
+[
+	
+	{
+		"bossRing" : 45,
+		"copyCode" : 136,
+		"maxWarfare" : 120000.0,
+		"minWarfare" : 1.0
+	},
+	
+	{
+		"bossRing" : 47,
+		"copyCode" : 136,
+		"maxWarfare" : 138000.0,
+		"minWarfare" : 120001.0
+	},
+	
+	{
+		"bossRing" : 49,
+		"copyCode" : 136,
+		"maxWarfare" : 158700.0,
+		"minWarfare" : 138001.0
+	},
+	
+	{
+		"bossRing" : 51,
+		"copyCode" : 136,
+		"maxWarfare" : 182505.0,
+		"minWarfare" : 158701.0
+	},
+	
+	{
+		"bossRing" : 53,
+		"copyCode" : 136,
+		"maxWarfare" : 209880.0,
+		"minWarfare" : 182506.0
+	},
+	
+	{
+		"bossRing" : 55,
+		"copyCode" : 136,
+		"maxWarfare" : 241363.0,
+		"minWarfare" : 209881.0
+	},
+	
+	{
+		"bossRing" : 57,
+		"copyCode" : 136,
+		"maxWarfare" : 277567.0,
+		"minWarfare" : 241364.0
+	},
+	
+	{
+		"bossRing" : 59,
+		"copyCode" : 136,
+		"maxWarfare" : 319202.0,
+		"minWarfare" : 277568.0
+	},
+	
+	{
+		"bossRing" : 61,
+		"copyCode" : 136,
+		"maxWarfare" : 367082.0,
+		"minWarfare" : 319203.0
+	},
+	
+	{
+		"bossRing" : 63,
+		"copyCode" : 136,
+		"maxWarfare" : 422145.0,
+		"minWarfare" : 367083.0
+	},
+	
+	{
+		"bossRing" : 65,
+		"copyCode" : 136,
+		"maxWarfare" : 485466.0,
+		"minWarfare" : 422146.0
+	},
+	
+	{
+		"bossRing" : 67,
+		"copyCode" : 136,
+		"maxWarfare" : 558286.0,
+		"minWarfare" : 485467.0
+	},
+	
+	{
+		"bossRing" : 69,
+		"copyCode" : 136,
+		"maxWarfare" : 642030.0,
+		"minWarfare" : 558287.0
+	},
+	
+	{
+		"bossRing" : 71,
+		"copyCode" : 136,
+		"maxWarfare" : 738334.0,
+		"minWarfare" : 642031.0
+	},
+	
+	{
+		"bossRing" : 73,
+		"copyCode" : 136,
+		"maxWarfare" : 849084.0,
+		"minWarfare" : 738335.0
+	},
+	
+	{
+		"bossRing" : 75,
+		"copyCode" : 136,
+		"maxWarfare" : 999999999.0,
+		"minWarfare" : 849085.0
+	}
+]

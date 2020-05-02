@@ -1,0 +1,813 @@
+
+[
+	
+	{
+		"attrList" : "1,420#2,8400#3,180#4,180#",
+		"code" : 100001,
+		"desc" : "开服冲榜战力榜第一名获得",
+		"icon" : "100001",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "最强王者",
+		"showArea" : 1,
+		"warfare" : 10000.0
+	},
+	
+	{
+		"attrList" : "1,70#2,1400#3,30#4,30#",
+		"code" : 200001,
+		"desc" : "VIP1专属，升级VIP4获得更高级称号",
+		"icon" : "200001",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "青铜地仙",
+		"showArea" : 1,
+		"warfare" : 2000.0
+	},
+	
+	{
+		"attrList" : "1,140#2,2800#3,60#4,60#",
+		"broadcastStr" : "<MsgObj>COLOR,2,攻击+140，生命+2800</MsgObj>等海量属性",
+		"code" : 200002,
+		"desc" : "VIP4专属，升级VIP6获得更高级称号",
+		"icon" : "200002",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "白金上仙",
+		"showArea" : 1,
+		"warfare" : 4000.0
+	},
+	
+	{
+		"attrList" : "1,280#2,5600#3,120#4,120#",
+		"broadcastStr" : "<MsgObj>COLOR,2,攻击+280，生命+5600</MsgObj>等海量属性",
+		"code" : 200003,
+		"desc" : "VIP6专属，升级VIP8获得更高级称号",
+		"icon" : "200003",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "星耀仙帝",
+		"showArea" : 1,
+		"warfare" : 8000.0
+	},
+	
+	{
+		"attrList" : "1,560#2,11200#3,240#4,240#",
+		"broadcastStr" : "<MsgObj>COLOR,2,攻击+560，生命+11200</MsgObj>等海量属性",
+		"code" : 200004,
+		"desc" : "VIP8专属，VIP至尊无上称号",
+		"icon" : "200004",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "无上神皇",
+		"showArea" : 1,
+		"warfare" : 16000.0
+	},
+	
+	{
+		"attrList" : "1,35#2,700#3,15#4,15#",
+		"code" : 200005,
+		"desc" : "成就点数达到2000点获得",
+		"icon" : "200005",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "初出茅庐",
+		"showArea" : 2,
+		"warfare" : 1000.0
+	},
+	
+	{
+		"attrList" : "1,70#2,1400#3,30#4,30#",
+		"code" : 200006,
+		"desc" : "成就点数达到7000点获得",
+		"icon" : "200006",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "小有成就",
+		"showArea" : 2,
+		"warfare" : 2000.0
+	},
+	
+	{
+		"attrList" : "1,140#2,2800#3,60#4,60#",
+		"code" : 200007,
+		"desc" : "成就点数达到14000点获得",
+		"icon" : "200007",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "独霸一方",
+		"showArea" : 2,
+		"warfare" : 4000.0
+	},
+	
+	{
+		"attrList" : "1,280#2,5600#3,120#4,120#",
+		"code" : 200008,
+		"desc" : "成就点数达到18000点获得",
+		"icon" : "200008",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "名震四方",
+		"showArea" : 2,
+		"warfare" : 8000.0
+	},
+	
+	{
+		"attrList" : "1,35#2,700#3,15#4,15#",
+		"code" : 200009,
+		"desc" : "击杀15万只野外怪物获得",
+		"icon" : "200009",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "怪物杀手",
+		"showArea" : 2,
+		"warfare" : 1000.0
+	},
+	
+	{
+		"attrList" : "1,70#2,1400#3,30#4,30#",
+		"code" : 200010,
+		"desc" : "击杀100万只野外怪物获得",
+		"icon" : "200010",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "怪物狩猎者",
+		"showArea" : 2,
+		"warfare" : 2000.0
+	},
+	
+	{
+		"attrList" : "1,140#2,2800#3,60#4,60#",
+		"code" : 200011,
+		"desc" : "击杀1000万只野外怪物获得",
+		"icon" : "200011",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "怪物终结者",
+		"showArea" : 2,
+		"warfare" : 4000.0
+	},
+	
+	{
+		"attrList" : "1,105#2,2100#3,45#4,45#",
+		"code" : 200012,
+		"desc" : "完成200次仙盟任务获得",
+		"icon" : "200012",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "仙盟精英",
+		"showArea" : 2,
+		"warfare" : 3000.0
+	},
+	
+	{
+		"attrList" : "1,210#2,4200#3,90#4,90#",
+		"code" : 200013,
+		"desc" : "完成500次仙盟任务获得",
+		"icon" : "200013",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "仙盟护法",
+		"showArea" : 2,
+		"warfare" : 6000.0
+	},
+	
+	{
+		"attrList" : "1,280#2,5600#3,120#4,120#",
+		"code" : 200014,
+		"desc" : "修仙论道第一名，荣获“状元”称号，希望再接再厉",
+		"existTime" : 23,
+		"icon" : "200014",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "状元",
+		"showArea" : 1,
+		"warfare" : 8000.0
+	},
+	
+	{
+		"attrList" : "1,350#2,7000#3,150#4,150#",
+		"code" : 200015,
+		"desc" : "【三界战场】活动积分排行第一名可获得",
+		"existTime" : 47,
+		"icon" : "200015",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "三界霸主",
+		"showArea" : 1,
+		"warfare" : 12000.0
+	},
+	
+	{
+		"attrList" : "1,35#2,700#3,15#4,15#",
+		"code" : 200016,
+		"desc" : "累积完成对话类型赏金任务20次",
+		"icon" : "200016",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "唠唠叨叨",
+		"showArea" : 2,
+		"warfare" : 1000.0
+	},
+	
+	{
+		"attrList" : "1,35#2,700#3,15#4,15#",
+		"code" : 200017,
+		"desc" : "完成护送美女任务20次",
+		"icon" : "200017",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "护花使者",
+		"showArea" : 2,
+		"warfare" : 1000.0
+	},
+	
+	{
+		"attrList" : "1,35#2,700#3,15#4,15#",
+		"code" : 200018,
+		"desc" : "累积获得一亿枚铜钱",
+		"icon" : "200018",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "一个小目标",
+		"showArea" : 2,
+		"warfare" : 1000.0
+	},
+	
+	{
+		"attrList" : "1,70#2,1400#3,30#4,30#",
+		"code" : 200019,
+		"desc" : "累积获得40亿铜钱",
+		"icon" : "200019",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "富可敌国",
+		"showArea" : 2,
+		"warfare" : 2000.0
+	},
+	
+	{
+		"attrList" : "1,140#2,2800#3,60#4,60#",
+		"code" : 200020,
+		"desc" : "修仙论道玩法中累积答对1000道题目",
+		"icon" : "200020",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "满腹经纶",
+		"showArea" : 2,
+		"warfare" : 4000.0
+	},
+	
+	{
+		"attrList" : "1,105#2,2100#3,45#4,45#",
+		"code" : 200021,
+		"desc" : "总成就点达到10000点",
+		"icon" : "200021",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "平步青云",
+		"showArea" : 2,
+		"warfare" : 3000.0
+	},
+	
+	{
+		"attrList" : "1,490#2,9800#3,210#4,210#",
+		"code" : 200022,
+		"desc" : "仙盟争霸中神级冠军的盟主获得",
+		"icon" : "200022",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "仙盟霸主",
+		"showArea" : 3,
+		"warfare" : 14000.0
+	},
+	
+	{
+		"attrList" : "1,35#2,700#3,15#4,15#",
+		"code" : 200023,
+		"desc" : "食用8头脆皮烧猪",
+		"icon" : "200023",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "满肚肥油",
+		"showArea" : 2,
+		"warfare" : 1000.0
+	},
+	
+	{
+		"attrList" : "1,70#2,1400#3,30#4,30#",
+		"code" : 200024,
+		"desc" : "仙盟答题中累积答对260题",
+		"icon" : "200024",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "学富五车",
+		"showArea" : 2,
+		"warfare" : 2000.0
+	},
+	
+	{
+		"attrList" : "1,105#2,2100#3,45#4,45#",
+		"code" : 200025,
+		"desc" : "累积发放100个仙盟红包",
+		"icon" : "200025",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "仙盟大腿",
+		"showArea" : 2,
+		"warfare" : 3000.0
+	},
+	
+	{
+		"attrList" : "1,70#2,1400#3,30#4,30#",
+		"code" : 200026,
+		"desc" : "活动获得",
+		"icon" : "200026",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "劳动最光荣",
+		"showArea" : 3,
+		"warfare" : 2000.0
+	},
+	
+	{
+		"attrList" : "1,70#2,1400#3,30#4,30#",
+		"code" : 200027,
+		"desc" : "活动获得",
+		"icon" : "200027",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "我只粽意你",
+		"showArea" : 3,
+		"warfare" : 2000.0
+	},
+	
+	{
+		"attrList" : "1,70#2,1400#3,30#4,30#",
+		"code" : 200028,
+		"desc" : "活动获得",
+		"icon" : "200028",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "我是孩子王",
+		"showArea" : 3,
+		"warfare" : 2000.0
+	},
+	
+	{
+		"attrList" : "1,70#2,1400#3,30#4,30#",
+		"code" : 200029,
+		"desc" : "活动获得",
+		"icon" : "200029",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "我们毕业啦",
+		"showArea" : 3,
+		"warfare" : 2000.0
+	},
+	
+	{
+		"attrList" : "1,70#2,1400#3,30#4,30#",
+		"code" : 200030,
+		"desc" : "活动获得",
+		"icon" : "200030",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "爸气十足",
+		"showArea" : 3,
+		"warfare" : 2000.0
+	},
+	
+	{
+		"attrList" : "1,70#2,1400#3,30#4,30#",
+		"code" : 200031,
+		"desc" : "活动获得",
+		"icon" : "200031",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "冲浪达人",
+		"showArea" : 3,
+		"warfare" : 2000.0
+	},
+	
+	{
+		"attrList" : "1,70#2,1400#3,30#4,30#",
+		"code" : 200032,
+		"desc" : "活动获得",
+		"icon" : "200032",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "百乐无穷",
+		"showArea" : 3,
+		"warfare" : 2000.0
+	},
+	
+	{
+		"attrList" : "1,1314#2,5200#",
+		"code" : 200033,
+		"desc" : "活动获得",
+		"icon" : "200033",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "至尊情圣",
+		"showArea" : 3,
+		"warfare" : 15740.0
+	},
+	
+	{
+		"attrList" : "1,1314#2,5200#",
+		"code" : 200034,
+		"desc" : "活动获得",
+		"icon" : "200034",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "绝世佳人",
+		"showArea" : 3,
+		"warfare" : 15740.0
+	},
+	
+	{
+		"attrList" : "1,920#2,3344#",
+		"code" : 200035,
+		"desc" : "活动获得",
+		"icon" : "200035",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "风流倜傥",
+		"showArea" : 3,
+		"warfare" : 10872.0
+	},
+	
+	{
+		"attrList" : "1,920#2,3344#",
+		"code" : 200036,
+		"desc" : "活动获得",
+		"icon" : "200036",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "倾国倾城",
+		"showArea" : 3,
+		"warfare" : 10872.0
+	},
+	
+	{
+		"attrList" : "1,520#2,1999#",
+		"code" : 200037,
+		"desc" : "活动获得",
+		"icon" : "200037",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "一表人才",
+		"showArea" : 3,
+		"warfare" : 6200.0
+	},
+	
+	{
+		"attrList" : "1,520#2,1999#",
+		"code" : 200038,
+		"desc" : "活动获得",
+		"icon" : "200038",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "花容月貌",
+		"showArea" : 3,
+		"warfare" : 6200.0
+	},
+	
+	{
+		"attrList" : "1,1314#2,9999#7,520",
+		"code" : 200039,
+		"desc" : "活动获得",
+		"icon" : "200039",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "三生三世完美情人",
+		"showArea" : 3,
+		"warfare" : 23340.0
+	},
+	
+	{
+		"attrList" : "1,99#2,1314#",
+		"code" : 200040,
+		"desc" : "结婚专属称号",
+		"icon" : "200040",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "郎才女貌",
+		"showArea" : 4,
+		"warfare" : 1647.0
+	},
+	
+	{
+		"attrList" : "1,147#2,1999#",
+		"code" : 200041,
+		"desc" : "结婚专属称号",
+		"icon" : "200041",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "天作之合",
+		"showArea" : 4,
+		"warfare" : 2470.0
+	},
+	
+	{
+		"attrList" : "1,200#2,3344#",
+		"code" : 200042,
+		"desc" : "结婚专属称号",
+		"icon" : "200042",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "神仙眷侣",
+		"showArea" : 4,
+		"warfare" : 3672.0
+	},
+	
+	{
+		"attrList" : "1,500#2,10000#3,250#4,250#",
+		"code" : 200043,
+		"desc" : "【神魔战场】活动积分排行第一名可获得",
+		"existTime" : 167,
+		"icon" : "200043",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "天神下凡",
+		"showArea" : 3,
+		"warfare" : 15000.0
+	},
+	
+	{
+		"attrList" : "1,70#2,1400#3,30#4,30#",
+		"code" : 200044,
+		"desc" : "感恩节活动专属称号",
+		"icon" : "200044",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "感谢有你",
+		"showArea" : 3,
+		"warfare" : 2000.0
+	},
+	
+	{
+		"attrList" : "1,70#2,1400#3,30#4,30#",
+		"code" : 200045,
+		"desc" : "建军节活动专属称号",
+		"icon" : "200045",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "最可爱的人",
+		"showArea" : 3,
+		"warfare" : 2000.0
+	},
+	
+	{
+		"attrList" : "1,99#2,1520#3,33#4,44#",
+		"category" : 4,
+		"code" : 200046,
+		"condition" : "1,20#4,2013",
+		"desc" : "仙侣专属称号",
+		"icon" : "200046",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "两情相悦",
+		"showArea" : 4,
+		"warfare" : 2300.0
+	},
+	
+	{
+		"attrList" : "1,199#2,3344#3,99#4,99#",
+		"broadcastStr" : "<MsgObj>COLOR,2,攻击+199，生命+3344</MsgObj>等海量属性",
+		"category" : 4,
+		"code" : 200047,
+		"condition" : "1,30#2,2001#4,3344",
+		"desc" : "仙侣专属称号",
+		"icon" : "200047",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "相亲相爱",
+		"showArea" : 4,
+		"warfare" : 5200.0
+	},
+	
+	{
+		"attrList" : "1,299#2,5200#3,120#4,120#",
+		"broadcastStr" : "<MsgObj>COLOR,2,攻击+299，生命+5200</MsgObj>等海量属性",
+		"category" : 4,
+		"code" : 200048,
+		"condition" : "1,40#2,2002#4,5200",
+		"desc" : "仙侣专属称号",
+		"icon" : "200048",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "相濡以沫",
+		"showArea" : 4,
+		"warfare" : 7999.0
+	},
+	
+	{
+		"attrList" : "1,399#2,6999#3,150#4,150#",
+		"broadcastStr" : "<MsgObj>COLOR,2,攻击+399，生命+6999</MsgObj>等海量属性",
+		"category" : 4,
+		"code" : 200049,
+		"condition" : "1,50#2,2004#4,9999",
+		"desc" : "仙侣专属称号",
+		"icon" : "200049",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "白头偕老",
+		"showArea" : 4,
+		"warfare" : 10000.0
+	},
+	
+	{
+		"attrList" : "1,599#2,12920#3,256#4,256#",
+		"broadcastStr" : "<MsgObj>COLOR,2,攻击+599，生命+12920</MsgObj>等海量属性",
+		"category" : 4,
+		"code" : 200050,
+		"condition" : "1,60#2,2005#4,16920",
+		"desc" : "仙侣专属称号",
+		"icon" : "200050",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "矢志不渝",
+		"showArea" : 4,
+		"warfare" : 13140.0
+	},
+	
+	{
+		"attrList" : "1,400#2,9000#3,200#4,200#",
+		"code" : 200055,
+		"desc" : "【神魔战场】活动积分排行第二、三名可获得",
+		"existTime" : 167,
+		"icon" : "200055",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "斗战狂魔",
+		"showArea" : 3,
+		"warfare" : 14000.0
+	},
+	
+	{
+		"attrList" : "1,360#2,8000#3,150#4,150#",
+		"code" : 200056,
+		"desc" : "【神魔战场】活动积分排行第四、五名可获得",
+		"existTime" : 167,
+		"icon" : "200056",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "神魔猎人",
+		"showArea" : 3,
+		"warfare" : 13000.0
+	},
+	
+	{
+		"attrList" : "1,70#2,1400#3,30#4,30#",
+		"code" : 200057,
+		"desc" : "老玩家回归活动专属称号",
+		"icon" : "200057",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "荣耀回归",
+		"showArea" : 3,
+		"warfare" : 2000.0
+	},
+	
+	{
+		"attrList" : "1,70#2,1400#3,30#4,30#",
+		"code" : 200058,
+		"desc" : "活动获得",
+		"icon" : "200058",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "乐不思暑",
+		"showArea" : 3,
+		"warfare" : 2000.0
+	},
+	
+	{
+		"attrList" : "1,1314#2,7777",
+		"code" : 200059,
+		"desc" : "活动获得",
+		"icon" : "200059",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "才貌双绝万人仰",
+		"showArea" : 3,
+		"warfare" : 17000.0
+	},
+	
+	{
+		"attrList" : "1,999#2,7777",
+		"code" : 200060,
+		"desc" : "活动获得",
+		"icon" : "200060",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "玉树临风高富帅",
+		"showArea" : 3,
+		"warfare" : 13800.0
+	},
+	
+	{
+		"attrList" : "1,520#2,7777",
+		"code" : 200061,
+		"desc" : "活动获得",
+		"icon" : "200061",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "英俊潇洒大情圣",
+		"showArea" : 3,
+		"warfare" : 9100.0
+	},
+	
+	{
+		"attrList" : "1,1314#2,7777",
+		"code" : 200062,
+		"desc" : "活动获得",
+		"icon" : "200062",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "风华绝代万人迷",
+		"showArea" : 3,
+		"warfare" : 17000.0
+	},
+	
+	{
+		"attrList" : "1,999#2,7777",
+		"code" : 200063,
+		"desc" : "活动获得",
+		"icon" : "200063",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "回眸一笑百媚生",
+		"showArea" : 3,
+		"warfare" : 13800.0
+	},
+	
+	{
+		"attrList" : "1,520#2,7777",
+		"code" : 200064,
+		"desc" : "活动获得",
+		"icon" : "200064",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "窈窕淑女君好逑",
+		"showArea" : 3,
+		"warfare" : 9100.0
+	},
+	
+	{
+		"attrList" : "1,400#2,8000#3,200#4,200#",
+		"code" : 200065,
+		"desc" : "活动获得",
+		"icon" : "200065",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "富甲天下",
+		"showArea" : 3,
+		"warfare" : 12000.0
+	},
+	
+	{
+		"attrList" : "1,350#2,7000#3,150#4,150#",
+		"code" : 200066,
+		"desc" : "活动获得",
+		"icon" : "200066",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "家财万贯",
+		"showArea" : 3,
+		"warfare" : 10000.0
+	},
+	
+	{
+		"attrList" : "1,250#2,5000#3,50#4,50#",
+		"code" : 200067,
+		"desc" : "活动获得",
+		"icon" : "200067",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "一掷千金",
+		"showArea" : 3,
+		"warfare" : 6000.0
+	},
+	
+	{
+		"attrList" : "1,50#2,1000#3,50#4,50#",
+		"code" : 200068,
+		"desc" : "活动获得",
+		"icon" : "200068",
+		"iconType" : 2,
+		"isShow" : 1,
+		"name" : "小有钱财",
+		"showArea" : 3,
+		"warfare" : 2000.0
+	},
+	
+	{
+		"code" : 980000,
+		"desc" : "修仙论道第一名",
+		"icon" : "980000",
+		"iconType" : 2,
+		"name" : "优胜"
+	}
+]

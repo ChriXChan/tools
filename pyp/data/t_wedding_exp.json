@@ -1,0 +1,3433 @@
+
+[
+	
+	{
+		"experience" : 291,
+		"id" : 1,
+		"level" : 20,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 316,
+		"id" : 2,
+		"level" : 21,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 342,
+		"id" : 3,
+		"level" : 22,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 368,
+		"id" : 4,
+		"level" : 23,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 396,
+		"id" : 5,
+		"level" : 24,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 425,
+		"id" : 6,
+		"level" : 25,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 454,
+		"id" : 7,
+		"level" : 26,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 485,
+		"id" : 8,
+		"level" : 27,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 516,
+		"id" : 9,
+		"level" : 28,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 549,
+		"id" : 10,
+		"level" : 29,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 582,
+		"id" : 11,
+		"level" : 30,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 617,
+		"id" : 12,
+		"level" : 31,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 652,
+		"id" : 13,
+		"level" : 32,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 688,
+		"id" : 14,
+		"level" : 33,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 726,
+		"id" : 15,
+		"level" : 34,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 764,
+		"id" : 16,
+		"level" : 35,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 803,
+		"id" : 17,
+		"level" : 36,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 844,
+		"id" : 18,
+		"level" : 37,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 885,
+		"id" : 19,
+		"level" : 38,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 927,
+		"id" : 20,
+		"level" : 39,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 970,
+		"id" : 21,
+		"level" : 40,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 1015,
+		"id" : 22,
+		"level" : 41,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 1060,
+		"id" : 23,
+		"level" : 42,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 1106,
+		"id" : 24,
+		"level" : 43,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 1153,
+		"id" : 25,
+		"level" : 44,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 1201,
+		"id" : 26,
+		"level" : 45,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 1250,
+		"id" : 27,
+		"level" : 46,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 1300,
+		"id" : 28,
+		"level" : 47,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 1351,
+		"id" : 29,
+		"level" : 48,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 1403,
+		"id" : 30,
+		"level" : 49,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 1456,
+		"id" : 31,
+		"level" : 50,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 1509,
+		"id" : 32,
+		"level" : 51,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 1564,
+		"id" : 33,
+		"level" : 52,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 1620,
+		"id" : 34,
+		"level" : 53,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 1677,
+		"id" : 35,
+		"level" : 54,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 1735,
+		"id" : 36,
+		"level" : 55,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 1793,
+		"id" : 37,
+		"level" : 56,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 1853,
+		"id" : 38,
+		"level" : 57,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 1914,
+		"id" : 39,
+		"level" : 58,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 1975,
+		"id" : 40,
+		"level" : 59,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 2038,
+		"id" : 41,
+		"level" : 60,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 2101,
+		"id" : 42,
+		"level" : 61,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 2166,
+		"id" : 43,
+		"level" : 62,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 2231,
+		"id" : 44,
+		"level" : 63,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 2298,
+		"id" : 45,
+		"level" : 64,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 2365,
+		"id" : 46,
+		"level" : 65,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 2434,
+		"id" : 47,
+		"level" : 66,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 2503,
+		"id" : 48,
+		"level" : 67,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 2574,
+		"id" : 49,
+		"level" : 68,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 2645,
+		"id" : 50,
+		"level" : 69,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 2717,
+		"id" : 51,
+		"level" : 70,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 2790,
+		"id" : 52,
+		"level" : 71,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 2865,
+		"id" : 53,
+		"level" : 72,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 2940,
+		"id" : 54,
+		"level" : 73,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 3016,
+		"id" : 55,
+		"level" : 74,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 3093,
+		"id" : 56,
+		"level" : 75,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 3171,
+		"id" : 57,
+		"level" : 76,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 3250,
+		"id" : 58,
+		"level" : 77,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 3330,
+		"id" : 59,
+		"level" : 78,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 3411,
+		"id" : 60,
+		"level" : 79,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 3493,
+		"id" : 61,
+		"level" : 80,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 3576,
+		"id" : 62,
+		"level" : 81,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 3660,
+		"id" : 63,
+		"level" : 82,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 3745,
+		"id" : 64,
+		"level" : 83,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 3831,
+		"id" : 65,
+		"level" : 84,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 3918,
+		"id" : 66,
+		"level" : 85,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 4006,
+		"id" : 67,
+		"level" : 86,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 4095,
+		"id" : 68,
+		"level" : 87,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 4184,
+		"id" : 69,
+		"level" : 88,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 4275,
+		"id" : 70,
+		"level" : 89,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 4367,
+		"id" : 71,
+		"level" : 90,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 4459,
+		"id" : 72,
+		"level" : 91,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 4553,
+		"id" : 73,
+		"level" : 92,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 4648,
+		"id" : 74,
+		"level" : 93,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 4743,
+		"id" : 75,
+		"level" : 94,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 4840,
+		"id" : 76,
+		"level" : 95,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 4937,
+		"id" : 77,
+		"level" : 96,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 5036,
+		"id" : 78,
+		"level" : 97,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 5135,
+		"id" : 79,
+		"level" : 98,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 5236,
+		"id" : 80,
+		"level" : 99,
+		"type" : 1
+	},
+	
+	{
+		"experience" : 582,
+		"id" : 81,
+		"level" : 20,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 632,
+		"id" : 82,
+		"level" : 21,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 683,
+		"id" : 83,
+		"level" : 22,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 737,
+		"id" : 84,
+		"level" : 23,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 792,
+		"id" : 85,
+		"level" : 24,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 849,
+		"id" : 86,
+		"level" : 25,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 908,
+		"id" : 87,
+		"level" : 26,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 969,
+		"id" : 88,
+		"level" : 27,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 1033,
+		"id" : 89,
+		"level" : 28,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 1098,
+		"id" : 90,
+		"level" : 29,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 1164,
+		"id" : 91,
+		"level" : 30,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 1233,
+		"id" : 92,
+		"level" : 31,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 1304,
+		"id" : 93,
+		"level" : 32,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 1377,
+		"id" : 94,
+		"level" : 33,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 1452,
+		"id" : 95,
+		"level" : 34,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 1528,
+		"id" : 96,
+		"level" : 35,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 1607,
+		"id" : 97,
+		"level" : 36,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 1688,
+		"id" : 98,
+		"level" : 37,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 1770,
+		"id" : 99,
+		"level" : 38,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 1854,
+		"id" : 100,
+		"level" : 39,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 1941,
+		"id" : 101,
+		"level" : 40,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 2029,
+		"id" : 102,
+		"level" : 41,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 2119,
+		"id" : 103,
+		"level" : 42,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 2212,
+		"id" : 104,
+		"level" : 43,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 2306,
+		"id" : 105,
+		"level" : 44,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 2402,
+		"id" : 106,
+		"level" : 45,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 2500,
+		"id" : 107,
+		"level" : 46,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 2600,
+		"id" : 108,
+		"level" : 47,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 2702,
+		"id" : 109,
+		"level" : 48,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 2805,
+		"id" : 110,
+		"level" : 49,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 2911,
+		"id" : 111,
+		"level" : 50,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 3019,
+		"id" : 112,
+		"level" : 51,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 3129,
+		"id" : 113,
+		"level" : 52,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 3240,
+		"id" : 114,
+		"level" : 53,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 3354,
+		"id" : 115,
+		"level" : 54,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 3469,
+		"id" : 116,
+		"level" : 55,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 3587,
+		"id" : 117,
+		"level" : 56,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 3706,
+		"id" : 118,
+		"level" : 57,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 3827,
+		"id" : 119,
+		"level" : 58,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 3950,
+		"id" : 120,
+		"level" : 59,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 4076,
+		"id" : 121,
+		"level" : 60,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 4203,
+		"id" : 122,
+		"level" : 61,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 4332,
+		"id" : 123,
+		"level" : 62,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 4463,
+		"id" : 124,
+		"level" : 63,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 4596,
+		"id" : 125,
+		"level" : 64,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 4731,
+		"id" : 126,
+		"level" : 65,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 4868,
+		"id" : 127,
+		"level" : 66,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 5006,
+		"id" : 128,
+		"level" : 67,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 5147,
+		"id" : 129,
+		"level" : 68,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 5290,
+		"id" : 130,
+		"level" : 69,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 5434,
+		"id" : 131,
+		"level" : 70,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 5581,
+		"id" : 132,
+		"level" : 71,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 5729,
+		"id" : 133,
+		"level" : 72,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 5880,
+		"id" : 134,
+		"level" : 73,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 6032,
+		"id" : 135,
+		"level" : 74,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 6186,
+		"id" : 136,
+		"level" : 75,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 6343,
+		"id" : 137,
+		"level" : 76,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 6501,
+		"id" : 138,
+		"level" : 77,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 6661,
+		"id" : 139,
+		"level" : 78,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 6823,
+		"id" : 140,
+		"level" : 79,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 6987,
+		"id" : 141,
+		"level" : 80,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 7153,
+		"id" : 142,
+		"level" : 81,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 7321,
+		"id" : 143,
+		"level" : 82,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 7491,
+		"id" : 144,
+		"level" : 83,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 7662,
+		"id" : 145,
+		"level" : 84,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 7836,
+		"id" : 146,
+		"level" : 85,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 8012,
+		"id" : 147,
+		"level" : 86,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 8189,
+		"id" : 148,
+		"level" : 87,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 8369,
+		"id" : 149,
+		"level" : 88,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 8550,
+		"id" : 150,
+		"level" : 89,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 8734,
+		"id" : 151,
+		"level" : 90,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 8919,
+		"id" : 152,
+		"level" : 91,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 9106,
+		"id" : 153,
+		"level" : 92,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 9295,
+		"id" : 154,
+		"level" : 93,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 9487,
+		"id" : 155,
+		"level" : 94,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 9680,
+		"id" : 156,
+		"level" : 95,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 9875,
+		"id" : 157,
+		"level" : 96,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 10072,
+		"id" : 158,
+		"level" : 97,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 10271,
+		"id" : 159,
+		"level" : 98,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 10472,
+		"id" : 160,
+		"level" : 99,
+		"type" : 11
+	},
+	
+	{
+		"experience" : 344,
+		"id" : 161,
+		"level" : 20,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 373,
+		"id" : 162,
+		"level" : 21,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 404,
+		"id" : 163,
+		"level" : 22,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 435,
+		"id" : 164,
+		"level" : 23,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 468,
+		"id" : 165,
+		"level" : 24,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 502,
+		"id" : 166,
+		"level" : 25,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 537,
+		"id" : 167,
+		"level" : 26,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 573,
+		"id" : 168,
+		"level" : 27,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 610,
+		"id" : 169,
+		"level" : 28,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 649,
+		"id" : 170,
+		"level" : 29,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 688,
+		"id" : 171,
+		"level" : 30,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 729,
+		"id" : 172,
+		"level" : 31,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 771,
+		"id" : 173,
+		"level" : 32,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 814,
+		"id" : 174,
+		"level" : 33,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 858,
+		"id" : 175,
+		"level" : 34,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 903,
+		"id" : 176,
+		"level" : 35,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 950,
+		"id" : 177,
+		"level" : 36,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 997,
+		"id" : 178,
+		"level" : 37,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 1046,
+		"id" : 179,
+		"level" : 38,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 1096,
+		"id" : 180,
+		"level" : 39,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 1147,
+		"id" : 181,
+		"level" : 40,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 1199,
+		"id" : 182,
+		"level" : 41,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 1252,
+		"id" : 183,
+		"level" : 42,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 1307,
+		"id" : 184,
+		"level" : 43,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 1362,
+		"id" : 185,
+		"level" : 44,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 1419,
+		"id" : 186,
+		"level" : 45,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 1477,
+		"id" : 187,
+		"level" : 46,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 1536,
+		"id" : 188,
+		"level" : 47,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 1596,
+		"id" : 189,
+		"level" : 48,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 1658,
+		"id" : 190,
+		"level" : 49,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 1720,
+		"id" : 191,
+		"level" : 50,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 1784,
+		"id" : 192,
+		"level" : 51,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 1849,
+		"id" : 193,
+		"level" : 52,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 1915,
+		"id" : 194,
+		"level" : 53,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 1982,
+		"id" : 195,
+		"level" : 54,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 2050,
+		"id" : 196,
+		"level" : 55,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 2119,
+		"id" : 197,
+		"level" : 56,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 2190,
+		"id" : 198,
+		"level" : 57,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 2261,
+		"id" : 199,
+		"level" : 58,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 2334,
+		"id" : 200,
+		"level" : 59,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 2408,
+		"id" : 201,
+		"level" : 60,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 2483,
+		"id" : 202,
+		"level" : 61,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 2560,
+		"id" : 203,
+		"level" : 62,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 2637,
+		"id" : 204,
+		"level" : 63,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 2716,
+		"id" : 205,
+		"level" : 64,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 2795,
+		"id" : 206,
+		"level" : 65,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 2876,
+		"id" : 207,
+		"level" : 66,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 2958,
+		"id" : 208,
+		"level" : 67,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 3041,
+		"id" : 209,
+		"level" : 68,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 3126,
+		"id" : 210,
+		"level" : 69,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 3211,
+		"id" : 211,
+		"level" : 70,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 3298,
+		"id" : 212,
+		"level" : 71,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 3385,
+		"id" : 213,
+		"level" : 72,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 3474,
+		"id" : 214,
+		"level" : 73,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 3564,
+		"id" : 215,
+		"level" : 74,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 3655,
+		"id" : 216,
+		"level" : 75,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 3748,
+		"id" : 217,
+		"level" : 76,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 3841,
+		"id" : 218,
+		"level" : 77,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 3936,
+		"id" : 219,
+		"level" : 78,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 4032,
+		"id" : 220,
+		"level" : 79,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 4128,
+		"id" : 221,
+		"level" : 80,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 4227,
+		"id" : 222,
+		"level" : 81,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 4326,
+		"id" : 223,
+		"level" : 82,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 4426,
+		"id" : 224,
+		"level" : 83,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 4528,
+		"id" : 225,
+		"level" : 84,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 4630,
+		"id" : 226,
+		"level" : 85,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 4734,
+		"id" : 227,
+		"level" : 86,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 4839,
+		"id" : 228,
+		"level" : 87,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 4945,
+		"id" : 229,
+		"level" : 88,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 5052,
+		"id" : 230,
+		"level" : 89,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 5161,
+		"id" : 231,
+		"level" : 90,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 5270,
+		"id" : 232,
+		"level" : 91,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 5381,
+		"id" : 233,
+		"level" : 92,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 5493,
+		"id" : 234,
+		"level" : 93,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 5606,
+		"id" : 235,
+		"level" : 94,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 5720,
+		"id" : 236,
+		"level" : 95,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 5835,
+		"id" : 237,
+		"level" : 96,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 5951,
+		"id" : 238,
+		"level" : 97,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 6069,
+		"id" : 239,
+		"level" : 98,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 6188,
+		"id" : 240,
+		"level" : 99,
+		"type" : 2
+	},
+	
+	{
+		"experience" : 688,
+		"id" : 241,
+		"level" : 20,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 747,
+		"id" : 242,
+		"level" : 21,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 807,
+		"id" : 243,
+		"level" : 22,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 871,
+		"id" : 244,
+		"level" : 23,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 936,
+		"id" : 245,
+		"level" : 24,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 1004,
+		"id" : 246,
+		"level" : 25,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 1074,
+		"id" : 247,
+		"level" : 26,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 1146,
+		"id" : 248,
+		"level" : 27,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 1220,
+		"id" : 249,
+		"level" : 28,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 1297,
+		"id" : 250,
+		"level" : 29,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 1376,
+		"id" : 251,
+		"level" : 30,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 1458,
+		"id" : 252,
+		"level" : 31,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 1542,
+		"id" : 253,
+		"level" : 32,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 1628,
+		"id" : 254,
+		"level" : 33,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 1716,
+		"id" : 255,
+		"level" : 34,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 1807,
+		"id" : 256,
+		"level" : 35,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 1899,
+		"id" : 257,
+		"level" : 36,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 1995,
+		"id" : 258,
+		"level" : 37,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 2092,
+		"id" : 259,
+		"level" : 38,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 2192,
+		"id" : 260,
+		"level" : 39,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 2294,
+		"id" : 261,
+		"level" : 40,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 2398,
+		"id" : 262,
+		"level" : 41,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 2505,
+		"id" : 263,
+		"level" : 42,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 2614,
+		"id" : 264,
+		"level" : 43,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 2725,
+		"id" : 265,
+		"level" : 44,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 2839,
+		"id" : 266,
+		"level" : 45,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 2955,
+		"id" : 267,
+		"level" : 46,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 3073,
+		"id" : 268,
+		"level" : 47,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 3193,
+		"id" : 269,
+		"level" : 48,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 3316,
+		"id" : 270,
+		"level" : 49,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 3441,
+		"id" : 271,
+		"level" : 50,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 3568,
+		"id" : 272,
+		"level" : 51,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 3698,
+		"id" : 273,
+		"level" : 52,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 3830,
+		"id" : 274,
+		"level" : 53,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 3964,
+		"id" : 275,
+		"level" : 54,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 4101,
+		"id" : 276,
+		"level" : 55,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 4239,
+		"id" : 277,
+		"level" : 56,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 4380,
+		"id" : 278,
+		"level" : 57,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 4524,
+		"id" : 279,
+		"level" : 58,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 4669,
+		"id" : 280,
+		"level" : 59,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 4817,
+		"id" : 281,
+		"level" : 60,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 4968,
+		"id" : 282,
+		"level" : 61,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 5120,
+		"id" : 283,
+		"level" : 62,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 5275,
+		"id" : 284,
+		"level" : 63,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 5432,
+		"id" : 285,
+		"level" : 64,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 5592,
+		"id" : 286,
+		"level" : 65,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 5753,
+		"id" : 287,
+		"level" : 66,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 5917,
+		"id" : 288,
+		"level" : 67,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 6084,
+		"id" : 289,
+		"level" : 68,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 6252,
+		"id" : 290,
+		"level" : 69,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 6423,
+		"id" : 291,
+		"level" : 70,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 6596,
+		"id" : 292,
+		"level" : 71,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 6772,
+		"id" : 293,
+		"level" : 72,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 6950,
+		"id" : 294,
+		"level" : 73,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 7130,
+		"id" : 295,
+		"level" : 74,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 7312,
+		"id" : 296,
+		"level" : 75,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 7497,
+		"id" : 297,
+		"level" : 76,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 7684,
+		"id" : 298,
+		"level" : 77,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 7873,
+		"id" : 299,
+		"level" : 78,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 8065,
+		"id" : 300,
+		"level" : 79,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 8258,
+		"id" : 301,
+		"level" : 80,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 8455,
+		"id" : 302,
+		"level" : 81,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 8653,
+		"id" : 303,
+		"level" : 82,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 8854,
+		"id" : 304,
+		"level" : 83,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 9057,
+		"id" : 305,
+		"level" : 84,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 9262,
+		"id" : 306,
+		"level" : 85,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 9470,
+		"id" : 307,
+		"level" : 86,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 9680,
+		"id" : 308,
+		"level" : 87,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 9892,
+		"id" : 309,
+		"level" : 88,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 10106,
+		"id" : 310,
+		"level" : 89,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 10323,
+		"id" : 311,
+		"level" : 90,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 10542,
+		"id" : 312,
+		"level" : 91,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 10763,
+		"id" : 313,
+		"level" : 92,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 10987,
+		"id" : 314,
+		"level" : 93,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 11213,
+		"id" : 315,
+		"level" : 94,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 11441,
+		"id" : 316,
+		"level" : 95,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 11672,
+		"id" : 317,
+		"level" : 96,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 11905,
+		"id" : 318,
+		"level" : 97,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 12140,
+		"id" : 319,
+		"level" : 98,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 12377,
+		"id" : 320,
+		"level" : 99,
+		"type" : 12
+	},
+	
+	{
+		"experience" : 397,
+		"id" : 321,
+		"level" : 20,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 431,
+		"id" : 322,
+		"level" : 21,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 466,
+		"id" : 323,
+		"level" : 22,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 502,
+		"id" : 324,
+		"level" : 23,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 540,
+		"id" : 325,
+		"level" : 24,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 579,
+		"id" : 326,
+		"level" : 25,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 619,
+		"id" : 327,
+		"level" : 26,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 661,
+		"id" : 328,
+		"level" : 27,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 704,
+		"id" : 329,
+		"level" : 28,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 748,
+		"id" : 330,
+		"level" : 29,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 794,
+		"id" : 331,
+		"level" : 30,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 841,
+		"id" : 332,
+		"level" : 31,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 889,
+		"id" : 333,
+		"level" : 32,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 939,
+		"id" : 334,
+		"level" : 33,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 990,
+		"id" : 335,
+		"level" : 34,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 1042,
+		"id" : 336,
+		"level" : 35,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 1096,
+		"id" : 337,
+		"level" : 36,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 1151,
+		"id" : 338,
+		"level" : 37,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 1207,
+		"id" : 339,
+		"level" : 38,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 1265,
+		"id" : 340,
+		"level" : 39,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 1323,
+		"id" : 341,
+		"level" : 40,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 1384,
+		"id" : 342,
+		"level" : 41,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 1445,
+		"id" : 343,
+		"level" : 42,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 1508,
+		"id" : 344,
+		"level" : 43,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 1572,
+		"id" : 345,
+		"level" : 44,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 1638,
+		"id" : 346,
+		"level" : 45,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 1705,
+		"id" : 347,
+		"level" : 46,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 1773,
+		"id" : 348,
+		"level" : 47,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 1842,
+		"id" : 349,
+		"level" : 48,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 1913,
+		"id" : 350,
+		"level" : 49,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 1985,
+		"id" : 351,
+		"level" : 50,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 2059,
+		"id" : 352,
+		"level" : 51,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 2133,
+		"id" : 353,
+		"level" : 52,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 2209,
+		"id" : 354,
+		"level" : 53,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 2287,
+		"id" : 355,
+		"level" : 54,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 2366,
+		"id" : 356,
+		"level" : 55,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 2446,
+		"id" : 357,
+		"level" : 56,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 2527,
+		"id" : 358,
+		"level" : 57,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 2610,
+		"id" : 359,
+		"level" : 58,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 2694,
+		"id" : 360,
+		"level" : 59,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 2779,
+		"id" : 361,
+		"level" : 60,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 2866,
+		"id" : 362,
+		"level" : 61,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 2954,
+		"id" : 363,
+		"level" : 62,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 3043,
+		"id" : 364,
+		"level" : 63,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 3134,
+		"id" : 365,
+		"level" : 64,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 3226,
+		"id" : 366,
+		"level" : 65,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 3319,
+		"id" : 367,
+		"level" : 66,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 3414,
+		"id" : 368,
+		"level" : 67,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 3510,
+		"id" : 369,
+		"level" : 68,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 3607,
+		"id" : 370,
+		"level" : 69,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 3706,
+		"id" : 371,
+		"level" : 70,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 3805,
+		"id" : 372,
+		"level" : 71,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 3907,
+		"id" : 373,
+		"level" : 72,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 4009,
+		"id" : 374,
+		"level" : 73,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 4113,
+		"id" : 375,
+		"level" : 74,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 4218,
+		"id" : 376,
+		"level" : 75,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 4325,
+		"id" : 377,
+		"level" : 76,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 4433,
+		"id" : 378,
+		"level" : 77,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 4542,
+		"id" : 379,
+		"level" : 78,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 4652,
+		"id" : 380,
+		"level" : 79,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 4764,
+		"id" : 381,
+		"level" : 80,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 4877,
+		"id" : 382,
+		"level" : 81,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 4992,
+		"id" : 383,
+		"level" : 82,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 5108,
+		"id" : 384,
+		"level" : 83,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 5225,
+		"id" : 385,
+		"level" : 84,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 5343,
+		"id" : 386,
+		"level" : 85,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 5463,
+		"id" : 387,
+		"level" : 86,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 5584,
+		"id" : 388,
+		"level" : 87,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 5707,
+		"id" : 389,
+		"level" : 88,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 5830,
+		"id" : 390,
+		"level" : 89,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 5955,
+		"id" : 391,
+		"level" : 90,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 6082,
+		"id" : 392,
+		"level" : 91,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 6209,
+		"id" : 393,
+		"level" : 92,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 6338,
+		"id" : 394,
+		"level" : 93,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 6469,
+		"id" : 395,
+		"level" : 94,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 6600,
+		"id" : 396,
+		"level" : 95,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 6733,
+		"id" : 397,
+		"level" : 96,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 6868,
+		"id" : 398,
+		"level" : 97,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 7003,
+		"id" : 399,
+		"level" : 98,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 7140,
+		"id" : 400,
+		"level" : 99,
+		"type" : 3
+	},
+	
+	{
+		"experience" : 794,
+		"id" : 401,
+		"level" : 20,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 861,
+		"id" : 402,
+		"level" : 21,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 931,
+		"id" : 403,
+		"level" : 22,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 1004,
+		"id" : 404,
+		"level" : 23,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 1080,
+		"id" : 405,
+		"level" : 24,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 1158,
+		"id" : 406,
+		"level" : 25,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 1238,
+		"id" : 407,
+		"level" : 26,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 1322,
+		"id" : 408,
+		"level" : 27,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 1408,
+		"id" : 409,
+		"level" : 28,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 1496,
+		"id" : 410,
+		"level" : 29,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 1588,
+		"id" : 411,
+		"level" : 30,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 1682,
+		"id" : 412,
+		"level" : 31,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 1778,
+		"id" : 413,
+		"level" : 32,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 1877,
+		"id" : 414,
+		"level" : 33,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 1979,
+		"id" : 415,
+		"level" : 34,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 2084,
+		"id" : 416,
+		"level" : 35,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 2191,
+		"id" : 417,
+		"level" : 36,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 2301,
+		"id" : 418,
+		"level" : 37,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 2413,
+		"id" : 419,
+		"level" : 38,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 2528,
+		"id" : 420,
+		"level" : 39,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 2646,
+		"id" : 421,
+		"level" : 40,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 2766,
+		"id" : 422,
+		"level" : 41,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 2889,
+		"id" : 423,
+		"level" : 42,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 3015,
+		"id" : 424,
+		"level" : 43,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 3143,
+		"id" : 425,
+		"level" : 44,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 3274,
+		"id" : 426,
+		"level" : 45,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 3408,
+		"id" : 427,
+		"level" : 46,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 3544,
+		"id" : 428,
+		"level" : 47,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 3683,
+		"id" : 429,
+		"level" : 48,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 3825,
+		"id" : 430,
+		"level" : 49,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 3969,
+		"id" : 431,
+		"level" : 50,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 4116,
+		"id" : 432,
+		"level" : 51,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 4265,
+		"id" : 433,
+		"level" : 52,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 4417,
+		"id" : 434,
+		"level" : 53,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 4572,
+		"id" : 435,
+		"level" : 54,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 4730,
+		"id" : 436,
+		"level" : 55,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 4890,
+		"id" : 437,
+		"level" : 56,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 5053,
+		"id" : 438,
+		"level" : 57,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 5218,
+		"id" : 439,
+		"level" : 58,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 5386,
+		"id" : 440,
+		"level" : 59,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 5557,
+		"id" : 441,
+		"level" : 60,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 5730,
+		"id" : 442,
+		"level" : 61,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 5906,
+		"id" : 443,
+		"level" : 62,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 6084,
+		"id" : 444,
+		"level" : 63,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 6266,
+		"id" : 445,
+		"level" : 64,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 6450,
+		"id" : 446,
+		"level" : 65,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 6636,
+		"id" : 447,
+		"level" : 66,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 6825,
+		"id" : 448,
+		"level" : 67,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 7017,
+		"id" : 449,
+		"level" : 68,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 7212,
+		"id" : 450,
+		"level" : 69,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 7409,
+		"id" : 451,
+		"level" : 70,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 7609,
+		"id" : 452,
+		"level" : 71,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 7811,
+		"id" : 453,
+		"level" : 72,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 8016,
+		"id" : 454,
+		"level" : 73,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 8224,
+		"id" : 455,
+		"level" : 74,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 8434,
+		"id" : 456,
+		"level" : 75,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 8647,
+		"id" : 457,
+		"level" : 76,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 8863,
+		"id" : 458,
+		"level" : 77,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 9081,
+		"id" : 459,
+		"level" : 78,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 9302,
+		"id" : 460,
+		"level" : 79,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 9526,
+		"id" : 461,
+		"level" : 80,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 9752,
+		"id" : 462,
+		"level" : 81,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 9981,
+		"id" : 463,
+		"level" : 82,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 10212,
+		"id" : 464,
+		"level" : 83,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 10446,
+		"id" : 465,
+		"level" : 84,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 10683,
+		"id" : 466,
+		"level" : 85,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 10923,
+		"id" : 467,
+		"level" : 86,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 11165,
+		"id" : 468,
+		"level" : 87,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 11410,
+		"id" : 469,
+		"level" : 88,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 11657,
+		"id" : 470,
+		"level" : 89,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 11907,
+		"id" : 471,
+		"level" : 90,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 12160,
+		"id" : 472,
+		"level" : 91,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 12415,
+		"id" : 473,
+		"level" : 92,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 12673,
+		"id" : 474,
+		"level" : 93,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 12934,
+		"id" : 475,
+		"level" : 94,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 13197,
+		"id" : 476,
+		"level" : 95,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 13463,
+		"id" : 477,
+		"level" : 96,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 13731,
+		"id" : 478,
+		"level" : 97,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 14003,
+		"id" : 479,
+		"level" : 98,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 14276,
+		"id" : 480,
+		"level" : 99,
+		"type" : 13
+	},
+	
+	{
+		"experience" : 10,
+		"id" : 481,
+		"level" : 1,
+		"type" : 9
+	},
+	
+	{
+		"experience" : 8,
+		"id" : 482,
+		"level" : 2,
+		"type" : 9
+	},
+	
+	{
+		"experience" : 7,
+		"id" : 483,
+		"level" : 3,
+		"type" : 9
+	},
+	
+	{
+		"experience" : 6,
+		"id" : 484,
+		"level" : 4,
+		"type" : 9
+	},
+	
+	{
+		"experience" : 5,
+		"id" : 485,
+		"level" : 5,
+		"type" : 9
+	},
+	
+	{
+		"experience" : 4,
+		"id" : 486,
+		"level" : 6,
+		"type" : 9
+	},
+	
+	{
+		"experience" : 3,
+		"id" : 487,
+		"level" : 7,
+		"type" : 9
+	},
+	
+	{
+		"experience" : 2,
+		"id" : 488,
+		"level" : 8,
+		"type" : 9
+	},
+	
+	{
+		"experience" : 1,
+		"id" : 489,
+		"level" : 9,
+		"type" : 9
+	},
+	
+	{
+		"experience" : 1,
+		"id" : 490,
+		"level" : 10,
+		"type" : 9
+	}
+]

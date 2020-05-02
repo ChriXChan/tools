@@ -1,0 +1,5253 @@
+
+[
+	
+	{
+		"num" : 1,
+		"rate" : 230000,
+		"reward" : 80000013,
+		"type" : 42044001
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16250,
+		"reward" : 80000014,
+		"type" : 42044001,
+		"valuedRate" : 203125
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 3750,
+		"reward" : 80000015,
+		"type" : 42044001,
+		"valuedRate" : 46875
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 230000,
+		"reward" : 80000033,
+		"type" : 42044001
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16250,
+		"reward" : 80000034,
+		"type" : 42044001,
+		"valuedRate" : 203125
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 3750,
+		"reward" : 80000035,
+		"type" : 42044001,
+		"valuedRate" : 46875
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 230000,
+		"reward" : 80000043,
+		"type" : 42044001
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16250,
+		"reward" : 80000044,
+		"type" : 42044001,
+		"valuedRate" : 203125
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 3750,
+		"reward" : 80000045,
+		"type" : 42044001,
+		"valuedRate" : 46875
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 230000,
+		"reward" : 80000063,
+		"type" : 42044001
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 16250,
+		"reward" : 80000064,
+		"type" : 42044001,
+		"valuedRate" : 203125
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 3750,
+		"reward" : 80000065,
+		"type" : 42044001,
+		"valuedRate" : 46875
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 184000,
+		"reward" : 80000013,
+		"type" : 42044002
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 13000,
+		"reward" : 80000014,
+		"type" : 42044002,
+		"valuedRate" : 162500
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 3000,
+		"reward" : 80000015,
+		"type" : 42044002,
+		"valuedRate" : 37500
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 184000,
+		"reward" : 80000033,
+		"type" : 42044002
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 13000,
+		"reward" : 80000034,
+		"type" : 42044002,
+		"valuedRate" : 162500
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 3000,
+		"reward" : 80000035,
+		"type" : 42044002,
+		"valuedRate" : 37500
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 184000,
+		"reward" : 80000043,
+		"type" : 42044002
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 13000,
+		"reward" : 80000044,
+		"type" : 42044002,
+		"valuedRate" : 162500
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 3000,
+		"reward" : 80000045,
+		"type" : 42044002,
+		"valuedRate" : 37500
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 184000,
+		"reward" : 80000053,
+		"type" : 42044002
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 13000,
+		"reward" : 80000054,
+		"type" : 42044002,
+		"valuedRate" : 162500
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 3000,
+		"reward" : 80000055,
+		"type" : 42044002,
+		"valuedRate" : 37500
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 184000,
+		"reward" : 80000063,
+		"type" : 42044002
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 13000,
+		"reward" : 80000064,
+		"type" : 42044002,
+		"valuedRate" : 162500
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 3000,
+		"reward" : 80000065,
+		"type" : 42044002,
+		"valuedRate" : 37500
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 153337,
+		"reward" : 80000013,
+		"type" : 42044003
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 10833,
+		"reward" : 80000014,
+		"type" : 42044003,
+		"valuedRate" : 135414
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 80000015,
+		"type" : 42044003,
+		"valuedRate" : 31251
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 153333,
+		"reward" : 80000033,
+		"type" : 42044003
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 10833,
+		"reward" : 80000034,
+		"type" : 42044003,
+		"valuedRate" : 135416
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 80000035,
+		"type" : 42044003,
+		"valuedRate" : 31251
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 153333,
+		"reward" : 80000043,
+		"type" : 42044003
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 10833,
+		"reward" : 80000044,
+		"type" : 42044003,
+		"valuedRate" : 135416
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 80000045,
+		"type" : 42044003,
+		"valuedRate" : 31251
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 153333,
+		"reward" : 80000053,
+		"type" : 42044003
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 10833,
+		"reward" : 80000054,
+		"type" : 42044003,
+		"valuedRate" : 135416
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 80000055,
+		"type" : 42044003,
+		"valuedRate" : 31251
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 153333,
+		"reward" : 80000063,
+		"type" : 42044003
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 10833,
+		"reward" : 80000064,
+		"type" : 42044003,
+		"valuedRate" : 135416
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 80000065,
+		"type" : 42044003,
+		"valuedRate" : 31251
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 153333,
+		"reward" : 80000083,
+		"type" : 42044003
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 10833,
+		"reward" : 80000084,
+		"type" : 42044003,
+		"valuedRate" : 135416
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2500,
+		"reward" : 80000085,
+		"type" : 42044003,
+		"valuedRate" : 31251
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 131423,
+		"reward" : 80000013,
+		"type" : 42044004
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 9286,
+		"reward" : 80000014,
+		"type" : 42044004,
+		"valuedRate" : 116072
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2143,
+		"reward" : 80000015,
+		"type" : 42044004,
+		"valuedRate" : 26786
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 131429,
+		"reward" : 80000033,
+		"type" : 42044004
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 9286,
+		"reward" : 80000034,
+		"type" : 42044004,
+		"valuedRate" : 116071
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2143,
+		"reward" : 80000035,
+		"type" : 42044004,
+		"valuedRate" : 26786
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 131429,
+		"reward" : 80000043,
+		"type" : 42044004
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 9286,
+		"reward" : 80000044,
+		"type" : 42044004,
+		"valuedRate" : 116071
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2143,
+		"reward" : 80000045,
+		"type" : 42044004,
+		"valuedRate" : 26786
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 131429,
+		"reward" : 80000053,
+		"type" : 42044004
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 9286,
+		"reward" : 80000054,
+		"type" : 42044004,
+		"valuedRate" : 116071
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2143,
+		"reward" : 80000055,
+		"type" : 42044004,
+		"valuedRate" : 26786
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 131429,
+		"reward" : 80000063,
+		"type" : 42044004
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 9286,
+		"reward" : 80000064,
+		"type" : 42044004,
+		"valuedRate" : 116071
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2143,
+		"reward" : 80000065,
+		"type" : 42044004,
+		"valuedRate" : 26786
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 131429,
+		"reward" : 80000073,
+		"type" : 42044004
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 9286,
+		"reward" : 80000074,
+		"type" : 42044004,
+		"valuedRate" : 116071
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2143,
+		"reward" : 80000075,
+		"type" : 42044004,
+		"valuedRate" : 26786
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 131429,
+		"reward" : 80000083,
+		"type" : 42044004
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 9286,
+		"reward" : 80000084,
+		"type" : 42044004,
+		"valuedRate" : 116071
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 2143,
+		"reward" : 80000085,
+		"type" : 42044004,
+		"valuedRate" : 26786
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 115000,
+		"reward" : 80000013,
+		"type" : 42044005
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 8125,
+		"reward" : 80000014,
+		"type" : 42044005,
+		"valuedRate" : 101562
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1875,
+		"reward" : 80000015,
+		"type" : 42044005,
+		"valuedRate" : 23438
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 115000,
+		"reward" : 80000023,
+		"type" : 42044005
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 8125,
+		"reward" : 80000024,
+		"type" : 42044005,
+		"valuedRate" : 101562
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1875,
+		"reward" : 80000025,
+		"type" : 42044005,
+		"valuedRate" : 23438
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 115000,
+		"reward" : 80000033,
+		"type" : 42044005
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 8125,
+		"reward" : 80000034,
+		"type" : 42044005,
+		"valuedRate" : 101562
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1875,
+		"reward" : 80000035,
+		"type" : 42044005,
+		"valuedRate" : 23438
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 115000,
+		"reward" : 80000043,
+		"type" : 42044005
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 8125,
+		"reward" : 80000044,
+		"type" : 42044005,
+		"valuedRate" : 101562
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1875,
+		"reward" : 80000045,
+		"type" : 42044005,
+		"valuedRate" : 23438
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 115000,
+		"reward" : 80000053,
+		"type" : 42044005
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 8125,
+		"reward" : 80000054,
+		"type" : 42044005,
+		"valuedRate" : 101562
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1875,
+		"reward" : 80000055,
+		"type" : 42044005,
+		"valuedRate" : 23438
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 115000,
+		"reward" : 80000063,
+		"type" : 42044005
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 8125,
+		"reward" : 80000064,
+		"type" : 42044005,
+		"valuedRate" : 101562
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1875,
+		"reward" : 80000065,
+		"type" : 42044005,
+		"valuedRate" : 23438
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 115000,
+		"reward" : 80000073,
+		"type" : 42044005
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 8125,
+		"reward" : 80000074,
+		"type" : 42044005,
+		"valuedRate" : 101562
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1875,
+		"reward" : 80000075,
+		"type" : 42044005,
+		"valuedRate" : 23438
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 115000,
+		"reward" : 80000083,
+		"type" : 42044005
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 8125,
+		"reward" : 80000084,
+		"type" : 42044005,
+		"valuedRate" : 101562
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1875,
+		"reward" : 80000085,
+		"type" : 42044005,
+		"valuedRate" : 23438
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 102223,
+		"reward" : 80000013,
+		"type" : 42044006
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7222,
+		"reward" : 80000014,
+		"type" : 42044006,
+		"valuedRate" : 90275
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1667,
+		"reward" : 80000015,
+		"type" : 42044006,
+		"valuedRate" : 20837
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 102222,
+		"reward" : 80000023,
+		"type" : 42044006
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7222,
+		"reward" : 80000024,
+		"type" : 42044006,
+		"valuedRate" : 90274
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1667,
+		"reward" : 80000025,
+		"type" : 42044006,
+		"valuedRate" : 20837
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 102222,
+		"reward" : 80000033,
+		"type" : 42044006
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7222,
+		"reward" : 80000034,
+		"type" : 42044006,
+		"valuedRate" : 90274
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1667,
+		"reward" : 80000035,
+		"type" : 42044006,
+		"valuedRate" : 20837
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 102222,
+		"reward" : 80000043,
+		"type" : 42044006
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7222,
+		"reward" : 80000044,
+		"type" : 42044006,
+		"valuedRate" : 90274
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1667,
+		"reward" : 80000045,
+		"type" : 42044006,
+		"valuedRate" : 20837
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 102222,
+		"reward" : 80000053,
+		"type" : 42044006
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7222,
+		"reward" : 80000054,
+		"type" : 42044006,
+		"valuedRate" : 90274
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1667,
+		"reward" : 80000055,
+		"type" : 42044006,
+		"valuedRate" : 20837
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 102222,
+		"reward" : 80000063,
+		"type" : 42044006
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7222,
+		"reward" : 80000064,
+		"type" : 42044006,
+		"valuedRate" : 90274
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1667,
+		"reward" : 80000065,
+		"type" : 42044006,
+		"valuedRate" : 20837
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 102222,
+		"reward" : 80000073,
+		"type" : 42044006
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7222,
+		"reward" : 80000074,
+		"type" : 42044006,
+		"valuedRate" : 90274
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1667,
+		"reward" : 80000075,
+		"type" : 42044006,
+		"valuedRate" : 20837
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 102222,
+		"reward" : 80000083,
+		"type" : 42044006
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7222,
+		"reward" : 80000084,
+		"type" : 42044006,
+		"valuedRate" : 90274
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1667,
+		"reward" : 80000085,
+		"type" : 42044006,
+		"valuedRate" : 20837
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 102222,
+		"reward" : 80000093,
+		"type" : 42044006
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 7222,
+		"reward" : 80000094,
+		"type" : 42044006,
+		"valuedRate" : 90274
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1667,
+		"reward" : 80000095,
+		"type" : 42044006,
+		"valuedRate" : 20837
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 92000,
+		"reward" : 80000013,
+		"type" : 42044007
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 6500,
+		"reward" : 80000014,
+		"type" : 42044007,
+		"valuedRate" : 81250
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1500,
+		"reward" : 80000015,
+		"type" : 42044007,
+		"valuedRate" : 18750
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 92000,
+		"reward" : 80000023,
+		"type" : 42044007
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 6500,
+		"reward" : 80000024,
+		"type" : 42044007,
+		"valuedRate" : 81250
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1500,
+		"reward" : 80000025,
+		"type" : 42044007,
+		"valuedRate" : 18750
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 92000,
+		"reward" : 80000033,
+		"type" : 42044007
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 6500,
+		"reward" : 80000034,
+		"type" : 42044007,
+		"valuedRate" : 81250
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1500,
+		"reward" : 80000035,
+		"type" : 42044007,
+		"valuedRate" : 18750
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 92000,
+		"reward" : 80000043,
+		"type" : 42044007
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 6500,
+		"reward" : 80000044,
+		"type" : 42044007,
+		"valuedRate" : 81250
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1500,
+		"reward" : 80000045,
+		"type" : 42044007,
+		"valuedRate" : 18750
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 92000,
+		"reward" : 80000053,
+		"type" : 42044007
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 6500,
+		"reward" : 80000054,
+		"type" : 42044007,
+		"valuedRate" : 81250
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1500,
+		"reward" : 80000055,
+		"type" : 42044007,
+		"valuedRate" : 18750
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 92000,
+		"reward" : 80000063,
+		"type" : 42044007
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 6500,
+		"reward" : 80000064,
+		"type" : 42044007,
+		"valuedRate" : 81250
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1500,
+		"reward" : 80000065,
+		"type" : 42044007,
+		"valuedRate" : 18750
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 92000,
+		"reward" : 80000073,
+		"type" : 42044007
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 6500,
+		"reward" : 80000074,
+		"type" : 42044007,
+		"valuedRate" : 81250
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1500,
+		"reward" : 80000075,
+		"type" : 42044007,
+		"valuedRate" : 18750
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 92000,
+		"reward" : 80000083,
+		"type" : 42044007
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 6500,
+		"reward" : 80000084,
+		"type" : 42044007,
+		"valuedRate" : 81250
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1500,
+		"reward" : 80000085,
+		"type" : 42044007,
+		"valuedRate" : 18750
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 92000,
+		"reward" : 80000093,
+		"type" : 42044007
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 6500,
+		"reward" : 80000094,
+		"type" : 42044007,
+		"valuedRate" : 81250
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1500,
+		"reward" : 80000095,
+		"type" : 42044007,
+		"valuedRate" : 18750
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 92000,
+		"reward" : 80000103,
+		"type" : 42044007
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 6500,
+		"reward" : 80000104,
+		"type" : 42044007,
+		"valuedRate" : 81250
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1500,
+		"reward" : 80000105,
+		"type" : 42044007,
+		"valuedRate" : 18750
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 83637,
+		"reward" : 80000013,
+		"type" : 42044008
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5909,
+		"reward" : 80000014,
+		"type" : 42044008,
+		"valuedRate" : 73861
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1364,
+		"reward" : 80000015,
+		"type" : 42044008,
+		"valuedRate" : 17049
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 83636,
+		"reward" : 80000023,
+		"type" : 42044008
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5909,
+		"reward" : 80000024,
+		"type" : 42044008,
+		"valuedRate" : 73860
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1364,
+		"reward" : 80000025,
+		"type" : 42044008,
+		"valuedRate" : 17049
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 83636,
+		"reward" : 80000033,
+		"type" : 42044008
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5909,
+		"reward" : 80000034,
+		"type" : 42044008,
+		"valuedRate" : 73860
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1364,
+		"reward" : 80000035,
+		"type" : 42044008,
+		"valuedRate" : 17049
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 83636,
+		"reward" : 80000043,
+		"type" : 42044008
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5909,
+		"reward" : 80000044,
+		"type" : 42044008,
+		"valuedRate" : 73860
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1364,
+		"reward" : 80000045,
+		"type" : 42044008,
+		"valuedRate" : 17049
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 83636,
+		"reward" : 80000053,
+		"type" : 42044008
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5909,
+		"reward" : 80000054,
+		"type" : 42044008,
+		"valuedRate" : 73860
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1364,
+		"reward" : 80000055,
+		"type" : 42044008,
+		"valuedRate" : 17049
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 83636,
+		"reward" : 80000063,
+		"type" : 42044008
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5909,
+		"reward" : 80000064,
+		"type" : 42044008,
+		"valuedRate" : 73860
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1364,
+		"reward" : 80000065,
+		"type" : 42044008,
+		"valuedRate" : 17049
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 83636,
+		"reward" : 80000073,
+		"type" : 42044008
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5909,
+		"reward" : 80000074,
+		"type" : 42044008,
+		"valuedRate" : 73860
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1364,
+		"reward" : 80000075,
+		"type" : 42044008,
+		"valuedRate" : 17049
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 83636,
+		"reward" : 80000083,
+		"type" : 42044008
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5909,
+		"reward" : 80000084,
+		"type" : 42044008,
+		"valuedRate" : 73860
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1364,
+		"reward" : 80000085,
+		"type" : 42044008,
+		"valuedRate" : 17049
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 83636,
+		"reward" : 80000093,
+		"type" : 42044008
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5909,
+		"reward" : 80000094,
+		"type" : 42044008,
+		"valuedRate" : 73860
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1364,
+		"reward" : 80000095,
+		"type" : 42044008,
+		"valuedRate" : 17049
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 83636,
+		"reward" : 80000103,
+		"type" : 42044008
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5909,
+		"reward" : 80000104,
+		"type" : 42044008,
+		"valuedRate" : 73860
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1364,
+		"reward" : 80000105,
+		"type" : 42044008,
+		"valuedRate" : 17049
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 83636,
+		"reward" : 80000113,
+		"type" : 42044008
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5909,
+		"reward" : 80000114,
+		"type" : 42044008,
+		"valuedRate" : 73860
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1364,
+		"reward" : 80000115,
+		"type" : 42044008,
+		"valuedRate" : 17049
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 76659,
+		"reward" : 80000013,
+		"type" : 42044009
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5417,
+		"reward" : 80000014,
+		"type" : 42044009,
+		"valuedRate" : 67713
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1250,
+		"reward" : 80000015,
+		"type" : 42044009,
+		"valuedRate" : 15624
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 76667,
+		"reward" : 80000023,
+		"type" : 42044009
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5417,
+		"reward" : 80000024,
+		"type" : 42044009,
+		"valuedRate" : 67709
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1250,
+		"reward" : 80000025,
+		"type" : 42044009,
+		"valuedRate" : 15624
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 76667,
+		"reward" : 80000033,
+		"type" : 42044009
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5417,
+		"reward" : 80000034,
+		"type" : 42044009,
+		"valuedRate" : 67709
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1250,
+		"reward" : 80000035,
+		"type" : 42044009,
+		"valuedRate" : 15624
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 76667,
+		"reward" : 80000043,
+		"type" : 42044009
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5417,
+		"reward" : 80000044,
+		"type" : 42044009,
+		"valuedRate" : 67709
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1250,
+		"reward" : 80000045,
+		"type" : 42044009,
+		"valuedRate" : 15624
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 76667,
+		"reward" : 80000053,
+		"type" : 42044009
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5417,
+		"reward" : 80000054,
+		"type" : 42044009,
+		"valuedRate" : 67709
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1250,
+		"reward" : 80000055,
+		"type" : 42044009,
+		"valuedRate" : 15624
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 76667,
+		"reward" : 80000063,
+		"type" : 42044009
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5417,
+		"reward" : 80000064,
+		"type" : 42044009,
+		"valuedRate" : 67709
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1250,
+		"reward" : 80000065,
+		"type" : 42044009,
+		"valuedRate" : 15624
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 76667,
+		"reward" : 80000073,
+		"type" : 42044009
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5417,
+		"reward" : 80000074,
+		"type" : 42044009,
+		"valuedRate" : 67709
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1250,
+		"reward" : 80000075,
+		"type" : 42044009,
+		"valuedRate" : 15624
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 76667,
+		"reward" : 80000083,
+		"type" : 42044009
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5417,
+		"reward" : 80000084,
+		"type" : 42044009,
+		"valuedRate" : 67709
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1250,
+		"reward" : 80000085,
+		"type" : 42044009,
+		"valuedRate" : 15624
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 76667,
+		"reward" : 80000093,
+		"type" : 42044009
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5417,
+		"reward" : 80000094,
+		"type" : 42044009,
+		"valuedRate" : 67709
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1250,
+		"reward" : 80000095,
+		"type" : 42044009,
+		"valuedRate" : 15624
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 76667,
+		"reward" : 80000103,
+		"type" : 42044009
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5417,
+		"reward" : 80000104,
+		"type" : 42044009,
+		"valuedRate" : 67709
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1250,
+		"reward" : 80000105,
+		"type" : 42044009,
+		"valuedRate" : 15624
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 76667,
+		"reward" : 80000113,
+		"type" : 42044009
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5417,
+		"reward" : 80000114,
+		"type" : 42044009,
+		"valuedRate" : 67709
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1250,
+		"reward" : 80000115,
+		"type" : 42044009,
+		"valuedRate" : 15624
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 76667,
+		"reward" : 80000123,
+		"type" : 42044009
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5417,
+		"reward" : 80000124,
+		"type" : 42044009,
+		"valuedRate" : 67709
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1250,
+		"reward" : 80000125,
+		"type" : 42044009,
+		"valuedRate" : 15624
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 70770,
+		"reward" : 80000013,
+		"type" : 42044010
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5000,
+		"reward" : 80000014,
+		"type" : 42044010,
+		"valuedRate" : 62499
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1154,
+		"reward" : 80000015,
+		"type" : 42044010,
+		"valuedRate" : 14425
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 70769,
+		"reward" : 80000023,
+		"type" : 42044010
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5000,
+		"reward" : 80000024,
+		"type" : 42044010,
+		"valuedRate" : 62498
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1154,
+		"reward" : 80000025,
+		"type" : 42044010,
+		"valuedRate" : 14425
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 70769,
+		"reward" : 80000033,
+		"type" : 42044010
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5000,
+		"reward" : 80000034,
+		"type" : 42044010,
+		"valuedRate" : 62498
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1154,
+		"reward" : 80000035,
+		"type" : 42044010,
+		"valuedRate" : 14425
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 70769,
+		"reward" : 80000043,
+		"type" : 42044010
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5000,
+		"reward" : 80000044,
+		"type" : 42044010,
+		"valuedRate" : 62498
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1154,
+		"reward" : 80000045,
+		"type" : 42044010,
+		"valuedRate" : 14425
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 70769,
+		"reward" : 80000053,
+		"type" : 42044010
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5000,
+		"reward" : 80000054,
+		"type" : 42044010,
+		"valuedRate" : 62498
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1154,
+		"reward" : 80000055,
+		"type" : 42044010,
+		"valuedRate" : 14425
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 70769,
+		"reward" : 80000063,
+		"type" : 42044010
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5000,
+		"reward" : 80000064,
+		"type" : 42044010,
+		"valuedRate" : 62498
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1154,
+		"reward" : 80000065,
+		"type" : 42044010,
+		"valuedRate" : 14425
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 70769,
+		"reward" : 80000073,
+		"type" : 42044010
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5000,
+		"reward" : 80000074,
+		"type" : 42044010,
+		"valuedRate" : 62498
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1154,
+		"reward" : 80000075,
+		"type" : 42044010,
+		"valuedRate" : 14425
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 70769,
+		"reward" : 80000083,
+		"type" : 42044010
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5000,
+		"reward" : 80000084,
+		"type" : 42044010,
+		"valuedRate" : 62498
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1154,
+		"reward" : 80000085,
+		"type" : 42044010,
+		"valuedRate" : 14425
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 70769,
+		"reward" : 80000093,
+		"type" : 42044010
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5000,
+		"reward" : 80000094,
+		"type" : 42044010,
+		"valuedRate" : 62498
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1154,
+		"reward" : 80000095,
+		"type" : 42044010,
+		"valuedRate" : 14425
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 70769,
+		"reward" : 80000103,
+		"type" : 42044010
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5000,
+		"reward" : 80000104,
+		"type" : 42044010,
+		"valuedRate" : 62498
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1154,
+		"reward" : 80000105,
+		"type" : 42044010,
+		"valuedRate" : 14425
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 70769,
+		"reward" : 80000113,
+		"type" : 42044010
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5000,
+		"reward" : 80000114,
+		"type" : 42044010,
+		"valuedRate" : 62498
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1154,
+		"reward" : 80000115,
+		"type" : 42044010,
+		"valuedRate" : 14425
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 70769,
+		"reward" : 80000123,
+		"type" : 42044010
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5000,
+		"reward" : 80000124,
+		"type" : 42044010,
+		"valuedRate" : 62498
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1154,
+		"reward" : 80000125,
+		"type" : 42044010,
+		"valuedRate" : 14425
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 70769,
+		"reward" : 80000133,
+		"type" : 42044010
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 5000,
+		"reward" : 80000134,
+		"type" : 42044010,
+		"valuedRate" : 62498
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1154,
+		"reward" : 80000135,
+		"type" : 42044010,
+		"valuedRate" : 14425
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 65722,
+		"reward" : 80000013,
+		"type" : 42044011
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4643,
+		"reward" : 80000014,
+		"type" : 42044011,
+		"valuedRate" : 58048
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1071,
+		"reward" : 80000015,
+		"type" : 42044011,
+		"valuedRate" : 13388
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 65714,
+		"reward" : 80000023,
+		"type" : 42044011
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4643,
+		"reward" : 80000024,
+		"type" : 42044011,
+		"valuedRate" : 58040
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1071,
+		"reward" : 80000025,
+		"type" : 42044011,
+		"valuedRate" : 13388
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 65714,
+		"reward" : 80000033,
+		"type" : 42044011
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4643,
+		"reward" : 80000034,
+		"type" : 42044011,
+		"valuedRate" : 58040
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1071,
+		"reward" : 80000035,
+		"type" : 42044011,
+		"valuedRate" : 13388
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 65714,
+		"reward" : 80000043,
+		"type" : 42044011
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4643,
+		"reward" : 80000044,
+		"type" : 42044011,
+		"valuedRate" : 58040
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1071,
+		"reward" : 80000045,
+		"type" : 42044011,
+		"valuedRate" : 13388
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 65714,
+		"reward" : 80000053,
+		"type" : 42044011
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4643,
+		"reward" : 80000054,
+		"type" : 42044011,
+		"valuedRate" : 58040
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1071,
+		"reward" : 80000055,
+		"type" : 42044011,
+		"valuedRate" : 13388
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 65714,
+		"reward" : 80000063,
+		"type" : 42044011
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4643,
+		"reward" : 80000064,
+		"type" : 42044011,
+		"valuedRate" : 58040
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1071,
+		"reward" : 80000065,
+		"type" : 42044011,
+		"valuedRate" : 13388
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 65714,
+		"reward" : 80000073,
+		"type" : 42044011
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4643,
+		"reward" : 80000074,
+		"type" : 42044011,
+		"valuedRate" : 58040
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1071,
+		"reward" : 80000075,
+		"type" : 42044011,
+		"valuedRate" : 13388
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 65714,
+		"reward" : 80000083,
+		"type" : 42044011
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4643,
+		"reward" : 80000084,
+		"type" : 42044011,
+		"valuedRate" : 58040
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1071,
+		"reward" : 80000085,
+		"type" : 42044011,
+		"valuedRate" : 13388
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 65714,
+		"reward" : 80000093,
+		"type" : 42044011
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4643,
+		"reward" : 80000094,
+		"type" : 42044011,
+		"valuedRate" : 58040
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1071,
+		"reward" : 80000095,
+		"type" : 42044011,
+		"valuedRate" : 13388
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 65714,
+		"reward" : 80000103,
+		"type" : 42044011
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4643,
+		"reward" : 80000104,
+		"type" : 42044011,
+		"valuedRate" : 58040
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1071,
+		"reward" : 80000105,
+		"type" : 42044011,
+		"valuedRate" : 13388
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 65714,
+		"reward" : 80000113,
+		"type" : 42044011
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4643,
+		"reward" : 80000114,
+		"type" : 42044011,
+		"valuedRate" : 58040
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1071,
+		"reward" : 80000115,
+		"type" : 42044011,
+		"valuedRate" : 13388
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 65714,
+		"reward" : 80000123,
+		"type" : 42044011
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4643,
+		"reward" : 80000124,
+		"type" : 42044011,
+		"valuedRate" : 58040
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1071,
+		"reward" : 80000125,
+		"type" : 42044011,
+		"valuedRate" : 13388
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 65714,
+		"reward" : 80000133,
+		"type" : 42044011
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4643,
+		"reward" : 80000134,
+		"type" : 42044011,
+		"valuedRate" : 58040
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1071,
+		"reward" : 80000135,
+		"type" : 42044011,
+		"valuedRate" : 13388
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 65714,
+		"reward" : 80000143,
+		"type" : 42044011
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4643,
+		"reward" : 80000144,
+		"type" : 42044011,
+		"valuedRate" : 58040
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1071,
+		"reward" : 80000145,
+		"type" : 42044011,
+		"valuedRate" : 13388
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 61343,
+		"reward" : 80000013,
+		"type" : 42044012
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4333,
+		"reward" : 80000014,
+		"type" : 42044012,
+		"valuedRate" : 54161
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1000,
+		"reward" : 80000015,
+		"type" : 42044012,
+		"valuedRate" : 12501
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 61333,
+		"reward" : 80000023,
+		"type" : 42044012
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4333,
+		"reward" : 80000024,
+		"type" : 42044012,
+		"valuedRate" : 54166
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1000,
+		"reward" : 80000025,
+		"type" : 42044012,
+		"valuedRate" : 12501
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 61333,
+		"reward" : 80000033,
+		"type" : 42044012
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4333,
+		"reward" : 80000034,
+		"type" : 42044012,
+		"valuedRate" : 54166
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1000,
+		"reward" : 80000035,
+		"type" : 42044012,
+		"valuedRate" : 12501
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 61333,
+		"reward" : 80000043,
+		"type" : 42044012
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4333,
+		"reward" : 80000044,
+		"type" : 42044012,
+		"valuedRate" : 54166
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1000,
+		"reward" : 80000045,
+		"type" : 42044012,
+		"valuedRate" : 12501
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 61333,
+		"reward" : 80000053,
+		"type" : 42044012
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4333,
+		"reward" : 80000054,
+		"type" : 42044012,
+		"valuedRate" : 54166
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1000,
+		"reward" : 80000055,
+		"type" : 42044012,
+		"valuedRate" : 12501
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 61333,
+		"reward" : 80000063,
+		"type" : 42044012
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4333,
+		"reward" : 80000064,
+		"type" : 42044012,
+		"valuedRate" : 54166
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1000,
+		"reward" : 80000065,
+		"type" : 42044012,
+		"valuedRate" : 12501
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 61333,
+		"reward" : 80000073,
+		"type" : 42044012
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4333,
+		"reward" : 80000074,
+		"type" : 42044012,
+		"valuedRate" : 54166
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1000,
+		"reward" : 80000075,
+		"type" : 42044012,
+		"valuedRate" : 12501
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 61333,
+		"reward" : 80000083,
+		"type" : 42044012
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4333,
+		"reward" : 80000084,
+		"type" : 42044012,
+		"valuedRate" : 54166
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1000,
+		"reward" : 80000085,
+		"type" : 42044012,
+		"valuedRate" : 12501
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 61333,
+		"reward" : 80000093,
+		"type" : 42044012
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4333,
+		"reward" : 80000094,
+		"type" : 42044012,
+		"valuedRate" : 54166
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1000,
+		"reward" : 80000095,
+		"type" : 42044012,
+		"valuedRate" : 12501
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 61333,
+		"reward" : 80000103,
+		"type" : 42044012
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4333,
+		"reward" : 80000104,
+		"type" : 42044012,
+		"valuedRate" : 54166
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1000,
+		"reward" : 80000105,
+		"type" : 42044012,
+		"valuedRate" : 12501
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 61333,
+		"reward" : 80000113,
+		"type" : 42044012
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4333,
+		"reward" : 80000114,
+		"type" : 42044012,
+		"valuedRate" : 54166
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1000,
+		"reward" : 80000115,
+		"type" : 42044012,
+		"valuedRate" : 12501
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 61333,
+		"reward" : 80000123,
+		"type" : 42044012
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4333,
+		"reward" : 80000124,
+		"type" : 42044012,
+		"valuedRate" : 54166
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1000,
+		"reward" : 80000125,
+		"type" : 42044012,
+		"valuedRate" : 12501
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 61333,
+		"reward" : 80000133,
+		"type" : 42044012
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4333,
+		"reward" : 80000134,
+		"type" : 42044012,
+		"valuedRate" : 54166
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1000,
+		"reward" : 80000135,
+		"type" : 42044012,
+		"valuedRate" : 12501
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 61333,
+		"reward" : 80000143,
+		"type" : 42044012
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4333,
+		"reward" : 80000144,
+		"type" : 42044012,
+		"valuedRate" : 54166
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1000,
+		"reward" : 80000145,
+		"type" : 42044012,
+		"valuedRate" : 12501
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 61333,
+		"reward" : 80000153,
+		"type" : 42044012
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4333,
+		"reward" : 80000154,
+		"type" : 42044012,
+		"valuedRate" : 54166
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 1000,
+		"reward" : 80000155,
+		"type" : 42044012,
+		"valuedRate" : 12501
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000013,
+		"type" : 42044013
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000014,
+		"type" : 42044013,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000015,
+		"type" : 42044013,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000023,
+		"type" : 42044013
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000024,
+		"type" : 42044013,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000025,
+		"type" : 42044013,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000033,
+		"type" : 42044013
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000034,
+		"type" : 42044013,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000035,
+		"type" : 42044013,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000043,
+		"type" : 42044013
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000044,
+		"type" : 42044013,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000045,
+		"type" : 42044013,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000053,
+		"type" : 42044013
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000054,
+		"type" : 42044013,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000055,
+		"type" : 42044013,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000063,
+		"type" : 42044013
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000064,
+		"type" : 42044013,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000065,
+		"type" : 42044013,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000073,
+		"type" : 42044013
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000074,
+		"type" : 42044013,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000075,
+		"type" : 42044013,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000083,
+		"type" : 42044013
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000084,
+		"type" : 42044013,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000085,
+		"type" : 42044013,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000093,
+		"type" : 42044013
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000094,
+		"type" : 42044013,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000095,
+		"type" : 42044013,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000103,
+		"type" : 42044013
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000104,
+		"type" : 42044013,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000105,
+		"type" : 42044013,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000113,
+		"type" : 42044013
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000114,
+		"type" : 42044013,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000115,
+		"type" : 42044013,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000123,
+		"type" : 42044013
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000124,
+		"type" : 42044013,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000125,
+		"type" : 42044013,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000133,
+		"type" : 42044013
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000134,
+		"type" : 42044013,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000135,
+		"type" : 42044013,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000143,
+		"type" : 42044013
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000144,
+		"type" : 42044013,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000145,
+		"type" : 42044013,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000153,
+		"type" : 42044013
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000154,
+		"type" : 42044013,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000155,
+		"type" : 42044013,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000163,
+		"type" : 42044013
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000164,
+		"type" : 42044013,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000165,
+		"type" : 42044013,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000013,
+		"type" : 42044014
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000014,
+		"type" : 42044014,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000015,
+		"type" : 42044014,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000023,
+		"type" : 42044014
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000024,
+		"type" : 42044014,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000025,
+		"type" : 42044014,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000033,
+		"type" : 42044014
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000034,
+		"type" : 42044014,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000035,
+		"type" : 42044014,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000043,
+		"type" : 42044014
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000044,
+		"type" : 42044014,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000045,
+		"type" : 42044014,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000053,
+		"type" : 42044014
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000054,
+		"type" : 42044014,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000055,
+		"type" : 42044014,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000063,
+		"type" : 42044014
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000064,
+		"type" : 42044014,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000065,
+		"type" : 42044014,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000073,
+		"type" : 42044014
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000074,
+		"type" : 42044014,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000075,
+		"type" : 42044014,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000083,
+		"type" : 42044014
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000084,
+		"type" : 42044014,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000085,
+		"type" : 42044014,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000093,
+		"type" : 42044014
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000094,
+		"type" : 42044014,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000095,
+		"type" : 42044014,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000103,
+		"type" : 42044014
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000104,
+		"type" : 42044014,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000105,
+		"type" : 42044014,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000113,
+		"type" : 42044014
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000114,
+		"type" : 42044014,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000115,
+		"type" : 42044014,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000123,
+		"type" : 42044014
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000124,
+		"type" : 42044014,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000125,
+		"type" : 42044014,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000133,
+		"type" : 42044014
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000134,
+		"type" : 42044014,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000135,
+		"type" : 42044014,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000143,
+		"type" : 42044014
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000144,
+		"type" : 42044014,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000145,
+		"type" : 42044014,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000153,
+		"type" : 42044014
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000154,
+		"type" : 42044014,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000155,
+		"type" : 42044014,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000163,
+		"type" : 42044014
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000164,
+		"type" : 42044014,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000165,
+		"type" : 42044014,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000013,
+		"type" : 42044015
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000014,
+		"type" : 42044015,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000015,
+		"type" : 42044015,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000023,
+		"type" : 42044015
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000024,
+		"type" : 42044015,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000025,
+		"type" : 42044015,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000033,
+		"type" : 42044015
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000034,
+		"type" : 42044015,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000035,
+		"type" : 42044015,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000043,
+		"type" : 42044015
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000044,
+		"type" : 42044015,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000045,
+		"type" : 42044015,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000053,
+		"type" : 42044015
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000054,
+		"type" : 42044015,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000055,
+		"type" : 42044015,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000063,
+		"type" : 42044015
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000064,
+		"type" : 42044015,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000065,
+		"type" : 42044015,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000073,
+		"type" : 42044015
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000074,
+		"type" : 42044015,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000075,
+		"type" : 42044015,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000083,
+		"type" : 42044015
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000084,
+		"type" : 42044015,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000085,
+		"type" : 42044015,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000093,
+		"type" : 42044015
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000094,
+		"type" : 42044015,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000095,
+		"type" : 42044015,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000103,
+		"type" : 42044015
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000104,
+		"type" : 42044015,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000105,
+		"type" : 42044015,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000113,
+		"type" : 42044015
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000114,
+		"type" : 42044015,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000115,
+		"type" : 42044015,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000123,
+		"type" : 42044015
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000124,
+		"type" : 42044015,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000125,
+		"type" : 42044015,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000133,
+		"type" : 42044015
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000134,
+		"type" : 42044015,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000135,
+		"type" : 42044015,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000143,
+		"type" : 42044015
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000144,
+		"type" : 42044015,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000145,
+		"type" : 42044015,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000153,
+		"type" : 42044015
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000154,
+		"type" : 42044015,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000155,
+		"type" : 42044015,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000163,
+		"type" : 42044015
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000164,
+		"type" : 42044015,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000165,
+		"type" : 42044015,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000013,
+		"type" : 42044016
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000014,
+		"type" : 42044016,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000015,
+		"type" : 42044016,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000023,
+		"type" : 42044016
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000024,
+		"type" : 42044016,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000025,
+		"type" : 42044016,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000033,
+		"type" : 42044016
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000034,
+		"type" : 42044016,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000035,
+		"type" : 42044016,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000043,
+		"type" : 42044016
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000044,
+		"type" : 42044016,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000045,
+		"type" : 42044016,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000053,
+		"type" : 42044016
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000054,
+		"type" : 42044016,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000055,
+		"type" : 42044016,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000063,
+		"type" : 42044016
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000064,
+		"type" : 42044016,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000065,
+		"type" : 42044016,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000073,
+		"type" : 42044016
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000074,
+		"type" : 42044016,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000075,
+		"type" : 42044016,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000083,
+		"type" : 42044016
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000084,
+		"type" : 42044016,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000085,
+		"type" : 42044016,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000093,
+		"type" : 42044016
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000094,
+		"type" : 42044016,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000095,
+		"type" : 42044016,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000103,
+		"type" : 42044016
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000104,
+		"type" : 42044016,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000105,
+		"type" : 42044016,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000113,
+		"type" : 42044016
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000114,
+		"type" : 42044016,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000115,
+		"type" : 42044016,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000123,
+		"type" : 42044016
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000124,
+		"type" : 42044016,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000125,
+		"type" : 42044016,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000133,
+		"type" : 42044016
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000134,
+		"type" : 42044016,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000135,
+		"type" : 42044016,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000143,
+		"type" : 42044016
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000144,
+		"type" : 42044016,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000145,
+		"type" : 42044016,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000153,
+		"type" : 42044016
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000154,
+		"type" : 42044016,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000155,
+		"type" : 42044016,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000163,
+		"type" : 42044016
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000164,
+		"type" : 42044016,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000165,
+		"type" : 42044016,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000013,
+		"type" : 42044017
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000014,
+		"type" : 42044017,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000015,
+		"type" : 42044017,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000023,
+		"type" : 42044017
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000024,
+		"type" : 42044017,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000025,
+		"type" : 42044017,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000033,
+		"type" : 42044017
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000034,
+		"type" : 42044017,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000035,
+		"type" : 42044017,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000043,
+		"type" : 42044017
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000044,
+		"type" : 42044017,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000045,
+		"type" : 42044017,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000053,
+		"type" : 42044017
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000054,
+		"type" : 42044017,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000055,
+		"type" : 42044017,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000063,
+		"type" : 42044017
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000064,
+		"type" : 42044017,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000065,
+		"type" : 42044017,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000073,
+		"type" : 42044017
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000074,
+		"type" : 42044017,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000075,
+		"type" : 42044017,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000083,
+		"type" : 42044017
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000084,
+		"type" : 42044017,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000085,
+		"type" : 42044017,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000093,
+		"type" : 42044017
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000094,
+		"type" : 42044017,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000095,
+		"type" : 42044017,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000103,
+		"type" : 42044017
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000104,
+		"type" : 42044017,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000105,
+		"type" : 42044017,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000113,
+		"type" : 42044017
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000114,
+		"type" : 42044017,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000115,
+		"type" : 42044017,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000123,
+		"type" : 42044017
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000124,
+		"type" : 42044017,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000125,
+		"type" : 42044017,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000133,
+		"type" : 42044017
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000134,
+		"type" : 42044017,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000135,
+		"type" : 42044017,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000143,
+		"type" : 42044017
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000144,
+		"type" : 42044017,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000145,
+		"type" : 42044017,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000153,
+		"type" : 42044017
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000154,
+		"type" : 42044017,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000155,
+		"type" : 42044017,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000163,
+		"type" : 42044017
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000164,
+		"type" : 42044017,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000165,
+		"type" : 42044017,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000013,
+		"type" : 42044018
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000014,
+		"type" : 42044018,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000015,
+		"type" : 42044018,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000023,
+		"type" : 42044018
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000024,
+		"type" : 42044018,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000025,
+		"type" : 42044018,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000033,
+		"type" : 42044018
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000034,
+		"type" : 42044018,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000035,
+		"type" : 42044018,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000043,
+		"type" : 42044018
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000044,
+		"type" : 42044018,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000045,
+		"type" : 42044018,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000053,
+		"type" : 42044018
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000054,
+		"type" : 42044018,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000055,
+		"type" : 42044018,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000063,
+		"type" : 42044018
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000064,
+		"type" : 42044018,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000065,
+		"type" : 42044018,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000073,
+		"type" : 42044018
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000074,
+		"type" : 42044018,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000075,
+		"type" : 42044018,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000083,
+		"type" : 42044018
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000084,
+		"type" : 42044018,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000085,
+		"type" : 42044018,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000093,
+		"type" : 42044018
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000094,
+		"type" : 42044018,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000095,
+		"type" : 42044018,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000103,
+		"type" : 42044018
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000104,
+		"type" : 42044018,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000105,
+		"type" : 42044018,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000113,
+		"type" : 42044018
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000114,
+		"type" : 42044018,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000115,
+		"type" : 42044018,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000123,
+		"type" : 42044018
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000124,
+		"type" : 42044018,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000125,
+		"type" : 42044018,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000133,
+		"type" : 42044018
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000134,
+		"type" : 42044018,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000135,
+		"type" : 42044018,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000143,
+		"type" : 42044018
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000144,
+		"type" : 42044018,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000145,
+		"type" : 42044018,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000153,
+		"type" : 42044018
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000154,
+		"type" : 42044018,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000155,
+		"type" : 42044018,
+		"valuedRate" : 11725
+	},
+	
+	{
+		"num" : 1,
+		"rate" : 57500,
+		"reward" : 80000163,
+		"type" : 42044018
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 4062,
+		"reward" : 80000164,
+		"type" : 42044018,
+		"valuedRate" : 50775
+	},
+	
+	{
+		"broadcast" : 1,
+		"num" : 1,
+		"rate" : 938,
+		"reward" : 80000165,
+		"type" : 42044018,
+		"valuedRate" : 11725
+	}
+]
