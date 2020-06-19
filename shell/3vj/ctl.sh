@@ -29,20 +29,25 @@ fun_test(){
 	# 	echo "[3 == null]"
 	# fi
     for dir in ${NORMAL_DIRS[@]}; do
-        if [[ " ${COMPILE_DIRS[@]} " == " ${dir} " ]]; then
-            # whatever you want to do when array contains value
-            echo "`dir`:is compile dir"
-        fi
-        for f in $dir/*; do
-            if [ -d "$f" ]; then
-                # Will not run if no directories are available
-                cd $f
-                if [ -n "$(git status . --porcelain)" ]; then
-                    echo "`pwd`:there are changes";
-                fi
-            fi
-        done
+        # fun_array_contains COMPILE_DIRS $dir && echo $dir yes || echo $dir no    # yes
+		if $(fun_array_contains COMPILE_DIRS $dir); then
+			echo $dir yes
+		fi
     done
+}
+
+#判断值是否在数组中
+fun_array_contains(){ 
+    local array="$1[@]"
+    local seeking=$2
+    local in=1
+    for element in "${!array}"; do
+        if [[ $element == "$seeking" ]]; then
+            in=0
+            break
+        fi
+    done
+    return $in
 }
 
 #切分支+同步+编译
@@ -62,35 +67,47 @@ fun_build(){
 		fi
 	done
 
-	for cmd in ${COMPILE_CMDS[@]}; do
-		gulp $cmd
-	done
-
 	if [ -z "$_INTERUPT" ]; then
-		cd ${DIR_LIBS}
-		echo -e "\e[1;36m >>>>>>>>>>>>>>>>>>`pwd`\e[0m"
-		git checkout .
-		git checkout .
-		git clean -fd && git checkout $2 && git pull
-
-		# cd ${DIR_WWW}
-		# echo -e "\e[1;36m >>>>>>>>>>>>>>>>>>`pwd`\e[0m"
-		# cp debugParams/param-pre_平台3.0.txt ../param-pre_平台3.0.txt
-		# cp debugParams/param-test_平台3.0.txt ../param-test_平台3.0.txt
-		# git checkout .
-		# git checkout .
-		# git clean -fd && git checkout $2 && git pull
-		# mv ../param-pre_平台3.0.txt debugParams/param-pre_平台3.0.txt
-		# mv ../param-test_平台3.0.txt debugParams/param-test_平台3.0.txt
+		
+		fun_update_libs
 
 		if [ "$3" == "-n" ]; then
+			fun_update_www
 			gulp
 		elif [ "$3" == "-r" ]; then
+			fun_update_www
 			gulp --env rebuild
-		else
+		else #只执行pubilsh
+			fun_build_common
 			gulp publish
 		fi
 	fi
+}
+
+fun_build_common(){
+	for cmd in ${COMPILE_CMDS[@]}; do
+		gulp $cmd
+	done
+}
+
+fun_update_libs(){
+	cd ${DIR_LIBS}
+	echo -e "\e[1;36m >>>>>>>>>>>>>>>>>>`pwd`\e[0m"
+	git checkout .
+	git checkout .
+	git clean -fd && git checkout $2 && git pull
+}
+
+fun_update_www(){
+	cd ${DIR_WWW}
+	echo -e "\e[1;36m >>>>>>>>>>>>>>>>>>`pwd`\e[0m"
+	cp debugParams/param-pre_平台3.0.txt ../param-pre_平台3.0.txt
+	cp debugParams/param-test_平台3.0.txt ../param-test_平台3.0.txt
+	git checkout .
+	git checkout .
+	git clean -fd && git checkout $2 && git pull
+	mv ../param-pre_平台3.0.txt debugParams/param-pre_平台3.0.txt
+	mv ../param-test_平台3.0.txt debugParams/param-test_平台3.0.txt
 }
 
 #切分支+合并+编译
