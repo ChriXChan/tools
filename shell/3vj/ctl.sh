@@ -17,9 +17,10 @@ DIR_WWW=${DIR_ROOT}/swjia_www #
 DIR_LIBS=${DIR_ROOT}/swjia_libs # 
 
 NORMAL_DIRS=(${DIR_BASE} ${DIR_CLOUD3D_PLUGIN} ${DIR_DOMAIN} ${DIR_FRAMEWORK} ${DIR_MAIN} ${DIR_PLUGIN} ${DIR_RESOURCE} ${DIR_SERVICE} ${DIR_THIRDPART})
-COMPILE_DIRS=(${DIR_BASE} ${DIR_CLOUD3D_PLUGIN} ${DIR_DOMAIN} ${DIR_FRAMEWORK} ${DIR_MAIN} ${DIR_PLUGIN} ${DIR_SERVICE} ${DIR_THIRDPART})
+COMPILE_DIRS=(${DIR_CLOUD3D_PLUGIN} ${DIR_MAIN} ${DIR_PLUGIN} ${DIR_SERVICE} ${DIR_THIRDPART})
 
-COMPILE_CMDS=("framework" "base" "domain" "plugin_su")
+COMPILE_CMDS=("framework" "base" "domain")
+UNCOMMIT_CMDS=()
 
 #测试
 fun_test(){
@@ -31,9 +32,22 @@ fun_test(){
     for dir in ${NORMAL_DIRS[@]}; do
         # fun_array_contains COMPILE_DIRS $dir && echo $dir yes || echo $dir no    # yes
 		if $(fun_array_contains COMPILE_DIRS $dir); then
-			echo $dir yes
+			# echo $dir yes
+			fun_find_dir_compiles $dir
 		fi
     done
+	for cmd in ${UNCOMMIT_CMDS[@]}; do
+		echo $cmd
+	done
+	# for f in $dir/*; do
+	#     if [ -d "$f" ]; then
+	#         # Will not run if no directories are available
+	#         cd $f
+	#         if [ -n "$(git status . --porcelain)" ]; then
+	#             echo "`pwd`:there are changes";
+	#         fi
+	#     fi
+	# done
 }
 
 #判断值是否在数组中
@@ -48,6 +62,44 @@ fun_array_contains(){
         fi
     done
     return $in
+}
+#查找文件夹下未提交的编译命令[/d/xxx/yyy/swjia_cloud3d_plugin/parameter.cabinet -> cloud3d_plugin_parameter_cabinet]
+fun_find_dir_compiles(){
+	local dir=$1
+	local splits=(${dir//_/ })
+	local cmd_pre=${splits[1]}
+	splits=("${splits[@]:2}")
+	for item in ${splits[@]}
+	do
+		cmd_pre="${cmd_pre}_${item}"
+	done
+	# echo $cmd
+	# if $(fun_array_contains COMPILE_CMDS $cmd_pre); then
+	# 	return 0
+	# fi
+
+	local splits2=
+	local cmd_next=
+	for f in $dir/*; do
+	    if [ -d "$f" ]; then
+	        cd $f
+	        if [ -n "$(git status . --porcelain)" ]; then
+				splits2=(${f//\// })
+				local temp=${splits2[-1]}
+				splits2=(${temp//./ })
+				cmd_next=${splits2[0]}
+				splits2=("${splits2[@]:1}")
+				for item2 in ${splits2[@]}
+				do
+					cmd_next="${cmd_next}_${item2}"
+				done
+				# echo $cmd_next
+				UNCOMMIT_CMDS+=("${cmd_pre}_${cmd_next}")
+	            # echo "`pwd`:there are changes";
+	        fi
+	    fi
+	done
+	return 1
 }
 
 #切分支+同步+编译
@@ -64,6 +116,8 @@ fun_build(){
     		echo -e "\e[1;31m [冲突]${conflictRefs}\e[0m"
     		_INTERUPT="1"
     		break
+		elif $(fun_array_contains COMPILE_DIRS $dir); then
+			fun_find_dir_compiles $dir
 		fi
 	done
 
@@ -79,6 +133,7 @@ fun_build(){
 			gulp --env rebuild
 		else #只执行pubilsh
 			fun_build_common
+			fun_build_uncommit
 			gulp publish
 		fi
 	fi
@@ -86,6 +141,12 @@ fun_build(){
 
 fun_build_common(){
 	for cmd in ${COMPILE_CMDS[@]}; do
+		gulp $cmd
+	done
+}
+
+fun_build_uncommit(){
+	for cmd in ${UNCOMMIT_CMDS[@]}; do
 		gulp $cmd
 	done
 }
