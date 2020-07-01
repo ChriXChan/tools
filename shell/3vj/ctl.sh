@@ -51,20 +51,22 @@ fun_test(){
 	#     fi
 	# done
 
-	branch_name=
-	params=
-	if [ -n "$2" ]; then
-		if [[ $2 == *-* ]]; then
-			params=$2
-		else
-			branch_name=$2
-		fi
-	fi
-	if [ -n "$3" ]; then
-		params=$3
-	fi
-	echo $branch_name
-	echo $params
+	# branch_name=
+	# params=
+	# if [ -n "$2" ]; then
+	# 	if [[ $2 == *-* ]]; then
+	# 		params=$2
+	# 	else
+	# 		branch_name=$2
+	# 	fi
+	# fi
+	# if [ -n "$3" ]; then
+	# 	params=$3
+	# fi
+	# echo $branch_name
+	# echo $params
+
+	fun_update_www
 }
 
 #判断值是否在数组中
@@ -157,13 +159,13 @@ fun_build(){
 
 	if [ -z "$_INTERUPT" ]; then
 		
-		fun_update_libs
+		fun_update_libs $branch_name
 
 		if [ "$params" == "-n" ]; then
-			fun_update_www
+			fun_update_www $branch_name
 			gulp
 		elif [ "$params" == "-r" ]; then
-			fun_update_www
+			fun_update_www $branch_name
 			gulp --env rebuild
 		else #只执行pubilsh
 			fun_build_common
@@ -186,23 +188,34 @@ fun_build_uncommit(){
 }
 
 fun_update_libs(){
+	branch_name=$1
 	cd ${DIR_LIBS}
 	echo -e "\e[1;36m >>>>>>>>>>>>>>>>>>`pwd`\e[0m"
 	git checkout .
 	git checkout .
-	git clean -fd && git checkout $2 && git pull
+	git clean -fd
+	if [ -n "$branch_name" ]; then
+		git checkout $branch_name
+	fi
+	git pull
 }
 
 fun_update_www(){
+	branch_name=$1
 	cd ${DIR_WWW}
+	echo `pwd`
 	echo -e "\e[1;36m >>>>>>>>>>>>>>>>>>`pwd`\e[0m"
-	cp debugParams/param-pre_平台3.0.txt ../param-pre_平台3.0.txt
-	cp debugParams/param-test_平台3.0.txt ../param-test_平台3.0.txt
+	cp debugParams/param-pre.json ../param-pre.json
+	cp debugParams/param-test.json ../param-test.json
 	git checkout .
 	git checkout .
-	git clean -fd && git checkout $2 && git pull
-	mv ../param-pre_平台3.0.txt debugParams/param-pre_平台3.0.txt
-	mv ../param-test_平台3.0.txt debugParams/param-test_平台3.0.txt
+	git clean -fd
+	if [ -n "$branch_name" ]; then
+		git checkout $branch_name
+	fi
+	git pull
+	mv ../param-pre.json debugParams/param-pre.json
+	mv ../param-test.json debugParams/param-test.json
 }
 
 #切分支+合并+编译
