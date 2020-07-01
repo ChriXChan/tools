@@ -19,7 +19,7 @@ DIR_LIBS=${DIR_ROOT}/swjia_libs #
 NORMAL_DIRS=(${DIR_BASE} ${DIR_CLOUD3D_PLUGIN} ${DIR_DOMAIN} ${DIR_FRAMEWORK} ${DIR_MAIN} ${DIR_PLUGIN} ${DIR_RESOURCE} ${DIR_SERVICE} ${DIR_THIRDPART})
 COMPILE_DIRS=(${DIR_CLOUD3D_PLUGIN} ${DIR_MAIN} ${DIR_PLUGIN} ${DIR_SERVICE} ${DIR_THIRDPART})
 
-COMPILE_CMDS=("framework" "base" "domain")
+COMPILE_CMDS=("framework" "domain" "base")
 UNCOMMIT_CMDS=()
 
 #测试
@@ -29,16 +29,18 @@ fun_test(){
 	# else
 	# 	echo "[3 == null]"
 	# fi
-    for dir in ${NORMAL_DIRS[@]}; do
-        # fun_array_contains COMPILE_DIRS $dir && echo $dir yes || echo $dir no    # yes
-		if $(fun_array_contains COMPILE_DIRS $dir); then
-			# echo $dir yes
-			fun_find_dir_compiles $dir
-		fi
-    done
-	for cmd in ${UNCOMMIT_CMDS[@]}; do
-		echo $cmd
-	done
+
+    # for dir in ${NORMAL_DIRS[@]}; do
+    #     # fun_array_contains COMPILE_DIRS $dir && echo $dir yes || echo $dir no    # yes
+	# 	if $(fun_array_contains COMPILE_DIRS $dir); then
+	# 		# echo $dir yes
+	# 		fun_find_dir_compiles $dir
+	# 	fi
+    # done
+	# for cmd in ${UNCOMMIT_CMDS[@]}; do
+	# 	echo $cmd
+	# done
+
 	# for f in $dir/*; do
 	#     if [ -d "$f" ]; then
 	#         # Will not run if no directories are available
@@ -48,6 +50,21 @@ fun_test(){
 	#         fi
 	#     fi
 	# done
+
+	branch_name=
+	params=
+	if [ -n "$2" ]; then
+		if [[ $2 == *-* ]]; then
+			params=$2
+		else
+			branch_name=$2
+		fi
+	fi
+	if [ -n "$3" ]; then
+		params=$3
+	fi
+	echo $branch_name
+	echo $params
 }
 
 #判断值是否在数组中
@@ -104,13 +121,30 @@ fun_find_dir_compiles(){
 
 #切分支+同步+编译
 fun_build(){
+	branch_name=
+	params=
+	if [ -n "$2" ]; then
+		if [[ $2 == *-* ]]; then
+			params=$2
+		else
+			branch_name=$2
+		fi
+	fi
+	if [ -n "$3" ]; then
+		params=$3
+	fi
+
 	cd ${DIR_ROOT}
 	git pull
 	_INTERUPT=
 	for dir in ${NORMAL_DIRS[@]}; do
 		cd $dir
 		echo -e "\e[1;36m >>>>>>>>>>>>>>>>>>`pwd`\e[0m"
-		git stash -u && git checkout $2 && git pull --rebase && git stash pop
+		git stash -u
+		if [ -n "$branch_name" ]; then
+			git checkout $branch_name
+		fi
+		git pull --rebase && git stash pop
 		conflictRefs=`git diff --name-only --diff-filter=U`
 		if [ -n "$conflictRefs" ]; then
     		echo -e "\e[1;31m [冲突]${conflictRefs}\e[0m"
@@ -125,10 +159,10 @@ fun_build(){
 		
 		fun_update_libs
 
-		if [ "$3" == "-n" ]; then
+		if [ "$params" == "-n" ]; then
 			fun_update_www
 			gulp
-		elif [ "$3" == "-r" ]; then
+		elif [ "$params" == "-r" ]; then
 			fun_update_www
 			gulp --env rebuild
 		else #只执行pubilsh
