@@ -66,7 +66,13 @@ fun_test(){
 	# echo $branch_name
 	# echo $params
 
-	fun_update_www
+	# fun_updatewww
+
+	# echo "asss $12"
+
+	# cd ${DIR_WWW}
+	# fun_save_temp_file . index.html
+	# fun_restore_temp_file debugParams param-pre.json
 }
 
 #判断值是否在数组中
@@ -121,6 +127,32 @@ fun_find_dir_compiles(){
 	return 1
 }
 
+fun_save_temp_file(){
+	local dir=$1
+	local file=$2
+	cp $dir/$file ${DIR_ROOT}/$file
+}
+
+fun_restore_temp_file(){
+	local dir=$1
+	local file=$2
+	mv ${DIR_ROOT}/$file $dir/$file
+}
+
+fun_save_www_temp_files(){
+	fun_save_temp_file debugParams param-pre.json
+	fun_save_temp_file debugParams param-test.json
+	fun_save_temp_file . index.html
+	fun_save_temp_file js init.js
+}
+
+fun_restore_www_temp_files(){
+	fun_restore_temp_file debugParams param-pre.json
+	fun_restore_temp_file debugParams param-test.json
+	fun_restore_temp_file . index.html
+	fun_restore_temp_file js init.js
+}
+
 #切分支+同步+编译
 fun_build(){
 	branch_name=
@@ -146,32 +178,44 @@ fun_build(){
 		if [ -n "$branch_name" ]; then
 			git checkout $branch_name
 		fi
-		git pull --rebase && git stash pop
+		git pull --rebase
 		conflictRefs=`git diff --name-only --diff-filter=U`
 		if [ -n "$conflictRefs" ]; then
-    		echo -e "\e[1;31m [冲突]${conflictRefs}\e[0m"
+    		echo -e "\e[1;31m [更新冲突]${conflictRefs}\e[0m"
     		_INTERUPT="1"
-    		break
-		elif $(fun_array_contains COMPILE_DIRS $dir); then
+    		# break # 有冲突不中止，继续更新剩下的库
+		else
+			git stash pop
+			conflictRefs=`git diff --name-only --diff-filter=U`
+			if [ -n "$conflictRefs" ]; then
+				echo -e "\e[1;31m [贮藏冲突]${conflictRefs}\e[0m"
+				_INTERUPT="1"
+				git stash drop #冲突了执行一次drop
+			fi
+		fi
+		if $(fun_array_contains COMPILE_DIRS $dir); then
 			fun_find_dir_compiles $dir
 		fi
 	done
 
 	if [ -z "$_INTERUPT" ]; then
 		
-		fun_update_libs $branch_name
+		fun_updatelibs $branch_name
 
 		if [ "$params" == "-n" ]; then
-			fun_update_www $branch_name
-			gulp
+			fun_updatewww $branch_name
+			gulp --env fastbuild # gulp
 		elif [ "$params" == "-r" ]; then
-			fun_update_www $branch_name
+			fun_updatewww $branch_name
 			gulp --env rebuild
 		else #只执行pubilsh
+			fun_updatewww $branch_name
+			gulp publish
 			fun_build_common
 			fun_build_uncommit
-			gulp publish
 		fi
+	else
+		echo  -e "\e[1;31m [严重!解决完上面的冲突再执行build]\e[0m"
 	fi
 }
 
@@ -187,8 +231,10 @@ fun_build_uncommit(){
 	done
 }
 
-fun_update_libs(){
-	branch_name=$1
+fun_updatelibs(){
+	if [ "$1" != "updatelibs" ]; then
+		branch_name=$1
+	fi
 	cd ${DIR_LIBS}
 	echo -e "\e[1;36m >>>>>>>>>>>>>>>>>>`pwd`\e[0m"
 	git checkout .
@@ -200,13 +246,16 @@ fun_update_libs(){
 	git pull
 }
 
-fun_update_www(){
-	branch_name=$1
+fun_updatewww(){
+	if [ "$1" != "updatewww" ]; then
+		branch_name=$1
+	fi
 	cd ${DIR_WWW}
 	echo `pwd`
 	echo -e "\e[1;36m >>>>>>>>>>>>>>>>>>`pwd`\e[0m"
-	cp debugParams/param-pre.json ../param-pre.json
-	cp debugParams/param-test.json ../param-test.json
+	
+	fun_save_www_temp_files
+
 	git checkout .
 	git checkout .
 	git clean -fd
@@ -214,8 +263,8 @@ fun_update_www(){
 		git checkout $branch_name
 	fi
 	git pull
-	mv ../param-pre.json debugParams/param-pre.json
-	mv ../param-test.json debugParams/param-test.json
+	
+	fun_restore_www_temp_files
 }
 
 #切分支+合并+编译
@@ -224,22 +273,30 @@ fun_merge(){
 	for dir in ${NORMAL_DIRS[@]}; do
 		cd $dir
 		echo -e "\e[1;36m >>>>>>>>>>>>>>>>>>`pwd`\e[0m"
-		git stash && git checkout $2 && git pull --rebase && git merge origin/$3
+		git stash && git checkout $2 && git pull --rebase && git merge origin/$3 --no-commit
 		conflictRefs=`git diff --name-only --diff-filter=U`
 		if [ -n "$conflictRefs" ]; then
-    		echo -e "\e[1;31m [冲突]${conflictRefs}\e[0m"
+    		echo -e "\e[1;31m [合并冲突]${conflictRefs}\e[0m"
     		_INTERUPT="1"
     		break
 		fi
 		git push && git stash pop
+		conflictRefs=`git diff --name-only --diff-filter=U`
+		if [ -n "$conflictRefs" ]; then
+    		echo -e "\e[1;31m [贮藏冲突]${conflictRefs}\e[0m"
+    		git stash drop #冲突了执行一次drop
+    		break
+		fi
 	done
 
-	# if [ -z "$_INTERUPT" ]; then
-	# 	cd ${DIR_LIBS}
-	# 	echo -e "\e[1;36m >>>>>>>>>>>>>>>>>>`pwd`\e[0m"
-	# 	git checkout .
-	# 	git checkout .
-	# 	git clean -fd && git checkout $2 && git pull && git merge origon/$3
+	if [ -z "$_INTERUPT" ]; then
+		cd ${DIR_LIBS}
+		echo -e "\e[1;36m >>>>>>>>>>>>>>>>>>`pwd`\e[0m"
+		git checkout .
+		git checkout .
+		git clean -fd && git checkout $2 && git pull && git merge origin/$3 && git checkout MERGE_HEAD .
+		git commit -am "merge orign/$3" && git push
+	fi
 		
 	# 	conflictRefs=`git diff --name-only --diff-filter=U`
 	# 	if [ -n "$conflictRefs" ]; then
@@ -260,28 +317,26 @@ fun_create(){
 		echo -e "\e[1;36m >>>>>>>>>>>>>>>>>>`pwd`\e[0m"
 		git stash && git checkout -b $2 origin/$3 && git push --set-upstream origin $2 && git stash pop
 	done
-	cd ${DIR_LIBS}
-	echo -e "\e[1;36m >>>>>>>>>>>>>>>>>>`pwd`\e[0m"
-	git checkout .
-	git checkout .
-	git clean -fd && git checkout -b $2 origin/$3 && git push origin $2
+	fun_updatelibs
+	git checkout -b $2 origin/$3 && git push origin $2
 
-	cd ${DIR_WWW}
-	echo -e "\e[1;36m >>>>>>>>>>>>>>>>>>`pwd`\e[0m"
-	cp debugParams/param-pre_平台3.0.txt ../param-pre_平台3.0.txt
-	cp debugParams/param-test_平台3.0.txt ../param-test_平台3.0.txt
+	fun_updatewww
+	
+	fun_save_www_temp_files
+
 	git checkout .
-	git checkout .
-	git clean -fd && git checkout -b $2 origin/$3 && git push origin $2
-	mv ../param-pre_平台3.0.txt debugParams/param-pre_平台3.0.txt
-	mv ../param-test_平台3.0.txt debugParams/param-test_平台3.0.txt
+	git checkout -b $2 origin/$3 && git push origin $2
+	
+	fun_restore_www_temp_files
 }
 
 ## 命令行帮助
 fun_help(){
-    echo "build[branch_id] [-n|-r]          全部编译[默认直接publish;-n执行gulp;-r执行gulp rebuild]"
-    echo "merge[mergin branch_id] [to merge branch_id]           全部合并"
-    echo "create[new branch_id] [relate merge branch_id]         全部创建"
+    echo "build [branch_id] [-n|-r]          全部编译[默认直接publish;-n执行gulp;-r执行gulp rebuild]"
+    echo "updatewww [branch_id]              更新www[重置当前并拉取最新;保留prams_pre/test配置]"
+    echo "updatelibs [branch_id]             更新libs[重置当前并拉取最新]"
+    echo "merge [mergin branch_id] [to merge branch_id]           全部合并"
+    echo "create [new branch_id] [relate merge branch_id]         全部创建"
 }
 
 ## 退出
