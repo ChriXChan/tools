@@ -16,64 +16,13 @@ DIR_THIRDPART=${DIR_ROOT}/swjia_thirdpart #
 DIR_WWW=${DIR_ROOT}/swjia_www # 
 DIR_LIBS=${DIR_ROOT}/swjia_libs # 
 
+THEME_PACKER_BAT=${DIR_ROOT}/../h5tools/SvjThemeExplorerForTs/run.bat # 资源打包
+
 NORMAL_DIRS=(${DIR_BASE} ${DIR_CLOUD3D_PLUGIN} ${DIR_DOMAIN} ${DIR_FRAMEWORK} ${DIR_MAIN} ${DIR_PLUGIN} ${DIR_RESOURCE} ${DIR_SERVICE} ${DIR_THIRDPART})
 COMPILE_DIRS=(${DIR_CLOUD3D_PLUGIN} ${DIR_MAIN} ${DIR_PLUGIN} ${DIR_SERVICE} ${DIR_THIRDPART})
 
 COMPILE_CMDS=("framework" "domain" "base")
 UNCOMMIT_CMDS=()
-
-#测试
-fun_test(){
-	# if [ "$3" == "--fast" ]; then
-	# 	echo "[3 == fast]"
-	# else
-	# 	echo "[3 == null]"
-	# fi
-
-    # for dir in ${NORMAL_DIRS[@]}; do
-    #     # fun_array_contains COMPILE_DIRS $dir && echo $dir yes || echo $dir no    # yes
-	# 	if $(fun_array_contains COMPILE_DIRS $dir); then
-	# 		# echo $dir yes
-	# 		fun_find_dir_compiles $dir
-	# 	fi
-    # done
-	# for cmd in ${UNCOMMIT_CMDS[@]}; do
-	# 	echo $cmd
-	# done
-
-	# for f in $dir/*; do
-	#     if [ -d "$f" ]; then
-	#         # Will not run if no directories are available
-	#         cd $f
-	#         if [ -n "$(git status . --porcelain)" ]; then
-	#             echo "`pwd`:there are changes";
-	#         fi
-	#     fi
-	# done
-
-	# branch_name=
-	# params=
-	# if [ -n "$2" ]; then
-	# 	if [[ $2 == *-* ]]; then
-	# 		params=$2
-	# 	else
-	# 		branch_name=$2
-	# 	fi
-	# fi
-	# if [ -n "$3" ]; then
-	# 	params=$3
-	# fi
-	# echo $branch_name
-	# echo $params
-
-	# fun_updatewww
-
-	# echo "asss $12"
-
-	# cd ${DIR_WWW}
-	# fun_save_temp_file . index.html
-	# fun_restore_temp_file debugParams param-pre.json
-}
 
 #判断值是否在数组中
 fun_array_contains(){ 
@@ -155,17 +104,10 @@ fun_restore_www_temp_files(){
 
 #切分支+同步+编译
 fun_build(){
-	branch_name=
-	params=
-	if [ -n "$2" ]; then
-		if [[ $2 == *-* ]]; then
-			params=$2
-		else
-			branch_name=$2
-		fi
-	fi
-	if [ -n "$3" ]; then
-		params=$3
+	local params=$*
+	local branch_name=
+	if [[ $2 != *-* ]]; then
+		branch_name=$2
 	fi
 
 	cd ${DIR_ROOT}
@@ -173,7 +115,7 @@ fun_build(){
 	_INTERUPT=
 	for dir in ${NORMAL_DIRS[@]}; do
 		cd $dir
-		echo -e "\e[1;36m >>>>>>>>>>>>>>>>>>`pwd`\e[0m"
+		echo -e "\e[1;36m build>>>>>>>>>>>>>>>>>>`pwd`\e[0m"
 		git stash -u
 		if [ -n "$branch_name" ]; then
 			git checkout $branch_name
@@ -202,10 +144,10 @@ fun_build(){
 		
 		fun_updatelibs $branch_name
 
-		if [ "$params" == "-n" ]; then
+		if [[ "$params" == *-n* ]]; then
 			fun_updatewww $branch_name
 			gulp --env fastbuild # gulp
-		elif [ "$params" == "-r" ]; then
+		elif [[ "$params" == *-r* ]]; then
 			fun_updatewww $branch_name
 			gulp --env rebuild
 		else #只执行pubilsh
@@ -213,6 +155,9 @@ fun_build(){
 			gulp publish
 			fun_build_common
 			fun_build_uncommit
+		fi
+		if [[ "$params" == *-exebat* ]]; then
+			fun_callbat $THEME_PACKER_BAT
 		fi
 	else
 		echo  -e "\e[1;31m [严重!解决完上面的冲突再执行build]\e[0m"
@@ -236,7 +181,7 @@ fun_updatelibs(){
 		branch_name=$1
 	fi
 	cd ${DIR_LIBS}
-	echo -e "\e[1;36m >>>>>>>>>>>>>>>>>>`pwd`\e[0m"
+	echo -e "\e[1;36m update>>>>>>>>>>>>>>>>>>`pwd`\e[0m"
 	git checkout .
 	git checkout .
 	git clean -fd
@@ -252,7 +197,7 @@ fun_updatewww(){
 	fi
 	cd ${DIR_WWW}
 	echo `pwd`
-	echo -e "\e[1;36m >>>>>>>>>>>>>>>>>>`pwd`\e[0m"
+	echo -e "\e[1;36m update>>>>>>>>>>>>>>>>>>`pwd`\e[0m"
 	
 	fun_save_www_temp_files
 
@@ -267,12 +212,19 @@ fun_updatewww(){
 	fun_restore_www_temp_files
 }
 
+fun_callbat(){
+	local batdir=`dirname $1`
+	local batname=`basename $1`
+	cd ${batdir}
+	./$batname
+}
+
 #切分支+合并+编译
 fun_merge(){
 	_INTERUPT=
 	for dir in ${NORMAL_DIRS[@]}; do
 		cd $dir
-		echo -e "\e[1;36m >>>>>>>>>>>>>>>>>>`pwd`\e[0m"
+		echo -e "\e[1;36m merge>>>>>>>>>>>>>>>>>>`pwd`\e[0m"
 		git stash && git checkout $2 && git pull --rebase && git merge origin/$3 --no-commit
 		conflictRefs=`git diff --name-only --diff-filter=U`
 		if [ -n "$conflictRefs" ]; then
@@ -291,7 +243,7 @@ fun_merge(){
 
 	if [ -z "$_INTERUPT" ]; then
 		cd ${DIR_LIBS}
-		echo -e "\e[1;36m >>>>>>>>>>>>>>>>>>`pwd`\e[0m"
+		echo -e "\e[1;36m merge>>>>>>>>>>>>>>>>>>`pwd`\e[0m"
 		git checkout .
 		git checkout .
 		git clean -fd && git checkout $2 && git pull && git merge origin/$3 && git checkout MERGE_HEAD .
@@ -335,7 +287,7 @@ fun_help(){
     echo "build [branch_id] [-n|-r]          全部编译[默认直接publish;-n执行gulp;-r执行gulp rebuild]"
     echo "updatewww [branch_id]              更新www[重置当前并拉取最新;保留prams_pre/test配置]"
     echo "updatelibs [branch_id]             更新libs[重置当前并拉取最新]"
-    echo "merge [mergin branch_id] [to merge branch_id]           全部合并"
+    echo "merge [mergin branch_id] [from merge branch_id]         全部合并"
     echo "create [new branch_id] [relate merge branch_id]         全部创建"
 }
 
