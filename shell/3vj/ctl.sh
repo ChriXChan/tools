@@ -21,7 +21,7 @@ THEME_PACKER_BAT=${DIR_ROOT}/../h5tools/SvjThemeExplorerForTs/run.bat # 资源�
 NORMAL_DIRS=(${DIR_BASE} ${DIR_CLOUD3D_PLUGIN} ${DIR_DOMAIN} ${DIR_FRAMEWORK} ${DIR_MAIN} ${DIR_PLUGIN} ${DIR_RESOURCE} ${DIR_SERVICE} ${DIR_THIRDPART})
 COMPILE_DIRS=(${DIR_CLOUD3D_PLUGIN} ${DIR_MAIN} ${DIR_PLUGIN} ${DIR_SERVICE} ${DIR_THIRDPART})
 
-COMPILE_CMDS=("framework" "domain" "base")
+COMPILE_CMDS=("framework" "domain" "domain_domain" "base" "base_base")
 UNCOMMIT_CMDS=()
 
 #判断值是否在数组中
@@ -221,18 +221,32 @@ fun_callbat(){
 
 #切分支+合并+编译
 fun_merge(){
+	local params=$*
 	_INTERUPT=
 	for dir in ${NORMAL_DIRS[@]}; do
 		cd $dir
 		echo -e "\e[1;36m merge>>>>>>>>>>>>>>>>>>`pwd`\e[0m"
-		git stash && git checkout $2 && git pull --rebase && git merge origin/$3 --no-commit
+		git stash && git checkout $2 
+		
+		if [[ "$params" == *-local* ]]; then
+			git pull
+		else
+			git pull --rebase
+		fi
+		
+		git merge origin/$3 --no-commit
 		conflictRefs=`git diff --name-only --diff-filter=U`
 		if [ -n "$conflictRefs" ]; then
     		echo -e "\e[1;31m [合并冲突]${conflictRefs}\e[0m"
     		_INTERUPT="1"
     		break
 		fi
-		git push && git stash pop
+
+		if [[ "$params" == *-push* ]]; then
+			git push
+		fi
+		
+		git stash pop
 		conflictRefs=`git diff --name-only --diff-filter=U`
 		if [ -n "$conflictRefs" ]; then
     		echo -e "\e[1;31m [贮藏冲突]${conflictRefs}\e[0m"
@@ -246,49 +260,75 @@ fun_merge(){
 		echo -e "\e[1;36m merge>>>>>>>>>>>>>>>>>>`pwd`\e[0m"
 		git checkout .
 		git checkout .
-		git clean -fd && git checkout $2 && git pull && git merge origin/$3 && git checkout MERGE_HEAD .
-		git commit -am "merge orign/$3" && git push
-	fi
+		git clean -fd && git checkout $2 && git pull && git merge origin/$3
 		
-	# 	conflictRefs=`git diff --name-only --diff-filter=U`
-	# 	if [ -n "$conflictRefs" ]; then
- #    		echo -e "\e[1;31m [冲突]${conflictRefs}\e[0m"
- #    		_INTERUPT="1"
- #    		break
-	# 	fi
+		conflictRefs=`git diff --name-only --diff-filter=U`
+		if [ -n "$conflictRefs" ]; then
+    		git checkout MERGE_HEAD .
+    		git commit -am "merge orign/$3"
+		fi
 
-	# 	if [ -z "$_INTERUPT" ]; then
-	# 		gulp
-	# 	fi
-	# fi
+		if [[ "$params" == *-push* ]]; then
+			git push
+		fi
+	fi
 }
+
 #创建分支
 fun_create(){
+	local params=$*
 	for dir in ${NORMAL_DIRS[@]}; do
 		cd $dir
 		echo -e "\e[1;36m >>>>>>>>>>>>>>>>>>`pwd`\e[0m"
-		git stash && git checkout -b $2 origin/$3 && git push --set-upstream origin $2 && git stash pop
+		git stash && git checkout -b $2 origin/$3 
+		if [[ "$params" == *-push* ]]; then
+			git push --set-upstream origin $2 
+		fi
+		git stash pop
 	done
 	fun_updatelibs
-	git checkout -b $2 origin/$3 && git push origin $2
+	git checkout -b $2 origin/$3 
+	
+	if [[ "$params" == *-push* ]]; then
+		git push --set-upstream origin $2
+	fi
 
 	fun_updatewww
 	
 	fun_save_www_temp_files
 
 	git checkout .
-	git checkout -b $2 origin/$3 && git push origin $2
+	git checkout -b $2 origin/$3
+	
+	if [[ "$params" == *-push* ]]; then
+		git push --set-upstream origin $2
+	fi
 	
 	fun_restore_www_temp_files
 }
 
 ## 命令行帮助
 fun_help(){
-    echo "build [branch_id] [-n|-r]          全部编译[默认直接publish;-n执行gulp;-r执行gulp rebuild]"
-    echo "updatewww [branch_id]              更新www[重置当前并拉取最新;保留prams_pre/test配置]"
-    echo "updatelibs [branch_id]             更新libs[重置当前并拉取最新]"
-    echo "merge [mergin branch_id] [from merge branch_id]         全部合并"
-    echo "create [new branch_id] [relate merge branch_id]         全部创建"
+	echo -e "\e[1;31m######################帮助说明#####################\e[0m"
+	echo -e "\e[1;31m[]表示必选参数\e[0m"
+	echo -e "\e[1;31m<>表示可选参数\e[0m"
+	echo -e "\e[1;31m######################帮助说明#####################\e[0m"
+    echo -e "\e[33mbuild [branch_id] <-n|-r|-onlyupdate>          全部编译[默认编译framework/domain/base库]\e[0m
+-n:执行gulp编译
+-r:执行gulp rebuild编译
+-onlyupdate:只更新库不编译
+	"
+	echo -e "\e[33mmerge [merge branch_id] [from branch_id] <-local|-nopush> 全部合并[默认只合并]\e[0m
+-push:合并完push到远程分支
+-local:合并分支是本地分支没有远程分支
+	"
+    echo -e "\e[33mcreate [new branch_id] [from branch_id]          全部创建[默认只创建]\e[0m
+-push:创建完push到远程分支
+	"
+    echo -e "\e[33mupdatewww [branch_id]              更新www[重置当前并拉取最新;保留prams_pre/test配置]\e[0m
+	"
+    echo -e "\e[33mupdatelibs [branch_id]             更新libs[重置当前并拉取最新]\e[0m
+	"
 }
 
 ## 退出
