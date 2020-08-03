@@ -4,6 +4,7 @@
 # @author chenhaibin
 # ---------------------------------------------------------
 DIR_ROOT=`pwd` # 起始目录
+DIR_CONF=${DIR_ROOT}/config # 
 DIR_BASE=${DIR_ROOT}/swjia_base # 
 DIR_CLOUD3D_PLUGIN=${DIR_ROOT}/swjia_cloud3d_plugin # 
 DIR_DOMAIN=${DIR_ROOT}/swjia_domain # 
@@ -18,11 +19,15 @@ DIR_LIBS=${DIR_ROOT}/swjia_libs #
 
 THEME_PACKER_BAT=${DIR_ROOT}/../h5tools/SvjThemeExplorerForTs/run.bat # 资源打包
 
-NORMAL_DIRS=(${DIR_BASE} ${DIR_CLOUD3D_PLUGIN} ${DIR_DOMAIN} ${DIR_FRAMEWORK} ${DIR_MAIN} ${DIR_PLUGIN} ${DIR_RESOURCE} ${DIR_SERVICE} ${DIR_THIRDPART})
+NORMAL_DIRS=(${DIR_CONF} ${DIR_BASE} ${DIR_CLOUD3D_PLUGIN} ${DIR_DOMAIN} ${DIR_FRAMEWORK} ${DIR_MAIN} ${DIR_PLUGIN} ${DIR_RESOURCE} ${DIR_SERVICE} ${DIR_THIRDPART})
 COMPILE_DIRS=(${DIR_CLOUD3D_PLUGIN} ${DIR_MAIN} ${DIR_PLUGIN} ${DIR_SERVICE} ${DIR_THIRDPART})
 
-COMPILE_CMDS=("framework" "domain" "domain_domain" "base" "base_base")
+COMPILE_CMDS=("framework" "domain" "domain_domain" "base" "base_base" "base_su" "plugin_su")
 UNCOMMIT_CMDS=()
+
+fun_test(){
+	fun_callbat $THEME_PACKER_BAT
+}
 
 #判断值是否在数组中
 fun_array_contains(){ 
@@ -192,6 +197,7 @@ fun_updatelibs(){
 }
 
 fun_updatewww(){
+	return
 	if [ "$1" != "updatewww" ]; then
 		branch_name=$1
 	fi
@@ -216,7 +222,7 @@ fun_callbat(){
 	local batdir=`dirname $1`
 	local batname=`basename $1`
 	cd ${batdir}
-	./$batname
+	$batname
 }
 
 #切分支+合并+编译
@@ -229,12 +235,12 @@ fun_merge(){
 		git stash && git checkout $2 
 		
 		if [[ "$params" == *-local* ]]; then
-			git pull
+			git fetch
 		else
 			git pull --rebase
 		fi
 		
-		git merge origin/$3 --no-commit
+		git merge origin/$3 -m"merge origin/$3"
 		conflictRefs=`git diff --name-only --diff-filter=U`
 		if [ -n "$conflictRefs" ]; then
     		echo -e "\e[1;31m [合并冲突]${conflictRefs}\e[0m"
@@ -260,7 +266,14 @@ fun_merge(){
 		echo -e "\e[1;36m merge>>>>>>>>>>>>>>>>>>`pwd`\e[0m"
 		git checkout .
 		git checkout .
-		git clean -fd && git checkout $2 && git pull && git merge origin/$3
+		git clean -fd && git checkout $2
+		
+		if [[ "$params" == *-local* ]]; then
+			git fetch
+		else
+			git pull
+		fi
+		git merge origin/$3 -m"merge origin/$3"
 		
 		conflictRefs=`git diff --name-only --diff-filter=U`
 		if [ -n "$conflictRefs" ]; then
@@ -271,6 +284,11 @@ fun_merge(){
 		if [[ "$params" == *-push* ]]; then
 			git push
 		fi
+
+		if [[ "$params" == *-build* ]]; then
+			# fun_build_common
+			gulp --env rebuild
+		fi
 	fi
 }
 
@@ -280,54 +298,78 @@ fun_create(){
 	for dir in ${NORMAL_DIRS[@]}; do
 		cd $dir
 		echo -e "\e[1;36m >>>>>>>>>>>>>>>>>>`pwd`\e[0m"
-		git stash && git checkout -b $2 origin/$3 
+		git stash
+		git fetch
 		if [[ "$params" == *-push* ]]; then
+			git checkout -b $2 origin/$3
 			git push --set-upstream origin $2 
+		else
+			git checkout $3
+			git checkout -b $2
 		fi
 		git stash pop
 	done
+
 	fun_updatelibs
-	git checkout -b $2 origin/$3 
-	
 	if [[ "$params" == *-push* ]]; then
+		git checkout -b $2 origin/$3 
 		git push --set-upstream origin $2
+	else
+		git checkout $3
+		git checkout -b $2
 	fi
 
 	fun_updatewww
-	
 	fun_save_www_temp_files
 
-	git checkout .
-	git checkout -b $2 origin/$3
-	
 	if [[ "$params" == *-push* ]]; then
+		git checkout -b $2 origin/$3 
 		git push --set-upstream origin $2
+	else
+		git checkout $3
+		git checkout -b $2
 	fi
 	
 	fun_restore_www_temp_files
 }
-
+#查看当前分支情况
+fun_submod(){
+	local gcmd=$2
+	git $gcmd
+	git submodule foreach "git $gcmd"
+}
+#重置所有分支
+fun_restall(){
+	local branch=$2
+	git submodule foreach "git clean -fd && git reset HEAD --hard && git fetch && git checkout $branch && git pull --rebase"
+}
 ## 命令行帮助
 fun_help(){
-	echo -e "\e[1;31m######################帮助说明#####################\e[0m"
-	echo -e "\e[1;31m[]表示必选参数\e[0m"
-	echo -e "\e[1;31m<>表示可选参数\e[0m"
-	echo -e "\e[1;31m######################帮助说明#####################\e[0m"
-    echo -e "\e[33mbuild [branch_id] <-n|-r|-onlyupdate>          全部编译[默认编译framework/domain/base库]\e[0m
+	echo -e "\e[1;31m######################帮助说明######################\e[0m"
+	echo -e "\e[1;31m#                  []表示必选参数                  #\e[0m"
+	echo -e "\e[1;31m#                  <>表示可选参数                  #\e[0m"
+	echo -e "\e[1;31m######################帮助说明######################\e[0m"
+    echo -e "\e[33mbuild [branch_id] <options>                        全部编译[默认编译framework/domain/base库]\e[0m
 -n:执行gulp编译
 -r:执行gulp rebuild编译
 -onlyupdate:只更新库不编译
 	"
-	echo -e "\e[33mmerge [merge branch_id] [from branch_id] <-local|-nopush> 全部合并[默认只合并]\e[0m
+	echo -e "\e[33mmerge [merge branch_id] [from branch_id] <options> 全部合并[默认只合并]\e[0m
 -push:合并完push到远程分支
 -local:合并分支是本地分支没有远程分支
+-build:合并完自动编译
 	"
-    echo -e "\e[33mcreate [new branch_id] [from branch_id]          全部创建[默认只创建]\e[0m
+    echo -e "\e[33mcreate [new branch_id] [from branch_id] <options>  全部创建[默认只创建]\e[0m
 -push:创建完push到远程分支
 	"
     echo -e "\e[33mupdatewww [branch_id]              更新www[重置当前并拉取最新;保留prams_pre/test配置]\e[0m
 	"
     echo -e "\e[33mupdatelibs [branch_id]             更新libs[重置当前并拉取最新]\e[0m
+	"
+    echo -e "\e[33msubmod [cmd]                       查看当前git库情况\e[0m
+cmd:执行git的命令
+	"
+    echo -e "\e[33mrestall                            重置所有git库并拉取到最新(会删除未提交的文件)\e[0m
 	"
 }
 
